@@ -19,21 +19,22 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(body)
 
+    def _send_html(self, body):
+        data = body.encode("utf-8")
+        self.send_response(200)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", str(len(data)))
+        self.end_headers()
+        self.wfile.write(data)
+
     def do_GET(self):
         parsed = urlparse(self.path)
         path = parsed.path
         query = parse_qs(parsed.query)
 
-        if path == "/":
-            self._send(200, {
-                "name": "Polish Vocabulary API",
-                "total_words": len(WORDS),
-                "endpoints": [
-                    "GET /words",
-                    "GET /words?q=<search>",
-                    "GET /words/<id>",
-                ],
-            })
+        if path in ("/", "/index.html"):
+            with open(os.path.join(BASE_DIR, "index.html"), encoding="utf-8") as f:
+                self._send_html(f.read())
         elif path == "/words":
             q = (query.get("q", [""])[0]).lower()
             if q:

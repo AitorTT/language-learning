@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Polish Vocabulary Flashcards</title>
+<style>
+  :root {
+    --bg-1: #667eea;
+    --bg-2: #764ba2;
+    --card: #ffffff;
+    --text: #2d2a3d;
+    --muted: #8a869c;
+    --shadow: 0 20px 60px rgba(30, 20, 60, 0.25);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+    background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 16px;
+    color: var(--text);
+  }
+
+  h1 {
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin: 0 0 4px;
+    font-size: 28px;
+  }
+
+  .subtitle {
+    color: rgba(255, 255, 255, 0.85);
+    margin: 0 0 24px;
+    font-size: 14px;
+  }
+
+  .toolbar {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 24px;
+  }
+
+  #search {
+    padding: 12px 16px;
+    border: none;
+    border-radius: 999px;
+    font-size: 15px;
+    width: 260px;
+    outline: none;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  }
+
+  button {
+    padding: 12px 18px;
+    border: none;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    background: #fff;
+    color: var(--text);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.1s ease, box-shadow 0.1s ease;
+  }
+
+  button:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2); }
+  button:active { transform: translateY(0); }
+
+  .counter {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 13px;
+    margin-bottom: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .card-wrap {
+    perspective: 1200px;
+    width: 100%;
+    max-width: 420px;
+    height: 260px;
+    cursor: pointer;
+  }
+
+  .card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.6s cubic-bezier(0.4, 0.2, 0.2, 1);
+  }
+
+  .card.flipped { transform: rotateY(180deg); }
+
+  .face {
+    position: absolute;
+    inset: 0;
+    border-radius: 20px;
+    background: var(--card);
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    text-align: center;
+  }
+
+  .face.back { transform: rotateY(180deg); }
+
+  .word {
+    font-size: 40px;
+    font-weight: 800;
+    margin: 8px 0;
+    word-break: break-word;
+  }
+
+  .hint {
+    color: var(--muted);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 5px 14px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  .trans {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  .trans .lang {
+    display: block;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--muted);
+    margin-bottom: 2px;
+  }
+
+  .nav {
+    display: flex;
+    gap: 12px;
+    margin-top: 24px;
+    align-items: center;
+  }
+
+  .nav button {
+    min-width: 96px;
+  }
+
+  .empty {
+    color: #fff;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+  <h1>Polish Flashcards</h1>
+  <p class="subtitle">Tap the card to flip · use ← → keys to navigate</p>
+
+  <div class="toolbar">
+    <input id="search" type="text" placeholder="Search Polish, English or Spanish…" />
+    <button id="shuffle">Shuffle</button>
+  </div>
+
+  <div class="counter" id="counter"></div>
+
+  <div class="card-wrap" id="cardWrap">
+    <div class="card" id="card">
+      <div class="face front" id="front"></div>
+      <div class="face back" id="back"></div>
+    </div>
+  </div>
+
+  <div class="nav">
+    <button id="prev">← Prev</button>
+    <button id="next">Next →</button>
+  </div>
+
+  <div class="empty" id="empty" style="display:none">No words match your search.</div>
+
+  <script>
+    const CATEGORY_COLORS = {
+      greetings: "#4f8ff7",
+      phrases: "#34c38f",
+      numbers: "#9b59b6",
+      nouns: "#f39c12",
+      verbs: "#e74c3c",
+      adjectives: "#1abc9c",
+    };
+
+    let words = [];
+    let filtered = [];
+    let index = 0;
+
+    const card = document.getElementById("card");
+    const front = document.getElementById("front");
+    const back = document.getElementById("back");
+    const counter = document.getElementById("counter");
+    const empty = document.getElementById("empty");
+    const cardWrap = document.getElementById("cardWrap");
+
+    function colorFor(category) {
+      return CATEGORY_COLORS[category] || "#607d8b";
+    }
+
+    function render() {
+      card.classList.remove("flipped");
+      if (!filtered.length) {
+        empty.style.display = "block";
+        cardWrap.style.display = "none";
+        counter.textContent = "";
+        return;
+      }
+      empty.style.display = "none";
+      cardWrap.style.display = "block";
+      const w = filtered[index];
+
+      front.innerHTML = `
+        <span class="badge" style="background:${colorFor(w.category)}">${w.category}</span>
+        <div class="hint">Polish</div>
+        <div class="word">${w.polish}</div>`;
+
+      back.innerHTML = `
+        <span class="badge" style="background:${colorFor(w.category)}">${w.category}</span>
+        <div class="trans">
+          <span class="lang">English</span>${w.english}
+          <span class="lang" style="margin-top:14px">Español</span>${w.spanish}
+        </div>`;
+
+      counter.textContent = `${index + 1} / ${filtered.length}`;
+    }
+
+    function go(delta) {
+      if (!filtered.length) return;
+      index = (index + delta + filtered.length) % filtered.length;
+      render();
+    }
+
+    function shuffle(arr) {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    card.addEventListener("click", () => card.classList.toggle("flipped"));
+    document.getElementById("next").addEventListener("click", () => go(1));
+    document.getElementById("prev").addEventListener("click", () => go(-1));
+    document.getElementById("shuffle").addEventListener("click", () => {
+      filtered = shuffle(filtered);
+      index = 0;
+      render();
+    });
+
+    document.getElementById("search").addEventListener("input", (e) => {
+      const q = e.target.value.trim().toLowerCase();
+      filtered = q
+        ? words.filter((w) =>
+            [w.polish, w.english, w.spanish].some((s) => s.toLowerCase().includes(q))
+          )
+        : words.slice();
+      index = 0;
+      render();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowRight") go(1);
+      else if (e.key === "ArrowLeft") go(-1);
+      else if (e.key === " " || e.key === "Enter") {
+        e.preventDefault();
+        card.classList.toggle("flipped");
+      }
+    });
+
+    fetch("/words")
+      .then((r) => r.json())
+      .then((data) => {
+        words = data;
+        filtered = data.slice();
+        render();
+      })
+      .catch(() => {
+        front.innerHTML = `<div class="word" style="font-size:20px">Could not load vocabulary.</div>`;
+      });
+  </script>
+</body>
+</html>
