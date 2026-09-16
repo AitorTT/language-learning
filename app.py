@@ -9,6 +9,25 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LEVELS = ["A1", "A2", "B1", "B2"]
 NOTES_FILE = os.path.join(BASE_DIR, "notes.json")
 WRITE_PASSWORD = os.environ.get("WRITE_PASSWORD", "")
+REDIS_URL = os.environ.get("UPSTASH_REDIS_URL", "")
+NOTES_KEY = "pv:notes"
+
+try:
+    import redis
+except ImportError:
+    redis = None
+
+_redis_client = None
+
+
+def _get_redis():
+    global _redis_client
+    if _redis_client is None and REDIS_URL and redis is not None:
+        url = REDIS_URL
+        if url.startswith("redis://"):
+            url = "rediss://" + url[len("redis://"):]
+        _redis_client = redis.from_url(url, decode_responses=True, socket_timeout=15)
+    return _redis_client
 
 
 def _load(name):
@@ -17,6 +36,13 @@ def _load(name):
 
 
 def _load_notes():
+    client = _get_redis()
+    if client is not None:
+        try:
+            raw = client.get(NOTES_KEY)
+            return json.loads(raw) if raw else []
+        except Exception:
+            return []
     if os.path.exists(NOTES_FILE):
         try:
             with open(NOTES_FILE, encoding="utf-8") as f:
@@ -27,6 +53,10 @@ def _load_notes():
 
 
 def _save_notes(notes):
+    client = _get_redis()
+    if client is not None:
+        client.set(NOTES_KEY, json.dumps(notes, ensure_ascii=False))
+        return
     with open(NOTES_FILE, "w", encoding="utf-8") as f:
         json.dump(notes, f, ensure_ascii=False, indent=2)
 

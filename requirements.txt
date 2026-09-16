@@ -1,1 +1,2 @@
-# No external dependencies — uses only the Python standard library.
+# No external dependencies except the Redis client for note storage.
+redis>=5.0
