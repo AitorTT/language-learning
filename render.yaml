@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: polish-vocabulary
+    runtime: python
+    plan: free
+    buildCommand: ""
+    startCommand: python app.py
