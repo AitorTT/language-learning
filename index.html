@@ -156,6 +156,18 @@
   table.grid tr td:first-child { font-weight: 700; }
 
   .empty { color: #fff; text-align: center; margin-top: 20px; font-size: 15px; }
+
+  .textinput {
+    width: 100%; padding: 12px 14px; border: 1px solid #ddd; border-radius: 12px;
+    font-size: 15px; font-family: inherit; margin-bottom: 12px; outline: none; color: var(--text);
+  }
+  .textinput:focus { border-color: var(--accent); }
+  textarea.textinput { resize: vertical; line-height: 1.6; }
+  #writeLocked .textinput { max-width: 260px; margin: 0 auto 12px; }
+  .note-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+  .note-date { color: var(--muted); font-size: 12px; white-space: nowrap; }
+  .note-content { white-space: pre-wrap; line-height: 1.65; margin: 8px 0 0; }
+  button.danger { background: #fdeaea; color: var(--bad); }
 </style>
 </head>
 <body>
@@ -178,6 +190,7 @@
     <button data-tab="texts">Texts</button>
     <button data-tab="exercises">Exercises</button>
     <button data-tab="grammar">Grammar</button>
+    <button data-tab="writing">Writing</button>
   </div>
 
   <section class="panel active" id="panel-flashcards">
@@ -213,6 +226,31 @@
   </section>
 
   <section class="panel" id="panel-grammar"></section>
+
+  <section class="panel" id="panel-writing">
+    <div id="writeLocked" class="block" style="text-align:center">
+      <h3>Your notes</h3>
+      <p style="color:var(--muted);margin:0 0 14px">Enter the password to read and save your writing.</p>
+      <input id="pwInput" type="password" placeholder="Password" class="textinput" />
+      <div class="row-actions">
+        <button class="pill" id="pwUnlock">Unlock</button>
+      </div>
+      <div class="score" id="pwError"></div>
+    </div>
+
+    <div id="writeApp" style="display:none">
+      <div class="block">
+        <input id="noteTitle" class="textinput" placeholder="Title (optional)" />
+        <textarea id="noteContent" class="textinput" rows="8" placeholder="Write in Polish here…"></textarea>
+        <div class="row-actions">
+          <button class="pill" id="noteSave">Save</button>
+          <button class="pill" id="noteLock">Lock</button>
+        </div>
+        <div class="score" id="noteMsg"></div>
+      </div>
+      <div id="notesList"></div>
+    </div>
+  </section>
 </div>
 
 <script>
@@ -234,6 +272,10 @@
   let txtExpanded = {};
   let exList = [], exIndex = 0, exAnswers = [], exSelected = null, exChecked = false, exShowTr = false;
   let gList = [];
+
+  let writePw = "", notesCache = [];
+  const NOTES_KEY = "pv_notes";
+  const DRAFT_KEY = "pv_draft";
 
   function colorFor(cat) { return CATEGORY_COLORS[cat] || "#607d8b"; }
   function shuffle(a) {
@@ -454,6 +496,101 @@
       </div>`).join("");
   }
 
+  /* ---------- Writing ---------- */
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+  function formatDate(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    return isNaN(d) ? "" : d.toLocaleString();
+  }
+  function cacheNotes() {
+    try { localStorage.setItem(NOTES_KEY, JSON.stringify(notesCache)); } catch (e) {}
+  }
+  function loadCachedNotes() {
+    try { notesCache = JSON.parse(localStorage.getItem(NOTES_KEY) || "[]"); } catch (e) { notesCache = []; }
+  }
+  function renderNotes() {
+    const el = document.getElementById("notesList");
+    if (!notesCache.length) { el.innerHTML = ""; return; }
+    el.innerHTML = notesCache.map(n => `
+      <div class="block">
+        <div class="note-head">
+          <h3 style="margin:0">${escapeHtml(n.title)}</h3>
+          <span class="note-date">${formatDate(n.created)}</span>
+        </div>
+        <p class="note-content">${escapeHtml(n.content)}</p>
+        <div class="row-actions" style="justify-content:flex-start;margin-top:10px">
+          <button class="pill danger" data-del="${n.id}">Delete</button>
+        </div>
+      </div>`).join("");
+  }
+  function renderWriting() {
+    document.getElementById("writeLocked").style.display = writePw ? "none" : "block";
+    document.getElementById("writeApp").style.display = writePw ? "block" : "none";
+  }
+  function unlockWriting() {
+    const pw = document.getElementById("pwInput").value;
+    const err = document.getElementById("pwError");
+    if (!pw) { err.textContent = "Enter the password."; return; }
+    err.textContent = "Checking…";
+    fetch("/notes", { headers: { "X-Password": pw } }).then(r => {
+      if (r.status === 401) { err.textContent = "Wrong password."; throw new Error("401"); }
+      if (!r.ok) { err.textContent = "Saving is not available."; throw new Error("bad"); }
+      return r.json();
+    }).then(serverNotes => {
+      writePw = pw;
+      loadCachedNotes();
+      if (serverNotes.length) { notesCache = serverNotes; cacheNotes(); }
+      const draft = localStorage.getItem(DRAFT_KEY);
+      if (draft) document.getElementById("noteContent").value = draft;
+      err.textContent = "";
+      renderNotes();
+      renderWriting();
+    }).catch(() => {});
+  }
+  function lockWriting() {
+    writePw = "";
+    document.getElementById("pwInput").value = "";
+    renderWriting();
+  }
+  function saveNote() {
+    const content = document.getElementById("noteContent").value.trim();
+    const title = document.getElementById("noteTitle").value.trim();
+    const msg = document.getElementById("noteMsg");
+    if (!content) { msg.textContent = "Nothing to save."; msg.className = "score bad"; return; }
+    msg.textContent = "Saving…"; msg.className = "score";
+    fetch("/notes", {
+      method: "POST",
+      headers: { "X-Password": writePw, "Content-Type": "application/json" },
+      body: JSON.stringify({ title, content })
+    }).then(r => {
+      if (r.status === 401) { lockWriting(); throw new Error("401"); }
+      if (!r.ok) throw new Error("bad");
+      return r.json();
+    }).then(note => {
+      notesCache = [note, ...notesCache];
+      cacheNotes();
+      renderNotes();
+      document.getElementById("noteContent").value = "";
+      document.getElementById("noteTitle").value = "";
+      localStorage.removeItem(DRAFT_KEY);
+      msg.textContent = "Saved"; msg.className = "score good";
+    }).catch(() => {
+      if (msg.textContent === "Saving…") { msg.textContent = "Could not save."; msg.className = "score bad"; }
+    });
+  }
+  function deleteNote(id) {
+    fetch("/notes/" + encodeURIComponent(id), { method: "DELETE", headers: { "X-Password": writePw } })
+      .catch(() => {})
+      .then(() => {
+        notesCache = notesCache.filter(n => String(n.id) !== String(id));
+        cacheNotes();
+        renderNotes();
+      });
+  }
+
   /* ---------- Tabs & levels ---------- */
   function setTab(t) {
     tab = t;
@@ -473,6 +610,7 @@
     else if (tab === "texts") renderTexts();
     else if (tab === "exercises") renderExercises();
     else if (tab === "grammar") renderGrammar();
+    else if (tab === "writing") renderWriting();
   }
 
   /* ---------- Events ---------- */
@@ -499,6 +637,21 @@
 
   document.getElementById("exCheck").addEventListener("click", checkExercise);
   document.getElementById("exTr").addEventListener("click", () => { exShowTr = !exShowTr; applyTranslations(); });
+
+  document.getElementById("pwUnlock").addEventListener("click", unlockWriting);
+  document.getElementById("pwInput").addEventListener("keydown", (e) => { if (e.key === "Enter") unlockWriting(); });
+  document.getElementById("noteSave").addEventListener("click", saveNote);
+  document.getElementById("noteLock").addEventListener("click", lockWriting);
+  document.getElementById("noteContent").addEventListener("input", (e) => {
+    try { localStorage.setItem(DRAFT_KEY, e.target.value); } catch (err) {}
+  });
+  document.getElementById("noteContent").addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === "Enter") saveNote();
+  });
+  document.getElementById("notesList").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-del]");
+    if (b) deleteNote(b.dataset.del);
+  });
   document.getElementById("exNext").addEventListener("click", () => { if (exList.length) { exIndex = (exIndex + 1) % exList.length; renderExercises(); } });
   document.getElementById("exPrev").addEventListener("click", () => { if (exList.length) { exIndex = (exIndex - 1 + exList.length) % exList.length; renderExercises(); } });
 

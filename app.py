@@ -1,15 +1,34 @@
+import datetime
 import json
 import os
+import time
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import urlparse, parse_qs
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LEVELS = ["A1", "A2", "B1", "B2"]
+NOTES_FILE = os.path.join(BASE_DIR, "notes.json")
+WRITE_PASSWORD = os.environ.get("WRITE_PASSWORD", "")
 
 
 def _load(name):
     with open(os.path.join(BASE_DIR, name), encoding="utf-8") as f:
         return json.load(f)
+
+
+def _load_notes():
+    if os.path.exists(NOTES_FILE):
+        try:
+            with open(NOTES_FILE, encoding="utf-8") as f:
+                return json.load(f)
+        except (ValueError, OSError):
+            return []
+    return []
+
+
+def _save_notes(notes):
+    with open(NOTES_FILE, "w", encoding="utf-8") as f:
+        json.dump(notes, f, ensure_ascii=False, indent=2)
 
 
 WORDS = _load("vocabulary.json")
@@ -42,6 +61,17 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(data)
 
+    def _authorized(self):
+        return bool(WRITE_PASSWORD) and self.headers.get("X-Password") == WRITE_PASSWORD
+
+    def _read_body(self):
+        length = int(self.headers.get("Content-Length", 0) or 0)
+        raw = self.rfile.read(length) if length else b""
+        try:
+            return json.loads(raw) if raw else {}
+        except ValueError:
+            return None
+
     def do_GET(self):
         parsed = urlparse(self.path)
         path = parsed.path
@@ -70,6 +100,13 @@ class Handler(BaseHTTPRequestHandler):
             self._send_json(200, _by_level(EXERCISES, level))
         elif path == "/grammar":
             self._send_json(200, _by_level(GRAMMAR, level))
+        elif path == "/notes":
+            if not WRITE_PASSWORD:
+                self._send_json(503, {"error": "saving is not configured"})
+            elif not self._authorized():
+                self._send_json(401, {"error": "unauthorized"})
+            else:
+                self._send_json(200, list(reversed(_load_notes())))
         else:
             parts = [p for p in path.split("/") if p]
             if len(parts) == 2 and parts[0] == "words":
@@ -78,6 +115,51 @@ class Handler(BaseHTTPRequestHandler):
                         self._send_json(200, w)
                         return
             self._send_json(404, {"error": "not found"})
+
+    def do_POST(self):
+        parsed = urlparse(self.path)
+        if parsed.path != "/notes":
+            self._send_json(404, {"error": "not found"})
+            return
+        if not WRITE_PASSWORD:
+            self._send_json(503, {"error": "saving is not configured"})
+            return
+        if not self._authorized():
+            self._send_json(401, {"error": "unauthorized"})
+            return
+        data = self._read_body()
+        if data is None:
+            self._send_json(400, {"error": "invalid json"})
+            return
+        content = (data.get("content") or "").strip()
+        if not content:
+            self._send_json(400, {"error": "content is required"})
+            return
+        title = (data.get("title") or "").strip() or "Untitled"
+        notes = _load_notes()
+        note = {
+            "id": str(int(time.time() * 1000)),
+            "title": title,
+            "content": content,
+            "created": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+        }
+        notes.append(note)
+        _save_notes(notes)
+        self._send_json(201, note)
+
+    def do_DELETE(self):
+        parsed = urlparse(self.path)
+        parts = [p for p in parsed.path.split("/") if p]
+        if not (len(parts) == 2 and parts[0] == "notes"):
+            self._send_json(404, {"error": "not found"})
+            return
+        if not self._authorized():
+            self._send_json(401, {"error": "unauthorized"})
+            return
+        notes = _load_notes()
+        remaining = [n for n in notes if str(n["id"]) != parts[1]]
+        _save_notes(remaining)
+        self._send_json(200, {"deleted": len(notes) - len(remaining)})
 
     def log_message(self, *args):
         pass
