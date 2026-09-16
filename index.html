@@ -135,6 +135,9 @@
   .chip.selected { outline: 3px solid var(--good); transform: scale(1.05); }
   .chip.dragging { opacity: 0.5; }
   .sentence { font-size: 17px; line-height: 2.2; margin: 10px 0; }
+  .tr-line { display: none; color: #6b6880; font-size: 13px; line-height: 1.5; margin: -8px 0 14px; }
+  .tr-line.show { display: block; }
+  .tr-line .l { font-weight: 700; color: var(--accent); }
   .blank {
     display: inline-block; min-width: 92px; padding: 4px 12px; margin: 0 4px; border-radius: 10px;
     background: #eef0fb; border: 2px dashed #c3c7ef; text-align: center; font-weight: 700; cursor: pointer;
@@ -203,6 +206,7 @@
     <div class="row-actions">
       <button class="pill" id="exPrev">← Prev</button>
       <button class="pill" id="exCheck">Check</button>
+      <button class="pill" id="exTr">Translations</button>
       <button class="pill" id="exNext">Next →</button>
     </div>
     <div class="score" id="exScore"></div>
@@ -228,7 +232,7 @@
 
   let fcWords = [], fcIndex = 0;
   let txtExpanded = {};
-  let exList = [], exIndex = 0, exAnswers = [], exSelected = null, exChecked = false;
+  let exList = [], exIndex = 0, exAnswers = [], exSelected = null, exChecked = false, exShowTr = false;
   let gList = [];
 
   function colorFor(cat) { return CATEGORY_COLORS[cat] || "#607d8b"; }
@@ -331,11 +335,17 @@
         <div id="sentences">
           ${ex.items.map((it, i) => {
             const [before, after] = it.sentence.split("___");
-            return `<div class="sentence">${before}<span class="blank" data-i="${i}">···</span>${after || ""}</div>`;
+            return `<div class="sentence">${before}<span class="blank" data-i="${i}">···</span>${after || ""}</div>
+              <div class="tr-line" data-tr="${i}"><span class="l">EN</span> ${it.translation_en || ""}<br><span class="l">ES</span> ${it.translation_es || ""}</div>`;
           }).join("")}
         </div>
       </div>`;
     attachExerciseEvents();
+    applyTranslations();
+  }
+
+  function applyTranslations() {
+    document.querySelectorAll(".tr-line").forEach(el => el.classList.toggle("show", exShowTr));
   }
 
   function attachExerciseEvents() {
@@ -424,6 +434,8 @@
     const score = document.getElementById("exScore");
     score.textContent = `${correct} / ${ex.items.length} correct`;
     score.className = "score " + (correct === ex.items.length ? "good" : "bad");
+    exShowTr = true;
+    applyTranslations();
   }
 
   /* ---------- Grammar ---------- */
@@ -486,6 +498,7 @@
   });
 
   document.getElementById("exCheck").addEventListener("click", checkExercise);
+  document.getElementById("exTr").addEventListener("click", () => { exShowTr = !exShowTr; applyTranslations(); });
   document.getElementById("exNext").addEventListener("click", () => { if (exList.length) { exIndex = (exIndex + 1) % exList.length; renderExercises(); } });
   document.getElementById("exPrev").addEventListener("click", () => { if (exList.length) { exIndex = (exIndex - 1 + exList.length) % exList.length; renderExercises(); } });
 

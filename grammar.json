@@ -86,6 +86,30 @@
   },
   {
     "id": 6,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "Basic cardinal numbers.",
+    "columns": ["Number", "Polish", "English", "Spanish"],
+    "rows": [
+      ["0", "zero", "zero", "cero"],
+      ["1", "jeden", "one", "uno"],
+      ["2", "dwa", "two", "dos"],
+      ["3", "trzy", "three", "tres"],
+      ["4", "cztery", "four", "cuatro"],
+      ["5", "pięć", "five", "cinco"],
+      ["6", "sześć", "six", "seis"],
+      ["7", "siedem", "seven", "siete"],
+      ["8", "osiem", "eight", "ocho"],
+      ["9", "dziewięć", "nine", "nueve"],
+      ["10", "dziesięć", "ten", "diez"],
+      ["11", "jedenaście", "eleven", "once"],
+      ["12", "dwanaście", "twelve", "doce"],
+      ["15", "piętnaście", "fifteen", "quince"],
+      ["20", "dwadzieścia", "twenty", "veinte"]
+    ]
+  },
+  {
+    "id": 7,
     "level": "A2",
     "title": "Present tense: three conjugation groups",
     "description": "Most verbs follow one of these patterns.",
@@ -100,7 +124,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "level": "A2",
     "title": "Question words",
     "description": "Question words start most questions.",
@@ -117,7 +141,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "level": "A2",
     "title": "Noun cases: singular endings",
     "description": "Polish nouns decline in seven cases. Overview of singular endings.",
@@ -133,7 +157,25 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
+    "level": "A2",
+    "title": "Prepositions of place",
+    "description": "Common prepositions and the case they take.",
+    "columns": ["Preposition", "Case", "Example", "English", "Spanish"],
+    "rows": [
+      ["w", "locative", "w domu", "in the house", "en casa"],
+      ["na", "locative", "na stole", "on the table", "sobre la mesa"],
+      ["pod", "instrumental", "pod stołem", "under the table", "debajo de la mesa"],
+      ["nad", "instrumental", "nad jeziorem", "above the lake", "sobre el lago"],
+      ["przy", "locative", "przy oknie", "by the window", "junto a la ventana"],
+      ["między", "instrumental", "między nami", "between us", "entre nosotros"],
+      ["obok", "genitive", "obok sklepu", "next to the shop", "junto a la tienda"],
+      ["przed", "instrumental", "przed domem", "in front of the house", "delante de la casa"],
+      ["za", "instrumental", "za drzwiami", "behind the door", "detrás de la puerta"]
+    ]
+  },
+  {
+    "id": 11,
     "level": "B1",
     "title": "Past tense: być (to be)",
     "description": "The past tense agrees in gender and number.",
@@ -148,47 +190,107 @@
     ]
   },
   {
-    "id": 10,
+    "id": 12,
     "level": "B1",
     "title": "Comparatives and superlatives",
     "description": "Some common adjectives are irregular.",
-    "columns": ["Positive", "Comparative", "Superlative", "English"],
+    "columns": ["Positive", "Comparative", "Superlative", "English", "Spanish"],
     "rows": [
-      ["dobry", "lepszy", "najlepszy", "good / better / best"],
-      ["zły", "gorszy", "najgorszy", "bad / worse / worst"],
-      ["duży", "większy", "największy", "big / bigger / biggest"],
-      ["mały", "mniejszy", "najmniejszy", "small / smaller / smallest"],
-      ["wysoki", "wyższy", "najwyższy", "tall / taller / tallest"]
+      ["dobry", "lepszy", "najlepszy", "good / better / best", "bueno / mejor / el mejor"],
+      ["zły", "gorszy", "najgorszy", "bad / worse / worst", "malo / peor / el peor"],
+      ["duży", "większy", "największy", "big / bigger / biggest", "grande / mayor / el mayor"],
+      ["mały", "mniejszy", "najmniejszy", "small / smaller / smallest", "pequeño / menor / el menor"],
+      ["wysoki", "wyższy", "najwyższy", "tall / taller / tallest", "alto / más alto / el más alto"]
     ]
   },
   {
-    "id": 11,
+    "id": 13,
+    "level": "B1",
+    "title": "Verb aspect: imperfective / perfective",
+    "description": "Polish verbs come in aspect pairs.",
+    "columns": ["Imperfective", "Perfective", "English", "Spanish"],
+    "rows": [
+      ["robić", "zrobić", "to do", "hacer"],
+      ["pisać", "napisać", "to write", "escribir"],
+      ["czytać", "przeczytać", "to read", "leer"],
+      ["kupować", "kupić", "to buy", "comprar"],
+      ["jeść", "zjeść", "to eat", "comer"],
+      ["pić", "wypić", "to drink", "beber"]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "Reflexive verbs (się)",
+    "description": "Verbs that are used with the particle 'się'.",
+    "columns": ["Polish", "English", "Spanish"],
+    "rows": [
+      ["nazywać się", "to be called", "llamarse"],
+      ["uczyć się", "to learn", "aprender"],
+      ["bawić się", "to play / have fun", "divertirse"],
+      ["myć się", "to wash oneself", "lavarse"],
+      ["czuć się", "to feel", "sentirse"],
+      ["spotykać się", "to meet", "reunirse"]
+    ]
+  },
+  {
+    "id": 15,
     "level": "B2",
     "title": "Future tense (imperfective): będę + infinitive",
     "description": "Form the future by conjugating 'być' and adding the infinitive.",
-    "columns": ["Person", "Polish", "English"],
+    "columns": ["Person", "Polish", "English", "Spanish"],
     "rows": [
-      ["ja", "będę czytać", "I will read"],
-      ["ty", "będziesz czytać", "you will read"],
-      ["on / ona / ono", "będzie czytać", "he / she / it will read"],
-      ["my", "będziemy czytać", "we will read"],
-      ["wy", "będziecie czytać", "you (pl.) will read"],
-      ["oni / one", "będą czytać", "they will read"]
+      ["ja", "będę czytać", "I will read", "leeré"],
+      ["ty", "będziesz czytać", "you will read", "leerás"],
+      ["on / ona / ono", "będzie czytać", "he / she / it will read", "leerá"],
+      ["my", "będziemy czytać", "we will read", "leeremos"],
+      ["wy", "będziecie czytać", "you (pl.) will read", "leeréis"],
+      ["oni / one", "będą czytać", "they will read", "leerán"]
     ]
   },
   {
-    "id": 12,
+    "id": 16,
     "level": "B2",
     "title": "Conditional mood (być)",
     "description": "The conditional is built with the past stem + -by-.",
-    "columns": ["Person", "Polish", "English"],
+    "columns": ["Person", "Polish", "English", "Spanish"],
     "rows": [
-      ["ja", "byłbym / byłabym", "I would be"],
-      ["ty", "byłbyś / byłabyś", "you would be"],
-      ["on / ona / ono", "byłby / byłaby / byłoby", "he / she / it would be"],
-      ["my", "bylibyśmy / byłybyśmy", "we would be"],
-      ["wy", "bylibyście / byłybyście", "you (pl.) would be"],
-      ["oni / one", "byliby / byłyby", "they would be"]
+      ["ja", "byłbym / byłabym", "I would be", "sería / estaría"],
+      ["ty", "byłbyś / byłabyś", "you would be", "serías / estarías"],
+      ["on / ona / ono", "byłby / byłaby / byłoby", "he / she / it would be", "sería / estaría"],
+      ["my", "bylibyśmy / byłybyśmy", "we would be", "seríamos / estaríamos"],
+      ["wy", "bylibyście / byłybyście", "you (pl.) would be", "seríais / estaríais"],
+      ["oni / one", "byliby / byłyby", "they would be", "serían / estarían"]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "title": "Passive voice",
+    "description": "Passive constructions with być / zostać + participle.",
+    "columns": ["Active", "Passive", "English", "Spanish"],
+    "rows": [
+      ["On czyta książkę.", "Książka jest czytana.", "The book is being read.", "El libro es leído."],
+      ["Oni budują dom.", "Dom jest budowany.", "The house is being built.", "La casa está siendo construida."],
+      ["Ktoś ukradł samochód.", "Samochód został skradziony.", "The car was stolen.", "El coche fue robado."],
+      ["Firma podpisała umowę.", "Umowa została podpisana.", "The contract was signed.", "El contrato fue firmado."]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "title": "Complex conjunctions",
+    "description": "Linking words for more advanced sentences.",
+    "columns": ["Polish", "English", "Spanish"],
+    "rows": [
+      ["chociaż", "although", "aunque"],
+      ["ponieważ", "because", "porque"],
+      ["o ile", "as long as", "siempre que"],
+      ["podczas gdy", "while", "mientras"],
+      ["zanim", "before", "antes de que"],
+      ["dopóki", "until / as long as", "hasta que"],
+      ["mimo że", "even though", "a pesar de que"],
+      ["natomiast", "whereas", "en cambio"]
     ]
   }
 ]
