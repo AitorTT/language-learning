@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Present tense: być (to be)",
+    "description": "The verb 'być' is irregular and essential.",
+    "columns": ["Person", "Polish", "English", "Spanish"],
+    "rows": [
+      ["ja", "jestem", "I am", "yo soy"],
+      ["ty", "jesteś", "you are", "tú eres"],
+      ["on / ona / ono", "jest", "he / she / it is", "él / ella es"],
+      ["my", "jesteśmy", "we are", "nosotros somos"],
+      ["wy", "jesteście", "you (pl.) are", "vosotros sois"],
+      ["oni / one", "są", "they are", "ellos / ellas son"]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Present tense: mieć (to have)",
+    "description": "The verb 'mieć' is irregular.",
+    "columns": ["Person", "Polish", "English", "Spanish"],
+    "rows": [
+      ["ja", "mam", "I have", "yo tengo"],
+      ["ty", "masz", "you have", "tú tienes"],
+      ["on / ona / ono", "ma", "he / she / it has", "él / ella tiene"],
+      ["my", "mamy", "we have", "nosotros tenemos"],
+      ["wy", "macie", "you (pl.) have", "vosotros tenéis"],
+      ["oni / one", "mają", "they have", "ellos / ellas tienen"]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Polish personal pronouns in the nominative case.",
+    "columns": ["English", "Polish", "Spanish"],
+    "rows": [
+      ["I", "ja", "yo"],
+      ["you (sing.)", "ty", "tú"],
+      ["he", "on", "él"],
+      ["she", "ona", "ella"],
+      ["it", "ono", "ello"],
+      ["we", "my", "nosotros / -as"],
+      ["you (pl.)", "wy", "vosotros / -as"],
+      ["they (masc.)", "oni", "ellos"],
+      ["they (fem.)", "one", "ellas"]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are not capitalized in Polish.",
+    "columns": ["Polish", "English", "Spanish"],
+    "rows": [
+      ["poniedziałek", "Monday", "lunes"],
+      ["wtorek", "Tuesday", "martes"],
+      ["środa", "Wednesday", "miércoles"],
+      ["czwartek", "Thursday", "jueves"],
+      ["piątek", "Friday", "viernes"],
+      ["sobota", "Saturday", "sábado"],
+      ["niedziela", "Sunday", "domingo"]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Months of the year",
+    "description": "Months are not capitalized in Polish.",
+    "columns": ["Polish", "English", "Spanish"],
+    "rows": [
+      ["styczeń", "January", "enero"],
+      ["luty", "February", "febrero"],
+      ["marzec", "March", "marzo"],
+      ["kwiecień", "April", "abril"],
+      ["maj", "May", "mayo"],
+      ["czerwiec", "June", "junio"],
+      ["lipiec", "July", "julio"],
+      ["sierpień", "August", "agosto"],
+      ["wrzesień", "September", "septiembre"],
+      ["październik", "October", "octubre"],
+      ["listopad", "November", "noviembre"],
+      ["grudzień", "December", "diciembre"]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A2",
+    "title": "Present tense: three conjugation groups",
+    "description": "Most verbs follow one of these patterns.",
+    "columns": ["Person", "-ać (mieszkać)", "-ić (mówić)", "-eć (rozumieć)"],
+    "rows": [
+      ["ja", "mieszkam", "mówię", "rozumiem"],
+      ["ty", "mieszkasz", "mówisz", "rozumiesz"],
+      ["on / ona / ono", "mieszka", "mówi", "rozumie"],
+      ["my", "mieszkamy", "mówimy", "rozumiemy"],
+      ["wy", "mieszkacie", "mówicie", "rozumiecie"],
+      ["oni / one", "mieszkają", "mówią", "rozumieją"]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "Question words",
+    "description": "Question words start most questions.",
+    "columns": ["Polish", "English", "Spanish"],
+    "rows": [
+      ["kto?", "who?", "¿quién?"],
+      ["co?", "what?", "¿qué?"],
+      ["gdzie?", "where?", "¿dónde?"],
+      ["kiedy?", "when?", "¿cuándo?"],
+      ["dlaczego?", "why?", "¿por qué?"],
+      ["jak?", "how?", "¿cómo?"],
+      ["ile?", "how much / many?", "¿cuánto?"],
+      ["który?", "which?", "¿cuál?"]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "Noun cases: singular endings",
+    "description": "Polish nouns decline in seven cases. Overview of singular endings.",
+    "columns": ["Case", "Masculine", "Feminine", "Neuter"],
+    "rows": [
+      ["Nominative", "—", "-a", "-o / -e"],
+      ["Genitive", "-a / -u", "-y / -i", "-a"],
+      ["Dative", "-owi / -u", "-e / -i", "-u"],
+      ["Accusative", "= nom. / = gen.", "-ę", "= nom."],
+      ["Instrumental", "-em", "-ą", "-em"],
+      ["Locative", "-e / -u", "-e / -i", "-e / -u"],
+      ["Vocative", "-e / -u", "-o / -u", "= nom."]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "B1",
+    "title": "Past tense: być (to be)",
+    "description": "The past tense agrees in gender and number.",
+    "columns": ["Person", "Masculine", "Feminine", "Neuter"],
+    "rows": [
+      ["ja", "byłem", "byłam", "—"],
+      ["ty", "byłeś", "byłaś", "—"],
+      ["on / ona / ono", "był", "była", "było"],
+      ["my", "byliśmy", "byłyśmy", "—"],
+      ["wy", "byliście", "byłyście", "—"],
+      ["oni / one", "byli", "były", "—"]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "B1",
+    "title": "Comparatives and superlatives",
+    "description": "Some common adjectives are irregular.",
+    "columns": ["Positive", "Comparative", "Superlative", "English"],
+    "rows": [
+      ["dobry", "lepszy", "najlepszy", "good / better / best"],
+      ["zły", "gorszy", "najgorszy", "bad / worse / worst"],
+      ["duży", "większy", "największy", "big / bigger / biggest"],
+      ["mały", "mniejszy", "najmniejszy", "small / smaller / smallest"],
+      ["wysoki", "wyższy", "najwyższy", "tall / taller / tallest"]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B2",
+    "title": "Future tense (imperfective): będę + infinitive",
+    "description": "Form the future by conjugating 'być' and adding the infinitive.",
+    "columns": ["Person", "Polish", "English"],
+    "rows": [
+      ["ja", "będę czytać", "I will read"],
+      ["ty", "będziesz czytać", "you will read"],
+      ["on / ona / ono", "będzie czytać", "he / she / it will read"],
+      ["my", "będziemy czytać", "we will read"],
+      ["wy", "będziecie czytać", "you (pl.) will read"],
+      ["oni / one", "będą czytać", "they will read"]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B2",
+    "title": "Conditional mood (być)",
+    "description": "The conditional is built with the past stem + -by-.",
+    "columns": ["Person", "Polish", "English"],
+    "rows": [
+      ["ja", "byłbym / byłabym", "I would be"],
+      ["ty", "byłbyś / byłabyś", "you would be"],
+      ["on / ona / ono", "byłby / byłaby / byłoby", "he / she / it would be"],
+      ["my", "bylibyśmy / byłybyśmy", "we would be"],
+      ["wy", "bylibyście / byłybyście", "you (pl.) would be"],
+      ["oni / one", "byliby / byłyby", "they would be"]
+    ]
+  }
+]
