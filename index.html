@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Polish Vocabulary</title>
+<title>Language Study</title>
 <style>
   :root {
     --bg-1: #667eea;
@@ -37,6 +37,27 @@
   header { text-align: center; margin-bottom: 18px; }
   header h1 { color: #fff; margin: 0 0 4px; font-size: 28px; }
   header p { color: rgba(255,255,255,0.85); margin: 0; font-size: 14px; }
+
+  .langs {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+  .langs button {
+    border: none;
+    padding: 10px 22px;
+    border-radius: 999px;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 15px;
+    background: rgba(255,255,255,0.25);
+    color: #fff;
+    transition: background 0.15s, transform 0.1s;
+  }
+  .langs button.active { background: #fff; color: var(--accent); }
+  .langs button:hover { transform: translateY(-1px); }
 
   .levels {
     display: flex;
@@ -173,9 +194,11 @@
 <body>
 <div class="shell">
   <header>
-    <h1>Polish Vocabulary</h1>
-    <p>Flashcards · Texts · Exercises · Grammar</p>
+    <h1>Language Study</h1>
+    <p id="subtitle">Choose a language to begin</p>
   </header>
+
+  <div class="langs" id="langs"></div>
 
   <div class="levels" id="levels">
     <button data-level="all" class="active">All</button>
@@ -194,7 +217,7 @@
   </div>
 
   <section class="panel active" id="panel-flashcards">
-    <div class="searchbar"><input id="search" type="text" placeholder="Search Polish, English or Spanish…" /></div>
+    <div class="searchbar"><input id="search" type="text" placeholder="Search…" /></div>
     <div class="card-board">
       <div class="counter" id="fcCounter"></div>
       <div class="card-wrap" id="cardWrap">
@@ -268,6 +291,11 @@
   let level = "all";
   let tab = "flashcards";
 
+  let LANGS = [];
+  let LANG_BY_CODE = {};
+  let lang = null;
+  const DATA_CACHE = {};
+
   let fcWords = [], fcIndex = 0;
   let txtExpanded = {};
   let exList = [], exIndex = 0, exAnswers = [], exSelected = null, exChecked = false, exShowTr = false;
@@ -313,13 +341,14 @@
     const w = fcWords[fcIndex];
     front.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
-      <div class="hint">Polish</div>
-      <div class="word">${w.polish}</div>`;
+      <div class="hint">${lang.termLabel}</div>
+      <div class="word">${w[lang.termField]}</div>`;
     back.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
       <div class="trans">
-        <span class="lang">English</span>${w.english}
-        <span class="lang" style="margin-top:14px">Español</span>${w.spanish}
+        ${lang.targets.map((t, i) =>
+          `<span class="lang"${i ? ' style="margin-top:14px"' : ""}>${t.label}</span>${w[t.field]}`
+        ).join("")}
       </div>`;
     counter.textContent = `${fcIndex + 1} / ${fcWords.length}`;
   }
@@ -624,8 +653,9 @@
 
   document.getElementById("search").addEventListener("input", (e) => {
     const q = e.target.value.trim().toLowerCase();
+    const fields = [lang.termField, ...lang.targets.map(t => t.field)];
     fcWords = DATA.words.filter(w => (level === "all" || w.level === level) &&
-      (!q || [w.polish, w.english, w.spanish].some(s => s.toLowerCase().includes(q))));
+      (!q || fields.some(f => String(w[f] || "").toLowerCase().includes(q))));
     fcIndex = 0;
     renderFlashcards();
   });
@@ -664,16 +694,55 @@
     }
   });
 
+  /* ---------- Languages ---------- */
+  const TAB_SECTION = { flashcards: "vocabulary", texts: "texts", exercises: "exercises", grammar: "grammar", writing: null };
+
+  function buildLangButtons() {
+    const el = document.getElementById("langs");
+    el.innerHTML = LANGS.map(l => `<button data-lang="${l.code}">${l.name}</button>`).join("");
+    el.querySelectorAll("button").forEach(b => b.addEventListener("click", () => selectLang(b.dataset.lang)));
+  }
+
+  function updateTabs() {
+    document.querySelectorAll("#tabs button").forEach(b => {
+      const sec = TAB_SECTION[b.dataset.tab];
+      const available = b.dataset.tab === "writing" || lang.sections.includes(sec);
+      b.style.display = available ? "" : "none";
+    });
+  }
+
+  function loadData(code) {
+    if (DATA_CACHE[code]) { DATA = DATA_CACHE[code]; return Promise.resolve(); }
+    const cfg = LANG_BY_CODE[code];
+    const get = (section) => cfg.sections.includes(section)
+      ? fetch(`/api/${code}/${section}`).then(r => r.json())
+      : Promise.resolve([]);
+    return Promise.all([get("vocabulary"), get("texts"), get("exercises"), get("grammar")])
+      .then(([words, texts, exercises, grammar]) => {
+        DATA = { words, texts, exercises, grammar };
+        DATA_CACHE[code] = DATA;
+      });
+  }
+
+  function selectLang(code) {
+    lang = LANG_BY_CODE[code];
+    document.querySelectorAll("#langs button").forEach(b => b.classList.toggle("active", b.dataset.lang === code));
+    document.getElementById("subtitle").textContent =
+      `${lang.name} · translations in ${lang.targets.map(t => t.label).join(", ")}`;
+    updateTabs();
+    loadData(code).then(() => {
+      if (!(tab === "writing" || lang.sections.includes(TAB_SECTION[tab]))) tab = "flashcards";
+      applyFilters();
+      setTab(tab);
+    });
+  }
+
   /* ---------- Init ---------- */
-  Promise.all([
-    fetch("/words").then(r => r.json()),
-    fetch("/texts").then(r => r.json()),
-    fetch("/exercises").then(r => r.json()),
-    fetch("/grammar").then(r => r.json()),
-  ]).then(([words, texts, exercises, grammar]) => {
-    DATA = { words, texts, exercises, grammar };
-    applyFilters();
-    render();
+  fetch("/languages").then(r => r.json()).then(langs => {
+    LANGS = langs;
+    LANG_BY_CODE = Object.fromEntries(langs.map(l => [l.code, l]));
+    buildLangButtons();
+    selectLang(langs[0].code);
   }).catch(() => {
     document.getElementById("front").innerHTML = `<div class="word" style="font-size:20px">Could not load data.</div>`;
   });

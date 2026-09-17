@@ -6,7 +6,11 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import urlparse, parse_qs
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+LANGS_DIR = os.path.join(BASE_DIR, "languages")
 LEVELS = ["A1", "A2", "B1", "B2"]
+SECTIONS = ["vocabulary", "texts", "exercises", "grammar"]
+DEFAULT_LANG = "pl"
+
 NOTES_FILE = os.path.join(BASE_DIR, "notes.json")
 WRITE_PASSWORD = os.environ.get("WRITE_PASSWORD", "")
 REDIS_URL = os.environ.get("UPSTASH_REDIS_URL", "")
@@ -30,9 +34,25 @@ def _get_redis():
     return _redis_client
 
 
-def _load(name):
-    with open(os.path.join(BASE_DIR, name), encoding="utf-8") as f:
+def _load_json(path):
+    with open(path, encoding="utf-8") as f:
         return json.load(f)
+
+
+# Language registry
+LANGUAGES = _load_json(os.path.join(BASE_DIR, "languages.json"))
+LANG_BY_CODE = {lang["code"]: lang for lang in LANGUAGES}
+
+
+def _load_pack(code):
+    pack = {}
+    for section in SECTIONS:
+        path = os.path.join(LANGS_DIR, code, section + ".json")
+        pack[section] = _load_json(path) if os.path.exists(path) else []
+    return pack
+
+
+PACKS = {lang["code"]: _load_pack(lang["code"]) for lang in LANGUAGES}
 
 
 def _load_notes():
@@ -59,12 +79,6 @@ def _save_notes(notes):
         return
     with open(NOTES_FILE, "w", encoding="utf-8") as f:
         json.dump(notes, f, ensure_ascii=False, indent=2)
-
-
-WORDS = _load("vocabulary.json")
-TEXTS = _load("texts.json")
-EXERCISES = _load("exercises.json")
-GRAMMAR = _load("grammar.json")
 
 
 def _by_level(items, level):
@@ -102,34 +116,34 @@ class Handler(BaseHTTPRequestHandler):
         except ValueError:
             return None
 
+    def _serve_section(self, code, section, query):
+        if code not in PACKS or section not in SECTIONS:
+            self._send_json(404, {"error": "not found"})
+            return
+        items = _by_level(PACKS[code][section], query.get("level", [None])[0])
+        if section == "vocabulary":
+            q = (query.get("q", [""])[0]).lower()
+            if q:
+                cfg = LANG_BY_CODE[code]
+                fields = [cfg["termField"]] + [t["field"] for t in cfg["targets"]]
+                items = [
+                    w for w in items
+                    if any(q in str(w.get(f, "")).lower() for f in fields)
+                ]
+        self._send_json(200, items)
+
     def do_GET(self):
         parsed = urlparse(self.path)
         path = parsed.path
         query = parse_qs(parsed.query)
-        level = query.get("level", [None])[0]
 
         if path in ("/", "/index.html"):
             with open(os.path.join(BASE_DIR, "index.html"), encoding="utf-8") as f:
                 self._send_html(f.read())
+        elif path == "/languages":
+            self._send_json(200, LANGUAGES)
         elif path == "/levels":
             self._send_json(200, LEVELS)
-        elif path == "/words":
-            q = (query.get("q", [""])[0]).lower()
-            results = _by_level(WORDS, level)
-            if q:
-                results = [
-                    w for w in results
-                    if q in w["polish"].lower()
-                    or q in w["english"].lower()
-                    or q in w["spanish"].lower()
-                ]
-            self._send_json(200, results)
-        elif path == "/texts":
-            self._send_json(200, _by_level(TEXTS, level))
-        elif path == "/exercises":
-            self._send_json(200, _by_level(EXERCISES, level))
-        elif path == "/grammar":
-            self._send_json(200, _by_level(GRAMMAR, level))
         elif path == "/notes":
             if not WRITE_PASSWORD:
                 self._send_json(503, {"error": "saving is not configured"})
@@ -139,12 +153,22 @@ class Handler(BaseHTTPRequestHandler):
                 self._send_json(200, list(reversed(_load_notes())))
         else:
             parts = [p for p in path.split("/") if p]
-            if len(parts) == 2 and parts[0] == "words":
-                for w in WORDS:
-                    if str(w["id"]) == parts[1]:
-                        self._send_json(200, w)
-                        return
-            self._send_json(404, {"error": "not found"})
+            if len(parts) >= 3 and parts[0] == "api":
+                code, section = parts[1], parts[2]
+                if len(parts) == 4 and section == "vocabulary" and code in PACKS:
+                    for w in PACKS[code]["vocabulary"]:
+                        if str(w["id"]) == parts[3]:
+                            self._send_json(200, w)
+                            return
+                    self._send_json(404, {"error": "not found"})
+                else:
+                    self._serve_section(code, section, query)
+            elif path in ("/words", "/texts", "/exercises", "/grammar"):
+                section = {"words": "vocabulary", "texts": "texts",
+                           "exercises": "exercises", "grammar": "grammar"}[parts[0]]
+                self._serve_section(DEFAULT_LANG, section, query)
+            else:
+                self._send_json(404, {"error": "not found"})
 
     def do_POST(self):
         parsed = urlparse(self.path)

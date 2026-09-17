@@ -1,0 +1,25 @@
+[
+  {
+    "code": "pl",
+    "name": "Polish",
+    "flag": "PL",
+    "termLabel": "Polish",
+    "termField": "polish",
+    "targets": [
+      {"field": "english", "label": "English"},
+      {"field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "en",
+    "name": "English",
+    "flag": "EN",
+    "termLabel": "English",
+    "termField": "english",
+    "targets": [
+      {"field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary"]
+  }
+]
