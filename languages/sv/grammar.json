@@ -1,0 +1,295 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Presens: vara (to be)",
+    "description": "The verb 'vara' has the same form for all persons.",
+    "columns": ["Pronomen", "Swedish", "English", "Español"],
+    "rows": [
+      ["jag", "är", "I am", "yo soy / estoy"],
+      ["du", "är", "you are", "tú eres / estás"],
+      ["han", "är", "he is", "él es / está"],
+      ["hon", "är", "she is", "ella es / está"],
+      ["vi", "är", "we are", "nosotros somos / estamos"],
+      ["ni", "är", "you (pl.) are", "vosotros sois / estáis"],
+      ["de", "är", "they are", "ellos son / están"]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Presens: ha (to have)",
+    "description": "The verb 'ha' has the same form for all persons.",
+    "columns": ["Pronomen", "Swedish", "English", "Español"],
+    "rows": [
+      ["jag", "har", "I have", "yo tengo"],
+      ["du", "har", "you have", "tú tienes"],
+      ["han", "har", "he has", "él tiene"],
+      ["hon", "har", "she has", "ella tiene"],
+      ["vi", "har", "we have", "nosotros tenemos"],
+      ["ni", "har", "you (pl.) have", "vosotros tenéis"],
+      ["de", "har", "they have", "ellos tienen"]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Personliga pronomen (personal pronouns)",
+    "description": "Subject pronouns in Swedish.",
+    "columns": ["Swedish", "English", "Español"],
+    "rows": [
+      ["jag", "I", "yo"],
+      ["du", "you (informal)", "tú"],
+      ["han", "he", "él"],
+      ["hon", "she", "ella"],
+      ["den", "it (common gender)", "ello"],
+      ["det", "it (neuter)", "ello"],
+      ["vi", "we", "nosotros"],
+      ["ni", "you (pl.)", "vosotros"],
+      ["de", "they", "ellos / ellas"]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Veckodagar (days of the week)",
+    "description": "Days are not capitalized in Swedish.",
+    "columns": ["Swedish", "English", "Español"],
+    "rows": [
+      ["måndag", "Monday", "lunes"],
+      ["tisdag", "Tuesday", "martes"],
+      ["onsdag", "Wednesday", "miércoles"],
+      ["torsdag", "Thursday", "jueves"],
+      ["fredag", "Friday", "viernes"],
+      ["lördag", "Saturday", "sábado"],
+      ["söndag", "Sunday", "domingo"]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Månader (months)",
+    "description": "Months are not capitalized in Swedish.",
+    "columns": ["Swedish", "English", "Español"],
+    "rows": [
+      ["januari", "January", "enero"],
+      ["februari", "February", "febrero"],
+      ["mars", "March", "marzo"],
+      ["april", "April", "abril"],
+      ["maj", "May", "mayo"],
+      ["juni", "June", "junio"],
+      ["juli", "July", "julio"],
+      ["augusti", "August", "agosto"],
+      ["september", "September", "septiembre"],
+      ["oktober", "October", "octubre"],
+      ["november", "November", "noviembre"],
+      ["december", "December", "diciembre"]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Siffror 0–20 (numbers)",
+    "description": "Basic cardinal numbers.",
+    "columns": ["Siffra", "Swedish", "English", "Español"],
+    "rows": [
+      ["0", "noll", "zero", "cero"],
+      ["1", "ett", "one", "uno"],
+      ["2", "två", "two", "dos"],
+      ["3", "tre", "three", "tres"],
+      ["4", "fyra", "four", "cuatro"],
+      ["5", "fem", "five", "cinco"],
+      ["6", "sex", "six", "seis"],
+      ["7", "sju", "seven", "siete"],
+      ["8", "åtta", "eight", "ocho"],
+      ["9", "nio", "nine", "nueve"],
+      ["10", "tio", "ten", "diez"],
+      ["11", "elva", "eleven", "once"],
+      ["12", "tolv", "twelve", "doce"],
+      ["13", "tretton", "thirteen", "trece"],
+      ["15", "femton", "fifteen", "quince"],
+      ["20", "tjugo", "twenty", "veinte"]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "Presens: regelbundna verb (arbeta)",
+    "description": "Regular verbs take -r in the present.",
+    "columns": ["Pronomen", "Swedish (arbeta)", "English", "Español"],
+    "rows": [
+      ["jag", "arbetar", "I work", "yo trabajo"],
+      ["du", "arbetar", "you work", "tú trabajas"],
+      ["han", "arbetar", "he works", "él trabaja"],
+      ["hon", "arbetar", "she works", "ella trabaja"],
+      ["vi", "arbetar", "we work", "nosotros trabajamos"],
+      ["ni", "arbetar", "you (pl.) work", "vosotros trabajáis"],
+      ["de", "arbetar", "they work", "ellos trabajan"]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "Frågeord (question words)",
+    "description": "Question words start most questions.",
+    "columns": ["Swedish", "English", "Español"],
+    "rows": [
+      ["vad?", "what?", "¿qué?"],
+      ["vem?", "who?", "¿quién?"],
+      ["var?", "where?", "¿dónde?"],
+      ["när?", "when?", "¿cuándo?"],
+      ["varför?", "why?", "¿por qué?"],
+      ["hur?", "how?", "¿cómo?"],
+      ["hur mycket?", "how much?", "¿cuánto?"],
+      ["vilken?", "which?", "¿cuál?"]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "title": "En och ett (noun gender)",
+    "description": "Swedish nouns are common gender (en) or neuter (ett).",
+    "columns": ["Form", "Swedish", "English", "Español"],
+    "rows": [
+      ["en (indefinite)", "en bil", "a car", "un coche"],
+      ["ett (indefinite)", "ett hus", "a house", "una casa"],
+      ["-en (definite)", "bilen", "the car", "el coche"],
+      ["-et (definite)", "huset", "the house", "la casa"],
+      ["-s (genitive)", "bilens", "the car's", "del coche"]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "title": "Prepositioner för plats (prepositions of place)",
+    "description": "Common prepositions of place.",
+    "columns": ["Swedish", "English", "Español"],
+    "rows": [
+      ["i", "in", "en / dentro de"],
+      ["på", "on", "sobre / encima de"],
+      ["under", "under", "debajo de"],
+      ["bredvid", "next to", "al lado de"],
+      ["mellan", "between", "entre"],
+      ["framför", "in front of", "delante de"],
+      ["bakom", "behind", "detrás de"],
+      ["nära", "near", "cerca de"]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "title": "Preteritum (past tense)",
+    "description": "The simple past is used for completed actions.",
+    "columns": ["Infinitiv", "Preteritum (jag)", "English", "Español"],
+    "rows": [
+      ["arbeta", "arbetade", "I worked", "trabajé"],
+      ["bo", "bodde", "I lived", "viví"],
+      ["tala", "talade", "I spoke", "hablé"],
+      ["köpa", "köpte", "I bought", "compré"],
+      ["läsa", "läste", "I read", "leí"],
+      ["skriva", "skrev", "I wrote", "escribí"]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "title": "Komparativ och superlativ",
+    "description": "Comparatives and superlatives.",
+    "columns": ["Positiv", "Komparativ", "Superlativ", "English", "Español"],
+    "rows": [
+      ["bra", "bättre", "bäst", "good / better / best", "bueno / mejor / el mejor"],
+      ["dålig", "sämre", "sämst", "bad / worse / worst", "malo / peor / el peor"],
+      ["stor", "större", "störst", "big / bigger / biggest", "grande / mayor / el mayor"],
+      ["liten", "mindre", "minst", "small / smaller / smallest", "pequeño / menor / el menor"],
+      ["ung", "yngre", "yngst", "young / younger / youngest", "joven / menor / el menor"]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "title": "Verbgrupper (verb conjugation groups)",
+    "description": "Swedish verbs are divided into four conjugation groups.",
+    "columns": ["Grupp", "Infinitiv", "Preteritum", "Supinum", "English / Español"],
+    "rows": [
+      ["1", "arbeta", "arbetade", "arbetat", "work / trabajar"],
+      ["2a", "köpa", "köpte", "köpt", "buy / comprar"],
+      ["2b", "läsa", "läste", "läst", "read / leer"],
+      ["3", "bo", "bodde", "bott", "live / vivir"],
+      ["4", "skriva", "skrev", "skrivit", "write / escribir"]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "Oregelbundna verb (irregular verbs)",
+    "description": "Common verbs with irregular forms.",
+    "columns": ["Infinitiv", "Preteritum", "Supinum", "English", "Español"],
+    "rows": [
+      ["vara", "var", "varit", "be", "ser / estar"],
+      ["ha", "hade", "haft", "have", "tener"],
+      ["gå", "gick", "gått", "go", "ir"],
+      ["se", "såg", "sett", "see", "ver"],
+      ["ge", "gav", "gett", "give", "dar"],
+      ["komma", "kom", "kommit", "come", "venir"]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "title": "Futurum: ska + infinitiv",
+    "description": "The future with 'ska' expresses intention.",
+    "columns": ["Pronomen", "Swedish", "English", "Español"],
+    "rows": [
+      ["jag", "ska arbeta", "I will work", "trabajaré"],
+      ["du", "ska arbeta", "you will work", "trabajarás"],
+      ["han / hon", "ska arbeta", "he / she will work", "trabajará"],
+      ["vi", "ska arbeta", "we will work", "trabajaremos"],
+      ["ni", "ska arbeta", "you (pl.) will work", "trabajaréis"],
+      ["de", "ska arbeta", "they will work", "trabajarán"]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "title": "Konditionalis: skulle + infinitiv",
+    "description": "The conditional with 'skulle'.",
+    "columns": ["Pronomen", "Swedish", "English", "Español"],
+    "rows": [
+      ["jag", "skulle arbeta", "I would work", "trabajaría"],
+      ["du", "skulle arbeta", "you would work", "trabajarías"],
+      ["han / hon", "skulle arbeta", "he / she would work", "trabajaría"],
+      ["vi", "skulle arbeta", "we would work", "trabajaríamos"],
+      ["ni", "skulle arbeta", "you (pl.) would work", "trabajaríais"],
+      ["de", "skulle arbeta", "they would work", "trabajarían"]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "title": "Passiv (s-passiv)",
+    "description": "The passive is formed by adding -s to the verb.",
+    "columns": ["Aktiv", "Passiv", "English", "Español"],
+    "rows": [
+      ["De läser boken.", "Boken läses.", "The book is read.", "El libro es leído."],
+      ["De bygger ett hus.", "Ett hus byggs.", "A house is being built.", "Se construye una casa."],
+      ["Någon stal bilen.", "Bilen stals.", "The car was stolen.", "El coche fue robado."],
+      ["Företaget skrev under kontraktet.", "Kontraktet skrevs under.", "The contract was signed.", "El contrato fue firmado."]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "title": "Konjunktioner (linking words)",
+    "description": "Connectors for more advanced sentences.",
+    "columns": ["Swedish", "English", "Español"],
+    "rows": [
+      ["fastän", "although", "aunque"],
+      ["eftersom", "because", "porque"],
+      ["dock", "however", "sin embargo"],
+      ["dessutom", "moreover", "además"],
+      ["medan", "whereas", "en cambio"],
+      ["så att", "so that", "para que"],
+      ["om inte", "unless", "a menos que"]
+    ]
+  }
+]

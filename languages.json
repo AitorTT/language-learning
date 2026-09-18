@@ -57,5 +57,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "sv",
+    "name": "Swedish",
+    "flag": "SV",
+    "termLabel": "Swedish",
+    "termField": "swedish",
+    "ipa": true,
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

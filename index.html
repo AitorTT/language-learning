@@ -116,6 +116,7 @@
   }
   .face.back { transform: rotateY(180deg); }
   .word { font-size: 40px; font-weight: 800; margin: 8px 0; word-break: break-word; }
+  .ipa { color: var(--muted); font-size: 17px; margin-top: 2px; letter-spacing: 0.5px; }
   .hint { color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: 1px; }
   .badge {
     display: inline-block; padding: 5px 14px; border-radius: 999px; font-size: 12px; font-weight: 700;
@@ -342,7 +343,8 @@
     front.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
       <div class="hint">${lang.termLabel}</div>
-      <div class="word">${w[lang.termField]}</div>`;
+      <div class="word">${w[lang.termField]}</div>
+      ${w.ipa ? `<div class="ipa">/${w.ipa}/</div>` : ""}`;
     back.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
       <div class="trans">
