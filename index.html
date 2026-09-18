@@ -376,8 +376,8 @@
         <div class="level-tag">${t.level}</div>
         <h3>${t.title}</h3>
         <p class="body">${t.body}</p>
-        <button class="link" data-toggle="${t.id}">Show translation</button>
-        <div class="tr" id="tr-${t.id}">${translationBlocks(t)}</div>
+        <button class="link" data-toggle="${t.id}">Hide translation</button>
+        <div class="tr open" id="tr-${t.id}">${translationBlocks(t)}</div>
       </div>`).join("");
   }
   function toggleText(id) {
@@ -750,7 +750,8 @@
     LANGS = langs;
     LANG_BY_CODE = Object.fromEntries(langs.map(l => [l.code, l]));
     buildLangButtons();
-    selectLang(langs[0].code);
+    const def = langs.find(l => l.default) || langs[0];
+    selectLang(def.code);
   }).catch(() => {
     document.getElementById("front").innerHTML = `<div class="word" style="font-size:20px">Could not load data.</div>`;
   });

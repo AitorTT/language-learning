@@ -9,7 +9,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LANGS_DIR = os.path.join(BASE_DIR, "languages")
 LEVELS = ["A1", "A2", "B1", "B2"]
 SECTIONS = ["vocabulary", "texts", "exercises", "grammar"]
-DEFAULT_LANG = "pl"
+DEFAULT_LANG = "en"
 
 NOTES_FILE = os.path.join(BASE_DIR, "notes.json")
 WRITE_PASSWORD = os.environ.get("WRITE_PASSWORD", "")
