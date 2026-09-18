@@ -1,0 +1,295 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Präsens: sein (to be)",
+    "description": "The verb 'sein' is irregular and essential.",
+    "columns": ["Person", "German", "English", "Español"],
+    "rows": [
+      ["ich", "bin", "I am", "yo soy / estoy"],
+      ["du", "bist", "you are", "tú eres / estás"],
+      ["er", "ist", "he is", "él es / está"],
+      ["sie", "ist", "she is", "ella es / está"],
+      ["es", "ist", "it is", "ello es / está"],
+      ["wir", "sind", "we are", "nosotros somos / estamos"],
+      ["ihr", "seid", "you (pl.) are", "vosotros sois / estáis"],
+      ["sie / Sie", "sind", "they / you (formal) are", "ellos / usted es"]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Präsens: haben (to have)",
+    "description": "The verb 'haben' is irregular.",
+    "columns": ["Person", "German", "English", "Español"],
+    "rows": [
+      ["ich", "habe", "I have", "yo tengo"],
+      ["du", "hast", "you have", "tú tienes"],
+      ["er", "hat", "he has", "él tiene"],
+      ["sie", "hat", "she has", "ella tiene"],
+      ["es", "hat", "it has", "ello tiene"],
+      ["wir", "haben", "we have", "nosotros tenemos"],
+      ["ihr", "habt", "you (pl.) have", "vosotros tenéis"],
+      ["sie / Sie", "haben", "they / you (formal) have", "ellos / usted tiene"]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Personalpronomen (personal pronouns)",
+    "description": "Subject pronouns in German.",
+    "columns": ["German", "English", "Español"],
+    "rows": [
+      ["ich", "I", "yo"],
+      ["du", "you (informal)", "tú"],
+      ["er", "he", "él"],
+      ["sie", "she", "ella"],
+      ["es", "it", "ello"],
+      ["wir", "we", "nosotros"],
+      ["ihr", "you (pl.)", "vosotros"],
+      ["sie", "they", "ellos / ellas"],
+      ["Sie", "you (formal)", "usted / ustedes"]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Wochentage (days of the week)",
+    "description": "Days are capitalized in German.",
+    "columns": ["German", "English", "Español"],
+    "rows": [
+      ["Montag", "Monday", "lunes"],
+      ["Dienstag", "Tuesday", "martes"],
+      ["Mittwoch", "Wednesday", "miércoles"],
+      ["Donnerstag", "Thursday", "jueves"],
+      ["Freitag", "Friday", "viernes"],
+      ["Samstag", "Saturday", "sábado"],
+      ["Sonntag", "Sunday", "domingo"]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Monate (months)",
+    "description": "Months are capitalized in German.",
+    "columns": ["German", "English", "Español"],
+    "rows": [
+      ["Januar", "January", "enero"],
+      ["Februar", "February", "febrero"],
+      ["März", "March", "marzo"],
+      ["April", "April", "abril"],
+      ["Mai", "May", "mayo"],
+      ["Juni", "June", "junio"],
+      ["Juli", "July", "julio"],
+      ["August", "August", "agosto"],
+      ["September", "September", "septiembre"],
+      ["Oktober", "October", "octubre"],
+      ["November", "November", "noviembre"],
+      ["Dezember", "December", "diciembre"]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Zahlen 0–20 (numbers)",
+    "description": "Basic cardinal numbers.",
+    "columns": ["Number", "German", "English", "Español"],
+    "rows": [
+      ["0", "null", "zero", "cero"],
+      ["1", "eins", "one", "uno"],
+      ["2", "zwei", "two", "dos"],
+      ["3", "drei", "three", "tres"],
+      ["4", "vier", "four", "cuatro"],
+      ["5", "fünf", "five", "cinco"],
+      ["6", "sechs", "six", "seis"],
+      ["7", "sieben", "seven", "siete"],
+      ["8", "acht", "eight", "ocho"],
+      ["9", "neun", "nine", "nueve"],
+      ["10", "zehn", "ten", "diez"],
+      ["11", "elf", "eleven", "once"],
+      ["12", "zwölf", "twelve", "doce"],
+      ["13", "dreizehn", "thirteen", "trece"],
+      ["15", "fünfzehn", "fifteen", "quince"],
+      ["20", "zwanzig", "twenty", "veinte"]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "Präsens: regelmäßige Verben (machen)",
+    "description": "Regular verbs add endings to the stem.",
+    "columns": ["Person", "German (machen)", "English", "Español"],
+    "rows": [
+      ["ich", "mache", "I do / make", "yo hago"],
+      ["du", "machst", "you do", "tú haces"],
+      ["er / sie / es", "macht", "he / she / it does", "él / ella hace"],
+      ["wir", "machen", "we do", "nosotros hacemos"],
+      ["ihr", "macht", "you (pl.) do", "vosotros hacéis"],
+      ["sie / Sie", "machen", "they / you do", "ellos / usted hacen"]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "Fragewörter (question words)",
+    "description": "Question words start most questions.",
+    "columns": ["German", "English", "Español"],
+    "rows": [
+      ["was?", "what?", "¿qué?"],
+      ["wer?", "who?", "¿quién?"],
+      ["wo?", "where?", "¿dónde?"],
+      ["wann?", "when?", "¿cuándo?"],
+      ["warum?", "why?", "¿por qué?"],
+      ["wie?", "how?", "¿cómo?"],
+      ["wie viel?", "how much?", "¿cuánto?"],
+      ["welcher?", "which?", "¿cuál?"]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "title": "Bestimmte Artikel (der / die / das)",
+    "description": "Definite articles by gender.",
+    "columns": ["Gender", "Nominative", "Accusative", "English", "Español"],
+    "rows": [
+      ["Masculine", "der", "den", "the", "el"],
+      ["Feminine", "die", "die", "the", "la"],
+      ["Neuter", "das", "das", "the", "el / lo"],
+      ["Plural", "die", "die", "the", "los / las"]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "title": "Präpositionen des Ortes (prepositions of place)",
+    "description": "Common prepositions of place.",
+    "columns": ["German", "English", "Español"],
+    "rows": [
+      ["in", "in", "en / dentro de"],
+      ["auf", "on", "sobre / encima de"],
+      ["unter", "under", "debajo de"],
+      ["neben", "next to", "al lado de"],
+      ["zwischen", "between", "entre"],
+      ["vor", "in front of", "delante de"],
+      ["hinter", "behind", "detrás de"],
+      ["bei", "at / near", "cerca de"]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "title": "Präteritum: sein und haben",
+    "description": "The simple past of the two most common verbs.",
+    "columns": ["Person", "sein", "haben", "Español"],
+    "rows": [
+      ["ich", "war", "hatte", "yo era / tenía"],
+      ["du", "warst", "hattest", "tú eras / tenías"],
+      ["er / sie / es", "war", "hatte", "él era / tenía"],
+      ["wir", "waren", "hatten", "nosotros éramos / teníamos"],
+      ["ihr", "wart", "hattet", "vosotros erais / teníais"],
+      ["sie / Sie", "waren", "hatten", "ellos eran / tenían"]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "title": "Komparativ und Superlativ",
+    "description": "Comparatives and superlatives.",
+    "columns": ["Positive", "Comparative", "Superlative", "English", "Español"],
+    "rows": [
+      ["gut", "besser", "am besten", "good / better / best", "bueno / mejor / el mejor"],
+      ["schlecht", "schlechter", "am schlechtesten", "bad / worse / worst", "malo / peor / el peor"],
+      ["groß", "größer", "am größten", "big / bigger / biggest", "grande / mayor / el mayor"],
+      ["klein", "kleiner", "am kleinsten", "small / smaller / smallest", "pequeño / menor / el menor"],
+      ["gern", "lieber", "am liebsten", "gladly / rather / most", "con gusto / preferiblemente"]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "title": "Perfekt (haben / sein + Partizip)",
+    "description": "The most common past tense in spoken German.",
+    "columns": ["Infinitiv", "Perfekt (3. Person)", "English", "Español"],
+    "rows": [
+      ["machen", "hat gemacht", "has done", "ha hecho"],
+      ["gehen", "ist gegangen", "has gone", "ha ido"],
+      ["essen", "hat gegessen", "has eaten", "ha comido"],
+      ["sehen", "hat gesehen", "has seen", "ha visto"],
+      ["kommen", "ist gekommen", "has come", "ha venido"]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "Modalverben (modal verbs)",
+    "description": "können, müssen and wollen in the present.",
+    "columns": ["Person", "können", "müssen", "wollen", "Español"],
+    "rows": [
+      ["ich", "kann", "muss", "will", "puedo / debo / quiero"],
+      ["du", "kannst", "musst", "willst", "puedes / debes / quieres"],
+      ["er / sie / es", "kann", "muss", "will", "puede / debe / quiere"],
+      ["wir", "können", "müssen", "wollen", "podemos / debemos / queremos"],
+      ["ihr", "könnt", "müsst", "wollt", "podéis / debéis / queréis"],
+      ["sie / Sie", "können", "müssen", "wollen", "pueden / deben / quieren"]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "title": "Futur I (werden + Infinitiv)",
+    "description": "The future tense with 'werden'.",
+    "columns": ["Person", "German", "English", "Español"],
+    "rows": [
+      ["ich", "werde lesen", "I will read", "leeré"],
+      ["du", "wirst lesen", "you will read", "leerás"],
+      ["er / sie / es", "wird lesen", "he / she / it will read", "leerá"],
+      ["wir", "werden lesen", "we will read", "leeremos"],
+      ["ihr", "werdet lesen", "you (pl.) will read", "leeréis"],
+      ["sie / Sie", "werden lesen", "they / you will read", "leerán"]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "title": "Konjunktiv II (würde + Infinitiv)",
+    "description": "The conditional mood.",
+    "columns": ["Person", "German", "English", "Español"],
+    "rows": [
+      ["ich", "würde gehen", "I would go", "iría"],
+      ["du", "würdest gehen", "you would go", "irías"],
+      ["er / sie / es", "würde gehen", "he / she / it would go", "iría"],
+      ["wir", "würden gehen", "we would go", "iríamos"],
+      ["ihr", "würdet gehen", "you (pl.) would go", "iríais"],
+      ["sie / Sie", "würden gehen", "they / you would go", "irían"]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "title": "Passiv (passive voice)",
+    "description": "Passive with werden + Partizip.",
+    "columns": ["Aktiv", "Passiv", "English", "Español"],
+    "rows": [
+      ["Man liest das Buch.", "Das Buch wird gelesen.", "The book is read.", "El libro es leído."],
+      ["Man baut ein Haus.", "Ein Haus wird gebaut.", "A house is being built.", "Se construye una casa."],
+      ["Jemand hat das Auto gestohlen.", "Das Auto wurde gestohlen.", "The car was stolen.", "El coche fue robado."],
+      ["Die Firma hat den Vertrag unterschrieben.", "Der Vertrag wurde unterschrieben.", "The contract was signed.", "El contrato fue firmado."]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "title": "Konnektoren (linking words)",
+    "description": "Connectors for more advanced sentences.",
+    "columns": ["German", "English", "Español"],
+    "rows": [
+      ["obwohl", "although", "aunque"],
+      ["weil", "because", "porque"],
+      ["jedoch", "however", "sin embargo"],
+      ["außerdem", "moreover", "además"],
+      ["wohingegen", "whereas", "en cambio"],
+      ["damit", "so that", "para que"],
+      ["falls", "in case / if", "en caso de que"]
+    ]
+  }
+]
