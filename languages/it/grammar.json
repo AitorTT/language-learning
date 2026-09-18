@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Presente: essere (to be)",
+    "description": "The verb 'essere' is irregular and essential.",
+    "columns": ["Persona", "Italian", "English", "Español"],
+    "rows": [
+      ["io", "sono", "I am", "yo soy / estoy"],
+      ["tu", "sei", "you are", "tú eres / estás"],
+      ["lui", "è", "he is", "él es / está"],
+      ["lei", "è", "she is", "ella es / está"],
+      ["noi", "siamo", "we are", "nosotros somos / estamos"],
+      ["voi", "siete", "you (pl.) are", "vosotros sois / estáis"],
+      ["loro", "sono", "they are", "ellos son / están"]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Presente: avere (to have)",
+    "description": "The verb 'avere' is irregular.",
+    "columns": ["Persona", "Italian", "English", "Español"],
+    "rows": [
+      ["io", "ho", "I have", "yo tengo"],
+      ["tu", "hai", "you have", "tú tienes"],
+      ["lui", "ha", "he has", "él tiene"],
+      ["lei", "ha", "she has", "ella tiene"],
+      ["noi", "abbiamo", "we have", "nosotros tenemos"],
+      ["voi", "avete", "you (pl.) have", "vosotros tenéis"],
+      ["loro", "hanno", "they have", "ellos tienen"]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Pronomi personali (personal pronouns)",
+    "description": "Subject pronouns in Italian.",
+    "columns": ["Italian", "English", "Español"],
+    "rows": [
+      ["io", "I", "yo"],
+      ["tu", "you (informal)", "tú"],
+      ["lui", "he", "él"],
+      ["lei", "she", "ella"],
+      ["noi", "we", "nosotros"],
+      ["voi", "you (pl.)", "vosotros"],
+      ["loro", "they", "ellos / ellas"],
+      ["Lei", "you (formal)", "usted"]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Giorni della settimana (days of the week)",
+    "description": "Days are not capitalized in Italian.",
+    "columns": ["Italian", "English", "Español"],
+    "rows": [
+      ["lunedì", "Monday", "lunes"],
+      ["martedì", "Tuesday", "martes"],
+      ["mercoledì", "Wednesday", "miércoles"],
+      ["giovedì", "Thursday", "jueves"],
+      ["venerdì", "Friday", "viernes"],
+      ["sabato", "Saturday", "sábado"],
+      ["domenica", "Sunday", "domingo"]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Mesi dell'anno (months)",
+    "description": "Months are not capitalized in Italian.",
+    "columns": ["Italian", "English", "Español"],
+    "rows": [
+      ["gennaio", "January", "enero"],
+      ["febbraio", "February", "febrero"],
+      ["marzo", "March", "marzo"],
+      ["aprile", "April", "abril"],
+      ["maggio", "May", "mayo"],
+      ["giugno", "June", "junio"],
+      ["luglio", "July", "julio"],
+      ["agosto", "August", "agosto"],
+      ["settembre", "September", "septiembre"],
+      ["ottobre", "October", "octubre"],
+      ["novembre", "November", "noviembre"],
+      ["dicembre", "December", "diciembre"]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Numeri 0–20 (numbers)",
+    "description": "Basic cardinal numbers.",
+    "columns": ["Numero", "Italian", "English", "Español"],
+    "rows": [
+      ["0", "zero", "zero", "cero"],
+      ["1", "uno", "one", "uno"],
+      ["2", "due", "two", "dos"],
+      ["3", "tre", "three", "tres"],
+      ["4", "quattro", "four", "cuatro"],
+      ["5", "cinque", "five", "cinco"],
+      ["6", "sei", "six", "seis"],
+      ["7", "sette", "seven", "siete"],
+      ["8", "otto", "eight", "ocho"],
+      ["9", "nove", "nine", "nueve"],
+      ["10", "dieci", "ten", "diez"],
+      ["11", "undici", "eleven", "once"],
+      ["12", "dodici", "twelve", "doce"],
+      ["13", "tredici", "thirteen", "trece"],
+      ["15", "quindici", "fifteen", "quince"],
+      ["20", "venti", "twenty", "veinte"]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "Presente: verbi regolari (-are: parlare)",
+    "description": "Regular -are verbs follow this pattern.",
+    "columns": ["Persona", "Italian (parlare)", "English", "Español"],
+    "rows": [
+      ["io", "parlo", "I speak", "yo hablo"],
+      ["tu", "parli", "you speak", "tú hablas"],
+      ["lui / lei", "parla", "he / she speaks", "él / ella habla"],
+      ["noi", "parliamo", "we speak", "nosotros hablamos"],
+      ["voi", "parlate", "you (pl.) speak", "vosotros habláis"],
+      ["loro", "parlano", "they speak", "ellos hablan"]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "Parole interrogative (question words)",
+    "description": "Question words start most questions.",
+    "columns": ["Italian", "English", "Español"],
+    "rows": [
+      ["che cosa?", "what?", "¿qué?"],
+      ["chi?", "who?", "¿quién?"],
+      ["dove?", "where?", "¿dónde?"],
+      ["quando?", "when?", "¿cuándo?"],
+      ["perché?", "why?", "¿por qué?"],
+      ["come?", "how?", "¿cómo?"],
+      ["quanto?", "how much?", "¿cuánto?"],
+      ["quale?", "which?", "¿cuál?"]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "title": "Articoli determinativi (il / lo / la)",
+    "description": "Definite articles by gender and sound.",
+    "columns": ["Genere", "Singolare", "Plurale", "English", "Español"],
+    "rows": [
+      ["Maschile (consonante)", "il", "i", "the", "el / los"],
+      ["Maschile (vocale / s+)", "lo / l'", "gli", "the", "el / los"],
+      ["Femminile", "la / l'", "le", "the", "la / las"]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "title": "Preposizioni di luogo (prepositions of place)",
+    "description": "Common prepositions of place.",
+    "columns": ["Italian", "English", "Español"],
+    "rows": [
+      ["in", "in", "en / dentro de"],
+      ["su", "on", "sobre / encima de"],
+      ["sotto", "under", "debajo de"],
+      ["accanto a", "next to", "al lado de"],
+      ["tra / fra", "between", "entre"],
+      ["davanti a", "in front of", "delante de"],
+      ["dietro", "behind", "detrás de"],
+      ["vicino a", "near", "cerca de"]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "title": "Passato prossimo",
+    "description": "avere / essere + participio passato.",
+    "columns": ["Infinito", "Participio", "Passato prossimo (io)", "English", "Español"],
+    "rows": [
+      ["mangiare", "mangiato", "ho mangiato", "I have eaten", "he comido"],
+      ["andare", "andato", "sono andato", "I have gone", "he ido"],
+      ["vedere", "visto", "ho visto", "I have seen", "he visto"],
+      ["fare", "fatto", "ho fatto", "I have done", "he hecho"],
+      ["venire", "venuto", "sono venuto", "I have come", "he venido"]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "title": "Comparativi e superlativi",
+    "description": "Comparatives and superlatives.",
+    "columns": ["Aggettivo", "Comparativo", "Superlativo", "English", "Español"],
+    "rows": [
+      ["buono", "migliore", "il migliore", "good / better / best", "bueno / mejor / el mejor"],
+      ["cattivo", "peggiore", "il peggiore", "bad / worse / worst", "malo / peor / el peor"],
+      ["grande", "più grande", "il più grande", "big / bigger / biggest", "grande / mayor / el mayor"],
+      ["piccolo", "più piccolo", "il più piccolo", "small / smaller / smallest", "pequeño / menor / el menor"],
+      ["bello", "più bello", "il più bello", "beautiful / more / most beautiful", "hermoso / más / el más hermoso"]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "title": "Imperfetto (parlare)",
+    "description": "The imperfect tense for past habits and descriptions.",
+    "columns": ["Persona", "Italian", "English", "Español"],
+    "rows": [
+      ["io", "parlavo", "I was speaking", "yo hablaba"],
+      ["tu", "parlavi", "you were speaking", "tú hablabas"],
+      ["lui / lei", "parlava", "he / she was speaking", "él / ella hablaba"],
+      ["noi", "parlavamo", "we were speaking", "nosotros hablábamos"],
+      ["voi", "parlavate", "you (pl.) were speaking", "vosotros hablabais"],
+      ["loro", "parlavano", "they were speaking", "ellos hablaban"]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "Participi passati irregolari",
+    "description": "Common verbs with irregular past participles.",
+    "columns": ["Infinito", "Participio", "English", "Español"],
+    "rows": [
+      ["fare", "fatto", "done", "hecho"],
+      ["dire", "detto", "said", "dicho"],
+      ["vedere", "visto", "seen", "visto"],
+      ["prendere", "preso", "taken", "tomado"],
+      ["scrivere", "scritto", "written", "escrito"],
+      ["leggere", "letto", "read", "leído"]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "title": "Futuro semplice (parlare)",
+    "description": "The simple future tense.",
+    "columns": ["Persona", "Italian", "English", "Español"],
+    "rows": [
+      ["io", "parlerò", "I will speak", "hablaré"],
+      ["tu", "parlerai", "you will speak", "hablarás"],
+      ["lui / lei", "parlerà", "he / she will speak", "hablará"],
+      ["noi", "parleremo", "we will speak", "hablaremos"],
+      ["voi", "parlerete", "you (pl.) will speak", "hablaréis"],
+      ["loro", "parleranno", "they will speak", "hablarán"]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "title": "Condizionale (parlare)",
+    "description": "The conditional mood, used for politeness and hypotheses.",
+    "columns": ["Persona", "Italian", "English", "Español"],
+    "rows": [
+      ["io", "parlerei", "I would speak", "hablaría"],
+      ["tu", "parleresti", "you would speak", "hablarías"],
+      ["lui / lei", "parlerebbe", "he / she would speak", "hablaría"],
+      ["noi", "parleremmo", "we would speak", "hablaríamos"],
+      ["voi", "parlereste", "you (pl.) would speak", "hablaríais"],
+      ["loro", "parlerebbero", "they would speak", "hablarían"]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "title": "Passivo (passive voice)",
+    "description": "Passive with essere + participio.",
+    "columns": ["Attivo", "Passivo", "English", "Español"],
+    "rows": [
+      ["Leggono il libro.", "Il libro è letto.", "The book is read.", "El libro es leído."],
+      ["Costruiscono una casa.", "Una casa è costruita.", "A house is being built.", "Se construye una casa."],
+      ["Qualcuno ha rubato la macchina.", "La macchina è stata rubata.", "The car was stolen.", "El coche fue robado."],
+      ["L'azienda ha firmato il contratto.", "Il contratto è stato firmato.", "The contract was signed.", "El contrato fue firmado."]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "title": "Connettivi (linking words)",
+    "description": "Connectors for more advanced sentences.",
+    "columns": ["Italian", "English", "Español"],
+    "rows": [
+      ["anche se", "although", "aunque"],
+      ["perché", "because", "porque"],
+      ["tuttavia", "however", "sin embargo"],
+      ["inoltre", "moreover", "además"],
+      ["mentre", "whereas", "en cambio"],
+      ["affinché", "so that", "para que"],
+      ["a meno che", "unless", "a menos que"]
+    ]
+  }
+]
