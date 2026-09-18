@@ -359,6 +359,12 @@
   }
 
   /* ---------- Texts ---------- */
+  function translationBlocks(item) {
+    return lang.targets
+      .filter(tg => item["translation_" + tg.code])
+      .map(tg => `<div style="margin-top:12px"><span class="l">${tg.label}</span></div>${item["translation_" + tg.code]}`)
+      .join("");
+  }
   function renderTexts() {
     const el = document.getElementById("panel-texts");
     const list = DATA.texts.filter(t => level === "all" || t.level === level);
@@ -369,10 +375,7 @@
         <h3>${t.title}</h3>
         <p class="body">${t.body}</p>
         <button class="link" data-toggle="${t.id}">Show translation</button>
-        <div class="tr" id="tr-${t.id}">
-          <div><span class="l">English</span></div>${t.translation_en}
-          <div style="margin-top:12px"><span class="l">Español</span></div>${t.translation_es}
-        </div>
+        <div class="tr" id="tr-${t.id}">${translationBlocks(t)}</div>
       </div>`).join("");
   }
   function toggleText(id) {
@@ -406,8 +409,11 @@
         <div id="sentences">
           ${ex.items.map((it, i) => {
             const [before, after] = it.sentence.split("___");
+            const tr = lang.targets
+              .map(tg => { const v = it["translation_" + tg.code] || ""; return v ? `<span class="l">${tg.label}</span> ${v}` : ""; })
+              .filter(Boolean).join("<br>");
             return `<div class="sentence">${before}<span class="blank" data-i="${i}">···</span>${after || ""}</div>
-              <div class="tr-line" data-tr="${i}"><span class="l">EN</span> ${it.translation_en || ""}<br><span class="l">ES</span> ${it.translation_es || ""}</div>`;
+              <div class="tr-line" data-tr="${i}">${tr}</div>`;
           }).join("")}
         </div>
       </div>`;

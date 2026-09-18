@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Present simple: to be",
+    "description": "The verb 'to be' is irregular and essential.",
+    "columns": ["Subject", "English", "Español"],
+    "rows": [
+      ["I", "am", "yo soy / estoy"],
+      ["you", "are", "tú eres / estás"],
+      ["he", "is", "él es / está"],
+      ["she", "is", "ella es / está"],
+      ["it", "is", "ello es / está"],
+      ["we", "are", "nosotros somos / estamos"],
+      ["you (pl.)", "are", "vosotros sois / estáis"],
+      ["they", "are", "ellos son / están"]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Present simple: to have",
+    "description": "Note the third person singular 'has'.",
+    "columns": ["Subject", "English", "Español"],
+    "rows": [
+      ["I", "have", "yo tengo"],
+      ["you", "have", "tú tienes"],
+      ["he", "has", "él tiene"],
+      ["she", "has", "ella tiene"],
+      ["it", "has", "ello tiene"],
+      ["we", "have", "nosotros tenemos"],
+      ["you (pl.)", "have", "vosotros tenéis"],
+      ["they", "have", "ellos tienen"]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Subject pronouns in English.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["I", "yo"],
+      ["you", "tú / usted"],
+      ["he", "él"],
+      ["she", "ella"],
+      ["it", "ello"],
+      ["we", "nosotros"],
+      ["you (pl.)", "vosotros / ustedes"],
+      ["they", "ellos / ellas"]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are capitalized in English.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["Monday", "lunes"],
+      ["Tuesday", "martes"],
+      ["Wednesday", "miércoles"],
+      ["Thursday", "jueves"],
+      ["Friday", "viernes"],
+      ["Saturday", "sábado"],
+      ["Sunday", "domingo"]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Months of the year",
+    "description": "Months are capitalized in English.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["January", "enero"],
+      ["February", "febrero"],
+      ["March", "marzo"],
+      ["April", "abril"],
+      ["May", "mayo"],
+      ["June", "junio"],
+      ["July", "julio"],
+      ["August", "agosto"],
+      ["September", "septiembre"],
+      ["October", "octubre"],
+      ["November", "noviembre"],
+      ["December", "diciembre"]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "Basic cardinal numbers.",
+    "columns": ["Number", "English", "Español"],
+    "rows": [
+      ["0", "zero", "cero"],
+      ["1", "one", "uno"],
+      ["2", "two", "dos"],
+      ["3", "three", "tres"],
+      ["4", "four", "cuatro"],
+      ["5", "five", "cinco"],
+      ["6", "six", "seis"],
+      ["7", "seven", "siete"],
+      ["8", "eight", "ocho"],
+      ["9", "nine", "nueve"],
+      ["10", "ten", "diez"],
+      ["11", "eleven", "once"],
+      ["12", "twelve", "doce"],
+      ["13", "thirteen", "trece"],
+      ["15", "fifteen", "quince"],
+      ["20", "twenty", "veinte"]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "Present simple",
+    "description": "Add -s or -es in the third person singular.",
+    "columns": ["Subject", "English (work)", "Español"],
+    "rows": [
+      ["I", "work", "yo trabajo"],
+      ["you", "work", "tú trabajas"],
+      ["he", "works", "él trabaja"],
+      ["she", "works", "ella trabaja"],
+      ["it", "works", "ello funciona"],
+      ["we", "work", "nosotros trabajamos"],
+      ["you (pl.)", "work", "vosotros trabajáis"],
+      ["they", "work", "ellos trabajan"]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "Question words",
+    "description": "Question words usually start a question.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["What?", "¿qué?"],
+      ["Who?", "¿quién?"],
+      ["Where?", "¿dónde?"],
+      ["When?", "¿cuándo?"],
+      ["Why?", "¿por qué?"],
+      ["How?", "¿cómo?"],
+      ["How much / many?", "¿cuánto?"],
+      ["Which?", "¿cuál?"]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "title": "Articles: a / an / the",
+    "description": "Indefinite and definite articles.",
+    "columns": ["Article", "Use", "Example", "Español"],
+    "rows": [
+      ["a", "before a consonant sound", "a book", "un libro"],
+      ["an", "before a vowel sound", "an apple", "una manzana"],
+      ["the", "a specific thing", "the book", "el libro"],
+      ["—", "general plural", "books", "libros"]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "title": "Prepositions of place",
+    "description": "Common prepositions of place.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["in", "en / dentro de"],
+      ["on", "sobre / encima de"],
+      ["under", "debajo de"],
+      ["next to", "al lado de"],
+      ["between", "entre"],
+      ["in front of", "delante de"],
+      ["behind", "detrás de"],
+      ["near", "cerca de"]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "title": "Past simple: to be",
+    "description": "Was for I/he/she/it, were for you/we/they.",
+    "columns": ["Subject", "Affirmative", "Negative", "Español"],
+    "rows": [
+      ["I", "was", "was not (wasn't)", "yo era / estaba"],
+      ["you", "were", "were not (weren't)", "tú eras / estabas"],
+      ["he", "was", "was not (wasn't)", "él era / estaba"],
+      ["she", "was", "was not (wasn't)", "ella era / estaba"],
+      ["it", "was", "was not (wasn't)", "ello era / estaba"],
+      ["we", "were", "were not (weren't)", "nosotros éramos"],
+      ["you (pl.)", "were", "were not (weren't)", "vosotros erais"],
+      ["they", "were", "were not (weren't)", "ellos eran"]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "title": "Comparatives and superlatives",
+    "description": "Some common adjectives are irregular.",
+    "columns": ["Adjective", "Comparative", "Superlative", "Español"],
+    "rows": [
+      ["good", "better", "the best", "bueno / mejor / el mejor"],
+      ["bad", "worse", "the worst", "malo / peor / el peor"],
+      ["big", "bigger", "the biggest", "grande / más grande / el más grande"],
+      ["small", "smaller", "the smallest", "pequeño / más pequeño / el más pequeño"],
+      ["happy", "happier", "the happiest", "feliz / más feliz / el más feliz"]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "title": "Present continuous",
+    "description": "am / is / are + verb-ing for actions happening now.",
+    "columns": ["Subject", "Affirmative", "Español"],
+    "rows": [
+      ["I", "am working", "estoy trabajando"],
+      ["you", "are working", "estás trabajando"],
+      ["he", "is working", "él está trabajando"],
+      ["she", "is working", "ella está trabajando"],
+      ["it", "is working", "ello está funcionando"],
+      ["we", "are working", "estamos trabajando"],
+      ["you (pl.)", "are working", "estáis trabajando"],
+      ["they", "are working", "están trabajando"]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "Irregular verbs (past simple)",
+    "description": "Common verbs with irregular past forms.",
+    "columns": ["Infinitive", "Past", "Español"],
+    "rows": [
+      ["go", "went", "ir"],
+      ["have", "had", "tener"],
+      ["do", "did", "hacer"],
+      ["see", "saw", "ver"],
+      ["eat", "ate", "comer"],
+      ["drink", "drank", "beber"],
+      ["take", "took", "tomar / llevar"]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "title": "Future: will vs going to",
+    "description": "Will for predictions and decisions; going to for plans.",
+    "columns": ["Form", "Use", "Example", "Español"],
+    "rows": [
+      ["will + verb", "prediction / instant decision", "I will call you.", "Te llamaré."],
+      ["going to + verb", "plan / intention", "I am going to travel.", "Voy a viajar."],
+      ["will + verb", "promise", "I will help you.", "Te ayudaré."],
+      ["going to + verb", "evidence", "Look, it is going to rain.", "Mira, va a llover."]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "title": "Present perfect",
+    "description": "have / has + past participle.",
+    "columns": ["Subject", "Affirmative", "Español"],
+    "rows": [
+      ["I", "have worked", "he trabajado"],
+      ["you", "have worked", "has trabajado"],
+      ["he", "has worked", "él ha trabajado"],
+      ["she", "has worked", "ella ha trabajado"],
+      ["we", "have worked", "hemos trabajado"],
+      ["you (pl.)", "have worked", "habéis trabajado"],
+      ["they", "have worked", "ellos han trabajado"]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "title": "Passive voice",
+    "description": "be + past participle.",
+    "columns": ["Active", "Passive", "Español"],
+    "rows": [
+      ["They read the book.", "The book is read.", "El libro es leído."],
+      ["They are building a house.", "A house is being built.", "Se está construyendo una casa."],
+      ["Someone stole the car.", "The car was stolen.", "El coche fue robado."],
+      ["The company signed the contract.", "The contract was signed.", "El contrato fue firmado."]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "title": "Linking words",
+    "description": "Connectors for more advanced sentences.",
+    "columns": ["English", "Español", "Use"],
+    "rows": [
+      ["although", "aunque", "contrast"],
+      ["because", "porque", "reason"],
+      ["however", "sin embargo", "contrast"],
+      ["moreover", "además", "addition"],
+      ["whereas", "en cambio", "contrast"],
+      ["so that", "para que", "purpose"],
+      ["unless", "a menos que", "condition"]
+    ]
+  }
+]

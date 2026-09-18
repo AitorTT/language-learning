@@ -6,8 +6,8 @@
     "termLabel": "Polish",
     "termField": "polish",
     "targets": [
-      {"field": "english", "label": "English"},
-      {"field": "spanish", "label": "Español"}
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
   },
@@ -18,8 +18,8 @@
     "termLabel": "English",
     "termField": "english",
     "targets": [
-      {"field": "spanish", "label": "Español"}
+      {"code": "es", "field": "spanish", "label": "Español"}
     ],
-    "sections": ["vocabulary"]
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
