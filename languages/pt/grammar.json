@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Presente: ser (to be)",
+    "description": "Used for permanent states and identity.",
+    "columns": ["Pessoa", "Portuguese", "English", "Español"],
+    "rows": [
+      ["eu", "sou", "I am", "yo soy"],
+      ["você", "é", "you are", "tú eres"],
+      ["ele", "é", "he is", "él es"],
+      ["ela", "é", "she is", "ella es"],
+      ["nós", "somos", "we are", "nosotros somos"],
+      ["vocês", "são", "you (pl.) are", "vosotros sois"],
+      ["eles", "são", "they are", "ellos son"]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Presente: estar (to be)",
+    "description": "Used for temporary states and locations.",
+    "columns": ["Pessoa", "Portuguese", "English", "Español"],
+    "rows": [
+      ["eu", "estou", "I am", "yo estoy"],
+      ["você", "está", "you are", "tú estás"],
+      ["ele", "está", "he is", "él está"],
+      ["ela", "está", "she is", "ella está"],
+      ["nós", "estamos", "we are", "nosotros estamos"],
+      ["vocês", "estão", "you (pl.) are", "vosotros estáis"],
+      ["eles", "estão", "they are", "ellos están"]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Pronomes pessoais (personal pronouns)",
+    "description": "Subject pronouns in Brazilian Portuguese.",
+    "columns": ["Portuguese", "English", "Español"],
+    "rows": [
+      ["eu", "I", "yo"],
+      ["você", "you (informal)", "tú"],
+      ["ele", "he", "él"],
+      ["ela", "she", "ella"],
+      ["nós", "we", "nosotros"],
+      ["vocês", "you (pl.)", "vosotros"],
+      ["eles / elas", "they", "ellos / ellas"]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Dias da semana (days of the week)",
+    "description": "Most days are formed with '-feira'.",
+    "columns": ["Portuguese", "English", "Español"],
+    "rows": [
+      ["segunda-feira", "Monday", "lunes"],
+      ["terça-feira", "Tuesday", "martes"],
+      ["quarta-feira", "Wednesday", "miércoles"],
+      ["quinta-feira", "Thursday", "jueves"],
+      ["sexta-feira", "Friday", "viernes"],
+      ["sábado", "Saturday", "sábado"],
+      ["domingo", "Sunday", "domingo"]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Meses do ano (months)",
+    "description": "Months are not capitalized in Portuguese.",
+    "columns": ["Portuguese", "English", "Español"],
+    "rows": [
+      ["janeiro", "January", "enero"],
+      ["fevereiro", "February", "febrero"],
+      ["março", "March", "marzo"],
+      ["abril", "April", "abril"],
+      ["maio", "May", "mayo"],
+      ["junho", "June", "junio"],
+      ["julho", "July", "julio"],
+      ["agosto", "August", "agosto"],
+      ["setembro", "September", "septiembre"],
+      ["outubro", "October", "octubre"],
+      ["novembro", "November", "noviembre"],
+      ["dezembro", "December", "diciembre"]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Números 0–20 (numbers)",
+    "description": "Basic cardinal numbers.",
+    "columns": ["Número", "Portuguese", "English", "Español"],
+    "rows": [
+      ["0", "zero", "zero", "cero"],
+      ["1", "um", "one", "uno"],
+      ["2", "dois", "two", "dos"],
+      ["3", "três", "three", "tres"],
+      ["4", "quatro", "four", "cuatro"],
+      ["5", "cinco", "five", "cinco"],
+      ["6", "seis", "six", "seis"],
+      ["7", "sete", "seven", "siete"],
+      ["8", "oito", "eight", "ocho"],
+      ["9", "nove", "nine", "nueve"],
+      ["10", "dez", "ten", "diez"],
+      ["11", "onze", "eleven", "once"],
+      ["12", "doze", "twelve", "doce"],
+      ["13", "treze", "thirteen", "trece"],
+      ["15", "quinze", "fifteen", "quince"],
+      ["20", "vinte", "twenty", "veinte"]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "Presente: verbos regulares (-ar: falar)",
+    "description": "Regular -ar verbs follow this pattern.",
+    "columns": ["Pessoa", "Portuguese (falar)", "English", "Español"],
+    "rows": [
+      ["eu", "falo", "I speak", "yo hablo"],
+      ["você", "fala", "you speak", "tú hablas"],
+      ["ele / ela", "fala", "he / she speaks", "él / ella habla"],
+      ["nós", "falamos", "we speak", "nosotros hablamos"],
+      ["vocês", "falam", "you (pl.) speak", "vosotros habláis"],
+      ["eles", "falam", "they speak", "ellos hablan"]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "Palavras interrogativas (question words)",
+    "description": "Question words start most questions.",
+    "columns": ["Portuguese", "English", "Español"],
+    "rows": [
+      ["o que?", "what?", "¿qué?"],
+      ["quem?", "who?", "¿quién?"],
+      ["onde?", "where?", "¿dónde?"],
+      ["quando?", "when?", "¿cuándo?"],
+      ["por que?", "why?", "¿por qué?"],
+      ["como?", "how?", "¿cómo?"],
+      ["quanto?", "how much?", "¿cuánto?"],
+      ["qual?", "which?", "¿cuál?"]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "title": "Artigos definidos (o / a / os / as)",
+    "description": "Definite articles agree with gender and number.",
+    "columns": ["Gênero", "Singular", "Plural", "English", "Español"],
+    "rows": [
+      ["Masculino", "o", "os", "the", "el / los"],
+      ["Feminino", "a", "as", "the", "la / las"]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "title": "Preposições de lugar (prepositions of place)",
+    "description": "Common prepositions of place.",
+    "columns": ["Portuguese", "English", "Español"],
+    "rows": [
+      ["em", "in", "en / dentro de"],
+      ["sobre", "on", "sobre / encima de"],
+      ["debaixo de", "under", "debajo de"],
+      ["ao lado de", "next to", "al lado de"],
+      ["entre", "between", "entre"],
+      ["na frente de", "in front of", "delante de"],
+      ["atrás de", "behind", "detrás de"],
+      ["perto de", "near", "cerca de"]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "title": "Pretérito perfeito",
+    "description": "The simple past for completed actions.",
+    "columns": ["Verbo", "Pretérito perfeito (eu)", "English", "Español"],
+    "rows": [
+      ["falar", "falei", "I spoke", "hablé"],
+      ["comer", "comi", "I ate", "comí"],
+      ["partir", "parti", "I left", "partí"],
+      ["ir", "fui", "I went", "fui"],
+      ["ser", "fui", "I was", "fui"],
+      ["fazer", "fiz", "I did", "hice"]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "title": "Comparativos e superlativos",
+    "description": "Comparatives and superlatives.",
+    "columns": ["Adjetivo", "Comparativo", "Superlativo", "English", "Español"],
+    "rows": [
+      ["bom", "melhor", "o melhor", "good / better / best", "bueno / mejor / el mejor"],
+      ["ruim", "pior", "o pior", "bad / worse / worst", "malo / peor / el peor"],
+      ["grande", "maior", "o maior", "big / bigger / biggest", "grande / mayor / el mayor"],
+      ["pequeno", "menor", "o menor", "small / smaller / smallest", "pequeño / menor / el menor"],
+      ["bonito", "mais bonito", "o mais bonito", "beautiful / more / most beautiful", "hermoso / más / el más hermoso"]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "title": "Pretérito imperfeito (falar)",
+    "description": "The imperfect tense for past habits and descriptions.",
+    "columns": ["Pessoa", "Portuguese", "English", "Español"],
+    "rows": [
+      ["eu", "falava", "I used to speak", "yo hablaba"],
+      ["você", "falava", "you used to speak", "tú hablabas"],
+      ["ele / ela", "falava", "he / she used to speak", "él / ella hablaba"],
+      ["nós", "falávamos", "we used to speak", "nosotros hablábamos"],
+      ["vocês", "falavam", "you (pl.) used to speak", "vosotros hablabais"],
+      ["eles", "falavam", "they used to speak", "ellos hablaban"]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "Particípios irregulares",
+    "description": "Common verbs with irregular past participles.",
+    "columns": ["Infinitivo", "Particípio", "English", "Español"],
+    "rows": [
+      ["fazer", "feito", "done", "hecho"],
+      ["dizer", "dito", "said", "dicho"],
+      ["ver", "visto", "seen", "visto"],
+      ["abrir", "aberto", "opened", "abierto"],
+      ["escrever", "escrito", "written", "escrito"],
+      ["pôr", "posto", "put", "puesto"]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "title": "Futuro: ir + infinitivo",
+    "description": "The most common way to express the future.",
+    "columns": ["Pessoa", "Portuguese (falar)", "English", "Español"],
+    "rows": [
+      ["eu", "vou falar", "I am going to speak", "voy a hablar"],
+      ["você", "vai falar", "you are going to speak", "vas a hablar"],
+      ["ele / ela", "vai falar", "he / she is going to speak", "va a hablar"],
+      ["nós", "vamos falar", "we are going to speak", "vamos a hablar"],
+      ["vocês", "vão falar", "you (pl.) are going to speak", "vais a hablar"],
+      ["eles", "vão falar", "they are going to speak", "van a hablar"]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "title": "Condicional (falar)",
+    "description": "The conditional mood, used for politeness and hypotheses.",
+    "columns": ["Pessoa", "Portuguese", "English", "Español"],
+    "rows": [
+      ["eu", "falaria", "I would speak", "hablaría"],
+      ["você", "falaria", "you would speak", "hablarías"],
+      ["ele / ela", "falaria", "he / she would speak", "hablaría"],
+      ["nós", "falaríamos", "we would speak", "hablaríamos"],
+      ["vocês", "falariam", "you (pl.) would speak", "hablaríais"],
+      ["eles", "falariam", "they would speak", "hablarían"]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "title": "Voz passiva (passive voice)",
+    "description": "Passive with ser + particípio.",
+    "columns": ["Ativa", "Passiva", "English", "Español"],
+    "rows": [
+      ["Eles leem o livro.", "O livro é lido.", "The book is read.", "El libro es leído."],
+      ["Eles constroem uma casa.", "Uma casa é construída.", "A house is being built.", "Se construye una casa."],
+      ["Alguém roubou o carro.", "O carro foi roubado.", "The car was stolen.", "El coche fue robado."],
+      ["A empresa assinou o contrato.", "O contrato foi assinado.", "The contract was signed.", "El contrato fue firmado."]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "title": "Conjunções (linking words)",
+    "description": "Connectors for more advanced sentences.",
+    "columns": ["Portuguese", "English", "Español"],
+    "rows": [
+      ["embora", "although", "aunque"],
+      ["porque", "because", "porque"],
+      ["no entanto", "however", "sin embargo"],
+      ["além disso", "moreover", "además"],
+      ["enquanto", "whereas", "en cambio"],
+      ["para que", "so that", "para que"],
+      ["a menos que", "unless", "a menos que"]
+    ]
+  }
+]

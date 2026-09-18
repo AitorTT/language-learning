@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'ser' (to be) into each gap.",
+    "items": [
+      {"sentence": "Eu ___ brasileiro.", "answer": "sou", "translation_en": "I am Brazilian.", "translation_es": "Soy brasileño."},
+      {"sentence": "Ela ___ minha irmã.", "answer": "é", "translation_en": "She is my sister.", "translation_es": "Ella es mi hermana."},
+      {"sentence": "Nós ___ estudantes.", "answer": "somos", "translation_en": "We are students.", "translation_es": "Somos estudiantes."},
+      {"sentence": "Eles ___ meus amigos.", "answer": "são", "translation_en": "They are my friends.", "translation_es": "Ellos son mis amigos."}
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'ter' (to have) into each gap.",
+    "items": [
+      {"sentence": "Eu ___ um irmão.", "answer": "tenho", "translation_en": "I have a brother.", "translation_es": "Tengo un hermano."},
+      {"sentence": "Ela ___ um cachorro.", "answer": "tem", "translation_en": "She has a dog.", "translation_es": "Ella tiene un perro."},
+      {"sentence": "Nós ___ uma casa grande.", "answer": "temos", "translation_en": "We have a big house.", "translation_es": "Tenemos una casa grande."},
+      {"sentence": "Ele ___ dois gatos.", "answer": "tem", "translation_en": "He has two cats.", "translation_es": "Él tiene dos gatos."}
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "Bebo ___ com leite.", "answer": "café", "translation_en": "I drink coffee with milk.", "translation_es": "Bebo café con leche."},
+      {"sentence": "Esta é a minha ___ .", "answer": "casa", "translation_en": "This is my house.", "translation_es": "Esta es mi casa."},
+      {"sentence": "Meu ___ se chama Max.", "answer": "cachorro", "translation_en": "My dog's name is Max.", "translation_es": "Mi perro se llama Max."},
+      {"sentence": "Como ___ no café da manhã.", "answer": "pão", "translation_en": "I eat bread for breakfast.", "translation_es": "Como pan para el desayuno."}
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {"sentence": "___ é o seu nome?", "answer": "Qual", "translation_en": "What is your name?", "translation_es": "¿Cuál es tu nombre?"},
+      {"sentence": "___ você mora?", "answer": "Onde", "translation_en": "Where do you live?", "translation_es": "¿Dónde vives?"},
+      {"sentence": "___ anos você tem?", "answer": "Quantos", "translation_en": "How old are you?", "translation_es": "¿Cuántos años tienes?"},
+      {"sentence": "___ é este?", "answer": "Quem", "translation_en": "Who is this?", "translation_es": "¿Quién es?"}
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A2",
+    "instruction": "Drag the correct present tense verb into each gap.",
+    "items": [
+      {"sentence": "Eu ___ em São Paulo.", "answer": "moro", "translation_en": "I live in São Paulo.", "translation_es": "Vivo en São Paulo."},
+      {"sentence": "Ela ___ num banco.", "answer": "trabalha", "translation_en": "She works in a bank.", "translation_es": "Ella trabaja en un banco."},
+      {"sentence": "Nós ___ português todos os dias.", "answer": "estudamos", "translation_en": "We study Portuguese every day.", "translation_es": "Estudiamos portugués cada día."},
+      {"sentence": "Eles ___ o ônibus.", "answer": "esperam", "translation_en": "They are waiting for the bus.", "translation_es": "Ellos esperan el autobús."}
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A2",
+    "instruction": "Drag the correct past tense form into each gap.",
+    "items": [
+      {"sentence": "Ontem eu ___ em casa.", "answer": "estava", "translation_en": "Yesterday I was at home.", "translation_es": "Ayer estuve en casa."},
+      {"sentence": "Ela ___ um livro.", "answer": "lia", "translation_en": "She was reading a book.", "translation_es": "Ella leía un libro."},
+      {"sentence": "Nós ___ de férias.", "answer": "estávamos", "translation_en": "We were on holiday.", "translation_es": "Estábamos de vacaciones."},
+      {"sentence": "Eles ___ num restaurante.", "answer": "comiam", "translation_en": "They were eating in a restaurant.", "translation_es": "Ellos comían en un restaurante."}
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {"sentence": "Esta casa é muito ___ .", "answer": "cara", "translation_en": "This house is very expensive.", "translation_es": "Esta casa es muy cara."},
+      {"sentence": "Meu gato é ___ .", "answer": "pequeno", "translation_en": "My cat is small.", "translation_es": "Mi gato es pequeño."},
+      {"sentence": "Ela está ___ porque passou na prova.", "answer": "feliz", "translation_en": "She is happy because she passed the exam.", "translation_es": "Ella está feliz porque aprobó el examen."},
+      {"sentence": "Este café é ___ .", "answer": "bom", "translation_en": "This coffee is good.", "translation_es": "Este café está bueno."}
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "Eu gostaria de pedir o ___ principal.", "answer": "prato", "translation_en": "I would like to order the main course.", "translation_es": "Me gustaría pedir el plato principal."},
+      {"sentence": "A ___ , por favor.", "answer": "conta", "translation_en": "The bill, please.", "translation_es": "La cuenta, por favor."},
+      {"sentence": "Esta sopa está muito ___ .", "answer": "saborosa", "translation_en": "This soup is very tasty.", "translation_es": "Esta sopa está muy rica."},
+      {"sentence": "Posso pedir um pouco de ___ ?", "answer": "água", "translation_en": "Can I ask for some water?", "translation_es": "¿Puedo pedir un poco de agua?"}
+    ]
+  },
+  {
+    "id": 9,
+    "level": "B1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "Tenho muita ___ neste trabalho.", "answer": "experiência", "translation_en": "I have a lot of experience in this job.", "translation_es": "Tengo mucha experiencia en este trabajo."},
+      {"sentence": "Meu ___ é muito simpático.", "answer": "chefe", "translation_en": "My boss is very nice.", "translation_es": "Mi jefe es muy simpático."},
+      {"sentence": "Amanhã tenho uma ___ importante.", "answer": "reunião", "translation_en": "Tomorrow I have an important meeting.", "translation_es": "Mañana tengo una reunión importante."},
+      {"sentence": "Assinei um novo ___ .", "answer": "contrato", "translation_en": "I signed a new contract.", "translation_es": "Firmé un nuevo contrato."}
+    ]
+  },
+  {
+    "id": 10,
+    "level": "B1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Preciso ___ onde estudar.", "answer": "decidir", "translation_en": "I need to decide where to study.", "translation_es": "Tengo que decidir dónde estudiar."},
+      {"sentence": "Quero ___ este filme, é ótimo.", "answer": "recomendar", "translation_en": "I want to recommend this film, it is great.", "translation_es": "Quiero recomendar esta película, es genial."},
+      {"sentence": "É difícil ___ dois idiomas diferentes.", "answer": "comparar", "translation_en": "It is hard to compare two different languages.", "translation_es": "Es difícil comparar dos idiomas diferentes."},
+      {"sentence": "Ele sabe ___ tudo.", "answer": "explicar", "translation_en": "He can explain everything.", "translation_es": "Él sabe explicarlo todo."}
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "___ não posso ir à reunião.", "answer": "Infelizmente", "translation_en": "Unfortunately, I cannot come to the meeting.", "translation_es": "Desafortunadamente, no puedo ir a la reunión."},
+      {"sentence": "Devemos proteger o meio ___ .", "answer": "ambiente", "translation_en": "We must protect the environment.", "translation_es": "Debemos proteger el medio ambiente."},
+      {"sentence": "A saúde é o mais importante na ___ .", "answer": "vida", "translation_en": "Health is the most important thing in life.", "translation_es": "La salud es lo más importante en la vida."},
+      {"sentence": "Cada um tem o direito à sua própria ___ .", "answer": "escolha", "translation_en": "Everyone has the right to their own choice.", "translation_es": "Todos tienen derecho a su propia elección."}
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "Eu sinto ___ antes da prova.", "answer": "medo", "translation_en": "I feel fear before the exam.", "translation_es": "Siento miedo antes del examen."},
+      {"sentence": "O maior sonho dela é a ___ .", "answer": "felicidade", "translation_en": "Her greatest dream is happiness.", "translation_es": "Su mayor sueño es la felicidad."},
+      {"sentence": "Tenho ___ de que tudo vai dar certo.", "answer": "esperança", "translation_en": "I have hope that everything will be fine.", "translation_es": "Tengo la esperanza de que todo saldrá bien."},
+      {"sentence": "Ele não esconde o seu ___ .", "answer": "ciúme", "translation_en": "He does not hide his jealousy.", "translation_es": "Él no oculta sus celos."}
+    ]
+  },
+  {
+    "id": 13,
+    "level": "B2",
+    "instruction": "Drag the correct linking word into each gap.",
+    "items": [
+      {"sentence": "Ele não veio, ___ tivesse prometido.", "answer": "embora", "translation_en": "He did not come even though he had promised.", "translation_es": "No vino aunque lo había prometido."},
+      {"sentence": "Esta solução é cara, ___ eficaz.", "answer": "no entanto", "translation_en": "This solution is expensive, however effective.", "translation_es": "Esta solución es cara, sin embargo es eficaz."},
+      {"sentence": "Ele prefere café, ___ ela prefere chá.", "answer": "enquanto", "translation_en": "He prefers coffee, whereas she prefers tea.", "translation_es": "Él prefiere café, en cambio ella prefiere té."},
+      {"sentence": "O projeto é difícil, ___ muito interessante.", "answer": "além disso", "translation_en": "The project is difficult, moreover very interesting.", "translation_es": "El proyecto es difícil, además muy interesante."}
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B2",
+    "instruction": "Drag the correct noun into each gap.",
+    "items": [
+      {"sentence": "Os cientistas realizaram uma nova ___ .", "answer": "pesquisa", "translation_en": "Scientists conducted new research.", "translation_es": "Los científicos realizaron una nueva investigación."},
+      {"sentence": "Tenho ___ sobre esta ideia.", "answer": "dúvidas", "translation_en": "I have doubts about this idea.", "translation_es": "Tengo dudas sobre esta idea."},
+      {"sentence": "A tecnologia tem uma grande ___ na nossa vida.", "answer": "influência", "translation_en": "Technology has a big influence on our lives.", "translation_es": "La tecnología tiene una gran influencia en nuestras vidas."},
+      {"sentence": "Encontramos a melhor ___ para o problema.", "answer": "solução", "translation_en": "We found the best solution to the problem.", "translation_es": "Encontramos la mejor solución al problema."}
+    ]
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "É difícil ___ o futuro da economia.", "answer": "prever", "translation_en": "It is hard to predict the future of the economy.", "translation_es": "Es difícil predecir el futuro de la economía."},
+      {"sentence": "Precisamos ___ todos os dados.", "answer": "analisar", "translation_en": "We have to analyze all the data.", "translation_es": "Tenemos que analizar todos los datos."},
+      {"sentence": "Ele tenta ___ a sua teoria.", "answer": "provar", "translation_en": "He is trying to prove his theory.", "translation_es": "Él intenta demostrar su teoría."},
+      {"sentence": "Os especialistas ___ a situação no mercado.", "answer": "avaliam", "translation_en": "Experts assess the situation on the market.", "translation_es": "Los expertos evalúan la situación del mercado."}
+    ]
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "A internet tem uma grande influência na ___ .", "answer": "sociedade", "translation_en": "The internet has a big influence on society.", "translation_es": "Internet tiene una gran influencia en la sociedad."},
+      {"sentence": "Os meios de comunicação muitas vezes moldam a nossa ___ .", "answer": "opinião", "translation_en": "The media often shape our opinion.", "translation_es": "Los medios a menudo forman nuestra opinión."},
+      {"sentence": "As novas tecnologias podem ser uma ___ .", "answer": "ameaça", "translation_en": "New technologies can be a threat.", "translation_es": "Las nuevas tecnologías pueden ser una amenaza."},
+      {"sentence": "Vale a pena manter um ___ entre trabalho e vida.", "answer": "equilíbrio", "translation_en": "It is worth keeping a balance between work and life.", "translation_es": "Vale la pena mantener un equilibrio entre el trabajo y la vida."}
+    ]
+  }
+]
