@@ -284,7 +284,12 @@
     animals: "#27ae60", food: "#d35400", clothes: "#16a085", house: "#2c3e50",
     city: "#7f8c8d", travel: "#2980b9", time: "#c0392b", adverbs: "#5d6d7e",
     nature: "#27ae60", work: "#b7950b", education: "#2e86c1", body: "#cb4335",
-    emotions: "#e74c3c", conjunctions: "#1f618d"
+    emotions: "#e74c3c", conjunctions: "#1f618d",
+    weather: "#3d9be9", directions: "#0e7490", sports: "#e74c3c", music: "#8e44ad",
+    money: "#b7950b", environment: "#2ecc71", society: "#34495e", science: "#2980b9",
+    technology: "#6c5ce7", health: "#e84393", transport: "#00b894", shopping: "#e17055",
+    prepositions: "#636e72", questions: "#0984e3", hobbies: "#fdcb6e", geography: "#00cec9",
+    arts: "#a29bfe", feelings: "#fd79a8"
   };
   const LEVELS = ["A1", "A2", "B1", "B2"];
 
@@ -737,6 +742,7 @@
     document.querySelectorAll("#langs button").forEach(b => b.classList.toggle("active", b.dataset.lang === code));
     document.getElementById("subtitle").textContent =
       `${lang.name} · translations in ${lang.targets.map(t => t.label).join(", ")}`;
+    document.getElementById("noteContent").placeholder = `Write in ${lang.name} here…`;
     updateTabs();
     loadData(code).then(() => {
       if (!(tab === "writing" || lang.sections.includes(TAB_SECTION[tab]))) tab = "flashcards";

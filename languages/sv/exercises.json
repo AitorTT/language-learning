@@ -174,5 +174,159 @@
       {"sentence": "Ny teknik kan vara ett ___ .", "answer": "hot", "translation_en": "New technologies can be a threat.", "translation_es": "Las nuevas tecnologías pueden ser una amenaza."},
       {"sentence": "Det är värt att hålla en ___ mellan arbete och liv.", "answer": "balans", "translation_en": "It is worth keeping a balance between work and life.", "translation_es": "Vale la pena mantener un equilibrio entre el trabajo y la vida."}
     ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct possessive pronoun into each gap.",
+    "items": [
+      {"sentence": "Jag har en ny telefon. Det här är ___ telefon.", "answer": "min", "translation_en": "I have a new phone. This is my phone.", "translation_es": "Tengo un teléfono nuevo. Este es mi teléfono."},
+      {"sentence": "Du har en röd bil. Är det här ___ bil?", "answer": "din", "translation_en": "You have a red car. Is this your car?", "translation_es": "Tienes un coche rojo. ¿Es este tu coche?"},
+      {"sentence": "Anna älskar ___ katt mycket.", "answer": "sin", "translation_en": "Anna loves her cat very much.", "translation_es": "Anna quiere mucho a su gato."},
+      {"sentence": "Tom letar efter ___ nycklar.", "answer": "sina", "translation_en": "Tom is looking for his keys.", "translation_es": "Tom está buscando sus llaves."}
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct plural form into each gap.",
+    "items": [
+      {"sentence": "Jag har två ___ .", "answer": "katter", "translation_en": "I have two cats.", "translation_es": "Tengo dos gatos."},
+      {"sentence": "I trädgården finns tre ___ .", "answer": "blommor", "translation_en": "There are three flowers in the garden.", "translation_es": "Hay tres flores en el jardín."},
+      {"sentence": "Hon köpte fyra ___ .", "answer": "äpplen", "translation_en": "She bought four apples.", "translation_es": "Ella compró cuatro manzanas."},
+      {"sentence": "Vi har två ___ hemma.", "answer": "hundar", "translation_en": "We have two dogs at home.", "translation_es": "Tenemos dos perros en casa."}
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {"sentence": "Jag har ___ bror och en syster.", "answer": "en", "translation_en": "I have one brother and one sister.", "translation_es": "Tengo un hermano y una hermana."},
+      {"sentence": "En vecka har ___ dagar.", "answer": "sju", "translation_en": "There are seven days in a week.", "translation_es": "Hay siete días en una semana."},
+      {"sentence": "En katt har ___ ben.", "answer": "fyra", "translation_en": "A cat has four legs.", "translation_es": "Un gato tiene cuatro patas."},
+      {"sentence": "Jag har ___ fingrar på en hand.", "answer": "fem", "translation_en": "I have five fingers on one hand.", "translation_es": "Tengo cinco dedos en una mano."}
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {"sentence": "Solen är ___ .", "answer": "gul", "translation_en": "The sun is yellow.", "translation_es": "El sol es amarillo."},
+      {"sentence": "Gräset är ___ .", "answer": "grönt", "translation_en": "The grass is green.", "translation_es": "La hierba es verde."},
+      {"sentence": "Himlen är ___ idag.", "answer": "blå", "translation_en": "The sky is blue today.", "translation_es": "El cielo está azul hoy."},
+      {"sentence": "Mjölken är ___ .", "answer": "vit", "translation_en": "Milk is white.", "translation_es": "La leche es blanca."}
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct preposition of place into each gap.",
+    "items": [
+      {"sentence": "Katten är ___ bordet.", "answer": "under", "translation_en": "The cat is under the table.", "translation_es": "El gato está debajo de la mesa."},
+      {"sentence": "Mina nycklar är ___ väskan.", "answer": "i", "translation_en": "My keys are in my bag.", "translation_es": "Mis llaves están en mi bolso."},
+      {"sentence": "Tavlan hänger ___ väggen.", "answer": "på", "translation_en": "The picture is on the wall.", "translation_es": "El cuadro está en la pared."},
+      {"sentence": "Banken ligger ___ snabbköpet.", "answer": "bredvid", "translation_en": "The bank is next to the supermarket.", "translation_es": "El banco está al lado del supermercado."}
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct past tense form into each gap.",
+    "items": [
+      {"sentence": "Igår kväll ___ jag en bra film.", "answer": "såg", "translation_en": "Last night I watched a good film.", "translation_es": "Anoche vi una buena película."},
+      {"sentence": "Hon ___ till Paris i somras.", "answer": "reste", "translation_en": "She travelled to Paris last summer.", "translation_es": "Ella viajó a París el verano pasado."},
+      {"sentence": "Vi ___ middag på en liten restaurang.", "answer": "åt", "translation_en": "We had dinner in a small restaurant.", "translation_es": "Cenamos en un restaurante pequeño."},
+      {"sentence": "De ___ matchen i lördags.", "answer": "vann", "translation_en": "They won the match on Saturday.", "translation_es": "Ellos ganaron el partido el sábado."}
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct comparative form into each gap.",
+    "items": [
+      {"sentence": "Mitt hus är ___ än ditt.", "answer": "större", "translation_en": "My house is bigger than yours.", "translation_es": "Mi casa es más grande que la tuya."},
+      {"sentence": "Det här provet är ___ än det förra.", "answer": "lättare", "translation_en": "This exam is easier than the previous one.", "translation_es": "Este examen es más fácil que el anterior."},
+      {"sentence": "Idag är det ___ än igår.", "answer": "kallare", "translation_en": "Today it is colder than yesterday.", "translation_es": "Hoy hace más frío que ayer."},
+      {"sentence": "Hennes bil är ___ än min.", "answer": "snabbare", "translation_en": "Her car is faster than mine.", "translation_es": "Su coche es más rápido que el mío."}
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {"sentence": "Ta med ett paraply, det är ___ idag.", "answer": "regnigt", "translation_en": "Take an umbrella, it is rainy today.", "translation_es": "Coge un paraguas, hoy está lluvioso."},
+      {"sentence": "Det är mycket ___ , jag behöver en kappa.", "answer": "kallt", "translation_en": "It is very cold, I need a coat.", "translation_es": "Hace mucho frío, necesito un abrigo."},
+      {"sentence": "Himlen är grå och ___ .", "answer": "molnig", "translation_en": "The sky is grey and cloudy.", "translation_es": "El cielo está gris y nublado."},
+      {"sentence": "Det är ___ , vi går till stranden.", "answer": "soligt", "translation_en": "It is sunny, let's go to the beach.", "translation_es": "Está soleado, vamos a la playa."}
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Regelbunden träning kan ___ din svenska.", "answer": "förbättra", "translation_en": "Regular practice can improve your Swedish.", "translation_es": "La práctica regular puede mejorar tu sueco."},
+      {"sentence": "Jag ___ att vi tar tåget i stället för bilen.", "answer": "föreslår", "translation_en": "I suggest taking the train instead of the car.", "translation_es": "Sugiero tomar el tren en lugar del coche."},
+      {"sentence": "Du borde ___ fet mat om du vill vara frisk.", "answer": "undvika", "translation_en": "You should avoid fatty food if you want to be healthy.", "translation_es": "Deberías evitar la comida grasa si quieres estar sano."},
+      {"sentence": "Företaget vill ___ en ny produkt.", "answer": "utveckla", "translation_en": "The company wants to develop a new product.", "translation_es": "La empresa quiere desarrollar un nuevo producto."}
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "instruction": "Drag the correct noun into each gap.",
+    "items": [
+      {"sentence": "___ av luften är ett allvarligt problem i stora städer.", "answer": "Förorening", "translation_en": "Air pollution is a serious problem in big cities.", "translation_es": "La contaminación del aire es un problema grave en las grandes ciudades."},
+      {"sentence": "___ godkände en ny lag förra månaden.", "answer": "Regeringen", "translation_en": "The government passed a new law last month.", "translation_es": "El gobierno aprobó una nueva ley el mes pasado."},
+      {"sentence": "Varje ___ borde respektera lagen.", "answer": "medborgare", "translation_en": "Every citizen should respect the law.", "translation_es": "Todo ciudadano debería respetar la ley."},
+      {"sentence": "Hon studerar ___ på universitetet.", "answer": "vetenskap", "translation_en": "She is studying science at university.", "translation_es": "Ella estudia ciencias en la universidad."}
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B1",
+    "instruction": "Drag the correct adverb into each gap.",
+    "items": [
+      {"sentence": "___ åker vi till Italien nästa år.", "answer": "Kanske", "translation_en": "Perhaps we will go to Italy next year.", "translation_es": "Quizás vayamos a Italia el año que viene."},
+      {"sentence": "Jag ___ glömde nycklarna hemma.", "answer": "faktiskt", "translation_en": "I actually forgot my keys at home.", "translation_es": "En realidad olvidé mis llaves en casa."},
+      {"sentence": "Kom hit ___ .", "answer": "omedelbart", "translation_en": "Come here immediately.", "translation_es": "Ven aquí inmediatamente."},
+      {"sentence": "___ var tåget försenat igen.", "answer": "Tyvärr", "translation_en": "Unfortunately, the train was late again.", "translation_es": "Desafortunadamente, el tren llegó tarde otra vez."}
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {"sentence": "Hans svar var ___ och svårt att förstå.", "answer": "tvetydigt", "translation_en": "His answer was ambiguous and difficult to understand.", "translation_es": "Su respuesta era ambigua y difícil de entender."},
+      {"sentence": "Projektet är inte ___ med en så liten budget.", "answer": "genomförbart", "translation_en": "The project is not feasible with such a small budget.", "translation_es": "El proyecto no es factible con un presupuesto tan pequeño."},
+      {"sentence": "Förändring är ___ i en snabb värld.", "answer": "oundviklig", "translation_en": "Change is inevitable in a fast-moving world.", "translation_es": "El cambio es inevitable en un mundo que avanza rápido."},
+      {"sentence": "Rapporten ger en ___ översikt av situationen.", "answer": "omfattande", "translation_en": "The report gives a comprehensive overview of the situation.", "translation_es": "El informe ofrece una visión integral de la situación."}
+    ]
+  },
+  {
+    "id": 29,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Ständig kritik kan ___ en persons självförtroende.", "answer": "undergräva", "translation_en": "Constant criticism can undermine a person's confidence.", "translation_es": "Las críticas constantes pueden socavar la confianza de una persona."},
+      {"sentence": "Resultaten ___ våra tidigare slutsatser.", "answer": "förstärker", "translation_en": "The results reinforce our earlier conclusions.", "translation_es": "Los resultados refuerzan nuestras conclusiones anteriores."},
+      {"sentence": "Dessa åtgärder kan ___ effekterna av krisen.", "answer": "mildra", "translation_en": "These measures can mitigate the effects of the crisis.", "translation_es": "Estas medidas pueden mitigar los efectos de la crisis."},
+      {"sentence": "Det nya systemet kan ___ kommunikationen mellan teamen.", "answer": "underlätta", "translation_en": "The new system can facilitate communication between teams.", "translation_es": "El nuevo sistema puede facilitar la comunicación entre equipos."}
+    ]
+  },
+  {
+    "id": 30,
+    "level": "B2",
+    "instruction": "Drag the correct technology noun into each gap.",
+    "items": [
+      {"sentence": "Användare är oroade över sin ___ online.", "answer": "integritet", "translation_en": "Users are worried about their online privacy.", "translation_es": "Los usuarios están preocupados por su privacidad en línea."},
+      {"sentence": "Plattformen använder en komplex ___ för att rangordna resultaten.", "answer": "algoritm", "translation_en": "The platform uses a complex algorithm to rank results.", "translation_es": "La plataforma usa un algoritmo complejo para ordenar los resultados."},
+      {"sentence": "Vi samlar in mycket ___ om våra kunder.", "answer": "data", "translation_en": "We collect a lot of data about our customers.", "translation_es": "Recopilamos muchos datos sobre nuestros clientes."},
+      {"sentence": "___ blir allt viktigare för varje företag.", "answer": "Innovation", "translation_en": "Innovation is becoming essential for every company.", "translation_es": "La innovación es cada vez más esencial para toda empresa."}
+    ]
   }
 ]

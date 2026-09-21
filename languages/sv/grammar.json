@@ -291,5 +291,143 @@
       ["så att", "so that", "para que"],
       ["om inte", "unless", "a menos que"]
     ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "title": "Plural (plural nouns)",
+    "description": "Swedish plurals often end in -or, -ar, -er or -n.",
+    "columns": ["Singular", "Plural", "Español"],
+    "rows": [
+      ["en flicka", "flickor", "la chica / las chicas"],
+      ["en bil", "bilar", "el coche / los coches"],
+      ["en katt", "katter", "el gato / los gatos"],
+      ["ett hus", "hus", "la casa / las casas"],
+      ["ett äpple", "äpplen", "la manzana / las manzanas"],
+      ["en bok", "böcker", "el libro / los libros"],
+      ["en man", "män", "el hombre / los hombres"],
+      ["ett barn", "barn", "el niño / los niños"]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "title": "Bestämd form (definite form)",
+    "description": "The definite article is a suffix: -en, -n, -et.",
+    "columns": ["Obestämd", "Bestämd", "Español"],
+    "rows": [
+      ["en bil", "bilen", "el coche"],
+      ["en katt", "katten", "el gato"],
+      ["en flicka", "flickan", "la chica"],
+      ["ett hus", "huset", "la casa"],
+      ["ett äpple", "äpplet", "la manzana"],
+      ["en bok", "boken", "el libro"]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "title": "Personliga pronomen (subject and object)",
+    "description": "Subject and object pronouns.",
+    "columns": ["Subjekt", "Objekt", "Español"],
+    "rows": [
+      ["jag", "mig", "yo / mí"],
+      ["du", "dig", "tú / ti"],
+      ["han", "honom", "él / lo"],
+      ["hon", "henne", "ella / la"],
+      ["vi", "oss", "nosotros / nos"],
+      ["ni", "er", "vosotros / os"],
+      ["de", "dem", "ellos / los"]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Verb: presens och preteritum",
+    "description": "Regular verbs in the present and past.",
+    "columns": ["Infinitiv", "Presens", "Preteritum", "Español"],
+    "rows": [
+      ["arbeta", "arbetar", "arbetade", "trabajar"],
+      ["läsa", "läser", "läste", "leer"],
+      ["bo", "bor", "bodde", "vivir"],
+      ["köpa", "köper", "köpte", "comprar"],
+      ["skriva", "skriver", "skrev", "escribir"]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Hjälpverb (modal verbs)",
+    "description": "kan, måste, vill, ska are followed by the infinitive.",
+    "columns": ["Modalverb", "Exempel", "Español"],
+    "rows": [
+      ["kan", "Jag kan simma.", "Sé nadar."],
+      ["måste", "Du måste gå nu.", "Tienes que irte ahora."],
+      ["vill", "Hon vill läsa.", "Ella quiere leer."],
+      ["ska", "Vi ska resa imorgon.", "Vamos a viajar mañana."],
+      ["får", "Man får inte röka här.", "No se puede fumar aquí."]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Ordföljd (word order)",
+    "description": "The verb comes second in main clauses, first in questions.",
+    "columns": ["Typ", "Exempel", "Español"],
+    "rows": [
+      ["Påstående", "Jag dricker kaffe.", "Yo bebo café."],
+      ["Inversion", "Idag dricker jag kaffe.", "Hoy bebo yo café."],
+      ["Fråga", "Dricker du kaffe?", "¿Bebes café?"],
+      ["Nekande", "Jag dricker inte kaffe.", "No bebo café."]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "title": "Bisatser (subordinate clauses)",
+    "description": "The particle 'att' introduces subordinate clauses.",
+    "columns": ["Huvudsats", "Bisats", "Español"],
+    "rows": [
+      ["Jag stannar hemma", "eftersom jag är sjuk.", "Me quedo en casa porque estoy enfermo."],
+      ["Han säger", "att han inte har tid.", "Dice que no tiene tiempo."],
+      ["Hon läser svenska", "för att hon vill bo i Sverige.", "Estudia sueco porque quiere vivir en Suecia."]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "title": "Relativa pronomen (relative clauses)",
+    "description": "'som' introduces relative clauses.",
+    "columns": ["Fras", "Español"],
+    "rows": [
+      ["Mannen som ringde är min chef.", "El hombre que llamó es mi jefe."],
+      ["Boken som du lånade var bra.", "El libro que me prestaste era bueno."],
+      ["Min bror, som bor i Rom, är läkare.", "Mi hermano, que vive en Roma, es médico."],
+      ["Huset där jag växte upp är gammalt.", "La casa donde crecí es vieja."]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "title": "Konditionalis (unreal conditions)",
+    "description": "Om + preteritum, skulle + infinitiv.",
+    "columns": ["Villkor", "Resultat", "Español"],
+    "rows": [
+      ["Om jag hade tid,", "skulle jag komma.", "Si tuviera tiempo, vendría."],
+      ["Om vi reste nu,", "skulle vi komma i tid.", "Si saliéramos ahora, llegaríamos a tiempo."],
+      ["Om hon visste,", "skulle hon hjälpa oss.", "Si lo supiera, nos ayudaría."]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "title": "Passiv (passive voice)",
+    "description": "The passive uses an -s form or bli + participle.",
+    "columns": ["Aktiv", "Passiv", "Español"],
+    "rows": [
+      ["Man bygger huset.", "Huset byggs.", "La casa se construye."],
+      ["Man löste problemet.", "Problemet löstes.", "El problema se resolvió."],
+      ["Man måste följa reglerna.", "Reglerna måste följas.", "Hay que seguir las reglas."]
+    ]
   }
 ]

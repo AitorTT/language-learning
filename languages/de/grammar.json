@@ -291,5 +291,143 @@
       ["damit", "so that", "para que"],
       ["falls", "in case / if", "en caso de que"]
     ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "title": "Plural (plural nouns)",
+    "description": "German plurals: common endings -e, -en, -er, -s.",
+    "columns": ["Singular", "Plural", "Español"],
+    "rows": [
+      ["das Haus", "die Häuser", "la casa / las casas"],
+      ["die Frau", "die Frauen", "la mujer / las mujeres"],
+      ["das Kind", "die Kinder", "el niño / los niños"],
+      ["der Tag", "die Tage", "el día / los días"],
+      ["das Auto", "die Autos", "el coche / los coches"],
+      ["der Mann", "die Männer", "el hombre / los hombres"],
+      ["die Stadt", "die Städte", "la ciudad / las ciudades"],
+      ["das Buch", "die Bücher", "el libro / los libros"]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "title": "Possessivartikel (possessive articles)",
+    "description": "Possessives agree with the gender of the noun.",
+    "columns": ["Person", "Maskulin", "Feminin", "Español"],
+    "rows": [
+      ["ich", "mein", "meine", "mi"],
+      ["du", "dein", "deine", "tu"],
+      ["er / es", "sein", "seine", "su (de él)"],
+      ["sie", "ihr", "ihre", "su (de ella)"],
+      ["wir", "unser", "unsere", "nuestro"],
+      ["ihr", "euer", "eure", "vuestro"],
+      ["sie / Sie", "ihr", "ihre", "su (de ellos) / su (usted)"]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "title": "Nominativ und Akkusativ",
+    "description": "Only the masculine article changes in the accusative.",
+    "columns": ["Kasus", "Maskulin", "Feminin", "Neutrum", "Plural"],
+    "rows": [
+      ["Nominativ", "der", "die", "das", "die"],
+      ["Akkusativ", "den", "die", "das", "die"],
+      ["Beispiel (Nom.)", "Der Mann kommt.", "Die Frau kommt.", "Das Kind kommt.", "Die Kinder kommen."],
+      ["Beispiel (Akk.)", "Ich sehe den Mann.", "Ich sehe die Frau.", "Ich sehe das Kind.", "Ich sehe die Kinder."]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Trennbare Verben (separable verbs)",
+    "description": "Prefixes like auf-, an-, mit- separate in the present.",
+    "columns": ["Infinitiv", "Präsens", "Español"],
+    "rows": [
+      ["aufstehen", "Ich stehe um 7 Uhr auf.", "me levanto a las 7"],
+      ["einkaufen", "Wir kaufen im Supermarkt ein.", "compramos en el supermercado"],
+      ["anrufen", "Er ruft seine Mutter an.", "él llama a su madre"],
+      ["mitkommen", "Kommst du mit?", "¿vienes conmigo?"],
+      ["fernsehen", "Abends sehe ich fern.", "por la noche veo la tele"]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Verben mit Dativ (dative verbs)",
+    "description": "Some verbs take the dative: helfen, gefallen, gehören.",
+    "columns": ["Verb", "Beispiel", "Español"],
+    "rows": [
+      ["helfen", "Ich helfe meinem Bruder.", "Ayudo a mi hermano."],
+      ["gefallen", "Das Buch gefällt mir.", "El libro me gusta."],
+      ["gehören", "Das Auto gehört ihr.", "El coche es suyo."],
+      ["danken", "Wir danken dem Lehrer.", "Damos las gracias al profesor."],
+      ["antworten", "Er antwortet der Frau.", "Él responde a la mujer."]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Wechselpräpositionen (two-way prepositions)",
+    "description": "in, an, auf + Akkusativ (movement) or Dativ (position).",
+    "columns": ["Präposition", "Akkusativ (wohin?)", "Dativ (wo?)"],
+    "rows": [
+      ["in", "Ich gehe in die Küche.", "Ich bin in der Küche."],
+      ["an", "Ich hänge das Bild an die Wand.", "Das Bild hängt an der Wand."],
+      ["auf", "Ich lege das Buch auf den Tisch.", "Das Buch liegt auf dem Tisch."],
+      ["unter", "Die Katze läuft unter den Tisch.", "Die Katze ist unter dem Tisch."],
+      ["neben", "Ich setze mich neben ihn.", "Ich sitze neben ihm."]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "title": "Nebensätze mit weil und dass",
+    "description": "In subordinate clauses the verb goes to the end.",
+    "columns": ["Hauptsatz", "Nebensatz"],
+    "rows": [
+      ["Ich bleibe zu Hause.", "..., weil ich krank bin."],
+      ["Er sagt,", "..., dass er keine Zeit hat."],
+      ["Sie lernt Deutsch,", "..., weil sie in Berlin arbeiten will."],
+      ["Wir wissen,", "..., dass es morgen regnet."]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "title": "Relativsätze (relative clauses)",
+    "description": "Relative pronouns agree with the noun's gender.",
+    "columns": ["Satz", "Español"],
+    "rows": [
+      ["Der Mann, der dort steht, ist mein Chef.", "El hombre que está allí es mi jefe."],
+      ["Das Buch, das ich lese, ist spannend.", "El libro que leo es emocionante."],
+      ["Die Frau, deren Auto kaputt ist, wartet.", "La mujer cuyo coche está averiado espera."],
+      ["Die Kinder, die im Garten spielen, sind laut.", "Los niños que juegan en el jardín son ruidosos."]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "title": "Konjunktiv II der Vergangenheit",
+    "description": "hätte / wäre + Partizip for unreal past situations.",
+    "columns": ["Wenn-Satz", "Hauptsatz", "Español"],
+    "rows": [
+      ["Wenn ich Zeit gehabt hätte,", "wäre ich gekommen.", "Si hubiera tenido tiempo, habría venido."],
+      ["Wenn wir früher losgefahren wären,", "hätten wir den Zug nicht verpasst.", "Si hubiéramos salido antes, no habríamos perdido el tren."],
+      ["Wenn sie es gewusst hätte,", "hätte sie geholfen.", "Si lo hubiera sabido, habría ayudado."]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "title": "Passiv mit Modalverben",
+    "description": "Modal + Partizip + werden for passive with modals.",
+    "columns": ["Aktiv", "Passiv", "Español"],
+    "rows": [
+      ["Man muss die Regeln beachten.", "Die Regeln müssen beachtet werden.", "Hay que respetar las reglas."],
+      ["Man kann das Problem lösen.", "Das Problem kann gelöst werden.", "El problema puede resolverse."],
+      ["Man sollte die Ergebnisse prüfen.", "Die Ergebnisse sollten geprüft werden.", "Deberían comprobarse los resultados."]
+    ]
   }
 ]

@@ -297,5 +297,152 @@
       ["so that", "para que", "purpose"],
       ["unless", "a menos que", "condition"]
     ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "title": "Plural nouns",
+    "description": "Regular plurals: usually add -s or -es.",
+    "columns": ["Singular", "Plural", "Español"],
+    "rows": [
+      ["cat", "cats", "gato / gatos"],
+      ["bus", "buses", "autobús / autobuses"],
+      ["box", "boxes", "caja / cajas"],
+      ["baby", "babies", "bebé / bebés"],
+      ["city", "cities", "ciudad / ciudades"],
+      ["man", "men", "hombre / hombres"],
+      ["woman", "women", "mujer / mujeres"],
+      ["child", "children", "niño / niños"],
+      ["foot", "feet", "pie / pies"]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "title": "Possessive adjectives",
+    "description": "Adjectives that show who something belongs to.",
+    "columns": ["Subject", "Possessive", "Español"],
+    "rows": [
+      ["I", "my", "mi"],
+      ["you", "your", "tu"],
+      ["he", "his", "su (de él)"],
+      ["she", "her", "su (de ella)"],
+      ["it", "its", "su (de ello)"],
+      ["we", "our", "nuestro"],
+      ["you (pl.)", "your", "vuestro"],
+      ["they", "their", "su (de ellos)"]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "title": "This / that / these / those",
+    "description": "Demonstratives change with distance and number.",
+    "columns": ["English", "Español", "Use"],
+    "rows": [
+      ["this", "esto / este", "near, singular"],
+      ["that", "eso / ese", "far, singular"],
+      ["these", "estos", "near, plural"],
+      ["those", "esos / aquellos", "far, plural"]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "There is / there are",
+    "description": "Use 'there is' with singular and 'there are' with plural.",
+    "columns": ["English", "Español", "Form"],
+    "rows": [
+      ["There is a book on the table.", "Hay un libro en la mesa.", "singular +"],
+      ["There are two books on the table.", "Hay dos libros en la mesa.", "plural +"],
+      ["There isn't a bank here.", "No hay un banco aquí.", "singular −"],
+      ["There aren't any shops here.", "No hay tiendas aquí.", "plural −"],
+      ["Is there a station nearby?", "¿Hay una estación cerca?", "singular ?"],
+      ["Are there any tickets left?", "¿Quedan entradas?", "plural ?"]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Past continuous",
+    "description": "was / were + verb-ing for actions in progress in the past.",
+    "columns": ["Subject", "Affirmative", "Español"],
+    "rows": [
+      ["I", "was working", "estaba trabajando"],
+      ["you", "were working", "estabas trabajando"],
+      ["he", "was working", "él estaba trabajando"],
+      ["she", "was working", "ella estaba trabajando"],
+      ["we", "were working", "estábamos trabajando"],
+      ["you (pl.)", "were working", "estabais trabajando"],
+      ["they", "were working", "ellos estaban trabajando"]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Some / any / much / many",
+    "description": "Quantity words with countable and uncountable nouns.",
+    "columns": ["English", "Español", "Use"],
+    "rows": [
+      ["some water", "un poco de agua", "uncountable +"],
+      ["some apples", "algunas manzanas", "plural +"],
+      ["any money?", "¿algo de dinero?", "questions / negatives"],
+      ["much time", "mucho tiempo", "uncountable"],
+      ["many people", "mucha gente", "countable plural"],
+      ["a lot of friends", "muchos amigos", "all contexts"]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "title": "First conditional",
+    "description": "If + present simple, will + infinitive.",
+    "columns": ["Condition", "Result", "Español"],
+    "rows": [
+      ["If it rains,", "I will stay at home.", "Si llueve, me quedaré en casa."],
+      ["If you study,", "you will pass.", "Si estudias, aprobarás."],
+      ["If we leave now,", "we will arrive on time.", "Si salimos ahora, llegaremos a tiempo."],
+      ["If she calls,", "I will tell her.", "Si ella llama, se lo diré."]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "Backshift: present to past, will to would.",
+    "columns": ["Direct", "Reported", "Español"],
+    "rows": [
+      ["\"I am tired.\"", "He said he was tired.", "Dijo que estaba cansado."],
+      ["\"I will help you.\"", "She said she would help me.", "Dijo que me ayudaría."],
+      ["\"I have finished.\"", "He said he had finished.", "Dijo que había terminado."],
+      ["\"I can swim.\"", "She said she could swim.", "Dijo que sabía nadar."]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "title": "Relative clauses",
+    "description": "Defining and non-defining clauses with who, which, that, whose.",
+    "columns": ["English", "Español", "Type"],
+    "rows": [
+      ["The man who called is my boss.", "El hombre que llamó es mi jefe.", "defining"],
+      ["The book which you lent me was great.", "El libro que me prestaste era genial.", "defining"],
+      ["My brother, who lives in Rome, is a doctor.", "Mi hermano, que vive en Roma, es médico.", "non-defining"],
+      ["The woman whose car was stolen called the police.", "La mujer cuyo coche fue robado llamó a la policía.", "possessive"],
+      ["That is the house where I grew up.", "Esa es la casa donde crecí.", "place"]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "title": "Third conditional",
+    "description": "If + past perfect, would have + past participle (unreal past).",
+    "columns": ["Condition", "Result", "Español"],
+    "rows": [
+      ["If I had studied,", "I would have passed.", "Si hubiera estudiado, habría aprobado."],
+      ["If we had left earlier,", "we would not have missed the train.", "Si hubiéramos salido antes, no habríamos perdido el tren."],
+      ["If she had known,", "she would have come.", "Si ella lo hubiera sabido, habría venido."],
+      ["If they had invested,", "they would have made a profit.", "Si hubieran invertido, habrían obtenido beneficios."]
+    ]
   }
 ]

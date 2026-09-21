@@ -292,5 +292,146 @@
       ["mimo że", "even though", "a pesar de que"],
       ["natomiast", "whereas", "en cambio"]
     ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "title": "Noun gender (rodzaj)",
+    "description": "Polish nouns are masculine, feminine or neuter.",
+    "columns": ["Polish", "Gender", "Español"],
+    "rows": [
+      ["dom (m.)", "masculine", "casa"],
+      ["kot (m.)", "masculine", "gato"],
+      ["kobieta (f.)", "feminine", "mujer"],
+      ["książka (f.)", "feminine", "libro"],
+      ["okno (n.)", "neuter", "ventana"],
+      ["dziecko (n.)", "neuter", "niño"]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "title": "Plural nouns",
+    "description": "Common plural endings: -y, -i, -e, -a.",
+    "columns": ["Singular", "Plural", "Español"],
+    "rows": [
+      ["kot", "koty", "gato / gatos"],
+      ["pies", "psy", "perro / perros"],
+      ["książka", "książki", "libro / libros"],
+      ["dom", "domy", "casa / casas"],
+      ["okno", "okna", "ventana / ventanas"],
+      ["dziecko", "dzieci", "niño / niños"]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "mój, twój, jego, jej, nasz, wasz, ich.",
+    "columns": ["Person", "Masculine", "Feminine", "Español"],
+    "rows": [
+      ["ja", "mój", "moja", "mi"],
+      ["ty", "twój", "twoja", "tu"],
+      ["on", "jego", "jego", "su (de él)"],
+      ["ona", "jej", "jej", "su (de ella)"],
+      ["my", "nasz", "nasza", "nuestro"],
+      ["wy", "wasz", "wasza", "vuestro"],
+      ["oni", "ich", "ich", "su (de ellos)"]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Accusative case (biernik)",
+    "description": "The accusative marks the direct object.",
+    "columns": ["Nominative", "Accusative", "Español"],
+    "rows": [
+      ["kot (m. animate)", "kota", "gato"],
+      ["dom (m. inanimate)", "dom", "casa"],
+      ["książka (f.)", "książkę", "libro"],
+      ["okno (n.)", "okno", "ventana"],
+      ["kobiety (pl.)", "kobiety", "mujeres"]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Locative case (miejscownik)",
+    "description": "Used after w, na, o, przy to say where.",
+    "columns": ["Nominative", "Locative", "Español"],
+    "rows": [
+      ["dom", "w domu", "en casa"],
+      ["praca", "w pracy", "en el trabajo"],
+      ["szkoła", "w szkole", "en la escuela"],
+      ["Kraków", "w Krakowie", "en Cracovia"],
+      ["Polska", "w Polsce", "en Polonia"]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Instrumental case (narzędnik)",
+    "description": "Used with 'z' (with) and for means of transport.",
+    "columns": ["Nominative", "Instrumental", "Español"],
+    "rows": [
+      ["brat", "z bratem", "con el hermano"],
+      ["siostra", "z siostrą", "con la hermana"],
+      ["przyjaciel", "z przyjacielem", "con el amigo"],
+      ["pociąg", "pociągiem", "en tren"],
+      ["samochód", "samochodem", "en coche"]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "title": "Genitive case (dopełniacz)",
+    "description": "Used after negations and quantities.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Nie mam czasu.", "I have no time.", "No tengo tiempo."],
+      ["Nie ma mleka.", "There is no milk.", "No hay leche."],
+      ["dużo pracy", "a lot of work", "mucho trabajo"],
+      ["kilo jabłek", "a kilo of apples", "un kilo de manzanas"],
+      ["szklanka wody", "a glass of water", "un vaso de agua"]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "title": "Verbs of motion (iść vs jechać)",
+    "description": "iść on foot, jechać by vehicle.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Idę do sklepu.", "I walk to the shop.", "Voy a la tienda (a pie)."],
+      ["Jadę do sklepu.", "I drive to the shop.", "Voy a la tienda (en coche)."],
+      ["Idziemy do parku.", "We walk to the park.", "Vamos al parque a pie."],
+      ["Jedziemy do Krakowa.", "We travel to Kraków.", "Viajamos a Cracovia."]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "title": "Aspect in practice",
+    "description": "Imperfective for process, perfective for result.",
+    "columns": ["Imperfective", "Perfective", "Español"],
+    "rows": [
+      ["czytać", "przeczytać", "leer / leer (completo)"],
+      ["pisać", "napisać", "escribir / escribir (completo)"],
+      ["robić", "zrobić", "hacer / hacer (completo)"],
+      ["kupować", "kupić", "comprar / comprar (completo)"],
+      ["mówić", "powiedzieć", "hablar / decir"]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "title": "Conditional sentences (gdyby)",
+    "description": "gdyby + past form + 'by' for unreal conditions.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Gdybym miał czas, przyszedłbym.", "If I had time, I would come.", "Si tuviera tiempo, vendría."],
+      ["Gdybyśmy wyszli wcześniej, nie spóźnilibyśmy się.", "If we had left earlier, we would not have been late.", "Si hubiéramos salido antes, no habríamos llegado tarde."],
+      ["Gdyby ona wiedziała, pomogłaby nam.", "If she knew, she would help us.", "Si lo supiera, nos ayudaría."]
+    ]
   }
 ]

@@ -286,5 +286,141 @@
       ["para que", "so that", "para que"],
       ["a menos que", "unless", "a menos que"]
     ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "title": "Plural dos nomes (plural nouns)",
+    "description": "-o becomes -os, -a becomes -as, -r/-z becomes -es.",
+    "columns": ["Singular", "Plural", "Español"],
+    "rows": [
+      ["o livro", "os livros", "el libro / los libros"],
+      ["a casa", "as casas", "la casa / las casas"],
+      ["a flor", "as flores", "la flor / las flores"],
+      ["o rapaz", "os rapazes", "el chico / los chicos"],
+      ["o irmão", "os irmãos", "el hermano / los hermanos"],
+      ["a cidade", "as cidades", "la ciudad / las ciudades"],
+      ["o pão", "os pães", "el pan / los panes"],
+      ["a mão", "as mãos", "la mano / las manos"]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "title": "Pronomes possessivos (possessives)",
+    "description": "meu/minha, teu/tua, seu/sua agree with the noun.",
+    "columns": ["Pessoa", "Masculino", "Feminino", "Español"],
+    "rows": [
+      ["eu", "o meu", "a minha", "mi"],
+      ["tu", "o teu", "a tua", "tu"],
+      ["ele / ela", "o seu", "a sua", "su"],
+      ["nós", "o nosso", "a nossa", "nuestro"],
+      ["vocês", "o seu", "a sua", "vuestro / su"],
+      ["eles / elas", "o seu", "a sua", "su (de ellos)"]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "title": "Contrações (contractions)",
+    "description": "Prepositions contract with articles: do, da, no, na.",
+    "columns": ["Preposição", "+ o", "+ a", "Español"],
+    "rows": [
+      ["de", "do", "da", "de el / de la"],
+      ["em", "no", "na", "en el / en la"],
+      ["a", "ao", "à", "a el / a la"],
+      ["por", "pelo", "pela", "por el / por la"]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Verbos reflexivos (reflexive verbs)",
+    "description": "Reflexive verbs use me, te, se, nos.",
+    "columns": ["Infinitivo", "Presente", "Español"],
+    "rows": [
+      ["levantar-se", "me levanto às 7", "me levanto a las 7"],
+      ["chamar-se", "me chamo Ana", "me llamo Ana"],
+      ["lavar-se", "te lavas as mãos", "te lavas las manos"],
+      ["acordar", "se acorda cedo", "se despierta temprano"],
+      ["divertir-se", "nos divertimos muito", "nos divertimos mucho"]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Pronomes de objeto direto",
+    "description": "o, a, os, as replace the direct object.",
+    "columns": ["Frase", "Com pronome", "Español"],
+    "rows": [
+      ["Compro o pão.", "Eu o compro.", "Lo compro."],
+      ["Vejo a Maria.", "Eu a vejo.", "La veo."],
+      ["Leio os livros.", "Eu os leio.", "Los leo."],
+      ["Convido as meninas.", "Eu as convido.", "Las invito."]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Estar + gerúndio (present continuous)",
+    "description": "Brazilian Portuguese uses estar + gerund.",
+    "columns": ["Ação", "Presente contínuo", "Español"],
+    "rows": [
+      ["falar", "estou falando", "estoy hablando"],
+      ["comer", "está comendo", "está comiendo"],
+      ["dormir", "estamos dormindo", "estamos durmiendo"],
+      ["ler", "estão lendo", "están leyendo"],
+      ["escrever", "estou escrevendo", "estoy escribiendo"]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "title": "Futuro do subjuntivo",
+    "description": "Se + future subjunctive, present or future.",
+    "columns": ["Condição", "Resultado", "Español"],
+    "rows": [
+      ["Se eu tiver tempo,", "viajo contigo.", "Si tengo tiempo, viajo contigo."],
+      ["Se você estudar,", "vai passar.", "Si estudias, vas a aprobar."],
+      ["Quando chegarmos,", "avisamos.", "Cuando lleguemos, avisamos."],
+      ["Se fizermos isso,", "dará certo.", "Si hacemos eso, saldrá bien."]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "title": "Discurso indireto (reported speech)",
+    "description": "Tenses shift when reporting speech.",
+    "columns": ["Direto", "Indireto", "Español"],
+    "rows": [
+      ["\"Estou cansado.\"", "Ele disse que estava cansado.", "Dijo que estaba cansado."],
+      ["\"Vou te ajudar.\"", "Ela disse que ia me ajudar.", "Dijo que me iba a ayudar."],
+      ["\"Já acabei.\"", "Ele disse que já tinha acabado.", "Dijo que ya había terminado."]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "title": "Orações relativas (relative clauses)",
+    "description": "que, quem, onde and cujo join clauses.",
+    "columns": ["Frase", "Español"],
+    "rows": [
+      ["O homem que ligou é o meu chefe.", "El hombre que llamó es mi jefe."],
+      ["O livro que você me emprestou era ótimo.", "El libro que me prestaste era genial."],
+      ["O meu irmão, que mora em Roma, é médico.", "Mi hermano, que vive en Roma, es médico."],
+      ["Esta é a casa onde cresci.", "Esta es la casa donde crecí."]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "title": "Período hipotético (unreal past)",
+    "description": "Se + imperfeito do subjuntivo, futuro do pretérito.",
+    "columns": ["Condição", "Resultado", "Español"],
+    "rows": [
+      ["Se eu tivesse estudado,", "teria passado.", "Si hubiera estudiado, habría aprobado."],
+      ["Se tivéssemos saído antes,", "não teríamos perdido o trem.", "Si hubiéramos salido antes, no habríamos perdido el tren."],
+      ["Se ela soubesse,", "teria vindo.", "Si ella lo hubiera sabido, habría venido."]
+    ]
   }
 ]

@@ -174,5 +174,159 @@
       {"sentence": "Nowe technologie mogą być ___ .", "answer": "zagrożeniem", "translation_en": "New technologies can be a threat.", "translation_es": "Las nuevas tecnologías pueden ser una amenaza."},
       {"sentence": "Warto zachować ___ między pracą a życiem.", "answer": "równowagę", "translation_en": "It is worth keeping a balance between work and life.", "translation_es": "Vale la pena mantener un equilibrio entre el trabajo y la vida."}
     ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct possessive pronoun into each gap.",
+    "items": [
+      {"sentence": "Mam nowy telefon. To jest ___ telefon.", "answer": "mój", "translation_en": "I have a new phone. This is my phone.", "translation_es": "Tengo un teléfono nuevo. Este es mi teléfono."},
+      {"sentence": "Masz czerwony samochód. Czy to ___ samochód?", "answer": "twój", "translation_en": "You have a red car. Is this your car?", "translation_es": "Tienes un coche rojo. ¿Es este tu coche?"},
+      {"sentence": "Anna bardzo kocha ___ kota.", "answer": "swojego", "translation_en": "Anna loves her cat very much.", "translation_es": "Anna quiere mucho a su gato."},
+      {"sentence": "Tom szuka ___ kluczy.", "answer": "swoich", "translation_en": "Tom is looking for his keys.", "translation_es": "Tom está buscando sus llaves."}
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct plural form into each gap.",
+    "items": [
+      {"sentence": "Mam dwa ___ .", "answer": "koty", "translation_en": "I have two cats.", "translation_es": "Tengo dos gatos."},
+      {"sentence": "W ogrodzie są trzy ___ .", "answer": "kwiaty", "translation_en": "There are three flowers in the garden.", "translation_es": "Hay tres flores en el jardín."},
+      {"sentence": "Kupiła cztery ___ .", "answer": "jabłka", "translation_en": "She bought four apples.", "translation_es": "Ella compró cuatro manzanas."},
+      {"sentence": "Mamy dwa ___ w domu.", "answer": "psy", "translation_en": "We have two dogs at home.", "translation_es": "Tenemos dos perros en casa."}
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {"sentence": "Tydzień ma ___ dni.", "answer": "siedem", "translation_en": "There are seven days in a week.", "translation_es": "Hay siete días en una semana."},
+      {"sentence": "Kot ma ___ łapy.", "answer": "cztery", "translation_en": "A cat has four legs.", "translation_es": "Un gato tiene cuatro patas."},
+      {"sentence": "Mam ___ palców u jednej ręki.", "answer": "pięć", "translation_en": "I have five fingers on one hand.", "translation_es": "Tengo cinco dedos en una mano."},
+      {"sentence": "Rok ma ___ miesięcy.", "answer": "dwanaście", "translation_en": "A year has twelve months.", "translation_es": "Un año tiene doce meses."}
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {"sentence": "Słońce jest ___ .", "answer": "żółte", "translation_en": "The sun is yellow.", "translation_es": "El sol es amarillo."},
+      {"sentence": "Trawa jest ___ .", "answer": "zielona", "translation_en": "The grass is green.", "translation_es": "La hierba es verde."},
+      {"sentence": "Niebo jest dzisiaj ___ .", "answer": "niebieskie", "translation_en": "The sky is blue today.", "translation_es": "El cielo está azul hoy."},
+      {"sentence": "Mleko jest ___ .", "answer": "białe", "translation_en": "Milk is white.", "translation_es": "La leche es blanca."}
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct preposition of place into each gap.",
+    "items": [
+      {"sentence": "Kot jest ___ stołem.", "answer": "pod", "translation_en": "The cat is under the table.", "translation_es": "El gato está debajo de la mesa."},
+      {"sentence": "Moje klucze są ___ torbie.", "answer": "w", "translation_en": "My keys are in my bag.", "translation_es": "Mis llaves están en mi bolso."},
+      {"sentence": "Obraz wisi ___ ścianie.", "answer": "na", "translation_en": "The picture is on the wall.", "translation_es": "El cuadro está en la pared."},
+      {"sentence": "Bank jest ___ sklepu.", "answer": "obok", "translation_en": "The bank is next to the shop.", "translation_es": "El banco está al lado de la tienda."}
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct past tense form into each gap.",
+    "items": [
+      {"sentence": "Wczoraj wieczorem ___ dobry film.", "answer": "obejrzałem", "translation_en": "Yesterday evening I watched a good film.", "translation_es": "Ayer por la noche vi una buena película."},
+      {"sentence": "W zeszłym roku ona ___ do Paryża.", "answer": "pojechała", "translation_en": "Last year she went to Paris.", "translation_es": "El año pasado ella fue a París."},
+      {"sentence": "___ kolację w małej restauracji.", "answer": "Zjedliśmy", "translation_en": "We had dinner in a small restaurant.", "translation_es": "Cenamos en un restaurante pequeño."},
+      {"sentence": "Oni ___ mecz w sobotę.", "answer": "wygrali", "translation_en": "They won the match on Saturday.", "translation_es": "Ellos ganaron el partido el sábado."}
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct comparative form into each gap.",
+    "items": [
+      {"sentence": "Mój dom jest ___ niż twój.", "answer": "większy", "translation_en": "My house is bigger than yours.", "translation_es": "Mi casa es más grande que la tuya."},
+      {"sentence": "Ten egzamin jest ___ niż poprzedni.", "answer": "łatwiejszy", "translation_en": "This exam is easier than the previous one.", "translation_es": "Este examen es más fácil que el anterior."},
+      {"sentence": "Dzisiaj jest ___ niż wczoraj.", "answer": "zimniej", "translation_en": "Today it is colder than yesterday.", "translation_es": "Hoy hace más frío que ayer."},
+      {"sentence": "Jej samochód jest ___ niż mój.", "answer": "szybszy", "translation_en": "Her car is faster than mine.", "translation_es": "Su coche es más rápido que el mío."}
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {"sentence": "Weź parasol, dzisiaj jest ___ .", "answer": "deszczowo", "translation_en": "Take an umbrella, it is rainy today.", "translation_es": "Coge un paraguas, hoy está lluvioso."},
+      {"sentence": "Jest bardzo ___ , potrzebuję płaszcza.", "answer": "zimno", "translation_en": "It is very cold, I need a coat.", "translation_es": "Hace mucho frío, necesito un abrigo."},
+      {"sentence": "Niebo jest szare i ___ .", "answer": "pochmurne", "translation_en": "The sky is grey and cloudy.", "translation_es": "El cielo está gris y nublado."},
+      {"sentence": "Jest ___ , chodźmy na plażę.", "answer": "słonecznie", "translation_en": "It is sunny, let's go to the beach.", "translation_es": "Está soleado, vamos a la playa."}
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Regularne ćwiczenia mogą ___ twój polski.", "answer": "poprawić", "translation_en": "Regular practice can improve your Polish.", "translation_es": "La práctica regular puede mejorar tu polaco."},
+      {"sentence": "___ wziąć pociąg zamiast samochodu.", "answer": "Sugeruję", "translation_en": "I suggest taking the train instead of the car.", "translation_es": "Sugiero tomar el tren en lugar del coche."},
+      {"sentence": "Powinieneś ___ tłustego jedzenia, jeśli chcesz być zdrowy.", "answer": "unikać", "translation_en": "You should avoid fatty food if you want to be healthy.", "translation_es": "Deberías evitar la comida grasa si quieres estar sano."},
+      {"sentence": "Firma chce ___ nowy produkt.", "answer": "rozwijać", "translation_en": "The company wants to develop a new product.", "translation_es": "La empresa quiere desarrollar un nuevo producto."}
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "instruction": "Drag the correct noun into each gap.",
+    "items": [
+      {"sentence": "___ powietrza to poważny problem w dużych miastach.", "answer": "Zanieczyszczenie", "translation_en": "Air pollution is a serious problem in big cities.", "translation_es": "La contaminación del aire es un problema grave en las grandes ciudades."},
+      {"sentence": "___ uchwalił nowe prawo w zeszłym miesiącu.", "answer": "Rząd", "translation_en": "The government passed a new law last month.", "translation_es": "El gobierno aprobó una nueva ley el mes pasado."},
+      {"sentence": "Każdy ___ powinien szanować prawo.", "answer": "obywatel", "translation_en": "Every citizen should respect the law.", "translation_es": "Todo ciudadano debería respetar la ley."},
+      {"sentence": "Ona studiuje ___ na uniwersytecie.", "answer": "naukę", "translation_en": "She is studying science at university.", "translation_es": "Ella estudia ciencias en la universidad."}
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B1",
+    "instruction": "Drag the correct adverb into each gap.",
+    "items": [
+      {"sentence": "___ pojedziemy do Włoch w przyszłym roku.", "answer": "Może", "translation_en": "Maybe we will go to Italy next year.", "translation_es": "Quizás vayamos a Italia el año que viene."},
+      {"sentence": "___ zapomniałem kluczy w domu.", "answer": "Właściwie", "translation_en": "I actually forgot my keys at home.", "translation_es": "En realidad olvidé mis llaves en casa."},
+      {"sentence": "Przyjdź tutaj ___ .", "answer": "natychmiast", "translation_en": "Come here immediately.", "translation_es": "Ven aquí inmediatamente."},
+      {"sentence": "___ pociąg znowu się spóźnił.", "answer": "Niestety", "translation_en": "Unfortunately, the train was late again.", "translation_es": "Desafortunadamente, el tren llegó tarde otra vez."}
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {"sentence": "Jego odpowiedź była ___ i trudna do zrozumienia.", "answer": "niejednoznaczna", "translation_en": "His answer was ambiguous and difficult to understand.", "translation_es": "Su respuesta era ambigua y difícil de entender."},
+      {"sentence": "Projekt nie jest ___ przy tak małym budżecie.", "answer": "wykonalny", "translation_en": "The project is not feasible with such a small budget.", "translation_es": "El proyecto no es factible con un presupuesto tan pequeño."},
+      {"sentence": "Zmiana jest ___ w szybko zmieniającym się świecie.", "answer": "nieunikniona", "translation_en": "Change is inevitable in a fast-moving world.", "translation_es": "El cambio es inevitable en un mundo que avanza rápido."},
+      {"sentence": "Raport daje ___ przegląd sytuacji.", "answer": "wszechstronny", "translation_en": "The report gives a comprehensive overview of the situation.", "translation_es": "El informe ofrece una visión integral de la situación."}
+    ]
+  },
+  {
+    "id": 29,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Ciągła krytyka może ___ pewność siebie.", "answer": "podważać", "translation_en": "Constant criticism can undermine self-confidence.", "translation_es": "Las críticas constantes pueden socavar la confianza en uno mismo."},
+      {"sentence": "Wyniki ___ nasze wcześniejsze wnioski.", "answer": "wzmacniają", "translation_en": "The results reinforce our earlier conclusions.", "translation_es": "Los resultados refuerzan nuestras conclusiones anteriores."},
+      {"sentence": "Te środki mogą ___ skutki kryzysu.", "answer": "łagodzić", "translation_en": "These measures can mitigate the effects of the crisis.", "translation_es": "Estas medidas pueden mitigar los efectos de la crisis."},
+      {"sentence": "Nowy system może ___ komunikację między zespołami.", "answer": "ułatwiać", "translation_en": "The new system can facilitate communication between teams.", "translation_es": "El nuevo sistema puede facilitar la comunicación entre equipos."}
+    ]
+  },
+  {
+    "id": 30,
+    "level": "B2",
+    "instruction": "Drag the correct technology noun into each gap.",
+    "items": [
+      {"sentence": "Użytkownicy martwią się o swoją ___ w internecie.", "answer": "prywatność", "translation_en": "Users are worried about their online privacy.", "translation_es": "Los usuarios están preocupados por su privacidad en línea."},
+      {"sentence": "Platforma używa złożonego ___ do sortowania wyników.", "answer": "algorytmu", "translation_en": "The platform uses a complex algorithm to rank results.", "translation_es": "La plataforma usa un algoritmo complejo para ordenar los resultados."},
+      {"sentence": "Zbieramy wiele ___ o naszych klientach.", "answer": "danych", "translation_en": "We collect a lot of data about our customers.", "translation_es": "Recopilamos muchos datos sobre nuestros clientes."},
+      {"sentence": "___ staje się niezbędna dla każdej firmy.", "answer": "Innowacja", "translation_en": "Innovation is becoming essential for every company.", "translation_es": "La innovación es cada vez más esencial para toda empresa."}
+    ]
   }
 ]

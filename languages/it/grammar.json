@@ -287,5 +287,143 @@
       ["affinché", "so that", "para que"],
       ["a meno che", "unless", "a menos que"]
     ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "title": "Plurale dei nomi (plural nouns)",
+    "description": "Nouns in -o become -i, in -a become -e, in -e become -i.",
+    "columns": ["Singolare", "Plurale", "Español"],
+    "rows": [
+      ["il libro", "i libri", "el libro / los libros"],
+      ["la casa", "le case", "la casa / las casas"],
+      ["il fiore", "i fiori", "la flor / las flores"],
+      ["la chiave", "le chiavi", "la llave / las llaves"],
+      ["l'amico", "gli amici", "el amigo / los amigos"],
+      ["la città", "le città", "la ciudad / las ciudades"],
+      ["il gatto", "i gatti", "el gato / los gatos"],
+      ["la mela", "le mele", "la manzana / las manzanas"]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "title": "Aggettivi possessivi (possessive adjectives)",
+    "description": "Possessives usually take the article: il mio, la mia.",
+    "columns": ["Persona", "Maschile", "Femminile", "Español"],
+    "rows": [
+      ["io", "il mio", "la mia", "mi"],
+      ["tu", "il tuo", "la tua", "tu"],
+      ["lui / lei", "il suo", "la sua", "su"],
+      ["noi", "il nostro", "la nostra", "nuestro"],
+      ["voi", "il vostro", "la vostra", "vuestro"],
+      ["loro", "il loro", "la loro", "su (de ellos)"]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "title": "Articoli indeterminativi (indefinite articles)",
+    "description": "un, uno, una, un' before singular nouns.",
+    "columns": ["Articolo", "Esempio", "Español"],
+    "rows": [
+      ["un", "un libro", "un libro"],
+      ["uno", "uno studente", "un estudiante"],
+      ["una", "una casa", "una casa"],
+      ["un'", "un'amica", "una amiga"],
+      ["dei / degli / delle", "dei libri", "unos libros"]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Verbi riflessivi (reflexive verbs)",
+    "description": "Reflexive verbs use mi, ti, si, ci, vi, si.",
+    "columns": ["Infinito", "Presente", "Español"],
+    "rows": [
+      ["alzarsi", "mi alzo alle 7", "me levanto a las 7"],
+      ["chiamarsi", "mi chiamo Anna", "me llamo Anna"],
+      ["lavarsi", "ti lavi le mani", "te lavas las manos"],
+      ["svegliarsi", "si sveglia presto", "se despierta temprano"],
+      ["divertirsi", "ci divertiamo molto", "nos divertimos mucho"]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Pronomi diretti (direct object pronouns)",
+    "description": "lo, la, li, le replace the direct object.",
+    "columns": ["Frase", "Con pronome", "Español"],
+    "rows": [
+      ["Compro il pane.", "Lo compro.", "Lo compro."],
+      ["Vedo Maria.", "La vedo.", "La veo."],
+      ["Leggo i libri.", "Li leggo.", "Los leo."],
+      ["Invito le ragazze.", "Le invito.", "Las invito."]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Preposizioni articolate",
+    "description": "a, di, da, in + article merge: al, del, nel.",
+    "columns": ["Preposizione", "+ il", "+ la", "Español"],
+    "rows": [
+      ["a", "al", "alla", "a el / a la"],
+      ["di", "del", "della", "de el / de la"],
+      ["da", "dal", "dalla", "desde el / desde la"],
+      ["in", "nel", "nella", "en el / en la"],
+      ["su", "sul", "sulla", "sobre el / sobre la"]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "title": "Congiuntivo presente (che io parli)",
+    "description": "Subjunctive after verbs of opinion and desire.",
+    "columns": ["Verbo", "Congiuntivo", "Español"],
+    "rows": [
+      ["pensare che", "penso che sia vero", "pienso que es verdad"],
+      ["volere che", "voglio che tu venga", "quiero que vengas"],
+      ["sperare che", "spero che tutto vada bene", "espero que todo vaya bien"],
+      ["credere che", "credo che abbia ragione", "creo que tiene razón"]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "title": "Periodo ipotetico (if-clauses)",
+    "description": "Se + presente, futuro / condizionale.",
+    "columns": ["Condizione", "Conseguenza", "Español"],
+    "rows": [
+      ["Se piove,", "resto a casa.", "Si llueve, me quedo en casa."],
+      ["Se studi,", "supererai l'esame.", "Si estudias, aprobarás el examen."],
+      ["Se partiamo ora,", "arriveremo in tempo.", "Si salimos ahora, llegaremos a tiempo."],
+      ["Se avessi tempo,", "verrei con te.", "Si tuviera tiempo, iría contigo."]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "title": "Pronomi relativi (relative pronouns)",
+    "description": "che, cui and il quale join two clauses.",
+    "columns": ["Frase", "Español"],
+    "rows": [
+      ["L'uomo che ha chiamato è il mio capo.", "El hombre que llamó es mi jefe."],
+      ["Il libro che mi hai prestato era bello.", "El libro que me prestaste era bonito."],
+      ["Mio fratello, che vive a Roma, è medico.", "Mi hermano, que vive en Roma, es médico."],
+      ["La casa in cui sono cresciuto è vecchia.", "La casa en la que crecí es vieja."]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "title": "Periodo ipotetico del terzo tipo",
+    "description": "Se + congiuntivo imperfetto, condizionale passato.",
+    "columns": ["Condizione", "Conseguenza", "Español"],
+    "rows": [
+      ["Se avessi studiato,", "avrei superato l'esame.", "Si hubiera estudiado, habría aprobado el examen."],
+      ["Se fossimo partiti prima,", "non avremmo perso il treno.", "Si hubiéramos salido antes, no habríamos perdido el tren."],
+      ["Se lei lo avesse saputo,", "sarebbe venuta.", "Si ella lo hubiera sabido, habría venido."]
+    ]
   }
 ]
