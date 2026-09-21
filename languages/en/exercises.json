@@ -328,5 +328,159 @@
       {"sentence": "We collect a lot of ___ about our customers.", "answer": "data", "translation_es": "Recopilamos muchos datos sobre nuestros clientes."},
       {"sentence": "___ is becoming essential for every company.", "answer": "Innovation", "translation_es": "La innovación es cada vez más esencial para toda empresa."}
     ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "instruction": "Drag the correct body part into each gap.",
+    "items": [
+      {"sentence": "I see with my ___ .", "answer": "eyes", "translation_es": "Veo con los ojos."},
+      {"sentence": "I hear with my ___ .", "answer": "ears", "translation_es": "Oigo con las orejas."},
+      {"sentence": "I smell with my ___ .", "answer": "nose", "translation_es": "Huelo con la nariz."},
+      {"sentence": "I think with my ___ .", "answer": "head", "translation_es": "Pienso con la cabeza."}
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A1",
+    "instruction": "Drag the correct food word into each gap.",
+    "items": [
+      {"sentence": "I would like an ___ for breakfast.", "answer": "egg", "translation_es": "Me gustaría un huevo para desayunar."},
+      {"sentence": "This ___ is made with milk.", "answer": "cheese", "translation_es": "Este queso está hecho con leche."},
+      {"sentence": "We eat ___ on Fridays.", "answer": "fish", "translation_es": "Comemos pescado los viernes."},
+      {"sentence": "I put ___ in my tea.", "answer": "sugar", "translation_es": "Pongo azúcar en el té."}
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {"sentence": "My grandmother is very ___ ; she is eighty.", "answer": "old", "translation_es": "Mi abuela es muy mayor; tiene ochenta años."},
+      {"sentence": "This film is ___ , it lasts three hours.", "answer": "long", "translation_es": "Esta película es larga, dura tres horas."},
+      {"sentence": "A turtle is a very ___ animal.", "answer": "slow", "translation_es": "La tortuga es un animal muy lento."},
+      {"sentence": "My phone is ___ , I bought it yesterday.", "answer": "new", "translation_es": "Mi teléfono es nuevo, lo compré ayer."}
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A1",
+    "instruction": "Drag the correct household object into each gap.",
+    "items": [
+      {"sentence": "I sleep in my ___ .", "answer": "bed", "translation_es": "Duermo en mi cama."},
+      {"sentence": "Turn on the ___ , it is dark.", "answer": "lamp", "translation_es": "Enciende la lámpara, está oscuro."},
+      {"sentence": "I open the door with this ___ .", "answer": "key", "translation_es": "Abro la puerta con esta llave."},
+      {"sentence": "The ___ protects the house from the rain.", "answer": "roof", "translation_es": "El tejado protege la casa de la lluvia."}
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct daily routine verb into each gap.",
+    "items": [
+      {"sentence": "I ___ at seven o'clock every morning.", "answer": "wake up", "translation_es": "Me despierto a las siete cada mañana."},
+      {"sentence": "I ___ my hands before eating.", "answer": "wash", "translation_es": "Me lavo las manos antes de comer."},
+      {"sentence": "After work I like to ___ for an hour.", "answer": "rest", "translation_es": "Después del trabajo me gusta descansar una hora."},
+      {"sentence": "We ___ work at five o'clock.", "answer": "finish", "translation_es": "Terminamos el trabajo a las cinco."}
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {"sentence": "I take the ___ to school every day.", "answer": "bus", "translation_es": "Cojo el autobús a la escuela todos los días."},
+      {"sentence": "We flew from London to Rome by ___ .", "answer": "plane", "translation_es": "Volamos de Londres a Roma en avión."},
+      {"sentence": "You need a ___ to travel to another country.", "answer": "passport", "translation_es": "Necesitas un pasaporte para viajar a otro país."},
+      {"sentence": "There is a lot of traffic on the ___ today.", "answer": "road", "translation_es": "Hay mucho tráfico en la carretera hoy."}
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct feeling into each gap.",
+    "items": [
+      {"sentence": "The film was so boring that I felt ___ .", "answer": "bored", "translation_es": "La película era tan aburrida que me sentí aburrido."},
+      {"sentence": "I am ___ about my trip to Spain.", "answer": "excited", "translation_es": "Estoy emocionado por mi viaje a España."},
+      {"sentence": "She was ___ when she saw the surprise.", "answer": "surprised", "translation_es": "Ella se sorprendió al ver la sorpresa."},
+      {"sentence": "He was very ___ of his son's success.", "answer": "proud", "translation_es": "Estaba muy orgulloso del éxito de su hijo."}
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {"sentence": "I buy fresh fruit at the ___ .", "answer": "market", "translation_es": "Compro fruta fresca en el mercado."},
+      {"sentence": "Do you have this shirt in a smaller ___ ?", "answer": "size", "translation_es": "¿Tiene esta camisa en una talla más pequeña?"},
+      {"sentence": "Can I pay by ___ ?", "answer": "card", "translation_es": "¿Puedo pagar con tarjeta?"},
+      {"sentence": "There is a 20% ___ on all shoes this week.", "answer": "discount", "translation_es": "Hay un 20% de descuento en todos los zapatos esta semana."}
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "instruction": "Drag the correct work noun into each gap.",
+    "items": [
+      {"sentence": "The company has more than a hundred ___ .", "answer": "employees", "translation_es": "La empresa tiene más de cien empleados."},
+      {"sentence": "I have a job ___ on Monday morning.", "answer": "interview", "translation_es": "Tengo una entrevista de trabajo el lunes por la mañana."},
+      {"sentence": "She got a ___ after two years of hard work.", "answer": "promotion", "translation_es": "Consiguió un ascenso tras dos años de trabajo duro."},
+      {"sentence": "Our ___ is working on a new project.", "answer": "team", "translation_es": "Nuestro equipo trabaja en un nuevo proyecto."}
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "instruction": "Drag the correct society noun into each gap.",
+    "items": [
+      {"sentence": "You can follow the ___ on television or online.", "answer": "news", "translation_es": "Puedes seguir las noticias en la televisión o en internet."},
+      {"sentence": "Everyone has the right to express their ___ .", "answer": "opinion", "translation_es": "Todos tienen derecho a expresar su opinión."},
+      {"sentence": "In many countries you can ___ at the age of eighteen.", "answer": "vote", "translation_es": "En muchos países puedes votar a los dieciocho años."},
+      {"sentence": "She works as a ___ for a national newspaper.", "answer": "journalist", "translation_es": "Trabaja como periodista en un periódico nacional."}
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {"sentence": "We should reduce the amount of ___ we produce.", "answer": "waste", "translation_es": "Deberíamos reducir la cantidad de residuos que producimos."},
+      {"sentence": "Many rare animals live in this ___ .", "answer": "forest", "translation_es": "Muchos animales raros viven en este bosque."},
+      {"sentence": "The ___ covers most of our planet.", "answer": "ocean", "translation_es": "El océano cubre la mayor parte de nuestro planeta."},
+      {"sentence": "The ___ destroyed many houses near the river.", "answer": "flood", "translation_es": "La inundación destruyó muchas casas cerca del río."}
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B2",
+    "instruction": "Drag the correct technology noun into each gap.",
+    "items": [
+      {"sentence": "We store all our customer records in a ___ .", "answer": "database", "translation_es": "Guardamos todos los registros de clientes en una base de datos."},
+      {"sentence": "The company updated its ___ to fix the security problem.", "answer": "software", "translation_es": "La empresa actualizó su software para solucionar el problema de seguridad."},
+      {"sentence": "A ___ connects millions of computers around the world.", "answer": "network", "translation_es": "Una red conecta millones de ordenadores en todo el mundo."},
+      {"sentence": "You should use a strong password and ___ to protect your files.", "answer": "encryption", "translation_es": "Deberías usar una contraseña fuerte y cifrado para proteger tus archivos."}
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {"sentence": "The company made a large ___ last year.", "answer": "profit", "translation_es": "La empresa obtuvo un gran beneficio el año pasado."},
+      {"sentence": "The government increased the ___ on imported goods.", "answer": "tax", "translation_es": "El gobierno aumentó el impuesto sobre los productos importados."},
+      {"sentence": "Rising ___ makes everyday products more expensive.", "answer": "inflation", "translation_es": "El aumento de la inflación encarece los productos cotidianos."},
+      {"sentence": "We must keep the project within our ___ .", "answer": "budget", "translation_es": "Debemos mantener el proyecto dentro de nuestro presupuesto."}
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B2",
+    "instruction": "Drag the correct abstract noun into each gap.",
+    "items": [
+      {"sentence": "The two sides finally reached a ___ after long talks.", "answer": "consensus", "translation_es": "Las dos partes llegaron por fin a un consenso tras largas conversaciones."},
+      {"sentence": "Scientists tested their ___ with a series of experiments.", "answer": "hypothesis", "translation_es": "Los científicos probaron su hipótesis con una serie de experimentos."},
+      {"sentence": "We need a clear ___ to evaluate the results.", "answer": "framework", "translation_es": "Necesitamos un marco claro para evaluar los resultados."},
+      {"sentence": "His article was criticised for its ___ .", "answer": "ambiguity", "translation_es": "Su artículo fue criticado por su ambigüedad."}
+    ]
   }
 ]

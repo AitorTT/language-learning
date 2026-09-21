@@ -429,5 +429,141 @@
       ["Man kann das Problem lösen.", "Das Problem kann gelöst werden.", "El problema puede resolverse."],
       ["Man sollte die Ergebnisse prüfen.", "Die Ergebnisse sollten geprüft werden.", "Deberían comprobarse los resultados."]
     ]
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "title": "Zählbar und unzählbar",
+    "description": "Manche Nomen kann man zählen, andere nicht.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["ein Apfel / zwei Äpfel", "an apple / two apples", "una manzana / dos manzanas"],
+      ["etwas Wasser", "some water", "un poco de agua"],
+      ["eine Flasche Wasser", "a bottle of water", "una botella de agua"],
+      ["viel Geld", "much money", "mucho dinero"],
+      ["viele Freunde", "many friends", "muchos amigos"],
+      ["ein Ratschlag", "a piece of advice", "un consejo"]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "title": "Imperativ",
+    "description": "Befehle und Aufforderungen.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Öffne das Fenster!", "Open the window!", "¡Abre la ventana!"],
+      ["Schließen Sie die Tür, bitte.", "Close the door, please.", "Cierre la puerta, por favor."],
+      ["Mach das nicht!", "Don't do that!", "¡No hagas eso!"],
+      ["Gehen wir nach Hause.", "Let's go home.", "Vamos a casa."]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "title": "Zeitpräpositionen (in / an / um)",
+    "description": "in für Monate, an für Tage, um für Uhrzeiten.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["im Juli", "in July", "en julio"],
+      ["im Jahr 2026", "in 2026", "en 2026"],
+      ["am Montag", "on Monday", "el lunes"],
+      ["am Morgen", "in the morning", "por la mañana"],
+      ["um sieben Uhr", "at seven o'clock", "a las siete"],
+      ["um Mitternacht", "at midnight", "a medianoche"]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Possessivpronomen (meins / deins)",
+    "description": "Possessivpronomen ersetzen ein bereits genanntes Nomen.",
+    "columns": ["Mit Nomen", "Pronomen", "Español"],
+    "rows": [
+      ["Das ist mein Buch.", "Das ist meins.", "Es mío."],
+      ["Das ist dein Auto.", "Das ist deins.", "Es tuyo."],
+      ["Das ist sein Handy.", "Das ist seins.", "Es suyo."],
+      ["Das ist ihr Haus.", "Das ist ihres.", "Es suyo (de ella)."],
+      ["Das ist unser Plan.", "Das ist unserer.", "Es nuestro."]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Häufigkeitsadverbien",
+    "description": "immer, oft, manchmal, selten, nie.",
+    "columns": ["Adverb", "Beispiel", "Español"],
+    "rows": [
+      ["immer", "Ich trinke immer Kaffee.", "Siempre bebo café."],
+      ["oft", "Sie geht oft schwimmen.", "A menudo va a nadar."],
+      ["manchmal", "Er vergisst manchmal seine Schlüssel.", "A veces olvida sus llaves."],
+      ["selten", "Wir sehen sie selten.", "Rara vez la vemos."],
+      ["nie", "Sie essen nie Fleisch.", "Nunca comen carne."]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Fragen mit Präpositionen (wo(r)-)",
+    "description": "Verben mit Präposition bilden Fragen mit wo(r)-.",
+    "columns": ["Frage", "Antwort", "Español"],
+    "rows": [
+      ["Worauf wartest du?", "Ich warte auf den Bus.", "¿Qué esperas? Espero el autobús."],
+      ["Worüber sprecht ihr?", "Wir sprechen über den Film.", "¿De qué habláis? Hablamos de la película."],
+      ["Woran denkst du?", "Ich denke an den Urlaub.", "¿En qué piensas? Pienso en las vacaciones."],
+      ["Womit fährst du?", "Ich fahre mit dem Zug.", "¿En qué viajas? Viajo en tren."]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Plusquamperfekt (past perfect)",
+    "description": "hatte / war + Partizip für Vorvergangenes.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Ich hatte gegessen.", "I had eaten.", "Había comido."],
+      ["Sie war schon gegangen.", "She had already left.", "Ya se había ido."],
+      ["Wir hatten den Film gesehen.", "We had seen the film.", "Habíamos visto la película."],
+      ["Nachdem er gekommen war, begannen wir.", "After he had come, we began.", "Después de que él llegara, empezamos."]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Konjunktionen: während, bevor, nachdem",
+    "description": "Nebensatzkonjunktionen mit Zeitbezug.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Während ich koche, liest er.", "While I cook, he reads.", "Mientras cocino, él lee."],
+      ["Bevor wir gehen, rufen wir dich an.", "Before we leave, we call you.", "Antes de irnos, te llamamos."],
+      ["Nachdem sie gegessen hatte, ging sie.", "After she had eaten, she left.", "Después de comer, se fue."]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "title": "Nominalisierung",
+    "description": "Verben und Adjektive werden zu Nomen.",
+    "columns": ["Verb / Adjektiv", "Nomen", "Español"],
+    "rows": [
+      ["lesen", "das Lesen", "la lectura"],
+      ["arbeiten", "die Arbeit", "el trabajo"],
+      ["frei", "die Freiheit", "la libertad"],
+      ["entscheiden", "die Entscheidung", "la decisión"],
+      ["entwickeln", "die Entwicklung", "el desarrollo"]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "title": "Partizipien als Adjektive",
+    "description": "Partizip I und II als Adjektiv.",
+    "columns": ["Partizip I", "Partizip II", "Español"],
+    "rows": [
+      ["das laufende Wasser", "das gekochte Wasser", "agua corriente / agua hervida"],
+      ["der steigende Preis", "der gestiegene Preis", "el precio creciente / el precio que subió"],
+      ["eine führende Firma", "eine gegründete Firma", "una empresa líder / una empresa fundada"],
+      ["das schlafende Kind", "das eingeschlafene Kind", "el niño durmiente / el niño dormido"]
+    ]
   }
 ]

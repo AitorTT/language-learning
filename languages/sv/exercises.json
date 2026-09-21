@@ -328,5 +328,159 @@
       {"sentence": "Vi samlar in mycket ___ om våra kunder.", "answer": "data", "translation_en": "We collect a lot of data about our customers.", "translation_es": "Recopilamos muchos datos sobre nuestros clientes."},
       {"sentence": "___ blir allt viktigare för varje företag.", "answer": "Innovation", "translation_en": "Innovation is becoming essential for every company.", "translation_es": "La innovación es cada vez más esencial para toda empresa."}
     ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "instruction": "Drag the correct body part into each gap.",
+    "items": [
+      {"sentence": "Jag ser med mina ___ .", "answer": "ögon", "translation_en": "I see with my eyes.", "translation_es": "Veo con los ojos."},
+      {"sentence": "Jag hör med mina ___ .", "answer": "öron", "translation_en": "I hear with my ears.", "translation_es": "Oigo con las orejas."},
+      {"sentence": "Jag luktar med min ___ .", "answer": "näsa", "translation_en": "I smell with my nose.", "translation_es": "Huelo con la nariz."},
+      {"sentence": "Jag tänker med mitt ___ .", "answer": "huvud", "translation_en": "I think with my head.", "translation_es": "Pienso con la cabeza."}
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A1",
+    "instruction": "Drag the correct food word into each gap.",
+    "items": [
+      {"sentence": "Till frukost vill jag ha ett ___ .", "answer": "ägg", "translation_en": "For breakfast I want an egg.", "translation_es": "Para desayunar quiero un huevo."},
+      {"sentence": "Den här ___ är gjord av mjölk.", "answer": "osten", "translation_en": "This cheese is made from milk.", "translation_es": "Este queso está hecho con leche."},
+      {"sentence": "På fredagar äter vi ___ .", "answer": "fisk", "translation_en": "On Fridays we eat fish.", "translation_es": "Los viernes comemos pescado."},
+      {"sentence": "Jag har ___ i mitt te.", "answer": "socker", "translation_en": "I put sugar in my tea.", "translation_es": "Pongo azúcar en el té."}
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {"sentence": "Min mormor är mycket ___ ; hon är åttio.", "answer": "gammal", "translation_en": "My grandmother is very old; she is eighty.", "translation_es": "Mi abuela es muy mayor; tiene ochenta años."},
+      {"sentence": "Den här filmen är ___ , den varar i tre timmar.", "answer": "lång", "translation_en": "This film is long, it lasts three hours.", "translation_es": "Esta película es larga, dura tres horas."},
+      {"sentence": "En sköldpadda är ett mycket ___ djur.", "answer": "långsamt", "translation_en": "A turtle is a very slow animal.", "translation_es": "La tortuga es un animal muy lento."},
+      {"sentence": "Min telefon är ___ , jag köpte den igår.", "answer": "ny", "translation_en": "My phone is new, I bought it yesterday.", "translation_es": "Mi teléfono es nuevo, lo compré ayer."}
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A1",
+    "instruction": "Drag the correct household object into each gap.",
+    "items": [
+      {"sentence": "Jag sover i min ___ .", "answer": "säng", "translation_en": "I sleep in my bed.", "translation_es": "Duermo en mi cama."},
+      {"sentence": "Tänd ___ , det är mörkt.", "answer": "lampan", "translation_en": "Turn on the lamp, it is dark.", "translation_es": "Enciende la lámpara, está oscuro."},
+      {"sentence": "Jag öppnar dörren med den här ___ .", "answer": "nyckeln", "translation_en": "I open the door with this key.", "translation_es": "Abro la puerta con esta llave."},
+      {"sentence": "___ skyddar huset mot regnet.", "answer": "Taket", "translation_en": "The roof protects the house from the rain.", "translation_es": "El tejado protege la casa de la lluvia."}
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct daily routine verb into each gap.",
+    "items": [
+      {"sentence": "Jag ___ klockan sju varje morgon.", "answer": "vaknar", "translation_en": "I wake up at seven every morning.", "translation_es": "Me despierto a las siete cada mañana."},
+      {"sentence": "Jag ___ händerna före maten.", "answer": "tvättar", "translation_en": "I wash my hands before eating.", "translation_es": "Me lavo las manos antes de comer."},
+      {"sentence": "Efter jobbet vill jag ___ en timme.", "answer": "vila", "translation_en": "After work I want to rest for an hour.", "translation_es": "Después del trabajo quiero descansar una hora."},
+      {"sentence": "Vi ___ arbetet klockan fem.", "answer": "avslutar", "translation_en": "We finish work at five o'clock.", "translation_es": "Terminamos el trabajo a las cinco."}
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {"sentence": "Jag tar ___ till skolan varje dag.", "answer": "bussen", "translation_en": "I take the bus to school every day.", "translation_es": "Cojo el autobús a la escuela todos los días."},
+      {"sentence": "Vi flög från London till Rom med ___ .", "answer": "flygplan", "translation_en": "We flew from London to Rome by plane.", "translation_es": "Volamos de Londres a Roma en avión."},
+      {"sentence": "För att resa till ett annat land behöver du ett ___ .", "answer": "pass", "translation_en": "You need a passport to travel to another country.", "translation_es": "Necesitas un pasaporte para viajar a otro país."},
+      {"sentence": "Idag är det mycket trafik på ___ .", "answer": "vägen", "translation_en": "There is a lot of traffic on the road today.", "translation_es": "Hoy hay mucho tráfico en la carretera."}
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct feeling into each gap.",
+    "items": [
+      {"sentence": "Filmen var så tråkig att jag kände mig ___ .", "answer": "uttråkad", "translation_en": "The film was so boring that I felt bored.", "translation_es": "La película era tan aburrida que me sentí aburrido."},
+      {"sentence": "Jag är ___ inför min resa till Spanien.", "answer": "förväntansfull", "translation_en": "I am excited about my trip to Spain.", "translation_es": "Estoy emocionado por mi viaje a España."},
+      {"sentence": "Hon blev ___ när hon såg överraskningen.", "answer": "förvånad", "translation_en": "She was surprised when she saw the surprise.", "translation_es": "Ella se sorprendió al ver la sorpresa."},
+      {"sentence": "Han var mycket ___ över sin sons framgång.", "answer": "stolt", "translation_en": "He was very proud of his son's success.", "translation_es": "Estaba muy orgulloso del éxito de su hijo."}
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {"sentence": "Jag köper färsk frukt på ___ .", "answer": "marknaden", "translation_en": "I buy fresh fruit at the market.", "translation_es": "Compro fruta fresca en el mercado."},
+      {"sentence": "Har ni den här skjortan i en mindre ___ ?", "answer": "storlek", "translation_en": "Do you have this shirt in a smaller size?", "translation_es": "¿Tiene esta camisa en una talla más pequeña?"},
+      {"sentence": "Kan jag betala med ___ ?", "answer": "kortet", "translation_en": "Can I pay by card?", "translation_es": "¿Puedo pagar con tarjeta?"},
+      {"sentence": "Den här veckan är det 20% ___ på alla skor.", "answer": "rabatt", "translation_en": "There is a 20% discount on all shoes this week.", "translation_es": "Hay un 20% de descuento en todos los zapatos esta semana."}
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "instruction": "Drag the correct work noun into each gap.",
+    "items": [
+      {"sentence": "Företaget har mer än hundra ___ .", "answer": "anställda", "translation_en": "The company has more than a hundred employees.", "translation_es": "La empresa tiene más de cien empleados."},
+      {"sentence": "På måndag morgon har jag en ___ .", "answer": "intervju", "translation_en": "I have a job interview on Monday morning.", "translation_es": "Tengo una entrevista de trabajo el lunes por la mañana."},
+      {"sentence": "Hon fick en ___ efter två års hårt arbete.", "answer": "befordran", "translation_en": "She got a promotion after two years of hard work.", "translation_es": "Consiguió un ascenso tras dos años de trabajo duro."},
+      {"sentence": "Vårt ___ arbetar med ett nytt projekt.", "answer": "team", "translation_en": "Our team is working on a new project.", "translation_es": "Nuestro equipo trabaja en un nuevo proyecto."}
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "instruction": "Drag the correct society noun into each gap.",
+    "items": [
+      {"sentence": "Du kan följa ___ på tv eller online.", "answer": "nyheterna", "translation_en": "You can follow the news on television or online.", "translation_es": "Puedes seguir las noticias en la televisión o en internet."},
+      {"sentence": "Alla har rätt att uttrycka sin ___ .", "answer": "åsikt", "translation_en": "Everyone has the right to express their opinion.", "translation_es": "Todos tienen derecho a expresar su opinión."},
+      {"sentence": "I många länder kan man lägga sin ___ vid arton års ålder.", "answer": "röst", "translation_en": "In many countries you can vote at the age of eighteen.", "translation_es": "En muchos países puedes votar a los dieciocho años."},
+      {"sentence": "Hon arbetar som ___ för en nationell tidning.", "answer": "journalist", "translation_en": "She works as a journalist for a national newspaper.", "translation_es": "Trabaja como periodista en un periódico nacional."}
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {"sentence": "Vi borde minska mängden ___ vi producerar.", "answer": "avfall", "translation_en": "We should reduce the amount of waste we produce.", "translation_es": "Deberíamos reducir la cantidad de residuos que producimos."},
+      {"sentence": "I den här ___ lever många sällsynta djur.", "answer": "skogen", "translation_en": "Many rare animals live in this forest.", "translation_es": "Muchos animales raros viven en este bosque."},
+      {"sentence": "___ täcker större delen av vår planet.", "answer": "Havet", "translation_en": "The ocean covers most of our planet.", "translation_es": "El océano cubre la mayor parte de nuestro planeta."},
+      {"sentence": "___ förstörde många hus nära floden.", "answer": "Översvämningen", "translation_en": "The flood destroyed many houses near the river.", "translation_es": "La inundación destruyó muchas casas cerca del río."}
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B2",
+    "instruction": "Drag the correct technology noun into each gap.",
+    "items": [
+      {"sentence": "Vi lagrar alla kunduppgifter i en ___ .", "answer": "databas", "translation_en": "We store all our customer records in a database.", "translation_es": "Guardamos todos los registros de clientes en una base de datos."},
+      {"sentence": "Företaget uppdaterade sin ___ för att åtgärda säkerhetsproblemet.", "answer": "mjukvara", "translation_en": "The company updated its software to fix the security problem.", "translation_es": "La empresa actualizó su software para solucionar el problema de seguridad."},
+      {"sentence": "Ett ___ förbinder miljontals datorer över hela världen.", "answer": "nätverk", "translation_en": "A network connects millions of computers around the world.", "translation_es": "Una red conecta millones de ordenadores en todo el mundo."},
+      {"sentence": "Du bör använda ett starkt lösenord och ___ för att skydda dina filer.", "answer": "kryptering", "translation_en": "You should use a strong password and encryption to protect your files.", "translation_es": "Deberías usar una contraseña fuerte y cifrado para proteger tus archivos."}
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {"sentence": "Företaget gjorde en stor ___ förra året.", "answer": "vinst", "translation_en": "The company made a large profit last year.", "translation_es": "La empresa obtuvo un gran beneficio el año pasado."},
+      {"sentence": "Regeringen höjde ___ på importerade varor.", "answer": "skatten", "translation_en": "The government increased the tax on imported goods.", "translation_es": "El gobierno aumentó el impuesto sobre los productos importados."},
+      {"sentence": "Stigande ___ gör vardagsprodukter dyrare.", "answer": "inflation", "translation_en": "Rising inflation makes everyday products more expensive.", "translation_es": "El aumento de la inflación encarece los productos cotidianos."},
+      {"sentence": "Vi måste hålla projektet inom vår ___ .", "answer": "budget", "translation_en": "We must keep the project within our budget.", "translation_es": "Debemos mantener el proyecto dentro de nuestro presupuesto."}
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B2",
+    "instruction": "Drag the correct abstract noun into each gap.",
+    "items": [
+      {"sentence": "De två sidorna nådde till slut en ___ efter långa samtal.", "answer": "konsensus", "translation_en": "The two sides finally reached a consensus after long talks.", "translation_es": "Las dos partes llegaron por fin a un consenso tras largas conversaciones."},
+      {"sentence": "Forskarna testade sin ___ med en serie experiment.", "answer": "hypotes", "translation_en": "The scientists tested their hypothesis with a series of experiments.", "translation_es": "Los científicos probaron su hipótesis con una serie de experimentos."},
+      {"sentence": "Vi behöver ett tydligt ___ för att utvärdera resultaten.", "answer": "ramverk", "translation_en": "We need a clear framework to evaluate the results.", "translation_es": "Necesitamos un marco claro para evaluar los resultados."},
+      {"sentence": "Hans artikel kritiserades för sin ___ .", "answer": "tvetydighet", "translation_en": "His article was criticised for its ambiguity.", "translation_es": "Su artículo fue criticado por su ambigüedad."}
+    ]
   }
 ]

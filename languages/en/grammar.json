@@ -444,5 +444,144 @@
       ["If she had known,", "she would have come.", "Si ella lo hubiera sabido, habría venido."],
       ["If they had invested,", "they would have made a profit.", "Si hubieran invertido, habrían obtenido beneficios."]
     ]
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "title": "Countable and uncountable nouns",
+    "description": "Some nouns can be counted, others cannot.",
+    "columns": ["English", "Español", "Type"],
+    "rows": [
+      ["an apple / two apples", "una manzana / dos manzanas", "countable"],
+      ["some water", "un poco de agua", "uncountable"],
+      ["a bottle of water", "una botella de agua", "quantity"],
+      ["much money", "mucho dinero", "uncountable"],
+      ["many friends", "muchos amigos", "countable"],
+      ["a piece of advice", "un consejo", "uncountable"]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "title": "Imperatives",
+    "description": "Use the base form for commands and instructions.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["Open the window.", "Abre la ventana."],
+      ["Close the door, please.", "Cierra la puerta, por favor."],
+      ["Don't touch that!", "¡No toques eso!"],
+      ["Let's go home.", "Vamos a casa."]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "title": "Prepositions of time (in / on / at)",
+    "description": "in for months and years, on for days, at for times.",
+    "columns": ["English", "Español", "Use"],
+    "rows": [
+      ["in July", "en julio", "months"],
+      ["in 2026", "en 2026", "years"],
+      ["on Monday", "el lunes", "days"],
+      ["on my birthday", "en mi cumpleaños", "dates"],
+      ["at seven o'clock", "a las siete", "times"],
+      ["at night", "por la noche", "fixed phrases"]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Possessive pronouns (mine / yours)",
+    "description": "Possessive pronouns replace a noun already mentioned.",
+    "columns": ["Possessive + noun", "Pronoun", "Español"],
+    "rows": [
+      ["It's my book.", "It's mine.", "Es mío."],
+      ["It's your car.", "It's yours.", "Es tuyo."],
+      ["It's his phone.", "It's his.", "Es suyo."],
+      ["It's her idea.", "It's hers.", "Es suya."],
+      ["It's our house.", "It's ours.", "Es nuestro."],
+      ["It's their problem.", "It's theirs.", "Es suyo."]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "always, usually, often, sometimes, never.",
+    "columns": ["Adverb", "Example", "Español"],
+    "rows": [
+      ["always", "I always drink coffee.", "Siempre bebo café."],
+      ["usually", "She usually walks to work.", "Normalmente va andando al trabajo."],
+      ["often", "We often visit our grandparents.", "A menudo visitamos a nuestros abuelos."],
+      ["sometimes", "He sometimes forgets his keys.", "A veces olvida sus llaves."],
+      ["never", "They never eat meat.", "Nunca comen carne."]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Be going to",
+    "description": "Plans and predictions with going to.",
+    "columns": ["Subject", "Affirmative", "Español"],
+    "rows": [
+      ["I", "am going to study", "voy a estudiar"],
+      ["you", "are going to travel", "vas a viajar"],
+      ["he / she", "is going to work", "va a trabajar"],
+      ["we", "are going to move", "vamos a mudarnos"],
+      ["they", "are going to buy a house", "van a comprar una casa"]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Second conditional",
+    "description": "If + past simple, would + infinitive.",
+    "columns": ["Condition", "Result", "Español"],
+    "rows": [
+      ["If I won the lottery,", "I would travel the world.", "Si ganara la lotería, viajaría por el mundo."],
+      ["If I had more time,", "I would learn to play the guitar.", "Si tuviera más tiempo, aprendería a tocar la guitarra."],
+      ["If she were here,", "she would help us.", "Si ella estuviera aquí, nos ayudaría."],
+      ["If we lived by the sea,", "we would swim every day.", "Si viviéramos junto al mar, nadaríamos todos los días."]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Modals of obligation",
+    "description": "must, have to, should and mustn't.",
+    "columns": ["Modal", "Example", "Español"],
+    "rows": [
+      ["must", "You must wear a seatbelt.", "Debes llevar el cinturón."],
+      ["have to", "I have to work on Saturday.", "Tengo que trabajar el sábado."],
+      ["should", "You should see a doctor.", "Deberías ir al médico."],
+      ["mustn't", "You mustn't smoke here.", "No debes fumar aquí."],
+      ["don't have to", "You don't have to come.", "No tienes que venir."]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "title": "Inversion",
+    "description": "Formal inversion after negative adverbials.",
+    "columns": ["Normal", "Inverted", "Español"],
+    "rows": [
+      ["I have never seen this.", "Never have I seen this.", "Nunca he visto esto."],
+      ["We rarely go out.", "Rarely do we go out.", "Rara vez salimos."],
+      ["I had no sooner arrived than it rained.", "No sooner had I arrived than it rained.", "Apenas había llegado cuando llovió."],
+      ["This is not only cheap but also good.", "Not only is this cheap, but it is also good.", "No solo es barato, sino también bueno."]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "title": "Participle clauses",
+    "description": "Reduce clauses with -ing or past participles.",
+    "columns": ["Full clause", "Participle clause", "Español"],
+    "rows": [
+      ["Because she was tired, she went to bed.", "Being tired, she went to bed.", "Como estaba cansada, se fue a la cama."],
+      ["When he arrived, he called us.", "Arriving, he called us.", "Al llegar, nos llamó."],
+      ["The book, which was written in 1990, is famous.", "The book, written in 1990, is famous.", "El libro, escrito en 1990, es famoso."],
+      ["Since I had finished work, I went home.", "Having finished work, I went home.", "Habiendo terminado el trabajo, me fui a casa."]
+    ]
   }
 ]

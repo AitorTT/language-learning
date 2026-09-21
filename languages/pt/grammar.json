@@ -422,5 +422,140 @@
       ["Se tivéssemos saído antes,", "não teríamos perdido o trem.", "Si hubiéramos salido antes, no habríamos perdido el tren."],
       ["Se ela soubesse,", "teria vindo.", "Si ella lo hubiera sabido, habría venido."]
     ]
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "title": "Substantivos contáveis e incontáveis",
+    "description": "Alguns substantivos podem ser contados, outros não.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["uma maçã / duas maçãs", "an apple / two apples", "una manzana / dos manzanas"],
+      ["um pouco de água", "some water", "un poco de agua"],
+      ["uma garrafa de água", "a bottle of water", "una botella de agua"],
+      ["muito dinheiro", "much money", "mucho dinero"],
+      ["muitos amigos", "many friends", "muchos amigos"],
+      ["um conselho", "a piece of advice", "un consejo"]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "title": "Imperativo",
+    "description": "Ordens e instruções.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Abra a janela!", "Open the window!", "¡Abre la ventana!"],
+      ["Feche a porta, por favor.", "Close the door, please.", "Cierre la puerta, por favor."],
+      ["Não faça isso!", "Don't do that!", "¡No hagas eso!"],
+      ["Vamos para casa.", "Let's go home.", "Vamos a casa."]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "title": "Preposições de tempo (em / no / às)",
+    "description": "em para meses, no para dias, às para horas.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["em julho", "in July", "en julio"],
+      ["em 2026", "in 2026", "en 2026"],
+      ["na segunda-feira", "on Monday", "el lunes"],
+      ["de manhã", "in the morning", "por la mañana"],
+      ["às sete", "at seven o'clock", "a las siete"],
+      ["à meia-noite", "at midnight", "a medianoche"]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Advérbios de frequência",
+    "description": "sempre, muitas vezes, às vezes, raramente, nunca.",
+    "columns": ["Advérbio", "Exemplo", "Español"],
+    "rows": [
+      ["sempre", "Bebo sempre café.", "Siempre bebo café."],
+      ["muitas vezes", "Ela vai muitas vezes nadar.", "A menudo va a nadar."],
+      ["às vezes", "Às vezes ele esquece as chaves.", "A veces olvida las llaves."],
+      ["raramente", "Vemos ela raramente.", "Rara vez la vemos."],
+      ["nunca", "Eles nunca comem carne.", "Nunca comen carne."]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Pronomes de objeto indireto",
+    "description": "me, te, lhe, nos substituem a pessoa a quem algo é dado.",
+    "columns": ["Frase", "Com pronome", "Español"],
+    "rows": [
+      ["Dou o livro ao João.", "Dou-lhe o livro.", "Le doy el libro a João."],
+      ["Ele telefona para mim.", "Ele me telefona.", "Él me llama."],
+      ["Envio a mensagem para ti.", "Envio-te a mensagem.", "Te envío el mensaje."],
+      ["Mostramos as fotos a elas.", "Mostramos-lhes as fotos.", "Les mostramos las fotos."]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Acabar de + infinitivo",
+    "description": "Uma ação que aconteceu há pouco tempo.",
+    "columns": ["Frase", "English", "Español"],
+    "rows": [
+      ["Acabei de chegar.", "I have just arrived.", "Acabo de llegar."],
+      ["Ela acabou de sair.", "She has just left.", "Ella acaba de salir."],
+      ["Acabamos de comer.", "We have just eaten.", "Acabamos de comer."]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Pretérito mais-que-perfeito",
+    "description": "Expressa uma ação anterior a outra no passado.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Eu já tinha comido.", "I had already eaten.", "Ya había comido."],
+      ["Ela já tinha saído.", "She had already left.", "Ya se había ido."],
+      ["Tínhamos visto o filme.", "We had seen the film.", "Habíamos visto la película."]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Verbos modais: dever, poder, querer",
+    "description": "Os verbos modais são seguidos do infinitivo.",
+    "columns": ["Modal", "Exemplo", "Español"],
+    "rows": [
+      ["dever", "Devo estudar.", "Tengo que estudiar."],
+      ["poder", "Você pode me ajudar?", "¿Puedes ayudarme?"],
+      ["querer", "Quero aprender.", "Quiero aprender."],
+      ["dever (neg.)", "Você não deve fazer isso.", "No debes hacer eso."]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "title": "Concordância nominal",
+    "description": "Adjetivos concordam em género e número com o substantivo.",
+    "columns": ["Errado", "Correto", "Español"],
+    "rows": [
+      ["casas grande", "casas grandes", "casas grandes"],
+      ["menino bonita", "menino bonito", "niño guapo"],
+      ["livros novo", "livros novos", "libros nuevos"],
+      ["uma amigo boa", "uma amiga boa", "una amiga buena"],
+      ["os dias frio", "os dias frios", "los días fríos"]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "title": "Nominalização",
+    "description": "Verbos e adjetivos tornam-se substantivos.",
+    "columns": ["Verbo / Adjetivo", "Substantivo", "Español"],
+    "rows": [
+      ["ler", "a leitura", "la lectura"],
+      ["trabalhar", "o trabalho", "el trabajo"],
+      ["livre", "a liberdade", "la libertad"],
+      ["decidir", "a decisão", "la decisión"],
+      ["desenvolver", "o desenvolvimento", "el desarrollo"]
+    ]
   }
 ]

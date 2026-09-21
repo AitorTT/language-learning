@@ -433,5 +433,143 @@
       ["Gdybyśmy wyszli wcześniej, nie spóźnilibyśmy się.", "If we had left earlier, we would not have been late.", "Si hubiéramos salido antes, no habríamos llegado tarde."],
       ["Gdyby ona wiedziała, pomogłaby nam.", "If she knew, she would help us.", "Si lo supiera, nos ayudaría."]
     ]
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "title": "Countable and uncountable nouns",
+    "description": "Some nouns can be counted, others cannot.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["jedno jabłko / dwa jabłka", "an apple / two apples", "una manzana / dos manzanas"],
+      ["trochę wody", "some water", "un poco de agua"],
+      ["butelka wody", "a bottle of water", "una botella de agua"],
+      ["dużo pieniędzy", "much money", "mucho dinero"],
+      ["wielu przyjaciół", "many friends", "muchos amigos"],
+      ["jedna rada", "a piece of advice", "un consejo"]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "title": "Imperatives",
+    "description": "Commands and instructions.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Otwórz okno!", "Open the window!", "¡Abre la ventana!"],
+      ["Proszę zamknąć drzwi.", "Close the door, please.", "Cierre la puerta, por favor."],
+      ["Nie rób tego!", "Don't do that!", "¡No hagas eso!"],
+      ["Chodźmy do domu.", "Let's go home.", "Vamos a casa."]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "title": "Prepositions of time (w / o)",
+    "description": "w for months and days, o for clock times.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["w lipcu", "in July", "en julio"],
+      ["w 2026 roku", "in 2026", "en 2026"],
+      ["w poniedziałek", "on Monday", "el lunes"],
+      ["rano", "in the morning", "por la mañana"],
+      ["o siódmej", "at seven o'clock", "a las siete"],
+      ["o północy", "at midnight", "a medianoche"]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Frequency adverbs",
+    "description": "zawsze, często, czasem, rzadko, nigdy.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["zawsze", "Zawsze piję kawę.", "Siempre bebo café."],
+      ["często", "Ona często pływa.", "A menudo nada."],
+      ["czasem", "On czasem zapomina kluczy.", "A veces olvida las llaves."],
+      ["rzadko", "Rzadko ją widzimy.", "Rara vez la vemos."],
+      ["nigdy", "Oni nigdy nie jedzą mięsa.", "Nunca comen carne."]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Dative case (celownik)",
+    "description": "The dative marks the indirect object and after verbs like pomagać.",
+    "columns": ["Nominative", "Dative", "Español"],
+    "rows": [
+      ["brat", "bratu", "al hermano"],
+      ["siostra", "siostrze", "a la hermana"],
+      ["dziecko", "dziecku", "al niño"],
+      ["kolega", "koledze", "al colega"],
+      ["pomagam bratu", "I help my brother", "Ayudo a mi hermano"],
+      ["dziękuję ci", "thank you", "gracias a ti"]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Vocative case (wołacz)",
+    "description": "Used when addressing someone directly.",
+    "columns": ["Nominative", "Vocative", "Español"],
+    "rows": [
+      ["Anna", "Anno!", "¡Anna!"],
+      ["Piotr", "Piotrze!", "¡Piotr!"],
+      ["mama", "mamo!", "¡mamá!"],
+      ["pan", "panie!", "¡señor!"],
+      ["kolega", "kolego!", "¡amigo!"]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Earlier past actions",
+    "description": "Polish usually uses the simple past with już or wcześniej.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Już zjadłem, kiedy przyszedł.", "I had already eaten when he came.", "Ya había comido cuando llegó."],
+      ["Ona już wyszła przed spotkaniem.", "She had already left before the meeting.", "Ya se había ido antes de la reunión."],
+      ["Widzieliśmy ten film wcześniej.", "We had seen the film before.", "Habíamos visto la película antes."]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Modal verbs: musieć, móc, chcieć",
+    "description": "Modal verbs are followed by the infinitive.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["muszę", "I must / have to", "debo"],
+      ["mogę", "I can / may", "puedo"],
+      ["chcę", "I want", "quiero"],
+      ["nie muszę", "I don't have to", "no tengo que"],
+      ["nie wolno", "one must not", "no se puede"]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "title": "Word order and emphasis",
+    "description": "Word order is flexible; the stressed element often comes last or first.",
+    "columns": ["Neutral", "Emphatic", "Español"],
+    "rows": [
+      ["Kupiłam nowy samochód.", "Nowy samochód kupiłam.", "Compré un coche nuevo."],
+      ["Widziałem go wczoraj.", "Wczoraj go widziałem.", "Lo vi ayer."],
+      ["To jest ważne.", "Ważne to jest.", "Esto es importante."]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs and adjectives become nouns.",
+    "columns": ["Verb / Adjective", "Noun", "Español"],
+    "rows": [
+      ["czytać", "czytanie", "la lectura"],
+      ["pracować", "praca", "el trabajo"],
+      ["wolny", "wolność", "la libertad"],
+      ["decydować", "decyzja", "la decisión"],
+      ["rozwijać", "rozwój", "el desarrollo"]
+    ]
   }
 ]

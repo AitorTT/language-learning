@@ -425,5 +425,139 @@
       ["Se fossimo partiti prima,", "non avremmo perso il treno.", "Si hubiéramos salido antes, no habríamos perdido el tren."],
       ["Se lei lo avesse saputo,", "sarebbe venuta.", "Si ella lo hubiera sabido, habría venido."]
     ]
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "title": "Nomi numerabili e non numerabili",
+    "description": "Alcuni nomi si possono contare, altri no.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["una mela / due mele", "an apple / two apples", "una manzana / dos manzanas"],
+      ["un po' d'acqua", "some water", "un poco de agua"],
+      ["una bottiglia d'acqua", "a bottle of water", "una botella de agua"],
+      ["molti soldi", "much money", "mucho dinero"],
+      ["molti amici", "many friends", "muchos amigos"],
+      ["un consiglio", "a piece of advice", "un consejo"]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "title": "Imperativo",
+    "description": "Ordini e istruzioni.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Apri la finestra!", "Open the window!", "¡Abre la ventana!"],
+      ["Chiuda la porta, per favore.", "Close the door, please.", "Cierre la puerta, por favor."],
+      ["Non farlo!", "Don't do that!", "¡No hagas eso!"],
+      ["Andiamo a casa.", "Let's go home.", "Vamos a casa."]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "title": "Preposizioni di tempo (in / a / di)",
+    "description": "in per mesi e anni, a per ore, di per giorni.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["a luglio", "in July", "en julio"],
+      ["nel 2026", "in 2026", "en 2026"],
+      ["di lunedì", "on Monday", "el lunes"],
+      ["alla mattina", "in the morning", "por la mañana"],
+      ["alle sette", "at seven o'clock", "a las siete"],
+      ["a mezzanotte", "at midnight", "a medianoche"]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Pronomi possessivi",
+    "description": "Il mio, il tuo... sostituiscono un nome già detto.",
+    "columns": ["Con nome", "Pronome", "Español"],
+    "rows": [
+      ["È il mio libro.", "È il mio.", "Es mío."],
+      ["È la tua macchina.", "È la tua.", "Es tuyo."],
+      ["È il suo telefono.", "È il suo.", "Es suyo."],
+      ["È la nostra casa.", "È la nostra.", "Es nuestra."],
+      ["Sono i loro problemi.", "Sono i loro.", "Son suyos."]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Avverbi di frequenza",
+    "description": "sempre, spesso, a volte, raramente, mai.",
+    "columns": ["Avverbio", "Esempio", "Español"],
+    "rows": [
+      ["sempre", "Bevo sempre il caffè.", "Siempre bebo café."],
+      ["spesso", "Va spesso a nuotare.", "A menudo va a nadar."],
+      ["a volte", "A volte dimentica le chiavi.", "A veces olvida las llaves."],
+      ["raramente", "La vediamo raramente.", "Rara vez la vemos."],
+      ["mai", "Non mangiano mai la carne.", "Nunca comen carne."]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Stare per + infinito",
+    "description": "Un'azione che sta per accadere.",
+    "columns": ["Frase", "English", "Español"],
+    "rows": [
+      ["Sto per uscire.", "I am about to go out.", "Estoy a punto de salir."],
+      ["Sta per piovere.", "It is about to rain.", "Está a punto de llover."],
+      ["Stiamo per partire.", "We are about to leave.", "Estamos a punto de salir."]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Trapassato prossimo (past perfect)",
+    "description": "avevo / ero + participio per un'azione anteriore.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Avevo già mangiato.", "I had already eaten.", "Ya había comido."],
+      ["Era già partita.", "She had already left.", "Ya se había ido."],
+      ["Avevamo visto il film.", "We had seen the film.", "Habíamos visto la película."]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Verbi modali: dovere, potere, volere",
+    "description": "I verbi modali sono seguiti dall'infinito.",
+    "columns": ["Modale", "Esempio", "Español"],
+    "rows": [
+      ["dovere", "Devo studiare.", "Tengo que estudiar."],
+      ["potere", "Puoi aiutarmi?", "¿Puedes ayudarme?"],
+      ["volere", "Voglio imparare.", "Quiero aprender."],
+      ["dovere (neg.)", "Non devi farlo.", "No debes hacerlo."]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "title": "Discorso indiretto",
+    "description": "Cambio dei tempi quando si riferisce un discorso.",
+    "columns": ["Diretto", "Indiretto", "Español"],
+    "rows": [
+      ["\"Sono stanco.\"", "Ha detto che era stanco.", "Dijo que estaba cansado."],
+      ["\"Ti aiuterò.\"", "Ha detto che mi avrebbe aiutato.", "Dijo que me ayudaría."],
+      ["\"Ho finito.\"", "Ha detto che aveva finito.", "Dijo que había terminado."]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "title": "Nominalizzazione",
+    "description": "Verbi e aggettivi diventano nomi.",
+    "columns": ["Verbo / Aggettivo", "Nome", "Español"],
+    "rows": [
+      ["leggere", "la lettura", "la lectura"],
+      ["lavorare", "il lavoro", "el trabajo"],
+      ["libero", "la libertà", "la libertad"],
+      ["decidere", "la decisione", "la decisión"],
+      ["sviluppare", "lo sviluppo", "el desarrollo"]
+    ]
   }
 ]

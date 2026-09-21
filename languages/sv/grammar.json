@@ -429,5 +429,140 @@
       ["Man löste problemet.", "Problemet löstes.", "El problema se resolvió."],
       ["Man måste följa reglerna.", "Reglerna måste följas.", "Hay que seguir las reglas."]
     ]
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "title": "Räknebara och oräknebara substantiv",
+    "description": "Vissa substantiv kan räknas, andra inte.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["ett äpple / två äpplen", "an apple / two apples", "una manzana / dos manzanas"],
+      ["lite vatten", "some water", "un poco de agua"],
+      ["en flaska vatten", "a bottle of water", "una botella de agua"],
+      ["mycket pengar", "much money", "mucho dinero"],
+      ["många vänner", "many friends", "muchos amigos"],
+      ["ett råd", "a piece of advice", "un consejo"]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "title": "Imperativ",
+    "description": "Uppmaningar och instruktioner.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Öppna fönstret!", "Open the window!", "¡Abre la ventana!"],
+      ["Stäng dörren, tack.", "Close the door, please.", "Cierra la puerta, por favor."],
+      ["Gör inte det!", "Don't do that!", "¡No hagas eso!"],
+      ["Vi går hem.", "Let's go home.", "Vamos a casa."]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "title": "Tidsuttryck (i / på / klockan)",
+    "description": "i för månader, på för dagar, klockan för tider.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["i juli", "in July", "en julio"],
+      ["år 2026", "in 2026", "en 2026"],
+      ["på måndag", "on Monday", "el lunes"],
+      ["på morgonen", "in the morning", "por la mañana"],
+      ["klockan sju", "at seven o'clock", "a las siete"],
+      ["vid midnatt", "at midnight", "a medianoche"]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Frekvensadverb",
+    "description": "alltid, ofta, ibland, sällan, aldrig.",
+    "columns": ["Adverb", "Exempel", "Español"],
+    "rows": [
+      ["alltid", "Jag dricker alltid kaffe.", "Siempre bebo café."],
+      ["ofta", "Hon simmar ofta.", "A menudo nada."],
+      ["ibland", "Han glömmer ibland sina nycklar.", "A veces olvida sus llaves."],
+      ["sällan", "Vi ser henne sällan.", "Rara vez la vemos."],
+      ["aldrig", "De äter aldrig kött.", "Nunca comen carne."]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Possessiva pronomen (min, din)",
+    "description": "min, din, hans, hennes, vår, er, deras.",
+    "columns": ["Person", "En-ord", "Ett-ord", "Español"],
+    "rows": [
+      ["jag", "min bil", "mitt hus", "mi coche / mi casa"],
+      ["du", "din bok", "ditt rum", "tu libro / tu habitación"],
+      ["han", "hans vän", "hans hus", "su amigo / su casa"],
+      ["hon", "hennes katt", "hennes barn", "su gato / su niño"],
+      ["vi", "vår skola", "vårt hem", "nuestra escuela / nuestro hogar"],
+      ["de", "deras plan", "deras hus", "su plan / su casa"]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Supinum (har + supinum)",
+    "description": "Perfekt använder har + supinum.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Jag har ätit.", "I have eaten.", "He comido."],
+      ["Hon har skrivit.", "She has written.", "Ella ha escrito."],
+      ["Vi har varit i Rom.", "We have been to Rome.", "Hemos estado en Roma."],
+      ["Han har inte kommit.", "He has not come.", "Él no ha venido."]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Pluskvamperfekt (hade + supinum)",
+    "description": "En handling före en annan handling i det förflutna.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Jag hade redan ätit.", "I had already eaten.", "Ya había comido."],
+      ["Hon hade redan gått.", "She had already left.", "Ya se había ido."],
+      ["Vi hade sett filmen.", "We had seen the film.", "Habíamos visto la película."]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Jämförelser: lika ... som",
+    "description": "lika ... som, inte lika ... som, lika mycket som.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Han är lika lång som jag.", "He is as tall as me.", "Él es tan alto como yo."],
+      ["Den är inte lika dyr som den andra.", "It is not as expensive as the other one.", "No es tan caro como el otro."],
+      ["Hon arbetar lika mycket som vi.", "She works as much as we do.", "Ella trabaja tanto como nosotros."]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "title": "Satsadverbial och ordföljd",
+    "description": "Satsadverb (inte, aldrig, ofta) kommer efter verbet i huvudsats.",
+    "columns": ["Huvudsats", "Bisats", "Español"],
+    "rows": [
+      ["Jag kommer inte idag.", "...att jag inte kommer idag.", "No vengo hoy."],
+      ["Han har aldrig varit där.", "...att han aldrig har varit där.", "Nunca ha estado allí."],
+      ["Vi reser ofta till fjällen.", "...att vi ofta reser till fjällen.", "A menudo viajamos a la montaña."]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "title": "Nominalisering (-ande, -het, -tion)",
+    "description": "Verb och adjektiv blir substantiv.",
+    "columns": ["Verb / Adjektiv", "Substantiv", "Español"],
+    "rows": [
+      ["läsa", "läsningen", "la lectura"],
+      ["arbeta", "arbetet", "el trabajo"],
+      ["fri", "friheten", "la libertad"],
+      ["besluta", "beslutet", "la decisión"],
+      ["utveckla", "utvecklingen", "el desarrollo"]
+    ]
   }
 ]
