@@ -38,26 +38,68 @@
   header h1 { color: #fff; margin: 0 0 4px; font-size: 28px; }
   header p { color: rgba(255,255,255,0.85); margin: 0; font-size: 14px; }
 
-  .langs {
+  .langpick {
+    position: relative;
+    max-width: 320px;
+    margin: 0 auto 14px;
+  }
+  .langbtn {
+    width: 100%;
     display: flex;
-    justify-content: center;
-    gap: 8px;
-    flex-wrap: wrap;
-    margin-bottom: 12px;
-  }
-  .langs button {
+    align-items: center;
+    gap: 10px;
     border: none;
-    padding: 10px 22px;
+    padding: 11px 18px;
     border-radius: 999px;
+    font-family: inherit;
     font-weight: 700;
-    cursor: pointer;
     font-size: 15px;
-    background: rgba(255,255,255,0.25);
-    color: #fff;
-    transition: background 0.15s, transform 0.1s;
+    cursor: pointer;
+    background: #fff;
+    color: var(--accent);
+    box-shadow: 0 6px 18px rgba(30, 20, 60, 0.2);
+    transition: transform 0.1s, box-shadow 0.15s;
   }
-  .langs button.active { background: #fff; color: var(--accent); }
-  .langs button:hover { transform: translateY(-1px); }
+  .langbtn:hover { transform: translateY(-1px); }
+  .langbtn .flag { font-size: 19px; line-height: 1; }
+  .langbtn .name { flex: 1; text-align: left; }
+  .langbtn .caret { font-size: 11px; color: var(--muted); transition: transform 0.15s; }
+  .langpick.open .langbtn .caret { transform: rotate(180deg); }
+
+  .langmenu {
+    position: absolute;
+    z-index: 40;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    display: none;
+    padding: 6px;
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: var(--shadow);
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  .langpick.open .langmenu { display: block; }
+  .langmenu button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    background: none;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;
+    color: var(--text);
+    padding: 10px 12px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .langmenu button:hover { background: rgba(102, 126, 234, 0.12); }
+  .langmenu button.active { background: var(--accent); color: #fff; }
+  .langmenu .flag { font-size: 18px; line-height: 1; }
 
   .levels {
     display: flex;
@@ -214,7 +256,14 @@
     <p id="subtitle">Choose a language to begin</p>
   </header>
 
-  <div class="langs" id="langs"></div>
+  <div class="langpick" id="langpick">
+    <button class="langbtn" id="langBtn" aria-haspopup="listbox" aria-expanded="false">
+      <span class="flag" id="langBtnFlag"></span>
+      <span class="name" id="langBtnName"></span>
+      <span class="caret">▼</span>
+    </button>
+    <div class="langmenu" id="langMenu" role="listbox" aria-label="Language"></div>
+  </div>
 
   <div class="levels" id="levels">
     <button data-level="all" class="active">All</button>
@@ -850,11 +899,29 @@
   /* ---------- Languages ---------- */
   const TAB_SECTION = { flashcards: "vocabulary", texts: "texts", exercises: "exercises", grammar: "grammar", writing: null };
 
-  function buildLangButtons() {
-    const el = document.getElementById("langs");
-    el.innerHTML = LANGS.map(l => `<button data-lang="${l.code}">${l.name}</button>`).join("");
-    el.querySelectorAll("button").forEach(b => b.addEventListener("click", () => selectLang(b.dataset.lang)));
+  const langpick = document.getElementById("langpick");
+  const langBtn = document.getElementById("langBtn");
+  const langMenu = document.getElementById("langMenu");
+
+  function setLangMenu(open) {
+    langpick.classList.toggle("open", open);
+    langBtn.setAttribute("aria-expanded", open ? "true" : "false");
   }
+
+  function buildLangButtons() {
+    langMenu.innerHTML = LANGS.map(l =>
+      `<button role="option" aria-selected="false" data-lang="${l.code}">` +
+      `<span class="flag">${l.flag || ""}</span><span class="name">${l.name}</span></button>`
+    ).join("");
+    langMenu.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+      setLangMenu(false);
+      selectLang(b.dataset.lang);
+    }));
+  }
+
+  langBtn.addEventListener("click", () => setLangMenu(!langpick.classList.contains("open")));
+  document.addEventListener("click", e => { if (!langpick.contains(e.target)) setLangMenu(false); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") setLangMenu(false); });
 
   function updateTabs() {
     document.querySelectorAll("#tabs button").forEach(b => {
@@ -880,7 +947,13 @@
   function selectLang(code) {
     stopSpeech();
     lang = LANG_BY_CODE[code];
-    document.querySelectorAll("#langs button").forEach(b => b.classList.toggle("active", b.dataset.lang === code));
+    document.getElementById("langBtnFlag").textContent = lang.flag || "";
+    document.getElementById("langBtnName").textContent = lang.name;
+    langMenu.querySelectorAll("button").forEach(b => {
+      const on = b.dataset.lang === code;
+      b.classList.toggle("active", on);
+      b.setAttribute("aria-selected", on ? "true" : "false");
+    });
     document.getElementById("subtitle").textContent =
       `${lang.name} · translations in ${lang.targets.map(t => t.label).join(", ")}`;
     document.getElementById("noteContent").placeholder = `Write in ${lang.name} here…`;
