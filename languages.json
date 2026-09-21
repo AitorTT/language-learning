@@ -187,5 +187,20 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "flag": "🇮🇳",
+    "speech": "hi-IN",
+    "termLabel": "Hindi",
+    "termField": "hindi",
+    "script": "devanagari",
+    "translit": true,
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

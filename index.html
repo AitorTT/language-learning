@@ -440,15 +440,23 @@
     const cjk = lang && lang.script === "cjk";
     const japanese = lang && lang.script === "japanese";
     const arabic = lang && lang.script === "arabic";
+    const devanagari = lang && lang.script === "devanagari";
     const skip = new Set(SPANISH_HEADERS);
     if (target !== "en") skip.add("english");
     const parts = [];
     g.columns.forEach((c, i) => {
       const v = row[i];
       if (v === undefined || v === null || v === "" || v === "—" || v === "-") return;
+      if (devanagari) {
+        String(v).split(/[→←]/).forEach(seg => {
+          const hi = seg.replace(/[^\u0900-\u097f\ua8e0-\ua8ff\s]/g, "").replace(/\s+/g, " ").trim();
+          if (hi) parts.push(hi);
+        });
+        return;
+      }
       if (arabic) {
         String(v).split(/[→←]/).forEach(seg => {
-          const ar = seg.replace(/[^\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff\ufb50-\ufdff\ufe70-\ufeff]/g, "").trim();
+          const ar = seg.replace(/[^\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff\ufb50-\ufdff\ufe70-\ufeff\s]/g, "").replace(/\s+/g, " ").trim();
           if (ar) parts.push(ar);
         });
         return;
