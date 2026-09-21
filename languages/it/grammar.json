@@ -687,5 +687,135 @@
       ["fare attenzione", "prestare attenzione", "prestar atención"],
       ["fare il bucato", "lavare i vestiti", "hacer la colada"]
     ]
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "title": "quanto / quanti",
+    "description": "quanto concorda con il nome.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Quante mele vuoi?", "How many apples do you want?", "¿Cuántas manzanas quieres?"],
+      ["Quanta acqua c'è?", "How much water is there?", "¿Cuánta agua hay?"],
+      ["Quanto costa?", "How much does it cost?", "¿Cuánto cuesta?"],
+      ["Quante persone sono venute?", "How many people came?", "¿Cuánta gente vino?"]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "title": "potere e riuscire",
+    "description": "potere per permesso, riuscire per capacità.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Posso aprire la finestra?", "Can I open the window?", "¿Puedo abrir la ventana?"],
+      ["Riesco a nuotare.", "I can swim (I am able to).", "Sé nadar."],
+      ["Non posso venire stasera.", "I can't come tonight.", "No puedo venir esta noche."],
+      ["Puoi aiutarmi, per favore?", "Can you help me, please?", "¿Puedes ayudarme, por favor?"]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "title": "Avverbi di modo (-mente)",
+    "description": "Aggettivo + -mente descrive come avviene qualcosa.",
+    "columns": ["Aggettivo", "Avverbio", "Español"],
+    "rows": [
+      ["veloce", "velocemente", "rápidamente"],
+      ["lento", "lentamente", "lentamente"],
+      ["buono", "bene", "bien"],
+      ["attento", "attentamente", "con cuidado"],
+      ["felice", "felicemente", "felizmente"]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "title": "Preposizioni di movimento",
+    "description": "in, da, attraverso, lungo, verso.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["È entrata nella stanza.", "She walked into the room.", "Entró en la habitación."],
+      ["Abbiamo attraversato il ponte.", "We went across the bridge.", "Cruzamos el puente."],
+      ["Ha corso attraverso il parco.", "He ran through the park.", "Corrió por el parque."],
+      ["Camminavano lungo il fiume.", "They walked along the river.", "Caminaron a lo largo del río."]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "title": "entrambi / nessuno / o... o...",
+    "description": "Parole per parlare di due cose.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Entrambi i film erano belli.", "Both films were good.", "Ambas películas eran buenas."],
+      ["Nessuna delle risposte è corretta.", "Neither answer is correct.", "Ninguna de las respuestas es correcta."],
+      ["Va bene o un giorno o l'altro.", "Either day is fine.", "Cualquiera de los dos días me vale."],
+      ["Nessuno dei due è venuto.", "Neither of them came.", "Ninguno de los dos vino."]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "title": "qualcosa / niente / qualcuno",
+    "description": "Pronomi indefiniti.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Ho comprato qualcosa per te.", "I bought something for you.", "Compré algo para ti."],
+      ["Hai sentito qualcosa?", "Did you hear anything?", "¿Oíste algo?"],
+      ["Nella scatola non c'è niente.", "There is nothing in the box.", "No hay nada en la caja."],
+      ["Qualcuno ti ha chiamato.", "Somebody called you.", "Alguien te llamó."]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "title": "Discorso indiretto: domande",
+    "description": "Domande indirette con se e con i pronomi interrogativi.",
+    "columns": ["Diretto", "Indiretto", "Español"],
+    "rows": [
+      ["\"Dove abiti?\"", "Ha chiesto dove abitassi.", "Preguntó dónde vivía."],
+      ["\"Sei stanco?\"", "Ha chiesto se fossi stanco.", "Preguntó si estaba cansado."],
+      ["\"Che ore sono?\"", "Ha chiesto che ore fossero.", "Preguntó qué hora era."]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "title": "Verbi con preposizione",
+    "description": "Combinazioni fisse di verbo e preposizione.",
+    "columns": ["Combinazione", "Esempio", "Español"],
+    "rows": [
+      ["aspettare", "Aspetto l'autobus.", "esperar el autobús"],
+      ["pensare a", "Penso a te.", "pensar en ti"],
+      ["interessarsi di", "Si interessa di musica.", "interesarse por la música"],
+      ["dipendere da", "Dipende dal tempo.", "depender del tiempo"]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Congiuntivo passato",
+    "description": "Congiuntivo passato per azioni già concluse.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Penso che abbia già mangiato.", "I think he has already eaten.", "Creo que ya ha comido."],
+      ["Spero che sia arrivata.", "I hope she has arrived.", "Espero que haya llegado."],
+      ["Benché abbia studiato, non ha superato l'esame.", "Although he studied, he did not pass the exam.", "Aunque estudió, no aprobó el examen."]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Connettivi testuali",
+    "description": "Connettivi per organizzare un testo formale.",
+    "columns": ["Connettivo", "Funzione", "Español"],
+    "rows": [
+      ["in primo luogo", "primo punto", "en primer lugar"],
+      ["inoltre", "aggiunta", "además"],
+      ["tuttavia", "contrasto", "sin embargo"],
+      ["di conseguenza", "conseguenza", "en consecuencia"],
+      ["in conclusione", "riassunto", "en conclusión"]
+    ]
   }
 ]

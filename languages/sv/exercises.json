@@ -636,5 +636,159 @@
       {"sentence": "Han lider av ett ___ ryggproblem.", "answer": "kroniskt", "translation_en": "He suffers from a chronic back problem.", "translation_es": "Sufre un problema crónico de espalda."},
       {"sentence": "___ utförde operationen på tre timmar.", "answer": "Kirurgen", "translation_en": "The surgeon performed the operation in three hours.", "translation_es": "El cirujano realizó la operación en tres horas."}
     ]
+  },
+  {
+    "id": 59,
+    "level": "A1",
+    "instruction": "Drag the correct item of clothing into each gap.",
+    "items": [
+      {"sentence": "På vintern har jag en varm kappa och ___ .", "answer": "handskar", "translation_en": "In winter I wear a warm coat and gloves.", "translation_es": "En invierno llevo un abrigo caliente y guantes."},
+      {"sentence": "Hon har en vacker röd ___ på festen.", "answer": "klänning", "translation_en": "She is wearing a beautiful red dress to the party.", "translation_es": "Lleva un vestido rojo precioso a la fiesta."},
+      {"sentence": "Ta på dig ___ innan du går ut; det är kallt.", "answer": "jackan", "translation_en": "Put on your jacket before you go outside; it is cold.", "translation_es": "Ponte la chaqueta antes de salir; hace frío."},
+      {"sentence": "Han köpte svarta ___ och en vit skjorta.", "answer": "byxor", "translation_en": "He bought black trousers and a white shirt.", "translation_es": "Compró pantalones negros y una camisa blanca."}
+    ]
+  },
+  {
+    "id": 60,
+    "level": "A1",
+    "instruction": "Drag the correct food or drink into each gap.",
+    "items": [
+      {"sentence": "Jag skulle vilja ha ett glas ___ , tack.", "answer": "juice", "translation_en": "I would like a glass of juice, please.", "translation_es": "Quisiera un vaso de zumo, por favor."},
+      {"sentence": "Till efterrätt åt vi en choklad___ .", "answer": "tårta", "translation_en": "For dessert we had a chocolate cake.", "translation_es": "De postre tomamos una tarta de chocolate."},
+      {"sentence": "Vill du ha ___ i ditt te?", "answer": "honung", "translation_en": "Would you like honey in your tea?", "translation_es": "¿Quieres miel en el té?"},
+      {"sentence": "Barn älskar ___ en varm dag.", "answer": "glass", "translation_en": "Children love ice cream on a hot day.", "translation_es": "A los niños les encanta el helado en un día caluroso."}
+    ]
+  },
+  {
+    "id": 61,
+    "level": "A1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Barnen ___ i parken varje eftermiddag.", "answer": "leker", "translation_en": "The children play in the park every afternoon.", "translation_es": "Los niños juegan en el parque cada tarde."},
+      {"sentence": "De ___ frukt och grönsaker på marknaden.", "answer": "säljer", "translation_en": "They sell fruit and vegetables at the market.", "translation_es": "Venden fruta y verduras en el mercado."},
+      {"sentence": "Jag ___ dig mer än allt annat.", "answer": "älskar", "translation_en": "I love you more than anything.", "translation_es": "Te quiero más que a nada."},
+      {"sentence": "Vårt lag hoppas ___ matchen.", "answer": "vinna", "translation_en": "Our team hopes to win the match.", "translation_es": "Nuestro equipo espera ganar el partido."}
+    ]
+  },
+  {
+    "id": 62,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {"sentence": "Det här brödet är gammalt och mycket ___ .", "answer": "hårt", "translation_en": "This bread is old and very hard.", "translation_es": "Este pan es viejo y muy duro."},
+      {"sentence": "Kudden är mjuk och ___ .", "answer": "lätt", "translation_en": "The pillow is soft and light.", "translation_es": "La almohada es suave y ligera."},
+      {"sentence": "Den här väskan är för ___ för mig.", "answer": "tung", "translation_en": "This bag is too heavy for me.", "translation_es": "Esta bolsa es demasiado pesada para mí."},
+      {"sentence": "Min nya filt känns mycket ___ .", "answer": "mjuk", "translation_en": "My new blanket feels very soft.", "translation_es": "Mi manta nueva es muy suave."}
+    ]
+  },
+  {
+    "id": 63,
+    "level": "A2",
+    "instruction": "Drag the correct school subject into each gap.",
+    "items": [
+      {"sentence": "I ___ lär vi oss tal och ekvationer.", "answer": "matematik", "translation_en": "In mathematics we learn about numbers and equations.", "translation_es": "En matemáticas aprendemos sobre números y ecuaciones."},
+      {"sentence": "I ___ studerar vi det förflutna.", "answer": "historia", "translation_en": "In history we study the past.", "translation_es": "En historia estudiamos el pasado."},
+      {"sentence": "I ___ tittar vi på kartor och lär oss om länder.", "answer": "geografi", "translation_en": "In geography we look at maps and learn about countries.", "translation_es": "En geografía miramos mapas y aprendemos sobre países."},
+      {"sentence": "I ___ laboratoriet studerar vi levande varelser.", "answer": "biologi", "translation_en": "In the biology laboratory we study living things.", "translation_es": "En el laboratorio de biología estudiamos los seres vivos."}
+    ]
+  },
+  {
+    "id": 64,
+    "level": "A2",
+    "instruction": "Drag the correct body part into each gap.",
+    "items": [
+      {"sentence": "Jag skadade ___ när jag spelade fotboll.", "answer": "knät", "translation_en": "I hurt my knee playing football.", "translation_es": "Me hice daño en la rodilla jugando al fútbol."},
+      {"sentence": "Min ___ gör ont eftersom jag bar en tung väska.", "answer": "rygg", "translation_en": "My back hurts because I carried a heavy bag.", "translation_es": "Me duele la espalda porque llevé una bolsa pesada."},
+      {"sentence": "Läkaren lyssnade på mitt ___ .", "answer": "hjärta", "translation_en": "The doctor listened to my heart.", "translation_es": "El médico me escuchó el corazón."},
+      {"sentence": "Du borde borsta ___ två gånger om dagen.", "answer": "tänderna", "translation_en": "You should brush your teeth twice a day.", "translation_es": "Deberías cepillarte los dientes dos veces al día."}
+    ]
+  },
+  {
+    "id": 65,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {"sentence": "___ var så hög att den väckte babyn.", "answer": "Åskan", "translation_en": "The thunder was so loud that it woke the baby.", "translation_es": "El trueno era tan fuerte que despertó al bebé."},
+      {"sentence": "På grund av ___ kunde vi inte se vägen.", "answer": "dimman", "translation_en": "Because of the fog we could not see the road.", "translation_es": "Por la niebla no podíamos ver la carretera."},
+      {"sentence": "Efter regnet syntes en vacker ___ på himlen.", "answer": "regnbåge", "translation_en": "After the rain a beautiful rainbow appeared in the sky.", "translation_es": "Tras la lluvia apareció un precioso arcoíris en el cielo."},
+      {"sentence": "Trädet i trädgården ger behaglig ___ på sommaren.", "answer": "skugga", "translation_en": "The tree in the garden gives welcome shade in summer.", "translation_es": "El árbol del jardín da una sombra agradable en verano."}
+    ]
+  },
+  {
+    "id": 66,
+    "level": "A2",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "Sväng vänster i nästa ___ .", "answer": "hörn", "translation_en": "Turn left at the next corner.", "translation_es": "Gira a la izquierda en la próxima esquina."},
+      {"sentence": "Vänta på grönt ljus vid ___ .", "answer": "övergångsstället", "translation_en": "Wait for the green light at the crossing.", "translation_es": "Espera la luz verde en el paso de peatones."},
+      {"sentence": "Jag går alltid på ___ , aldrig på vägen.", "answer": "trottoaren", "translation_en": "I always walk on the pavement, never on the road.", "translation_es": "Siempre camino por la acera, nunca por la carretera."},
+      {"sentence": "Ta ___ om du vill undvika trafiken.", "answer": "tunnelbanan", "translation_en": "Take the metro if you want to avoid the traffic.", "translation_es": "Coge el metro si quieres evitar el tráfico."}
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B1",
+    "instruction": "Drag the correct culture word into each gap.",
+    "items": [
+      {"sentence": "Jag läser en lång ___ om andra världskriget.", "answer": "roman", "translation_en": "I am reading a long novel about the Second World War.", "translation_es": "Estoy leyendo una novela larga sobre la Segunda Guerra Mundial."},
+      {"sentence": "Museet visar en ___ av modern konst.", "answer": "utställning", "translation_en": "The museum is showing an exhibition of modern art.", "translation_es": "El museo muestra una exposición de arte moderno."},
+      {"sentence": "___ applåderade högt i slutet av pjäsen.", "answer": "Publiken", "translation_en": "The audience clapped loudly at the end of the play.", "translation_es": "El público aplaudió fuerte al final de la obra."},
+      {"sentence": "Sångerskan gick upp på ___ och log.", "answer": "scenen", "translation_en": "The singer walked onto the stage and smiled.", "translation_es": "La cantante subió al escenario y sonrió."}
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B1",
+    "instruction": "Drag the correct technology word into each gap.",
+    "items": [
+      {"sentence": "Du borde välja ett starkt ___ för varje konto.", "answer": "lösenord", "translation_en": "You should choose a strong password for every account.", "translation_es": "Deberías elegir una contraseña fuerte para cada cuenta."},
+      {"sentence": "Jag skickade ett ___ med dokumenten bifogade.", "answer": "e-postmeddelande", "translation_en": "I sent you an email with the documents attached.", "translation_es": "Te envié un correo electrónico con los documentos adjuntos."},
+      {"sentence": "Det är farligt att ladda ner filer från okända webbplatser; den här ___ kan innehålla virus.", "answer": "nedladdningen", "translation_en": "It is dangerous to download files from unknown websites; this download can contain viruses.", "translation_es": "Es peligroso descargar archivos de sitios web desconocidos; esta descarga puede contener virus."},
+      {"sentence": "___ är trasigt, så jag kan inte skriva på min laptop.", "answer": "Tangentbordet", "translation_en": "The keyboard is broken, so I cannot type on my laptop.", "translation_es": "El teclado está roto, así que no puedo escribir en mi portátil."}
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B1",
+    "instruction": "Drag the correct money word into each gap.",
+    "items": [
+      {"sentence": "Vi tog ett ___ för att köpa vårt första hus.", "answer": "lån", "translation_en": "We took out a loan to buy our first house.", "translation_es": "Pedimos un préstamo para comprar nuestra primera casa."},
+      {"sentence": "Spara ___ om du vill lämna tillbaka varan.", "answer": "kvittot", "translation_en": "Keep the receipt in case you want to return the item.", "translation_es": "Guarda el recibo por si quieres devolver el artículo."},
+      {"sentence": "Han betalade med en tiokronorssedel och fick ___ tillbaka.", "answer": "växelpengar", "translation_en": "He paid with a ten-krona note and got change back.", "translation_es": "Pagó con un billete de diez coronas y le devolvieron cambio."},
+      {"sentence": "Hon förvarar sina kort och pengar i en läder___ .", "answer": "plånbok", "translation_en": "She keeps her cards and money in a leather wallet.", "translation_es": "Guarda sus tarjetas y dinero en una cartera de cuero."}
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct abstract noun into each gap.",
+    "items": [
+      {"sentence": "Medicinsk ___ vägleder läkare i svåra beslut.", "answer": "etik", "translation_en": "Medical ethics guide doctors when they make difficult decisions.", "translation_es": "La ética médica guía a los médicos al tomar decisiones difíciles."},
+      {"sentence": "Filosofer har debatterat medvetandets och ___ natur i århundraden.", "answer": "existensens", "translation_en": "Philosophers have debated the nature of consciousness and existence for centuries.", "translation_es": "Los filósofos debaten la naturaleza de la conciencia y la existencia desde hace siglos."},
+      {"sentence": "Forskaren stod inför ett moraliskt ___ .", "answer": "dilemma", "translation_en": "The scientist faced a moral dilemma.", "translation_es": "La científica se enfrentó a un dilema moral."},
+      {"sentence": "En sund ___ är tecken på ett frågande sinne.", "answer": "skepticism", "translation_en": "Healthy scepticism is a sign of a questioning mind.", "translation_es": "Un escepticismo sano es señal de una mente inquisitiva."}
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {"sentence": "Att hugga ner skogar orsakar ___ och förstör livsmiljöer.", "answer": "avskogning", "translation_en": "Cutting down forests causes deforestation and destroys habitats.", "translation_es": "Talar bosques provoca deforestación y destruye hábitats."},
+      {"sentence": "Korallrevet är ett ömtåligt ___ med tusentals arter.", "answer": "ekosystem", "translation_en": "The coral reef is a fragile ecosystem with thousands of species.", "translation_es": "El arrecife de coral es un ecosistema frágil con miles de especies."},
+      {"sentence": "Att minska koldioxid___ är avgörande för att bromsa uppvärmningen.", "answer": "utsläppen", "translation_en": "Reducing carbon emissions is essential to slow global warming.", "translation_es": "Reducir las emisiones de carbono es esencial para frenar el calentamiento global."},
+      {"sentence": "Kraftigt regn har orsakat allvarlig ___ av jorden på kullarna.", "answer": "erosion", "translation_en": "Heavy rain has caused serious soil erosion on the hills.", "translation_es": "Las lluvias fuertes han causado una grave erosión del suelo en las colinas."}
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Det var svårt för henne att ___ sina känslor tydligt.", "answer": "artikulera", "translation_en": "She found it hard to articulate her feelings clearly.", "translation_es": "Le costaba articular sus sentimientos con claridad."},
+      {"sentence": "Företaget försökte ___ de nya reglerna.", "answer": "kringgå", "translation_en": "The company tried to circumvent the new regulations.", "translation_es": "La empresa intentó eludir la nueva normativa."},
+      {"sentence": "Dålig ledning kommer bara att ___ krisen.", "answer": "förvärra", "translation_en": "Poor management will only exacerbate the crisis.", "translation_es": "Una mala gestión solo agravará la crisis."},
+      {"sentence": "Brist på finansiering kan ___ framstegen i projektet.", "answer": "hindra", "translation_en": "Lack of funding may hinder progress in the project.", "translation_es": "La falta de financiación puede obstaculizar el progreso del proyecto."}
+    ]
   }
 ]

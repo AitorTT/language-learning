@@ -694,5 +694,135 @@
       ["in Frage stellen", "bezweifeln", "cuestionar"],
       ["zur Verfügung stellen", "bereitstellen", "poner a disposición"]
     ]
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "title": "wie viel / wie viele",
+    "description": "wie viele mit zählbaren, wie viel mit unzählbaren Nomen.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Wie viele Äpfel willst du?", "How many apples do you want?", "¿Cuántas manzanas quieres?"],
+      ["Wie viel Wasser ist da?", "How much water is there?", "¿Cuánta agua hay?"],
+      ["Wie viel kostet es?", "How much does it cost?", "¿Cuánto cuesta?"],
+      ["Wie viele Leute kamen?", "How many people came?", "¿Cuánta gente vino?"]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "title": "mögen und gefallen",
+    "description": "Vorlieben mit mögen und gefallen ausdrücken.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Ich mag Kaffee.", "I like coffee.", "Me gusta el café."],
+      ["Der Film gefällt mir.", "I like the film.", "Me gusta la película."],
+      ["Ich mag Sport nicht.", "I don't like sport.", "No me gusta el deporte."],
+      ["Gefällt dir die Musik?", "Do you like the music?", "¿Te gusta la música?"]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "title": "Adverbien der Art und Weise (-lich)",
+    "description": "Adjektive + -lich oder -weise beschreiben, wie etwas geschieht.",
+    "columns": ["Adjektiv", "Adverb", "Español"],
+    "rows": [
+      ["schnell", "schnell", "rápidamente"],
+      ["langsam", "langsam", "lentamente"],
+      ["glücklich", "glücklicherweise", "afortunadamente"],
+      ["normal", "normalerweise", "normalmente"],
+      ["vorsichtig", "vorsichtig", "con cuidado"]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "title": "Präpositionen der Bewegung",
+    "description": "in, aus, durch, über, entlang, zu.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Sie ging in das Zimmer.", "She walked into the room.", "Entró en la habitación."],
+      ["Wir gingen über die Brücke.", "We went across the bridge.", "Cruzamos el puente."],
+      ["Er lief durch den Park.", "He ran through the park.", "Corrió por el parque."],
+      ["Sie gingen den Fluss entlang.", "They walked along the river.", "Caminaron a lo largo del río."]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "title": "beide / keiner / entweder",
+    "description": "Wörter für zwei Dinge.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Beide Filme waren gut.", "Both films were good.", "Ambas películas eran buenas."],
+      ["Keine der Antworten ist richtig.", "Neither answer is correct.", "Ninguna de las respuestas es correcta."],
+      ["Beide Tage passen mir.", "Either day is fine.", "Cualquiera de los dos días me vale."],
+      ["Keiner von ihnen kam.", "Neither of them came.", "Ninguno de los dos vino."]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "title": "etwas / nichts / jemand",
+    "description": "Unbestimmte Pronomen.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Ich habe etwas für dich gekauft.", "I bought something for you.", "Compré algo para ti."],
+      ["Hast du etwas gehört?", "Did you hear anything?", "¿Oíste algo?"],
+      ["In der Kiste ist nichts.", "There is nothing in the box.", "No hay nada en la caja."],
+      ["Jemand hat dich angerufen.", "Somebody called you.", "Alguien te llamó."]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "title": "Indirekte Fragen",
+    "description": "Indirekte Fragen mit ob und Fragewörtern.",
+    "columns": ["Direkt", "Indirekt", "Español"],
+    "rows": [
+      ["\"Wo wohnst du?\"", "Er fragte, wo ich wohne.", "Preguntó dónde vivo."],
+      ["\"Bist du müde?\"", "Sie fragte, ob ich müde sei.", "Preguntó si estaba cansado."],
+      ["\"Wie viel Uhr ist es?\"", "Er fragte, wie viel Uhr es sei.", "Preguntó qué hora era."]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "title": "Verben mit Präpositionen",
+    "description": "Feste Verbindungen aus Verb und Präposition.",
+    "columns": ["Verbindung", "Beispiel", "Español"],
+    "rows": [
+      ["warten auf", "Ich warte auf den Bus.", "esperar el autobús"],
+      ["denken an", "Ich denke an dich.", "pensar en ti"],
+      ["sich interessieren für", "Sie interessiert sich für Musik.", "interesarse por la música"],
+      ["bestehen aus", "Wasser besteht aus Wasserstoff und Sauerstoff.", "estar compuesto de"]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Konjunktiv I (indirekte Rede)",
+    "description": "Konjunktiv I gibt Aussagen anderer neutral wieder.",
+    "columns": ["Direkt", "Konjunktiv I", "Español"],
+    "rows": [
+      ["\"Ich bin krank.\"", "Er sagte, er sei krank.", "Dijo que estaba enfermo."],
+      ["\"Wir haben Zeit.\"", "Sie sagten, sie hätten Zeit.", "Dijeron que tenían tiempo."],
+      ["\"Ich komme morgen.\"", "Er sagte, er komme morgen.", "Dijo que vendría mañana."]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Textkonnektoren",
+    "description": "Verbindungswörter für formelle Texte.",
+    "columns": ["Konnektor", "Funktion", "Español"],
+    "rows": [
+      ["zunächst", "erster Punkt", "en primer lugar"],
+      ["dennoch", "Gegensatz", "sin embargo"],
+      ["folglich", "Folge", "por consiguiente"],
+      ["darüber hinaus", "Ergänzung", "además"],
+      ["abschließend", "Zusammenfassung", "para concluir"]
+    ]
   }
 ]

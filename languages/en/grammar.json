@@ -715,5 +715,137 @@
       ["Everyone knows that...", "It is widely accepted that...", "Está ampliamente aceptado que..."],
       ["The results are wrong.", "The results appear to be inconsistent.", "Los resultados parecen inconsistentes."]
     ]
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "title": "How much / how many",
+    "description": "how many with countable nouns, how much with uncountable.",
+    "columns": ["English", "Español", "Type"],
+    "rows": [
+      ["How many apples do you want?", "¿Cuántas manzanas quieres?", "countable"],
+      ["How much water is there?", "¿Cuánta agua hay?", "uncountable"],
+      ["How much does it cost?", "¿Cuánto cuesta?", "price"],
+      ["How many people came?", "¿Cuánta gente vino?", "countable"]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "title": "Can for ability and permission",
+    "description": "can for ability, permission and requests.",
+    "columns": ["English", "Español", "Use"],
+    "rows": [
+      ["I can swim.", "Sé nadar.", "ability"],
+      ["Can I open the window?", "¿Puedo abrir la ventana?", "permission"],
+      ["I can't come tonight.", "No puedo venir esta noche.", "negative"],
+      ["Can you help me, please?", "¿Puedes ayudarme, por favor?", "request"]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "title": "Adverbs of manner",
+    "description": "Adjectives + -ly describe how something is done.",
+    "columns": ["Adjective", "Adverb", "Español"],
+    "rows": [
+      ["quick", "quickly", "rápidamente"],
+      ["slow", "slowly", "lentamente"],
+      ["good", "well", "bien"],
+      ["careful", "carefully", "con cuidado"],
+      ["happy", "happily", "felizmente"]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "title": "Prepositions of movement",
+    "description": "into, out of, across, through, along, towards.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["She walked into the room.", "Entró en la habitación."],
+      ["We went across the bridge.", "Cruzamos el puente."],
+      ["He ran through the park.", "Corrió por el parque."],
+      ["They walked along the river.", "Caminaron a lo largo del río."],
+      ["The dog ran towards me.", "El perro corrió hacia mí."]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "title": "Both / neither / either",
+    "description": "Words for talking about two things.",
+    "columns": ["English", "Español", "Use"],
+    "rows": [
+      ["Both films were good.", "Ambas películas eran buenas.", "two together"],
+      ["Neither answer is correct.", "Ninguna de las dos respuestas es correcta.", "none of two"],
+      ["Either day is fine.", "Cualquiera de los dos días me vale.", "one of two"],
+      ["Neither of them came.", "Ninguno de los dos vino.", "negative"]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "title": "Something / anything / nothing",
+    "description": "Indefinite pronouns.",
+    "columns": ["English", "Español", "Use"],
+    "rows": [
+      ["I bought something for you.", "Compré algo para ti.", "affirmative"],
+      ["Did you hear anything?", "¿Oíste algo?", "question"],
+      ["There is nothing in the box.", "No hay nada en la caja.", "negative"],
+      ["Somebody called you.", "Alguien te llamó.", "person"]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "title": "Reported questions",
+    "description": "Reporting questions with if/whether and question words.",
+    "columns": ["Direct", "Reported", "Español"],
+    "rows": [
+      ["\"Where do you live?\"", "He asked where I lived.", "Preguntó dónde vivía."],
+      ["\"Are you tired?\"", "She asked if I was tired.", "Preguntó si estaba cansado."],
+      ["\"What time is it?\"", "He asked what time it was.", "Preguntó qué hora era."]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "title": "Gerunds and infinitives",
+    "description": "Some verbs take -ing, others take to + infinitive.",
+    "columns": ["Pattern", "Example", "Español"],
+    "rows": [
+      ["enjoy + -ing", "I enjoy reading.", "Disfruto leyendo."],
+      ["want + to", "I want to learn.", "Quiero aprender."],
+      ["avoid + -ing", "He avoids driving.", "Evita conducir."],
+      ["decide + to", "We decided to stay.", "Decidimos quedarnos."],
+      ["stop + -ing", "She stopped smoking.", "Dejó de fumar."]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Subjunctive and formal structures",
+    "description": "Formal subjunctive after suggest, demand, insist.",
+    "columns": ["Informal", "Formal", "Español"],
+    "rows": [
+      ["I suggest that he goes home.", "I suggest that he go home.", "Sugiero que se vaya a casa."],
+      ["They demanded that she leaves.", "They demanded that she leave.", "Exigieron que se marchara."],
+      ["It is important that he is here.", "It is important that he be here.", "Es importante que esté aquí."]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Discourse markers for essays",
+    "description": "Connectors that organise academic writing.",
+    "columns": ["Marker", "Function", "Español"],
+    "rows": [
+      ["Firstly, ...", "first point", "En primer lugar, ..."],
+      ["Furthermore, ...", "addition", "Además, ..."],
+      ["However, ...", "contrast", "Sin embargo, ..."],
+      ["Therefore, ...", "result", "Por lo tanto, ..."],
+      ["In conclusion, ...", "summary", "En conclusión, ..."]
+    ]
   }
 ]

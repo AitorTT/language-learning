@@ -683,5 +683,135 @@
       ["fazer questão de", "insistir em", "insistir en"],
       ["fazer o possível", "esforçar-se", "hacer lo posible"]
     ]
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "title": "quanto / quantos",
+    "description": "quanto concorda com o substantivo.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Quantas maçãs queres?", "How many apples do you want?", "¿Cuántas manzanas quieres?"],
+      ["Quanta água há?", "How much water is there?", "¿Cuánta agua hay?"],
+      ["Quanto custa?", "How much does it cost?", "¿Cuánto cuesta?"],
+      ["Quantas pessoas vieram?", "How many people came?", "¿Cuánta gente vino?"]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "title": "poder e conseguir",
+    "description": "poder para permissão, conseguir para capacidade.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Posso abrir a janela?", "Can I open the window?", "¿Puedo abrir la ventana?"],
+      ["Consigo nadar.", "I can swim (I am able to).", "Sé nadar."],
+      ["Não posso vir hoje à noite.", "I can't come tonight.", "No puedo venir esta noche."],
+      ["Podes ajudar-me, por favor?", "Can you help me, please?", "¿Puedes ayudarme, por favor?"]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "title": "Advérbios de modo (-mente)",
+    "description": "Adjetivo + -mente descreve como algo acontece.",
+    "columns": ["Adjetivo", "Advérbio", "Español"],
+    "rows": [
+      ["rápido", "rapidamente", "rápidamente"],
+      ["lento", "lentamente", "lentamente"],
+      ["bom", "bem", "bien"],
+      ["cuidadoso", "cuidadosamente", "con cuidado"],
+      ["feliz", "felizmente", "felizmente"]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "title": "Preposições de movimento",
+    "description": "para, de, através de, ao longo de, em direção a.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Ela entrou na sala.", "She walked into the room.", "Entró en la habitación."],
+      ["Atravessamos a ponte.", "We went across the bridge.", "Cruzamos el puente."],
+      ["Ele correu pelo parque.", "He ran through the park.", "Corrió por el parque."],
+      ["Caminharam ao longo do rio.", "They walked along the river.", "Caminaron a lo largo del río."]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "title": "ambos / nenhum / ou... ou...",
+    "description": "Palavras para falar de duas coisas.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Ambos os filmes eram bons.", "Both films were good.", "Ambas películas eran buenas."],
+      ["Nenhuma das respostas está correta.", "Neither answer is correct.", "Ninguna de las respuestas es correcta."],
+      ["Qualquer dos dias serve.", "Either day is fine.", "Cualquiera de los dos días me vale."],
+      ["Nenhum deles veio.", "Neither of them came.", "Ninguno de los dos vino."]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "title": "algo / nada / alguém",
+    "description": "Pronomes indefinidos.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Comprei algo para ti.", "I bought something for you.", "Compré algo para ti."],
+      ["Ouviste alguma coisa?", "Did you hear anything?", "¿Oíste algo?"],
+      ["Na caixa não há nada.", "There is nothing in the box.", "No hay nada en la caja."],
+      ["Alguém te ligou.", "Somebody called you.", "Alguien te llamó."]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "title": "Discurso indireto: perguntas",
+    "description": "Perguntas indiretas com se e pronomes interrogativos.",
+    "columns": ["Direto", "Indireto", "Español"],
+    "rows": [
+      ["\"Onde moras?\"", "Ele perguntou onde eu morava.", "Preguntó dónde vivía."],
+      ["\"Estás cansado?\"", "Ele perguntou se eu estava cansado.", "Preguntó si estaba cansado."],
+      ["\"Que horas são?\"", "Ele perguntou que horas eram.", "Preguntó qué hora era."]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "title": "Verbos com preposição",
+    "description": "Combinações fixas de verbo e preposição.",
+    "columns": ["Combinação", "Exemplo", "Español"],
+    "rows": [
+      ["esperar por", "Espero pelo ônibus.", "esperar el autobús"],
+      ["pensar em", "Penso em ti.", "pensar en ti"],
+      ["interessar-se por", "Interessa-se por música.", "interesarse por la música"],
+      ["depender de", "Depende do tempo.", "depender del tiempo"]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Infinitivo pessoal",
+    "description": "Infinitivo conjugado com sujeito próprio.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["É importante estudarmos juntos.", "It is important that we study together.", "Es importante que estudiemos juntos."],
+      ["Antes de saírem, fechem a porta.", "Before you leave, close the door.", "Antes de iros, cerrad la puerta."],
+      ["Por serem caros, não os compramos.", "Because they are expensive, we did not buy them.", "Por ser caros, no los compramos."]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Conectivos textuais",
+    "description": "Conectivos para organizar um texto formal.",
+    "columns": ["Conectivo", "Função", "Español"],
+    "rows": [
+      ["em primeiro lugar", "primeiro ponto", "en primer lugar"],
+      ["além disso", "adição", "además"],
+      ["no entanto", "contraste", "sin embargo"],
+      ["por conseguinte", "consequência", "por consiguiente"],
+      ["em conclusão", "resumo", "en conclusión"]
+    ]
   }
 ]

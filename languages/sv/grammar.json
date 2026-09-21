@@ -695,5 +695,136 @@
       ["ta ett beslut", "bestämma sig", "tomar una decisión"],
       ["ta en promenad", "promenera", "dar un paseo"]
     ]
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "title": "hur mycket / hur många",
+    "description": "hur många med räknebara, hur mycket med oräknebara.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Hur många äpplen vill du ha?", "How many apples do you want?", "¿Cuántas manzanas quieres?"],
+      ["Hur mycket vatten finns det?", "How much water is there?", "¿Cuánta agua hay?"],
+      ["Hur mycket kostar det?", "How much does it cost?", "¿Cuánto cuesta?"],
+      ["Hur många kom hit?", "How many came here?", "¿Cuántos vinieron?"]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "title": "kunna och orka",
+    "description": "kunna för förmåga, orka för energi.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Jag kan simma.", "I can swim.", "Sé nadar."],
+      ["Jag orkar inte lyfta lådan.", "I don't have the energy to lift the box.", "No tengo fuerzas para levantar la caja."],
+      ["Kan jag öppna fönstret?", "Can I open the window?", "¿Puedo abrir la ventana?"],
+      ["Kan du hjälpa mig?", "Can you help me?", "¿Puedes ayudarme?"]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "title": "Sättsadverb (-t, -ligen)",
+    "description": "Adjektiv blir adverb som beskriver hur något sker.",
+    "columns": ["Adjektiv", "Adverb", "Español"],
+    "rows": [
+      ["snabb", "snabbt", "rápidamente"],
+      ["långsam", "långsamt", "lentamente"],
+      ["bra", "väl", "bien"],
+      ["försiktig", "försiktigt", "con cuidado"],
+      ["lycklig", "lyckligtvis", "afortunadamente"]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "title": "Rörelseprepositioner",
+    "description": "in i, ut ur, över, genom, längs, mot.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Hon gick in i rummet.", "She walked into the room.", "Entró en la habitación."],
+      ["Vi gick över bron.", "We went across the bridge.", "Cruzamos el puente."],
+      ["Han sprang genom parken.", "He ran through the park.", "Corrió por el parque."],
+      ["De gick längs floden.", "They walked along the river.", "Caminaron a lo largo del río."]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "title": "både / ingen / antingen",
+    "description": "Ord för att tala om två saker.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Båda filmerna var bra.", "Both films were good.", "Ambas películas eran buenas."],
+      ["Inget av svaren är rätt.", "Neither answer is correct.", "Ninguna de las respuestas es correcta."],
+      ["Antingen dag fungerar.", "Either day is fine.", "Cualquiera de los dos días me vale."],
+      ["Ingen av dem kom.", "Neither of them came.", "Ninguno de los dos vino."]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "title": "något / inget / någon",
+    "description": "Obestämda pronomen.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Jag köpte något till dig.", "I bought something for you.", "Compré algo para ti."],
+      ["Hörde du något?", "Did you hear anything?", "¿Oíste algo?"],
+      ["Det finns inget i lådan.", "There is nothing in the box.", "No hay nada en la caja."],
+      ["Någon ringde dig.", "Somebody called you.", "Alguien te llamó."]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "title": "Indirekta frågor",
+    "description": "Indirekta frågor med om och frågeord.",
+    "columns": ["Direkt", "Indirekt", "Español"],
+    "rows": [
+      ["\"Var bor du?\"", "Han frågade var jag bor.", "Preguntó dónde vivo."],
+      ["\"Är du trött?\"", "Hon frågade om jag var trött.", "Preguntó si estaba cansado."],
+      ["\"Vad är klockan?\"", "Han frågade vad klockan var.", "Preguntó qué hora era."]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "title": "Prepositionsverb",
+    "description": "Fast förbindelse mellan verb och preposition.",
+    "columns": ["Förbindelse", "Exempel", "Español"],
+    "rows": [
+      ["vänta på", "Jag väntar på bussen.", "esperar el autobús"],
+      ["tänka på", "Jag tänker på dig.", "pensar en ti"],
+      ["tycka om", "Hon tycker om musik.", "gustarle la música"],
+      ["bero på", "Det beror på vädret.", "depender del tiempo"]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Textbindning (därför, dessutom, slutligen)",
+    "description": "Konjunktionella adverb som binder samman text.",
+    "columns": ["Markör", "Funktion", "Español"],
+    "rows": [
+      ["för det första", "första punkt", "en primer lugar"],
+      ["dessutom", "tillägg", "además"],
+      ["däremot", "kontrast", "en cambio"],
+      ["därför", "orsak", "por eso"],
+      ["slutligen", "sammanfattning", "por último"]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Nyansering med partiklar (ju, väl, nog)",
+    "description": "Småord som nyanserar betydelsen.",
+    "columns": ["Partikel", "Exempel", "Español"],
+    "rows": [
+      ["ju", "Du vet ju att jag har rätt.", "Sabes bien que tengo razón."],
+      ["väl", "Du kommer väl på festen?", "Vendrás a la fiesta, ¿no?"],
+      ["nog", "Han är nog hemma nu.", "Probablemente ya esté en casa."],
+      ["väl nog", "Det var väl nog ändå bra.", "Al fin y al cabo estuvo bien."]
+    ]
   }
 ]

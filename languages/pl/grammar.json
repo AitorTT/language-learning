@@ -702,5 +702,135 @@
       ["mieć rację", "być w porządku", "tener razón"],
       ["mieć zamiar", "planować", "tener la intención"]
     ]
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "title": "How much / how many (ile)",
+    "description": "ile and dużo with countable and uncountable nouns.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Ile jabłek chcesz?", "How many apples do you want?", "¿Cuántas manzanas quieres?"],
+      ["Ile wody jest?", "How much water is there?", "¿Cuánta agua hay?"],
+      ["Ile to kosztuje?", "How much does it cost?", "¿Cuánto cuesta?"],
+      ["Ile osób przyszło?", "How many people came?", "¿Cuánta gente vino?"]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "title": "Potrafić vs móc",
+    "description": "potrafić for skill, móc for permission and possibility.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Potrafię pływać.", "I can swim (I know how to).", "Sé nadar."],
+      ["Czy mogę otworzyć okno?", "Can I open the window?", "¿Puedo abrir la ventana?"],
+      ["Nie mogę przyjść wieczorem.", "I can't come tonight.", "No puedo venir esta noche."],
+      ["Czy możesz mi pomóc?", "Can you help me?", "¿Puedes ayudarme?"]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "title": "Adverbs of manner (-o)",
+    "description": "Adjectives become adverbs ending in -o or -e.",
+    "columns": ["Adjective", "Adverb", "Español"],
+    "rows": [
+      ["szybki", "szybko", "rápidamente"],
+      ["wolny", "wolno", "lentamente"],
+      ["dobry", "dobrze", "bien"],
+      ["ostrożny", "ostrożnie", "con cuidado"],
+      ["szczęśliwy", "szczęśliwie", "felizmente"]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "title": "Prepositions of movement",
+    "description": "do, z, przez, wzdłuż, w stronę.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Weszła do pokoju.", "She walked into the room.", "Entró en la habitación."],
+      ["Przeszliśmy przez most.", "We went across the bridge.", "Cruzamos el puente."],
+      ["Biegł przez park.", "He ran through the park.", "Corrió por el parque."],
+      ["Szli wzdłuż rzeki.", "They walked along the river.", "Caminaron a lo largo del río."]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "title": "Both / neither / either",
+    "description": "Words for talking about two things.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Oba filmy były dobre.", "Both films were good.", "Ambas películas eran buenas."],
+      ["Żadna odpowiedź nie jest poprawna.", "Neither answer is correct.", "Ninguna de las respuestas es correcta."],
+      ["Którykolwiek dzień mi pasuje.", "Either day is fine.", "Cualquiera de los dos días me vale."],
+      ["Żaden z nich nie przyszedł.", "Neither of them came.", "Ninguno de los dos vino."]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "title": "Indefinite pronouns",
+    "description": "coś, nic, ktoś, nikt.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Kupiłem coś dla ciebie.", "I bought something for you.", "Compré algo para ti."],
+      ["Słyszałeś coś?", "Did you hear anything?", "¿Oíste algo?"],
+      ["W pudełku nie ma nic.", "There is nothing in the box.", "No hay nada en la caja."],
+      ["Ktoś do ciebie dzwonił.", "Somebody called you.", "Alguien te llamó."]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "title": "Reported questions",
+    "description": "Reporting questions with czy and question words.",
+    "columns": ["Direct", "Reported", "Español"],
+    "rows": [
+      ["\"Gdzie mieszkasz?\"", "Zapytał, gdzie mieszkam.", "Preguntó dónde vivo."],
+      ["\"Jesteś zmęczony?\"", "Zapytała, czy jestem zmęczony.", "Preguntó si estaba cansado."],
+      ["\"Która godzina?\"", "Zapytał, która jest godzina.", "Preguntó qué hora era."]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "title": "Verbs with prepositions",
+    "description": "Fixed verb + preposition combinations.",
+    "columns": ["Combination", "Example", "Español"],
+    "rows": [
+      ["czekać na", "Czekam na autobus.", "esperar el autobús"],
+      ["myśleć o", "Myślę o tobie.", "pensar en ti"],
+      ["interesować się", "Interesuje się muzyką.", "interesarse por la música"],
+      ["zależeć od", "To zależy od pogody.", "depender del tiempo"]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Formal register in writing",
+    "description": "Formal structures for essays and official texts.",
+    "columns": ["Informal", "Formal", "Español"],
+    "rows": [
+      ["Myślę, że to dobry pomysł.", "Uważam, iż jest to trafna propozycja.", "Considero que es una propuesta acertada."],
+      ["Chcę coś powiedzieć.", "Chciałbym zwrócić uwagę na pewną kwestię.", "Me gustaría señalar una cuestión."],
+      ["To jest bardzo ważne.", "Kwestia ta ma istotne znaczenie.", "Esta cuestión tiene una importancia esencial."]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Word formation: prefixes and suffixes",
+    "description": "Building new words with prefixes and suffixes.",
+    "columns": ["Base", "Derived", "Español"],
+    "rows": [
+      ["pisać", "przepisać", "reescribir"],
+      ["czytać", "przeczytać", "leer (completo)"],
+      ["pracować", "pracownik", "trabajador"],
+      ["zdrowy", "zdrowie", "salud"],
+      ["nowy", "nowoczesny", "moderno"]
+    ]
   }
 ]
