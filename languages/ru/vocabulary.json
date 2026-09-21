@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "russian": "приве́т",
+    "english": "hello",
+    "spanish": "hola",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "russian": "до свида́ния",
+    "english": "goodbye",
+    "spanish": "adiós",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "russian": "до́брое у́тро",
+    "english": "good morning",
+    "spanish": "buenos días",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "russian": "добро́й но́чи",
+    "english": "good night",
+    "spanish": "buenas noches",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "russian": "спаси́бо",
+    "english": "thank you",
+    "spanish": "gracias",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "russian": "пожа́луйста",
+    "english": "please",
+    "spanish": "por favor",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "russian": "извини́те",
+    "english": "sorry",
+    "spanish": "lo siento / perdón",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "russian": "да",
+    "english": "yes",
+    "spanish": "sí",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "russian": "нет",
+    "english": "no",
+    "spanish": "no",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "russian": "как дела́?",
+    "english": "how are you?",
+    "spanish": "¿cómo estás?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "russian": "вода́",
+    "english": "water",
+    "spanish": "agua",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "russian": "хлеб",
+    "english": "bread",
+    "spanish": "pan",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "russian": "молоко́",
+    "english": "milk",
+    "spanish": "leche",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "russian": "ко́фе",
+    "english": "coffee",
+    "spanish": "café",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "russian": "я́блоко",
+    "english": "apple",
+    "spanish": "manzana",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "russian": "дом",
+    "english": "house",
+    "spanish": "casa",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "russian": "ко́шка",
+    "english": "cat",
+    "spanish": "gato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "russian": "соба́ка",
+    "english": "dog",
+    "spanish": "perro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "russian": "мать",
+    "english": "mother",
+    "spanish": "madre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "russian": "оте́ц",
+    "english": "father",
+    "spanish": "padre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "russian": "семья́",
+    "english": "family",
+    "spanish": "familia",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "russian": "друг",
+    "english": "friend",
+    "spanish": "amigo",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "russian": "быть",
+    "english": "to be",
+    "spanish": "ser / estar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "russian": "име́ть",
+    "english": "to have",
+    "spanish": "tener",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "russian": "идти́",
+    "english": "to go",
+    "spanish": "ir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "russian": "есть",
+    "english": "to eat",
+    "spanish": "comer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "russian": "пить",
+    "english": "to drink",
+    "spanish": "beber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "russian": "хоро́ший",
+    "english": "good",
+    "spanish": "bueno",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "russian": "плохо́й",
+    "english": "bad",
+    "spanish": "malo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "russian": "большо́й",
+    "english": "big",
+    "spanish": "grande",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "russian": "ма́ленький",
+    "english": "small",
+    "spanish": "pequeño",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "russian": "жить",
+    "english": "to live",
+    "spanish": "vivir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 33,
+    "russian": "рабо́тать",
+    "english": "to work",
+    "spanish": "trabajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 34,
+    "russian": "покупа́ть",
+    "english": "to buy",
+    "spanish": "comprar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 35,
+    "russian": "путеше́ствовать",
+    "english": "to travel",
+    "spanish": "viajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 36,
+    "russian": "гото́вить",
+    "english": "to cook",
+    "spanish": "cocinar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 37,
+    "russian": "учи́ться",
+    "english": "to learn",
+    "spanish": "aprender",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 38,
+    "russian": "оде́жда",
+    "english": "clothes",
+    "spanish": "ropa",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 39,
+    "russian": "о́бувь",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 40,
+    "russian": "пальто́",
+    "english": "coat",
+    "spanish": "abrigo",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 41,
+    "russian": "ку́хня",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 42,
+    "russian": "ва́нная",
+    "english": "bathroom",
+    "spanish": "baño",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 43,
+    "russian": "спа́льня",
+    "english": "bedroom",
+    "spanish": "dormitorio",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 44,
+    "russian": "у́лица",
+    "english": "street",
+    "spanish": "calle",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 45,
+    "russian": "го́род",
+    "english": "city",
+    "spanish": "ciudad",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 46,
+    "russian": "магази́н",
+    "english": "shop",
+    "spanish": "tienda",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 47,
+    "russian": "ста́нция",
+    "english": "station",
+    "spanish": "estación",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 48,
+    "russian": "биле́т",
+    "english": "ticket",
+    "spanish": "billete",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 49,
+    "russian": "чемода́н",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 50,
+    "russian": "маши́на",
+    "english": "car",
+    "spanish": "coche",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 51,
+    "russian": "по́езд",
+    "english": "train",
+    "spanish": "tren",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 52,
+    "russian": "сего́дня",
+    "english": "today",
+    "spanish": "hoy",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 53,
+    "russian": "за́втра",
+    "english": "tomorrow",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 54,
+    "russian": "вчера́",
+    "english": "yesterday",
+    "spanish": "ayer",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 55,
+    "russian": "всегда́",
+    "english": "always",
+    "spanish": "siempre",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 56,
+    "russian": "ча́сто",
+    "english": "often",
+    "spanish": "a menudo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 57,
+    "russian": "никогда́",
+    "english": "never",
+    "spanish": "nunca",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 58,
+    "russian": "пого́да",
+    "english": "weather",
+    "spanish": "tiempo (clima)",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 59,
+    "russian": "дождь",
+    "english": "rain",
+    "spanish": "lluvia",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 60,
+    "russian": "со́лнце",
+    "english": "sun",
+    "spanish": "sol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 61,
+    "russian": "счастли́вый",
+    "english": "happy",
+    "spanish": "feliz",
+    "category": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": 62,
+    "russian": "о́пыт",
+    "english": "experience",
+    "spanish": "experiencia",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 63,
+    "russian": "профе́ссия",
+    "english": "profession",
+    "spanish": "profesión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 64,
+    "russian": "нача́льник",
+    "english": "boss",
+    "spanish": "jefe",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 65,
+    "russian": "встре́ча",
+    "english": "meeting",
+    "spanish": "reunión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 66,
+    "russian": "догово́р",
+    "english": "contract",
+    "spanish": "contrato",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 67,
+    "russian": "за́рплата",
+    "english": "salary",
+    "spanish": "salario",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 68,
+    "russian": "образова́ние",
+    "english": "education",
+    "spanish": "educación",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 69,
+    "russian": "зна́ние",
+    "english": "knowledge",
+    "spanish": "conocimiento",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 70,
+    "russian": "на́вык",
+    "english": "skill",
+    "spanish": "habilidad",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 71,
+    "russian": "экза́мен",
+    "english": "exam",
+    "spanish": "examen",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 72,
+    "russian": "здоро́вье",
+    "english": "health",
+    "spanish": "salud",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 73,
+    "russian": "боле́знь",
+    "english": "illness",
+    "spanish": "enfermedad",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 74,
+    "russian": "врач",
+    "english": "doctor",
+    "spanish": "médico",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 75,
+    "russian": "сча́стье",
+    "english": "happiness",
+    "spanish": "felicidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 76,
+    "russian": "страх",
+    "english": "fear",
+    "spanish": "miedo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 77,
+    "russian": "наде́жда",
+    "english": "hope",
+    "spanish": "esperanza",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 78,
+    "russian": "любо́вь",
+    "english": "love",
+    "spanish": "amor",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 79,
+    "russian": "ре́вность",
+    "english": "jealousy",
+    "spanish": "celos",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 80,
+    "russian": "реши́ть",
+    "english": "to decide",
+    "spanish": "decidir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 81,
+    "russian": "вы́брать",
+    "english": "to choose",
+    "spanish": "elegir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 82,
+    "russian": "объясни́ть",
+    "english": "to explain",
+    "spanish": "explicar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 83,
+    "russian": "сравни́ть",
+    "english": "to compare",
+    "spanish": "comparar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 84,
+    "russian": "дости́чь",
+    "english": "to achieve",
+    "spanish": "lograr",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 85,
+    "russian": "рекомендова́ть",
+    "english": "to recommend",
+    "spanish": "recomendar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 86,
+    "russian": "на са́мом де́ле",
+    "english": "actually",
+    "spanish": "en realidad",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 87,
+    "russian": "неме́дленно",
+    "english": "immediately",
+    "spanish": "inmediatamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 88,
+    "russian": "к сожале́нию",
+    "english": "unfortunately",
+    "spanish": "desafortunadamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 89,
+    "russian": "окружа́ющая среда́",
+    "english": "environment",
+    "spanish": "medio ambiente",
+    "category": "nature",
+    "level": "B1"
+  },
+  {
+    "id": 90,
+    "russian": "о́бщество",
+    "english": "society",
+    "spanish": "sociedad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 91,
+    "russian": "вы́бор",
+    "english": "choice",
+    "spanish": "elección",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 92,
+    "russian": "убежде́ние",
+    "english": "belief",
+    "spanish": "convicción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 93,
+    "russian": "сомне́ние",
+    "english": "doubt",
+    "spanish": "duda",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "russian": "явле́ние",
+    "english": "phenomenon",
+    "spanish": "fenómeno",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "russian": "реше́ние",
+    "english": "solution",
+    "spanish": "solución",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "russian": "иссле́дование",
+    "english": "research",
+    "spanish": "investigación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "russian": "влия́ние",
+    "english": "influence",
+    "spanish": "influencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "russian": "угро́за",
+    "english": "threat",
+    "spanish": "amenaza",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "russian": "осозна́ние",
+    "english": "awareness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "russian": "разви́тие",
+    "english": "development",
+    "spanish": "desarrollo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 101,
+    "russian": "прогре́сс",
+    "english": "progress",
+    "spanish": "progreso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 102,
+    "russian": "после́дствие",
+    "english": "consequence",
+    "spanish": "consecuencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 103,
+    "russian": "предсказа́ть",
+    "english": "to predict",
+    "spanish": "predecir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 104,
+    "russian": "предполага́ть",
+    "english": "to assume",
+    "spanish": "asumir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 105,
+    "russian": "доказа́ть",
+    "english": "to prove",
+    "spanish": "demostrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 106,
+    "russian": "сомнева́ться",
+    "english": "to doubt",
+    "spanish": "dudar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 107,
+    "russian": "вести́ перегово́ры",
+    "english": "to negotiate",
+    "spanish": "negociar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 108,
+    "russian": "анализи́ровать",
+    "english": "to analyze",
+    "spanish": "analizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 109,
+    "russian": "оце́нивать",
+    "english": "to assess",
+    "spanish": "evaluar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 110,
+    "russian": "доста́точный",
+    "english": "sufficient",
+    "spanish": "suficiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 111,
+    "russian": "очеви́дный",
+    "english": "obvious",
+    "spanish": "obvio",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 112,
+    "russian": "сло́жный",
+    "english": "complex",
+    "spanish": "complejo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 113,
+    "russian": "относи́тельный",
+    "english": "relative",
+    "spanish": "relativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 114,
+    "russian": "незави́симый",
+    "english": "independent",
+    "spanish": "independiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 115,
+    "russian": "усто́йчивый",
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 116,
+    "russian": "хотя́",
+    "english": "even though",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 117,
+    "russian": "одна́ко",
+    "english": "however",
+    "spanish": "sin embargo",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 118,
+    "russian": "тогда́ как",
+    "english": "whereas",
+    "spanish": "en cambio",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 119,
+    "russian": "кро́ме того́",
+    "english": "moreover",
+    "spanish": "además",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 120,
+    "russian": "свобо́да",
+    "english": "freedom",
+    "spanish": "libertad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 121,
+    "russian": "оди́н",
+    "english": "one",
+    "spanish": "uno",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "russian": "два",
+    "english": "two",
+    "spanish": "dos",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "russian": "три",
+    "english": "three",
+    "spanish": "tres",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "russian": "четы́ре",
+    "english": "four",
+    "spanish": "cuatro",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "russian": "пять",
+    "english": "five",
+    "spanish": "cinco",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "russian": "шесть",
+    "english": "six",
+    "spanish": "seis",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "russian": "семь",
+    "english": "seven",
+    "spanish": "siete",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "russian": "во́семь",
+    "english": "eight",
+    "spanish": "ocho",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "russian": "де́вять",
+    "english": "nine",
+    "spanish": "nueve",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "russian": "де́сять",
+    "english": "ten",
+    "spanish": "diez",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "russian": "кра́сный",
+    "english": "red",
+    "spanish": "rojo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "russian": "си́ний",
+    "english": "blue",
+    "spanish": "azul",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "russian": "зелёный",
+    "english": "green",
+    "spanish": "verde",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "russian": "чёрный",
+    "english": "black",
+    "spanish": "negro",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "russian": "бе́лый",
+    "english": "white",
+    "spanish": "blanco",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "russian": "жёлтый",
+    "english": "yellow",
+    "spanish": "amarillo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "russian": "со́лнечный",
+    "english": "sunny",
+    "spanish": "soleado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "russian": "дождли́вый",
+    "english": "rainy",
+    "spanish": "lluvioso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "russian": "о́блачный",
+    "english": "cloudy",
+    "spanish": "nublado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "russian": "холо́дный",
+    "english": "cold",
+    "spanish": "frío",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "russian": "горя́чий",
+    "english": "hot",
+    "spanish": "caluroso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "russian": "брат",
+    "english": "brother",
+    "spanish": "hermano",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "russian": "сестра́",
+    "english": "sister",
+    "spanish": "hermana",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "russian": "сын",
+    "english": "son",
+    "spanish": "hijo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "russian": "дочь",
+    "english": "daughter",
+    "spanish": "hija",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "russian": "шко́ла",
+    "english": "school",
+    "spanish": "escuela",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "russian": "парк",
+    "english": "park",
+    "spanish": "parque",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "russian": "ле́вый",
+    "english": "left",
+    "spanish": "izquierda",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "russian": "пра́вый",
+    "english": "right",
+    "spanish": "derecha",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "russian": "по́мощь",
+    "english": "help",
+    "spanish": "ayuda",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "russian": "сад",
+    "english": "garden",
+    "spanish": "jardín",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 152,
+    "russian": "окно́",
+    "english": "window",
+    "spanish": "ventana",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 153,
+    "russian": "дверь",
+    "english": "door",
+    "spanish": "puerta",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 154,
+    "russian": "стул",
+    "english": "chair",
+    "spanish": "silla",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 155,
+    "russian": "стол",
+    "english": "table",
+    "spanish": "mesa",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 156,
+    "russian": "кни́га",
+    "english": "book",
+    "spanish": "libro",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 157,
+    "russian": "ру́чка",
+    "english": "pen",
+    "spanish": "bolígrafo",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 158,
+    "russian": "чита́ть",
+    "english": "to read",
+    "spanish": "leer",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 159,
+    "russian": "писа́ть",
+    "english": "to write",
+    "spanish": "escribir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 160,
+    "russian": "говори́ть",
+    "english": "to speak",
+    "spanish": "hablar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 161,
+    "russian": "слу́шать",
+    "english": "to listen",
+    "spanish": "escuchar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 162,
+    "russian": "откры́ть",
+    "english": "to open",
+    "spanish": "abrir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 163,
+    "russian": "закры́ть",
+    "english": "to close",
+    "spanish": "cerrar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 164,
+    "russian": "спать",
+    "english": "to sleep",
+    "spanish": "dormir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 165,
+    "russian": "бе́гать",
+    "english": "to run",
+    "spanish": "correr",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 166,
+    "russian": "пла́вать",
+    "english": "to swim",
+    "spanish": "nadar",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 167,
+    "russian": "футбо́л",
+    "english": "football",
+    "spanish": "fútbol",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 168,
+    "russian": "му́зыка",
+    "english": "music",
+    "spanish": "música",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 169,
+    "russian": "пе́сня",
+    "english": "song",
+    "spanish": "canción",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 170,
+    "russian": "петь",
+    "english": "to sing",
+    "spanish": "cantar",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 171,
+    "russian": "вечери́нка",
+    "english": "party",
+    "spanish": "fiesta",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 172,
+    "russian": "пляж",
+    "english": "beach",
+    "spanish": "playa",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 173,
+    "russian": "гора́",
+    "english": "mountain",
+    "spanish": "montaña",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 174,
+    "russian": "река́",
+    "english": "river",
+    "spanish": "río",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 175,
+    "russian": "де́рево",
+    "english": "tree",
+    "spanish": "árbol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 176,
+    "russian": "цвето́к",
+    "english": "flower",
+    "spanish": "flor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 177,
+    "russian": "не́бо",
+    "english": "sky",
+    "spanish": "cielo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 178,
+    "russian": "уста́лый",
+    "english": "tired",
+    "spanish": "cansado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 179,
+    "russian": "серди́тый",
+    "english": "angry",
+    "spanish": "enfadado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 180,
+    "russian": "обеспоко́енный",
+    "english": "worried",
+    "spanish": "preocupado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 181,
+    "russian": "дохо́д",
+    "english": "income",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 182,
+    "russian": "копи́ть",
+    "english": "to save",
+    "spanish": "ahorrar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 183,
+    "russian": "тра́тить",
+    "english": "to spend",
+    "spanish": "gastar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 184,
+    "russian": "долг",
+    "english": "debt",
+    "spanish": "deuda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 185,
+    "russian": "цена́",
+    "english": "price",
+    "spanish": "precio",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 186,
+    "russian": "банк",
+    "english": "bank",
+    "spanish": "banco",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 187,
+    "russian": "наня́ть",
+    "english": "to hire",
+    "spanish": "contratar",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 188,
+    "russian": "колле́га",
+    "english": "colleague",
+    "spanish": "colega",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 189,
+    "russian": "срок",
+    "english": "deadline",
+    "spanish": "fecha límite",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 190,
+    "russian": "карье́ра",
+    "english": "career",
+    "spanish": "carrera",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 191,
+    "russian": "улучша́ть",
+    "english": "to improve",
+    "spanish": "mejorar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 192,
+    "russian": "предлага́ть",
+    "english": "to suggest",
+    "spanish": "sugerir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 193,
+    "russian": "избега́ть",
+    "english": "to avoid",
+    "spanish": "evitar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 194,
+    "russian": "развива́ть",
+    "english": "to develop",
+    "spanish": "desarrollar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 195,
+    "russian": "подде́рживать",
+    "english": "to support",
+    "spanish": "apoyar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 196,
+    "russian": "загрязне́ние",
+    "english": "pollution",
+    "spanish": "contaminación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 197,
+    "russian": "кли́мат",
+    "english": "climate",
+    "spanish": "clima",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 198,
+    "russian": "перераба́тывать",
+    "english": "to recycle",
+    "spanish": "reciclar",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 199,
+    "russian": "эне́ргия",
+    "english": "energy",
+    "spanish": "energía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 200,
+    "russian": "прави́тельство",
+    "english": "government",
+    "spanish": "gobierno",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 201,
+    "russian": "зако́н",
+    "english": "law",
+    "spanish": "ley",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 202,
+    "russian": "вы́боры",
+    "english": "election",
+    "spanish": "elección",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 203,
+    "russian": "граждани́н",
+    "english": "citizen",
+    "spanish": "ciudadano",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 204,
+    "russian": "культу́ра",
+    "english": "culture",
+    "spanish": "cultura",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 205,
+    "russian": "нау́ка",
+    "english": "science",
+    "spanish": "ciencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 206,
+    "russian": "экспериме́нт",
+    "english": "experiment",
+    "spanish": "experimento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 207,
+    "russian": "доказа́тельство",
+    "english": "evidence",
+    "spanish": "evidencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 208,
+    "russian": "тео́рия",
+    "english": "theory",
+    "spanish": "teoría",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 209,
+    "russian": "откры́тие",
+    "english": "discovery",
+    "spanish": "descubrimiento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 210,
+    "russian": "возмо́жно",
+    "english": "perhaps",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 211,
+    "russian": "предположе́ние",
+    "english": "assumption",
+    "spanish": "suposición",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 212,
+    "russian": "спо́р",
+    "english": "controversy",
+    "spanish": "controversia",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 213,
+    "russian": "нера́венство",
+    "english": "inequality",
+    "spanish": "desigualdad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 214,
+    "russian": "усто́йчивость",
+    "english": "sustainability",
+    "spanish": "sostenibilidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 215,
+    "russian": "то́чка зре́ния",
+    "english": "perspective",
+    "spanish": "perspectiva",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 216,
+    "russian": "скры́тый смысл",
+    "english": "implication",
+    "spanish": "implicación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 217,
+    "russian": "ограниче́ние",
+    "english": "constraint",
+    "spanish": "restricción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 218,
+    "russian": "сти́мул",
+    "english": "incentive",
+    "spanish": "incentivo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 219,
+    "russian": "вы́ручка",
+    "english": "revenue",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 220,
+    "russian": "инвести́ция",
+    "english": "investment",
+    "spanish": "inversión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 221,
+    "russian": "перегово́ры",
+    "english": "negotiation",
+    "spanish": "negociación",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 222,
+    "russian": "эффекти́вность",
+    "english": "efficiency",
+    "spanish": "eficiencia",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 223,
+    "russian": "иннова́ция",
+    "english": "innovation",
+    "spanish": "innovación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 224,
+    "russian": "алгори́тм",
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 225,
+    "russian": "конфиденциа́льность",
+    "english": "privacy",
+    "spanish": "privacidad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 226,
+    "russian": "иску́сственный интелле́кт",
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 227,
+    "russian": "да́нные",
+    "english": "data",
+    "spanish": "datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 228,
+    "russian": "кибербезопа́сность",
+    "english": "cybersecurity",
+    "spanish": "ciberseguridad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 229,
+    "russian": "подрыва́ть",
+    "english": "to undermine",
+    "spanish": "socavar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 230,
+    "russian": "укрепля́ть",
+    "english": "to reinforce",
+    "spanish": "reforzar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 231,
+    "russian": "смягча́ть",
+    "english": "to mitigate",
+    "spanish": "mitigar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 232,
+    "russian": "облегча́ть",
+    "english": "to facilitate",
+    "spanish": "facilitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 233,
+    "russian": "признава́ть",
+    "english": "to acknowledge",
+    "spanish": "reconocer",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 234,
+    "russian": "неоднозна́чный",
+    "english": "ambiguous",
+    "spanish": "ambiguo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 235,
+    "russian": "осуществи́мый",
+    "english": "feasible",
+    "spanish": "factible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 236,
+    "russian": "неизбе́жный",
+    "english": "inevitable",
+    "spanish": "inevitable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 237,
+    "russian": "всесторо́нний",
+    "english": "comprehensive",
+    "spanish": "integral",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 238,
+    "russian": "убеди́тельный",
+    "english": "compelling",
+    "spanish": "convincente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 239,
+    "russian": "распростра́нённый",
+    "english": "prevalent",
+    "spanish": "predominante",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 240,
+    "russian": "вре́дный",
+    "english": "detrimental",
+    "spanish": "perjudicial",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 241,
+    "russian": "голова́",
+    "english": "head",
+    "spanish": "cabeza",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "russian": "рука́",
+    "english": "hand",
+    "spanish": "mano",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "russian": "нога́",
+    "english": "foot",
+    "spanish": "pie",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "russian": "глаз",
+    "english": "eye",
+    "spanish": "ojo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "russian": "у́хо",
+    "english": "ear",
+    "spanish": "oreja",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "russian": "рот",
+    "english": "mouth",
+    "spanish": "boca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "russian": "нос",
+    "english": "nose",
+    "spanish": "nariz",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "russian": "во́лосы",
+    "english": "hair",
+    "spanish": "pelo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "russian": "рука́",
+    "english": "arm",
+    "spanish": "brazo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "russian": "нога́",
+    "english": "leg",
+    "spanish": "pierna",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "russian": "крова́ть",
+    "english": "bed",
+    "spanish": "cama",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "russian": "ла́мпа",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "russian": "ключ",
+    "english": "key",
+    "spanish": "llave",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "russian": "стена́",
+    "english": "wall",
+    "spanish": "pared",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "russian": "пол",
+    "english": "floor",
+    "spanish": "suelo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "russian": "кры́ша",
+    "english": "roof",
+    "spanish": "tejado",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "russian": "яйцо́",
+    "english": "egg",
+    "spanish": "huevo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "russian": "сыр",
+    "english": "cheese",
+    "spanish": "queso",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "russian": "ры́ба",
+    "english": "fish",
+    "spanish": "pescado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "russian": "мя́со",
+    "english": "meat",
+    "spanish": "carne",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "russian": "суп",
+    "english": "soup",
+    "spanish": "sopa",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "russian": "сала́т",
+    "english": "salad",
+    "spanish": "ensalada",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "russian": "са́хар",
+    "english": "sugar",
+    "spanish": "azúcar",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "russian": "соль",
+    "english": "salt",
+    "spanish": "sal",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "russian": "но́вый",
+    "english": "new",
+    "spanish": "nuevo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "russian": "ста́рый",
+    "english": "old",
+    "spanish": "viejo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "russian": "молодо́й",
+    "english": "young",
+    "spanish": "joven",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "russian": "дли́нный",
+    "english": "long",
+    "spanish": "largo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "russian": "коро́ткий",
+    "english": "short",
+    "spanish": "corto",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "russian": "ме́дленный",
+    "english": "slow",
+    "spanish": "lento",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "russian": "просыпа́ться",
+    "english": "to wake up",
+    "spanish": "despertarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "russian": "встава́ть",
+    "english": "to get up",
+    "spanish": "levantarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "russian": "мыть",
+    "english": "to wash",
+    "spanish": "lavarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "russian": "одева́ться",
+    "english": "to dress",
+    "spanish": "vestirse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "russian": "отдыха́ть",
+    "english": "to rest",
+    "spanish": "descansar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "russian": "начина́ть",
+    "english": "to start",
+    "spanish": "empezar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "russian": "зака́нчивать",
+    "english": "to finish",
+    "spanish": "terminar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "russian": "пыта́ться",
+    "english": "to try",
+    "spanish": "intentar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "russian": "авто́бус",
+    "english": "bus",
+    "spanish": "autobús",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "russian": "велосипе́д",
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "russian": "самолёт",
+    "english": "plane",
+    "spanish": "avión",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "russian": "ло́дка",
+    "english": "boat",
+    "spanish": "barco",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "russian": "аэропо́рт",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "russian": "доро́га",
+    "english": "road",
+    "spanish": "carretera",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "russian": "па́спорт",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "russian": "тури́ст",
+    "english": "tourist",
+    "spanish": "turista",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "russian": "гид",
+    "english": "guide",
+    "spanish": "guía",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "russian": "о́тпуск",
+    "english": "holiday",
+    "spanish": "vacaciones",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "russian": "скуча́ющий",
+    "english": "bored",
+    "spanish": "aburrido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "russian": "взволно́ванный",
+    "english": "excited",
+    "spanish": "emocionado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "russian": "удивлённый",
+    "english": "surprised",
+    "spanish": "sorprendido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "russian": "не́рвный",
+    "english": "nervous",
+    "spanish": "nervioso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "russian": "го́рдый",
+    "english": "proud",
+    "spanish": "orgulloso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "russian": "споко́йный",
+    "english": "calm",
+    "spanish": "tranquilo",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "russian": "ры́нок",
+    "english": "market",
+    "spanish": "mercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "russian": "суперма́ркет",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "russian": "ка́рта",
+    "english": "card",
+    "spanish": "tarjeta",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "russian": "нали́чные",
+    "english": "cash",
+    "spanish": "efectivo",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "russian": "ски́дка",
+    "english": "discount",
+    "spanish": "descuento",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "russian": "разме́р",
+    "english": "size",
+    "spanish": "talla",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "russian": "рабо́тник",
+    "english": "employee",
+    "spanish": "empleado",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 302,
+    "russian": "работо́датель",
+    "english": "employer",
+    "spanish": "empleador",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 303,
+    "russian": "собесе́дование",
+    "english": "interview",
+    "spanish": "entrevista",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "russian": "резюме́",
+    "english": "resume",
+    "spanish": "currículum",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "russian": "повыше́ние",
+    "english": "promotion",
+    "spanish": "ascenso",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "russian": "зада́ча",
+    "english": "task",
+    "spanish": "tarea",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "russian": "прое́кт",
+    "english": "project",
+    "spanish": "proyecto",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "russian": "кома́нда",
+    "english": "team",
+    "spanish": "equipo",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "russian": "ме́неджер",
+    "english": "manager",
+    "spanish": "gerente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "russian": "обуче́ние",
+    "english": "training",
+    "spanish": "formación",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "russian": "тради́ция",
+    "english": "tradition",
+    "spanish": "tradición",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "russian": "рели́гия",
+    "english": "religion",
+    "spanish": "religión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "russian": "СМИ",
+    "english": "media",
+    "spanish": "medios de comunicación",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "russian": "но́вости",
+    "english": "news",
+    "spanish": "noticias",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "russian": "журнали́ст",
+    "english": "journalist",
+    "spanish": "periodista",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "russian": "мне́ние",
+    "english": "opinion",
+    "spanish": "opinión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "russian": "проте́ст",
+    "english": "protest",
+    "spanish": "protesta",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "russian": "го́лос",
+    "english": "vote",
+    "spanish": "voto",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "russian": "отхо́ды",
+    "english": "waste",
+    "spanish": "residuos",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "russian": "лес",
+    "english": "forest",
+    "spanish": "bosque",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "russian": "океа́н",
+    "english": "ocean",
+    "spanish": "océano",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "russian": "наводне́ние",
+    "english": "flood",
+    "spanish": "inundación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "russian": "за́суха",
+    "english": "drought",
+    "spanish": "sequía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "russian": "вид",
+    "english": "species",
+    "spanish": "especie",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "russian": "лече́ние",
+    "english": "treatment",
+    "spanish": "tratamiento",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "russian": "симпто́м",
+    "english": "symptom",
+    "spanish": "síntoma",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "russian": "реце́пт",
+    "english": "prescription",
+    "spanish": "receta médica",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "russian": "страхо́вка",
+    "english": "insurance",
+    "spanish": "seguro",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 329,
+    "russian": "дие́та",
+    "english": "diet",
+    "spanish": "dieta",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 330,
+    "russian": "стресс",
+    "english": "stress",
+    "spanish": "estrés",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 331,
+    "russian": "програ́ммное обеспече́ние",
+    "english": "software",
+    "spanish": "software",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "russian": "аппара́тное обеспече́ние",
+    "english": "hardware",
+    "spanish": "hardware",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "russian": "сеть",
+    "english": "network",
+    "spanish": "red",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "russian": "се́рвер",
+    "english": "server",
+    "spanish": "servidor",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "russian": "ба́за да́нных",
+    "english": "database",
+    "spanish": "base de datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "russian": "шифрова́ние",
+    "english": "encryption",
+    "spanish": "cifrado",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "russian": "устро́йство",
+    "english": "device",
+    "spanish": "dispositivo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "russian": "приложе́ние",
+    "english": "application",
+    "spanish": "aplicación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "russian": "платфо́рма",
+    "english": "platform",
+    "spanish": "plataforma",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "russian": "виртуа́льный",
+    "english": "virtual",
+    "spanish": "virtual",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "russian": "при́быль",
+    "english": "profit",
+    "spanish": "beneficio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "russian": "бюдже́т",
+    "english": "budget",
+    "spanish": "presupuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "russian": "нало́г",
+    "english": "tax",
+    "spanish": "impuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "russian": "инфля́ция",
+    "english": "inflation",
+    "spanish": "inflación",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "russian": "торго́вля",
+    "english": "trade",
+    "spanish": "comercio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "russian": "валю́та",
+    "english": "currency",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "russian": "предложе́ние",
+    "english": "supply",
+    "spanish": "oferta",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "russian": "ра́мки",
+    "english": "framework",
+    "spanish": "marco",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "russian": "крите́рий",
+    "english": "criterion",
+    "spanish": "criterio",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "russian": "паради́гма",
+    "english": "paradigm",
+    "spanish": "paradigma",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "russian": "поня́тие",
+    "english": "notion",
+    "spanish": "noción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "russian": "гипо́теза",
+    "english": "hypothesis",
+    "spanish": "hipótesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "russian": "консе́нсус",
+    "english": "consensus",
+    "spanish": "consenso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "russian": "неоднозна́чность",
+    "english": "ambiguity",
+    "spanish": "ambigüedad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "russian": "распределя́ть",
+    "english": "to allocate",
+    "spanish": "asignar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "russian": "внедря́ть",
+    "english": "to implement",
+    "spanish": "implementar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "russian": "интегри́ровать",
+    "english": "to integrate",
+    "spanish": "integrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "russian": "оптимизи́ровать",
+    "english": "to optimize",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "russian": "приоритези́ровать",
+    "english": "to prioritize",
+    "spanish": "priorizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "russian": "проверя́ть",
+    "english": "to validate",
+    "spanish": "validar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "russian": "пти́ца",
+    "english": "bird",
+    "spanish": "pájaro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "russian": "ло́шадь",
+    "english": "horse",
+    "spanish": "caballo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "russian": "коро́ва",
+    "english": "cow",
+    "spanish": "vaca",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "russian": "свинья́",
+    "english": "pig",
+    "spanish": "cerdo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "russian": "ку́рица",
+    "english": "chicken",
+    "spanish": "pollo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "russian": "мышь",
+    "english": "mouse",
+    "spanish": "ratón",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "russian": "кро́лик",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "russian": "овца́",
+    "english": "sheep",
+    "spanish": "oveja",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "russian": "у́тка",
+    "english": "duck",
+    "spanish": "pato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "russian": "лев",
+    "english": "lion",
+    "spanish": "león",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "russian": "луна́",
+    "english": "moon",
+    "spanish": "luna",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "russian": "звезда́",
+    "english": "star",
+    "spanish": "estrella",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "russian": "о́блако",
+    "english": "cloud",
+    "spanish": "nube",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "russian": "ве́тер",
+    "english": "wind",
+    "spanish": "viento",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "russian": "снег",
+    "english": "snow",
+    "spanish": "nieve",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "russian": "лёд",
+    "english": "ice",
+    "spanish": "hielo",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "russian": "ого́нь",
+    "english": "fire",
+    "spanish": "fuego",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "russian": "ка́мень",
+    "english": "stone",
+    "spanish": "piedra",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "russian": "пе́рвый",
+    "english": "first",
+    "spanish": "primero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "russian": "второ́й",
+    "english": "second",
+    "spanish": "segundo",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "russian": "тре́тий",
+    "english": "third",
+    "spanish": "tercero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "russian": "после́дний",
+    "english": "last",
+    "spanish": "último",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "russian": "сле́дующий",
+    "english": "next",
+    "spanish": "siguiente",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "russian": "сно́ва",
+    "english": "again",
+    "spanish": "otra vez",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "russian": "ви́деть",
+    "english": "to see",
+    "spanish": "ver",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "russian": "слы́шать",
+    "english": "to hear",
+    "spanish": "oír",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "russian": "знать",
+    "english": "to know",
+    "spanish": "saber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "russian": "ду́мать",
+    "english": "to think",
+    "spanish": "pensar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "russian": "дава́ть",
+    "english": "to give",
+    "spanish": "dar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "russian": "брать",
+    "english": "to take",
+    "spanish": "tomar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "russian": "учи́тель",
+    "english": "teacher",
+    "spanish": "profesor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 392,
+    "russian": "инжене́р",
+    "english": "engineer",
+    "spanish": "ingeniero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 393,
+    "russian": "медсестра́",
+    "english": "nurse",
+    "spanish": "enfermero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 394,
+    "russian": "адвока́т",
+    "english": "lawyer",
+    "spanish": "abogado",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 395,
+    "russian": "шеф-по́вар",
+    "english": "chef",
+    "spanish": "chef",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 396,
+    "russian": "води́тель",
+    "english": "driver",
+    "spanish": "conductor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 397,
+    "russian": "фе́рмер",
+    "english": "farmer",
+    "spanish": "granjero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 398,
+    "russian": "полице́йский",
+    "english": "police officer",
+    "spanish": "policía",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 399,
+    "russian": "официа́нт",
+    "english": "waiter",
+    "spanish": "camarero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 400,
+    "russian": "худо́жник",
+    "english": "artist",
+    "spanish": "artista",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 401,
+    "russian": "це́рковь",
+    "english": "church",
+    "spanish": "iglesia",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 402,
+    "russian": "музе́й",
+    "english": "museum",
+    "spanish": "museo",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 403,
+    "russian": "библиоте́ка",
+    "english": "library",
+    "spanish": "biblioteca",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 404,
+    "russian": "теа́тр",
+    "english": "theatre",
+    "spanish": "teatro",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 405,
+    "russian": "мост",
+    "english": "bridge",
+    "spanish": "puente",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 406,
+    "russian": "пло́щадь",
+    "english": "square",
+    "spanish": "plaza",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 407,
+    "russian": "фа́брика",
+    "english": "factory",
+    "spanish": "fábrica",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 408,
+    "russian": "о́фис",
+    "english": "office",
+    "spanish": "oficina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 409,
+    "russian": "вари́ть",
+    "english": "to boil",
+    "spanish": "hervir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 410,
+    "russian": "жа́рить",
+    "english": "to fry",
+    "spanish": "freír",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 411,
+    "russian": "печь",
+    "english": "to bake",
+    "spanish": "hornear",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 412,
+    "russian": "нож",
+    "english": "knife",
+    "spanish": "cuchillo",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 413,
+    "russian": "ло́жка",
+    "english": "spoon",
+    "spanish": "cuchara",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 414,
+    "russian": "ви́лка",
+    "english": "fork",
+    "spanish": "tenedor",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 415,
+    "russian": "рисова́ть",
+    "english": "to paint",
+    "spanish": "pintar",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 416,
+    "russian": "фотогра́фия",
+    "english": "photography",
+    "spanish": "fotografía",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 417,
+    "russian": "ша́хматы",
+    "english": "chess",
+    "spanish": "ajedrez",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 418,
+    "russian": "похо́д",
+    "english": "camping",
+    "spanish": "acampada",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 419,
+    "russian": "рыба́лка",
+    "english": "fishing",
+    "spanish": "pesca",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 420,
+    "russian": "садово́дство",
+    "english": "gardening",
+    "spanish": "jardinería",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 421,
+    "russian": "сме́лость",
+    "english": "courage",
+    "spanish": "valor",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 422,
+    "russian": "терпе́ние",
+    "english": "patience",
+    "spanish": "paciencia",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 423,
+    "russian": "че́стность",
+    "english": "honesty",
+    "spanish": "honestidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 424,
+    "russian": "му́дрость",
+    "english": "wisdom",
+    "spanish": "sabiduría",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 425,
+    "russian": "до́брота",
+    "english": "kindness",
+    "spanish": "amabilidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 426,
+    "russian": "уваже́ние",
+    "english": "respect",
+    "spanish": "respeto",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 427,
+    "russian": "дове́рие",
+    "english": "trust",
+    "spanish": "confianza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 428,
+    "russian": "го́рдость",
+    "english": "pride",
+    "spanish": "orgullo",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 429,
+    "russian": "стыд",
+    "english": "shame",
+    "spanish": "vergüenza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 430,
+    "russian": "гнев",
+    "english": "anger",
+    "spanish": "ira",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 431,
+    "russian": "клие́нт",
+    "english": "customer",
+    "spanish": "cliente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 432,
+    "russian": "поста́вщик",
+    "english": "supplier",
+    "spanish": "proveedor",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 433,
+    "russian": "бренд",
+    "english": "brand",
+    "spanish": "marca",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 434,
+    "russian": "марке́тинг",
+    "english": "marketing",
+    "spanish": "marketing",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 435,
+    "russian": "счёт",
+    "english": "invoice",
+    "spanish": "factura",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 436,
+    "russian": "склад",
+    "english": "warehouse",
+    "spanish": "almacén",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 437,
+    "russian": "ро́зничная торго́вля",
+    "english": "retail",
+    "spanish": "comercio minorista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 438,
+    "russian": "акционе́р",
+    "english": "shareholder",
+    "spanish": "accionista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 439,
+    "russian": "конститу́ция",
+    "english": "constitution",
+    "spanish": "constitución",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 440,
+    "russian": "парла́мент",
+    "english": "parliament",
+    "spanish": "parlamento",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 441,
+    "russian": "мини́стр",
+    "english": "minister",
+    "spanish": "ministro",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 442,
+    "russian": "суд",
+    "english": "court",
+    "spanish": "tribunal",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 443,
+    "russian": "судья́",
+    "english": "judge",
+    "spanish": "juez",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 444,
+    "russian": "пригово́р",
+    "english": "sentence",
+    "spanish": "sentencia",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 445,
+    "russian": "моле́кула",
+    "english": "molecule",
+    "spanish": "molécula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 446,
+    "russian": "а́том",
+    "english": "atom",
+    "spanish": "átomo",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 447,
+    "russian": "гравита́ция",
+    "english": "gravity",
+    "spanish": "gravedad",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 448,
+    "russian": "кле́тка",
+    "english": "cell",
+    "spanish": "célula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 449,
+    "russian": "лаборато́рия",
+    "english": "laboratory",
+    "spanish": "laboratorio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 450,
+    "russian": "микроско́п",
+    "english": "microscope",
+    "spanish": "microscopio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 451,
+    "russian": "си́нтез",
+    "english": "synthesis",
+    "spanish": "síntesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "russian": "методоло́гия",
+    "english": "methodology",
+    "spanish": "metodología",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "russian": "корреля́ция",
+    "english": "correlation",
+    "spanish": "correlación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "russian": "переме́нная",
+    "english": "variable",
+    "spanish": "variable",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "russian": "эмпири́ческий",
+    "english": "empirical",
+    "spanish": "empírico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "russian": "коли́чественный",
+    "english": "quantitative",
+    "spanish": "cuantitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "russian": "ка́чественный",
+    "english": "qualitative",
+    "spanish": "cualitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "russian": "иера́рхия",
+    "english": "hierarchy",
+    "spanish": "jerarquía",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 459,
+    "russian": "ди́скурс",
+    "english": "discourse",
+    "spanish": "discurso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 460,
+    "russian": "рито́рика",
+    "english": "rhetoric",
+    "spanish": "retórica",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "russian": "законода́тельство",
+    "english": "legislation",
+    "spanish": "legislación",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "russian": "верди́кт",
+    "english": "verdict",
+    "spanish": "veredicto",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "russian": "исте́ц",
+    "english": "plaintiff",
+    "spanish": "demandante",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "russian": "отве́тчик",
+    "english": "defendant",
+    "spanish": "demandado",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 465,
+    "russian": "регули́рование",
+    "english": "regulation",
+    "spanish": "reglamento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 466,
+    "russian": "соотве́тствие",
+    "english": "compliance",
+    "spanish": "cumplimiento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "russian": "отве́тственность",
+    "english": "liability",
+    "spanish": "responsabilidad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "russian": "диагно́з",
+    "english": "diagnosis",
+    "spanish": "diagnóstico",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "russian": "терапи́я",
+    "english": "therapy",
+    "spanish": "terapia",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 470,
+    "russian": "вакци́на",
+    "english": "vaccine",
+    "spanish": "vacuna",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 471,
+    "russian": "хрони́ческий",
+    "english": "chronic",
+    "spanish": "crónico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "russian": "инфе́кция",
+    "english": "infection",
+    "spanish": "infección",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "russian": "имму́нный",
+    "english": "immune",
+    "spanish": "inmune",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 474,
+    "russian": "хиру́рг",
+    "english": "surgeon",
+    "spanish": "cirujano",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "russian": "обоснова́ть",
+    "english": "to substantiate",
+    "spanish": "fundamentar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "russian": "разграни́чить",
+    "english": "to delineate",
+    "spanish": "delimitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 477,
+    "russian": "экстраполи́ровать",
+    "english": "to extrapolate",
+    "spanish": "extrapolar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 478,
+    "russian": "примири́ть",
+    "english": "to reconcile",
+    "spanish": "reconciliar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 479,
+    "russian": "тща́тельно изуча́ть",
+    "english": "to scrutinize",
+    "spanish": "escudriñar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 480,
+    "russian": "оптимизи́ровать",
+    "english": "to streamline",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 481,
+    "russian": "руба́шка",
+    "english": "shirt",
+    "spanish": "camisa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "russian": "брю́ки",
+    "english": "trousers",
+    "spanish": "pantalones",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "russian": "пла́тье",
+    "english": "dress",
+    "spanish": "vestido",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 484,
+    "russian": "ю́бка",
+    "english": "skirt",
+    "spanish": "falda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 485,
+    "russian": "шля́па",
+    "english": "hat",
+    "spanish": "sombrero",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "russian": "шарф",
+    "english": "scarf",
+    "spanish": "bufanda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "russian": "перча́тки",
+    "english": "gloves",
+    "spanish": "guantes",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "russian": "носки́",
+    "english": "socks",
+    "spanish": "calcetines",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "russian": "ку́ртка",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "russian": "сапо́г",
+    "english": "boot",
+    "spanish": "bota",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 491,
+    "russian": "сок",
+    "english": "juice",
+    "spanish": "zumo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "russian": "вино́",
+    "english": "wine",
+    "spanish": "vino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "russian": "пи́во",
+    "english": "beer",
+    "spanish": "cerveza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "russian": "торт",
+    "english": "cake",
+    "spanish": "pastel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "russian": "шокола́д",
+    "english": "chocolate",
+    "spanish": "chocolate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "russian": "моро́женое",
+    "english": "ice cream",
+    "spanish": "helado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "russian": "рис",
+    "english": "rice",
+    "spanish": "arroz",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "russian": "бана́н",
+    "english": "banana",
+    "spanish": "plátano",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "russian": "апельси́н",
+    "english": "orange",
+    "spanish": "naranja",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "russian": "мёд",
+    "english": "honey",
+    "spanish": "miel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "russian": "игра́ть",
+    "english": "to play",
+    "spanish": "jugar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "russian": "продава́ть",
+    "english": "to sell",
+    "spanish": "vender",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "russian": "люби́ть",
+    "english": "to love",
+    "spanish": "amar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "russian": "танцева́ть",
+    "english": "to dance",
+    "spanish": "bailar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "russian": "пры́гать",
+    "english": "to jump",
+    "spanish": "saltar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "russian": "побежда́ть",
+    "english": "to win",
+    "spanish": "ganar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "russian": "твёрдый",
+    "english": "hard",
+    "spanish": "duro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "russian": "мя́гкий",
+    "english": "soft",
+    "spanish": "blando",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "russian": "тяжёлый",
+    "english": "heavy",
+    "spanish": "pesado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "russian": "лёгкий",
+    "english": "light",
+    "spanish": "ligero",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "russian": "матема́тика",
+    "english": "mathematics",
+    "spanish": "matemáticas",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 512,
+    "russian": "исто́рия",
+    "english": "history",
+    "spanish": "historia",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 513,
+    "russian": "геогра́фия",
+    "english": "geography",
+    "spanish": "geografía",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 514,
+    "russian": "биоло́гия",
+    "english": "biology",
+    "spanish": "biología",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 515,
+    "russian": "хи́мия",
+    "english": "chemistry",
+    "spanish": "química",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 516,
+    "russian": "фи́зика",
+    "english": "physics",
+    "spanish": "física",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 517,
+    "russian": "литерату́ра",
+    "english": "literature",
+    "spanish": "literatura",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 518,
+    "russian": "иску́сство",
+    "english": "art",
+    "spanish": "arte",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 519,
+    "russian": "спина́",
+    "english": "back",
+    "spanish": "espalda",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 520,
+    "russian": "плечо́",
+    "english": "shoulder",
+    "spanish": "hombro",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 521,
+    "russian": "коле́но",
+    "english": "knee",
+    "spanish": "rodilla",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 522,
+    "russian": "па́лец",
+    "english": "finger",
+    "spanish": "dedo",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 523,
+    "russian": "зуб",
+    "english": "tooth",
+    "spanish": "diente",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 524,
+    "russian": "живо́т",
+    "english": "stomach",
+    "spanish": "estómago",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 525,
+    "russian": "се́рдце",
+    "english": "heart",
+    "spanish": "corazón",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 526,
+    "russian": "кровь",
+    "english": "blood",
+    "spanish": "sangre",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 527,
+    "russian": "бу́ря",
+    "english": "storm",
+    "spanish": "tormenta",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 528,
+    "russian": "гром",
+    "english": "thunder",
+    "spanish": "trueno",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 529,
+    "russian": "мо́лния",
+    "english": "lightning",
+    "spanish": "rayo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 530,
+    "russian": "ра́дуга",
+    "english": "rainbow",
+    "spanish": "arcoíris",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 531,
+    "russian": "тума́н",
+    "english": "fog",
+    "spanish": "niebla",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 532,
+    "russian": "жара́",
+    "english": "heat",
+    "spanish": "calor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 533,
+    "russian": "тень",
+    "english": "shadow",
+    "spanish": "sombra",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 534,
+    "russian": "доли́на",
+    "english": "valley",
+    "spanish": "valle",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 535,
+    "russian": "метро́",
+    "english": "metro",
+    "spanish": "metro",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 536,
+    "russian": "светофо́р",
+    "english": "traffic light",
+    "spanish": "semáforo",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 537,
+    "russian": "парко́вка",
+    "english": "parking",
+    "spanish": "aparcamiento",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 538,
+    "russian": "у́гол",
+    "english": "corner",
+    "spanish": "esquina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 539,
+    "russian": "пешехо́дный перехо́д",
+    "english": "crossing",
+    "spanish": "paso de peatones",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 540,
+    "russian": "тротуа́р",
+    "english": "pavement",
+    "spanish": "acera",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 541,
+    "russian": "рома́н",
+    "english": "novel",
+    "spanish": "novela",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 542,
+    "russian": "стихотворе́ние",
+    "english": "poem",
+    "spanish": "poema",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 543,
+    "russian": "карти́на",
+    "english": "painting",
+    "spanish": "cuadro",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 544,
+    "russian": "скульпту́ра",
+    "english": "sculpture",
+    "spanish": "escultura",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 545,
+    "russian": "конце́рт",
+    "english": "concert",
+    "spanish": "concierto",
+    "category": "music",
+    "level": "B1"
+  },
+  {
+    "id": 546,
+    "russian": "вы́ставка",
+    "english": "exhibition",
+    "spanish": "exposición",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 547,
+    "russian": "пу́блика",
+    "english": "audience",
+    "spanish": "público",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 548,
+    "russian": "сце́на",
+    "english": "stage",
+    "spanish": "escenario",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 549,
+    "russian": "актёр",
+    "english": "actor",
+    "spanish": "actor",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 550,
+    "russian": "режиссёр",
+    "english": "director",
+    "spanish": "director",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 551,
+    "russian": "паро́ль",
+    "english": "password",
+    "spanish": "contraseña",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 552,
+    "russian": "загру́зка",
+    "english": "download",
+    "spanish": "descarga",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 553,
+    "russian": "вы́грузка",
+    "english": "upload",
+    "spanish": "subida",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 554,
+    "russian": "сайт",
+    "english": "website",
+    "spanish": "sitio web",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 555,
+    "russian": "электро́нная по́чта",
+    "english": "email",
+    "spanish": "correo electrónico",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 556,
+    "russian": "сообще́ние",
+    "english": "message",
+    "spanish": "mensaje",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 557,
+    "russian": "экра́н",
+    "english": "screen",
+    "spanish": "pantalla",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 558,
+    "russian": "клавиату́ра",
+    "english": "keyboard",
+    "spanish": "teclado",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 559,
+    "russian": "заём",
+    "english": "loan",
+    "spanish": "préstamo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 560,
+    "russian": "сбереже́ния",
+    "english": "savings",
+    "spanish": "ahorros",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 561,
+    "russian": "кошелёк",
+    "english": "wallet",
+    "spanish": "cartera",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 562,
+    "russian": "чек",
+    "english": "receipt",
+    "spanish": "recibo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 563,
+    "russian": "сда́ча",
+    "english": "change",
+    "spanish": "cambio (dinero)",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 564,
+    "russian": "моне́та",
+    "english": "coin",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 565,
+    "russian": "облегче́ние",
+    "english": "relief",
+    "spanish": "alivio",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 566,
+    "russian": "благода́рность",
+    "english": "gratitude",
+    "spanish": "gratitud",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 567,
+    "russian": "за́висть",
+    "english": "envy",
+    "spanish": "envidia",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 568,
+    "russian": "вина́",
+    "english": "guilt",
+    "spanish": "culpa",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 569,
+    "russian": "любопы́тство",
+    "english": "curiosity",
+    "spanish": "curiosidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 570,
+    "russian": "энтузиа́зм",
+    "english": "enthusiasm",
+    "spanish": "entusiasmo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 571,
+    "russian": "э́тика",
+    "english": "ethics",
+    "spanish": "ética",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 572,
+    "russian": "мора́ль",
+    "english": "morality",
+    "spanish": "moralidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 573,
+    "russian": "иденти́чность",
+    "english": "identity",
+    "spanish": "identidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 574,
+    "russian": "созна́ние",
+    "english": "consciousness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 575,
+    "russian": "существова́ние",
+    "english": "existence",
+    "spanish": "existencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 576,
+    "russian": "и́стина",
+    "english": "truth",
+    "spanish": "verdad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 577,
+    "russian": "доброде́тель",
+    "english": "virtue",
+    "spanish": "virtud",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 578,
+    "russian": "парадо́кс",
+    "english": "paradox",
+    "spanish": "paradoja",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 579,
+    "russian": "диле́мма",
+    "english": "dilemma",
+    "spanish": "dilema",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 580,
+    "russian": "скептици́зм",
+    "english": "scepticism",
+    "spanish": "escepticismo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 581,
+    "russian": "слия́ние",
+    "english": "merger",
+    "spanish": "fusión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 582,
+    "russian": "банкро́тство",
+    "english": "bankruptcy",
+    "spanish": "quiebra",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 583,
+    "russian": "монопо́лия",
+    "english": "monopoly",
+    "spanish": "monopolio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 584,
+    "russian": "субси́дия",
+    "english": "subsidy",
+    "spanish": "subvención",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 585,
+    "russian": "тари́ф",
+    "english": "tariff",
+    "spanish": "arancel",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 586,
+    "russian": "кво́та",
+    "english": "quota",
+    "spanish": "cupo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 587,
+    "russian": "предпринима́тель",
+    "english": "entrepreneur",
+    "spanish": "empresario",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 588,
+    "russian": "вы́брос",
+    "english": "emission",
+    "spanish": "emisión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 589,
+    "russian": "углеро́д",
+    "english": "carbon",
+    "spanish": "carbono",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 590,
+    "russian": "биоразнообра́зие",
+    "english": "biodiversity",
+    "spanish": "biodiversidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 591,
+    "russian": "вы́рубка ле́са",
+    "english": "deforestation",
+    "spanish": "deforestación",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 592,
+    "russian": "экосисте́ма",
+    "english": "ecosystem",
+    "spanish": "ecosistema",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "russian": "среда́ обита́ния",
+    "english": "habitat",
+    "spanish": "hábitat",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 594,
+    "russian": "эро́зия",
+    "english": "erosion",
+    "spanish": "erosión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 595,
+    "russian": "формули́ровать",
+    "english": "to articulate",
+    "spanish": "articular",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 596,
+    "russian": "обходи́ть",
+    "english": "to circumvent",
+    "spanish": "eludir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 597,
+    "russian": "консолиди́ровать",
+    "english": "to consolidate",
+    "spanish": "consolidar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 598,
+    "russian": "ухудша́ться",
+    "english": "to deteriorate",
+    "spanish": "deteriorarse",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 599,
+    "russian": "усугубля́ть",
+    "english": "to exacerbate",
+    "spanish": "agravar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 600,
+    "russian": "препя́тствовать",
+    "english": "to hinder",
+    "spanish": "obstaculizar",
+    "category": "verbs",
+    "level": "B2"
+  }
+]

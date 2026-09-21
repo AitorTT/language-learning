@@ -118,5 +118,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "flag": "RU",
+    "speech": "ru-RU",
+    "termLabel": "Russian",
+    "termField": "russian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

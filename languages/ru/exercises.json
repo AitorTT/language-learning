@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ читаю.",
+        "answer": "Я",
+        "translation_en": "I am reading.",
+        "translation_es": "Yo leo."
+      },
+      {
+        "sentence": "___ читаешь.",
+        "answer": "Ты",
+        "translation_en": "You are reading.",
+        "translation_es": "Tú lees."
+      },
+      {
+        "sentence": "___ читает.",
+        "answer": "Он",
+        "translation_en": "He is reading.",
+        "translation_es": "Él lee."
+      },
+      {
+        "sentence": "___ читаем.",
+        "answer": "Мы",
+        "translation_en": "We are reading.",
+        "translation_es": "Nosotros leemos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag это (this is) into each gap.",
+    "items": [
+      {
+        "sentence": "___ книга.",
+        "answer": "Это",
+        "translation_en": "This is a book.",
+        "translation_es": "Esto es un libro."
+      },
+      {
+        "sentence": "___ мой дом.",
+        "answer": "Это",
+        "translation_en": "This is my house.",
+        "translation_es": "Esta es mi casa."
+      },
+      {
+        "sentence": "___ мой друг.",
+        "answer": "Это",
+        "translation_en": "This is my friend.",
+        "translation_es": "Este es mi amigo."
+      },
+      {
+        "sentence": "___ мои книги.",
+        "answer": "Это",
+        "translation_en": "These are my books.",
+        "translation_es": "Estos son mis libros."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag он, она or они into each gap.",
+    "items": [
+      {
+        "sentence": "Это дом. ___ большой.",
+        "answer": "Он",
+        "translation_en": "This is a house. It is big.",
+        "translation_es": "Esta es una casa. Es grande."
+      },
+      {
+        "sentence": "Это книга. ___ новая.",
+        "answer": "Она",
+        "translation_en": "This is a book. It is new.",
+        "translation_es": "Este es un libro. Es nuevo."
+      },
+      {
+        "sentence": "Это окно. ___ большое.",
+        "answer": "Оно",
+        "translation_en": "This is a window. It is big.",
+        "translation_es": "Esta es una ventana. Es grande."
+      },
+      {
+        "sentence": "Это студенты. ___ здесь.",
+        "answer": "Они",
+        "translation_en": "These are students. They are here.",
+        "translation_es": "Estos son estudiantes. Están aquí."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct plural ending into each gap.",
+    "items": [
+      {
+        "sentence": "книга → книг___",
+        "answer": "и",
+        "translation_en": "books",
+        "translation_es": "libros"
+      },
+      {
+        "sentence": "стол → стол___",
+        "answer": "ы",
+        "translation_en": "tables",
+        "translation_es": "mesas"
+      },
+      {
+        "sentence": "окно → окн___",
+        "answer": "а",
+        "translation_en": "windows",
+        "translation_es": "ventanas"
+      },
+      {
+        "sentence": "студент → студент___",
+        "answer": "ы",
+        "translation_en": "students",
+        "translation_es": "estudiantes"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct adjective form into each gap.",
+    "items": [
+      {
+        "sentence": "___ дом",
+        "answer": "Новый",
+        "translation_en": "a new house",
+        "translation_es": "una casa nueva"
+      },
+      {
+        "sentence": "___ книга",
+        "answer": "Новая",
+        "translation_en": "a new book",
+        "translation_es": "un libro nuevo"
+      },
+      {
+        "sentence": "___ окно",
+        "answer": "Новое",
+        "translation_en": "a new window",
+        "translation_es": "una ventana nueva"
+      },
+      {
+        "sentence": "___ книги",
+        "answer": "Новые",
+        "translation_en": "new books",
+        "translation_es": "libros nuevos"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag не into each gap for the negative.",
+    "items": [
+      {
+        "sentence": "Я ___ знаю.",
+        "answer": "не",
+        "translation_en": "I do not know.",
+        "translation_es": "No sé."
+      },
+      {
+        "sentence": "Он ___ работает.",
+        "answer": "не",
+        "translation_en": "He does not work.",
+        "translation_es": "Él no trabaja."
+      },
+      {
+        "sentence": "Мы ___ студенты.",
+        "answer": "не",
+        "translation_en": "We are not students.",
+        "translation_es": "No somos estudiantes."
+      },
+      {
+        "sentence": "Она ___ здесь.",
+        "answer": "не",
+        "translation_en": "She is not here.",
+        "translation_es": "Ella no está aquí."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct form after у into each gap.",
+    "items": [
+      {
+        "sentence": "У ___ есть книга.",
+        "answer": "меня",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "У ___ есть машина.",
+        "answer": "тебя",
+        "translation_en": "You have a car.",
+        "translation_es": "Tienes un coche."
+      },
+      {
+        "sentence": "У ___ есть дом.",
+        "answer": "него",
+        "translation_en": "He has a house.",
+        "translation_es": "Él tiene una casa."
+      },
+      {
+        "sentence": "У ___ есть время.",
+        "answer": "нас",
+        "translation_en": "We have time.",
+        "translation_es": "Tenemos tiempo."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag нет into each gap to say there is not.",
+    "items": [
+      {
+        "sentence": "У меня ___ времени.",
+        "answer": "нет",
+        "translation_en": "I have no time.",
+        "translation_es": "No tengo tiempo."
+      },
+      {
+        "sentence": "У него ___ денег.",
+        "answer": "нет",
+        "translation_en": "He has no money.",
+        "translation_es": "Él no tiene dinero."
+      },
+      {
+        "sentence": "Здесь ___ магазина.",
+        "answer": "нет",
+        "translation_en": "There is no shop here.",
+        "translation_es": "Aquí no hay tienda."
+      },
+      {
+        "sentence": "У нас ___ проблем.",
+        "answer": "нет",
+        "translation_en": "We have no problems.",
+        "translation_es": "No tenemos problemas."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ это?",
+        "answer": "Что",
+        "translation_en": "What is this?",
+        "translation_es": "¿Qué es esto?"
+      },
+      {
+        "sentence": "___ он?",
+        "answer": "Кто",
+        "translation_en": "Who is he?",
+        "translation_es": "¿Quién es él?"
+      },
+      {
+        "sentence": "___ ты живёшь?",
+        "answer": "Где",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ ты придёшь?",
+        "answer": "Когда",
+        "translation_en": "When will you come?",
+        "translation_es": "¿Cuándo vendrás?"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct form of читать into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ книгу.",
+        "answer": "читаю",
+        "translation_en": "I am reading a book.",
+        "translation_es": "Leo un libro."
+      },
+      {
+        "sentence": "Ты ___ книгу.",
+        "answer": "читаешь",
+        "translation_en": "You are reading a book.",
+        "translation_es": "Lees un libro."
+      },
+      {
+        "sentence": "Он ___ книгу.",
+        "answer": "читает",
+        "translation_en": "He is reading a book.",
+        "translation_es": "Él lee un libro."
+      },
+      {
+        "sentence": "Мы ___ книгу.",
+        "answer": "читаем",
+        "translation_en": "We are reading a book.",
+        "translation_es": "Leemos un libro."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct form of говорить into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ по-русски.",
+        "answer": "говорю",
+        "translation_en": "I speak Russian.",
+        "translation_es": "Hablo ruso."
+      },
+      {
+        "sentence": "Ты ___ по-русски.",
+        "answer": "говоришь",
+        "translation_en": "You speak Russian.",
+        "translation_es": "Hablas ruso."
+      },
+      {
+        "sentence": "Она ___ по-русски.",
+        "answer": "говорит",
+        "translation_en": "She speaks Russian.",
+        "translation_es": "Ella habla ruso."
+      },
+      {
+        "sentence": "Они ___ по-русски.",
+        "answer": "говорят",
+        "translation_en": "They speak Russian.",
+        "translation_es": "Ellos hablan ruso."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct form of жить into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ в Москве.",
+        "answer": "живу",
+        "translation_en": "I live in Moscow.",
+        "translation_es": "Vivo en Moscú."
+      },
+      {
+        "sentence": "Ты ___ в Москве.",
+        "answer": "живёшь",
+        "translation_en": "You live in Moscow.",
+        "translation_es": "Vives en Moscú."
+      },
+      {
+        "sentence": "Он ___ в Москве.",
+        "answer": "живёт",
+        "translation_en": "He lives in Moscow.",
+        "translation_es": "Él vive en Moscú."
+      },
+      {
+        "sentence": "Мы ___ в Москве.",
+        "answer": "живём",
+        "translation_en": "We live in Moscow.",
+        "translation_es": "Vivimos en Moscú."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "У меня ___ книги.",
+        "answer": "две",
+        "translation_en": "I have two books.",
+        "translation_es": "Tengo dos libros."
+      },
+      {
+        "sentence": "Здесь ___ студента.",
+        "answer": "три",
+        "translation_en": "There are three students here.",
+        "translation_es": "Aquí hay tres estudiantes."
+      },
+      {
+        "sentence": "У нас ___ комнаты.",
+        "answer": "четыре",
+        "translation_en": "We have four rooms.",
+        "translation_es": "Tenemos cuatro habitaciones."
+      },
+      {
+        "sentence": "Мне ___ лет.",
+        "answer": "десять",
+        "translation_en": "I am ten years old.",
+        "translation_es": "Tengo diez años."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag один, одна or одно into each gap.",
+    "items": [
+      {
+        "sentence": "___ дом",
+        "answer": "Один",
+        "translation_en": "one house",
+        "translation_es": "una casa"
+      },
+      {
+        "sentence": "___ книга",
+        "answer": "Одна",
+        "translation_en": "one book",
+        "translation_es": "un libro"
+      },
+      {
+        "sentence": "___ окно",
+        "answer": "Одно",
+        "translation_en": "one window",
+        "translation_es": "una ventana"
+      },
+      {
+        "sentence": "___ студенты",
+        "answer": "Одни",
+        "translation_en": "only students",
+        "translation_es": "solo estudiantes"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the prepositional form into each gap for location.",
+    "items": [
+      {
+        "sentence": "Я живу в ___.",
+        "answer": "доме",
+        "translation_en": "I live in a house.",
+        "translation_es": "Vivo en una casa."
+      },
+      {
+        "sentence": "Книга на ___.",
+        "answer": "столе",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Мы в ___.",
+        "answer": "школе",
+        "translation_en": "We are at school.",
+        "translation_es": "Estamos en la escuela."
+      },
+      {
+        "sentence": "Он в ___.",
+        "answer": "городе",
+        "translation_en": "He is in the city.",
+        "translation_es": "Él está en la ciudad."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct day of the week into each gap.",
+    "items": [
+      {
+        "sentence": "Сегодня ___.",
+        "answer": "понедельник",
+        "translation_en": "Today is Monday.",
+        "translation_es": "Hoy es lunes."
+      },
+      {
+        "sentence": "Завтра ___.",
+        "answer": "вторник",
+        "translation_en": "Tomorrow is Tuesday.",
+        "translation_es": "Mañana es martes."
+      },
+      {
+        "sentence": "В ___ я отдыхаю.",
+        "answer": "субботу",
+        "translation_en": "On Saturday I rest.",
+        "translation_es": "El sábado descanso."
+      },
+      {
+        "sentence": "___ — первый день недели.",
+        "answer": "Понедельник",
+        "translation_en": "Monday is the first day of the week.",
+        "translation_es": "El lunes es el primer día de la semana."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct month into each gap.",
+    "items": [
+      {
+        "sentence": "Мой день рождения в ___.",
+        "answer": "январе",
+        "translation_en": "My birthday is in January.",
+        "translation_es": "Mi cumpleaños es en enero."
+      },
+      {
+        "sentence": "Мы едем в отпуск в ___.",
+        "answer": "июле",
+        "translation_en": "We go on holiday in July.",
+        "translation_es": "Vamos de vacaciones en julio."
+      },
+      {
+        "sentence": "Сейчас ___.",
+        "answer": "март",
+        "translation_en": "It is March now.",
+        "translation_es": "Ahora es marzo."
+      },
+      {
+        "sentence": "Зимой идёт снег в ___.",
+        "answer": "декабре",
+        "translation_en": "In winter it snows in December.",
+        "translation_es": "En invierno nieva en diciembre."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct number of the hour into each gap.",
+    "items": [
+      {
+        "sentence": "Я встаю в ___ часов.",
+        "answer": "семь",
+        "translation_en": "I get up at seven o'clock.",
+        "translation_es": "Me levanto a las siete."
+      },
+      {
+        "sentence": "Мы обедаем в ___.",
+        "answer": "два",
+        "translation_en": "We have lunch at two.",
+        "translation_es": "Comemos a las dos."
+      },
+      {
+        "sentence": "Он приходит в ___.",
+        "answer": "пять",
+        "translation_en": "He comes at five.",
+        "translation_es": "Él viene a las cinco."
+      },
+      {
+        "sentence": "Урок начинается в ___.",
+        "answer": "девять",
+        "translation_en": "The lesson starts at nine.",
+        "translation_es": "La clase empieza a las nueve."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag очень (very) into each gap.",
+    "items": [
+      {
+        "sentence": "Это ___ хороший дом.",
+        "answer": "очень",
+        "translation_en": "This is a very good house.",
+        "translation_es": "Esta es una casa muy buena."
+      },
+      {
+        "sentence": "Он ___ умный.",
+        "answer": "очень",
+        "translation_en": "He is very clever.",
+        "translation_es": "Él es muy listo."
+      },
+      {
+        "sentence": "Я ___ устал.",
+        "answer": "очень",
+        "translation_en": "I am very tired.",
+        "translation_es": "Estoy muy cansado."
+      },
+      {
+        "sentence": "Она ___ красивая.",
+        "answer": "очень",
+        "translation_en": "She is very beautiful.",
+        "translation_es": "Ella es muy guapa."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct expression into each gap.",
+    "items": [
+      {
+        "sentence": "Я говорю ___.",
+        "answer": "по-русски",
+        "translation_en": "I speak Russian.",
+        "translation_es": "Hablo ruso."
+      },
+      {
+        "sentence": "Он говорит ___.",
+        "answer": "по-английски",
+        "translation_en": "He speaks English.",
+        "translation_es": "Él habla inglés."
+      },
+      {
+        "sentence": "Мы говорим ___.",
+        "answer": "по-испански",
+        "translation_en": "We speak Spanish.",
+        "translation_es": "Hablamos español."
+      },
+      {
+        "sentence": "Ты говоришь ___.",
+        "answer": "по-французски",
+        "translation_en": "You speak French.",
+        "translation_es": "Hablas francés."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct past tense form into each gap.",
+    "items": [
+      {
+        "sentence": "Вчера я ___ книгу.",
+        "answer": "читал",
+        "translation_en": "Yesterday I read a book.",
+        "translation_es": "Ayer leí un libro."
+      },
+      {
+        "sentence": "Она ___ письмо.",
+        "answer": "писала",
+        "translation_en": "She wrote a letter.",
+        "translation_es": "Ella escribió una carta."
+      },
+      {
+        "sentence": "Мы ___ фильм.",
+        "answer": "смотрели",
+        "translation_en": "We watched a film.",
+        "translation_es": "Vimos una película."
+      },
+      {
+        "sentence": "Он ___ домой.",
+        "answer": "шёл",
+        "translation_en": "He was walking home.",
+        "translation_es": "Él iba a casa."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the past form of быть into each gap.",
+    "items": [
+      {
+        "sentence": "Вчера ___ хорошая погода.",
+        "answer": "была",
+        "translation_en": "Yesterday the weather was nice.",
+        "translation_es": "Ayer hacía buen tiempo."
+      },
+      {
+        "sentence": "Раньше здесь ___ парк.",
+        "answer": "был",
+        "translation_en": "There used to be a park here.",
+        "translation_es": "Antes había un parque aquí."
+      },
+      {
+        "sentence": "Дети ___ дома.",
+        "answer": "были",
+        "translation_en": "The children were at home.",
+        "translation_es": "Los niños estaban en casa."
+      },
+      {
+        "sentence": "Это ___ мой друг.",
+        "answer": "был",
+        "translation_en": "That was my friend.",
+        "translation_es": "Ese era mi amigo."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the future form into each gap.",
+    "items": [
+      {
+        "sentence": "Завтра я ___ читать.",
+        "answer": "буду",
+        "translation_en": "Tomorrow I will read.",
+        "translation_es": "Mañana leeré."
+      },
+      {
+        "sentence": "Ты ___ работать.",
+        "answer": "будешь",
+        "translation_en": "You will work.",
+        "translation_es": "Trabajarás."
+      },
+      {
+        "sentence": "Он ___ учиться.",
+        "answer": "будет",
+        "translation_en": "He will study.",
+        "translation_es": "Él estudiará."
+      },
+      {
+        "sentence": "Мы ___ отдыхать.",
+        "answer": "будем",
+        "translation_en": "We will rest.",
+        "translation_es": "Descansaremos."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct aspect form into each gap.",
+    "items": [
+      {
+        "sentence": "Я вчера ___ книгу до конца.",
+        "answer": "прочитал",
+        "translation_en": "I read the book to the end yesterday.",
+        "translation_es": "Ayer leí el libro hasta el final."
+      },
+      {
+        "sentence": "Я каждый день ___ книгу.",
+        "answer": "читал",
+        "translation_en": "I used to read a book every day.",
+        "translation_es": "Leía un libro cada día."
+      },
+      {
+        "sentence": "Она ___ письмо и отправила его.",
+        "answer": "написала",
+        "translation_en": "She wrote the letter and sent it.",
+        "translation_es": "Escribió la carta y la envió."
+      },
+      {
+        "sentence": "Он весь вечер ___ телевизор.",
+        "answer": "смотрел",
+        "translation_en": "He watched TV all evening.",
+        "translation_es": "Vio la televisión toda la tarde."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the accusative form into each gap.",
+    "items": [
+      {
+        "sentence": "Я читаю ___.",
+        "answer": "книгу",
+        "translation_en": "I am reading a book.",
+        "translation_es": "Leo un libro."
+      },
+      {
+        "sentence": "Он любит ___.",
+        "answer": "музыку",
+        "translation_en": "He loves music.",
+        "translation_es": "Él ama la música."
+      },
+      {
+        "sentence": "Мы видим ___.",
+        "answer": "дом",
+        "translation_en": "We see a house.",
+        "translation_es": "Vemos una casa."
+      },
+      {
+        "sentence": "Она ждёт ___.",
+        "answer": "брата",
+        "translation_en": "She is waiting for her brother.",
+        "translation_es": "Ella espera a su hermano."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the genitive form into each gap.",
+    "items": [
+      {
+        "sentence": "У меня нет ___.",
+        "answer": "времени",
+        "translation_en": "I have no time.",
+        "translation_es": "No tengo tiempo."
+      },
+      {
+        "sentence": "Это дом ___.",
+        "answer": "брата",
+        "translation_en": "This is my brother's house.",
+        "translation_es": "Esta es la casa de mi hermano."
+      },
+      {
+        "sentence": "Он приехал из ___.",
+        "answer": "Москвы",
+        "translation_en": "He came from Moscow.",
+        "translation_es": "Él vino de Moscú."
+      },
+      {
+        "sentence": "У меня нет ___.",
+        "answer": "денег",
+        "translation_en": "I have no money.",
+        "translation_es": "No tengo dinero."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the dative form into each gap.",
+    "items": [
+      {
+        "sentence": "Я звоню ___.",
+        "answer": "маме",
+        "translation_en": "I am calling my mother.",
+        "translation_es": "Llamo a mi madre."
+      },
+      {
+        "sentence": "Он помогает ___.",
+        "answer": "брату",
+        "translation_en": "He helps his brother.",
+        "translation_es": "Él ayuda a su hermano."
+      },
+      {
+        "sentence": "Мы пишем ___.",
+        "answer": "другу",
+        "translation_en": "We are writing to a friend.",
+        "translation_es": "Escribimos a un amigo."
+      },
+      {
+        "sentence": "Она говорит ___.",
+        "answer": "мне",
+        "translation_en": "She is talking to me.",
+        "translation_es": "Ella me habla a mí."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the instrumental form into each gap.",
+    "items": [
+      {
+        "sentence": "Я иду с ___.",
+        "answer": "другом",
+        "translation_en": "I am walking with a friend.",
+        "translation_es": "Camino con un amigo."
+      },
+      {
+        "sentence": "Он пишет ___.",
+        "answer": "ручкой",
+        "translation_en": "He writes with a pen.",
+        "translation_es": "Escribe con un bolígrafo."
+      },
+      {
+        "sentence": "Она довольна ___.",
+        "answer": "работой",
+        "translation_en": "She is pleased with her work.",
+        "translation_es": "Está contenta con su trabajo."
+      },
+      {
+        "sentence": "Чай с ___.",
+        "answer": "молоком",
+        "translation_en": "Tea with milk.",
+        "translation_es": "Té con leche."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the prepositional form into each gap.",
+    "items": [
+      {
+        "sentence": "Я думаю о ___.",
+        "answer": "работе",
+        "translation_en": "I am thinking about work.",
+        "translation_es": "Pienso en el trabajo."
+      },
+      {
+        "sentence": "Мы говорим о ___.",
+        "answer": "фильме",
+        "translation_en": "We are talking about a film.",
+        "translation_es": "Hablamos de una película."
+      },
+      {
+        "sentence": "Он живёт в ___.",
+        "answer": "Москве",
+        "translation_en": "He lives in Moscow.",
+        "translation_es": "Él vive en Moscú."
+      },
+      {
+        "sentence": "Книга на ___.",
+        "answer": "столе",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag идти or ехать into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ в школу пешком.",
+        "answer": "иду",
+        "translation_en": "I am walking to school.",
+        "translation_es": "Voy a la escuela a pie."
+      },
+      {
+        "sentence": "Мы ___ домой на автобусе.",
+        "answer": "едем",
+        "translation_en": "We are going home by bus.",
+        "translation_es": "Vamos a casa en autobús."
+      },
+      {
+        "sentence": "Он ___ в кино.",
+        "answer": "идёт",
+        "translation_en": "He is going to the cinema.",
+        "translation_es": "Él va al cine."
+      },
+      {
+        "sentence": "Она ___ на работу на метро.",
+        "answer": "едет",
+        "translation_en": "She is going to work by metro.",
+        "translation_es": "Ella va al trabajo en metro."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag ходить or ездить into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ в школу каждый день.",
+        "answer": "хожу",
+        "translation_en": "I go to school every day.",
+        "translation_es": "Voy a la escuela cada día."
+      },
+      {
+        "sentence": "Мы ___ в Москву каждое лето.",
+        "answer": "ездим",
+        "translation_en": "We go to Moscow every summer.",
+        "translation_es": "Vamos a Moscú cada verano."
+      },
+      {
+        "sentence": "Он ___ в спортзал по вторникам.",
+        "answer": "ходит",
+        "translation_en": "He goes to the gym on Tuesdays.",
+        "translation_es": "Él va al gimnasio los martes."
+      },
+      {
+        "sentence": "Она ___ на работу на машине.",
+        "answer": "ездит",
+        "translation_en": "She goes to work by car.",
+        "translation_es": "Ella va al trabajo en coche."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the reflexive verb form into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ по утрам.",
+        "answer": "моюсь",
+        "translation_en": "I wash in the morning.",
+        "translation_es": "Me lavo por la mañana."
+      },
+      {
+        "sentence": "Он ___ быстро.",
+        "answer": "одевается",
+        "translation_en": "He gets dressed quickly.",
+        "translation_es": "Él se viste rápido."
+      },
+      {
+        "sentence": "Мы ___ в семь.",
+        "answer": "просыпаемся",
+        "translation_en": "We wake up at seven.",
+        "translation_es": "Nos despertamos a las siete."
+      },
+      {
+        "sentence": "Она часто ___.",
+        "answer": "смеётся",
+        "translation_en": "She often laughs.",
+        "translation_es": "Ella se ríe a menudo."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the comparative form into each gap.",
+    "items": [
+      {
+        "sentence": "Этот дом ___.",
+        "answer": "больше",
+        "translation_en": "This house is bigger.",
+        "translation_es": "Esta casa es más grande."
+      },
+      {
+        "sentence": "Она ___, чем я.",
+        "answer": "старше",
+        "translation_en": "She is older than me.",
+        "translation_es": "Ella es mayor que yo."
+      },
+      {
+        "sentence": "Эта книга ___ интересная.",
+        "answer": "более",
+        "translation_en": "This book is more interesting.",
+        "translation_es": "Este libro es más interesante."
+      },
+      {
+        "sentence": "Он ___ меня.",
+        "answer": "выше",
+        "translation_en": "He is taller than me.",
+        "translation_es": "Él es más alto que yo."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag самый, самая or самое into each gap.",
+    "items": [
+      {
+        "sentence": "Это ___ большой дом.",
+        "answer": "самый",
+        "translation_en": "This is the biggest house.",
+        "translation_es": "Esta es la casa más grande."
+      },
+      {
+        "sentence": "Она ___ красивая девушка.",
+        "answer": "самая",
+        "translation_en": "She is the most beautiful girl.",
+        "translation_es": "Ella es la chica más guapa."
+      },
+      {
+        "sentence": "Это ___ лучшее решение.",
+        "answer": "самое",
+        "translation_en": "This is the best decision.",
+        "translation_es": "Esta es la mejor decisión."
+      },
+      {
+        "sentence": "Они ___ лучшие друзья.",
+        "answer": "самые",
+        "translation_en": "They are the best friends.",
+        "translation_es": "Son los mejores amigos."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct genitive form after a number into each gap.",
+    "items": [
+      {
+        "sentence": "два ___",
+        "answer": "стола",
+        "translation_en": "two tables",
+        "translation_es": "dos mesas"
+      },
+      {
+        "sentence": "три ___",
+        "answer": "книги",
+        "translation_en": "three books",
+        "translation_es": "tres libros"
+      },
+      {
+        "sentence": "пять ___",
+        "answer": "студентов",
+        "translation_en": "five students",
+        "translation_es": "cinco estudiantes"
+      },
+      {
+        "sentence": "один ___",
+        "answer": "час",
+        "translation_en": "one hour",
+        "translation_es": "una hora"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag чтобы into each gap.",
+    "items": [
+      {
+        "sentence": "Я хочу, ___ ты пришёл.",
+        "answer": "чтобы",
+        "translation_en": "I want you to come.",
+        "translation_es": "Quiero que vengas."
+      },
+      {
+        "sentence": "Он говорит громко, ___ все слышали.",
+        "answer": "чтобы",
+        "translation_en": "He speaks loudly so that everyone hears.",
+        "translation_es": "Habla alto para que todos oigan."
+      },
+      {
+        "sentence": "Мы приехали, ___ помочь.",
+        "answer": "чтобы",
+        "translation_en": "We came in order to help.",
+        "translation_es": "Vinimos para ayudar."
+      },
+      {
+        "sentence": "Она читает, ___ учиться.",
+        "answer": "чтобы",
+        "translation_en": "She reads in order to learn.",
+        "translation_es": "Ella lee para aprender."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag потому что or поэтому into each gap.",
+    "items": [
+      {
+        "sentence": "Я не пришёл, ___ был болен.",
+        "answer": "потому что",
+        "translation_en": "I did not come because I was ill.",
+        "translation_es": "No vine porque estaba enfermo."
+      },
+      {
+        "sentence": "Было холодно, ___ мы остались дома.",
+        "answer": "поэтому",
+        "translation_en": "It was cold, so we stayed at home.",
+        "translation_es": "Hacía frío, así que nos quedamos en casa."
+      },
+      {
+        "sentence": "Он устал, ___ пошёл спать.",
+        "answer": "поэтому",
+        "translation_en": "He was tired, so he went to bed.",
+        "translation_es": "Estaba cansado, así que se fue a dormir."
+      },
+      {
+        "sentence": "Мы не пошли, ___ шёл дождь.",
+        "answer": "потому что",
+        "translation_en": "We did not go because it was raining.",
+        "translation_es": "No fuimos porque llovía."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag если into each gap.",
+    "items": [
+      {
+        "sentence": "___ будет время, я приду.",
+        "answer": "Если",
+        "translation_en": "If there is time, I will come.",
+        "translation_es": "Si hay tiempo, vendré."
+      },
+      {
+        "sentence": "___ ты хочешь, мы пойдём.",
+        "answer": "Если",
+        "translation_en": "If you want, we will go.",
+        "translation_es": "Si quieres, iremos."
+      },
+      {
+        "sentence": "Если он придёт, мы ___.",
+        "answer": "начнём",
+        "translation_en": "If he comes, we will start.",
+        "translation_es": "Si él viene, empezaremos."
+      },
+      {
+        "sentence": "___ идёт дождь, мы остаёмся дома.",
+        "answer": "Если",
+        "translation_en": "If it is raining, we stay at home.",
+        "translation_es": "Si llueve, nos quedamos en casa."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag который into each gap.",
+    "items": [
+      {
+        "sentence": "Это дом, ___ я купил.",
+        "answer": "который",
+        "translation_en": "This is the house that I bought.",
+        "translation_es": "Esta es la casa que compré."
+      },
+      {
+        "sentence": "Это книга, ___ ты читаешь.",
+        "answer": "которую",
+        "translation_en": "This is the book that you are reading.",
+        "translation_es": "Este es el libro que lees."
+      },
+      {
+        "sentence": "Человек, ___ здесь живёт, мой друг.",
+        "answer": "который",
+        "translation_en": "The man who lives here is my friend.",
+        "translation_es": "El hombre que vive aquí es mi amigo."
+      },
+      {
+        "sentence": "Дом, ___ мы видим, старый.",
+        "answer": "который",
+        "translation_en": "The house that we see is old.",
+        "translation_es": "La casa que vemos es vieja."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the imperative form into each gap.",
+    "items": [
+      {
+        "sentence": "___ сюда!",
+        "answer": "Иди",
+        "translation_en": "Come here!",
+        "translation_es": "¡Ven aquí!"
+      },
+      {
+        "sentence": "___ это!",
+        "answer": "Сделай",
+        "translation_en": "Do this!",
+        "translation_es": "¡Haz esto!"
+      },
+      {
+        "sentence": "___ , пожалуйста!",
+        "answer": "Скажите",
+        "translation_en": "Please tell me!",
+        "translation_es": "¡Dígame, por favor!"
+      },
+      {
+        "sentence": "___ книгу!",
+        "answer": "Читай",
+        "translation_en": "Read the book!",
+        "translation_es": "¡Lee el libro!"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct aspect in the past into each gap.",
+    "items": [
+      {
+        "sentence": "Я вчера ___ книгу до конца.",
+        "answer": "прочитал",
+        "translation_en": "I finished reading the book yesterday.",
+        "translation_es": "Ayer terminé de leer el libro."
+      },
+      {
+        "sentence": "Он весь вечер ___ телевизор.",
+        "answer": "смотрел",
+        "translation_en": "He watched TV all evening.",
+        "translation_es": "Vio la televisión toda la tarde."
+      },
+      {
+        "sentence": "Она ___ письмо и отправила его.",
+        "answer": "написала",
+        "translation_en": "She wrote the letter and sent it.",
+        "translation_es": "Escribió la carta y la envió."
+      },
+      {
+        "sentence": "Мы ___ этот фильм дважды.",
+        "answer": "смотрели",
+        "translation_en": "We watched this film twice.",
+        "translation_es": "Vimos esta película dos veces."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct verb with a prefix into each gap.",
+    "items": [
+      {
+        "sentence": "Он ___ из дома в семь утра.",
+        "answer": "вышел",
+        "translation_en": "He left the house at seven in the morning.",
+        "translation_es": "Salió de casa a las siete de la mañana."
+      },
+      {
+        "sentence": "Мы ___ на работу вовремя.",
+        "answer": "пришли",
+        "translation_en": "We arrived at work on time.",
+        "translation_es": "Llegamos al trabajo a tiempo."
+      },
+      {
+        "sentence": "Поезд ___ из Москвы вечером.",
+        "answer": "ушёл",
+        "translation_en": "The train left Moscow in the evening.",
+        "translation_es": "El tren salió de Moscú por la tarde."
+      },
+      {
+        "sentence": "Она ___ ко мне в гости.",
+        "answer": "пришла",
+        "translation_en": "She came to visit me.",
+        "translation_es": "Ella vino a visitarme."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag бы into each gap for the conditional.",
+    "items": [
+      {
+        "sentence": "Я ___ поехал в отпуск.",
+        "answer": "бы",
+        "translation_en": "I would go on holiday.",
+        "translation_es": "Iría de vacaciones."
+      },
+      {
+        "sentence": "Если ___ у меня было время, я бы пришёл.",
+        "answer": "бы",
+        "translation_en": "If I had time, I would come.",
+        "translation_es": "Si tuviera tiempo, vendría."
+      },
+      {
+        "sentence": "Он ___ хотел поехать.",
+        "answer": "бы",
+        "translation_en": "He would like to go.",
+        "translation_es": "Le gustaría ir."
+      },
+      {
+        "sentence": "Мы ___ пошли в кино.",
+        "answer": "бы",
+        "translation_en": "We would go to the cinema.",
+        "translation_es": "Iríamos al cine."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct word into each gap for reported speech.",
+    "items": [
+      {
+        "sentence": "Он сказал, что ___ занят.",
+        "answer": "он",
+        "translation_en": "He said that he was busy.",
+        "translation_es": "Dijo que estaba ocupado."
+      },
+      {
+        "sentence": "Она сказала, что ___ завтра.",
+        "answer": "приедет",
+        "translation_en": "She said that she would come tomorrow.",
+        "translation_es": "Dijo que vendría mañana."
+      },
+      {
+        "sentence": "Он спросил, ___ я живу.",
+        "answer": "где",
+        "translation_en": "He asked where I live.",
+        "translation_es": "Preguntó dónde vivo."
+      },
+      {
+        "sentence": "Она попросила ___ ей помочь.",
+        "answer": "меня",
+        "translation_en": "She asked me to help her.",
+        "translation_es": "Me pidió que la ayudara."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "Это ___ дом.",
+        "answer": "строящийся",
+        "translation_en": "This is a house under construction.",
+        "translation_es": "Esta es una casa en construcción."
+      },
+      {
+        "sentence": "Я читаю ___ книгу.",
+        "answer": "написанную",
+        "translation_en": "I am reading a book that was written.",
+        "translation_es": "Leo un libro escrito."
+      },
+      {
+        "sentence": "Это ___ человек.",
+        "answer": "читающий",
+        "translation_en": "This is a reading person.",
+        "translation_es": "Esta es una persona que lee."
+      },
+      {
+        "sentence": "Мы видим ___ мост.",
+        "answer": "построенный",
+        "translation_en": "We see a bridge that was built.",
+        "translation_es": "Vemos un puente construido."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the gerund into each gap.",
+    "items": [
+      {
+        "sentence": "Он читает, ___ .",
+        "answer": "сидя",
+        "translation_en": "He reads while sitting.",
+        "translation_es": "Él lee sentado."
+      },
+      {
+        "sentence": "___ домой, я встретил друга.",
+        "answer": "Идя",
+        "translation_en": "Walking home, I met a friend.",
+        "translation_es": "Yendo a casa, encontré a un amigo."
+      },
+      {
+        "sentence": "Она отвечает, ___ .",
+        "answer": "улыбаясь",
+        "translation_en": "She answers while smiling.",
+        "translation_es": "Responde sonriendo."
+      },
+      {
+        "sentence": "___ работу, он пошёл домой.",
+        "answer": "Закончив",
+        "translation_en": "Having finished the work, he went home.",
+        "translation_es": "Habiendo terminado el trabajo, se fue a casa."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct form of который into each gap.",
+    "items": [
+      {
+        "sentence": "Это дом, в ___ я живу.",
+        "answer": "котором",
+        "translation_en": "This is the house in which I live.",
+        "translation_es": "Esta es la casa en la que vivo."
+      },
+      {
+        "sentence": "Это человек, с ___ я работаю.",
+        "answer": "которым",
+        "translation_en": "This is the person with whom I work.",
+        "translation_es": "Esta es la persona con quien trabajo."
+      },
+      {
+        "sentence": "Это книга, о ___ мы говорили.",
+        "answer": "которой",
+        "translation_en": "This is the book we talked about.",
+        "translation_es": "Este es el libro del que hablamos."
+      },
+      {
+        "sentence": "Это город, в ___ я родился.",
+        "answer": "котором",
+        "translation_en": "This is the city where I was born.",
+        "translation_es": "Esta es la ciudad donde nací."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag несмотря на into each gap.",
+    "items": [
+      {
+        "sentence": "___ дождь, мы пошли гулять.",
+        "answer": "Несмотря на",
+        "translation_en": "Despite the rain, we went for a walk.",
+        "translation_es": "A pesar de la lluvia, salimos a pasear."
+      },
+      {
+        "sentence": "___ усталость, он продолжал работать.",
+        "answer": "Несмотря на",
+        "translation_en": "Despite the tiredness, he kept working.",
+        "translation_es": "A pesar del cansancio, siguió trabajando."
+      },
+      {
+        "sentence": "___ , что было поздно, мы остались.",
+        "answer": "Несмотря на то",
+        "translation_en": "Despite the fact that it was late, we stayed.",
+        "translation_es": "A pesar de que era tarde, nos quedamos."
+      },
+      {
+        "sentence": "___ погоду, мы поехали.",
+        "answer": "Несмотря на",
+        "translation_en": "Despite the weather, we went.",
+        "translation_es": "A pesar del tiempo, fuimos."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag хотя into each gap.",
+    "items": [
+      {
+        "sentence": "___ было поздно, он работал.",
+        "answer": "Хотя",
+        "translation_en": "Although it was late, he worked.",
+        "translation_es": "Aunque era tarde, trabajaba."
+      },
+      {
+        "sentence": "___ он устал, он пришёл.",
+        "answer": "Хотя",
+        "translation_en": "Although he was tired, he came.",
+        "translation_es": "Aunque estaba cansado, vino."
+      },
+      {
+        "sentence": "___ шёл дождь, мы вышли.",
+        "answer": "Хотя",
+        "translation_en": "Although it was raining, we went out.",
+        "translation_es": "Aunque llovía, salimos."
+      },
+      {
+        "sentence": "___ он молод, он умён.",
+        "answer": "Хотя",
+        "translation_en": "Although he is young, he is clever.",
+        "translation_es": "Aunque es joven, es listo."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag должен or должна into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ работать.",
+        "answer": "должен",
+        "translation_en": "I must work.",
+        "translation_es": "Debo trabajar."
+      },
+      {
+        "sentence": "Она ___ учиться.",
+        "answer": "должна",
+        "translation_en": "She must study.",
+        "translation_es": "Ella debe estudiar."
+      },
+      {
+        "sentence": "Мы ___ идти.",
+        "answer": "должны",
+        "translation_en": "We must go.",
+        "translation_es": "Debemos ir."
+      },
+      {
+        "sentence": "Он ___ был прийти.",
+        "answer": "должен",
+        "translation_en": "He was supposed to come.",
+        "translation_es": "Él debía venir."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag можно or нельзя into each gap.",
+    "items": [
+      {
+        "sentence": "Здесь ___ курить.",
+        "answer": "нельзя",
+        "translation_en": "Smoking is not allowed here.",
+        "translation_es": "Aquí no se puede fumar."
+      },
+      {
+        "sentence": "___ мне войти?",
+        "answer": "Можно",
+        "translation_en": "May I come in?",
+        "translation_es": "¿Puedo entrar?"
+      },
+      {
+        "sentence": "Здесь ___ парковаться.",
+        "answer": "можно",
+        "translation_en": "You can park here.",
+        "translation_es": "Aquí se puede aparcar."
+      },
+      {
+        "sentence": "___ шуметь в библиотеке.",
+        "answer": "Нельзя",
+        "translation_en": "You must not make noise in the library.",
+        "translation_es": "No se puede hacer ruido en la biblioteca."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the short adjective into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ сегодня.",
+        "answer": "свободен",
+        "translation_en": "I am free today.",
+        "translation_es": "Estoy libre hoy."
+      },
+      {
+        "sentence": "Она ___ .",
+        "answer": "свободна",
+        "translation_en": "She is free.",
+        "translation_es": "Ella está libre."
+      },
+      {
+        "sentence": "Мы ___ .",
+        "answer": "свободны",
+        "translation_en": "We are free.",
+        "translation_es": "Estamos libres."
+      },
+      {
+        "sentence": "Он ___ .",
+        "answer": "здоров",
+        "translation_en": "He is healthy.",
+        "translation_es": "Él está sano."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag кто-то or что-нибудь into each gap.",
+    "items": [
+      {
+        "sentence": "___ пришёл.",
+        "answer": "Кто-то",
+        "translation_en": "Someone came.",
+        "translation_es": "Alguien vino."
+      },
+      {
+        "sentence": "Дай мне ___ книгу.",
+        "answer": "какую-нибудь",
+        "translation_en": "Give me some book.",
+        "translation_es": "Dame algún libro."
+      },
+      {
+        "sentence": "Я хочу ___ поесть.",
+        "answer": "что-нибудь",
+        "translation_en": "I want to eat something.",
+        "translation_es": "Quiero comer algo."
+      },
+      {
+        "sentence": "___ звонил тебе.",
+        "answer": "Кто-то",
+        "translation_en": "Someone called you.",
+        "translation_es": "Alguien te llamó."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag ничего or никто into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ не знаю.",
+        "answer": "ничего",
+        "translation_en": "I know nothing.",
+        "translation_es": "No sé nada."
+      },
+      {
+        "sentence": "___ не пришёл.",
+        "answer": "Никто",
+        "translation_en": "Nobody came.",
+        "translation_es": "Nadie vino."
+      },
+      {
+        "sentence": "Он ___ не сказал.",
+        "answer": "ничего",
+        "translation_en": "He said nothing.",
+        "translation_es": "No dijo nada."
+      },
+      {
+        "sentence": "___ не хочет идти.",
+        "answer": "Никто",
+        "translation_en": "Nobody wants to go.",
+        "translation_es": "Nadie quiere ir."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag чем... тем into each gap.",
+    "items": [
+      {
+        "sentence": "___ больше, тем лучше.",
+        "answer": "Чем",
+        "translation_en": "The more, the better.",
+        "translation_es": "Cuanto más, mejor."
+      },
+      {
+        "sentence": "___ раньше, тем лучше.",
+        "answer": "Чем",
+        "translation_en": "The earlier, the better.",
+        "translation_es": "Cuanto antes, mejor."
+      },
+      {
+        "sentence": "Чем больше я читаю, ___ больше знаю.",
+        "answer": "тем",
+        "translation_en": "The more I read, the more I know.",
+        "translation_es": "Cuanto más leo, más sé."
+      },
+      {
+        "sentence": "Чем раньше ты придёшь, ___ лучше.",
+        "answer": "тем",
+        "translation_en": "The sooner you come, the better.",
+        "translation_es": "Cuanto antes vengas, mejor."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the collective numeral into each gap.",
+    "items": [
+      {
+        "sentence": "___ друзей",
+        "answer": "Двое",
+        "translation_en": "two friends",
+        "translation_es": "dos amigos"
+      },
+      {
+        "sentence": "___ детей",
+        "answer": "Трое",
+        "translation_en": "three children",
+        "translation_es": "tres niños"
+      },
+      {
+        "sentence": "___ студентов",
+        "answer": "Пятеро",
+        "translation_en": "five students",
+        "translation_es": "cinco estudiantes"
+      },
+      {
+        "sentence": "___ нас",
+        "answer": "Четверо",
+        "translation_en": "four of us",
+        "translation_es": "cuatro de nosotros"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the passive form into each gap.",
+    "items": [
+      {
+        "sentence": "Дом ___ в 1990 году.",
+        "answer": "был построен",
+        "translation_en": "The house was built in 1990.",
+        "translation_es": "La casa fue construida en 1990."
+      },
+      {
+        "sentence": "Книга ___ автором.",
+        "answer": "была написана",
+        "translation_en": "The book was written by the author.",
+        "translation_es": "El libro fue escrito por el autor."
+      },
+      {
+        "sentence": "Эта проблема ___ специалистами.",
+        "answer": "изучается",
+        "translation_en": "This problem is being studied by specialists.",
+        "translation_es": "Este problema está siendo estudiado por especialistas."
+      },
+      {
+        "sentence": "Документы ___ вчера.",
+        "answer": "были подписаны",
+        "translation_en": "The documents were signed yesterday.",
+        "translation_es": "Los documentos fueron firmados ayer."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the perfective gerund into each gap.",
+    "items": [
+      {
+        "sentence": "___ книгу, я нашёл ответ.",
+        "answer": "Прочитав",
+        "translation_en": "Having read the book, I found the answer.",
+        "translation_es": "Habiendo leído el libro, encontré la respuesta."
+      },
+      {
+        "sentence": "___ домой, он позвонил.",
+        "answer": "Придя",
+        "translation_en": "Having come home, he called.",
+        "translation_es": "Habiendo llegado a casa, llamó."
+      },
+      {
+        "sentence": "___ , она улыбнулась.",
+        "answer": "Говоря",
+        "translation_en": "While speaking, she smiled.",
+        "translation_es": "Hablando, sonrió."
+      },
+      {
+        "sentence": "___ всё, он ушёл.",
+        "answer": "Сделав",
+        "translation_en": "Having done everything, he left.",
+        "translation_es": "Habiendo hecho todo, se fue."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag если бы into each gap.",
+    "items": [
+      {
+        "sentence": "___ у меня было время, я бы пришёл.",
+        "answer": "Если бы",
+        "translation_en": "If I had time, I would come.",
+        "translation_es": "Si tuviera tiempo, vendría."
+      },
+      {
+        "sentence": "___ он знал, он бы помог.",
+        "answer": "Если бы",
+        "translation_en": "If he knew, he would help.",
+        "translation_es": "Si lo supiera, ayudaría."
+      },
+      {
+        "sentence": "___ не дождь, мы бы пошли.",
+        "answer": "Если бы",
+        "translation_en": "If it were not for the rain, we would go.",
+        "translation_es": "Si no fuera por la lluvia, iríamos."
+      },
+      {
+        "sentence": "___ ты сказал раньше, я бы успел.",
+        "answer": "Если бы",
+        "translation_en": "If you had said it earlier, I would have made it.",
+        "translation_es": "Si lo hubieras dicho antes, habría llegado a tiempo."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct infinitive aspect into each gap.",
+    "items": [
+      {
+        "sentence": "Я начал ___ книгу.",
+        "answer": "читать",
+        "translation_en": "I started reading the book.",
+        "translation_es": "Empecé a leer el libro."
+      },
+      {
+        "sentence": "Я успел ___ книгу.",
+        "answer": "прочитать",
+        "translation_en": "I managed to read the book.",
+        "translation_es": "Logré leer el libro."
+      },
+      {
+        "sentence": "Он продолжал ___ .",
+        "answer": "читать",
+        "translation_en": "He continued reading.",
+        "translation_es": "Continuó leyendo."
+      },
+      {
+        "sentence": "Она забыла ___ письмо.",
+        "answer": "отправить",
+        "translation_en": "She forgot to send the letter.",
+        "translation_es": "Olvidó enviar la carta."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct aspect into each gap.",
+    "items": [
+      {
+        "sentence": "Он ___ задачу за час.",
+        "answer": "решил",
+        "translation_en": "He solved the problem in an hour.",
+        "translation_es": "Resolvió el problema en una hora."
+      },
+      {
+        "sentence": "Он ___ задачу два часа.",
+        "answer": "решал",
+        "translation_en": "He was solving the problem for two hours.",
+        "translation_es": "Resolvió el problema durante dos horas."
+      },
+      {
+        "sentence": "Мы ___ проект вовремя.",
+        "answer": "закончили",
+        "translation_en": "We finished the project on time.",
+        "translation_es": "Terminamos el proyecto a tiempo."
+      },
+      {
+        "sentence": "Она ___ письмо весь вечер.",
+        "answer": "писала",
+        "translation_en": "She was writing the letter all evening.",
+        "translation_es": "Escribió la carta toda la tarde."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag по мере into each gap.",
+    "items": [
+      {
+        "sentence": "___ того как мы шли, стемнело.",
+        "answer": "По мере",
+        "translation_en": "As we walked, it got dark.",
+        "translation_es": "A medida que caminábamos, oscurecía."
+      },
+      {
+        "sentence": "___ того как он говорил, я понимал больше.",
+        "answer": "По мере",
+        "translation_en": "As he spoke, I understood more.",
+        "translation_es": "A medida que hablaba, entendía más."
+      },
+      {
+        "sentence": "Мы говорили ___ , как он вошёл.",
+        "answer": "в то время",
+        "translation_en": "We were talking while he came in.",
+        "translation_es": "Hablamos mientras él entró."
+      },
+      {
+        "sentence": "___ того как начался дождь, мы ушли.",
+        "answer": "После",
+        "translation_en": "After the rain started, we left.",
+        "translation_es": "Después de que empezó a llover, nos fuimos."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag несмотря на то что into each gap.",
+    "items": [
+      {
+        "sentence": "___ было поздно, он работал.",
+        "answer": "Несмотря на то что",
+        "translation_en": "Despite the fact that it was late, he worked.",
+        "translation_es": "A pesar de que era tarde, trabajaba."
+      },
+      {
+        "sentence": "Мы вышли, ___ шёл дождь.",
+        "answer": "несмотря на то что",
+        "translation_en": "We went out despite the fact that it was raining.",
+        "translation_es": "Salimos a pesar de que llovía."
+      },
+      {
+        "sentence": "Он пришёл, ___ был болен.",
+        "answer": "несмотря на то что",
+        "translation_en": "He came despite the fact that he was ill.",
+        "translation_es": "Vino a pesar de que estaba enfermo."
+      },
+      {
+        "sentence": "___ она устала, она продолжала.",
+        "answer": "Несмотря на то что",
+        "translation_en": "Despite the fact that she was tired, she continued.",
+        "translation_es": "A pesar de que estaba cansada, continuó."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag в то время как into each gap.",
+    "items": [
+      {
+        "sentence": "Я читал, ___ он готовил.",
+        "answer": "в то время как",
+        "translation_en": "I was reading while he was cooking.",
+        "translation_es": "Yo leía mientras él cocinaba."
+      },
+      {
+        "sentence": "___ он спал, я работал.",
+        "answer": "В то время как",
+        "translation_en": "While he was sleeping, I was working.",
+        "translation_es": "Mientras él dormía, yo trabajaba."
+      },
+      {
+        "sentence": "Она училась, ___ он путешествовал.",
+        "answer": "в то время как",
+        "translation_en": "She was studying while he was travelling.",
+        "translation_es": "Ella estudiaba mientras él viajaba."
+      },
+      {
+        "sentence": "___ все отдыхали, он работал.",
+        "answer": "В то время как",
+        "translation_en": "While everyone was resting, he worked.",
+        "translation_es": "Mientras todos descansaban, él trabajaba."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag причём or притом into each gap.",
+    "items": [
+      {
+        "sentence": "Он умный, ___ очень скромный.",
+        "answer": "причём",
+        "translation_en": "He is clever, and moreover very modest.",
+        "translation_es": "Es listo, y además muy modesto."
+      },
+      {
+        "sentence": "Дом большой, ___ новый.",
+        "answer": "причём",
+        "translation_en": "The house is big, and new at that.",
+        "translation_es": "La casa es grande, y además nueva."
+      },
+      {
+        "sentence": "Она красивая, ___ умная.",
+        "answer": "притом",
+        "translation_en": "She is beautiful, and clever as well.",
+        "translation_es": "Es guapa, y además lista."
+      },
+      {
+        "sentence": "Это дорого, ___ бесполезно.",
+        "answer": "причём",
+        "translation_en": "It is expensive, and useless at that.",
+        "translation_es": "Es caro, y además inútil."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag что or чтобы into each gap.",
+    "items": [
+      {
+        "sentence": "Я думаю, ___ он придёт.",
+        "answer": "что",
+        "translation_en": "I think that he will come.",
+        "translation_es": "Creo que vendrá."
+      },
+      {
+        "sentence": "Я хочу, ___ он пришёл.",
+        "answer": "чтобы",
+        "translation_en": "I want him to come.",
+        "translation_es": "Quiero que venga."
+      },
+      {
+        "sentence": "Он сказал, ___ занят.",
+        "answer": "что",
+        "translation_en": "He said that he was busy.",
+        "translation_es": "Dijo que estaba ocupado."
+      },
+      {
+        "sentence": "Я пришёл, ___ помочь.",
+        "answer": "чтобы",
+        "translation_en": "I came in order to help.",
+        "translation_es": "Vine para ayudar."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag никогда or ничего into each gap for double negation.",
+    "items": [
+      {
+        "sentence": "Он ___ не приходит.",
+        "answer": "никогда",
+        "translation_en": "He never comes.",
+        "translation_es": "Él nunca viene."
+      },
+      {
+        "sentence": "Я ___ не видел его.",
+        "answer": "никогда",
+        "translation_en": "I have never seen him.",
+        "translation_es": "Nunca lo he visto."
+      },
+      {
+        "sentence": "Она ___ не говорит.",
+        "answer": "ничего",
+        "translation_en": "She says nothing.",
+        "translation_es": "Ella no dice nada."
+      },
+      {
+        "sentence": "Никто ___ не знает.",
+        "answer": "ничего",
+        "translation_en": "Nobody knows anything.",
+        "translation_es": "Nadie sabe nada."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag в связи or вследствие into each gap.",
+    "items": [
+      {
+        "sentence": "___ с этим, мы изменили план.",
+        "answer": "В связи",
+        "translation_en": "In connection with this, we changed the plan.",
+        "translation_es": "En relación con esto, cambiamos el plan."
+      },
+      {
+        "sentence": "___ дождя рейс отменили.",
+        "answer": "Вследствие",
+        "translation_en": "As a result of the rain the flight was cancelled.",
+        "translation_es": "A causa de la lluvia se canceló el vuelo."
+      },
+      {
+        "sentence": "___ с изменением климата растут температуры.",
+        "answer": "В связи",
+        "translation_en": "In connection with climate change, temperatures are rising.",
+        "translation_es": "En relación con el cambio climático, suben las temperaturas."
+      },
+      {
+        "sentence": "___ ошибки он был уволен.",
+        "answer": "Вследствие",
+        "translation_en": "As a result of the mistake he was dismissed.",
+        "translation_es": "A causa del error fue despedido."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the verbal noun into each gap.",
+    "items": [
+      {
+        "sentence": "___ проблемы требует времени.",
+        "answer": "Решение",
+        "translation_en": "Solving the problem takes time.",
+        "translation_es": "Resolver el problema requiere tiempo."
+      },
+      {
+        "sentence": "___ языка — долгий процесс.",
+        "answer": "Изучение",
+        "translation_en": "Learning a language is a long process.",
+        "translation_es": "Aprender un idioma es un proceso largo."
+      },
+      {
+        "sentence": "___ проекта закончилось.",
+        "answer": "Реализация",
+        "translation_en": "The implementation of the project has finished.",
+        "translation_es": "La implementación del proyecto ha terminado."
+      },
+      {
+        "sentence": "___ нового закона обсуждается.",
+        "answer": "Принятие",
+        "translation_en": "The adoption of the new law is being discussed.",
+        "translation_es": "Se discute la adopción de la nueva ley."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the genitive preposition into each gap.",
+    "items": [
+      {
+        "sentence": "___ недели мы отдыхали.",
+        "answer": "В течение",
+        "translation_en": "For a week we rested.",
+        "translation_es": "Durante una semana descansamos."
+      },
+      {
+        "sentence": "___ дождя мы не пошли.",
+        "answer": "Из-за",
+        "translation_en": "Because of the rain we did not go.",
+        "translation_es": "Por la lluvia no fuimos."
+      },
+      {
+        "sentence": "___ всех усилий он не успел.",
+        "answer": "Несмотря на",
+        "translation_en": "Despite all efforts he did not make it.",
+        "translation_es": "A pesar de todos los esfuerzos no lo logró."
+      },
+      {
+        "sentence": "___ работы он поехал домой.",
+        "answer": "После",
+        "translation_en": "After work he went home.",
+        "translation_es": "Después del trabajo fue a casa."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag однако or зато into each gap.",
+    "items": [
+      {
+        "sentence": "Он умный, ___ ленивый.",
+        "answer": "однако",
+        "translation_en": "He is clever, however lazy.",
+        "translation_es": "Es listo, sin embargo perezoso."
+      },
+      {
+        "sentence": "Дом старый, ___ уютный.",
+        "answer": "зато",
+        "translation_en": "The house is old, but cosy.",
+        "translation_es": "La casa es vieja, pero acogedora."
+      },
+      {
+        "sentence": "Мы опоздали, ___ успели.",
+        "answer": "однако",
+        "translation_en": "We were late, however we made it.",
+        "translation_es": "Llegamos tarde, sin embargo lo logramos."
+      },
+      {
+        "sentence": "Он не богат, ___ счастлив.",
+        "answer": "зато",
+        "translation_en": "He is not rich, but happy.",
+        "translation_es": "No es rico, pero feliz."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag с тех пор как or как только into each gap.",
+    "items": [
+      {
+        "sentence": "___ он уехал, мы не виделись.",
+        "answer": "С тех пор как",
+        "translation_en": "Since he left, we have not met.",
+        "translation_es": "Desde que se fue, no nos hemos visto."
+      },
+      {
+        "sentence": "___ начался дождь, мы пошли домой.",
+        "answer": "Как только",
+        "translation_en": "As soon as it started raining, we went home.",
+        "translation_es": "En cuanto empezó a llover, nos fuimos a casa."
+      },
+      {
+        "sentence": "___ он пришёл, мы начали.",
+        "answer": "Как только",
+        "translation_en": "As soon as he came, we started.",
+        "translation_es": "En cuanto llegó, empezamos."
+      },
+      {
+        "sentence": "___ он вернулся, он нашёл работу.",
+        "answer": "С тех пор как",
+        "translation_en": "Since he returned, he has found a job.",
+        "translation_es": "Desde que volvió, encontró trabajo."
+      }
+    ]
+  }
+]

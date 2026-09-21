@@ -1,0 +1,2608 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Cyrillic alphabet",
+    "description": "Russian is written in Cyrillic; most letters have one clear sound.",
+    "columns": [
+      "Letter",
+      "Sound",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "А а",
+        "a",
+        "father",
+        "padre"
+      ],
+      [
+        "Б б",
+        "b",
+        "book",
+        "libro"
+      ],
+      [
+        "В в",
+        "v",
+        "vase",
+        "vaso"
+      ],
+      [
+        "Ж ж",
+        "zh",
+        "measure",
+        "como la j francesa"
+      ],
+      [
+        "Ц ц",
+        "ts",
+        "cats",
+        "ts"
+      ],
+      [
+        "Ч ч",
+        "ch",
+        "chair",
+        "ch"
+      ],
+      [
+        "Ш ш",
+        "sh",
+        "ship",
+        "sh"
+      ],
+      [
+        "Щ щ",
+        "shch",
+        "fresh cheese",
+        "shch"
+      ],
+      [
+        "Ы ы",
+        "y",
+        "hard i",
+        "i dura"
+      ],
+      [
+        "Э э",
+        "e",
+        "met",
+        "e abierta"
+      ],
+      [
+        "Ю ю",
+        "yu",
+        "you",
+        "yu"
+      ],
+      [
+        "Я я",
+        "ya",
+        "yard",
+        "ya"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "вы is both the plural 'you' and the polite singular.",
+    "columns": [
+      "Person",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sg.",
+        "я",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sg.",
+        "ты",
+        "you (informal)",
+        "tú"
+      ],
+      [
+        "3rd sg. m.",
+        "он",
+        "he",
+        "él"
+      ],
+      [
+        "3rd sg. f.",
+        "она",
+        "she",
+        "ella"
+      ],
+      [
+        "3rd sg. n.",
+        "оно",
+        "it",
+        "ello"
+      ],
+      [
+        "1st pl.",
+        "мы",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd pl.",
+        "вы",
+        "you (pl. / formal)",
+        "vosotros / usted"
+      ],
+      [
+        "3rd pl.",
+        "они",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Gender of nouns",
+    "description": "The ending of the nominative singular tells you the gender.",
+    "columns": [
+      "Gender",
+      "Ending",
+      "Example",
+      "English"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "consonant",
+        "дом",
+        "house"
+      ],
+      [
+        "feminine",
+        "-а / -я",
+        "книга",
+        "book"
+      ],
+      [
+        "neuter",
+        "-о / -е",
+        "окно",
+        "window"
+      ],
+      [
+        "pronoun",
+        "он / она / оно",
+        "Он большой.",
+        "It is big (m.)."
+      ],
+      [
+        "pronoun",
+        "она",
+        "Она новая.",
+        "It is new (f.)."
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Plural of nouns",
+    "description": "Most nouns add -ы or -и; some are irregular.",
+    "columns": [
+      "Singular",
+      "Plural",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "стол",
+        "столы",
+        "table / tables",
+        "mesa / mesas"
+      ],
+      [
+        "книга",
+        "книги",
+        "book / books",
+        "libro / libros"
+      ],
+      [
+        "окно",
+        "окна",
+        "window / windows",
+        "ventana / ventanas"
+      ],
+      [
+        "студент",
+        "студенты",
+        "student / students",
+        "estudiante / estudiantes"
+      ],
+      [
+        "друг",
+        "друзья",
+        "friend / friends",
+        "amigo / amigos"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "это (this is)",
+    "description": "A handy word for identifying things; the verb 'to be' is not used.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "this is",
+        "Это книга.",
+        "This is a book.",
+        "Esto es un libro."
+      ],
+      [
+        "these are",
+        "Это книги.",
+        "These are books.",
+        "Estos son libros."
+      ],
+      [
+        "question",
+        "Что это?",
+        "What is this?",
+        "¿Qué es esto?"
+      ],
+      [
+        "question",
+        "Кто это?",
+        "Who is this?",
+        "¿Quién es este?"
+      ],
+      [
+        "that is",
+        "То окно.",
+        "That is a window.",
+        "Esa es una ventana."
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Negation with не",
+    "description": "не goes directly before the word it negates.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "present",
+        "Я не знаю.",
+        "I do not know.",
+        "No sé."
+      ],
+      [
+        "past",
+        "Он не пришёл.",
+        "He did not come.",
+        "Él no vino."
+      ],
+      [
+        "future",
+        "Мы не будем ждать.",
+        "We will not wait.",
+        "No esperaremos."
+      ],
+      [
+        "with нет",
+        "У меня нет времени.",
+        "I have no time.",
+        "No tengo tiempo."
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "у меня есть (I have)",
+    "description": "Russian expresses possession with у + genitive + есть.",
+    "columns": [
+      "Person",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "У меня есть книга.",
+        "I have a book.",
+        "Tengo un libro."
+      ],
+      [
+        "you have",
+        "У тебя есть книга.",
+        "You have a book.",
+        "Tienes un libro."
+      ],
+      [
+        "he has",
+        "У него есть книга.",
+        "He has a book.",
+        "Él tiene un libro."
+      ],
+      [
+        "we have",
+        "У нас есть книга.",
+        "We have a book.",
+        "Tenemos un libro."
+      ],
+      [
+        "negative",
+        "У меня нет книги.",
+        "I have no book.",
+        "No tengo libro."
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense: читать",
+    "description": "First conjugation verbs take -ю, -ешь, -ет, -ем, -ете, -ют.",
+    "columns": [
+      "Person",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "я",
+        "читаю",
+        "I read",
+        "yo leo"
+      ],
+      [
+        "ты",
+        "читаешь",
+        "you read",
+        "tú lees"
+      ],
+      [
+        "он / она",
+        "читает",
+        "he / she reads",
+        "él / ella lee"
+      ],
+      [
+        "мы",
+        "читаем",
+        "we read",
+        "nosotros leemos"
+      ],
+      [
+        "вы",
+        "читаете",
+        "you read",
+        "vosotros leéis"
+      ],
+      [
+        "они",
+        "читают",
+        "they read",
+        "ellos leen"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Present tense: говорить",
+    "description": "Second conjugation verbs take -ю, -ишь, -ит, -им, -ите, -ят.",
+    "columns": [
+      "Person",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "я",
+        "говорю",
+        "I speak",
+        "yo hablo"
+      ],
+      [
+        "ты",
+        "говоришь",
+        "you speak",
+        "tú hablas"
+      ],
+      [
+        "он / она",
+        "говорит",
+        "he / she speaks",
+        "él / ella habla"
+      ],
+      [
+        "мы",
+        "говорим",
+        "we speak",
+        "nosotros hablamos"
+      ],
+      [
+        "они",
+        "говорят",
+        "they speak",
+        "ellos hablan"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "быть is absent in the present",
+    "description": "The present tense of 'to be' is simply left out.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "present",
+        "Я студент.",
+        "I am a student.",
+        "Soy estudiante."
+      ],
+      [
+        "present",
+        "Он врач.",
+        "He is a doctor.",
+        "Él es médico."
+      ],
+      [
+        "past",
+        "Я был студентом.",
+        "I was a student.",
+        "Yo era estudiante."
+      ],
+      [
+        "future",
+        "Я буду врачом.",
+        "I will be a doctor.",
+        "Seré médico."
+      ],
+      [
+        "emphasis",
+        "Это мой дом.",
+        "This is my house.",
+        "Esta es mi casa."
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Adjective agreement",
+    "description": "The adjective ending follows the gender and number of the noun.",
+    "columns": [
+      "Gender",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "новый дом",
+        "a new house",
+        "una casa nueva"
+      ],
+      [
+        "feminine",
+        "новая книга",
+        "a new book",
+        "un libro nuevo"
+      ],
+      [
+        "neuter",
+        "новое окно",
+        "a new window",
+        "una ventana nueva"
+      ],
+      [
+        "plural",
+        "новые книги",
+        "new books",
+        "libros nuevos"
+      ],
+      [
+        "soft stem",
+        "синий дом",
+        "a blue house",
+        "una casa azul"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "Learn the teens, which are built from 'ten' plus the digit.",
+    "columns": [
+      "Number",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "один",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "два",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "три",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "четыре",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "пять",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "шесть",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "семь",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "восемь",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "девять",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "десять",
+        "ten",
+        "diez"
+      ],
+      [
+        "11",
+        "одиннадцать",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "двенадцать",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "двадцать",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Nouns are not capitalised in Russian.",
+    "columns": [
+      "Day",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "понедельник",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "вторник",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "среда",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "четверг",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "пятница",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "суббота",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "воскресенье",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Prepositional case: where",
+    "description": "в and на + prepositional ending -е answer 'where?'.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in the house",
+        "в доме",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "at school",
+        "в школе",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "on the table",
+        "на столе",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "in Moscow",
+        "в Москве",
+        "in Moscow",
+        "en Moscú"
+      ],
+      [
+        "in the city",
+        "в городе",
+        "in the city",
+        "en la ciudad"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Question words",
+    "description": "The question word normally comes first.",
+    "columns": [
+      "Word",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who",
+        "кто",
+        "who",
+        "quién"
+      ],
+      [
+        "what",
+        "что",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "где",
+        "where",
+        "dónde"
+      ],
+      [
+        "where to",
+        "куда",
+        "where to",
+        "a dónde"
+      ],
+      [
+        "where from",
+        "откуда",
+        "where from",
+        "de dónde"
+      ],
+      [
+        "when",
+        "когда",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "почему",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "как",
+        "how",
+        "cómo"
+      ],
+      [
+        "how much",
+        "сколько",
+        "how much",
+        "cuánto"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Greetings and politeness",
+    "description": "Use вы forms with people you do not know well.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "greeting (formal)",
+        "Здравствуйте!",
+        "Hello!",
+        "¡Hola! (formal)"
+      ],
+      [
+        "greeting (informal)",
+        "Привет!",
+        "Hi!",
+        "¡Hola! (informal)"
+      ],
+      [
+        "thanks",
+        "Спасибо!",
+        "Thank you!",
+        "¡Gracias!"
+      ],
+      [
+        "please",
+        "Пожалуйста",
+        "Please / you are welcome",
+        "Por favor / de nada"
+      ],
+      [
+        "excuse me",
+        "Извините",
+        "Excuse me",
+        "Perdón"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Time expressions",
+    "description": "Time words usually stand at the beginning or before the verb.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "now",
+        "сейчас",
+        "now",
+        "ahora"
+      ],
+      [
+        "today",
+        "сегодня",
+        "today",
+        "hoy"
+      ],
+      [
+        "tomorrow",
+        "завтра",
+        "tomorrow",
+        "mañana"
+      ],
+      [
+        "yesterday",
+        "вчера",
+        "yesterday",
+        "ayer"
+      ],
+      [
+        "at seven",
+        "в семь часов",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "always",
+        "всегда",
+        "always",
+        "siempre"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "мой, твой, наш agree in gender with the noun.",
+    "columns": [
+      "Person",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (m.)",
+        "мой дом",
+        "my house",
+        "mi casa"
+      ],
+      [
+        "my (f.)",
+        "моя книга",
+        "my book",
+        "mi libro"
+      ],
+      [
+        "my (n.)",
+        "моё окно",
+        "my window",
+        "mi ventana"
+      ],
+      [
+        "your (m.)",
+        "твой дом",
+        "your house",
+        "tu casa"
+      ],
+      [
+        "our",
+        "наш дом",
+        "our house",
+        "nuestra casa"
+      ],
+      [
+        "their",
+        "их дом",
+        "their house",
+        "su casa"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "Past tense",
+    "description": "The past form agrees with the subject: -л, -ла, -ло, -ли.",
+    "columns": [
+      "Person",
+      "Russian (читать)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I (m.)",
+        "читал",
+        "I read (m.)",
+        "leí (m.)"
+      ],
+      [
+        "I (f.)",
+        "читала",
+        "I read (f.)",
+        "leí (f.)"
+      ],
+      [
+        "you (m.)",
+        "читал",
+        "you read (m.)",
+        "leíste (m.)"
+      ],
+      [
+        "he",
+        "читал",
+        "he read",
+        "él leyó"
+      ],
+      [
+        "she",
+        "читала",
+        "she read",
+        "ella leyó"
+      ],
+      [
+        "we",
+        "читали",
+        "we read",
+        "leímos"
+      ],
+      [
+        "they",
+        "читали",
+        "they read",
+        "ellos leyeron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "Future tense",
+    "description": "буду + imperfective infinitive expresses a future action or state.",
+    "columns": [
+      "Person",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "я",
+        "буду читать",
+        "I will read",
+        "leeré"
+      ],
+      [
+        "ты",
+        "будешь читать",
+        "you will read",
+        "leerás"
+      ],
+      [
+        "он / она",
+        "будет читать",
+        "he / she will read",
+        "él / ella leerá"
+      ],
+      [
+        "мы",
+        "будем читать",
+        "we will read",
+        "leeremos"
+      ],
+      [
+        "они",
+        "будут читать",
+        "they will read",
+        "ellos leerán"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "Accusative case",
+    "description": "The direct object takes the accusative; animate masculine nouns look genitive.",
+    "columns": [
+      "Gender",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "m. inanimate",
+        "Я вижу дом.",
+        "I see a house.",
+        "Veo una casa."
+      ],
+      [
+        "m. animate",
+        "Я вижу брата.",
+        "I see my brother.",
+        "Veo a mi hermano."
+      ],
+      [
+        "f.",
+        "Я читаю книгу.",
+        "I am reading a book.",
+        "Leo un libro."
+      ],
+      [
+        "n.",
+        "Я вижу окно.",
+        "I see a window.",
+        "Veo una ventana."
+      ],
+      [
+        "plural",
+        "Я вижу книги.",
+        "I see books.",
+        "Veo libros."
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Genitive case",
+    "description": "The genitive marks possession, absence and origin.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "possession",
+        "дом брата",
+        "my brother's house",
+        "la casa de mi hermano"
+      ],
+      [
+        "absence",
+        "нет времени",
+        "no time",
+        "no hay tiempo"
+      ],
+      [
+        "of + noun",
+        "чашка чая",
+        "a cup of tea",
+        "una taza de té"
+      ],
+      [
+        "from",
+        "из Москвы",
+        "from Moscow",
+        "de Moscú"
+      ],
+      [
+        "quantity",
+        "много людей",
+        "many people",
+        "mucha gente"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Dative case",
+    "description": "The dative marks the person who receives or experiences.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to call",
+        "Я звоню маме.",
+        "I am calling my mother.",
+        "Llamo a mi madre."
+      ],
+      [
+        "to help",
+        "Он помогает брату.",
+        "He helps his brother.",
+        "Él ayuda a su hermano."
+      ],
+      [
+        "to like",
+        "Мне нравится чай.",
+        "I like tea.",
+        "Me gusta el té."
+      ],
+      [
+        "age",
+        "Мне двадцать лет.",
+        "I am twenty.",
+        "Tengo veinte años."
+      ],
+      [
+        "to write",
+        "Мы пишем другу.",
+        "We write to a friend.",
+        "Escribimos a un amigo."
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Instrumental case",
+    "description": "The instrumental marks the tool or the person you are with.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with",
+        "с другом",
+        "with a friend",
+        "con un amigo"
+      ],
+      [
+        "instrument",
+        "пишу ручкой",
+        "I write with a pen",
+        "escribo con un bolígrafo"
+      ],
+      [
+        "by transport",
+        "на машине",
+        "by car",
+        "en coche"
+      ],
+      [
+        "past 'to be'",
+        "Я был врачом.",
+        "I was a doctor.",
+        "Yo era médico."
+      ],
+      [
+        "interested in",
+        "интересуюсь музыкой",
+        "I am interested in music",
+        "me interesa la música"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Prepositional case",
+    "description": "Used after в, на and о for place and topic.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "place",
+        "в доме",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "place",
+        "на столе",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "about",
+        "о работе",
+        "about work",
+        "sobre el trabajo"
+      ],
+      [
+        "about",
+        "о фильме",
+        "about the film",
+        "sobre la película"
+      ],
+      [
+        "in",
+        "в Москве",
+        "in Moscow",
+        "en Moscú"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Verb aspect: an introduction",
+    "description": "Imperfective shows process or habit; perfective shows a completed result.",
+    "columns": [
+      "Aspect",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "imperfective",
+        "Я читал книгу.",
+        "I was reading a book.",
+        "Estaba leyendo un libro."
+      ],
+      [
+        "perfective",
+        "Я прочитал книгу.",
+        "I read the book (to the end).",
+        "Leí el libro (hasta el final)."
+      ],
+      [
+        "imperfective habit",
+        "Я часто читал.",
+        "I often read.",
+        "Leía a menudo."
+      ],
+      [
+        "perfective result",
+        "Я написал письмо.",
+        "I wrote the letter (and finished).",
+        "Escribí la carta (y terminé)."
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Verbs of motion",
+    "description": "One-direction verbs describe a single journey; multi-direction ones describe habits.",
+    "columns": [
+      "Verb",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one direction (on foot)",
+        "Я иду в школу.",
+        "I am walking to school.",
+        "Voy a la escuela a pie."
+      ],
+      [
+        "one direction (vehicle)",
+        "Я еду в Москву.",
+        "I am going to Moscow.",
+        "Voy a Moscú."
+      ],
+      [
+        "repeated (on foot)",
+        "Я хожу в школу.",
+        "I go to school regularly.",
+        "Voy a la escuela habitualmente."
+      ],
+      [
+        "repeated (vehicle)",
+        "Я езжу в Москву.",
+        "I go to Moscow regularly.",
+        "Voy a Moscú habitualmente."
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The particle -ся shows the action turns back on the subject.",
+    "columns": [
+      "Person",
+      "Russian (мыться)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "я",
+        "моюсь",
+        "I wash myself",
+        "me lavo"
+      ],
+      [
+        "ты",
+        "моешься",
+        "you wash yourself",
+        "te lavas"
+      ],
+      [
+        "он / она",
+        "моется",
+        "he / she washes",
+        "se lava"
+      ],
+      [
+        "мы",
+        "моемся",
+        "we wash",
+        "nos lavamos"
+      ],
+      [
+        "они",
+        "моются",
+        "they wash",
+        "se lavan"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "The comparative can be simple (больше) or analytical (более + adjective).",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "больше",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "smaller",
+        "меньше",
+        "smaller",
+        "más pequeño"
+      ],
+      [
+        "better",
+        "лучше",
+        "better",
+        "mejor"
+      ],
+      [
+        "worse",
+        "хуже",
+        "worse",
+        "peor"
+      ],
+      [
+        "than",
+        "старше меня",
+        "older than me",
+        "mayor que yo"
+      ],
+      [
+        "more interesting",
+        "более интересный",
+        "more interesting",
+        "más interesante"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "самый + adjective, or the irregular лучший / худший.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "biggest",
+        "самый большой",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "most beautiful",
+        "самая красивая",
+        "the most beautiful",
+        "la más guapa"
+      ],
+      [
+        "best",
+        "лучший",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "worst",
+        "худший",
+        "the worst",
+        "el peor"
+      ],
+      [
+        "of all",
+        "лучше всех",
+        "better than everyone",
+        "mejor que todos"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Numbers with nouns",
+    "description": "The form of the noun depends on the last digit of the number.",
+    "columns": [
+      "Number",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "один стол",
+        "one table",
+        "una mesa"
+      ],
+      [
+        "2–4",
+        "два стола",
+        "two tables",
+        "dos mesas"
+      ],
+      [
+        "5+",
+        "пять столов",
+        "five tables",
+        "cinco mesas"
+      ],
+      [
+        "2–4 (f.)",
+        "две книги",
+        "two books",
+        "dos libros"
+      ],
+      [
+        "5+ (f.)",
+        "пять книг",
+        "five books",
+        "cinco libros"
+      ],
+      [
+        "many",
+        "много студентов",
+        "many students",
+        "muchos estudiantes"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "Use the bare stem for ты and add -те for вы.",
+    "columns": [
+      "Form",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "informal sg.",
+        "Читай!",
+        "Read!",
+        "¡Lee!"
+      ],
+      [
+        "informal sg.",
+        "Иди сюда!",
+        "Come here!",
+        "¡Ven aquí!"
+      ],
+      [
+        "formal / plural",
+        "Читайте!",
+        "Read! (formal)",
+        "¡Lea! (formal)"
+      ],
+      [
+        "polite request",
+        "Скажите, пожалуйста.",
+        "Please tell me.",
+        "Dígame, por favor."
+      ],
+      [
+        "negative",
+        "Не опаздывай!",
+        "Do not be late!",
+        "¡No llegues tarde!"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Relative который",
+    "description": "который agrees in gender and number with the noun it refers to.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "m. sg.",
+        "дом, который я купил",
+        "the house that I bought",
+        "la casa que compré"
+      ],
+      [
+        "f. sg.",
+        "книга, которую я читаю",
+        "the book that I am reading",
+        "el libro que leo"
+      ],
+      [
+        "n. sg.",
+        "окно, которое открыто",
+        "the window that is open",
+        "la ventana que está abierta"
+      ],
+      [
+        "plural",
+        "друзья, которые пришли",
+        "the friends who came",
+        "los amigos que vinieron"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Basic conjunctions",
+    "description": "These join simple clauses.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "cause",
+        "потому что",
+        "because",
+        "porque"
+      ],
+      [
+        "result",
+        "поэтому",
+        "therefore",
+        "por eso"
+      ],
+      [
+        "condition",
+        "если",
+        "if",
+        "si"
+      ],
+      [
+        "contrast",
+        "но",
+        "but",
+        "pero"
+      ],
+      [
+        "addition",
+        "и",
+        "and",
+        "y"
+      ],
+      [
+        "alternative",
+        "или",
+        "or",
+        "o"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Aspect in the past",
+    "description": "Imperfective describes the process or habit; perfective the completed act.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "process",
+        "Он читал книгу.",
+        "He was reading the book.",
+        "Él leía el libro."
+      ],
+      [
+        "result",
+        "Он прочитал книгу.",
+        "He finished the book.",
+        "Él terminó el libro."
+      ],
+      [
+        "habit",
+        "Мы часто ходили.",
+        "We often went.",
+        "Íbamos a menudo."
+      ],
+      [
+        "single act",
+        "Она написала письмо.",
+        "She wrote a letter.",
+        "Ella escribió una carta."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Prefixes of motion",
+    "description": "Prefixes change the direction of a motion verb.",
+    "columns": [
+      "Prefix",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "при-",
+        "пришёл",
+        "arrived (on foot)",
+        "llegó a pie"
+      ],
+      [
+        "у-",
+        "ушёл",
+        "left / went away",
+        "se marchó"
+      ],
+      [
+        "вы-",
+        "вышел",
+        "went out",
+        "salió"
+      ],
+      [
+        "в-",
+        "вошёл",
+        "went in",
+        "entró"
+      ],
+      [
+        "по-",
+        "пошёл",
+        "set off",
+        "se puso en camino"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "The conditional with бы",
+    "description": "бы turns a past form into a conditional.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "would",
+        "Я бы поехал.",
+        "I would go.",
+        "Iría."
+      ],
+      [
+        "if + past",
+        "Если бы я знал…",
+        "If I knew…",
+        "Si lo supiera…"
+      ],
+      [
+        "would like",
+        "Я хотел бы.",
+        "I would like.",
+        "Me gustaría."
+      ],
+      [
+        "past conditional",
+        "Он бы пришёл.",
+        "He would have come.",
+        "Él habría venido."
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Obligation and permission",
+    "description": "должен, нужно, можно and нельзя cover necessity, permission and prohibition.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "must",
+        "Я должен работать.",
+        "I must work.",
+        "Debo trabajar."
+      ],
+      [
+        "may",
+        "Можно войти?",
+        "May I come in?",
+        "¿Puedo entrar?"
+      ],
+      [
+        "must not",
+        "Здесь нельзя курить.",
+        "Smoking is not allowed here.",
+        "Aquí no se puede fumar."
+      ],
+      [
+        "need",
+        "Мне нужно идти.",
+        "I need to go.",
+        "Necesito ir."
+      ],
+      [
+        "possible",
+        "Это возможно.",
+        "It is possible.",
+        "Es posible."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles behave like adjectives and agree with their noun.",
+    "columns": [
+      "Type",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "active present",
+        "читающий",
+        "reading (a person)",
+        "que lee"
+      ],
+      [
+        "active past",
+        "прочитавший",
+        "having read",
+        "que ha leído"
+      ],
+      [
+        "passive present",
+        "читаемый",
+        "being read",
+        "que es leído"
+      ],
+      [
+        "passive past",
+        "прочитанный",
+        "read (finished)",
+        "leído"
+      ],
+      [
+        "short passive",
+        "построен",
+        "is built",
+        "fue construido"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Gerunds",
+    "description": "Gerunds describe a secondary action of the same subject.",
+    "columns": [
+      "Type",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "imperfective",
+        "читая",
+        "while reading",
+        "leyendo"
+      ],
+      [
+        "imperfective",
+        "идя",
+        "while walking",
+        "yendo"
+      ],
+      [
+        "perfective",
+        "прочитав",
+        "having read",
+        "habiendo leído"
+      ],
+      [
+        "perfective",
+        "придя",
+        "having come",
+        "habiendo llegado"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "который with prepositions",
+    "description": "The preposition stands before который.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in which",
+        "дом, в котором я живу",
+        "the house in which I live",
+        "la casa en la que vivo"
+      ],
+      [
+        "with whom",
+        "человек, с которым я работаю",
+        "the person with whom I work",
+        "la persona con quien trabajo"
+      ],
+      [
+        "about which",
+        "книга, о которой мы говорили",
+        "the book we talked about",
+        "el libro del que hablamos"
+      ],
+      [
+        "to whom",
+        "друг, которому я пишу",
+        "the friend I write to",
+        "el amigo al que escribo"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Concession: хотя / несмотря на",
+    "description": "хотя takes a clause; несмотря на takes a noun.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "although",
+        "хотя",
+        "although",
+        "aunque"
+      ],
+      [
+        "although + clause",
+        "хотя было поздно",
+        "although it was late",
+        "aunque era tarde"
+      ],
+      [
+        "despite + noun",
+        "несмотря на дождь",
+        "despite the rain",
+        "a pesar de la lluvia"
+      ],
+      [
+        "despite the fact that",
+        "несмотря на то что",
+        "despite the fact that",
+        "a pesar de que"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "Reported statements use что; reported requests use the infinitive or чтобы.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "Он сказал, что занят.",
+        "He said that he was busy.",
+        "Dijo que estaba ocupado."
+      ],
+      [
+        "question",
+        "Он спросил, где я живу.",
+        "He asked where I live.",
+        "Preguntó dónde vivo."
+      ],
+      [
+        "request",
+        "Она попросила меня помочь.",
+        "She asked me to help.",
+        "Me pidió que la ayudara."
+      ],
+      [
+        "future in the past",
+        "Он сказал, что приедет.",
+        "He said that he would come.",
+        "Dijo que vendría."
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Negative pronouns",
+    "description": "Russian uses a double negative: никто … не.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nothing",
+        "ничего",
+        "nothing",
+        "nada"
+      ],
+      [
+        "nobody",
+        "никто",
+        "nobody",
+        "nadie"
+      ],
+      [
+        "never",
+        "никогда",
+        "never",
+        "nunca"
+      ],
+      [
+        "nowhere",
+        "никуда",
+        "nowhere (to)",
+        "a ningún sitio"
+      ],
+      [
+        "double negative",
+        "Никто никогда не знал.",
+        "Nobody ever knew.",
+        "Nadie supo nunca."
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Short adjectives",
+    "description": "Short forms are used mainly as predicates.",
+    "columns": [
+      "Long form",
+      "Short form",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "свободный",
+        "свободен",
+        "free",
+        "libre"
+      ],
+      [
+        "готовая",
+        "готова",
+        "ready (f.)",
+        "lista"
+      ],
+      [
+        "здоровые",
+        "здоровы",
+        "healthy (pl.)",
+        "sanos"
+      ],
+      [
+        "возможный",
+        "возможно",
+        "possible",
+        "posible"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "чем… тем and comparatives",
+    "description": "чем introduces the compared element; тем introduces the result.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the more the better",
+        "чем больше, тем лучше",
+        "the more, the better",
+        "cuanto más, mejor"
+      ],
+      [
+        "the sooner the better",
+        "чем раньше, тем лучше",
+        "the sooner, the better",
+        "cuanto antes, mejor"
+      ],
+      [
+        "comparative",
+        "Он старше меня.",
+        "He is older than me.",
+        "Él es mayor que yo."
+      ],
+      [
+        "comparative with чем",
+        "Она выше, чем я.",
+        "She is taller than I am.",
+        "Ella es más alta que yo."
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Passive voice",
+    "description": "The passive uses -ся verbs or short passive participles.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reflexive passive",
+        "Дом строится.",
+        "The house is being built.",
+        "La casa está siendo construida."
+      ],
+      [
+        "short participle",
+        "Дом был построен.",
+        "The house was built.",
+        "La casa fue construida."
+      ],
+      [
+        "with agent",
+        "Книга написана автором.",
+        "The book was written by the author.",
+        "El libro fue escrito por el autor."
+      ],
+      [
+        "present passive",
+        "Проблема изучается.",
+        "The problem is being studied.",
+        "El problema está siendo estudiado."
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Participial and gerund phrases",
+    "description": "These are typical of formal written Russian.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "читая книгу",
+        "while reading a book",
+        "leyendo un libro"
+      ],
+      [
+        "having read",
+        "прочитав книгу",
+        "having read the book",
+        "habiendo leído el libro"
+      ],
+      [
+        "arriving",
+        "придя домой",
+        "having come home",
+        "habiendo llegado a casa"
+      ],
+      [
+        "having done",
+        "сделав всё",
+        "having done everything",
+        "habiendo hecho todo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "если бы (unreal conditions)",
+    "description": "если бы + past describes an unreal condition.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "unreal present",
+        "Если бы я знал…",
+        "If I knew…",
+        "Si supiera…"
+      ],
+      [
+        "unreal past",
+        "Если бы я знал раньше…",
+        "If I had known earlier…",
+        "Si lo hubiera sabido antes…"
+      ],
+      [
+        "would + infinitive",
+        "Я бы пришёл.",
+        "I would come.",
+        "Vendría."
+      ],
+      [
+        "would have + participle",
+        "Я бы пришёл вчера.",
+        "I would have come yesterday.",
+        "Habría venido ayer."
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Aspect in the infinitive",
+    "description": "The aspect of an infinitive depends on the meaning of the main verb.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "start + imperfective",
+        "начал читать",
+        "started reading",
+        "empezó a leer"
+      ],
+      [
+        "manage + perfective",
+        "успел прочитать",
+        "managed to read",
+        "logró leer"
+      ],
+      [
+        "continue + imperfective",
+        "продолжал читать",
+        "continued reading",
+        "continuó leyendo"
+      ],
+      [
+        "forget + perfective",
+        "забыл отправить",
+        "forgot to send",
+        "olvidó enviar"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Formal prepositions",
+    "description": "These prepositions govern the genitive case.",
+    "columns": [
+      "Preposition",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "during",
+        "в течение недели",
+        "during the week",
+        "durante la semana"
+      ],
+      [
+        "because of",
+        "из-за дождя",
+        "because of the rain",
+        "por la lluvia"
+      ],
+      [
+        "as a result of",
+        "вследствие ошибки",
+        "as a result of the mistake",
+        "a causa del error"
+      ],
+      [
+        "in connection with",
+        "в связи с этим",
+        "in connection with this",
+        "en relación con esto"
+      ],
+      [
+        "after",
+        "после работы",
+        "after work",
+        "después del trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Verbal nouns",
+    "description": "Abstract nouns in -ение/-ание are very common in formal style.",
+    "columns": [
+      "Verb",
+      "Noun",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "решить",
+        "решение",
+        "decision",
+        "decisión"
+      ],
+      [
+        "изучать",
+        "изучение",
+        "study (noun)",
+        "estudio"
+      ],
+      [
+        "принять",
+        "принятие",
+        "adoption",
+        "adopción"
+      ],
+      [
+        "развивать",
+        "развитие",
+        "development",
+        "desarrollo"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Complex conjunctions",
+    "description": "These introduce temporal clauses.",
+    "columns": [
+      "Conjunction",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "as (gradually)",
+        "по мере того как",
+        "as",
+        "a medida que"
+      ],
+      [
+        "while",
+        "в то время как",
+        "while",
+        "mientras"
+      ],
+      [
+        "after",
+        "после того как",
+        "after",
+        "después de que"
+      ],
+      [
+        "before",
+        "до того как",
+        "before",
+        "antes de que"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Concessive clauses",
+    "description": "несмотря на то что is the full concessive conjunction.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "despite the fact that",
+        "несмотря на то что",
+        "despite the fact that",
+        "a pesar de que"
+      ],
+      [
+        "although",
+        "хотя",
+        "although",
+        "aunque"
+      ],
+      [
+        "however",
+        "однако",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "but on the other hand",
+        "зато",
+        "but (compensating)",
+        "pero en cambio"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "причём and притом",
+    "description": "Both add an extra, often evaluative, piece of information.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "and moreover",
+        "причём",
+        "and moreover",
+        "y además"
+      ],
+      [
+        "and besides",
+        "притом",
+        "and besides",
+        "y por otra parte"
+      ],
+      [
+        "example",
+        "Дом большой, причём новый.",
+        "The house is big, and new at that.",
+        "La casa es grande, y además nueva."
+      ],
+      [
+        "example",
+        "Это дорого, притом бесполезно.",
+        "It is expensive, and besides useless.",
+        "Es caro, y además inútil."
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "что or чтобы",
+    "description": "что introduces a fact; чтобы introduces a wish or purpose.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that (fact)",
+        "Я думаю, что он придёт.",
+        "I think that he will come.",
+        "Creo que vendrá."
+      ],
+      [
+        "so that (wish)",
+        "Я хочу, чтобы он пришёл.",
+        "I want him to come.",
+        "Quiero que venga."
+      ],
+      [
+        "in order to",
+        "Я пришёл, чтобы помочь.",
+        "I came in order to help.",
+        "Vine para ayudar."
+      ],
+      [
+        "rule",
+        "чтобы + past form",
+        "чтобы + past form",
+        "чтобы + forma pasada"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Double negation",
+    "description": "A negative pronoun always brings не with the verb.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "never",
+        "Я никогда не был там.",
+        "I have never been there.",
+        "Nunca he estado allí."
+      ],
+      [
+        "nothing",
+        "Он ничего не сказал.",
+        "He said nothing.",
+        "No dijo nada."
+      ],
+      [
+        "nobody",
+        "Никто не пришёл.",
+        "Nobody came.",
+        "Nadie vino."
+      ],
+      [
+        "rule",
+        "никто … не",
+        "nobody … not",
+        "nadie … no"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "однако and зато",
+    "description": "однако contrasts; зато adds a compensating positive.",
+    "columns": [
+      "Use",
+      "Russian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "however",
+        "однако",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "but on the other hand",
+        "зато",
+        "but (compensating)",
+        "pero en cambio"
+      ],
+      [
+        "example",
+        "Он умный, однако ленивый.",
+        "He is clever, however lazy.",
+        "Es listo, sin embargo perezoso."
+      ],
+      [
+        "example",
+        "Дом старый, зато уютный.",
+        "The house is old, but cosy.",
+        "La casa es vieja, pero acogedora."
+      ]
+    ]
+  }
+]
