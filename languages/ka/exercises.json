@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ ვარ სტუდენტი.",
+        "answer": "მე",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ მუშაობ.",
+        "answer": "შენ",
+        "translation_en": "You work.",
+        "translation_es": "Tú trabajas."
+      },
+      {
+        "sentence": "___ არის ექიმი.",
+        "answer": "ის",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "___ ვსწავლობთ.",
+        "answer": "ჩვენ",
+        "translation_en": "We study.",
+        "translation_es": "Estudiamos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of ყოფნა (to be) into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___.",
+        "answer": "ვარ",
+        "translation_en": "I am.",
+        "translation_es": "Yo soy."
+      },
+      {
+        "sentence": "შენ ___.",
+        "answer": "ხარ",
+        "translation_en": "You are.",
+        "translation_es": "Tú eres."
+      },
+      {
+        "sentence": "ის ___.",
+        "answer": "არის",
+        "translation_en": "He is.",
+        "translation_es": "Él es."
+      },
+      {
+        "sentence": "ჩვენ ___.",
+        "answer": "ვართ",
+        "translation_en": "We are.",
+        "translation_es": "Nosotros somos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct form of ქონა (to have) into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___ წიგნი.",
+        "answer": "მაქვს",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "შენ ___ წიგნი.",
+        "answer": "გაქვს",
+        "translation_en": "You have a book.",
+        "translation_es": "Tienes un libro."
+      },
+      {
+        "sentence": "მას ___ წიგნი.",
+        "answer": "აქვს",
+        "translation_en": "He has a book.",
+        "translation_es": "Él tiene un libro."
+      },
+      {
+        "sentence": "ჩვენ ___ წიგნი.",
+        "answer": "გვაქვს",
+        "translation_en": "We have a book.",
+        "translation_es": "Tenemos un libro."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the plural ending -ებ into each gap.",
+    "items": [
+      {
+        "sentence": "წიგნი → წიგნ___",
+        "answer": "ები",
+        "translation_en": "books",
+        "translation_es": "libros"
+      },
+      {
+        "sentence": "სახლი → სახლ___",
+        "answer": "ები",
+        "translation_en": "houses",
+        "translation_es": "casas"
+      },
+      {
+        "sentence": "მასწავლებელი → მასწავლებლ___",
+        "answer": "ები",
+        "translation_en": "teachers",
+        "translation_es": "profesores"
+      },
+      {
+        "sentence": "კატა → კატ___",
+        "answer": "ები",
+        "translation_en": "cats",
+        "translation_es": "gatos"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag არ into each gap for the negative.",
+    "items": [
+      {
+        "sentence": "მე ___ ვმუშაობ.",
+        "answer": "არ",
+        "translation_en": "I do not work.",
+        "translation_es": "No trabajo."
+      },
+      {
+        "sentence": "ის ___ არის ექიმი.",
+        "answer": "არ",
+        "translation_en": "He is not a doctor.",
+        "translation_es": "Él no es médico."
+      },
+      {
+        "sentence": "ჩვენ ___ ვსწავლობთ.",
+        "answer": "არ",
+        "translation_en": "We do not study.",
+        "translation_es": "No estudiamos."
+      },
+      {
+        "sentence": "შენ ___ მუშაობ.",
+        "answer": "არ",
+        "translation_en": "You do not work.",
+        "translation_es": "No trabajas."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ ხარ?",
+        "answer": "სად",
+        "translation_en": "Where are you?",
+        "translation_es": "¿Dónde estás?"
+      },
+      {
+        "sentence": "___ არის ეს?",
+        "answer": "რა",
+        "translation_en": "What is this?",
+        "translation_es": "¿Qué es esto?"
+      },
+      {
+        "sentence": "___ ხარ?",
+        "answer": "ვინ",
+        "translation_en": "Who are you?",
+        "translation_es": "¿Quién eres?"
+      },
+      {
+        "sentence": "___ მოდიხარ?",
+        "answer": "როდის",
+        "translation_en": "When are you coming?",
+        "translation_es": "¿Cuándo vienes?"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag ეს or ის into each gap.",
+    "items": [
+      {
+        "sentence": "___ წიგნია.",
+        "answer": "ეს",
+        "translation_en": "This is a book.",
+        "translation_es": "Esto es un libro."
+      },
+      {
+        "sentence": "___ სახლია.",
+        "answer": "ის",
+        "translation_en": "That is a house.",
+        "translation_es": "Esa es una casa."
+      },
+      {
+        "sentence": "___ ჩემი მეგობარია.",
+        "answer": "ეს",
+        "translation_en": "This is my friend.",
+        "translation_es": "Este es mi amigo."
+      },
+      {
+        "sentence": "___ ჩვენი სკოლაა.",
+        "answer": "ეს",
+        "translation_en": "This is our school.",
+        "translation_es": "Esta es nuestra escuela."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "მე მაქვს ___ წიგნი.",
+        "answer": "ორი",
+        "translation_en": "I have two books.",
+        "translation_es": "Tengo dos libros."
+      },
+      {
+        "sentence": "აქ ___ მოსწავლეა.",
+        "answer": "სამი",
+        "translation_en": "There are three pupils here.",
+        "translation_es": "Aquí hay tres alumnos."
+      },
+      {
+        "sentence": "მე ___ წლის ვარ.",
+        "answer": "ათი",
+        "translation_en": "I am ten years old.",
+        "translation_es": "Tengo diez años."
+      },
+      {
+        "sentence": "მე მაქვს ___ სახლი.",
+        "answer": "ერთი",
+        "translation_en": "I have one house.",
+        "translation_es": "Tengo una casa."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct day of the week into each gap.",
+    "items": [
+      {
+        "sentence": "დღეს ___.",
+        "answer": "ორშაბათი",
+        "translation_en": "Today is Monday.",
+        "translation_es": "Hoy es lunes."
+      },
+      {
+        "sentence": "ხვალ ___.",
+        "answer": "სამშაბათი",
+        "translation_en": "Tomorrow is Tuesday.",
+        "translation_es": "Mañana es martes."
+      },
+      {
+        "sentence": "___ დღეა.",
+        "answer": "კვირა",
+        "translation_en": "It is Sunday.",
+        "translation_es": "Es domingo."
+      },
+      {
+        "sentence": "შაბათს და ___ არ ვმუშაობ.",
+        "answer": "კვირას",
+        "translation_en": "On Saturday and Sunday I do not work.",
+        "translation_es": "El sábado y el domingo no trabajo."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "___ სახლი",
+        "answer": "დიდი",
+        "translation_en": "a big house",
+        "translation_es": "una casa grande"
+      },
+      {
+        "sentence": "___ წიგნი",
+        "answer": "ახალი",
+        "translation_en": "a new book",
+        "translation_es": "un libro nuevo"
+      },
+      {
+        "sentence": "___ ქალაქი",
+        "answer": "ლამაზი",
+        "translation_en": "a beautiful city",
+        "translation_es": "una ciudad bonita"
+      },
+      {
+        "sentence": "___ ბავშვი",
+        "answer": "პატარა",
+        "translation_en": "a small child",
+        "translation_es": "un niño pequeño"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct form of მუშაობა into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___.",
+        "answer": "ვმუშაობ",
+        "translation_en": "I work.",
+        "translation_es": "Yo trabajo."
+      },
+      {
+        "sentence": "შენ ___.",
+        "answer": "მუშაობ",
+        "translation_en": "You work.",
+        "translation_es": "Tú trabajas."
+      },
+      {
+        "sentence": "ის ___.",
+        "answer": "მუშაობს",
+        "translation_en": "He works.",
+        "translation_es": "Él trabaja."
+      },
+      {
+        "sentence": "ჩვენ ___.",
+        "answer": "ვმუშაობთ",
+        "translation_en": "We work.",
+        "translation_es": "Nosotros trabajamos."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct form of ცხოვრება into each gap.",
+    "items": [
+      {
+        "sentence": "მე თბილისში ___.",
+        "answer": "ვცხოვრობ",
+        "translation_en": "I live in Tbilisi.",
+        "translation_es": "Vivo en Tbilisi."
+      },
+      {
+        "sentence": "შენ სად ___?",
+        "answer": "ცხოვრობ",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "ის ლონდონში ___.",
+        "answer": "ცხოვრობს",
+        "translation_en": "He lives in London.",
+        "translation_es": "Él vive en Londres."
+      },
+      {
+        "sentence": "ჩვენ აქ ___.",
+        "answer": "ვცხოვრობთ",
+        "translation_en": "We live here.",
+        "translation_es": "Vivimos aquí."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct form of ჭამა into each gap.",
+    "items": [
+      {
+        "sentence": "მე პურს ___.",
+        "answer": "ვჭამ",
+        "translation_en": "I eat bread.",
+        "translation_es": "Como pan."
+      },
+      {
+        "sentence": "შენ ___.",
+        "answer": "ჭამ",
+        "translation_en": "You eat.",
+        "translation_es": "Tú comes."
+      },
+      {
+        "sentence": "ის ___.",
+        "answer": "ჭამს",
+        "translation_en": "He eats.",
+        "translation_es": "Él come."
+      },
+      {
+        "sentence": "ჩვენ ___.",
+        "answer": "ვჭამთ",
+        "translation_en": "We eat.",
+        "translation_es": "Comemos."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "___ სახლი",
+        "answer": "ჩემი",
+        "translation_en": "my house",
+        "translation_es": "mi casa"
+      },
+      {
+        "sentence": "___ წიგნი",
+        "answer": "შენი",
+        "translation_en": "your book",
+        "translation_es": "tu libro"
+      },
+      {
+        "sentence": "___ დედა",
+        "answer": "მისი",
+        "translation_en": "his mother",
+        "translation_es": "su madre"
+      },
+      {
+        "sentence": "___ სკოლა",
+        "answer": "ჩვენი",
+        "translation_en": "our school",
+        "translation_es": "nuestra escuela"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the ending -ში into each gap.",
+    "items": [
+      {
+        "sentence": "სახლ___ ვარ.",
+        "answer": "ში",
+        "translation_en": "I am at home.",
+        "translation_es": "Estoy en casa."
+      },
+      {
+        "sentence": "სკოლა___ ვარ.",
+        "answer": "ში",
+        "translation_en": "I am at school.",
+        "translation_es": "Estoy en la escuela."
+      },
+      {
+        "sentence": "ქალაქ___ ვცხოვრობ.",
+        "answer": "ში",
+        "translation_en": "I live in the city.",
+        "translation_es": "Vivo en la ciudad."
+      },
+      {
+        "sentence": "თბილის___ ვცხოვრობ.",
+        "answer": "ში",
+        "translation_en": "I live in Tbilisi.",
+        "translation_es": "Vivo en Tbilisi."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the plural ending into each gap.",
+    "items": [
+      {
+        "sentence": "წიგნ___ მაგიდაზეა.",
+        "answer": "ები",
+        "translation_en": "The books are on the table.",
+        "translation_es": "Los libros están sobre la mesa."
+      },
+      {
+        "sentence": "სახლ___ დიდია.",
+        "answer": "ები",
+        "translation_en": "The houses are big.",
+        "translation_es": "Las casas son grandes."
+      },
+      {
+        "sentence": "ბავშვ___ თამაშობენ.",
+        "answer": "ები",
+        "translation_en": "The children are playing.",
+        "translation_es": "Los niños juegan."
+      },
+      {
+        "sentence": "მასწავლებლ___ მოვიდნენ.",
+        "answer": "ები",
+        "translation_en": "The teachers came.",
+        "translation_es": "Los profesores vinieron."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag ხომ into each gap.",
+    "items": [
+      {
+        "sentence": "შენ ქართველი ___.",
+        "answer": "ხომ",
+        "translation_en": "You are Georgian, aren't you?",
+        "translation_es": "Eres georgiano, ¿verdad?"
+      },
+      {
+        "sentence": "ის სტუდენტია ___.",
+        "answer": "ხომ",
+        "translation_en": "He is a student, isn't he?",
+        "translation_es": "Él es estudiante, ¿verdad?"
+      },
+      {
+        "sentence": "ეს შენი წიგნია ___.",
+        "answer": "ხომ",
+        "translation_en": "This is your book, isn't it?",
+        "translation_es": "Este es tu libro, ¿verdad?"
+      },
+      {
+        "sentence": "თქვენ მუშაობთ ___.",
+        "answer": "ხომ",
+        "translation_en": "You work, don't you?",
+        "translation_es": "Trabajáis, ¿verdad?"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct polite expression into each gap.",
+    "items": [
+      {
+        "sentence": "___ (hello)",
+        "answer": "გამარჯობა",
+        "translation_en": "Hello",
+        "translation_es": "Hola"
+      },
+      {
+        "sentence": "___ (thank you)",
+        "answer": "მადლობა",
+        "translation_en": "Thank you",
+        "translation_es": "Gracias"
+      },
+      {
+        "sentence": "___ (please)",
+        "answer": "თუ შეიძლება",
+        "translation_en": "Please",
+        "translation_es": "Por favor"
+      },
+      {
+        "sentence": "___ (sorry)",
+        "answer": "ბოდიში",
+        "translation_en": "Sorry",
+        "translation_es": "Perdón"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct time word into each gap.",
+    "items": [
+      {
+        "sentence": "___ სკოლაში მივდივარ.",
+        "answer": "დღეს",
+        "translation_en": "Today I go to school.",
+        "translation_es": "Hoy voy a la escuela."
+      },
+      {
+        "sentence": "___ სამსახურში წავალ.",
+        "answer": "ხვალ",
+        "translation_en": "Tomorrow I will go to work.",
+        "translation_es": "Mañana iré al trabajo."
+      },
+      {
+        "sentence": "___ სახლში ვიყავი.",
+        "answer": "გუშინ",
+        "translation_en": "Yesterday I was at home.",
+        "translation_es": "Ayer estuve en casa."
+      },
+      {
+        "sentence": "___ ვმუშაობ.",
+        "answer": "ახლა",
+        "translation_en": "I am working now.",
+        "translation_es": "Ahora trabajo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct language form into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___ ვლაპარაკობ.",
+        "answer": "ქართულად",
+        "translation_en": "I speak Georgian.",
+        "translation_es": "Hablo georgiano."
+      },
+      {
+        "sentence": "ის ___ ლაპარაკობს.",
+        "answer": "ინგლისურად",
+        "translation_en": "He speaks English.",
+        "translation_es": "Él habla inglés."
+      },
+      {
+        "sentence": "ჩვენ ___ ვლაპარაკობთ.",
+        "answer": "ესპანურად",
+        "translation_en": "We speak Spanish.",
+        "translation_es": "Hablamos español."
+      },
+      {
+        "sentence": "შენ ___ ლაპარაკობ?",
+        "answer": "რუსულად",
+        "translation_en": "Do you speak Russian?",
+        "translation_es": "¿Hablas ruso?"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct form of მიდის (to go) into each gap.",
+    "items": [
+      {
+        "sentence": "მე სკოლაში ___.",
+        "answer": "მივდივარ",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "შენ სად ___?",
+        "answer": "მიდიხარ",
+        "translation_en": "Where are you going?",
+        "translation_es": "¿A dónde vas?"
+      },
+      {
+        "sentence": "ის სახლში ___.",
+        "answer": "მიდის",
+        "translation_en": "He goes home.",
+        "translation_es": "Él va a casa."
+      },
+      {
+        "sentence": "ჩვენ სამსახურში ___.",
+        "answer": "მივდივართ",
+        "translation_en": "We go to work.",
+        "translation_es": "Vamos al trabajo."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the future form into each gap.",
+    "items": [
+      {
+        "sentence": "ხვალ ___.",
+        "answer": "ვიმუშავებ",
+        "translation_en": "Tomorrow I will work.",
+        "translation_es": "Mañana trabajaré."
+      },
+      {
+        "sentence": "ის ___.",
+        "answer": "იმუშავებს",
+        "translation_en": "He will work.",
+        "translation_es": "Él trabajará."
+      },
+      {
+        "sentence": "ჩვენ ___.",
+        "answer": "ვიმუშავებთ",
+        "translation_en": "We will work.",
+        "translation_es": "Trabajaremos."
+      },
+      {
+        "sentence": "შენ ___.",
+        "answer": "იმუშავებ",
+        "translation_en": "You will work.",
+        "translation_es": "Trabajarás."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the past (aorist) form into each gap.",
+    "items": [
+      {
+        "sentence": "გუშინ ___.",
+        "answer": "ვიმუშავე",
+        "translation_en": "Yesterday I worked.",
+        "translation_es": "Ayer trabajé."
+      },
+      {
+        "sentence": "ის ___.",
+        "answer": "იმუშავა",
+        "translation_en": "He worked.",
+        "translation_es": "Él trabajó."
+      },
+      {
+        "sentence": "ჩვენ ___.",
+        "answer": "ვიმუშავეთ",
+        "translation_en": "We worked.",
+        "translation_es": "Trabajamos."
+      },
+      {
+        "sentence": "შენ ___.",
+        "answer": "იმუშავე",
+        "translation_en": "You worked.",
+        "translation_es": "Trabajaste."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the subject or verb of a transitive past sentence into each gap.",
+    "items": [
+      {
+        "sentence": "___ წერილი დავწერე.",
+        "answer": "მე",
+        "translation_en": "I wrote the letter.",
+        "translation_es": "Escribí la carta."
+      },
+      {
+        "sentence": "მან წიგნი ___.",
+        "answer": "წაიკითხა",
+        "translation_en": "He read the book.",
+        "translation_es": "Él leyó el libro."
+      },
+      {
+        "sentence": "მე წყალი ___.",
+        "answer": "დავლიე",
+        "translation_en": "I drank water.",
+        "translation_es": "Bebí agua."
+      },
+      {
+        "sentence": "მან სიმღერა ___.",
+        "answer": "იმღერა",
+        "translation_en": "He sang a song.",
+        "translation_es": "Él cantó una canción."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct dative form into each gap.",
+    "items": [
+      {
+        "sentence": "ის ___ ეხმარება.",
+        "answer": "მე",
+        "translation_en": "He helps me.",
+        "translation_es": "Él me ayuda."
+      },
+      {
+        "sentence": "მე ___ ვაძლევ წიგნს.",
+        "answer": "მას",
+        "translation_en": "I give him the book.",
+        "translation_es": "Le doy el libro a él."
+      },
+      {
+        "sentence": "ის ___ ეუბნება.",
+        "answer": "ჩვენ",
+        "translation_en": "He tells us.",
+        "translation_es": "Él nos dice."
+      },
+      {
+        "sentence": "შენ ___ ეხმარები.",
+        "answer": "მათ",
+        "translation_en": "You help them.",
+        "translation_es": "Tú les ayudas."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the genitive form into each gap.",
+    "items": [
+      {
+        "sentence": "___ სახლი.",
+        "answer": "დედის",
+        "translation_en": "My mother's house.",
+        "translation_es": "La casa de mi madre."
+      },
+      {
+        "sentence": "___ წიგნი.",
+        "answer": "მასწავლებლის",
+        "translation_en": "The teacher's book.",
+        "translation_es": "El libro del profesor."
+      },
+      {
+        "sentence": "___ სახელი.",
+        "answer": "მეგობრის",
+        "translation_en": "My friend's name.",
+        "translation_es": "El nombre de mi amigo."
+      },
+      {
+        "sentence": "___ დედაქალაქი.",
+        "answer": "საქართველოს",
+        "translation_en": "The capital of Georgia.",
+        "translation_es": "La capital de Georgia."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the instrumental form into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___ ვწერ.",
+        "answer": "კალმით",
+        "translation_en": "I write with a pen.",
+        "translation_es": "Escribo con un bolígrafo."
+      },
+      {
+        "sentence": "ის ___ მიდის.",
+        "answer": "მანქანით",
+        "translation_en": "He goes by car.",
+        "translation_es": "Él va en coche."
+      },
+      {
+        "sentence": "ჩვენ ___ ვიმოგზაურეთ.",
+        "answer": "მატარებლით",
+        "translation_en": "We travelled by train.",
+        "translation_es": "Viajamos en tren."
+      },
+      {
+        "sentence": "ის ___ ლაპარაკობს.",
+        "answer": "ქართულად",
+        "translation_en": "He speaks Georgian.",
+        "translation_es": "Él habla georgiano."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the adverbial form into each gap.",
+    "items": [
+      {
+        "sentence": "მე მასწავლებლ___ ვმუშაობ.",
+        "answer": "ად",
+        "translation_en": "I work as a teacher.",
+        "translation_es": "Trabajo como profesor."
+      },
+      {
+        "sentence": "ის ექიმ___ მუშაობს.",
+        "answer": "ად",
+        "translation_en": "He works as a doctor.",
+        "translation_es": "Él trabaja como médico."
+      },
+      {
+        "sentence": "ჩვენ ინჟინრ___ ვმუშაობთ.",
+        "answer": "ებად",
+        "translation_en": "We work as engineers.",
+        "translation_es": "Trabajamos como ingenieros."
+      },
+      {
+        "sentence": "ის მეგობრ___ დარჩა.",
+        "answer": "ად",
+        "translation_en": "He remained as a friend.",
+        "translation_es": "Se quedó como amigo."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct object marker into each gap.",
+    "items": [
+      {
+        "sentence": "ის მე ___.",
+        "answer": "მხედავს",
+        "translation_en": "He sees me.",
+        "translation_es": "Él me ve."
+      },
+      {
+        "sentence": "მე ის ___.",
+        "answer": "ვხედავ",
+        "translation_en": "I see him.",
+        "translation_es": "Lo veo."
+      },
+      {
+        "sentence": "ის ჩვენ ___.",
+        "answer": "გვხედავს",
+        "translation_en": "He sees us.",
+        "translation_es": "Nos ve."
+      },
+      {
+        "sentence": "ჩვენ ისინი ___.",
+        "answer": "ვხედავთ",
+        "translation_en": "We see them.",
+        "translation_es": "Los vemos."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the comparative form into each gap.",
+    "items": [
+      {
+        "sentence": "ეს სახლი ___ დიდია.",
+        "answer": "უფრო",
+        "translation_en": "This house is bigger.",
+        "translation_es": "Esta casa es más grande."
+      },
+      {
+        "sentence": "ის ჩემზე ___ არის.",
+        "answer": "მაღალი",
+        "translation_en": "He is taller than me.",
+        "translation_es": "Él es más alto que yo."
+      },
+      {
+        "sentence": "ეს წიგნი ___ საინტერესოა.",
+        "answer": "უფრო",
+        "translation_en": "This book is more interesting.",
+        "translation_es": "Este libro es más interesante."
+      },
+      {
+        "sentence": "ჩემი სახლი მისაზე ___ არის.",
+        "answer": "დიდი",
+        "translation_en": "My house is bigger than his.",
+        "translation_es": "Mi casa es más grande que la suya."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag ყველაზე into each gap.",
+    "items": [
+      {
+        "sentence": "ეს ___ დიდი სახლია.",
+        "answer": "ყველაზე",
+        "translation_en": "This is the biggest house.",
+        "translation_es": "Esta es la casa más grande."
+      },
+      {
+        "sentence": "ის ___ კარგი მეგობარია.",
+        "answer": "ყველაზე",
+        "translation_en": "He is the best friend.",
+        "translation_es": "Él es el mejor amigo."
+      },
+      {
+        "sentence": "ეს ___ ლამაზი ქალაქია.",
+        "answer": "ყველაზე",
+        "translation_en": "This is the most beautiful city.",
+        "translation_es": "Esta es la ciudad más bonita."
+      },
+      {
+        "sentence": "ის ყველაზე ___ არის.",
+        "answer": "ჭკვიანი",
+        "translation_en": "He is the cleverest.",
+        "translation_es": "Él es el más listo."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "___ წიგნი მაქვს.",
+        "answer": "ორი",
+        "translation_en": "I have two books.",
+        "translation_es": "Tengo dos libros."
+      },
+      {
+        "sentence": "___ მოსწავლე მოვიდა.",
+        "answer": "სამი",
+        "translation_en": "Three pupils came.",
+        "translation_es": "Vinieron tres alumnos."
+      },
+      {
+        "sentence": "___ წლის ვარ.",
+        "answer": "ოცი",
+        "translation_en": "I am twenty years old.",
+        "translation_es": "Tengo veinte años."
+      },
+      {
+        "sentence": "___ სახლია.",
+        "answer": "ხუთი",
+        "translation_en": "There are five houses.",
+        "translation_es": "Hay cinco casas."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct form of მინდა (to want) into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___ წყალი.",
+        "answer": "მინდა",
+        "translation_en": "I want water.",
+        "translation_es": "Quiero agua."
+      },
+      {
+        "sentence": "შენ ___ ყავა?",
+        "answer": "გინდა",
+        "translation_en": "Do you want coffee?",
+        "translation_es": "¿Quieres café?"
+      },
+      {
+        "sentence": "მას ___ წიგნი.",
+        "answer": "უნდა",
+        "translation_en": "He wants a book.",
+        "translation_es": "Él quiere un libro."
+      },
+      {
+        "sentence": "ჩვენ ___ ვიმოგზაუროთ.",
+        "answer": "გვინდა",
+        "translation_en": "We want to travel.",
+        "translation_es": "Queremos viajar."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct form of შემიძლია (I can) into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___ ვიმუშაო.",
+        "answer": "შემიძლია",
+        "translation_en": "I can work.",
+        "translation_es": "Puedo trabajar."
+      },
+      {
+        "sentence": "შენ ___ მოხვიდე?",
+        "answer": "შეგიძლია",
+        "translation_en": "Can you come?",
+        "translation_es": "¿Puedes venir?"
+      },
+      {
+        "sentence": "ის ___ დაეხმაროს.",
+        "answer": "შეუძლია",
+        "translation_en": "He can help.",
+        "translation_es": "Él puede ayudar."
+      },
+      {
+        "sentence": "ჩვენ ___ ვიმოგზაუროთ.",
+        "answer": "შეგვიძლია",
+        "translation_en": "We can travel.",
+        "translation_es": "Podemos viajar."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag უნდა into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___ ვიმუშაო.",
+        "answer": "უნდა",
+        "translation_en": "I must work.",
+        "translation_es": "Debo trabajar."
+      },
+      {
+        "sentence": "შენ ___ ისწავლო.",
+        "answer": "უნდა",
+        "translation_en": "You must study.",
+        "translation_es": "Debes estudiar."
+      },
+      {
+        "sentence": "ის ___ მოვიდეს.",
+        "answer": "უნდა",
+        "translation_en": "He must come.",
+        "translation_es": "Él debe venir."
+      },
+      {
+        "sentence": "ჩვენ ___ წავიდეთ.",
+        "answer": "უნდა",
+        "translation_en": "We must go.",
+        "translation_es": "Debemos ir."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct form of მიყვარს (to like) into each gap.",
+    "items": [
+      {
+        "sentence": "მე ყავა ___.",
+        "answer": "მიყვარს",
+        "translation_en": "I like coffee.",
+        "translation_es": "Me gusta el café."
+      },
+      {
+        "sentence": "შენ ___ ხილი?",
+        "answer": "გიყვარს",
+        "translation_en": "Do you like fruit?",
+        "translation_es": "¿Te gusta la fruta?"
+      },
+      {
+        "sentence": "მას მუსიკა ___.",
+        "answer": "უყვარს",
+        "translation_en": "He likes music.",
+        "translation_es": "Le gusta la música."
+      },
+      {
+        "sentence": "ჩვენ მოგზაურობა ___.",
+        "answer": "გვიყვარს",
+        "translation_en": "We like travelling.",
+        "translation_es": "Nos gusta viajar."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag რომელიც into each gap.",
+    "items": [
+      {
+        "sentence": "ეს ის წიგნია, ___ მე ვკითხულობ.",
+        "answer": "რომელიც",
+        "translation_en": "This is the book that I am reading.",
+        "translation_es": "Este es el libro que leo."
+      },
+      {
+        "sentence": "ის ადამიანი, ___ აქ ცხოვრობს, ჩემი მეგობარია.",
+        "answer": "რომელიც",
+        "translation_en": "The person who lives here is my friend.",
+        "translation_es": "La persona que vive aquí es mi amigo."
+      },
+      {
+        "sentence": "ეს ის სახლია, ___ ჩვენ ვცხოვრობთ.",
+        "answer": "რომელშიც",
+        "translation_en": "This is the house in which we live.",
+        "translation_es": "Esta es la casa en la que vivimos."
+      },
+      {
+        "sentence": "ის მასწავლებელია, ___ ქართულს ასწავლის.",
+        "answer": "რომელიც",
+        "translation_en": "He is the teacher who teaches Georgian.",
+        "translation_es": "Él es el profesor que enseña georgiano."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag იმიტომ რომ into each gap.",
+    "items": [
+      {
+        "sentence": "მე არ მოვედი, ___ ავად ვიყავი.",
+        "answer": "იმიტომ რომ",
+        "translation_en": "I did not come because I was ill.",
+        "translation_es": "No vine porque estaba enfermo."
+      },
+      {
+        "sentence": "ის არ მუშაობს, ___ სწავლობს.",
+        "answer": "იმიტომ რომ",
+        "translation_en": "He does not work because he is studying.",
+        "translation_es": "Él no trabaja porque estudia."
+      },
+      {
+        "sentence": "ჩვენ სახლში დავრჩით, ___ წვიმდა.",
+        "answer": "იმიტომ რომ",
+        "translation_en": "We stayed at home because it was raining.",
+        "translation_es": "Nos quedamos en casa porque llovía."
+      },
+      {
+        "sentence": "მე ქართულს ვსწავლობ, ___ მიყვარს.",
+        "answer": "იმიტომ რომ",
+        "translation_en": "I am learning Georgian because I like it.",
+        "translation_es": "Estoy aprendiendo georgiano porque me gusta."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag თუ into each gap.",
+    "items": [
+      {
+        "sentence": "___ დრო გექნება, მოდი.",
+        "answer": "თუ",
+        "translation_en": "If you have time, come.",
+        "translation_es": "Si tienes tiempo, ven."
+      },
+      {
+        "sentence": "___ წვიმს, სახლში დავრჩებით.",
+        "answer": "თუ",
+        "translation_en": "If it rains, we will stay at home.",
+        "translation_es": "Si llueve, nos quedaremos en casa."
+      },
+      {
+        "sentence": "___ გინდა, წავიდეთ.",
+        "answer": "თუ",
+        "translation_en": "If you want, let's go.",
+        "translation_es": "Si quieres, vámonos."
+      },
+      {
+        "sentence": "___ ის მოვა, მეც მოვალ.",
+        "answer": "თუ",
+        "translation_en": "If he comes, I will come too.",
+        "translation_es": "Si él viene, yo también vendré."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the imperative form into each gap.",
+    "items": [
+      {
+        "sentence": "___! (come)",
+        "answer": "მოდი",
+        "translation_en": "Come!",
+        "translation_es": "¡Ven!"
+      },
+      {
+        "sentence": "___ ეს წიგნი! (read)",
+        "answer": "წაიკითხე",
+        "translation_en": "Read this book!",
+        "translation_es": "¡Lee este libro!"
+      },
+      {
+        "sentence": "___ ქართულად! (speak)",
+        "answer": "ილაპარაკე",
+        "translation_en": "Speak Georgian!",
+        "translation_es": "¡Habla georgiano!"
+      },
+      {
+        "sentence": "___ ჩემთან ერთად! (work)",
+        "answer": "იმუშავე",
+        "translation_en": "Work with me!",
+        "translation_es": "¡Trabaja conmigo!"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the transitive past form into each gap.",
+    "items": [
+      {
+        "sentence": "მე წერილი ___.",
+        "answer": "დავწერე",
+        "translation_en": "I wrote the letter.",
+        "translation_es": "Escribí la carta."
+      },
+      {
+        "sentence": "მან წიგნი ___.",
+        "answer": "წაიკითხა",
+        "translation_en": "He read the book.",
+        "translation_es": "Él leyó el libro."
+      },
+      {
+        "sentence": "ჩვენ ფილმი ___.",
+        "answer": "ვნახეთ",
+        "translation_en": "We watched the film.",
+        "translation_es": "Vimos la película."
+      },
+      {
+        "sentence": "მან სიმღერა ___.",
+        "answer": "იმღერა",
+        "translation_en": "He sang a song.",
+        "translation_es": "Él cantó una canción."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the perfect (resultative) form into each gap.",
+    "items": [
+      {
+        "sentence": "მე წერილი ___ მაქვს.",
+        "answer": "დაწერილი",
+        "translation_en": "I have written the letter.",
+        "translation_es": "He escrito la carta."
+      },
+      {
+        "sentence": "ის ___ არის.",
+        "answer": "მოსული",
+        "translation_en": "He has come.",
+        "translation_es": "Él ha venido."
+      },
+      {
+        "sentence": "წიგნი ___ არის.",
+        "answer": "წაკითხული",
+        "translation_en": "The book has been read.",
+        "translation_es": "El libro ha sido leído."
+      },
+      {
+        "sentence": "სამუშაო ___ არის.",
+        "answer": "გაკეთებული",
+        "translation_en": "The work is done.",
+        "translation_es": "El trabajo está hecho."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "მე სიამოვნებით ___.",
+        "answer": "ვიმოგზაურებდი",
+        "translation_en": "I would gladly travel.",
+        "translation_es": "Viajaría con gusto."
+      },
+      {
+        "sentence": "ის ___.",
+        "answer": "მოვიდოდა",
+        "translation_en": "He would come.",
+        "translation_es": "Él vendría."
+      },
+      {
+        "sentence": "შენ ___.",
+        "answer": "მოხვიდოდი",
+        "translation_en": "You would come.",
+        "translation_es": "Tú vendrías."
+      },
+      {
+        "sentence": "ჩვენ ___.",
+        "answer": "დავეხმარებოდით",
+        "translation_en": "We would help.",
+        "translation_es": "Ayudaríamos."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct word for reported speech into each gap.",
+    "items": [
+      {
+        "sentence": "მან თქვა, რომ ის ___.",
+        "answer": "დაკავებულია",
+        "translation_en": "He said that he was busy.",
+        "translation_es": "Dijo que estaba ocupado."
+      },
+      {
+        "sentence": "მან თქვა, რომ ___.",
+        "answer": "მოვა",
+        "translation_en": "He said that he would come.",
+        "translation_es": "Dijo que vendría."
+      },
+      {
+        "sentence": "მან მკითხა, სად ___.",
+        "answer": "ვცხოვრობ",
+        "translation_en": "He asked me where I live.",
+        "translation_es": "Me preguntó dónde vivo."
+      },
+      {
+        "sentence": "მან მთხოვა, რომ ___.",
+        "answer": "დავხმარებოდი",
+        "translation_en": "He asked me to help.",
+        "translation_es": "Me pidió que ayudara."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the participle into each gap.",
+    "items": [
+      {
+        "sentence": "___ წიგნი",
+        "answer": "დაწერილი",
+        "translation_en": "a written book",
+        "translation_es": "un libro escrito"
+      },
+      {
+        "sentence": "___ სახლი",
+        "answer": "აშენებული",
+        "translation_en": "a built house",
+        "translation_es": "una casa construida"
+      },
+      {
+        "sentence": "___ ბავშვი",
+        "answer": "მძინარე",
+        "translation_en": "a sleeping child",
+        "translation_es": "un niño dormido"
+      },
+      {
+        "sentence": "___ წყალი",
+        "answer": "მოხარშული",
+        "translation_en": "boiled water",
+        "translation_es": "agua hervida"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the verbal noun into each gap.",
+    "items": [
+      {
+        "sentence": "ქართულის ___ რთულია.",
+        "answer": "სწავლა",
+        "translation_en": "Learning Georgian is difficult.",
+        "translation_es": "Aprender georgiano es difícil."
+      },
+      {
+        "sentence": "მისი ___ მნიშვნელოვანია.",
+        "answer": "ჩამოსვლა",
+        "translation_en": "His arrival is important.",
+        "translation_es": "Su llegada es importante."
+      },
+      {
+        "sentence": "___ ჯანმრთელობისთვის კარგია.",
+        "answer": "სიარული",
+        "translation_en": "Walking is good for health.",
+        "translation_es": "Caminar es bueno para la salud."
+      },
+      {
+        "sentence": "___ დროს მოითხოვს.",
+        "answer": "კითხვა",
+        "translation_en": "Reading takes time.",
+        "translation_es": "Leer requiere tiempo."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct conjunction into each gap.",
+    "items": [
+      {
+        "sentence": "ის ჭკვიანია, ___ ზარმაცი.",
+        "answer": "მაგრამ",
+        "translation_en": "He is clever but lazy.",
+        "translation_es": "Es listo pero perezoso."
+      },
+      {
+        "sentence": "___ იყო გვიან, ის მუშაობდა.",
+        "answer": "თუმცა",
+        "translation_en": "Although it was late, he was working.",
+        "translation_es": "Aunque era tarde, trabajaba."
+      },
+      {
+        "sentence": "წვიმდა, ___ ჩვენ გავედით.",
+        "answer": "თუმცა",
+        "translation_en": "It was raining, however we went out.",
+        "translation_es": "Llovía, sin embargo salimos."
+      },
+      {
+        "sentence": "მე ვფიქრობ, ___ ის მოვა.",
+        "answer": "რომ",
+        "translation_en": "I think that he will come.",
+        "translation_es": "Creo que vendrá."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag მიუხედავად into each gap.",
+    "items": [
+      {
+        "sentence": "___ წვიმისა, ჩვენ გავედით.",
+        "answer": "მიუხედავად",
+        "translation_en": "Despite the rain, we went out.",
+        "translation_es": "A pesar de la lluvia, salimos."
+      },
+      {
+        "sentence": "___ იმისა, რომ გვიან იყო, ვმუშაობდით.",
+        "answer": "მიუხედავად",
+        "translation_en": "Despite the fact that it was late, we were working.",
+        "translation_es": "A pesar de que era tarde, trabajábamos."
+      },
+      {
+        "sentence": "___ სირთულეებისა, მან მოახერხა.",
+        "answer": "მიუხედავად",
+        "translation_en": "Despite the difficulties, he managed.",
+        "translation_es": "A pesar de las dificultades, lo logró."
+      },
+      {
+        "sentence": "___ ყველაფრისა, ის ბედნიერია.",
+        "answer": "მიუხედავად",
+        "translation_en": "Despite everything, he is happy.",
+        "translation_es": "A pesar de todo, es feliz."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the subjunctive form after უნდა into each gap.",
+    "items": [
+      {
+        "sentence": "მე უნდა ___.",
+        "answer": "ვიმუშაო",
+        "translation_en": "I must work.",
+        "translation_es": "Debo trabajar."
+      },
+      {
+        "sentence": "შენ უნდა ___.",
+        "answer": "მოხვიდე",
+        "translation_en": "You must come.",
+        "translation_es": "Debes venir."
+      },
+      {
+        "sentence": "ის უნდა ___.",
+        "answer": "წავიდეს",
+        "translation_en": "He must go.",
+        "translation_es": "Él debe ir."
+      },
+      {
+        "sentence": "ჩვენ უნდა ___.",
+        "answer": "ვისწავლოთ",
+        "translation_en": "We must study.",
+        "translation_es": "Debemos estudiar."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag ვერ into each gap.",
+    "items": [
+      {
+        "sentence": "მე ___ ვმუშაობ.",
+        "answer": "ვერ",
+        "translation_en": "I cannot work.",
+        "translation_es": "No puedo trabajar."
+      },
+      {
+        "sentence": "ის ___ მოდის.",
+        "answer": "ვერ",
+        "translation_en": "He cannot come.",
+        "translation_es": "Él no puede venir."
+      },
+      {
+        "sentence": "ჩვენ ___ ვხედავთ.",
+        "answer": "ვერ",
+        "translation_en": "We cannot see.",
+        "translation_es": "No podemos ver."
+      },
+      {
+        "sentence": "შენ ___ გესმის?",
+        "answer": "ვერ",
+        "translation_en": "Can you not hear?",
+        "translation_es": "¿No puedes oír?"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the negative pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ არ მოვიდა.",
+        "answer": "არავინ",
+        "translation_en": "Nobody came.",
+        "translation_es": "Nadie vino."
+      },
+      {
+        "sentence": "მე ___ არ ვიცი.",
+        "answer": "არაფერი",
+        "translation_en": "I know nothing.",
+        "translation_es": "No sé nada."
+      },
+      {
+        "sentence": "ის ___ არ მუშაობს.",
+        "answer": "არასოდეს",
+        "translation_en": "He never works.",
+        "translation_es": "Él nunca trabaja."
+      },
+      {
+        "sentence": "___ არ არის აქ.",
+        "answer": "არავინ",
+        "translation_en": "Nobody is here.",
+        "translation_es": "Nadie está aquí."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag არა მხოლოდ into each gap.",
+    "items": [
+      {
+        "sentence": "ის ___ ქართულს, არამედ ინგლისურსაც ლაპარაკობს.",
+        "answer": "არა მხოლოდ",
+        "translation_en": "He speaks not only Georgian but also English.",
+        "translation_es": "Habla no solo georgiano sino también inglés."
+      },
+      {
+        "sentence": "ეს ___ ლამაზი, არამედ იაფიც არის.",
+        "answer": "არა მხოლოდ",
+        "translation_en": "This is not only beautiful but also cheap.",
+        "translation_es": "Esto no solo es bonito sino también barato."
+      },
+      {
+        "sentence": "ის ___ მუშაობს, არამედ სწავლობს.",
+        "answer": "არა მხოლოდ",
+        "translation_en": "He not only works but also studies.",
+        "translation_es": "No solo trabaja sino que también estudia."
+      },
+      {
+        "sentence": "ჩვენ ___ ვმუშაობთ, არამედ ვსწავლობთ.",
+        "answer": "არა მხოლოდ",
+        "translation_en": "We not only work but also study.",
+        "translation_es": "No solo trabajamos sino que también estudiamos."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the postposition into each gap.",
+    "items": [
+      {
+        "sentence": "სახლის ___ ბაღია.",
+        "answer": "წინ",
+        "translation_en": "There is a garden in front of the house.",
+        "translation_es": "Hay un jardín delante de la casa."
+      },
+      {
+        "sentence": "სახლის ___ ბაღია.",
+        "answer": "უკან",
+        "translation_en": "There is a garden behind the house.",
+        "translation_es": "Hay un jardín detrás de la casa."
+      },
+      {
+        "sentence": "მაგიდის ___ ვზივარ.",
+        "answer": "გვერდით",
+        "translation_en": "I am sitting next to the table.",
+        "translation_es": "Estoy sentado junto a la mesa."
+      },
+      {
+        "sentence": "სახლის ___ ვცხოვრობ.",
+        "answer": "ახლოს",
+        "translation_en": "I live near the house.",
+        "translation_es": "Vivo cerca de la casa."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag როცა into each gap.",
+    "items": [
+      {
+        "sentence": "___ სახლში მივედი, ვისადილე.",
+        "answer": "როცა",
+        "translation_en": "When I got home, I had lunch.",
+        "translation_es": "Cuando llegué a casa, almorcé."
+      },
+      {
+        "sentence": "___ ის მოვიდა, ჩვენ წავედით.",
+        "answer": "როცა",
+        "translation_en": "When he came, we left.",
+        "translation_es": "Cuando él llegó, nos fuimos."
+      },
+      {
+        "sentence": "___ ვმუშაობდი, ტელეფონი დარეკა.",
+        "answer": "სანამ",
+        "translation_en": "While I was working, the phone rang.",
+        "translation_es": "Mientras trabajaba, sonó el teléfono."
+      },
+      {
+        "sentence": "___ წავალთ, დაგირეკავ.",
+        "answer": "როცა",
+        "translation_en": "When we go, I will call you.",
+        "translation_es": "Cuando vayamos, te llamaré."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag რომ into each gap for purpose.",
+    "items": [
+      {
+        "sentence": "მე ვსწავლობ, ___ ვიმუშაო.",
+        "answer": "რომ",
+        "translation_en": "I study in order to work.",
+        "translation_es": "Estudio para trabajar."
+      },
+      {
+        "sentence": "ის მოვიდა, ___ დაგვეხმაროს.",
+        "answer": "რომ",
+        "translation_en": "He came in order to help us.",
+        "translation_es": "Vino para ayudarnos."
+      },
+      {
+        "sentence": "ჩვენ ვმუშაობთ, ___ ვიცხოვროთ.",
+        "answer": "რომ",
+        "translation_en": "We work in order to live.",
+        "translation_es": "Trabajamos para vivir."
+      },
+      {
+        "sentence": "მე ვლაპარაკობ ხმამაღლა, ___ ყველას გაიგოს.",
+        "answer": "რომ",
+        "translation_en": "I speak loudly so that everyone hears.",
+        "translation_es": "Hablo alto para que todos oigan."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct quantity word into each gap.",
+    "items": [
+      {
+        "sentence": "___ ხალხი მოვიდა.",
+        "answer": "ბევრი",
+        "translation_en": "Many people came.",
+        "translation_es": "Vino mucha gente."
+      },
+      {
+        "sentence": "___ წიგნი მაქვს.",
+        "answer": "ცოტა",
+        "translation_en": "I have few books.",
+        "translation_es": "Tengo pocos libros."
+      },
+      {
+        "sentence": "მე ___ ფული მაქვს.",
+        "answer": "ბევრი",
+        "translation_en": "I have a lot of money.",
+        "translation_es": "Tengo mucho dinero."
+      },
+      {
+        "sentence": "___ დრო დარჩა.",
+        "answer": "ცოტა",
+        "translation_en": "Little time is left.",
+        "translation_es": "Queda poco tiempo."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the participle into each gap.",
+    "items": [
+      {
+        "sentence": "___ წერილი მაგიდაზეა.",
+        "answer": "დაწერილი",
+        "translation_en": "The written letter is on the table.",
+        "translation_es": "La carta escrita está sobre la mesa."
+      },
+      {
+        "sentence": "___ სახლი ლამაზია.",
+        "answer": "აშენებული",
+        "translation_en": "The built house is beautiful.",
+        "translation_es": "La casa construida es bonita."
+      },
+      {
+        "sentence": "ის ___ მოვიდა.",
+        "answer": "დაღლილი",
+        "translation_en": "He came tired.",
+        "translation_es": "Él vino cansado."
+      },
+      {
+        "sentence": "___ ბავშვი იწვა.",
+        "answer": "მძინარე",
+        "translation_en": "The sleeping child was lying down.",
+        "translation_es": "El niño dormido estaba tumbado."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the subjunctive form into each gap.",
+    "items": [
+      {
+        "sentence": "მინდა, რომ ის ___.",
+        "answer": "მოვიდეს",
+        "translation_en": "I want him to come.",
+        "translation_es": "Quiero que venga."
+      },
+      {
+        "sentence": "მინდა, რომ შენ ___.",
+        "answer": "ისწავლო",
+        "translation_en": "I want you to study.",
+        "translation_es": "Quiero que estudies."
+      },
+      {
+        "sentence": "მას სურს, რომ ჩვენ ___.",
+        "answer": "წავიდეთ",
+        "translation_en": "He wants us to go.",
+        "translation_es": "Él quiere que vayamos."
+      },
+      {
+        "sentence": "მინდა, რომ ისინი ___.",
+        "answer": "დაგვეხმარონ",
+        "translation_en": "I want them to help us.",
+        "translation_es": "Quiero que nos ayuden."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct form after უნდა into each gap.",
+    "items": [
+      {
+        "sentence": "შენ უნდა ___.",
+        "answer": "მოხვიდე",
+        "translation_en": "You should come.",
+        "translation_es": "Deberías venir."
+      },
+      {
+        "sentence": "ის უნდა ___.",
+        "answer": "წასულიყო",
+        "translation_en": "He should have gone.",
+        "translation_es": "Debería haberse ido."
+      },
+      {
+        "sentence": "ჩვენ უნდა ___.",
+        "answer": "დაგვეხმარა",
+        "translation_en": "We should have helped.",
+        "translation_es": "Deberíamos haber ayudado."
+      },
+      {
+        "sentence": "შენ უნდა ___.",
+        "answer": "გესწავლა",
+        "translation_en": "You should have studied.",
+        "translation_es": "Deberías haber estudiado."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag რომელიც into each gap.",
+    "items": [
+      {
+        "sentence": "მე ვიცნობ ადამიანს, ___ ჩემს ქალაქში ცხოვრობს.",
+        "answer": "რომელიც",
+        "translation_en": "I know a person who lives in my city.",
+        "translation_es": "Conozco a una persona que vive en mi ciudad."
+      },
+      {
+        "sentence": "ეს ის წიგნია, ___ ყველამ უნდა წაიკითხოს.",
+        "answer": "რომელიც",
+        "translation_en": "This is the book that everyone should read.",
+        "translation_es": "Este es el libro que todos deberían leer."
+      },
+      {
+        "sentence": "ის არის მეცნიერი, ___ მსოფლიოში ცნობილია.",
+        "answer": "რომელიც",
+        "translation_en": "He is a scientist who is known worldwide.",
+        "translation_es": "Es un científico conocido mundialmente."
+      },
+      {
+        "sentence": "ეს ის პრობლემაა, ___ ჩვენ უნდა მოვაგვაროთ.",
+        "answer": "რომელიც",
+        "translation_en": "This is the problem that we must solve.",
+        "translation_es": "Este es el problema que debemos resolver."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag ერთი მხრივ into each gap.",
+    "items": [
+      {
+        "sentence": "___ , ეს კარგია; მეორე მხრივ, ცუდი.",
+        "answer": "ერთი მხრივ",
+        "translation_en": "On the one hand this is good; on the other hand, bad.",
+        "translation_es": "Por un lado esto es bueno; por otro, malo."
+      },
+      {
+        "sentence": "___ , ტექნოლოგია გვეხმარება; მეორე მხრივ, ის საშიშია.",
+        "answer": "ერთი მხრივ",
+        "translation_en": "On the one hand technology helps us; on the other, it is dangerous.",
+        "translation_es": "Por un lado la tecnología nos ayuda; por otro, es peligrosa."
+      },
+      {
+        "sentence": "___ , მართალი ხარ; მეორე მხრივ, შეიძლება შევცდეთ.",
+        "answer": "ერთი მხრივ",
+        "translation_en": "On the one hand you are right; on the other, we may be wrong.",
+        "translation_es": "Por un lado tienes razón; por otro, podemos equivocarnos."
+      },
+      {
+        "sentence": "___ , ეს იაფია; მეორე მხრივ, ხარისხი დაბალია.",
+        "answer": "ერთი მხრივ",
+        "translation_en": "On the one hand it is cheap; on the other, the quality is low.",
+        "translation_es": "Por un lado es barato; por otro, la calidad es baja."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag გარდა ამისა into each gap.",
+    "items": [
+      {
+        "sentence": "___ , ის ძალიან ჭკვიანია.",
+        "answer": "გარდა ამისა",
+        "translation_en": "Moreover, he is very clever.",
+        "translation_es": "Además, es muy listo."
+      },
+      {
+        "sentence": "___ , პროექტი ძალიან ძვირია.",
+        "answer": "გარდა ამისა",
+        "translation_en": "Moreover, the project is too expensive.",
+        "translation_es": "Además, el proyecto es demasiado caro."
+      },
+      {
+        "sentence": "___ , ჩვენ დრო არ გვაქვს.",
+        "answer": "გარდა ამისა",
+        "translation_en": "Besides, we have no time.",
+        "translation_es": "Además, no tenemos tiempo."
+      },
+      {
+        "sentence": "ის კარგი მასწავლებელია; ___ , ის კარგი ადამიანია.",
+        "answer": "გარდა ამისა",
+        "translation_en": "He is a good teacher; moreover, a good person.",
+        "translation_es": "Es un buen profesor; además, buena persona."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag მაშინ როცა into each gap.",
+    "items": [
+      {
+        "sentence": "ის სწავლობს, ___ მე ვმუშაობ.",
+        "answer": "მაშინ როცა",
+        "translation_en": "He studies whereas I work.",
+        "translation_es": "Él estudia mientras que yo trabajo."
+      },
+      {
+        "sentence": "___ შენ ხუმრობ, მე სერიოზულად ვლაპარაკობ.",
+        "answer": "მაშინ როცა",
+        "translation_en": "Whereas you are joking, I am speaking seriously.",
+        "translation_es": "Mientras que tú bromeas, yo hablo en serio."
+      },
+      {
+        "sentence": "ეს იაფია, ___ ის ძვირია.",
+        "answer": "მაშინ როცა",
+        "translation_en": "This is cheap whereas that is expensive.",
+        "translation_es": "Esto es barato mientras que eso es caro."
+      },
+      {
+        "sentence": "___ ის მუშაობს, მე ვსწავლობ.",
+        "answer": "მაშინ როცა",
+        "translation_en": "Whereas he works, I study.",
+        "translation_es": "Mientras que él trabaja, yo estudio."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag გამო into each gap.",
+    "items": [
+      {
+        "sentence": "წვიმის ___ ჩვენ სახლში დავრჩით.",
+        "answer": "გამო",
+        "translation_en": "Because of the rain we stayed at home.",
+        "translation_es": "Por la lluvia nos quedamos en casa."
+      },
+      {
+        "sentence": "ამის ___ მე ვერ მოვედი.",
+        "answer": "გამო",
+        "translation_en": "Because of this I could not come.",
+        "translation_es": "Por esto no pude venir."
+      },
+      {
+        "sentence": "ავადმყოფობის ___ ის არ მუშაობს.",
+        "answer": "გამო",
+        "translation_en": "Because of illness he does not work.",
+        "translation_es": "Por enfermedad no trabaja."
+      },
+      {
+        "sentence": "შენი ___ მე ბედნიერი ვარ.",
+        "answer": "გამო",
+        "translation_en": "Because of you I am happy.",
+        "translation_es": "Por ti soy feliz."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag შესაბამისად into each gap.",
+    "items": [
+      {
+        "sentence": "___ , ჩვენ უნდა შევცვალოთ გეგმა.",
+        "answer": "შესაბამისად",
+        "translation_en": "Accordingly, we must change the plan.",
+        "translation_es": "En consecuencia, debemos cambiar el plan."
+      },
+      {
+        "sentence": "___ , პროექტი ვერ განხორციელდება.",
+        "answer": "შესაბამისად",
+        "translation_en": "Accordingly, the project cannot be implemented.",
+        "translation_es": "En consecuencia, el proyecto no puede llevarse a cabo."
+      },
+      {
+        "sentence": "შედეგების ___ , ჩვენ ვიმოქმედეთ.",
+        "answer": "შესაბამისად",
+        "translation_en": "In accordance with the results, we acted.",
+        "translation_es": "De acuerdo con los resultados, actuamos."
+      },
+      {
+        "sentence": "___ , ეს გადაწყვეტილება სწორია.",
+        "answer": "შესაბამისად",
+        "translation_en": "Accordingly, this decision is correct.",
+        "translation_es": "En consecuencia, esta decisión es correcta."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag ვინაიდან into each gap.",
+    "items": [
+      {
+        "sentence": "___ წვიმს, ჩვენ სახლში დავრჩებით.",
+        "answer": "ვინაიდან",
+        "translation_en": "Since it is raining, we will stay at home.",
+        "translation_es": "Como está lloviendo, nos quedaremos en casa."
+      },
+      {
+        "sentence": "___ ის ავად იყო, ის არ მოვიდა.",
+        "answer": "ვინაიდან",
+        "translation_en": "Since he was ill, he did not come.",
+        "translation_es": "Como estaba enfermo, no vino."
+      },
+      {
+        "sentence": "___ დრო ცოტაა, ჩვენ უნდა ვიჩქაროთ.",
+        "answer": "ვინაიდან",
+        "translation_en": "Since there is little time, we must hurry.",
+        "translation_es": "Como queda poco tiempo, debemos darnos prisa."
+      },
+      {
+        "sentence": "___ ყველა თანხმდება, დავიწყოთ.",
+        "answer": "ვინაიდან",
+        "translation_en": "Since everyone agrees, let us begin.",
+        "translation_es": "Ya que todos están de acuerdo, empecemos."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag თუ into each gap.",
+    "items": [
+      {
+        "sentence": "___ წვიმს, მაშინ სახლში დავრჩებით.",
+        "answer": "თუ",
+        "translation_en": "If it rains, then we will stay at home.",
+        "translation_es": "Si llueve, entonces nos quedaremos en casa."
+      },
+      {
+        "sentence": "___ გინდა, მაშინ წავიდეთ.",
+        "answer": "თუ",
+        "translation_en": "If you want, then let us go.",
+        "translation_es": "Si quieres, entonces vámonos."
+      },
+      {
+        "sentence": "___ ის მოვა, მაშინ მეც მოვალ.",
+        "answer": "თუ",
+        "translation_en": "If he comes, then I will come too.",
+        "translation_es": "Si él viene, entonces yo también vendré."
+      },
+      {
+        "sentence": "___ დრო გვექნება, მაშინ ვიმოგზაურებთ.",
+        "answer": "თუ",
+        "translation_en": "If we have time, then we will travel.",
+        "translation_es": "Si tenemos tiempo, entonces viajaremos."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag რაც უფრო into each gap.",
+    "items": [
+      {
+        "sentence": "___ მეტს ვსწავლობ, მით უფრო ბევრს ვიცი.",
+        "answer": "რაც უფრო",
+        "translation_en": "The more I learn, the more I know.",
+        "translation_es": "Cuanto más aprendo, más sé."
+      },
+      {
+        "sentence": "___ ადრე მოვალ, მით უფრო კარგი.",
+        "answer": "რაც უფრო",
+        "translation_en": "The earlier I come, the better.",
+        "translation_es": "Cuanto antes venga, mejor."
+      },
+      {
+        "sentence": "___ მეტს ვკითხულობ, მით უფრო ჭკვიანი ვარ.",
+        "answer": "რაც უფრო",
+        "translation_en": "The more I read, the cleverer I am.",
+        "translation_es": "Cuanto más leo, más listo soy."
+      },
+      {
+        "sentence": "___ მეტს ვმუშაობ, მით უფრო დაღლილი ვარ.",
+        "answer": "რაც უფრო",
+        "translation_en": "The more I work, the more tired I am.",
+        "translation_es": "Cuanto más trabajo, más cansado estoy."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the passive form into each gap.",
+    "items": [
+      {
+        "sentence": "სახლი ___.",
+        "answer": "იშენება",
+        "translation_en": "The house is being built.",
+        "translation_es": "La casa está siendo construida."
+      },
+      {
+        "sentence": "წიგნი ___.",
+        "answer": "იკითხება",
+        "translation_en": "The book is being read.",
+        "translation_es": "El libro está siendo leído."
+      },
+      {
+        "sentence": "ეს პრობლემა ___.",
+        "answer": "იხსნება",
+        "translation_en": "This problem is being solved.",
+        "translation_es": "Este problema está siendo resuelto."
+      },
+      {
+        "sentence": "ქართული ენა ბევრგან ___.",
+        "answer": "ისწავლება",
+        "translation_en": "The Georgian language is studied in many places.",
+        "translation_es": "El idioma georgiano se estudia en muchos lugares."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag თანახმად into each gap.",
+    "items": [
+      {
+        "sentence": "კანონის ___ , ეს აკრძალულია.",
+        "answer": "თანახმად",
+        "translation_en": "According to the law, this is forbidden.",
+        "translation_es": "Según la ley, esto está prohibido."
+      },
+      {
+        "sentence": "მისი ___ , ეს მართალია.",
+        "answer": "თანახმად",
+        "translation_en": "According to him, this is true.",
+        "translation_es": "Según él, esto es verdad."
+      },
+      {
+        "sentence": "წესების ___ , ჩვენ უნდა ვიმუშაოთ.",
+        "answer": "თანახმად",
+        "translation_en": "According to the rules, we must work.",
+        "translation_es": "Según las normas, debemos trabajar."
+      },
+      {
+        "sentence": "მონაცემების ___ , ფასები გაიზარდა.",
+        "answer": "თანახმად",
+        "translation_en": "According to the data, prices have risen.",
+        "translation_es": "Según los datos, los precios subieron."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag თვითონ into each gap.",
+    "items": [
+      {
+        "sentence": "ის ___ მოვიდა.",
+        "answer": "თვითონ",
+        "translation_en": "He came himself.",
+        "translation_es": "Él mismo vino."
+      },
+      {
+        "sentence": "ის ___ ამბობს ამას.",
+        "answer": "თვითონ",
+        "translation_en": "He himself says this.",
+        "translation_es": "Él mismo dice esto."
+      },
+      {
+        "sentence": "მე ___ ვიმუშავებ.",
+        "answer": "თვითონ",
+        "translation_en": "I myself will work.",
+        "translation_es": "Yo mismo trabajaré."
+      },
+      {
+        "sentence": "ის ___ უნდა მოვიდეს.",
+        "answer": "თვითონ",
+        "translation_en": "He must come himself.",
+        "translation_es": "Él mismo debe venir."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag სხვათა შორის into each gap.",
+    "items": [
+      {
+        "sentence": "___ , მე არ ვეთანხმები.",
+        "answer": "სხვათა შორის",
+        "translation_en": "By the way, I do not agree.",
+        "translation_es": "Por cierto, no estoy de acuerdo."
+      },
+      {
+        "sentence": "___ , ეს საინტერესოა.",
+        "answer": "სხვათა შორის",
+        "translation_en": "By the way, this is interesting.",
+        "translation_es": "Por cierto, esto es interesante."
+      },
+      {
+        "sentence": "___ , შენ რას ფიქრობ?",
+        "answer": "სხვათა შორის",
+        "translation_en": "By the way, what do you think?",
+        "translation_es": "Por cierto, ¿qué piensas?"
+      },
+      {
+        "sentence": "___ , ჩვენ დრო არ გვაქვს.",
+        "answer": "სხვათა შორის",
+        "translation_en": "Incidentally, we have no time.",
+        "translation_es": "Por cierto, no tenemos tiempo."
+      }
+    ]
+  }
+]

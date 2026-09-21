@@ -1,0 +1,2506 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Georgian alphabet",
+    "description": "Mkhedruli is written as it sounds; there are no capital letters.",
+    "columns": [
+      "Letter",
+      "Sound",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ა",
+        "a",
+        "father",
+        "padre"
+      ],
+      [
+        "ბ",
+        "b",
+        "book",
+        "libro"
+      ],
+      [
+        "გ",
+        "g",
+        "go",
+        "ir"
+      ],
+      [
+        "დ",
+        "d",
+        "door",
+        "puerta"
+      ],
+      [
+        "ვ",
+        "v",
+        "vase",
+        "vaso"
+      ],
+      [
+        "ზ",
+        "z",
+        "zoo",
+        "zoo"
+      ],
+      [
+        "თ",
+        "t",
+        "top",
+        "té"
+      ],
+      [
+        "კ",
+        "k' (ejective)",
+        "key",
+        "k eyectiva"
+      ],
+      [
+        "ლ",
+        "l",
+        "love",
+        "amor"
+      ],
+      [
+        "მ",
+        "m",
+        "mother",
+        "madre"
+      ],
+      [
+        "ნ",
+        "n",
+        "nose",
+        "nariz"
+      ],
+      [
+        "რ",
+        "r",
+        "rolled r",
+        "r vibrante"
+      ],
+      [
+        "ს",
+        "s",
+        "sun",
+        "sol"
+      ],
+      [
+        "შ",
+        "sh",
+        "ship",
+        "sh"
+      ],
+      [
+        "ჟ",
+        "zh",
+        "measure",
+        "j francesa"
+      ],
+      [
+        "ღ",
+        "gh",
+        "voiced guttural",
+        "g gutural"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "ჩვენ and თქვენ are the plural forms.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sg.",
+        "მე",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sg.",
+        "შენ",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sg.",
+        "ის",
+        "he / she / it",
+        "él / ella"
+      ],
+      [
+        "1st pl.",
+        "ჩვენ",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd pl.",
+        "თქვენ",
+        "you (pl. / polite)",
+        "vosotros / usted"
+      ],
+      [
+        "3rd pl.",
+        "ისინი",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "ყოფნა (to be) — present",
+    "description": "The verb agrees with the subject.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "ვარ",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "შენ",
+        "ხარ",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "ის",
+        "არის",
+        "he / she is",
+        "él / ella es"
+      ],
+      [
+        "ჩვენ",
+        "ვართ",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "თქვენ",
+        "ხართ",
+        "you are",
+        "vosotros sois"
+      ],
+      [
+        "ისინი",
+        "არიან",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "ქონა (to have)",
+    "description": "The verb carries a prefix that marks the owner.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "მაქვს",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "შენ",
+        "გაქვს",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "მას",
+        "აქვს",
+        "he / she has",
+        "él / ella tiene"
+      ],
+      [
+        "ჩვენ",
+        "გვაქვს",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "მათ",
+        "აქვთ",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Plural with -ებ",
+    "description": "Most nouns form the plural by adding -ებ before the ending.",
+    "columns": [
+      "Singular",
+      "Plural",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "წიგნი",
+        "წიგნები",
+        "book / books",
+        "libro / libros"
+      ],
+      [
+        "სახლი",
+        "სახლები",
+        "house / houses",
+        "casa / casas"
+      ],
+      [
+        "კატა",
+        "კატები",
+        "cat / cats",
+        "gato / gatos"
+      ],
+      [
+        "მასწავლებელი",
+        "მასწავლებლები",
+        "teacher / teachers",
+        "profesor / profesores"
+      ],
+      [
+        "ბავშვი",
+        "ბავშვები",
+        "child / children",
+        "niño / niños"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Negation with არ",
+    "description": "არ comes before the verb.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "present",
+        "მე არ ვმუშაობ.",
+        "I do not work.",
+        "No trabajo."
+      ],
+      [
+        "to be",
+        "ის არ არის ექიმი.",
+        "He is not a doctor.",
+        "Él no es médico."
+      ],
+      [
+        "to have",
+        "მე არ მაქვს წიგნი.",
+        "I do not have a book.",
+        "No tengo un libro."
+      ],
+      [
+        "past",
+        "ის არ მოვიდა.",
+        "He did not come.",
+        "Él no vino."
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "ეს and ის (this / that)",
+    "description": "Both can stand alone or before a noun.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "this is",
+        "ეს წიგნია.",
+        "This is a book.",
+        "Esto es un libro."
+      ],
+      [
+        "that is",
+        "ის სახლია.",
+        "That is a house.",
+        "Esa es una casa."
+      ],
+      [
+        "these are",
+        "ეს წიგნებია.",
+        "These are books.",
+        "Estos son libros."
+      ],
+      [
+        "question",
+        "რა არის ეს?",
+        "What is this?",
+        "¿Qué es esto?"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words normally come first.",
+    "columns": [
+      "Word",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who",
+        "ვინ",
+        "who",
+        "quién"
+      ],
+      [
+        "what",
+        "რა",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "სად",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "როდის",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "რატომ",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "როგორ",
+        "how",
+        "cómo"
+      ],
+      [
+        "how much",
+        "რამდენი",
+        "how much / many",
+        "cuánto"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "The numbers are regular and invariable.",
+    "columns": [
+      "Number",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "0",
+        "ნული",
+        "zero",
+        "cero"
+      ],
+      [
+        "1",
+        "ერთი",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "ორი",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "სამი",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "ოთხი",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "ხუთი",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "ექვსი",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "შვიდი",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "რვა",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "ცხრა",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "ათი",
+        "ten",
+        "diez"
+      ],
+      [
+        "11",
+        "თერთმეტი",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "თორმეტი",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "ოცი",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are not capitalised in Georgian.",
+    "columns": [
+      "Day",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "ორშაბათი",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "სამშაბათი",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "ოთხშაბათი",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "ხუთშაბათი",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "პარასკევი",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "შაბათი",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "კვირა",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "Adjectives come before the noun and never change form.",
+    "columns": [
+      "Gender",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with m. noun",
+        "დიდი სახლი",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "with f. noun",
+        "დიდი წიგნი",
+        "a big book",
+        "un libro grande"
+      ],
+      [
+        "plural",
+        "დიდი სახლები",
+        "big houses",
+        "casas grandes"
+      ],
+      [
+        "predicate",
+        "სახლი დიდია.",
+        "The house is big.",
+        "La casa es grande."
+      ],
+      [
+        "predicate",
+        "წიგნი ახალია.",
+        "The book is new.",
+        "El libro es nuevo."
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Present tense: მუშაობა",
+    "description": "The present uses the prefix ვ-, ∅-, -ს, ვ-…-თ.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "ვმუშაობ",
+        "I work",
+        "yo trabajo"
+      ],
+      [
+        "შენ",
+        "მუშაობ",
+        "you work",
+        "tú trabajas"
+      ],
+      [
+        "ის",
+        "მუშაობს",
+        "he / she works",
+        "él / ella trabaja"
+      ],
+      [
+        "ჩვენ",
+        "ვმუშაობთ",
+        "we work",
+        "nosotros trabajamos"
+      ],
+      [
+        "თქვენ",
+        "მუშაობთ",
+        "you work",
+        "vosotros trabajáis"
+      ],
+      [
+        "ისინი",
+        "მუშაობენ",
+        "they work",
+        "ellos trabajan"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Present tense: ცხოვრება",
+    "description": "Verbs ending in -ება follow the same pattern.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "ვცხოვრობ",
+        "I live",
+        "yo vivo"
+      ],
+      [
+        "შენ",
+        "ცხოვრობ",
+        "you live",
+        "tú vives"
+      ],
+      [
+        "ის",
+        "ცხოვრობს",
+        "he / she lives",
+        "él / ella vive"
+      ],
+      [
+        "ჩვენ",
+        "ვცხოვრობთ",
+        "we live",
+        "nosotros vivimos"
+      ],
+      [
+        "ისინი",
+        "ცხოვრობენ",
+        "they live",
+        "ellos viven"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "The possessive agrees with the owner, not with the noun.",
+    "columns": [
+      "Owner",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "ჩემი",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "შენი",
+        "your",
+        "tu"
+      ],
+      [
+        "his / her",
+        "მისი",
+        "his / her",
+        "su"
+      ],
+      [
+        "our",
+        "ჩვენი",
+        "our",
+        "nuestro"
+      ],
+      [
+        "your (pl.)",
+        "თქვენი",
+        "your (pl.)",
+        "vuestro"
+      ],
+      [
+        "their",
+        "მათი",
+        "their",
+        "su (de ellos)"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "-ში (in, at)",
+    "description": "The postposition -ში attaches to the noun.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "at home",
+        "სახლში",
+        "at home",
+        "en casa"
+      ],
+      [
+        "at school",
+        "სკოლაში",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "in the city",
+        "ქალაქში",
+        "in the city",
+        "en la ciudad"
+      ],
+      [
+        "in Tbilisi",
+        "თბილისში",
+        "in Tbilisi",
+        "en Tbilisi"
+      ],
+      [
+        "in Georgia",
+        "საქართველოში",
+        "in Georgia",
+        "en Georgia"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Basic word order",
+    "description": "Georgian is Subject–Object–Verb.",
+    "columns": [
+      "Pattern",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "S–O–V",
+        "მე პურს ვჭამ.",
+        "I eat bread.",
+        "Yo como pan."
+      ],
+      [
+        "subject + adjective",
+        "სახლი დიდია.",
+        "The house is big.",
+        "La casa es grande."
+      ],
+      [
+        "negation",
+        "მე პურს არ ვჭამ.",
+        "I do not eat bread.",
+        "No como pan."
+      ],
+      [
+        "question",
+        "პურს ჭამ?",
+        "Do you eat bread?",
+        "¿Comes pan?"
+      ],
+      [
+        "time word",
+        "ხვალ მივდივარ.",
+        "Tomorrow I am going.",
+        "Mañana voy."
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Greetings and politeness",
+    "description": "Use the plural forms with strangers.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "hello",
+        "გამარჯობა",
+        "Hello",
+        "Hola"
+      ],
+      [
+        "good morning",
+        "დილა მშვიდობისა",
+        "Good morning",
+        "Buenos días"
+      ],
+      [
+        "good night",
+        "ღამე მშვიდობისა",
+        "Good night",
+        "Buenas noches"
+      ],
+      [
+        "thank you",
+        "მადლობა",
+        "Thank you",
+        "Gracias"
+      ],
+      [
+        "please",
+        "თუ შეიძლება",
+        "Please",
+        "Por favor"
+      ],
+      [
+        "sorry",
+        "ბოდიში",
+        "Sorry",
+        "Perdón"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Time expressions",
+    "description": "Time words usually come before the verb.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "now",
+        "ახლა",
+        "now",
+        "ahora"
+      ],
+      [
+        "today",
+        "დღეს",
+        "today",
+        "hoy"
+      ],
+      [
+        "tomorrow",
+        "ხვალ",
+        "tomorrow",
+        "mañana"
+      ],
+      [
+        "yesterday",
+        "გუშინ",
+        "yesterday",
+        "ayer"
+      ],
+      [
+        "always",
+        "ყოველთვის",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "ხშირად",
+        "often",
+        "a menudo"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "Past (aorist) tense",
+    "description": "The aorist narrates completed actions in the past.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "ვიმუშავე",
+        "I worked",
+        "yo trabajé"
+      ],
+      [
+        "შენ",
+        "იმუშავე",
+        "you worked",
+        "tú trabajaste"
+      ],
+      [
+        "ის",
+        "იმუშავა",
+        "he / she worked",
+        "él / ella trabajó"
+      ],
+      [
+        "ჩვენ",
+        "ვიმუშავეთ",
+        "we worked",
+        "nosotros trabajamos"
+      ],
+      [
+        "ისინი",
+        "იმუშავეს",
+        "they worked",
+        "ellos trabajaron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "Future tense",
+    "description": "The future often uses the preverb plus a present-like ending.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "ვიმუშავებ",
+        "I will work",
+        "yo trabajaré"
+      ],
+      [
+        "შენ",
+        "იმუშავებ",
+        "you will work",
+        "tú trabajarás"
+      ],
+      [
+        "ის",
+        "იმუშავებს",
+        "he / she will work",
+        "él / ella trabajará"
+      ],
+      [
+        "ჩვენ",
+        "ვიმუშავებთ",
+        "we will work",
+        "nosotros trabajaremos"
+      ],
+      [
+        "ისინი",
+        "იმუშავებენ",
+        "they will work",
+        "ellos trabajarán"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "Split ergativity",
+    "description": "In the aorist, the subject of a transitive verb takes the ergative case (-მ).",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "present",
+        "მე წერილს ვწერ.",
+        "I am writing a letter.",
+        "Estoy escribiendo una carta."
+      ],
+      [
+        "aorist",
+        "მე წერილი დავწერე.",
+        "I wrote the letter.",
+        "Escribí la carta."
+      ],
+      [
+        "aorist",
+        "მან წიგნი წაიკითხა.",
+        "He read the book.",
+        "Él leyó el libro."
+      ],
+      [
+        "aorist",
+        "მან სიმღერა იმღერა.",
+        "He sang a song.",
+        "Él cantó una canción."
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Dative case",
+    "description": "The dative marks the indirect object and some subjects.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to help",
+        "ის მე მეხმარება.",
+        "He helps me.",
+        "Él me ayuda."
+      ],
+      [
+        "to give",
+        "მე მას ვაძლევ წიგნს.",
+        "I give him the book.",
+        "Le doy el libro a él."
+      ],
+      [
+        "to tell",
+        "ის ჩვენ გვეუბნება.",
+        "He tells us.",
+        "Él nos dice."
+      ],
+      [
+        "to have",
+        "მას წიგნი აქვს.",
+        "He has a book.",
+        "Él tiene un libro."
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Genitive case",
+    "description": "The genitive expresses possession.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "possession",
+        "დედის სახლი",
+        "my mother's house",
+        "la casa de mi madre"
+      ],
+      [
+        "possession",
+        "მასწავლებლის წიგნი",
+        "the teacher's book",
+        "el libro del profesor"
+      ],
+      [
+        "possession",
+        "მეგობრის სახელი",
+        "my friend's name",
+        "el nombre de mi amigo"
+      ],
+      [
+        "of Georgia",
+        "საქართველოს დედაქალაქი",
+        "the capital of Georgia",
+        "la capital de Georgia"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Instrumental case",
+    "description": "The instrumental marks the means or instrument.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with a pen",
+        "კალმით ვწერ.",
+        "I write with a pen.",
+        "Escribo con un bolígrafo."
+      ],
+      [
+        "by car",
+        "მანქანით მიდის.",
+        "He goes by car.",
+        "Él va en coche."
+      ],
+      [
+        "by train",
+        "მატარებლით ვიმოგზაურეთ.",
+        "We travelled by train.",
+        "Viajamos en tren."
+      ],
+      [
+        "in Georgian",
+        "ქართულად ლაპარაკობს.",
+        "He speaks in Georgian.",
+        "Habla en georgiano."
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Adverbial case",
+    "description": "The adverbial case (-ად) means 'as'.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "as a teacher",
+        "მასწავლებლად ვმუშაობ.",
+        "I work as a teacher.",
+        "Trabajo como profesor."
+      ],
+      [
+        "as a doctor",
+        "ექიმად მუშაობს.",
+        "He works as a doctor.",
+        "Él trabaja como médico."
+      ],
+      [
+        "as engineers",
+        "ინჟინრებად ვმუშაობთ.",
+        "We work as engineers.",
+        "Trabajamos como ingenieros."
+      ],
+      [
+        "remained as",
+        "მეგობრად დარჩა.",
+        "He remained as a friend.",
+        "Se quedó como amigo."
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Verbs of motion",
+    "description": "მიდის goes away, მოდის comes towards the speaker.",
+    "columns": [
+      "Verb",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "go",
+        "მე სკოლაში მივდივარ.",
+        "I go to school.",
+        "Voy a la escuela."
+      ],
+      [
+        "go",
+        "ის სახლში მიდის.",
+        "He goes home.",
+        "Él va a casa."
+      ],
+      [
+        "come",
+        "ის ჩემთან მოდის.",
+        "He comes to me.",
+        "Él viene a mí."
+      ],
+      [
+        "come",
+        "ხვალ მოვალ.",
+        "I will come tomorrow.",
+        "Vendré mañana."
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Object markers on the verb",
+    "description": "The verb marks both subject and object.",
+    "columns": [
+      "Subject → object",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "he → me",
+        "ის მე მხედავს.",
+        "He sees me.",
+        "Él me ve."
+      ],
+      [
+        "I → him",
+        "მე ის ვხედავ.",
+        "I see him.",
+        "Lo veo."
+      ],
+      [
+        "he → us",
+        "ის ჩვენ გვხედავს.",
+        "He sees us.",
+        "Nos ve."
+      ],
+      [
+        "we → them",
+        "ჩვენ ისინი ვხედავთ.",
+        "We see them.",
+        "Los vemos."
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "უფრო (more) plus the adjective forms the comparative.",
+    "columns": [
+      "Type",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "more",
+        "უფრო დიდი",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "more interesting",
+        "უფრო საინტერესო",
+        "more interesting",
+        "más interesante"
+      ],
+      [
+        "than me",
+        "ჩემზე მაღალი",
+        "taller than me",
+        "más alto que yo"
+      ],
+      [
+        "than his",
+        "მისაზე დიდი",
+        "bigger than his",
+        "más grande que la suya"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "ყველაზე (most of all) forms the superlative.",
+    "columns": [
+      "Type",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "biggest",
+        "ყველაზე დიდი",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "best friend",
+        "ყველაზე კარგი მეგობარი",
+        "the best friend",
+        "el mejor amigo"
+      ],
+      [
+        "most beautiful",
+        "ყველაზე ლამაზი",
+        "the most beautiful",
+        "el más bonito"
+      ],
+      [
+        "cleverest",
+        "ყველაზე ჭკვიანი",
+        "the cleverest",
+        "el más listo"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Numerals with nouns",
+    "description": "Numbers do not change the noun form.",
+    "columns": [
+      "Number",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "ერთი წიგნი",
+        "one book",
+        "un libro"
+      ],
+      [
+        "2",
+        "ორი წიგნი",
+        "two books",
+        "dos libros"
+      ],
+      [
+        "3",
+        "სამი მოსწავლე",
+        "three pupils",
+        "tres alumnos"
+      ],
+      [
+        "5",
+        "ხუთი სახლი",
+        "five houses",
+        "cinco casas"
+      ],
+      [
+        "many",
+        "ბევრი ხალხი",
+        "many people",
+        "mucha gente"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "The particle -ც",
+    "description": "-ც means 'too' or 'also'.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "too",
+        "მეც ვმუშაობ.",
+        "I work too.",
+        "Yo también trabajo."
+      ],
+      [
+        "and",
+        "ისიც მოვიდა.",
+        "He came too.",
+        "Él también vino."
+      ],
+      [
+        "and",
+        "წიგნიც და კალამიც",
+        "both the book and the pen",
+        "tanto el libro como el bolígrafo"
+      ],
+      [
+        "and",
+        "ჩვენც ვსწავლობთ.",
+        "We study too.",
+        "Nosotros también estudiamos."
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "want, can, must",
+    "description": "These take a subjunctive verb form.",
+    "columns": [
+      "Meaning",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "want",
+        "მე მინდა წყალი.",
+        "I want water.",
+        "Quiero agua."
+      ],
+      [
+        "can",
+        "მე შემიძლია ვიმუშაო.",
+        "I can work.",
+        "Puedo trabajar."
+      ],
+      [
+        "must",
+        "მე უნდა ვიმუშაო.",
+        "I must work.",
+        "Debo trabajar."
+      ],
+      [
+        "like",
+        "მე ყავა მიყვარს.",
+        "I like coffee.",
+        "Me gusta el café."
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Relative clauses with რომელიც",
+    "description": "რომელიც agrees in number and can take a postposition.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "ის წიგნი, რომელიც მე ვკითხულობ",
+        "the book that I read",
+        "el libro que leo"
+      ],
+      [
+        "who",
+        "ადამიანი, რომელიც აქ ცხოვრობს",
+        "the person who lives here",
+        "la persona que vive aquí"
+      ],
+      [
+        "in which",
+        "სახლი, რომელშიც ვცხოვრობთ",
+        "the house in which we live",
+        "la casa en la que vivimos"
+      ],
+      [
+        "who",
+        "მასწავლებელი, რომელიც ქართულს ასწავლის",
+        "the teacher who teaches Georgian",
+        "el profesor que enseña georgiano"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Cause and condition",
+    "description": "იმიტომ რომ gives the cause; თუ introduces a condition.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "because",
+        "მე არ მოვედი, იმიტომ რომ ავად ვიყავი.",
+        "I did not come because I was ill.",
+        "No vine porque estaba enfermo."
+      ],
+      [
+        "because",
+        "ის არ მუშაობს, იმიტომ რომ სწავლობს.",
+        "He does not work because he studies.",
+        "Él no trabaja porque estudia."
+      ],
+      [
+        "if",
+        "თუ დრო გექნება, მოდი.",
+        "If you have time, come.",
+        "Si tienes tiempo, ven."
+      ],
+      [
+        "if",
+        "თუ წვიმს, სახლში დავრჩებით.",
+        "If it rains, we will stay at home.",
+        "Si llueve, nos quedaremos en casa."
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Aorist of transitive verbs",
+    "description": "In the aorist, the transitive subject takes the ergative case.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I wrote",
+        "მე წერილი დავწერე.",
+        "I wrote the letter.",
+        "Escribí la carta."
+      ],
+      [
+        "he read",
+        "მან წიგნი წაიკითხა.",
+        "He read the book.",
+        "Él leyó el libro."
+      ],
+      [
+        "we watched",
+        "ჩვენ ფილმი ვნახეთ.",
+        "We watched the film.",
+        "Vimos la película."
+      ],
+      [
+        "he sang",
+        "მან სიმღერა იმღერა.",
+        "He sang a song.",
+        "Él cantó una canción."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Perfect (resultative)",
+    "description": "The perfect series describes a state resulting from a past action.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have written",
+        "მე წერილი დაწერილი მაქვს.",
+        "I have written the letter.",
+        "He escrito la carta."
+      ],
+      [
+        "he has come",
+        "ის მოსული არის.",
+        "He has come.",
+        "Él ha venido."
+      ],
+      [
+        "has been read",
+        "წიგნი წაკითხული არის.",
+        "The book has been read.",
+        "El libro ha sido leído."
+      ],
+      [
+        "is done",
+        "სამუშაო გაკეთებული არის.",
+        "The work is done.",
+        "El trabajo está hecho."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional expresses 'would'.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "ვიმოგზაურებდი",
+        "I would travel",
+        "yo viajaría"
+      ],
+      [
+        "შენ",
+        "მოხვიდოდი",
+        "you would come",
+        "tú vendrías"
+      ],
+      [
+        "ის",
+        "მოვიდოდა",
+        "he would come",
+        "él vendría"
+      ],
+      [
+        "ჩვენ",
+        "დავეხმარებოდით",
+        "we would help",
+        "nosotros ayudaríamos"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "Statements use რომ; questions keep the question word.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "მან თქვა, რომ ის დაკავებულია.",
+        "He said that he was busy.",
+        "Dijo que estaba ocupado."
+      ],
+      [
+        "future",
+        "მან თქვა, რომ მოვა.",
+        "He said that he would come.",
+        "Dijo que vendría."
+      ],
+      [
+        "question",
+        "მან მკითხა, სად ვცხოვრობ.",
+        "He asked me where I live.",
+        "Me preguntó dónde vivo."
+      ],
+      [
+        "request",
+        "მან მთხოვა, რომ დავხმარებოდი.",
+        "He asked me to help.",
+        "Me pidió que ayudara."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles end in -ულ- or -ილ- and behave like adjectives.",
+    "columns": [
+      "Type",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "written",
+        "დაწერილი წიგნი",
+        "a written book",
+        "un libro escrito"
+      ],
+      [
+        "built",
+        "აშენებული სახლი",
+        "a built house",
+        "una casa construida"
+      ],
+      [
+        "sleeping",
+        "მძინარე ბავშვი",
+        "a sleeping child",
+        "un niño dormido"
+      ],
+      [
+        "boiled",
+        "მოხარშული წყალი",
+        "boiled water",
+        "agua hervida"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Nouns in -ა or -ება name an action.",
+    "columns": [
+      "Verb",
+      "Noun",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "სწავლობს",
+        "სწავლა",
+        "learning",
+        "el aprendizaje"
+      ],
+      [
+        "მოდის",
+        "ჩამოსვლა",
+        "arrival",
+        "la llegada"
+      ],
+      [
+        "დადის",
+        "სიარული",
+        "walking",
+        "el caminar"
+      ],
+      [
+        "კითხულობს",
+        "კითხვა",
+        "reading",
+        "la lectura"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Conjunctions",
+    "description": "These link clauses and structure an argument.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "მაგრამ",
+        "but",
+        "pero"
+      ],
+      [
+        "although",
+        "თუმცა",
+        "although / however",
+        "aunque / sin embargo"
+      ],
+      [
+        "that",
+        "რომ",
+        "that",
+        "que"
+      ],
+      [
+        "in order to",
+        "რომ",
+        "in order to",
+        "para"
+      ],
+      [
+        "because",
+        "იმიტომ რომ",
+        "because",
+        "porque"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Concession with მიუხედავად",
+    "description": "მიუხედავად + genitive means 'despite'.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "despite + noun",
+        "მიუხედავად წვიმისა",
+        "despite the rain",
+        "a pesar de la lluvia"
+      ],
+      [
+        "despite the fact that",
+        "მიუხედავად იმისა, რომ",
+        "despite the fact that",
+        "a pesar de que"
+      ],
+      [
+        "despite difficulties",
+        "მიუხედავად სირთულეებისა",
+        "despite the difficulties",
+        "a pesar de las dificultades"
+      ],
+      [
+        "despite everything",
+        "მიუხედავად ყველაფრისა",
+        "despite everything",
+        "a pesar de todo"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "უნდა + subjunctive",
+    "description": "უნდა is followed by a subjunctive verb form.",
+    "columns": [
+      "Person",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "მე",
+        "მე უნდა ვიმუშაო.",
+        "I must work.",
+        "Debo trabajar."
+      ],
+      [
+        "შენ",
+        "შენ უნდა მოხვიდე.",
+        "You must come.",
+        "Debes venir."
+      ],
+      [
+        "ის",
+        "ის უნდა წავიდეს.",
+        "He must go.",
+        "Él debe ir."
+      ],
+      [
+        "ჩვენ",
+        "ჩვენ უნდა ვისწავლოთ.",
+        "We must study.",
+        "Debemos estudiar."
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "ვერ and negative pronouns",
+    "description": "ვერ means 'cannot'; არავინ, არაფერი, არასოდეს are negative pronouns.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "cannot",
+        "მე ვერ ვმუშაობ.",
+        "I cannot work.",
+        "No puedo trabajar."
+      ],
+      [
+        "nobody",
+        "არავინ არ მოვიდა.",
+        "Nobody came.",
+        "Nadie vino."
+      ],
+      [
+        "nothing",
+        "მე არაფერი არ ვიცი.",
+        "I know nothing.",
+        "No sé nada."
+      ],
+      [
+        "never",
+        "ის არასოდეს არ მუშაობს.",
+        "He never works.",
+        "Él nunca trabaja."
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Postpositions with the genitive",
+    "description": "The genitive plus a postposition gives spatial relations.",
+    "columns": [
+      "Postposition",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in front of",
+        "სახლის წინ",
+        "in front of the house",
+        "delante de la casa"
+      ],
+      [
+        "behind",
+        "სახლის უკან",
+        "behind the house",
+        "detrás de la casa"
+      ],
+      [
+        "next to",
+        "მაგიდის გვერდით",
+        "next to the table",
+        "junto a la mesa"
+      ],
+      [
+        "near",
+        "სახლის ახლოს",
+        "near the house",
+        "cerca de la casa"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Temporal clauses",
+    "description": "როცა means 'when', სანამ means 'while / before'.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "when",
+        "როცა სახლში მივედი, ვისადილე.",
+        "When I got home, I had lunch.",
+        "Cuando llegué a casa, almorcé."
+      ],
+      [
+        "when",
+        "როცა ის მოვიდა, ჩვენ წავედით.",
+        "When he came, we left.",
+        "Cuando él llegó, nos fuimos."
+      ],
+      [
+        "while",
+        "სანამ ვმუშაობდი, ტელეფონი დარეკა.",
+        "While I was working, the phone rang.",
+        "Mientras trabajaba, sonó el teléfono."
+      ],
+      [
+        "when",
+        "როცა წავალთ, დაგირეკავ.",
+        "When we go, I will call you.",
+        "Cuando vayamos, te llamaré."
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Passive voice",
+    "description": "Passive verbs end in -ება and take the object as subject.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "is being built",
+        "სახლი იშენება.",
+        "The house is being built.",
+        "La casa está siendo construida."
+      ],
+      [
+        "is being read",
+        "წიგნი იკითხება.",
+        "The book is being read.",
+        "El libro está siendo leído."
+      ],
+      [
+        "is being solved",
+        "ეს პრობლემა იხსნება.",
+        "This problem is being solved.",
+        "Este problema está siendo resuelto."
+      ],
+      [
+        "is studied",
+        "ქართული ენა ბევრგან ისწავლება.",
+        "Georgian is studied in many places.",
+        "El georgiano se estudia en muchos lugares."
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Participial constructions",
+    "description": "Participles replace whole relative clauses in formal style.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the written letter",
+        "დაწერილი წერილი მაგიდაზეა.",
+        "The written letter is on the table.",
+        "La carta escrita está sobre la mesa."
+      ],
+      [
+        "the built house",
+        "აშენებული სახლი ლამაზია.",
+        "The built house is beautiful.",
+        "La casa construida es bonita."
+      ],
+      [
+        "he came tired",
+        "ის დაღლილი მოვიდა.",
+        "He came tired.",
+        "Él vino cansado."
+      ],
+      [
+        "the sleeping child",
+        "მძინარე ბავშვი იწვა.",
+        "The sleeping child was lying down.",
+        "El niño dormido estaba tumbado."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Subjunctive after მინდა",
+    "description": "Wishes and wants take a subjunctive clause with რომ.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I want him to",
+        "მინდა, რომ ის მოვიდეს.",
+        "I want him to come.",
+        "Quiero que venga."
+      ],
+      [
+        "I want you to",
+        "მინდა, რომ შენ ისწავლო.",
+        "I want you to study.",
+        "Quiero que estudies."
+      ],
+      [
+        "he wants us to",
+        "მას სურს, რომ ჩვენ წავიდეთ.",
+        "He wants us to go.",
+        "Él quiere que vayamos."
+      ],
+      [
+        "I want them to",
+        "მინდა, რომ ისინი დაგვეხმარონ.",
+        "I want them to help us.",
+        "Quiero que nos ayuden."
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "უნდა with past reference",
+    "description": "უნდა plus a past subjunctive expresses 'should have'.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "should come",
+        "შენ უნდა მოხვიდე.",
+        "You should come.",
+        "Deberías venir."
+      ],
+      [
+        "should have gone",
+        "ის უნდა წასულიყო.",
+        "He should have gone.",
+        "Debería haberse ido."
+      ],
+      [
+        "should have helped",
+        "ჩვენ უნდა დაგვეხმარა.",
+        "We should have helped.",
+        "Deberíamos haber ayudado."
+      ],
+      [
+        "should have studied",
+        "შენ უნდა გესწავლა.",
+        "You should have studied.",
+        "Deberías haber estudiado."
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Complex relative clauses",
+    "description": "The relative marker can be long-distance and carry a postposition.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who",
+        "ვიცნობ ადამიანს, რომელიც ჩემს ქალაქში ცხოვრობს.",
+        "I know a person who lives in my city.",
+        "Conozco a una persona que vive en mi ciudad."
+      ],
+      [
+        "that",
+        "ეს ის წიგნია, რომელიც ყველამ უნდა წაიკითხოს.",
+        "This is the book that everyone should read.",
+        "Este es el libro que todos deberían leer."
+      ],
+      [
+        "who",
+        "ის არის მეცნიერი, რომელიც მსოფლიოში ცნობილია.",
+        "He is a scientist known worldwide.",
+        "Es un científico conocido mundialmente."
+      ],
+      [
+        "that",
+        "ეს ის პრობლემაა, რომელიც უნდა მოვაგვაროთ.",
+        "This is the problem that we must solve.",
+        "Este es el problema que debemos resolver."
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "ერთი მხრივ… მეორე მხრივ",
+    "description": "A balanced way to present two sides of an argument.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on the one hand",
+        "ერთი მხრივ, ეს კარგია; მეორე მხრივ, ცუდი.",
+        "On the one hand it is good; on the other, bad.",
+        "Por un lado es bueno; por otro, malo."
+      ],
+      [
+        "on the one hand",
+        "ერთი მხრივ, ტექნოლოგია გვეხმარება.",
+        "On the one hand, technology helps us.",
+        "Por un lado, la tecnología nos ayuda."
+      ],
+      [
+        "on the one hand",
+        "ერთი მხრივ, მართალი ხარ.",
+        "On the one hand, you are right.",
+        "Por un lado, tienes razón."
+      ],
+      [
+        "on the one hand",
+        "ერთი მხრივ, ეს იაფია.",
+        "On the one hand, it is cheap.",
+        "Por un lado, es barato."
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "გარდა ამისა (moreover)",
+    "description": "Adds an extra supporting point.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "გარდა ამისა, ის ძალიან ჭკვიანია.",
+        "Moreover, he is very clever.",
+        "Además, es muy listo."
+      ],
+      [
+        "moreover",
+        "გარდა ამისა, პროექტი ძვირია.",
+        "Moreover, the project is expensive.",
+        "Además, el proyecto es caro."
+      ],
+      [
+        "besides",
+        "გარდა ამისა, დრო არ გვაქვს.",
+        "Besides, we have no time.",
+        "Además, no tenemos tiempo."
+      ],
+      [
+        "moreover",
+        "ის კარგი მასწავლებელია; გარდა ამისა, კარგი ადამიანია.",
+        "He is a good teacher; moreover, a good person.",
+        "Es un buen profesor; además, buena persona."
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "მაშინ, როცა (whereas)",
+    "description": "Contrasts two parallel situations.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "whereas",
+        "ის სწავლობს, მაშინ როცა მე ვმუშაობ.",
+        "He studies whereas I work.",
+        "Él estudia mientras que yo trabajo."
+      ],
+      [
+        "whereas",
+        "მაშინ როცა შენ ხუმრობ, მე სერიოზულად ვლაპარაკობ.",
+        "Whereas you joke, I speak seriously.",
+        "Mientras que tú bromeas, yo hablo en serio."
+      ],
+      [
+        "whereas",
+        "ეს იაფია, მაშინ როცა ის ძვირია.",
+        "This is cheap whereas that is expensive.",
+        "Esto es barato mientras que eso es caro."
+      ],
+      [
+        "whereas",
+        "მაშინ როცა ის მუშაობს, მე ვსწავლობ.",
+        "Whereas he works, I study.",
+        "Mientras que él trabaja, yo estudio."
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "გამო (because of)",
+    "description": "The genitive plus გამო gives the cause.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "because of the rain",
+        "წვიმის გამო სახლში დავრჩით.",
+        "Because of the rain we stayed at home.",
+        "Por la lluvia nos quedamos en casa."
+      ],
+      [
+        "because of this",
+        "ამის გამო ვერ მოვედი.",
+        "Because of this I could not come.",
+        "Por esto no pude venir."
+      ],
+      [
+        "because of illness",
+        "ავადმყოფობის გამო არ მუშაობს.",
+        "Because of illness he does not work.",
+        "Por enfermedad no trabaja."
+      ],
+      [
+        "because of you",
+        "შენი გამო ბედნიერი ვარ.",
+        "Because of you I am happy.",
+        "Por ti soy feliz."
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Formal connectors",
+    "description": "შესაბამისად and ვინაიდან belong to written, formal register.",
+    "columns": [
+      "Connector",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "accordingly",
+        "შესაბამისად, უნდა შევცვალოთ გეგმა.",
+        "Accordingly, we must change the plan.",
+        "En consecuencia, debemos cambiar el plan."
+      ],
+      [
+        "in accordance with",
+        "შედეგების შესაბამისად ვიმოქმედეთ.",
+        "In accordance with the results we acted.",
+        "De acuerdo con los resultados actuamos."
+      ],
+      [
+        "since",
+        "ვინაიდან წვიმს, სახლში დავრჩებით.",
+        "Since it is raining, we will stay at home.",
+        "Como está lloviendo, nos quedaremos en casa."
+      ],
+      [
+        "since",
+        "ვინაიდან დრო ცოტაა, უნდა ვიჩქაროთ.",
+        "Since there is little time, we must hurry.",
+        "Como queda poco tiempo, debemos darnos prisa."
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "რაც უფრო… მით უფრო",
+    "description": "The correlative construction 'the more… the more'.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the more the more",
+        "რაც უფრო მეტს ვსწავლობ, მით უფრო ბევრს ვიცი.",
+        "The more I learn, the more I know.",
+        "Cuanto más aprendo, más sé."
+      ],
+      [
+        "the sooner the better",
+        "რაც უფრო ადრე მოვალ, მით უფრო კარგი.",
+        "The sooner I come, the better.",
+        "Cuanto antes venga, mejor."
+      ],
+      [
+        "the more the more",
+        "რაც უფრო მეტს ვკითხულობ, მით უფრო ჭკვიანი ვარ.",
+        "The more I read, the cleverer I am.",
+        "Cuanto más leo, más listo soy."
+      ],
+      [
+        "the more the more",
+        "რაც უფრო მეტს ვმუშაობ, მით უფრო დაღლილი ვარ.",
+        "The more I work, the more tired I am.",
+        "Cuanto más trabajo, más cansado estoy."
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "თანახმად and სხვათა შორის",
+    "description": "Two useful discourse markers.",
+    "columns": [
+      "Use",
+      "Georgian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "according to",
+        "კანონის თანახმად, ეს აკრძალულია.",
+        "According to the law, this is forbidden.",
+        "Según la ley, esto está prohibido."
+      ],
+      [
+        "according to",
+        "მონაცემების თანახმად, ფასები გაიზარდა.",
+        "According to the data, prices have risen.",
+        "Según los datos, los precios subieron."
+      ],
+      [
+        "by the way",
+        "სხვათა შორის, მე არ ვეთანხმები.",
+        "By the way, I do not agree.",
+        "Por cierto, no estoy de acuerdo."
+      ],
+      [
+        "by the way",
+        "სხვათა შორის, შენ რას ფიქრობ?",
+        "By the way, what do you think?",
+        "Por cierto, ¿qué piensas?"
+      ]
+    ]
+  }
+]
