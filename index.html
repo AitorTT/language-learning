@@ -190,6 +190,19 @@
   .note-date { color: var(--muted); font-size: 12px; white-space: nowrap; }
   .note-content { white-space: pre-wrap; line-height: 1.65; margin: 8px 0 0; }
   button.danger { background: #fdeaea; color: var(--bad); }
+
+  button.speak {
+    display: inline-flex; align-items: center; justify-content: center;
+    border: none; background: #eef0fb; color: var(--accent); cursor: pointer;
+    width: 34px; height: 34px; border-radius: 50%; padding: 0; flex: none;
+    vertical-align: middle; transition: background 0.15s, color 0.15s, transform 0.1s;
+  }
+  button.speak svg { width: 16px; height: 16px; display: block; }
+  button.speak:hover { background: #dfe3fb; transform: translateY(-1px); }
+  button.speak.speaking { background: var(--accent); color: #fff; }
+  .text-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+  .text-head h3 { margin: 0; }
+  table.grid th.act, table.grid td.act { width: 46px; text-align: center; }
 </style>
 </head>
 <body>
@@ -321,6 +334,75 @@
     return r;
   }
 
+  /* ---------- Speech (browser text-to-speech) ---------- */
+  const ICON_SPEAK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 9v6h3.5L11 19V5L6.5 9H3zm11.6 3a3.6 3.6 0 0 0-2-3.24v6.48A3.6 3.6 0 0 0 14.6 12zM12.6 3.1v2.05a6.85 6.85 0 0 1 0 13.7v2.05a8.9 8.9 0 0 0 0-17.8z"/></svg>';
+  const ICON_STOP = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect fill="currentColor" x="6" y="6" width="12" height="12" rx="2"/></svg>';
+  const SPANISH_HEADERS = ["español", "espanol", "spanish"];
+
+  let VOICES = [];
+  let currentSpeechBtn = null;
+
+  function speechSupported() { return typeof window !== "undefined" && "speechSynthesis" in window; }
+  function loadVoices() { if (speechSupported()) VOICES = window.speechSynthesis.getVoices() || []; }
+
+  function pickVoice(locale) {
+    if (!VOICES.length) loadVoices();
+    const want = String(locale).replace("_", "-").toLowerCase();
+    const base = want.split("-")[0];
+    return VOICES.find(v => String(v.lang || "").replace("_", "-").toLowerCase() === want)
+        || VOICES.find(v => String(v.lang || "").toLowerCase().startsWith(base))
+        || null;
+  }
+
+  function stopSpeech() {
+    if (speechSupported() && (window.speechSynthesis.speaking || window.speechSynthesis.pending)) {
+      window.speechSynthesis.cancel();
+    }
+    if (currentSpeechBtn) {
+      currentSpeechBtn.classList.remove("speaking");
+      currentSpeechBtn.innerHTML = ICON_SPEAK;
+      currentSpeechBtn = null;
+    }
+  }
+
+  function speak(text, code, btn) {
+    if (!speechSupported() || !text) return;
+    const wasActive = currentSpeechBtn === btn;
+    stopSpeech();
+    if (wasActive) return;
+    const cfg = LANG_BY_CODE[code];
+    const locale = (cfg && cfg.speech) || "en-US";
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = locale;
+    const v = pickVoice(locale);
+    if (v) u.voice = v;
+    const finish = () => { if (currentSpeechBtn === btn) stopSpeech(); };
+    u.onend = finish;
+    u.onerror = finish;
+    currentSpeechBtn = btn || null;
+    if (btn) { btn.classList.add("speaking"); btn.innerHTML = ICON_STOP; }
+    window.speechSynthesis.speak(u);
+  }
+
+  function grammarRowText(g, row) {
+    const target = (lang && lang.code) || "en";
+    const skip = new Set(SPANISH_HEADERS);
+    if (target !== "en") skip.add("english");
+    const parts = [];
+    g.columns.forEach((c, i) => {
+      const v = row[i];
+      if (v === undefined || v === null || v === "" || v === "—" || v === "-") return;
+      if (skip.has(String(c).trim().toLowerCase())) return;
+      parts.push(v);
+    });
+    return parts.join(", ");
+  }
+
+  if (speechSupported()) {
+    loadVoices();
+    window.speechSynthesis.onvoiceschanged = loadVoices;
+  }
+
   function applyFilters() {
     fcWords = DATA.words.filter(w => level === "all" || w.level === level);
     fcIndex = 0;
@@ -332,6 +414,7 @@
 
   /* ---------- Flashcards ---------- */
   function renderFlashcards() {
+    stopSpeech();
     const card = document.getElementById("card");
     const front = document.getElementById("front");
     const back = document.getElementById("back");
@@ -349,7 +432,8 @@
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
       <div class="hint">${lang.termLabel}</div>
       <div class="word">${w[lang.termField]}</div>
-      ${w.ipa ? `<div class="ipa">/${w.ipa}/</div>` : ""}`;
+      ${w.ipa ? `<div class="ipa">/${w.ipa}/</div>` : ""}
+      <button class="speak" type="button" title="Listen" aria-label="Listen" data-fc-speak>${ICON_SPEAK}</button>`;
     back.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
       <div class="trans">
@@ -358,6 +442,9 @@
         ).join("")}
       </div>`;
     counter.textContent = `${fcIndex + 1} / ${fcWords.length}`;
+    const btn = front.querySelector("[data-fc-speak]");
+    if (!speechSupported()) { btn.style.display = "none"; }
+    else btn.addEventListener("click", (e) => { e.stopPropagation(); speak(w[lang.termField], lang.code, btn); });
   }
   function fcGo(delta) {
     if (!fcWords.length) return;
@@ -373,17 +460,26 @@
       .join("");
   }
   function renderTexts() {
+    stopSpeech();
     const el = document.getElementById("panel-texts");
     const list = DATA.texts.filter(t => level === "all" || t.level === level);
     if (!list.length) { el.innerHTML = `<div class="empty">No texts for this level.</div>`; return; }
     el.innerHTML = list.map(t => `
       <div class="block">
         <div class="level-tag">${t.level}</div>
-        <h3>${t.title}</h3>
+        <div class="text-head">
+          <h3>${t.title}</h3>
+          <button class="speak" type="button" title="Listen" aria-label="Listen" data-text-speak="${t.id}">${ICON_SPEAK}</button>
+        </div>
         <p class="body">${t.body}</p>
         <button class="link" data-toggle="${t.id}">Hide translation</button>
         <div class="tr open" id="tr-${t.id}">${translationBlocks(t)}</div>
       </div>`).join("");
+    el.querySelectorAll("[data-text-speak]").forEach(btn => {
+      if (!speechSupported()) { btn.style.display = "none"; return; }
+      const t = list.find(x => String(x.id) === btn.dataset.textSpeak);
+      if (t) btn.addEventListener("click", () => speak(t.body, lang.code, btn));
+    });
   }
   function toggleText(id) {
     const tr = document.getElementById("tr-" + id);
@@ -394,6 +490,7 @@
 
   /* ---------- Exercises ---------- */
   function renderExercises() {
+    stopSpeech();
     const inst = document.getElementById("exInstruction");
     const body = document.getElementById("exBody");
     const score = document.getElementById("exScore");
@@ -419,7 +516,8 @@
             const tr = lang.targets
               .map(tg => { const v = it["translation_" + tg.code] || ""; return v ? `<span class="l">${tg.label}</span> ${v}` : ""; })
               .filter(Boolean).join("<br>");
-            return `<div class="sentence">${before}<span class="blank" data-i="${i}">···</span>${after || ""}</div>
+            const play = speechSupported() ? `<button class="speak" type="button" title="Listen" aria-label="Listen" data-sent="${i}">${ICON_SPEAK}</button>` : "";
+            return `<div class="sentence">${play}<span class="sentence-text">${before}<span class="blank" data-i="${i}">···</span>${after || ""}</span></div>
               <div class="tr-line" data-tr="${i}">${tr}</div>`;
           }).join("")}
         </div>
@@ -480,6 +578,20 @@
         removeChip(word);
       });
     });
+
+    const ex = exList[exIndex];
+    if (ex) {
+      document.querySelectorAll("[data-sent]").forEach(btn => {
+        const i = Number(btn.dataset.sent);
+        const it = ex.items[i];
+        if (!it) return;
+        btn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          const full = String(it.sentence).replace(/___/g, it.answer);
+          speak(full, lang.code, btn);
+        });
+      });
+    }
   }
 
   function removeChip(word) {
@@ -524,18 +636,28 @@
 
   /* ---------- Grammar ---------- */
   function renderGrammar() {
+    stopSpeech();
     const el = document.getElementById("panel-grammar");
     if (!gList.length) { el.innerHTML = `<div class="empty">No grammar tables for this level.</div>`; return; }
+    const canSpeak = speechSupported();
     el.innerHTML = gList.map(g => `
       <div class="block">
         <div class="level-tag">${g.level}</div>
         <h3>${g.title}</h3>
         <p style="color:var(--muted);margin:0 0 12px">${g.description}</p>
         <table class="grid">
-          <thead><tr>${g.columns.map(c => `<th>${c}</th>`).join("")}</tr></thead>
-          <tbody>${g.rows.map(r => `<tr>${r.map(c => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody>
+          <thead><tr>${canSpeak ? '<th class="act"></th>' : ""}${g.columns.map(c => `<th>${c}</th>`).join("")}</tr></thead>
+          <tbody>${g.rows.map((r, ri) => `<tr>${canSpeak ? `<td class="act"><button class="speak" type="button" title="Listen" aria-label="Listen" data-gr-row="${g.id}:${ri}">${ICON_SPEAK}</button></td>` : ""}${r.map(c => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody>
         </table>
       </div>`).join("");
+    if (!canSpeak) return;
+    el.querySelectorAll("[data-gr-row]").forEach(btn => {
+      const [gid, ri] = String(btn.dataset.grRow).split(":");
+      const g = gList.find(x => String(x.id) === gid);
+      if (!g) return;
+      const text = grammarRowText(g, g.rows[Number(ri)] || []);
+      btn.addEventListener("click", () => speak(text, lang.code, btn));
+    });
   }
 
   /* ---------- Writing ---------- */
@@ -635,6 +757,7 @@
 
   /* ---------- Tabs & levels ---------- */
   function setTab(t) {
+    stopSpeech();
     tab = t;
     document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("active", b.dataset.tab === t));
     document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
@@ -738,6 +861,7 @@
   }
 
   function selectLang(code) {
+    stopSpeech();
     lang = LANG_BY_CODE[code];
     document.querySelectorAll("#langs button").forEach(b => b.classList.toggle("active", b.dataset.lang === code));
     document.getElementById("subtitle").textContent =

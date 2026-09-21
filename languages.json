@@ -3,6 +3,7 @@
     "code": "pl",
     "name": "Polish",
     "flag": "PL",
+    "speech": "pl-PL",
     "termLabel": "Polish",
     "termField": "polish",
     "targets": [
@@ -16,6 +17,7 @@
     "name": "English",
     "flag": "EN",
     "default": true,
+    "speech": "en-GB",
     "termLabel": "English",
     "termField": "english",
     "targets": [
@@ -27,6 +29,7 @@
     "code": "de",
     "name": "German",
     "flag": "DE",
+    "speech": "de-DE",
     "termLabel": "German",
     "termField": "german",
     "targets": [
@@ -39,6 +42,7 @@
     "code": "it",
     "name": "Italian",
     "flag": "IT",
+    "speech": "it-IT",
     "termLabel": "Italian",
     "termField": "italian",
     "targets": [
@@ -51,6 +55,7 @@
     "code": "pt",
     "name": "Portuguese",
     "flag": "PT",
+    "speech": "pt-BR",
     "termLabel": "Portuguese",
     "termField": "portuguese",
     "targets": [
@@ -63,6 +68,7 @@
     "code": "sv",
     "name": "Swedish",
     "flag": "SV",
+    "speech": "sv-SE",
     "termLabel": "Swedish",
     "termField": "swedish",
     "ipa": true,
