@@ -96,7 +96,7 @@
   {
     "code": "eu",
     "name": "Basque",
-    "flag": "🇪🇸",
+    "flag": "🪵",
     "speech": "eu-ES",
     "termLabel": "Basque",
     "termField": "basque",
@@ -167,6 +167,21 @@
     "termField": "japanese",
     "script": "japanese",
     "romaji": true,
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "flag": "🧞‍♂️",
+    "speech": "ar-SA",
+    "termLabel": "Arabic",
+    "termField": "arabic",
+    "script": "arabic",
+    "translit": true,
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
       {"code": "es", "field": "spanish", "label": "Español"}

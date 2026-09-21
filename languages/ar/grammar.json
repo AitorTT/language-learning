@@ -1,0 +1,2494 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Arabic script",
+    "description": "Arabic is written from right to left and letters change shape when they join.",
+    "columns": [
+      "Script",
+      "Example",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "direction",
+        "مرحبا",
+        "written from right to left",
+        "se escribe de derecha a izquierda"
+      ],
+      [
+        "joining",
+        "كتاب",
+        "letters join inside a word",
+        "las letras se unen dentro de la palabra"
+      ],
+      [
+        "short vowels",
+        "ـَ ـِ ـُ",
+        "short vowels are usually not written",
+        "las vocales breves no suelen escribirse"
+      ],
+      [
+        "definite article",
+        "ال",
+        "al- marks a definite noun",
+        "al- marca el sustantivo definido"
+      ],
+      [
+        "no capitals",
+        "أحمد",
+        "there are no capital letters",
+        "no hay letras mayúsculas"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Pronouns are often dropped when the verb already shows the person.",
+    "columns": [
+      "Person",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "أنا",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing. m.",
+        "أنت",
+        "you (m.)",
+        "tú (m.)"
+      ],
+      [
+        "2nd sing. f.",
+        "أنتِ",
+        "you (f.)",
+        "tú (f.)"
+      ],
+      [
+        "3rd sing. m.",
+        "هو",
+        "he",
+        "él"
+      ],
+      [
+        "3rd sing. f.",
+        "هي",
+        "she",
+        "ella"
+      ],
+      [
+        "1st plur.",
+        "نحن",
+        "we",
+        "nosotros"
+      ],
+      [
+        "3rd plur.",
+        "هم",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "The definite article ال",
+    "description": "ال makes a noun definite, like 'the' in English.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "a book",
+        "كتاب → الكتاب",
+        "a book → the book",
+        "un libro → el libro"
+      ],
+      [
+        "a house",
+        "بيت → البيت",
+        "a house → the house",
+        "una casa → la casa"
+      ],
+      [
+        "sun letter",
+        "الشمس",
+        "the sun (the l is assimilated)",
+        "el sol (la l se asimila)"
+      ],
+      [
+        "moon letter",
+        "القمر",
+        "the moon (the l is clear)",
+        "la luna (la l es clara)"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "هذا, هذه, هؤلاء",
+    "description": "Demonstratives agree with the gender and number of the noun.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "m. near",
+        "هذا",
+        "this (m.)",
+        "este"
+      ],
+      [
+        "f. near",
+        "هذه",
+        "this (f.)",
+        "esta"
+      ],
+      [
+        "plural near",
+        "هؤلاء",
+        "these",
+        "estos"
+      ],
+      [
+        "m. far",
+        "ذلك",
+        "that (m.)",
+        "aquel"
+      ],
+      [
+        "f. far",
+        "تلك",
+        "that (f.)",
+        "aquella"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "The nominal sentence",
+    "description": "There is no present tense verb 'to be': a subject plus a predicate is enough.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "no 'to be'",
+        "أنا طالب.",
+        "I am a student.",
+        "Soy estudiante."
+      ],
+      [
+        "with adjective",
+        "البيت كبير.",
+        "The house is big.",
+        "La casa es grande."
+      ],
+      [
+        "with a noun",
+        "هي طبيبة.",
+        "She is a doctor.",
+        "Ella es médica."
+      ],
+      [
+        "question",
+        "هل أنت طالب؟",
+        "Are you a student?",
+        "¿Eres estudiante?"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Adjectives agree with nouns",
+    "description": "The adjective follows the noun and matches its gender and number.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "m. sing.",
+        "كتاب جديد",
+        "a new book",
+        "un libro nuevo"
+      ],
+      [
+        "f. sing.",
+        "سيارة جديدة",
+        "a new car",
+        "un coche nuevo"
+      ],
+      [
+        "m. plur.",
+        "طلاب مجتهدون",
+        "hard-working students",
+        "estudiantes trabajadores"
+      ],
+      [
+        "f. plur.",
+        "طالبات مجتهدات",
+        "hard-working students (f.)",
+        "estudiantes trabajadoras"
+      ],
+      [
+        "non-human plur.",
+        "كتب جديدة",
+        "new books",
+        "libros nuevos"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Possessive suffixes",
+    "description": "Possession is shown by a suffix on the noun.",
+    "columns": [
+      "Person",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "كتابي",
+        "my book",
+        "mi libro"
+      ],
+      [
+        "your (m.)",
+        "كتابك",
+        "your book",
+        "tu libro"
+      ],
+      [
+        "his",
+        "كتابه",
+        "his book",
+        "su libro"
+      ],
+      [
+        "her",
+        "كتابها",
+        "her book",
+        "su libro (de ella)"
+      ],
+      [
+        "our",
+        "كتابنا",
+        "our book",
+        "nuestro libro"
+      ],
+      [
+        "their",
+        "كتابهم",
+        "their book",
+        "su libro (de ellos)"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "The idafa (إضافة)",
+    "description": "Two nouns are linked without any word for 'of'.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "possession",
+        "كتاب الطالب",
+        "the student's book",
+        "el libro del estudiante"
+      ],
+      [
+        "of the house",
+        "باب البيت",
+        "the door of the house",
+        "la puerta de la casa"
+      ],
+      [
+        "the teacher's",
+        "سيارة المعلم",
+        "the teacher's car",
+        "el coche del profesor"
+      ],
+      [
+        "with adjective",
+        "بيت أخي الكبير",
+        "my brother's big house",
+        "la casa grande de mi hermano"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "'To have' with عند",
+    "description": "Arabic has no verb 'to have'; it uses عند with a suffix.",
+    "columns": [
+      "Person",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "عندي كتاب.",
+        "I have a book.",
+        "Tengo un libro."
+      ],
+      [
+        "you have",
+        "عندك سيارة.",
+        "You have a car.",
+        "Tienes un coche."
+      ],
+      [
+        "he has",
+        "عنده بيت.",
+        "He has a house.",
+        "Él tiene una casa."
+      ],
+      [
+        "we have",
+        "عندنا كلب.",
+        "We have a dog.",
+        "Tenemos un perro."
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Present tense (المضارع)",
+    "description": "The present is built from a stem with prefixes and suffixes.",
+    "columns": [
+      "Person",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "أكتب",
+        "I write",
+        "escribo"
+      ],
+      [
+        "you (m.)",
+        "تكتب",
+        "you write",
+        "escribes"
+      ],
+      [
+        "he",
+        "يكتب",
+        "he writes",
+        "escribe"
+      ],
+      [
+        "she",
+        "تكتب",
+        "she writes",
+        "escribe (ella)"
+      ],
+      [
+        "we",
+        "نكتب",
+        "we write",
+        "escribimos"
+      ],
+      [
+        "they",
+        "يكتبون",
+        "they write",
+        "escriben"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Negating the present",
+    "description": "لا negates verbs, while ليس negates nouns and adjectives.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I do not",
+        "لا أكتب.",
+        "I do not write.",
+        "No escribo."
+      ],
+      [
+        "he does not",
+        "لا يذهب.",
+        "He does not go.",
+        "Él no va."
+      ],
+      [
+        "not a noun",
+        "هذا ليس كتابا.",
+        "This is not a book.",
+        "Esto no es un libro."
+      ],
+      [
+        "not an adjective",
+        "أنا لست متعبا.",
+        "I am not tired.",
+        "No estoy cansado."
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Past tense (الماضي)",
+    "description": "The past is formed with suffixes on the stem.",
+    "columns": [
+      "Person",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "كتبت",
+        "I wrote",
+        "escribí"
+      ],
+      [
+        "you (m.)",
+        "كتبت",
+        "you wrote",
+        "escribiste"
+      ],
+      [
+        "he",
+        "كتب",
+        "he wrote",
+        "escribió"
+      ],
+      [
+        "she",
+        "كتبت",
+        "she wrote",
+        "escribió (ella)"
+      ],
+      [
+        "we",
+        "كتبنا",
+        "we wrote",
+        "escribimos"
+      ],
+      [
+        "they",
+        "كتبوا",
+        "they wrote",
+        "escribieron"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words usually come at the start of the sentence.",
+    "columns": [
+      "Word",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "ما",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "من",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "أين",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "متى",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "لماذا",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "كيف",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Prepositions",
+    "description": "Prepositions are always followed by a noun.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in",
+        "في البيت",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "on",
+        "على الطاولة",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "to",
+        "إلى المدرسة",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "from",
+        "من مصر",
+        "from Egypt",
+        "de Egipto"
+      ],
+      [
+        "with",
+        "مع صديقي",
+        "with my friend",
+        "con mi amigo"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers precede the noun, which is then usually plural.",
+    "columns": [
+      "Number",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "واحد",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "اثنان",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "ثلاثة",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "أربعة",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "خمسة",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "ستة",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "سبعة",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "ثمانية",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "تسعة",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "عشرة",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "The week starts on Sunday in the Arabic calendar.",
+    "columns": [
+      "Day",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "الأحد",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "الاثنين",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "الثلاثاء",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "الأربعاء",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "الخميس",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "الجمعة",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "السبت",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours are adjectives and agree with the noun.",
+    "columns": [
+      "Colour",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "أحمر",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "أزرق",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "أخضر",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "أسود",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "أبيض",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "أصفر",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "Arabic has sound plurals and many broken plurals.",
+    "columns": [
+      "Type",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "sound m.",
+        "معلم → معلمون",
+        "teacher → teachers",
+        "profesor → profesores"
+      ],
+      [
+        "sound f.",
+        "معلمة → معلمات",
+        "teacher (f.) → teachers",
+        "profesora → profesoras"
+      ],
+      [
+        "broken",
+        "كتاب → كتب",
+        "book → books",
+        "libro → libros"
+      ],
+      [
+        "broken",
+        "مدينة → مدن",
+        "city → cities",
+        "ciudad → ciudades"
+      ],
+      [
+        "broken",
+        "بيت → بيوت",
+        "house → houses",
+        "casa → casas"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The future",
+    "description": "سوف or the prefix سـ before the present gives the future.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with سوف",
+        "سوف أدرس.",
+        "I will study.",
+        "Estudiaré."
+      ],
+      [
+        "with سـ",
+        "سأسافر غدا.",
+        "I will travel tomorrow.",
+        "Viajaré mañana."
+      ],
+      [
+        "negative",
+        "لن أتأخر.",
+        "I will not be late.",
+        "No llegaré tarde."
+      ],
+      [
+        "question",
+        "هل ستأتي؟",
+        "Will you come?",
+        "¿Vendrás?"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The imperative (الأمر)",
+    "description": "The imperative is used for direct commands.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "write!",
+        "اكتب",
+        "write!",
+        "¡escribe!"
+      ],
+      [
+        "listen!",
+        "اسمع",
+        "listen!",
+        "¡escucha!"
+      ],
+      [
+        "go!",
+        "اذهب",
+        "go!",
+        "¡ve!"
+      ],
+      [
+        "polite",
+        "اكتب من فضلك",
+        "please write",
+        "escribe, por favor"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "The pattern أفعل forms the comparative and superlative.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "أكبر",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "taller than",
+        "أطول من",
+        "taller than",
+        "más alto que"
+      ],
+      [
+        "the best",
+        "الأفضل",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "as … as",
+        "كبير كـ",
+        "as big as",
+        "tan grande como"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Relative pronouns",
+    "description": "الذي and its forms link a noun to a following clause.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "m. sing.",
+        "الذي",
+        "who / which (m.)",
+        "que (m.)"
+      ],
+      [
+        "f. sing.",
+        "التي",
+        "who / which (f.)",
+        "que (f.)"
+      ],
+      [
+        "m. plur.",
+        "الذين",
+        "who (m. pl.)",
+        "que (m. pl.)"
+      ],
+      [
+        "f. plur.",
+        "اللواتي",
+        "who (f. pl.)",
+        "que (f. pl.)"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Object pronouns",
+    "description": "Object pronouns are suffixes attached to the verb.",
+    "columns": [
+      "Pronoun",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "him",
+        "ـه",
+        "him",
+        "lo"
+      ],
+      [
+        "her",
+        "ـها",
+        "her",
+        "la"
+      ],
+      [
+        "them",
+        "ـهم",
+        "them",
+        "los"
+      ],
+      [
+        "me",
+        "ـني",
+        "me",
+        "me"
+      ],
+      [
+        "you",
+        "ـك",
+        "you",
+        "te"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "كان (was / were)",
+    "description": "كان takes the same suffixes as the past tense.",
+    "columns": [
+      "Person",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "كنت",
+        "I was",
+        "yo era / estaba"
+      ],
+      [
+        "you",
+        "كنت",
+        "you were",
+        "tú eras"
+      ],
+      [
+        "he",
+        "كان",
+        "he was",
+        "él era"
+      ],
+      [
+        "she",
+        "كانت",
+        "she was",
+        "ella era"
+      ],
+      [
+        "we",
+        "كنا",
+        "we were",
+        "nosotros éramos"
+      ],
+      [
+        "they",
+        "كانوا",
+        "they were",
+        "ellos eran"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "كان + present (habitual past)",
+    "description": "كان with the present tense describes a past habit.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I used to",
+        "كنت أدرس كل يوم.",
+        "I used to study every day.",
+        "Solía estudiar todos los días."
+      ],
+      [
+        "he used to",
+        "كان يلعب.",
+        "He used to play.",
+        "Él solía jugar."
+      ],
+      [
+        "we used to",
+        "كنا نسافر.",
+        "We used to travel.",
+        "Solíamos viajar."
+      ],
+      [
+        "they used to",
+        "كانوا يعملون.",
+        "They used to work.",
+        "Ellos solían trabajar."
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Adverbs of time and place",
+    "description": "These words can stand alone at the start of a sentence.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "here",
+        "هنا",
+        "here",
+        "aquí"
+      ],
+      [
+        "there",
+        "هناك",
+        "there",
+        "allí"
+      ],
+      [
+        "today",
+        "اليوم",
+        "today",
+        "hoy"
+      ],
+      [
+        "yesterday",
+        "أمس",
+        "yesterday",
+        "ayer"
+      ],
+      [
+        "tomorrow",
+        "غدا",
+        "tomorrow",
+        "mañana"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Yes/no questions",
+    "description": "هل or the prefix أ turns a statement into a question.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "هل",
+        "هل أنت طالب؟",
+        "Are you a student?",
+        "¿Eres estudiante?"
+      ],
+      [
+        "أ",
+        "أتعرف هذا الرجل؟",
+        "Do you know this man?",
+        "¿Conoces a este hombre?"
+      ],
+      [
+        "yes",
+        "نعم",
+        "yes",
+        "sí"
+      ],
+      [
+        "no",
+        "لا",
+        "no",
+        "no"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Numbers 11–20",
+    "description": "The teens are formed with عشر after the unit.",
+    "columns": [
+      "Number",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "أحد عشر",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "اثنا عشر",
+        "twelve",
+        "doce"
+      ],
+      [
+        "13",
+        "ثلاثة عشر",
+        "thirteen",
+        "trece"
+      ],
+      [
+        "15",
+        "خمسة عشر",
+        "fifteen",
+        "quince"
+      ],
+      [
+        "20",
+        "عشرون",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals follow the pattern الأول, الثاني, الثالث.",
+    "columns": [
+      "Ordinal",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "الأول",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "الثاني",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "الثالث",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "الأخير",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Time is expressed with الساعة plus the ordinal number.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "الساعة الواحدة",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "في الساعة السابعة",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "الساعة السابعة والنصف",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "والربع",
+        "quarter past",
+        "y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Months",
+    "description": "Many month names are borrowed from European languages.",
+    "columns": [
+      "Month",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "يناير",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "مارس",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "يونيو",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "سبتمبر",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "ديسمبر",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Places in the city",
+    "description": "These nouns are used with في and إلى.",
+    "columns": [
+      "Place",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "museum",
+        "متحف",
+        "museum",
+        "museo"
+      ],
+      [
+        "library",
+        "مكتبة",
+        "library",
+        "biblioteca"
+      ],
+      [
+        "market",
+        "سوق",
+        "market",
+        "mercado"
+      ],
+      [
+        "station",
+        "محطة",
+        "station",
+        "estación"
+      ],
+      [
+        "square",
+        "ساحة",
+        "square",
+        "plaza"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use the preposition بـ.",
+    "columns": [
+      "Means",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "بالحافلة",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "بالقطار",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "بالطائرة",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "سيرا على الأقدام",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather is often expressed with an impersonal verb or الجو.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "تمطر",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "الجو حار",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "الجو بارد",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "الجو مشمس",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The passive voice",
+    "description": "The passive changes the vowel pattern of the verb.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was written",
+        "كُتب الكتاب.",
+        "The book was written.",
+        "El libro fue escrito."
+      ],
+      [
+        "was built",
+        "بُني الجسر.",
+        "The bridge was built.",
+        "El puente fue construido."
+      ],
+      [
+        "is served",
+        "يُقدم الطعام.",
+        "The food is served.",
+        "La comida se sirve."
+      ],
+      [
+        "was sent",
+        "أُرسلت الرسالة.",
+        "The letter was sent.",
+        "La carta fue enviada."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Obligation",
+    "description": "يجب and ينبغي express duty, need and advice.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "must",
+        "يجب أن تدرس.",
+        "You must study.",
+        "Debes estudiar."
+      ],
+      [
+        "had to",
+        "كان يجب أن أذهب.",
+        "I had to go.",
+        "Tenía que ir."
+      ],
+      [
+        "should",
+        "ينبغي أن ترتاح.",
+        "You should rest.",
+        "Deberías descansar."
+      ],
+      [
+        "must not",
+        "يجب ألا تتأخر.",
+        "You must not be late.",
+        "No debes llegar tarde."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Conditionals",
+    "description": "إذا and إن introduce real conditions; لو introduces unreal ones.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "real",
+        "إذا درست، تنجح.",
+        "If you study, you succeed.",
+        "Si estudias, apruebas."
+      ],
+      [
+        "real",
+        "إن جاء، أخبرني.",
+        "If he comes, tell me.",
+        "Si viene, avísame."
+      ],
+      [
+        "unreal",
+        "لو درست، لنجحت.",
+        "If you had studied, you would have passed.",
+        "Si hubieras estudiado, habrías aprobado."
+      ],
+      [
+        "without",
+        "لولا مساعدتك، لفشلت.",
+        "Without your help, I would have failed.",
+        "Sin tu ayuda, habría fracasado."
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Purpose",
+    "description": "لكي, حتى and من أجل express purpose.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in order to",
+        "أدرس لكي أنجح.",
+        "I study in order to pass.",
+        "Estudio para aprobar."
+      ],
+      [
+        "until",
+        "انتظر حتى يعود.",
+        "Wait until he returns.",
+        "Espera hasta que vuelva."
+      ],
+      [
+        "for",
+        "أعمل من أجل عائلتي.",
+        "I work for my family.",
+        "Trabajo por mi familia."
+      ],
+      [
+        "so that",
+        "تكلم بصوت عال حتى أسمعك.",
+        "Speak loudly so that I can hear you.",
+        "Habla alto para que te oiga."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "These words link clauses and sentences.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "لكن",
+        "but",
+        "pero"
+      ],
+      [
+        "therefore",
+        "لذلك",
+        "therefore",
+        "por eso"
+      ],
+      [
+        "although",
+        "على الرغم من أن",
+        "although",
+        "aunque"
+      ],
+      [
+        "whereas",
+        "بينما",
+        "whereas",
+        "mientras que"
+      ],
+      [
+        "moreover",
+        "علاوة على ذلك",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Past perfect",
+    "description": "كان قد with the past tense expresses an earlier action.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I had",
+        "كنت قد قرأت.",
+        "I had read.",
+        "Había leído."
+      ],
+      [
+        "he had",
+        "كان قد وصل.",
+        "He had arrived.",
+        "Él había llegado."
+      ],
+      [
+        "we had",
+        "كنا قد زرنا.",
+        "We had visited.",
+        "Habíamos visitado."
+      ],
+      [
+        "they had",
+        "كانوا قد انتهوا.",
+        "They had finished.",
+        "Habían terminado."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "The superlative",
+    "description": "The definite form of أفعل gives the superlative.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "best",
+        "الأفضل",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "biggest",
+        "الأكبر",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "most beautiful",
+        "الأجمل",
+        "the most beautiful",
+        "el más bonito"
+      ],
+      [
+        "one of the …",
+        "من أكبر المدن",
+        "one of the biggest cities",
+        "una de las ciudades más grandes"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "دائما",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "غالبا",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "أحيانا",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "نادرا",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "أبدا",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Forming abstract nouns",
+    "description": "Arabic builds abstract nouns from many patterns.",
+    "columns": [
+      "Type",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "quality",
+        "حكمة",
+        "wisdom",
+        "sabiduría"
+      ],
+      [
+        "state",
+        "سعادة",
+        "happiness",
+        "felicidad"
+      ],
+      [
+        "process",
+        "تطور",
+        "development",
+        "desarrollo"
+      ],
+      [
+        "result",
+        "نتيجة",
+        "result",
+        "resultado"
+      ],
+      [
+        "concept",
+        "حرية",
+        "freedom",
+        "libertad"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "The verbal noun (المصدر)",
+    "description": "The masdar is the noun of an action and works like an infinitive.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "قراءة",
+        "reading",
+        "lectura"
+      ],
+      [
+        "writing",
+        "كتابة",
+        "writing",
+        "escritura"
+      ],
+      [
+        "travelling",
+        "سفر",
+        "travelling",
+        "viaje"
+      ],
+      [
+        "working",
+        "عمل",
+        "work",
+        "trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Nominal and verbal sentences",
+    "description": "Arabic sentences begin either with a noun or with a verb.",
+    "columns": [
+      "Type",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nominal",
+        "الطالب مجتهد.",
+        "The student is diligent.",
+        "El estudiante es aplicado."
+      ],
+      [
+        "verbal",
+        "يدرس الطالب.",
+        "The student studies.",
+        "El estudiante estudia."
+      ],
+      [
+        "verb first",
+        "كتب الرسالة.",
+        "He wrote the letter.",
+        "Escribió la carta."
+      ],
+      [
+        "question",
+        "هل الطالب مجتهد؟",
+        "Is the student diligent?",
+        "¿Es aplicado el estudiante?"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "علاج",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "عرض",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "وصفة طبية",
+        "prescription",
+        "receta médica"
+      ],
+      [
+        "vaccine",
+        "لقاح",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "تأمين",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Participles",
+    "description": "اسم الفاعل names the doer; اسم المفعول describes what is done.",
+    "columns": [
+      "Type",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "active",
+        "كاتب",
+        "writer (one who writes)",
+        "el que escribe"
+      ],
+      [
+        "passive",
+        "مكتوب",
+        "written",
+        "escrito"
+      ],
+      [
+        "passive",
+        "مفتوح",
+        "opened",
+        "abierto"
+      ],
+      [
+        "passive",
+        "مغلقة",
+        "closed",
+        "cerrada"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "The circumstantial حال",
+    "description": "الحال describes the state of someone during an action.",
+    "columns": [
+      "Use",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "state",
+        "عاد مسرورا.",
+        "He returned happy.",
+        "Volvió contento."
+      ],
+      [
+        "manner",
+        "أكلت واقفا.",
+        "I ate standing.",
+        "Comí de pie."
+      ],
+      [
+        "plural",
+        "جاءوا مسرعين.",
+        "They came hurrying.",
+        "Vinieron corriendo."
+      ],
+      [
+        "negated",
+        "ذهب دون أن يتكلم.",
+        "He went without speaking.",
+        "Se fue sin hablar."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "تضخم",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "merger",
+        "اندماج",
+        "merger",
+        "fusión"
+      ],
+      [
+        "bankruptcy",
+        "إفلاس",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "دعم",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "tariff",
+        "رسوم جمركية",
+        "tariff",
+        "arancel"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "دستور",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "برلمان",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "حكم",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "مدعي",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "مدعى عليه",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Academic writing",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "منهجية",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "ارتباط",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "متغير",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "تجريبي",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "كمي",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Environment and climate",
+    "description": "Vocabulary of ecology and climate change.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "biodiversity",
+        "تنوع حيوي",
+        "biodiversity",
+        "biodiversidad"
+      ],
+      [
+        "deforestation",
+        "إزالة الغابات",
+        "deforestation",
+        "deforestación"
+      ],
+      [
+        "habitat",
+        "موطن",
+        "habitat",
+        "hábitat"
+      ],
+      [
+        "emission",
+        "انبعاث",
+        "emission",
+        "emisión"
+      ],
+      [
+        "erosion",
+        "تآكل",
+        "erosion",
+        "erosión"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Verbs of change",
+    "description": "Verbs that describe weakening, strengthening or worsening.",
+    "columns": [
+      "Verb",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to mitigate",
+        "يخفف",
+        "to mitigate",
+        "mitigar"
+      ],
+      [
+        "to reinforce",
+        "يعزز",
+        "to reinforce",
+        "reforzar"
+      ],
+      [
+        "to undermine",
+        "يقوض",
+        "to undermine",
+        "socavar"
+      ],
+      [
+        "to deteriorate",
+        "يتدهور",
+        "to deteriorate",
+        "deteriorarse"
+      ],
+      [
+        "to exacerbate",
+        "يفاقم",
+        "to exacerbate",
+        "agravar"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Rhetoric and discourse",
+    "description": "Vocabulary for argument, bias and style.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "بلاغة",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "خطاب",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "غموض",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "bias",
+        "تحيز",
+        "bias",
+        "sesgo"
+      ],
+      [
+        "argument",
+        "حجة",
+        "argument",
+        "argumento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "وعي",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "وجود",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "هوية",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "مفارقة",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "مأزق",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Formal connectors",
+    "description": "Linkers typical of formal written Arabic.",
+    "columns": [
+      "Connector",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "regarding",
+        "فيما يتعلق بـ",
+        "regarding",
+        "en cuanto a"
+      ],
+      [
+        "despite",
+        "على الرغم من",
+        "despite",
+        "a pesar de"
+      ],
+      [
+        "nevertheless",
+        "مع ذلك",
+        "nevertheless",
+        "sin embargo"
+      ],
+      [
+        "considering",
+        "بالنظر إلى",
+        "considering",
+        "considerando"
+      ],
+      [
+        "therefore",
+        "وبالتالي",
+        "therefore",
+        "por lo tanto"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Technology and ethics",
+    "description": "Vocabulary of digital life and its risks.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "privacy",
+        "خصوصية",
+        "privacy",
+        "privacidad"
+      ],
+      [
+        "encryption",
+        "تشفير",
+        "encryption",
+        "cifrado"
+      ],
+      [
+        "algorithm",
+        "خوارزمية",
+        "algorithm",
+        "algoritmo"
+      ],
+      [
+        "artificial intelligence",
+        "الذكاء الاصطناعي",
+        "artificial intelligence",
+        "inteligencia artificial"
+      ],
+      [
+        "cybersecurity",
+        "الأمن السيبراني",
+        "cybersecurity",
+        "ciberseguridad"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Arabic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last",
+        "يدوم",
+        "to last",
+        "durar"
+      ],
+      [
+        "to repair",
+        "يصلح",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "يعيد التدوير",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "انبعاثات الكربون",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "مستدام",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  }
+]

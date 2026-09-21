@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ طالب.",
+        "answer": "أنا",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ مهندس.",
+        "answer": "هو",
+        "translation_en": "He is an engineer.",
+        "translation_es": "Él es ingeniero."
+      },
+      {
+        "sentence": "___ طبيبة.",
+        "answer": "هي",
+        "translation_en": "She is a doctor.",
+        "translation_es": "Ella es médica."
+      },
+      {
+        "sentence": "___ أصدقاء.",
+        "answer": "نحن",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct demonstrative into each gap.",
+    "items": [
+      {
+        "sentence": "___ كتاب.",
+        "answer": "هذا",
+        "translation_en": "This is a book.",
+        "translation_es": "Este es un libro."
+      },
+      {
+        "sentence": "___ سيارة.",
+        "answer": "هذه",
+        "translation_en": "This is a car.",
+        "translation_es": "Este es un coche."
+      },
+      {
+        "sentence": "___ طلاب.",
+        "answer": "هؤلاء",
+        "translation_en": "These are students.",
+        "translation_es": "Estos son estudiantes."
+      },
+      {
+        "sentence": "___ بيت بعيد.",
+        "answer": "ذلك",
+        "translation_en": "That is a distant house.",
+        "translation_es": "Esa es una casa lejana."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct possessive form into each gap.",
+    "items": [
+      {
+        "sentence": "هذا ___ .",
+        "answer": "كتابي",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "هذه ___ .",
+        "answer": "سيارتك",
+        "translation_en": "This is your car.",
+        "translation_es": "Este es tu coche."
+      },
+      {
+        "sentence": "هذا ___ .",
+        "answer": "بيته",
+        "translation_en": "This is his house.",
+        "translation_es": "Esta es su casa."
+      },
+      {
+        "sentence": "هذه ___ .",
+        "answer": "مدرستنا",
+        "translation_en": "This is our school.",
+        "translation_es": "Esta es nuestra escuela."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct possessive construction into each gap.",
+    "items": [
+      {
+        "sentence": "هذا ___ .",
+        "answer": "كتاب الطالب",
+        "translation_en": "This is the student's book.",
+        "translation_es": "Este es el libro del estudiante."
+      },
+      {
+        "sentence": "هذه ___ .",
+        "answer": "سيارة المعلم",
+        "translation_en": "This is the teacher's car.",
+        "translation_es": "Este es el coche del profesor."
+      },
+      {
+        "sentence": "هذا ___ .",
+        "answer": "باب البيت",
+        "translation_en": "This is the door of the house.",
+        "translation_es": "Esta es la puerta de la casa."
+      },
+      {
+        "sentence": "هذه ___ .",
+        "answer": "غرفة الأم",
+        "translation_en": "This is the mother's room.",
+        "translation_es": "Esta es la habitación de la madre."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "هذا كتاب ___ .",
+        "answer": "جديد",
+        "translation_en": "This is a new book.",
+        "translation_es": "Este es un libro nuevo."
+      },
+      {
+        "sentence": "هذه سيارة ___ .",
+        "answer": "جديدة",
+        "translation_en": "This is a new car.",
+        "translation_es": "Este es un coche nuevo."
+      },
+      {
+        "sentence": "هؤلاء طلاب ___ .",
+        "answer": "مجتهدون",
+        "translation_en": "These are hard-working students.",
+        "translation_es": "Estos son estudiantes trabajadores."
+      },
+      {
+        "sentence": "هذا بيت ___ .",
+        "answer": "كبير",
+        "translation_en": "This is a big house.",
+        "translation_es": "Esta es una casa grande."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct plural into each gap.",
+    "items": [
+      {
+        "sentence": "هؤلاء ___ .",
+        "answer": "طلاب",
+        "translation_en": "These are students.",
+        "translation_es": "Estos son estudiantes."
+      },
+      {
+        "sentence": "عندي ثلاث ___ .",
+        "answer": "كتب",
+        "translation_en": "I have three books.",
+        "translation_es": "Tengo tres libros."
+      },
+      {
+        "sentence": "في الحديقة ___ .",
+        "answer": "أشجار",
+        "translation_en": "There are trees in the garden.",
+        "translation_es": "Hay árboles en el jardín."
+      },
+      {
+        "sentence": "هؤلاء ___ .",
+        "answer": "معلمون",
+        "translation_en": "These are teachers.",
+        "translation_es": "Estos son profesores."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "عندي ___ كتب.",
+        "answer": "ثلاثة",
+        "translation_en": "I have three books.",
+        "translation_es": "Tengo tres libros."
+      },
+      {
+        "sentence": "في البيت ___ غرف.",
+        "answer": "خمس",
+        "translation_en": "There are five rooms in the house.",
+        "translation_es": "Hay cinco habitaciones en la casa."
+      },
+      {
+        "sentence": "عمر أخي ___ سنوات.",
+        "answer": "سبع",
+        "translation_en": "My brother is seven years old.",
+        "translation_es": "Mi hermano tiene siete años."
+      },
+      {
+        "sentence": "اليوم هو ___ من الشهر.",
+        "answer": "العاشر",
+        "translation_en": "Today is the tenth of the month.",
+        "translation_es": "Hoy es el diez del mes."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "السماء ___ .",
+        "answer": "زرقاء",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "الورقة ___ .",
+        "answer": "بيضاء",
+        "translation_en": "The paper is white.",
+        "translation_es": "El papel es blanco."
+      },
+      {
+        "sentence": "التفاحة ___ .",
+        "answer": "حمراء",
+        "translation_en": "The apple is red.",
+        "translation_es": "La manzana es roja."
+      },
+      {
+        "sentence": "العشب ___ .",
+        "answer": "أخضر",
+        "translation_en": "The grass is green.",
+        "translation_es": "La hierba es verde."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ اسمك؟",
+        "answer": "ما",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ تسكن؟",
+        "answer": "أين",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ هذا؟",
+        "answer": "من",
+        "translation_en": "Who is this?",
+        "translation_es": "¿Quién es este?"
+      },
+      {
+        "sentence": "___ تذهب إلى المدرسة؟",
+        "answer": "متى",
+        "translation_en": "When do you go to school?",
+        "translation_es": "¿Cuándo vas a la escuela?"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "أنا ___ البيت.",
+        "answer": "في",
+        "translation_en": "I am at home.",
+        "translation_es": "Estoy en casa."
+      },
+      {
+        "sentence": "الكتاب ___ الطاولة.",
+        "answer": "على",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "أذهب ___ المدرسة.",
+        "answer": "إلى",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "أنا ___ مصر.",
+        "answer": "من",
+        "translation_en": "I am from Egypt.",
+        "translation_es": "Soy de Egipto."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "أنا ___ طالب.",
+        "answer": "لست",
+        "translation_en": "I am not a student.",
+        "translation_es": "No soy estudiante."
+      },
+      {
+        "sentence": "هذا ___ كتاب.",
+        "answer": "ليس",
+        "translation_en": "This is not a book.",
+        "translation_es": "Esto no es un libro."
+      },
+      {
+        "sentence": "___ أحب القهوة.",
+        "answer": "لا",
+        "translation_en": "I do not like coffee.",
+        "translation_es": "No me gusta el café."
+      },
+      {
+        "sentence": "هي ___ طبيبة.",
+        "answer": "ليست",
+        "translation_en": "She is not a doctor.",
+        "translation_es": "Ella no es médica."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense verb into each gap.",
+    "items": [
+      {
+        "sentence": "أنا ___ العربية.",
+        "answer": "أتكلم",
+        "translation_en": "I speak Arabic.",
+        "translation_es": "Hablo árabe."
+      },
+      {
+        "sentence": "هو ___ في البنك.",
+        "answer": "يعمل",
+        "translation_en": "He works in a bank.",
+        "translation_es": "Él trabaja en un banco."
+      },
+      {
+        "sentence": "نحن ___ الخبز.",
+        "answer": "نأكل",
+        "translation_en": "We eat bread.",
+        "translation_es": "Comemos pan."
+      },
+      {
+        "sentence": "هم ___ في المدرسة.",
+        "answer": "يدرسون",
+        "translation_en": "They study at school.",
+        "translation_es": "Ellos estudian en la escuela."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct past form of 'to be' into each gap.",
+    "items": [
+      {
+        "sentence": "___ الجو باردا أمس.",
+        "answer": "كان",
+        "translation_en": "The weather was cold yesterday.",
+        "translation_es": "El tiempo era frío ayer."
+      },
+      {
+        "sentence": "___ في البيت.",
+        "answer": "كنت",
+        "translation_en": "I was at home.",
+        "translation_es": "Estaba en casa."
+      },
+      {
+        "sentence": "___ طالبين.",
+        "answer": "كنا",
+        "translation_en": "We were students.",
+        "translation_es": "Éramos estudiantes."
+      },
+      {
+        "sentence": "___ في المدرسة.",
+        "answer": "كانوا",
+        "translation_en": "They were at school.",
+        "translation_es": "Estaban en la escuela."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to have' into each gap.",
+    "items": [
+      {
+        "sentence": "___ كتاب.",
+        "answer": "عندي",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "___ سيارة.",
+        "answer": "عنده",
+        "translation_en": "He has a car.",
+        "translation_es": "Él tiene un coche."
+      },
+      {
+        "sentence": "___ بيت كبير.",
+        "answer": "عندنا",
+        "translation_en": "We have a big house.",
+        "translation_es": "Tenemos una casa grande."
+      },
+      {
+        "sentence": "___ كلب.",
+        "answer": "عندها",
+        "translation_en": "She has a dog.",
+        "translation_es": "Ella tiene un perro."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct phrase into each gap.",
+    "items": [
+      {
+        "sentence": "___ ! اسمي آنا.",
+        "answer": "مرحبا",
+        "translation_en": "Hello! My name is Anna.",
+        "translation_es": "¡Hola! Me llamo Anna."
+      },
+      {
+        "sentence": "___ على المساعدة.",
+        "answer": "شكرا",
+        "translation_en": "Thank you for the help.",
+        "translation_es": "Gracias por la ayuda."
+      },
+      {
+        "sentence": "___ ، هل يمكنك المساعدة؟",
+        "answer": "من فضلك",
+        "translation_en": "Please, can you help?",
+        "translation_es": "Por favor, ¿puedes ayudar?"
+      },
+      {
+        "sentence": "___ ، لقد تأخرت.",
+        "answer": "آسف",
+        "translation_en": "Sorry, I am late.",
+        "translation_es": "Lo siento, llego tarde."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "أذهب إلى العمل يوم ___ .",
+        "answer": "الأحد",
+        "translation_en": "I go to work on Sunday.",
+        "translation_es": "Voy a trabajar el domingo."
+      },
+      {
+        "sentence": "ندرس يوم ___ .",
+        "answer": "الاثنين",
+        "translation_en": "We study on Monday.",
+        "translation_es": "Estudiamos el lunes."
+      },
+      {
+        "sentence": "العطلة يوم ___ .",
+        "answer": "الجمعة",
+        "translation_en": "The day off is Friday.",
+        "translation_es": "El día libre es el viernes."
+      },
+      {
+        "sentence": "نلعب كرة القدم يوم ___ .",
+        "answer": "السبت",
+        "translation_en": "We play football on Saturday.",
+        "translation_es": "Jugamos al fútbol el sábado."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "هذه ___ .",
+        "answer": "أمي",
+        "translation_en": "This is my mother.",
+        "translation_es": "Esta es mi madre."
+      },
+      {
+        "sentence": "هذا ___ .",
+        "answer": "أبي",
+        "translation_en": "This is my father.",
+        "translation_es": "Este es mi padre."
+      },
+      {
+        "sentence": "عندي ___ واحد.",
+        "answer": "أخ",
+        "translation_en": "I have one brother.",
+        "translation_es": "Tengo un hermano."
+      },
+      {
+        "sentence": "هذه ___ .",
+        "answer": "أختي",
+        "translation_en": "This is my sister.",
+        "translation_es": "Esta es mi hermana."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct body part into each gap.",
+    "items": [
+      {
+        "sentence": "أكتب ب___ .",
+        "answer": "يدي",
+        "translation_en": "I write with my hand.",
+        "translation_es": "Escribo con mi mano."
+      },
+      {
+        "sentence": "أسمع ب___ .",
+        "answer": "أذني",
+        "translation_en": "I hear with my ear.",
+        "translation_es": "Oigo con mi oreja."
+      },
+      {
+        "sentence": "أمشي ب___ .",
+        "answer": "قدمي",
+        "translation_en": "I walk with my foot.",
+        "translation_es": "Camino con mi pie."
+      },
+      {
+        "sentence": "أرى ب___ .",
+        "answer": "عيني",
+        "translation_en": "I see with my eye.",
+        "translation_es": "Veo con mi ojo."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct food word into each gap.",
+    "items": [
+      {
+        "sentence": "أشرب ___ في الصباح.",
+        "answer": "الحليب",
+        "translation_en": "I drink milk in the morning.",
+        "translation_es": "Bebo leche por la mañana."
+      },
+      {
+        "sentence": "آكل ___ على الفطور.",
+        "answer": "الخبز",
+        "translation_en": "I eat bread for breakfast.",
+        "translation_es": "Como pan en el desayuno."
+      },
+      {
+        "sentence": "أحب ___ كثيرا.",
+        "answer": "التفاح",
+        "translation_en": "I like apples very much.",
+        "translation_es": "Me gustan mucho las manzanas."
+      },
+      {
+        "sentence": "نشرب ___ بعد الغداء.",
+        "answer": "الشاي",
+        "translation_en": "We drink tea after lunch.",
+        "translation_es": "Bebemos té después del almuerzo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "المتجر على ___ .",
+        "answer": "اليسار",
+        "translation_en": "The shop is on the left.",
+        "translation_es": "La tienda está a la izquierda."
+      },
+      {
+        "sentence": "البنك على ___ .",
+        "answer": "اليمين",
+        "translation_en": "The bank is on the right.",
+        "translation_es": "El banco está a la derecha."
+      },
+      {
+        "sentence": "المدرسة ___ .",
+        "answer": "قريبة",
+        "translation_en": "The school is near.",
+        "translation_es": "La escuela está cerca."
+      },
+      {
+        "sentence": "المطار ___ .",
+        "answer": "بعيد",
+        "translation_en": "The airport is far.",
+        "translation_es": "El aeropuerto está lejos."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct past-tense verb into each gap.",
+    "items": [
+      {
+        "sentence": "أمس ___ إلى السوق.",
+        "answer": "ذهبت",
+        "translation_en": "Yesterday I went to the market.",
+        "translation_es": "Ayer fui al mercado."
+      },
+      {
+        "sentence": "___ الفيلم أمس.",
+        "answer": "شاهدنا",
+        "translation_en": "We watched the film yesterday.",
+        "translation_es": "Vimos la película ayer."
+      },
+      {
+        "sentence": "هو ___ الدرس.",
+        "answer": "كتب",
+        "translation_en": "He wrote the lesson.",
+        "translation_es": "Él escribió la lección."
+      },
+      {
+        "sentence": "هم ___ الطعام.",
+        "answer": "أكلوا",
+        "translation_en": "They ate the food.",
+        "translation_es": "Ellos comieron la comida."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct future form into each gap.",
+    "items": [
+      {
+        "sentence": "غدا ___ إلى القاهرة.",
+        "answer": "سأسافر",
+        "translation_en": "Tomorrow I will travel to Cairo.",
+        "translation_es": "Mañana viajaré a El Cairo."
+      },
+      {
+        "sentence": "___ ندرس معا.",
+        "answer": "سوف",
+        "translation_en": "We will study together.",
+        "translation_es": "Estudiaremos juntos."
+      },
+      {
+        "sentence": "هي ___ الطعام.",
+        "answer": "ستطبخ",
+        "translation_en": "She will cook the food.",
+        "translation_es": "Ella cocinará la comida."
+      },
+      {
+        "sentence": "هم ___ قريبا.",
+        "answer": "سيصلون",
+        "translation_en": "They will arrive soon.",
+        "translation_es": "Ellos llegarán pronto."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct continuous form into each gap.",
+    "items": [
+      {
+        "sentence": "___ أدرس عندما اتصلت بي.",
+        "answer": "كنت",
+        "translation_en": "I was studying when you called me.",
+        "translation_es": "Estaba estudiando cuando me llamaste."
+      },
+      {
+        "sentence": "___ يلعب في الحديقة.",
+        "answer": "كان",
+        "translation_en": "He was playing in the garden.",
+        "translation_es": "Él estaba jugando en el jardín."
+      },
+      {
+        "sentence": "___ ننتظر الحافلة.",
+        "answer": "كنا",
+        "translation_en": "We were waiting for the bus.",
+        "translation_es": "Estábamos esperando el autobús."
+      },
+      {
+        "sentence": "___ يتحدثون بصوت عال.",
+        "answer": "كانوا",
+        "translation_en": "They were talking loudly.",
+        "translation_es": "Estaban hablando en voz alta."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "أحمد ___ من علي.",
+        "answer": "أطول",
+        "translation_en": "Ahmed is taller than Ali.",
+        "translation_es": "Ahmed es más alto que Ali."
+      },
+      {
+        "sentence": "هذا الكتاب ___ من ذاك.",
+        "answer": "أصعب",
+        "translation_en": "This book is more difficult than that one.",
+        "translation_es": "Este libro es más difícil que aquel."
+      },
+      {
+        "sentence": "الطائرة ___ من القطار.",
+        "answer": "أسرع",
+        "translation_en": "The plane is faster than the train.",
+        "translation_es": "El avión es más rápido que el tren."
+      },
+      {
+        "sentence": "اليوم ___ من أمس.",
+        "answer": "أفضل",
+        "translation_en": "Today is better than yesterday.",
+        "translation_es": "Hoy es mejor que ayer."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct plural form into each gap.",
+    "items": [
+      {
+        "sentence": "في المكتبة ___ كثيرة.",
+        "answer": "كتب",
+        "translation_en": "There are many books in the library.",
+        "translation_es": "Hay muchos libros en la biblioteca."
+      },
+      {
+        "sentence": "زرت عدة ___ .",
+        "answer": "مدن",
+        "translation_en": "I visited several cities.",
+        "translation_es": "Visité varias ciudades."
+      },
+      {
+        "sentence": "في الفصل عشرون ___ .",
+        "answer": "طالبا",
+        "translation_en": "There are twenty students in the class.",
+        "translation_es": "Hay veinte estudiantes en la clase."
+      },
+      {
+        "sentence": "قرأت ثلاث ___ .",
+        "answer": "قصص",
+        "translation_en": "I read three stories.",
+        "translation_es": "Leí tres historias."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct object pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "رأيت أحمد في السوق. رأيت___ هناك.",
+        "answer": "ه",
+        "translation_en": "I saw Ahmed at the market. I saw him there.",
+        "translation_es": "Vi a Ahmed en el mercado. Lo vi allí."
+      },
+      {
+        "sentence": "هذه أختي. أحب___ كثيرا.",
+        "answer": "ها",
+        "translation_en": "This is my sister. I love her very much.",
+        "translation_es": "Esta es mi hermana. La quiero mucho."
+      },
+      {
+        "sentence": "الطلاب هنا. ساعدت___ .",
+        "answer": "هم",
+        "translation_en": "The students are here. I helped them.",
+        "translation_es": "Los estudiantes están aquí. Les ayudé."
+      },
+      {
+        "sentence": "أنتم أصدقائي. أشكر___ .",
+        "answer": "كم",
+        "translation_en": "You are my friends. I thank you.",
+        "translation_es": "Vosotros sois mis amigos. Os doy las gracias."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct relative pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "هذا الكتاب ___ قرأته.",
+        "answer": "الذي",
+        "translation_en": "This is the book that I read.",
+        "translation_es": "Este es el libro que leí."
+      },
+      {
+        "sentence": "هذه الفتاة ___ تدرس معي.",
+        "answer": "التي",
+        "translation_en": "This is the girl who studies with me.",
+        "translation_es": "Esta es la chica que estudia conmigo."
+      },
+      {
+        "sentence": "هؤلاء الطلاب ___ نجحوا.",
+        "answer": "الذين",
+        "translation_en": "These are the students who passed.",
+        "translation_es": "Estos son los estudiantes que aprobaron."
+      },
+      {
+        "sentence": "هاتان الفتاتان ___ تدرسان.",
+        "answer": "اللتان",
+        "translation_en": "These two girls who study.",
+        "translation_es": "Estas dos chicas que estudian."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct adverb into each gap.",
+    "items": [
+      {
+        "sentence": "___ أذهب إلى النادي.",
+        "answer": "دائما",
+        "translation_en": "I always go to the club.",
+        "translation_es": "Siempre voy al club."
+      },
+      {
+        "sentence": "___ أشرب القهوة.",
+        "answer": "أحيانا",
+        "translation_en": "Sometimes I drink coffee.",
+        "translation_es": "A veces bebo café."
+      },
+      {
+        "sentence": "___ آكل في المطعم.",
+        "answer": "نادرا",
+        "translation_en": "I rarely eat in the restaurant.",
+        "translation_es": "Rara vez como en el restaurante."
+      },
+      {
+        "sentence": "___ سمعت بهذا.",
+        "answer": "أبدا",
+        "translation_en": "I have never heard of this.",
+        "translation_es": "Nunca he oído hablar de esto."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {
+        "sentence": "اليوم الجو ___ .",
+        "answer": "ممطر",
+        "translation_en": "Today the weather is rainy.",
+        "translation_es": "Hoy el tiempo es lluvioso."
+      },
+      {
+        "sentence": "في الصيف الجو ___ .",
+        "answer": "حار",
+        "translation_en": "In summer the weather is hot.",
+        "translation_es": "En verano el tiempo es caluroso."
+      },
+      {
+        "sentence": "في الشتاء الجو ___ .",
+        "answer": "بارد",
+        "translation_en": "In winter the weather is cold.",
+        "translation_es": "En invierno el tiempo es frío."
+      },
+      {
+        "sentence": "السماء ___ اليوم.",
+        "answer": "غائمة",
+        "translation_en": "The sky is cloudy today.",
+        "translation_es": "El cielo está nublado hoy."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {
+        "sentence": "أسافر بال___ .",
+        "answer": "قطار",
+        "translation_en": "I travel by train.",
+        "translation_es": "Viajo en tren."
+      },
+      {
+        "sentence": "أذهب إلى العمل بال___ .",
+        "answer": "حافلة",
+        "translation_en": "I go to work by bus.",
+        "translation_es": "Voy al trabajo en autobús."
+      },
+      {
+        "sentence": "أركب ___ في المدينة.",
+        "answer": "دراجة",
+        "translation_en": "I ride a bicycle in the city.",
+        "translation_es": "Monto en bicicleta por la ciudad."
+      },
+      {
+        "sentence": "ال___ أسرع وسيلة.",
+        "answer": "طائرة",
+        "translation_en": "The plane is the fastest means.",
+        "translation_es": "El avión es el medio más rápido."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "كم ___ هذا القميص؟",
+        "answer": "سعر",
+        "translation_en": "How much is this shirt?",
+        "translation_es": "¿Cuánto cuesta esta camisa?"
+      },
+      {
+        "sentence": "أدفع بال___ .",
+        "answer": "بطاقة",
+        "translation_en": "I pay by card.",
+        "translation_es": "Pago con tarjeta."
+      },
+      {
+        "sentence": "هناك ___ عشرة بالمئة.",
+        "answer": "خصم",
+        "translation_en": "There is a ten percent discount.",
+        "translation_es": "Hay un descuento del diez por ciento."
+      },
+      {
+        "sentence": "أحتاج مقاسا ___ .",
+        "answer": "كبيرا",
+        "translation_en": "I need a bigger size.",
+        "translation_es": "Necesito una talla más grande."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct feeling into each gap.",
+    "items": [
+      {
+        "sentence": "أنا ___ اليوم.",
+        "answer": "متعب",
+        "translation_en": "I am tired today.",
+        "translation_es": "Estoy cansado hoy."
+      },
+      {
+        "sentence": "هي ___ بالامتحان.",
+        "answer": "قلقة",
+        "translation_en": "She is worried about the exam.",
+        "translation_es": "Ella está preocupada por el examen."
+      },
+      {
+        "sentence": "نحن ___ جدا.",
+        "answer": "سعداء",
+        "translation_en": "We are very happy.",
+        "translation_es": "Estamos muy contentos."
+      },
+      {
+        "sentence": "هو ___ لأن الحافلة تأخرت.",
+        "answer": "غاضب",
+        "translation_en": "He is angry because the bus was late.",
+        "translation_es": "Él está enfadado porque el autobús llegó tarde."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct daily routine verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ في السابعة صباحا.",
+        "answer": "أستيقظ",
+        "translation_en": "I wake up at seven in the morning.",
+        "translation_es": "Me despierto a las siete de la mañana."
+      },
+      {
+        "sentence": "___ ثم أتناول الفطور.",
+        "answer": "أستحم",
+        "translation_en": "I have a shower and then eat breakfast.",
+        "translation_es": "Me ducho y luego desayuno."
+      },
+      {
+        "sentence": "___ ملابسي بسرعة.",
+        "answer": "ألبس",
+        "translation_en": "I put on my clothes quickly.",
+        "translation_es": "Me visto rápido."
+      },
+      {
+        "sentence": "___ في الحادية عشرة.",
+        "answer": "أنام",
+        "translation_en": "I sleep at eleven.",
+        "translation_es": "Duermo a las once."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct hobby word into each gap.",
+    "items": [
+      {
+        "sentence": "هوايتي ___ .",
+        "answer": "التصوير",
+        "translation_en": "My hobby is photography.",
+        "translation_es": "Mi afición es la fotografía."
+      },
+      {
+        "sentence": "نلعب ___ كل مساء.",
+        "answer": "الشطرنج",
+        "translation_en": "We play chess every evening.",
+        "translation_es": "Jugamos al ajedrez cada tarde."
+      },
+      {
+        "sentence": "أذهب إلى ___ في الجبال.",
+        "answer": "التخييم",
+        "translation_en": "I go camping in the mountains.",
+        "translation_es": "Voy de acampada a las montañas."
+      },
+      {
+        "sentence": "يحب أبي ___ السمك.",
+        "answer": "صيد",
+        "translation_en": "My father likes fishing.",
+        "translation_es": "A mi padre le gusta pescar."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "أشعر ب___ في رأسي.",
+        "answer": "ألم",
+        "translation_en": "I feel a pain in my head.",
+        "translation_es": "Siento un dolor en la cabeza."
+      },
+      {
+        "sentence": "الطبيب كتب لي ___ .",
+        "answer": "وصفة طبية",
+        "translation_en": "The doctor wrote me a prescription.",
+        "translation_es": "El médico me escribió una receta."
+      },
+      {
+        "sentence": "أشتري الدواء من ___ .",
+        "answer": "الصيدلية",
+        "translation_en": "I buy medicine from the pharmacy.",
+        "translation_es": "Compro la medicina en la farmacia."
+      },
+      {
+        "sentence": "عندي ___ في الحلق.",
+        "answer": "التهاب",
+        "translation_en": "I have an inflammation in my throat.",
+        "translation_es": "Tengo una inflamación en la garganta."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct time word into each gap.",
+    "items": [
+      {
+        "sentence": "___ أنام أقرأ كتابا.",
+        "answer": "قبل",
+        "translation_en": "Before I sleep I read a book.",
+        "translation_es": "Antes de dormir leo un libro."
+      },
+      {
+        "sentence": "___ الغداء نذهب في نزهة.",
+        "answer": "بعد",
+        "translation_en": "After lunch we go for a walk.",
+        "translation_es": "Después del almuerzo vamos de paseo."
+      },
+      {
+        "sentence": "___ الصباح أشرب القهوة.",
+        "answer": "في",
+        "translation_en": "In the morning I drink coffee.",
+        "translation_es": "Por la mañana bebo café."
+      },
+      {
+        "sentence": "___ أعود إلى البيت أستريح.",
+        "answer": "عندما",
+        "translation_en": "When I return home I rest.",
+        "translation_es": "Cuando vuelvo a casa descanso."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal number into each gap.",
+    "items": [
+      {
+        "sentence": "أنا في الطابق ___ .",
+        "answer": "الثاني",
+        "translation_en": "I am on the second floor.",
+        "translation_es": "Estoy en el segundo piso."
+      },
+      {
+        "sentence": "هذا هو الدرس ___ .",
+        "answer": "الثالث",
+        "translation_en": "This is the third lesson.",
+        "translation_es": "Esta es la tercera lección."
+      },
+      {
+        "sentence": "كان ذلك أول يوم، وهذا هو اليوم ___ .",
+        "answer": "الأخير",
+        "translation_en": "That was the first day, and this is the last day.",
+        "translation_es": "Ese fue el primer día, y este es el último día."
+      },
+      {
+        "sentence": "هو الطالب ___ في الصف.",
+        "answer": "الأول",
+        "translation_en": "He is the first student in the class.",
+        "translation_es": "Él es el primer estudiante de la clase."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct place into each gap.",
+    "items": [
+      {
+        "sentence": "نذهب إلى ___ لرؤية اللوحات.",
+        "answer": "المتحف",
+        "translation_en": "We go to the museum to see the paintings.",
+        "translation_es": "Vamos al museo para ver los cuadros."
+      },
+      {
+        "sentence": "أستعير الكتب من ___ .",
+        "answer": "المكتبة",
+        "translation_en": "I borrow books from the library.",
+        "translation_es": "Tomo prestados libros de la biblioteca."
+      },
+      {
+        "sentence": "شاهدنا مسرحية في ___ .",
+        "answer": "المسرح",
+        "translation_en": "We watched a play in the theatre.",
+        "translation_es": "Vimos una obra de teatro en el teatro."
+      },
+      {
+        "sentence": "نزور ___ القديمة كل أحد.",
+        "answer": "الكنيسة",
+        "translation_en": "We visit the old church every Sunday.",
+        "translation_es": "Visitamos la iglesia antigua cada domingo."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct cooking verb into each gap.",
+    "items": [
+      {
+        "sentence": "أ___ الأرز في الماء.",
+        "answer": "أسلق",
+        "translation_en": "I boil the rice in water.",
+        "translation_es": "Hiervo el arroz en agua."
+      },
+      {
+        "sentence": "ن___ السمك في الزيت.",
+        "answer": "نقلي",
+        "translation_en": "We fry the fish in oil.",
+        "translation_es": "Freímos el pescado en aceite."
+      },
+      {
+        "sentence": "أ___ الخبز في الفرن.",
+        "answer": "أخبز",
+        "translation_en": "I bake the bread in the oven.",
+        "translation_es": "Horneo el pan en el horno."
+      },
+      {
+        "sentence": "___ الخضروات بسكين حادة.",
+        "answer": "نقطع",
+        "translation_en": "We cut the vegetables with a sharp knife.",
+        "translation_es": "Cortamos las verduras con un cuchillo afilado."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct school subject into each gap.",
+    "items": [
+      {
+        "sentence": "أحب مادة ___ .",
+        "answer": "الجغرافيا",
+        "translation_en": "I like geography.",
+        "translation_es": "Me gusta la geografía."
+      },
+      {
+        "sentence": "ندرس ___ في المختبر.",
+        "answer": "الكيمياء",
+        "translation_en": "We study chemistry in the laboratory.",
+        "translation_es": "Estudiamos química en el laboratorio."
+      },
+      {
+        "sentence": "مادة ___ سهلة بالنسبة لي.",
+        "answer": "الرياضيات",
+        "translation_en": "Mathematics is easy for me.",
+        "translation_es": "Las matemáticas son fáciles para mí."
+      },
+      {
+        "sentence": "أقرأ كثيرا في مادة ___ .",
+        "answer": "التاريخ",
+        "translation_en": "I read a lot in history.",
+        "translation_es": "Leo mucho en historia."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct passive verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ هذا الكتاب عام 1980.",
+        "answer": "كُتب",
+        "translation_en": "This book was written in 1980.",
+        "translation_es": "Este libro fue escrito en 1980."
+      },
+      {
+        "sentence": "___ الجسر منذ مئة سنة.",
+        "answer": "بُني",
+        "translation_en": "The bridge was built a hundred years ago.",
+        "translation_es": "El puente fue construido hace cien años."
+      },
+      {
+        "sentence": "___ الطعام في المطعم.",
+        "answer": "يُقدم",
+        "translation_en": "The food is served in the restaurant.",
+        "translation_es": "La comida se sirve en el restaurante."
+      },
+      {
+        "sentence": "___ الرسالة أمس.",
+        "answer": "أُرسلت",
+        "translation_en": "The letter was sent yesterday.",
+        "translation_es": "La carta fue enviada ayer."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct expression of obligation into each gap.",
+    "items": [
+      {
+        "sentence": "___ عليك أن تدرس.",
+        "answer": "يجب",
+        "translation_en": "You must study.",
+        "translation_es": "Debes estudiar."
+      },
+      {
+        "sentence": "___ أن أحضر الاجتماع أمس.",
+        "answer": "كان يجب",
+        "translation_en": "I had to attend the meeting yesterday.",
+        "translation_es": "Tenía que asistir a la reunión ayer."
+      },
+      {
+        "sentence": "لا ___ أن تتأخر.",
+        "answer": "ينبغي",
+        "translation_en": "You should not be late.",
+        "translation_es": "No deberías llegar tarde."
+      },
+      {
+        "sentence": "من ___ أن نساعد بعضنا.",
+        "answer": "الضروري",
+        "translation_en": "It is necessary that we help each other.",
+        "translation_es": "Es necesario que nos ayudemos."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct conditional particle into each gap.",
+    "items": [
+      {
+        "sentence": "___ تدرس، تنجح.",
+        "answer": "إذا",
+        "translation_en": "If you study, you will succeed.",
+        "translation_es": "Si estudias, tendrás éxito."
+      },
+      {
+        "sentence": "___ جاء المطر، نبقى في البيت.",
+        "answer": "إن",
+        "translation_en": "If the rain comes, we stay at home.",
+        "translation_es": "Si llega la lluvia, nos quedamos en casa."
+      },
+      {
+        "sentence": "___ كان عندي وقت، سافرتُ.",
+        "answer": "لو",
+        "translation_en": "If I had time, I would travel.",
+        "translation_es": "Si tuviera tiempo, viajaría."
+      },
+      {
+        "sentence": "___ مساعدتك، لما نجحت.",
+        "answer": "لولا",
+        "translation_en": "Without your help, I would not have succeeded.",
+        "translation_es": "Sin tu ayuda, no habría tenido éxito."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct purpose word into each gap.",
+    "items": [
+      {
+        "sentence": "ذهبت إلى السوق ___ أشتري الخبز.",
+        "answer": "لكي",
+        "translation_en": "I went to the market in order to buy bread.",
+        "translation_es": "Fui al mercado para comprar pan."
+      },
+      {
+        "sentence": "سأنتظر ___ تعود.",
+        "answer": "حتى",
+        "translation_en": "I will wait until you return.",
+        "translation_es": "Esperaré hasta que vuelvas."
+      },
+      {
+        "sentence": "أعمل بجد ___ النجاح.",
+        "answer": "من أجل",
+        "translation_en": "I work hard for success.",
+        "translation_es": "Trabajo duro por el éxito."
+      },
+      {
+        "sentence": "أدرس ___ أنجح في الامتحان.",
+        "answer": "لـ",
+        "translation_en": "I study in order to pass the exam.",
+        "translation_es": "Estudio para aprobar el examen."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct superlative into each gap.",
+    "items": [
+      {
+        "sentence": "هو ___ طالب في الصف.",
+        "answer": "أفضل",
+        "translation_en": "He is the best student in the class.",
+        "translation_es": "Es el mejor estudiante de la clase."
+      },
+      {
+        "sentence": "هذا ___ كتاب قرأته.",
+        "answer": "أجمل",
+        "translation_en": "This is the most beautiful book I have read.",
+        "translation_es": "Este es el libro más bonito que he leído."
+      },
+      {
+        "sentence": "القاهرة من ___ المدن في العالم.",
+        "answer": "أكبر",
+        "translation_en": "Cairo is one of the largest cities in the world.",
+        "translation_es": "El Cairo es una de las ciudades más grandes del mundo."
+      },
+      {
+        "sentence": "كان ___ يوم في حياتي.",
+        "answer": "أسعد",
+        "translation_en": "It was the happiest day of my life.",
+        "translation_es": "Fue el día más feliz de mi vida."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "أردت السفر، ___ لم يكن عندي وقت.",
+        "answer": "لكن",
+        "translation_en": "I wanted to travel, but I had no time.",
+        "translation_es": "Quería viajar, pero no tenía tiempo."
+      },
+      {
+        "sentence": "___ كان الجو باردا، خرجنا.",
+        "answer": "على الرغم من أن",
+        "translation_en": "Although the weather was cold, we went out.",
+        "translation_es": "Aunque hacía frío, salimos."
+      },
+      {
+        "sentence": "درس بجد، ___ نجح.",
+        "answer": "لذلك",
+        "translation_en": "He studied hard, therefore he succeeded.",
+        "translation_es": "Estudió mucho, por eso aprobó."
+      },
+      {
+        "sentence": "لا أحب القهوة، ___ أحب الشاي.",
+        "answer": "بينما",
+        "translation_en": "I do not like coffee, whereas I like tea.",
+        "translation_es": "No me gusta el café, mientras que me gusta el té."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "قدمت طلبا لوظيفة جديدة، وعندي ___ غدا.",
+        "answer": "مقابلة",
+        "translation_en": "I applied for a new job and have an interview tomorrow.",
+        "translation_es": "Solicité un nuevo trabajo y tengo una entrevista mañana."
+      },
+      {
+        "sentence": "أرسلت ___ مع طلب الوظيفة.",
+        "answer": "سيرتي الذاتية",
+        "translation_en": "I sent my CV with the job application.",
+        "translation_es": "Envié mi currículum con la solicitud de trabajo."
+      },
+      {
+        "sentence": "حصلت على ___ بعد سنتين من العمل.",
+        "answer": "ترقية",
+        "translation_en": "I got a promotion after two years of work.",
+        "translation_es": "Conseguí un ascenso después de dos años de trabajo."
+      },
+      {
+        "sentence": "أعمل مع ___ جيد في هذا المشروع.",
+        "answer": "فريق",
+        "translation_en": "I work with a good team on this project.",
+        "translation_es": "Trabajo con un buen equipo en este proyecto."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct money word into each gap.",
+    "items": [
+      {
+        "sentence": "أكتب ___ الشهري في دفتر.",
+        "answer": "ميزانيتي",
+        "translation_en": "I write my monthly budget in a notebook.",
+        "translation_es": "Escribo mi presupuesto mensual en un cuaderno."
+      },
+      {
+        "sentence": "أحاول ___ بعض المال كل شهر.",
+        "answer": "توفير",
+        "translation_en": "I try to save some money every month.",
+        "translation_es": "Intento ahorrar algo de dinero cada mes."
+      },
+      {
+        "sentence": "عندي ___ كبير في البنك.",
+        "answer": "دين",
+        "translation_en": "I have a big debt at the bank.",
+        "translation_es": "Tengo una gran deuda en el banco."
+      },
+      {
+        "sentence": "أدفع ___ على الدخل.",
+        "answer": "ضريبة",
+        "translation_en": "I pay tax on income.",
+        "translation_es": "Pago impuestos sobre la renta."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "___ الهواء مشكلة كبيرة في المدن.",
+        "answer": "تلوث",
+        "translation_en": "Air pollution is a big problem in cities.",
+        "translation_es": "La contaminación del aire es un gran problema en las ciudades."
+      },
+      {
+        "sentence": "يجب أن نعيد تدوير ___ .",
+        "answer": "النفايات",
+        "translation_en": "We must recycle waste.",
+        "translation_es": "Debemos reciclar los residuos."
+      },
+      {
+        "sentence": "نحتاج إلى طاقة ___ .",
+        "answer": "متجددة",
+        "translation_en": "We need renewable energy.",
+        "translation_es": "Necesitamos energía renovable."
+      },
+      {
+        "sentence": "ال___ تختفي بسبب قطع الأشجار.",
+        "answer": "غابات",
+        "translation_en": "Forests are disappearing because of tree felling.",
+        "translation_es": "Los bosques están desapareciendo por la tala de árboles."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "لكل ___ الحق في التصويت.",
+        "answer": "مواطن",
+        "translation_en": "Every citizen has the right to vote.",
+        "translation_es": "Todo ciudadano tiene derecho a votar."
+      },
+      {
+        "sentence": "كتب البرلمان ___ جديدة.",
+        "answer": "قوانين",
+        "translation_en": "The parliament wrote new laws.",
+        "translation_es": "El parlamento escribió nuevas leyes."
+      },
+      {
+        "sentence": "جرت ___ الرئاسة في الربيع.",
+        "answer": "انتخابات",
+        "translation_en": "The presidential election took place in spring.",
+        "translation_es": "Las elecciones presidenciales se celebraron en primavera."
+      },
+      {
+        "sentence": "أعرب الناس عن رأيهم في ___ سلمية.",
+        "answer": "احتجاج",
+        "translation_en": "People expressed their opinion in a peaceful protest.",
+        "translation_es": "La gente expresó su opinión en una protesta pacífica."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct medical word into each gap.",
+    "items": [
+      {
+        "sentence": "أعطاني الطبيب ___ لدواء جديد.",
+        "answer": "وصفة",
+        "translation_en": "The doctor gave me a prescription for a new medicine.",
+        "translation_es": "El médico me dio una receta para un medicamento nuevo."
+      },
+      {
+        "sentence": "أعاني من ___ في الظهر.",
+        "answer": "ألم",
+        "translation_en": "I suffer from a pain in my back.",
+        "translation_es": "Sufro un dolor de espalda."
+      },
+      {
+        "sentence": "استمر العلاج ثلاثة أسابيع حتى اختفى ___ .",
+        "answer": "المرض",
+        "translation_en": "The treatment lasted three weeks until the illness disappeared.",
+        "translation_es": "El tratamiento duró tres semanas hasta que desapareció la enfermedad."
+      },
+      {
+        "sentence": "يحتاج المريض إلى ___ صحي.",
+        "answer": "تأمين",
+        "translation_en": "The patient needs health insurance.",
+        "translation_es": "El paciente necesita un seguro de salud."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {
+        "sentence": "أجرينا ___ في المختبر.",
+        "answer": "تجربة",
+        "translation_en": "We carried out an experiment in the laboratory.",
+        "translation_es": "Realizamos un experimento en el laboratorio."
+      },
+      {
+        "sentence": "قدم العالم ___ جديدة تفسر الظاهرة.",
+        "answer": "نظرية",
+        "translation_en": "The scientist presented a new theory explaining the phenomenon.",
+        "translation_es": "El científico presentó una nueva teoría que explica el fenómeno."
+      },
+      {
+        "sentence": "هذه ___ تدعم فرضيتنا.",
+        "answer": "الأدلة",
+        "translation_en": "This evidence supports our hypothesis.",
+        "translation_es": "Esta evidencia apoya nuestra hipótesis."
+      },
+      {
+        "sentence": "___ جديدة تحتاج إلى وقت طويل.",
+        "answer": "الاكتشافات",
+        "translation_en": "New discoveries need a long time.",
+        "translation_es": "Los nuevos descubrimientos necesitan mucho tiempo."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct technology word into each gap.",
+    "items": [
+      {
+        "sentence": "نسيت ___ حسابي.",
+        "answer": "كلمة مرور",
+        "translation_en": "I forgot my account password.",
+        "translation_es": "Olvidé la contraseña de mi cuenta."
+      },
+      {
+        "sentence": "أرسلت لك ___ أمس.",
+        "answer": "رسالة",
+        "translation_en": "I sent you a message yesterday.",
+        "translation_es": "Te envié un mensaje ayer."
+      },
+      {
+        "sentence": "ال___ لا يعمل اليوم.",
+        "answer": "موقع",
+        "translation_en": "The website is not working today.",
+        "translation_es": "El sitio web no funciona hoy."
+      },
+      {
+        "sentence": "أحتاج إلى ___ الملف من الإنترنت.",
+        "answer": "تنزيل",
+        "translation_en": "I need to download the file from the internet.",
+        "translation_es": "Necesito descargar el archivo de internet."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct emotion word into each gap.",
+    "items": [
+      {
+        "sentence": "شعرت ب___ كبير بعد النجاح.",
+        "answer": "فخر",
+        "translation_en": "I felt great pride after the success.",
+        "translation_es": "Sentí un gran orgullo tras el éxito."
+      },
+      {
+        "sentence": "ملأ ___ قلبه عندما سمع الخبر.",
+        "answer": "الخوف",
+        "translation_en": "Fear filled his heart when he heard the news.",
+        "translation_es": "El miedo llenó su corazón cuando oyó la noticia."
+      },
+      {
+        "sentence": "أشعر ب___ كبير لك.",
+        "answer": "امتنان",
+        "translation_en": "I feel great gratitude towards you.",
+        "translation_es": "Siento una gran gratitud hacia ti."
+      },
+      {
+        "sentence": "كانت ___ كبيرة عندما رأيت الهدية.",
+        "answer": "سعادة",
+        "translation_en": "There was great happiness when I saw the gift.",
+        "translation_es": "Hubo una gran felicidad cuando vi el regalo."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct art word into each gap.",
+    "items": [
+      {
+        "sentence": "قرأت ___ رائعة هذا الشهر.",
+        "answer": "رواية",
+        "translation_en": "I read a wonderful novel this month.",
+        "translation_es": "Leí una novela maravillosa este mes."
+      },
+      {
+        "sentence": "شاهدنا ___ جديدا في المعرض.",
+        "answer": "لوحة",
+        "translation_en": "We saw a new painting in the exhibition.",
+        "translation_es": "Vimos un cuadro nuevo en la exposición."
+      },
+      {
+        "sentence": "كتب الشاعر ___ جميلة.",
+        "answer": "قصيدة",
+        "translation_en": "The poet wrote a beautiful poem.",
+        "translation_es": "El poeta escribió un poema hermoso."
+      },
+      {
+        "sentence": "كان ___ متحمسا جدا.",
+        "answer": "الجمهور",
+        "translation_en": "The audience was very excited.",
+        "translation_es": "El público estaba muy emocionado."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct business word into each gap.",
+    "items": [
+      {
+        "sentence": "أرسلنا ___ إلى العميل.",
+        "answer": "فاتورة",
+        "translation_en": "We sent an invoice to the client.",
+        "translation_es": "Enviamos una factura al cliente."
+      },
+      {
+        "sentence": "تشتري الشركة من ___ موثوق.",
+        "answer": "مورد",
+        "translation_en": "The company buys from a reliable supplier.",
+        "translation_es": "La empresa compra a un proveedor fiable."
+      },
+      {
+        "sentence": "ال___ الجيد يساعد على إيجاد العملاء.",
+        "answer": "تسويق",
+        "translation_en": "Good marketing helps to find customers.",
+        "translation_es": "Un buen marketing ayuda a encontrar clientes."
+      },
+      {
+        "sentence": "أصبح ___ في الشركة بعد سنوات.",
+        "answer": "مساهم",
+        "translation_en": "He became a shareholder in the company after years.",
+        "translation_es": "Se convirtió en accionista de la empresa tras años."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct circumstantial phrase into each gap.",
+    "items": [
+      {
+        "sentence": "عاد ___ .",
+        "answer": "مسرورا",
+        "translation_en": "He returned happy.",
+        "translation_es": "Volvió contento."
+      },
+      {
+        "sentence": "أكلت ___ .",
+        "answer": "واقفا",
+        "translation_en": "I ate standing.",
+        "translation_es": "Comí de pie."
+      },
+      {
+        "sentence": "قرأت الكتاب ___ .",
+        "answer": "مرتاحا",
+        "translation_en": "I read the book at ease.",
+        "translation_es": "Leí el libro cómodamente."
+      },
+      {
+        "sentence": "جاء الأطفال ___ .",
+        "answer": "مسرعين",
+        "translation_en": "The children came hurrying.",
+        "translation_es": "Los niños vinieron corriendo."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "الباب ___ .",
+        "answer": "مفتوح",
+        "translation_en": "The door is open.",
+        "translation_es": "La puerta está abierta."
+      },
+      {
+        "sentence": "الرسالة ___ .",
+        "answer": "مكتوبة",
+        "translation_en": "The letter is written.",
+        "translation_es": "La carta está escrita."
+      },
+      {
+        "sentence": "الطعام ___ .",
+        "answer": "مطبوخ",
+        "translation_en": "The food is cooked.",
+        "translation_es": "La comida está cocida."
+      },
+      {
+        "sentence": "النافذة ___ .",
+        "answer": "مغلقة",
+        "translation_en": "The window is closed.",
+        "translation_es": "La ventana está cerrada."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct past perfect form into each gap.",
+    "items": [
+      {
+        "sentence": "___ قرأت الكتاب قبل أن تشتريه.",
+        "answer": "كنت قد",
+        "translation_en": "I had read the book before you bought it.",
+        "translation_es": "Había leído el libro antes de que lo compraras."
+      },
+      {
+        "sentence": "___ وصل القطار قبل أن نصل.",
+        "answer": "كان قد",
+        "translation_en": "The train had arrived before we arrived.",
+        "translation_es": "El tren había llegado antes de que llegáramos."
+      },
+      {
+        "sentence": "___ انتهوا من العمل قبل الغروب.",
+        "answer": "كانوا قد",
+        "translation_en": "They had finished work before sunset.",
+        "translation_es": "Habían terminado el trabajo antes del atardecer."
+      },
+      {
+        "sentence": "___ زرنا القاهرة قبل ذلك.",
+        "answer": "كنا قد",
+        "translation_en": "We had visited Cairo before that.",
+        "translation_es": "Habíamos visitado El Cairo antes de eso."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct modal expression into each gap.",
+    "items": [
+      {
+        "sentence": "___ حل هذه المشكلة بسهولة.",
+        "answer": "يمكن",
+        "translation_en": "One can solve this problem easily.",
+        "translation_es": "Se puede resolver este problema fácilmente."
+      },
+      {
+        "sentence": "___ علينا الاعتماد على أنفسنا.",
+        "answer": "ينبغي",
+        "translation_en": "We ought to rely on ourselves.",
+        "translation_es": "Deberíamos confiar en nosotros mismos."
+      },
+      {
+        "sentence": "___ أن نعترف بالخطأ.",
+        "answer": "علينا",
+        "translation_en": "We have to admit the mistake.",
+        "translation_es": "Tenemos que admitir el error."
+      },
+      {
+        "sentence": "___ التخلي عن القيم الإنسانية.",
+        "answer": "لا يمكن",
+        "translation_en": "One cannot abandon human values.",
+        "translation_es": "No se pueden abandonar los valores humanos."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct abstract noun into each gap.",
+    "items": [
+      {
+        "sentence": "___ الشخصية مسألة معقدة.",
+        "answer": "الهوية",
+        "translation_en": "Personal identity is a complex matter.",
+        "translation_es": "La identidad personal es un asunto complejo."
+      },
+      {
+        "sentence": "شكك الفيلسوف في ___ الوعي.",
+        "answer": "وجود",
+        "translation_en": "The philosopher doubted the existence of consciousness.",
+        "translation_es": "El filósofo dudó de la existencia de la conciencia."
+      },
+      {
+        "sentence": "لا أحد يملك ___ المطلقة.",
+        "answer": "الحقيقة",
+        "translation_en": "No one possesses absolute truth.",
+        "translation_es": "Nadie posee la verdad absoluta."
+      },
+      {
+        "sentence": "كان في ___ حقيقي بين الخيارين.",
+        "answer": "مأزق",
+        "translation_en": "He was in a real dilemma between the two options.",
+        "translation_es": "Estaba en un verdadero dilema entre las dos opciones."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "ارتفع ___ إلى مستوى قياسي.",
+        "answer": "التضخم",
+        "translation_en": "Inflation rose to a record level.",
+        "translation_es": "La inflación subió a un nivel récord."
+      },
+      {
+        "sentence": "أعلنت الشركتان عن ___ كبير.",
+        "answer": "اندماج",
+        "translation_en": "The two companies announced a big merger.",
+        "translation_es": "Las dos empresas anunciaron una gran fusión."
+      },
+      {
+        "sentence": "أدى سوء الإدارة إلى ___ الشركة.",
+        "answer": "إفلاس",
+        "translation_en": "Bad management led to the bankruptcy of the company.",
+        "translation_es": "La mala gestión llevó a la quiebra de la empresa."
+      },
+      {
+        "sentence": "تفرض الدولة ___ على الواردات.",
+        "answer": "رسوما جمركية",
+        "translation_en": "The state imposes tariffs on imports.",
+        "translation_es": "El Estado impone aranceles a las importaciones."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "أصدرت المحكمة ___ نهائيا.",
+        "answer": "حكما",
+        "translation_en": "The court issued a final verdict.",
+        "translation_es": "El tribunal emitió un veredicto final."
+      },
+      {
+        "sentence": "قدم ___ دعوى ضد الشركة.",
+        "answer": "المدعي",
+        "translation_en": "The plaintiff filed a lawsuit against the company.",
+        "translation_es": "El demandante presentó una demanda contra la empresa."
+      },
+      {
+        "sentence": "دافع ___ عن نفسه أمام القاضي.",
+        "answer": "المدعى عليه",
+        "translation_en": "The defendant defended himself before the judge.",
+        "translation_es": "El demandado se defendió ante el juez."
+      },
+      {
+        "sentence": "يجب على الشركات الالتزام ب___ البيئية.",
+        "answer": "اللوائح",
+        "translation_en": "Companies must comply with environmental regulations.",
+        "translation_es": "Las empresas deben cumplir con las regulaciones ambientales."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {
+        "sentence": "استخدم الباحث ___ كمية.",
+        "answer": "منهجية",
+        "translation_en": "The researcher used a quantitative methodology.",
+        "translation_es": "El investigador utilizó una metodología cuantitativa."
+      },
+      {
+        "sentence": "وجدنا ___ قوية بين المتغيرين.",
+        "answer": "ارتباطا",
+        "translation_en": "We found a strong correlation between the two variables.",
+        "translation_es": "Encontramos una fuerte correlación entre las dos variables."
+      },
+      {
+        "sentence": "تحتاج الفرضية إلى أدلة ___ .",
+        "answer": "تجريبية",
+        "translation_en": "The hypothesis needs empirical evidence.",
+        "translation_es": "La hipótesis necesita pruebas empíricas."
+      },
+      {
+        "sentence": "هذه البيانات ___ وليست نوعية.",
+        "answer": "كمية",
+        "translation_en": "This data is quantitative, not qualitative.",
+        "translation_es": "Estos datos son cuantitativos, no cualitativos."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct environmental term into each gap.",
+    "items": [
+      {
+        "sentence": "يهدد التلوث ___ الحيوي في البحر.",
+        "answer": "التنوع",
+        "translation_en": "Pollution threatens biodiversity in the sea.",
+        "translation_es": "La contaminación amenaza la biodiversidad en el mar."
+      },
+      {
+        "sentence": "___ الغابات مشكلة عالمية.",
+        "answer": "إزالة",
+        "translation_en": "Deforestation is a global problem.",
+        "translation_es": "La deforestación es un problema mundial."
+      },
+      {
+        "sentence": "لكل كائن ___ خاص.",
+        "answer": "موطن",
+        "translation_en": "Every creature has its own habitat.",
+        "translation_es": "Cada criatura tiene su propio hábitat."
+      },
+      {
+        "sentence": "تسبب المطر الحمضي في ___ التربة.",
+        "answer": "تآكل",
+        "translation_en": "Acid rain caused the erosion of the soil.",
+        "translation_es": "La lluvia ácida causó la erosión del suelo."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "حاولت الحكومة ___ الأزمة الاقتصادية.",
+        "answer": "تخفيف",
+        "translation_en": "The government tried to mitigate the economic crisis.",
+        "translation_es": "El gobierno intentó mitigar la crisis económica."
+      },
+      {
+        "sentence": "يجب ___ البحث العلمي.",
+        "answer": "دعم",
+        "translation_en": "We must support scientific research.",
+        "translation_es": "Debemos apoyar la investigación científica."
+      },
+      {
+        "sentence": "سعت الشركة إلى ___ إجراءاتها.",
+        "answer": "تبسيط",
+        "translation_en": "The company sought to streamline its procedures.",
+        "translation_es": "La empresa buscó simplificar sus procedimientos."
+      },
+      {
+        "sentence": "يمكن ___ النتائج من هذه البيانات.",
+        "answer": "استنتاج",
+        "translation_en": "One can extrapolate the results from this data.",
+        "translation_es": "Se pueden extrapolar los resultados de estos datos."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "استخدم الخطيب ___ مؤثرة.",
+        "answer": "بلاغة",
+        "translation_en": "The orator used effective rhetoric.",
+        "translation_es": "El orador usó una retórica eficaz."
+      },
+      {
+        "sentence": "تحليل ___ السياسي مهم لفهم المجتمع.",
+        "answer": "الخطاب",
+        "translation_en": "Analysing political discourse is important to understand society.",
+        "translation_es": "Analizar el discurso político es importante para entender la sociedad."
+      },
+      {
+        "sentence": "لا يكفي أن تكون الفكرة صحيحة، بل يجب أن تكون ___ .",
+        "answer": "مقنعة",
+        "translation_en": "It is not enough for an idea to be right; it must be convincing.",
+        "translation_es": "No basta con que una idea sea correcta; debe ser convincente."
+      },
+      {
+        "sentence": "يجب تجنب ___ في النصوص العلمية.",
+        "answer": "الغموض",
+        "translation_en": "One should avoid ambiguity in scientific texts.",
+        "translation_es": "Se debe evitar la ambigüedad en los textos científicos."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct unreal conditional into each gap.",
+    "items": [
+      {
+        "sentence": "___ عندي وقت، لسافرت معك.",
+        "answer": "لو كان",
+        "translation_en": "If I had had time, I would have travelled with you.",
+        "translation_es": "Si hubiera tenido tiempo, habría viajado contigo."
+      },
+      {
+        "sentence": "___ أن أعرف، لساعدتك.",
+        "answer": "لو كنت",
+        "translation_en": "If I had known, I would have helped you.",
+        "translation_es": "Si hubiera sabido, te habría ayudado."
+      },
+      {
+        "sentence": "___ جهدك، لما وصلنا إلى هنا.",
+        "answer": "لولا",
+        "translation_en": "Without your effort, we would not have got here.",
+        "translation_es": "Sin tu esfuerzo, no habríamos llegado aquí."
+      },
+      {
+        "sentence": "___ درس أكثر، لنجح في الامتحان.",
+        "answer": "لو",
+        "translation_en": "If he had studied more, he would have passed the exam.",
+        "translation_es": "Si hubiera estudiado más, habría aprobado el examen."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct formal connector into each gap.",
+    "items": [
+      {
+        "sentence": "___ ذلك، فإن النتائج غير كافية.",
+        "answer": "علاوة على",
+        "translation_en": "Moreover, the results are insufficient.",
+        "translation_es": "Además, los resultados son insuficientes."
+      },
+      {
+        "sentence": "___ الظروف الصعبة، أكمل البحث.",
+        "answer": "على الرغم من",
+        "translation_en": "Despite the difficult circumstances, he completed the research.",
+        "translation_es": "A pesar de las circunstancias difíciles, completó la investigación."
+      },
+      {
+        "sentence": "التكلفة مرتفعة؛ ___ الفوائد أكبر.",
+        "answer": "مع ذلك",
+        "translation_en": "The cost is high; nevertheless, the benefits are greater.",
+        "translation_es": "El coste es alto; sin embargo, los beneficios son mayores."
+      },
+      {
+        "sentence": "___ البيانات، يبدو الاتجاه واضحا.",
+        "answer": "بالنظر إلى",
+        "translation_en": "Considering the data, the trend seems clear.",
+        "translation_es": "Considerando los datos, la tendencia parece clara."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "تثير الخوارزميات مخاوف بشأن ___ .",
+        "answer": "الخصوصية",
+        "translation_en": "Algorithms raise concerns about privacy.",
+        "translation_es": "Los algoritmos suscitan preocupación por la privacidad."
+      },
+      {
+        "sentence": "يحتاج النظام إلى ___ قوي للبيانات.",
+        "answer": "تشفير",
+        "translation_en": "The system needs strong encryption for the data.",
+        "translation_es": "El sistema necesita un cifrado fuerte para los datos."
+      },
+      {
+        "sentence": "___ الشركات بيانات المستخدمين.",
+        "answer": "تجمع",
+        "translation_en": "Companies collect users' data.",
+        "translation_es": "Las empresas recopilan datos de los usuarios."
+      },
+      {
+        "sentence": "___ الاصطناعي يغير سوق العمل.",
+        "answer": "الذكاء",
+        "translation_en": "Artificial intelligence is changing the labour market.",
+        "translation_es": "La inteligencia artificial está cambiando el mercado laboral."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct philosophical term into each gap.",
+    "items": [
+      {
+        "sentence": "لا يزال الوعي ___ للعلم الحديث.",
+        "answer": "مفارقة",
+        "translation_en": "Consciousness remains a paradox for modern science.",
+        "translation_es": "La conciencia sigue siendo una paradoja para la ciencia moderna."
+      },
+      {
+        "sentence": "يدافع بعض الفلاسفة عن ___ الروح.",
+        "answer": "وجود",
+        "translation_en": "Some philosophers defend the existence of the soul.",
+        "translation_es": "Algunos filósofos defienden la existencia del alma."
+      },
+      {
+        "sentence": "تتغير ___ الشخصية مع الزمن.",
+        "answer": "الهوية",
+        "translation_en": "Personal identity changes over time.",
+        "translation_es": "La identidad personal cambia con el tiempo."
+      },
+      {
+        "sentence": "___ الصادقة علامة على التفكير الجاد.",
+        "answer": "الشكوكية",
+        "translation_en": "Honest scepticism is a mark of serious thinking.",
+        "translation_es": "El escepticismo honesto es señal de pensamiento serio."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "يجب تصميم المنتجات لت___ أكثر.",
+        "answer": "تدوم",
+        "translation_en": "Products should be designed to last longer.",
+        "translation_es": "Los productos deben diseñarse para durar más."
+      },
+      {
+        "sentence": "يمكن ___ انبعاثات الكربون بهذه الطريقة.",
+        "answer": "تقليل",
+        "translation_en": "Carbon emissions can be reduced this way.",
+        "translation_es": "Las emisiones de carbono pueden reducirse de esta forma."
+      },
+      {
+        "sentence": "بدون دعم حكومي قد ___ الفكرة مجرد شعار.",
+        "answer": "تبقى",
+        "translation_en": "Without government support the idea may remain a mere slogan.",
+        "translation_es": "Sin apoyo gubernamental la idea puede quedarse en un mero eslogan."
+      },
+      {
+        "sentence": "يتدهور الاقتصاد الخطي في ___ التي يعتمد عليها.",
+        "answer": "النظم البيئية",
+        "translation_en": "The linear economy deteriorates the ecosystems it depends on.",
+        "translation_es": "La economía lineal deteriora los ecosistemas de los que depende."
+      }
+    ]
+  }
+]

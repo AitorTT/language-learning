@@ -329,7 +329,7 @@
     <div id="writeApp" style="display:none">
       <div class="block">
         <input id="noteTitle" class="textinput" placeholder="Title (optional)" />
-        <textarea id="noteContent" class="textinput" rows="8" placeholder="Write in Polish here…"></textarea>
+        <textarea id="noteContent" class="textinput" rows="8" dir="auto" placeholder="Write in Polish here…"></textarea>
         <div class="row-actions">
           <button class="pill" id="noteSave">Save</button>
           <button class="pill" id="noteLock">Lock</button>
@@ -439,12 +439,20 @@
     const target = (lang && lang.code) || "en";
     const cjk = lang && lang.script === "cjk";
     const japanese = lang && lang.script === "japanese";
+    const arabic = lang && lang.script === "arabic";
     const skip = new Set(SPANISH_HEADERS);
     if (target !== "en") skip.add("english");
     const parts = [];
     g.columns.forEach((c, i) => {
       const v = row[i];
       if (v === undefined || v === null || v === "" || v === "—" || v === "-") return;
+      if (arabic) {
+        String(v).split(/[→←]/).forEach(seg => {
+          const ar = seg.replace(/[^\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff\ufb50-\ufdff\ufe70-\ufeff]/g, "").trim();
+          if (ar) parts.push(ar);
+        });
+        return;
+      }
       if (japanese) {
         if (!/[\u3040-\u30ff\u3400-\u9fff]/.test(String(v))) return;
         const jp = String(v).replace(/[^\u3040-\u30ff\u3400-\u9fff\u3000-\u303f\uff00-\uffef]/g, "");
@@ -496,9 +504,9 @@
     front.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
       <div class="hint">${lang.termLabel}</div>
-      <div class="word">${w[lang.termField]}</div>
+      <div class="word" dir="auto">${w[lang.termField]}</div>
       ${w.ipa ? `<div class="ipa">/${w.ipa}/</div>` : ""}
-      ${w.pinyin || w.romaji ? `<div class="ipa pinyin">${w.pinyin || w.romaji}</div>` : ""}
+      ${w.pinyin || w.romaji || w.translit ? `<div class="ipa pinyin">${w.pinyin || w.romaji || w.translit}</div>` : ""}
       <button class="speak" type="button" title="Listen" aria-label="Listen" data-fc-speak>${ICON_SPEAK}</button>`;
     back.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
@@ -537,7 +545,7 @@
           <h3>${t.title}</h3>
           <button class="speak" type="button" title="Listen" aria-label="Listen" data-text-speak="${t.id}">${ICON_SPEAK}</button>
         </div>
-        <p class="body">${t.body}</p>
+        <p class="body" dir="auto">${t.body}</p>
         <button class="link" data-toggle="${t.id}">Hide translation</button>
         <div class="tr open" id="tr-${t.id}">${translationBlocks(t)}</div>
       </div>`).join("");
@@ -575,7 +583,7 @@
     const bank = shuffle(ex.items.map(i => i.answer));
     body.innerHTML = `
       <div class="block">
-        <div class="bank" id="bank">${bank.map(w => `<span class="chip" draggable="true">${w}</span>`).join("")}</div>
+        <div class="bank" id="bank">${bank.map(w => `<span class="chip" dir="auto" draggable="true">${w}</span>`).join("")}</div>
         <div id="sentences">
           ${ex.items.map((it, i) => {
             const [before, after] = it.sentence.split("___");
@@ -583,7 +591,7 @@
               .map(tg => { const v = it["translation_" + tg.code] || ""; return v ? `<span class="l">${tg.label}</span> ${v}` : ""; })
               .filter(Boolean).join("<br>");
             const play = speechSupported() ? `<button class="speak" type="button" title="Listen" aria-label="Listen" data-sent="${i}">${ICON_SPEAK}</button>` : "";
-            return `<div class="sentence">${play}<span class="sentence-text">${before}<span class="blank" data-i="${i}">···</span>${after || ""}</span></div>
+            return `<div class="sentence">${play}<span class="sentence-text" dir="auto">${before}<span class="blank" data-i="${i}">···</span>${after || ""}</span></div>
               <div class="tr-line" data-tr="${i}">${tr}</div>`;
           }).join("")}
         </div>
@@ -713,7 +721,7 @@
         <p style="color:var(--muted);margin:0 0 12px">${g.description}</p>
         <div class="tablewrap"><table class="grid">
           <thead><tr>${canSpeak ? '<th class="act"></th>' : ""}${g.columns.map(c => `<th>${c}</th>`).join("")}</tr></thead>
-          <tbody>${g.rows.map((r, ri) => `<tr>${canSpeak ? `<td class="act"><button class="speak" type="button" title="Listen" aria-label="Listen" data-gr-row="${g.id}:${ri}">${ICON_SPEAK}</button></td>` : ""}${r.map(c => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody>
+          <tbody>${g.rows.map((r, ri) => `<tr>${canSpeak ? `<td class="act"><button class="speak" type="button" title="Listen" aria-label="Listen" data-gr-row="${g.id}:${ri}">${ICON_SPEAK}</button></td>` : ""}${r.map(c => `<td dir="auto">${c}</td>`).join("")}</tr>`).join("")}</tbody>
         </table></div>
       </div>`).join("");
     if (!canSpeak) return;
