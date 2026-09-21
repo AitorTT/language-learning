@@ -482,5 +482,159 @@
       {"sentence": "Vi behöver ett tydligt ___ för att utvärdera resultaten.", "answer": "ramverk", "translation_en": "We need a clear framework to evaluate the results.", "translation_es": "Necesitamos un marco claro para evaluar los resultados."},
       {"sentence": "Hans artikel kritiserades för sin ___ .", "answer": "tvetydighet", "translation_en": "His article was criticised for its ambiguity.", "translation_es": "Su artículo fue criticado por su ambigüedad."}
     ]
+  },
+  {
+    "id": 45,
+    "level": "A1",
+    "instruction": "Drag the correct animal into each gap.",
+    "items": [
+      {"sentence": "En ___ kan flyga och sjunger på morgonen.", "answer": "fågel", "translation_en": "A bird can fly and it sings in the morning.", "translation_es": "Un pájaro puede volar y canta por la mañana."},
+      {"sentence": "Vi dricker mjölk från en ___ .", "answer": "ko", "translation_en": "We drink milk from a cow.", "translation_es": "Bebemos leche de una vaca."},
+      {"sentence": "En ___ fångar möss.", "answer": "katt", "translation_en": "A cat catches mice.", "translation_es": "Un gato caza ratones."},
+      {"sentence": "___ är djurens konung.", "answer": "Lejonet", "translation_en": "The lion is the king of the animals.", "translation_es": "El león es el rey de los animales."}
+    ]
+  },
+  {
+    "id": 46,
+    "level": "A1",
+    "instruction": "Drag the correct nature word into each gap.",
+    "items": [
+      {"sentence": "På natten ser vi ___ och stjärnorna.", "answer": "månen", "translation_en": "At night we see the moon and the stars.", "translation_es": "Por la noche vemos la luna y las estrellas."},
+      {"sentence": "På vintern täcker ___ fälten.", "answer": "snön", "translation_en": "In winter the snow covers the fields.", "translation_es": "En invierno la nieve cubre los campos."},
+      {"sentence": "___ var så stark att den krossade fönstret.", "answer": "Vinden", "translation_en": "The wind was so strong that it broke the window.", "translation_es": "El viento era tan fuerte que rompió la ventana."},
+      {"sentence": "Vi tände en liten ___ för att hålla oss varma.", "answer": "eld", "translation_en": "We lit a small fire to keep warm.", "translation_es": "Encendimos un pequeño fuego para calentarnos."}
+    ]
+  },
+  {
+    "id": 47,
+    "level": "A1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Jag ___ med mina ögon.", "answer": "ser", "translation_en": "I see with my eyes.", "translation_es": "Veo con los ojos."},
+      {"sentence": "___ du svaret?", "answer": "Vet", "translation_en": "Do you know the answer?", "translation_es": "¿Sabes la respuesta?"},
+      {"sentence": "Snälla, ___ mig din penna.", "answer": "ge", "translation_en": "Please give me your pen.", "translation_es": "Por favor, dame tu bolígrafo."},
+      {"sentence": "Jag ___ bussen till jobbet varje dag.", "answer": "tar", "translation_en": "I take the bus to work every day.", "translation_es": "Cojo el autobús al trabajo todos los días."}
+    ]
+  },
+  {
+    "id": 48,
+    "level": "A1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "Det här är min ___ dag i skolan.", "answer": "första", "translation_en": "This is my first day at school.", "translation_es": "Es mi primer día en la escuela."},
+      {"sentence": "Du är den ___ personen i kön.", "answer": "andra", "translation_en": "You are the second person in the queue.", "translation_es": "Eres la segunda persona de la cola."},
+      {"sentence": "Han kom ___ till festen.", "answer": "sist", "translation_en": "He came last to the party.", "translation_es": "Él llegó el último a la fiesta."},
+      {"sentence": "Säg det ___ ; jag hörde dig inte.", "answer": "igen", "translation_en": "Say it again; I did not hear you.", "translation_es": "Dilo otra vez; no te oí."}
+    ]
+  },
+  {
+    "id": 49,
+    "level": "A2",
+    "instruction": "Drag the correct profession into each gap.",
+    "items": [
+      {"sentence": "Vår ___ undervisar oss i engelska två gånger i veckan.", "answer": "lärare", "translation_en": "Our teacher teaches us English twice a week.", "translation_es": "Nuestro profesor nos enseña inglés dos veces por semana."},
+      {"sentence": "___ byggde en ny bro i staden.", "answer": "Ingenjören", "translation_en": "The engineer built a new bridge in the city.", "translation_es": "El ingeniero construyó un nuevo puente en la ciudad."},
+      {"sentence": "En ___ arbetar ofta på sjukhuset på natten.", "answer": "sjuksköterska", "translation_en": "A nurse often works in a hospital at night.", "translation_es": "Una enfermera suele trabajar de noche en un hospital."},
+      {"sentence": "___ öppnade dörren och tog vår beställning.", "answer": "Servitören", "translation_en": "The waiter opened the door and took our order.", "translation_es": "El camarero abrió la puerta y tomó nuestro pedido."}
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A2",
+    "instruction": "Drag the correct place into each gap.",
+    "items": [
+      {"sentence": "Jag lånade tre böcker från ___ .", "answer": "biblioteket", "translation_en": "I borrowed three books from the library.", "translation_es": "Saqué tres libros de la biblioteca."},
+      {"sentence": "I stadens centrum finns en vacker gammal ___ .", "answer": "kyrka", "translation_en": "There is a beautiful old church in the centre of the city.", "translation_es": "Hay una hermosa iglesia antigua en el centro de la ciudad."},
+      {"sentence": "Vi gick över ___ över floden.", "answer": "bron", "translation_en": "We walked across the bridge over the river.", "translation_es": "Cruzamos el puente sobre el río."},
+      {"sentence": "Min pappa arbetar på ett litet ___ nära stationen.", "answer": "kontor", "translation_en": "My father works in a small office near the station.", "translation_es": "Mi padre trabaja en una pequeña oficina cerca de la estación."}
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A2",
+    "instruction": "Drag the correct kitchen word into each gap.",
+    "items": [
+      {"sentence": "___ vattnet först, tillsätt sedan pastan.", "answer": "Koka", "translation_en": "First boil the water, then add the pasta.", "translation_es": "Primero hierve el agua, luego añade la pasta."},
+      {"sentence": "Skär brödet med en vass ___ .", "answer": "kniv", "translation_en": "Cut the bread with a sharp knife.", "translation_es": "Corta el pan con un cuchillo afilado."},
+      {"sentence": "Ät soppan med en ___ .", "answer": "sked", "translation_en": "Eat the soup with a spoon.", "translation_es": "Toma la sopa con una cuchara."},
+      {"sentence": "Till salladen behöver du en skål och en ___ .", "answer": "gaffel", "translation_en": "For the salad you need a bowl and a fork.", "translation_es": "Para la ensalada necesitas un bol y un tenedor."}
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "instruction": "Drag the correct hobby word into each gap.",
+    "items": [
+      {"sentence": "På sommaren åker vi på ___ i fjällen.", "answer": "camping", "translation_en": "In summer we go camping in the mountains.", "translation_es": "En verano vamos de acampada a la montaña."},
+      {"sentence": "Han spelar ___ med sin morfar i timmar.", "answer": "schack", "translation_en": "He plays chess with his grandfather for hours.", "translation_es": "Juega al ajedrez con su abuelo durante horas."},
+      {"sentence": "Min mormor älskar ___ ; hennes trädgård är vacker.", "answer": "trädgårdsarbete", "translation_en": "My grandmother loves gardening; her garden is beautiful.", "translation_es": "A mi abuela le encanta la jardinería; su jardín es precioso."},
+      {"sentence": "___ är en hobby för dem som gillar att ta bilder.", "answer": "Fotografering", "translation_en": "Photography is a hobby for people who love taking pictures.", "translation_es": "La fotografía es un pasatiempo para quien ama hacer fotos."}
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct quality into each gap.",
+    "items": [
+      {"sentence": "Det krävs ___ att tala inför en stor folkmassa.", "answer": "mod", "translation_en": "It takes courage to speak in front of a large crowd.", "translation_es": "Hace falta valor para hablar ante una gran multitud."},
+      {"sentence": "Att lära sig ett språk kräver mycket ___ .", "answer": "tålamod", "translation_en": "Learning a language requires a lot of patience.", "translation_es": "Aprender un idioma requiere mucha paciencia."},
+      {"sentence": "I ett bra team finns ömsesidig ___ .", "answer": "respekt", "translation_en": "In a good team there is mutual respect.", "translation_es": "En un buen equipo hay respeto mutuo."},
+      {"sentence": "Jag kan alltid räkna med honom; han har mitt fulla ___ .", "answer": "förtroende", "translation_en": "I can always count on him; he has my complete trust.", "translation_es": "Siempre puedo contar con él; tiene toda mi confianza."}
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct business word into each gap.",
+    "items": [
+      {"sentence": "Vår största ___ beställer mer än tusen enheter i månaden.", "answer": "kund", "translation_en": "Our biggest customer orders more than a thousand units a month.", "translation_es": "Nuestro mayor cliente pide más de mil unidades al mes."},
+      {"sentence": "Ett starkt ___ hjälper människor att komma ihåg en produkt.", "answer": "varumärke", "translation_en": "A strong brand helps people remember a product.", "translation_es": "Una marca fuerte ayuda a recordar un producto."},
+      {"sentence": "Skicka ___ , tack, efter att vi har levererat varorna.", "answer": "fakturan", "translation_en": "Please send the invoice after we deliver the goods.", "translation_es": "Por favor, envía la factura después de entregar la mercancía."},
+      {"sentence": "Lådorna förvaras i ett stort ___ nära hamnen.", "answer": "lager", "translation_en": "The boxes are stored in a large warehouse near the port.", "translation_es": "Las cajas se guardan en un gran almacén cerca del puerto."}
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {"sentence": "Vatten består av molekyler, och varje ___ innehåller väte och syre.", "answer": "molekyl", "translation_en": "Water is made of molecules, and each molecule contains hydrogen and oxygen.", "translation_es": "El agua está hecha de moléculas, y cada molécula contiene hidrógeno y oxígeno."},
+      {"sentence": "Äpplet föll till marken på grund av ___ .", "answer": "gravitationen", "translation_en": "The apple fell to the ground because of gravity.", "translation_es": "La manzana cayó al suelo por la gravedad."},
+      {"sentence": "Varje levande varelse består av minst en ___ .", "answer": "cell", "translation_en": "Every living thing is made of at least one cell.", "translation_es": "Todo ser vivo está formado por al menos una célula."},
+      {"sentence": "Vi studerade bakterierna i ett ___ .", "answer": "mikroskop", "translation_en": "We studied the bacteria under a microscope.", "translation_es": "Estudiamos las bacterias bajo un microscopio."}
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {"sentence": "Artikeln ger en kort ___ av den senaste forskningen inom området.", "answer": "syntes", "translation_en": "The paper offers a short synthesis of recent research in the field.", "translation_es": "El artículo ofrece una breve síntesis de la investigación reciente en el campo."},
+      {"sentence": "Vi hittade en stark ___ mellan inkomst och utbildning.", "answer": "korrelation", "translation_en": "We found a strong correlation between income and education.", "translation_es": "Encontramos una fuerte correlación entre ingresos y educación."},
+      {"sentence": "Studien kombinerar ___ data med intervjuer.", "answer": "kvantitativ", "translation_en": "The study combines quantitative data with interviews.", "translation_es": "El estudio combina datos cuantitativos con entrevistas."},
+      {"sentence": "Hans argument vilar på ___ bevis, inte åsikter.", "answer": "empiriska", "translation_en": "His argument rests on empirical evidence, not opinion.", "translation_es": "Su argumento se basa en pruebas empíricas, no en opiniones."}
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {"sentence": "Domaren meddelade ___ efter en lång rättegång.", "answer": "utslaget", "translation_en": "The judge announced the verdict after a long trial.", "translation_es": "El juez anunció el veredicto tras un largo juicio."},
+      {"sentence": "___ anklagade företaget för att ha brutit kontraktet.", "answer": "Käranden", "translation_en": "The plaintiff accused the company of breaking the contract.", "translation_es": "El demandante acusó a la empresa de incumplir el contrato."},
+      {"sentence": "Ny ___ om dataskydd trädde i kraft i år.", "answer": "lagstiftning", "translation_en": "New legislation on data protection came into force this year.", "translation_es": "Nueva legislación sobre protección de datos entró en vigor este año."},
+      {"sentence": "Företag måste visa ___ med säkerhetsreglerna.", "answer": "efterlevnad", "translation_en": "Firms must prove compliance with the safety rules.", "translation_es": "Las empresas deben demostrar el cumplimiento de las normas de seguridad."}
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct medical term into each gap.",
+    "items": [
+      {"sentence": "Läkaren ställde en snabb ___ efter undersökningen.", "answer": "diagnos", "translation_en": "The doctor gave a quick diagnosis after the examination.", "translation_es": "El médico dio un diagnóstico rápido tras el examen."},
+      {"sentence": "Det nya ___ skyddar barn mot flera sjukdomar.", "answer": "vaccinet", "translation_en": "The new vaccine protects children against several diseases.", "translation_es": "La nueva vacuna protege a los niños contra varias enfermedades."},
+      {"sentence": "Han lider av ett ___ ryggproblem.", "answer": "kroniskt", "translation_en": "He suffers from a chronic back problem.", "translation_es": "Sufre un problema crónico de espalda."},
+      {"sentence": "___ utförde operationen på tre timmar.", "answer": "Kirurgen", "translation_en": "The surgeon performed the operation in three hours.", "translation_es": "El cirujano realizó la operación en tres horas."}
+    ]
   }
 ]

@@ -565,5 +565,134 @@
       ["eine führende Firma", "eine gegründete Firma", "una empresa líder / una empresa fundada"],
       ["das schlafende Kind", "das eingeschlafene Kind", "el niño durmiente / el niño dormido"]
     ]
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "title": "Es gibt / es gab",
+    "description": "Präsens und Präteritum von 'es gibt'.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Es gibt einen Park hier.", "There is a park here.", "Hay un parque aquí."],
+      ["Es gibt zwei Geschäfte.", "There are two shops.", "Hay dos tiendas."],
+      ["Es gab keine Milch.", "There was no milk.", "No había leche."],
+      ["Es gab viele Leute.", "There were many people.", "Había mucha gente."]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "title": "gern / lieber / am liebsten",
+    "description": "Vorlieben mit gern steigern.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Ich trinke gern Kaffee.", "I like drinking coffee.", "Me gusta beber café."],
+      ["Ich trinke lieber Tee.", "I prefer drinking tea.", "Prefiero beber té."],
+      ["Am liebsten trinke ich Wasser.", "I like water best.", "Lo que más me gusta es el agua."]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "title": "Genitiv (possessive)",
+    "description": "Der Genitiv zeigt Besitz: -s oder 'von'.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Das ist Annas Auto.", "This is Anna's car.", "Este es el coche de Anna."],
+      ["die Farbe des Hauses", "the colour of the house", "el color de la casa"],
+      ["Das ist das Auto von Peter.", "This is Peter's car.", "Este es el coche de Peter."],
+      ["die Meinung der Leute", "people's opinion", "la opinión de la gente"]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "title": "Präteritum der Modalverben",
+    "description": "Modalverben im Präteritum haben kein -te.",
+    "columns": ["Infinitiv", "Präteritum", "Español"],
+    "rows": [
+      ["können", "ich konnte", "yo podía / pude"],
+      ["müssen", "ich musste", "yo tenía que"],
+      ["wollen", "ich wollte", "yo quería"],
+      ["dürfen", "ich durfte", "yo podía (permiso)"],
+      ["sollen", "ich sollte", "yo debía"]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "title": "Reflexivpronomen",
+    "description": "mich, dich, sich, uns, euch, sich.",
+    "columns": ["Person", "Reflexiv", "Español"],
+    "rows": [
+      ["ich", "mich", "me"],
+      ["du", "dich", "te"],
+      ["er / sie / es", "sich", "se"],
+      ["wir", "uns", "nos"],
+      ["ihr", "euch", "os"],
+      ["sie / Sie", "sich", "se"]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "title": "Frageanhängsel (nicht wahr?)",
+    "description": "Kurze Rückfragen am Satzende.",
+    "columns": ["Aussage", "Rückfrage", "Español"],
+    "rows": [
+      ["Du bist Spanier,", "nicht wahr?", "Eres español, ¿verdad?"],
+      ["Sie mag keinen Kaffee,", "oder?", "No le gusta el café, ¿verdad?"],
+      ["Wir gehen ins Kino,", "oder?", "Vamos al cine, ¿vale?"],
+      ["Das war teuer,", "nicht?", "Eso fue caro, ¿no?"]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Passiv im Präteritum",
+    "description": "wurde + Partizip für passive Sätze in der Vergangenheit.",
+    "columns": ["Aktiv", "Passiv", "Español"],
+    "rows": [
+      ["Man baute das Haus 1990.", "Das Haus wurde 1990 gebaut.", "La casa fue construida en 1990."],
+      ["Sie schrieben den Brief.", "Der Brief wurde geschrieben.", "La carta fue escrita."],
+      ["Man reparierte das Auto.", "Das Auto wurde repariert.", "El coche fue reparado."]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Infinitivsätze mit zu",
+    "description": "zu + Infinitiv nach vielen Verben und Ausdrücken.",
+    "columns": ["Deutsch", "English", "Español"],
+    "rows": [
+      ["Ich habe vergessen, die Tür zu schließen.", "I forgot to close the door.", "Olvidé cerrar la puerta."],
+      ["Es ist wichtig, pünktlich zu sein.", "It is important to be on time.", "Es importante ser puntual."],
+      ["Sie versucht, mehr zu lesen.", "She tries to read more.", "Intenta leer más."]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalstil und Verbalstil",
+    "description": "Formeller Text nutzt mehr Nomen, klarer Stil mehr Verben.",
+    "columns": ["Verbalstil", "Nominalstil", "Español"],
+    "rows": [
+      ["Nachdem wir die Daten analysiert hatten...", "Nach der Analyse der Daten...", "Tras el análisis de los datos..."],
+      ["Weil die Preise steigen...", "Wegen des Anstiegs der Preise...", "Debido al aumento de los precios..."],
+      ["Als wir das Projekt beendeten...", "Nach Beendigung des Projekts...", "Tras la finalización del proyecto..."]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Funktionsverbgefüge",
+    "description": "Feste Verbindungen aus Nomen und Verb.",
+    "columns": ["Gefüge", "Bedeutung", "Español"],
+    "rows": [
+      ["eine Entscheidung treffen", "entscheiden", "tomar una decisión"],
+      ["Kritik üben", "kritisieren", "criticar"],
+      ["in Frage stellen", "bezweifeln", "cuestionar"],
+      ["zur Verfügung stellen", "bereitstellen", "poner a disposición"]
+    ]
   }
 ]

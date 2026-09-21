@@ -583,5 +583,137 @@
       ["The book, which was written in 1990, is famous.", "The book, written in 1990, is famous.", "El libro, escrito en 1990, es famoso."],
       ["Since I had finished work, I went home.", "Having finished work, I went home.", "Habiendo terminado el trabajo, me fui a casa."]
     ]
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "title": "There was / there were",
+    "description": "Past form of there is / there are.",
+    "columns": ["English", "Español", "Form"],
+    "rows": [
+      ["There was a park here.", "Había un parque aquí.", "singular +"],
+      ["There were two shops.", "Había dos tiendas.", "plural +"],
+      ["There wasn't any milk.", "No había leche.", "singular −"],
+      ["There weren't many people.", "No había mucha gente.", "plural −"],
+      ["Was there a message?", "¿Había un mensaje?", "singular ?"],
+      ["Were there any tickets?", "¿Había entradas?", "plural ?"]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "title": "Like + -ing",
+    "description": "Verbs after like, love, hate and enjoy take -ing.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["I like swimming.", "Me gusta nadar."],
+      ["She loves reading.", "Le encanta leer."],
+      ["We hate waiting.", "Odiamos esperar."],
+      ["He enjoys cooking.", "Disfruta cocinando."],
+      ["They don't mind walking.", "No les importa caminar."]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "title": "Possessive 's",
+    "description": "The apostrophe shows who owns something.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["John's car is red.", "El coche de John es rojo."],
+      ["my sister's room", "la habitación de mi hermana"],
+      ["the children's toys", "los juguetes de los niños"],
+      ["the teachers' office", "la oficina de los profesores"]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "title": "Used to",
+    "description": "Past habits and states with used to.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["I used to live in London.", "Solía vivir en Londres."],
+      ["She used to play tennis.", "Solía jugar al tenis."],
+      ["We didn't use to have a car.", "No teníamos coche."],
+      ["Did you use to walk to school?", "¿Solías ir andando a la escuela?"]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "title": "Reflexive pronouns",
+    "description": "myself, yourself, himself, herself, ourselves, themselves.",
+    "columns": ["Subject", "Reflexive", "Español"],
+    "rows": [
+      ["I", "myself", "yo mismo"],
+      ["you", "yourself", "tú mismo"],
+      ["he", "himself", "él mismo"],
+      ["she", "herself", "ella misma"],
+      ["we", "ourselves", "nosotros mismos"],
+      ["they", "themselves", "ellos mismos"]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "title": "Question tags",
+    "description": "Short questions added at the end of a statement.",
+    "columns": ["Statement", "Tag", "Español"],
+    "rows": [
+      ["You are Spanish,", "aren't you?", "Eres español, ¿verdad?"],
+      ["She doesn't like coffee,", "does she?", "No le gusta el café, ¿verdad?"],
+      ["They have arrived,", "haven't they?", "Han llegado, ¿verdad?"],
+      ["Let's go,", "shall we?", "Vamos, ¿te parece?"]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Passive with modals",
+    "description": "modal + be + past participle.",
+    "columns": ["Active", "Passive", "Español"],
+    "rows": [
+      ["They must finish the report.", "The report must be finished.", "El informe debe ser terminado."],
+      ["Someone should clean the room.", "The room should be cleaned.", "La habitación debería limpiarse."],
+      ["You can buy tickets online.", "Tickets can be bought online.", "Las entradas pueden comprarse en línea."]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Wish / if only",
+    "description": "Expressing regrets and desires.",
+    "columns": ["English", "Español"],
+    "rows": [
+      ["I wish I had more time.", "Ojalá tuviera más tiempo."],
+      ["She wishes she could swim.", "Ella desearía saber nadar."],
+      ["If only I had studied!", "¡Si hubiera estudiado!"],
+      ["I wish it would stop raining.", "Ojalá dejara de llover."]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Cleft sentences",
+    "description": "Cleaving puts the focus on one part of the sentence.",
+    "columns": ["Neutral", "Cleft", "Español"],
+    "rows": [
+      ["Maria broke the window.", "It was Maria who broke the window.", "Fue María quien rompió la ventana."],
+      ["I need a holiday.", "What I need is a holiday.", "Lo que necesito son unas vacaciones."],
+      ["He only wanted to help.", "All he wanted was to help.", "Todo lo que quería era ayudar."]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Hedging and academic tone",
+    "description": "Careful, cautious language in academic writing.",
+    "columns": ["Direct", "Hedged", "Español"],
+    "rows": [
+      ["This proves the theory.", "This suggests the theory may be correct.", "Esto sugiere que la teoría puede ser correcta."],
+      ["Everyone knows that...", "It is widely accepted that...", "Está ampliamente aceptado que..."],
+      ["The results are wrong.", "The results appear to be inconsistent.", "Los resultados parecen inconsistentes."]
+    ]
   }
 ]

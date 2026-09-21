@@ -559,5 +559,133 @@
       ["decidere", "la decisione", "la decisión"],
       ["sviluppare", "lo sviluppo", "el desarrollo"]
     ]
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "title": "C'è / ci sono (passato)",
+    "description": "Forma passata di c'è e ci sono.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["C'era un parco qui.", "There was a park here.", "Había un parque aquí."],
+      ["C'erano due negozi.", "There were two shops.", "Había dos tiendas."],
+      ["Non c'era latte.", "There was no milk.", "No había leche."],
+      ["C'erano molte persone.", "There were many people.", "Había mucha gente."]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "title": "Mi piace / mi piacciono",
+    "description": "Il verbo piacere concorda con la cosa che piace.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Mi piace il caffè.", "I like coffee.", "Me gusta el café."],
+      ["Mi piacciono i gatti.", "I like cats.", "Me gustan los gatos."],
+      ["Ci piace viaggiare.", "We like travelling.", "Nos gusta viajar."],
+      ["Non mi piace aspettare.", "I don't like waiting.", "No me gusta esperar."]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "title": "Dimostrativi (questo / quello)",
+    "description": "questo (vicino), quello (lontano).",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["questo libro", "this book", "este libro"],
+      ["questa casa", "this house", "esta casa"],
+      ["quel ragazzo", "that boy", "ese chico"],
+      ["quella macchina", "that car", "ese coche"]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "title": "Comparativo di uguaglianza",
+    "description": "così... come / tanto... quanto.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Marco è alto come Luca.", "Marco is as tall as Luca.", "Marco es tan alto como Luca."],
+      ["Questa casa è bella quanto quella.", "This house is as beautiful as that one.", "Esta casa es tan bonita como aquella."],
+      ["Non è così difficile come pensavo.", "It is not as difficult as I thought.", "No es tan difícil como pensaba."]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "title": "Pronomi riflessivi",
+    "description": "mi, ti, si, ci, vi, si.",
+    "columns": ["Persona", "Riflessivo", "Español"],
+    "rows": [
+      ["io", "mi", "me"],
+      ["tu", "ti", "te"],
+      ["lui / lei", "si", "se"],
+      ["noi", "ci", "nos"],
+      ["voi", "vi", "os"],
+      ["loro", "si", "se"]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "title": "Domande con 'vero?'",
+    "description": "Brevi conferme alla fine della frase.",
+    "columns": ["Frase", "Conferma", "Español"],
+    "rows": [
+      ["Sei spagnolo,", "vero?", "Eres español, ¿verdad?"],
+      ["Non le piace il caffè,", "vero?", "No le gusta el café, ¿verdad?"],
+      ["Andiamo al cinema,", "va bene?", "Vamos al cine, ¿vale?"],
+      ["Era caro,", "no?", "Era caro, ¿no?"]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Passivo con tempi passati",
+    "description": "venire / essere + participio passato.",
+    "columns": ["Attivo", "Passivo", "Español"],
+    "rows": [
+      ["Hanno costruito la casa nel 1990.", "La casa è stata costruita nel 1990.", "La casa fue construida en 1990."],
+      ["Hanno scritto la lettera.", "La lettera è stata scritta.", "La carta fue escrita."],
+      ["Hanno riparato la macchina.", "La macchina è stata riparata.", "El coche fue reparado."]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Prima di / dopo + infinito",
+    "description": "Espressioni temporali seguite dall'infinito.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Prima di uscire, chiudi la finestra.", "Before going out, close the window.", "Antes de salir, cierra la ventana."],
+      ["Dopo aver mangiato, siamo andati a casa.", "After eating, we went home.", "Después de comer, fuimos a casa."],
+      ["Prima di partire, telefona a tua madre.", "Before leaving, call your mother.", "Antes de salir, llama a tu madre."]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Concessive clauses (benché, sebbene)",
+    "description": "benché / sebbene + congiuntivo per concessioni.",
+    "columns": ["Italiano", "English", "Español"],
+    "rows": [
+      ["Benché sia tardi, continuo a lavorare.", "Although it is late, I keep working.", "Aunque es tarde, sigo trabajando."],
+      ["Sebbene avesse fame, non mangiò.", "Although he was hungry, he did not eat.", "Aunque tenía hambre, no comió."],
+      ["Nonostante la pioggia, uscimmo.", "Despite the rain, we went out.", "A pesar de la lluvia, salimos."]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Collocazioni con fare",
+    "description": "Espressioni fisse con il verbo fare.",
+    "columns": ["Collocazione", "Significato", "Español"],
+    "rows": [
+      ["fare una domanda", "chiedere", "hacer una pregunta"],
+      ["fare una passeggiata", "camminare", "dar un paseo"],
+      ["fare attenzione", "prestare attenzione", "prestar atención"],
+      ["fare il bucato", "lavare i vestiti", "hacer la colada"]
+    ]
   }
 ]

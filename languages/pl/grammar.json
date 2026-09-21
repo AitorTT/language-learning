@@ -571,5 +571,136 @@
       ["decydować", "decyzja", "la decisión"],
       ["rozwijać", "rozwój", "el desarrollo"]
     ]
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "title": "There is / there are (jest / są)",
+    "description": "jest for singular, są for plural.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Jest park tutaj.", "There is a park here.", "Hay un parque aquí."],
+      ["Są dwa sklepy.", "There are two shops.", "Hay dos tiendas."],
+      ["Nie ma mleka.", "There is no milk.", "No hay leche."],
+      ["Było dużo ludzi.", "There were many people.", "Había mucha gente."]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "title": "I like / I prefer (lubić / woleć)",
+    "description": "Expressing likes and preferences.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Lubię kawę.", "I like coffee.", "Me gusta el café."],
+      ["Wolę herbatę.", "I prefer tea.", "Prefiero el té."],
+      ["Bardzo lubię podróżować.", "I really like travelling.", "Me gusta mucho viajar."],
+      ["Nie znoszę czekać.", "I can't stand waiting.", "No soporto esperar."]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "title": "Demonstratives (ten / tamten)",
+    "description": "ten (near), tamten (far).",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["ten książka", "this book", "este libro"],
+      ["ta książka", "this book (fem.)", "este libro"],
+      ["to okno", "this window", "esta ventana"],
+      ["tamten samochód", "that car", "ese coche"]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "title": "Comparisons of equality (tak... jak)",
+    "description": "tak... jak / tyle samo... co.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Marek jest tak wysoki jak Luca.", "Marek is as tall as Luca.", "Marek es tan alto como Luca."],
+      ["Ten dom jest tak samo piękny jak tamten.", "This house is as beautiful as that one.", "Esta casa es tan bonita como aquella."],
+      ["Nie jest tak trudne, jak myślałem.", "It is not as difficult as I thought.", "No es tan difícil como pensaba."]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "title": "Personal pronouns in cases",
+    "description": "Pronouns change form in the genitive and accusative.",
+    "columns": ["Nominative", "Genitive", "Accusative", "Español"],
+    "rows": [
+      ["ja", "mnie", "mnie", "yo / me"],
+      ["ty", "ciebie", "ciebie", "tú / te"],
+      ["on", "jego", "jego", "él / lo"],
+      ["ona", "jej", "ją", "ella / la"],
+      ["my", "nas", "nas", "nosotros / nos"],
+      ["oni", "ich", "ich", "ellos / los"]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "title": "Question tags (prawda? / nie?)",
+    "description": "Short confirmations at the end of a sentence.",
+    "columns": ["Statement", "Tag", "Español"],
+    "rows": [
+      ["Jesteś Hiszpanem,", "prawda?", "Eres español, ¿verdad?"],
+      ["Ona nie lubi kawy,", "prawda?", "No le gusta el café, ¿verdad?"],
+      ["Idziemy do kina,", "dobrze?", "Vamos al cine, ¿vale?"],
+      ["To było drogie,", "nie?", "Era caro, ¿no?"]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Passive with zostać",
+    "description": "zostać + participle for passive actions.",
+    "columns": ["Active", "Passive", "Español"],
+    "rows": [
+      ["Zbudowali dom w 1990 roku.", "Dom został zbudowany w 1990 roku.", "La casa fue construida en 1990."],
+      ["Napisali list.", "List został napisany.", "La carta fue escrita."],
+      ["Naprawili samochód.", "Samochód został naprawiony.", "El coche fue reparado."]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Diminutives (zdrobnienia)",
+    "description": "Common diminutive endings: -ek, -ka, -ko.",
+    "columns": ["Neutral", "Diminutive", "Español"],
+    "rows": [
+      ["kot", "kotek", "gatito"],
+      ["dom", "domek", "casita"],
+      ["kawa", "kawka", "cafecito"],
+      ["pies", "piesek", "perrito"],
+      ["Anna", "Ania", "Anita"]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Participles (imiesłowy)",
+    "description": "Adverbial and adjectival participles.",
+    "columns": ["Polish", "English", "Español"],
+    "rows": [
+      ["Czytając, pił kawę.", "While reading, he drank coffee.", "Mientras leía, bebía café."],
+      ["Przeczytawszy książkę, zasnął.", "Having read the book, he fell asleep.", "Habiendo leído el libro, se durmió."],
+      ["kupiony samochód", "a bought car", "un coche comprado"],
+      ["rosnące ceny", "rising prices", "precios crecientes"]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Collocations with robić and mieć",
+    "description": "Fixed expressions with robić and mieć.",
+    "columns": ["Expression", "Meaning", "Español"],
+    "rows": [
+      ["robić zakupy", "kupować", "hacer la compra"],
+      ["robić wrażenie", "imponować", "causar impresión"],
+      ["mieć rację", "być w porządku", "tener razón"],
+      ["mieć zamiar", "planować", "tener la intención"]
+    ]
   }
 ]

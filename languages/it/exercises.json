@@ -482,5 +482,159 @@
       {"sentence": "Ci serve un ___ chiaro per valutare i risultati.", "answer": "quadro", "translation_en": "We need a clear framework to evaluate the results.", "translation_es": "Necesitamos un marco claro para evaluar los resultados."},
       {"sentence": "Il suo articolo è stato criticato per la sua ___ .", "answer": "ambiguità", "translation_en": "His article was criticised for its ambiguity.", "translation_es": "Su artículo fue criticado por su ambigüedad."}
     ]
+  },
+  {
+    "id": 45,
+    "level": "A1",
+    "instruction": "Drag the correct animal into each gap.",
+    "items": [
+      {"sentence": "Un ___ può volare e canta la mattina.", "answer": "uccello", "translation_en": "A bird can fly and it sings in the morning.", "translation_es": "Un pájaro puede volar y canta por la mañana."},
+      {"sentence": "Beviamo il latte di una ___ .", "answer": "mucca", "translation_en": "We drink milk from a cow.", "translation_es": "Bebemos leche de una vaca."},
+      {"sentence": "Un ___ caccia i topi.", "answer": "gatto", "translation_en": "A cat catches mice.", "translation_es": "Un gato caza ratones."},
+      {"sentence": "Il ___ è il re degli animali.", "answer": "leone", "translation_en": "The lion is the king of the animals.", "translation_es": "El león es el rey de los animales."}
+    ]
+  },
+  {
+    "id": 46,
+    "level": "A1",
+    "instruction": "Drag the correct nature word into each gap.",
+    "items": [
+      {"sentence": "Di notte vediamo la ___ e le stelle.", "answer": "luna", "translation_en": "At night we see the moon and the stars.", "translation_es": "Por la noche vemos la luna y las estrellas."},
+      {"sentence": "In inverno la ___ copre i campi.", "answer": "neve", "translation_en": "In winter the snow covers the fields.", "translation_es": "En invierno la nieve cubre los campos."},
+      {"sentence": "Il ___ era così forte che ha rotto la finestra.", "answer": "vento", "translation_en": "The wind was so strong that it broke the window.", "translation_es": "El viento era tan fuerte que rompió la ventana."},
+      {"sentence": "Abbiamo acceso un piccolo ___ per scaldarci.", "answer": "fuoco", "translation_en": "We lit a small fire to keep warm.", "translation_es": "Encendimos un pequeño fuego para calentarnos."}
+    ]
+  },
+  {
+    "id": 47,
+    "level": "A1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {"sentence": "Io ___ con gli occhi.", "answer": "vedo", "translation_en": "I see with my eyes.", "translation_es": "Veo con los ojos."},
+      {"sentence": "___ la risposta?", "answer": "Sai", "translation_en": "Do you know the answer?", "translation_es": "¿Sabes la respuesta?"},
+      {"sentence": "Per favore, ___ mi la penna.", "answer": "dammi", "translation_en": "Please give me your pen.", "translation_es": "Por favor, dame tu bolígrafo."},
+      {"sentence": "___ l'autobus per andare al lavoro ogni giorno.", "answer": "Prendo", "translation_en": "I take the bus to work every day.", "translation_es": "Cojo el autobús al trabajo todos los días."}
+    ]
+  },
+  {
+    "id": 48,
+    "level": "A1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {"sentence": "Questo è il mio ___ giorno di scuola.", "answer": "primo", "translation_en": "This is my first day at school.", "translation_es": "Es mi primer día en la escuela."},
+      {"sentence": "Sei la ___ persona in fila.", "answer": "seconda", "translation_en": "You are the second person in the queue.", "translation_es": "Eres la segunda persona de la cola."},
+      {"sentence": "È arrivato per ___ alla festa.", "answer": "ultimo", "translation_en": "He came last to the party.", "translation_es": "Él llegó el último a la fiesta."},
+      {"sentence": "Ripetilo di ___ ; non ti ho sentito.", "answer": "nuovo", "translation_en": "Say it again; I did not hear you.", "translation_es": "Dilo otra vez; no te oí."}
+    ]
+  },
+  {
+    "id": 49,
+    "level": "A2",
+    "instruction": "Drag the correct profession into each gap.",
+    "items": [
+      {"sentence": "Il nostro ___ ci insegna inglese due volte a settimana.", "answer": "insegnante", "translation_en": "Our teacher teaches us English twice a week.", "translation_es": "Nuestro profesor nos enseña inglés dos veces por semana."},
+      {"sentence": "L'___ ha costruito un nuovo ponte in città.", "answer": "ingegnere", "translation_en": "The engineer built a new bridge in the city.", "translation_es": "El ingeniero construyó un nuevo puente en la ciudad."},
+      {"sentence": "Un'___ spesso lavora di notte in ospedale.", "answer": "infermiera", "translation_en": "A nurse often works in a hospital at night.", "translation_es": "Una enfermera suele trabajar de noche en un hospital."},
+      {"sentence": "Il ___ ha aperto la porta e ha preso il nostro ordine.", "answer": "cameriere", "translation_en": "The waiter opened the door and took our order.", "translation_es": "El camarero abrió la puerta y tomó nuestro pedido."}
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A2",
+    "instruction": "Drag the correct place into each gap.",
+    "items": [
+      {"sentence": "Ho preso in prestito tre libri dalla ___ .", "answer": "biblioteca", "translation_en": "I borrowed three books from the library.", "translation_es": "Saqué tres libros de la biblioteca."},
+      {"sentence": "Nel centro della città c'è una bella ___ antica.", "answer": "chiesa", "translation_en": "There is a beautiful old church in the centre of the city.", "translation_es": "Hay una hermosa iglesia antigua en el centro de la ciudad."},
+      {"sentence": "Abbiamo attraversato il ___ sul fiume.", "answer": "ponte", "translation_en": "We walked across the bridge over the river.", "translation_es": "Cruzamos el puente sobre el río."},
+      {"sentence": "Mio padre lavora in un piccolo ___ vicino alla stazione.", "answer": "ufficio", "translation_en": "My father works in a small office near the station.", "translation_es": "Mi padre trabaja en una pequeña oficina cerca de la estación."}
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A2",
+    "instruction": "Drag the correct kitchen word into each gap.",
+    "items": [
+      {"sentence": "Prima ___ l'acqua, poi aggiungi la pasta.", "answer": "fai bollire", "translation_en": "First boil the water, then add the pasta.", "translation_es": "Primero hierve el agua, luego añade la pasta."},
+      {"sentence": "Taglia il pane con un ___ affilato.", "answer": "coltello", "translation_en": "Cut the bread with a sharp knife.", "translation_es": "Corta el pan con un cuchillo afilado."},
+      {"sentence": "Mangia la zuppa con il ___ .", "answer": "cucchiaio", "translation_en": "Eat the soup with a spoon.", "translation_es": "Toma la sopa con una cuchara."},
+      {"sentence": "Per l'insalata ti serve una ciotola e una ___ .", "answer": "forchetta", "translation_en": "For the salad you need a bowl and a fork.", "translation_es": "Para la ensalada necesitas un bol y un tenedor."}
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "instruction": "Drag the correct hobby word into each gap.",
+    "items": [
+      {"sentence": "In estate andiamo in ___ in montagna.", "answer": "campeggio", "translation_en": "In summer we go camping in the mountains.", "translation_es": "En verano vamos de acampada a la montaña."},
+      {"sentence": "Passa ore a giocare a ___ con suo nonno.", "answer": "scacchi", "translation_en": "He plays chess with his grandfather for hours.", "translation_es": "Juega al ajedrez con su abuelo durante horas."},
+      {"sentence": "Mia nonna ama il ___ ; il suo giardino è bellissimo.", "answer": "giardinaggio", "translation_en": "My grandmother loves gardening; her garden is beautiful.", "translation_es": "A mi abuela le encanta la jardinería; su jardín es precioso."},
+      {"sentence": "La ___ è un hobby per chi ama fare fotografie.", "answer": "fotografia", "translation_en": "Photography is a hobby for people who love taking pictures.", "translation_es": "La fotografía es un pasatiempo para quien ama hacer fotos."}
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct quality into each gap.",
+    "items": [
+      {"sentence": "Ci vuole ___ per parlare davanti a una grande folla.", "answer": "coraggio", "translation_en": "It takes courage to speak in front of a large crowd.", "translation_es": "Hace falta valor para hablar ante una gran multitud."},
+      {"sentence": "Imparare una lingua richiede molta ___ .", "answer": "pazienza", "translation_en": "Learning a language requires a lot of patience.", "translation_es": "Aprender un idioma requiere mucha paciencia."},
+      {"sentence": "In una buona squadra c'è ___ reciproco.", "answer": "rispetto", "translation_en": "In a good team there is mutual respect.", "translation_es": "En un buen equipo hay respeto mutuo."},
+      {"sentence": "Posso sempre contare su di lui; ha tutta la mia ___ .", "answer": "fiducia", "translation_en": "I can always count on him; he has my complete trust.", "translation_es": "Siempre puedo contar con él; tiene toda mi confianza."}
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct business word into each gap.",
+    "items": [
+      {"sentence": "Il nostro più grande ___ ordina più di mille pezzi al mese.", "answer": "cliente", "translation_en": "Our biggest customer orders more than a thousand units a month.", "translation_es": "Nuestro mayor cliente pide más de mil unidades al mes."},
+      {"sentence": "Un ___ forte aiuta le persone a ricordare un prodotto.", "answer": "marchio", "translation_en": "A strong brand helps people remember a product.", "translation_es": "Una marca fuerte ayuda a recordar un producto."},
+      {"sentence": "Per favore, manda la ___ dopo che abbiamo consegnato la merce.", "answer": "fattura", "translation_en": "Please send the invoice after we deliver the goods.", "translation_es": "Por favor, envía la factura después de entregar la mercancía."},
+      {"sentence": "Le scatole sono conservate in un grande ___ vicino al porto.", "answer": "magazzino", "translation_en": "The boxes are stored in a large warehouse near the port.", "translation_es": "Las cajas se guardan en un gran almacén cerca del puerto."}
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {"sentence": "L'acqua è fatta di molecole, e ogni ___ contiene idrogeno e ossigeno.", "answer": "molecola", "translation_en": "Water is made of molecules, and each molecule contains hydrogen and oxygen.", "translation_es": "El agua está hecha de moléculas, y cada molécula contiene hidrógeno y oxígeno."},
+      {"sentence": "La mela è caduta a terra per la ___ .", "answer": "gravità", "translation_en": "The apple fell to the ground because of gravity.", "translation_es": "La manzana cayó al suelo por la gravedad."},
+      {"sentence": "Ogni essere vivente è formato da almeno una ___ .", "answer": "cellula", "translation_en": "Every living thing is made of at least one cell.", "translation_es": "Todo ser vivo está formado por al menos una célula."},
+      {"sentence": "Abbiamo studiato i batteri al ___ .", "answer": "microscopio", "translation_en": "We studied the bacteria under a microscope.", "translation_es": "Estudiamos las bacterias bajo un microscopio."}
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {"sentence": "L'articolo offre una breve ___ delle ricerche recenti nel campo.", "answer": "sintesi", "translation_en": "The paper offers a short synthesis of recent research in the field.", "translation_es": "El artículo ofrece una breve síntesis de la investigación reciente en el campo."},
+      {"sentence": "Abbiamo trovato una forte ___ tra reddito e istruzione.", "answer": "correlazione", "translation_en": "We found a strong correlation between income and education.", "translation_es": "Encontramos una fuerte correlación entre ingresos y educación."},
+      {"sentence": "Lo studio combina dati ___ con interviste.", "answer": "quantitativi", "translation_en": "The study combines quantitative data with interviews.", "translation_es": "El estudio combina datos cuantitativos con entrevistas."},
+      {"sentence": "Il suo argomento si basa su prove ___ , non su opinioni.", "answer": "empiriche", "translation_en": "His argument rests on empirical evidence, not opinion.", "translation_es": "Su argumento se basa en pruebas empíricas, no en opiniones."}
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {"sentence": "Il giudice ha annunciato il ___ dopo un lungo processo.", "answer": "verdetto", "translation_en": "The judge announced the verdict after a long trial.", "translation_es": "El juez anunció el veredicto tras un largo juicio."},
+      {"sentence": "Il ___ ha accusato l'azienda di aver violato il contratto.", "answer": "querelante", "translation_en": "The plaintiff accused the company of breaking the contract.", "translation_es": "El demandante acusó a la empresa de incumplir el contrato."},
+      {"sentence": "Una nuova ___ sulla protezione dei dati è entrata in vigore quest'anno.", "answer": "legislazione", "translation_en": "New legislation on data protection came into force this year.", "translation_es": "Nueva legislación sobre protección de datos entró en vigor este año."},
+      {"sentence": "Le aziende devono dimostrare la ___ alle norme di sicurezza.", "answer": "conformità", "translation_en": "Firms must prove compliance with the safety rules.", "translation_es": "Las empresas deben demostrar el cumplimiento de las normas de seguridad."}
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct medical term into each gap.",
+    "items": [
+      {"sentence": "Il medico ha fatto una rapida ___ dopo la visita.", "answer": "diagnosi", "translation_en": "The doctor gave a quick diagnosis after the examination.", "translation_es": "El médico dio un diagnóstico rápido tras el examen."},
+      {"sentence": "Il nuovo ___ protegge i bambini da diverse malattie.", "answer": "vaccino", "translation_en": "The new vaccine protects children against several diseases.", "translation_es": "La nueva vacuna protege a los niños contra varias enfermedades."},
+      {"sentence": "Soffre di un problema ___ alla schiena.", "answer": "cronico", "translation_en": "He suffers from a chronic back problem.", "translation_es": "Sufre un problema crónico de espalda."},
+      {"sentence": "Il ___ ha eseguito l'operazione in tre ore.", "answer": "chirurgo", "translation_en": "The surgeon performed the operation in three hours.", "translation_es": "El cirujano realizó la operación en tres horas."}
+    ]
   }
 ]

@@ -557,5 +557,131 @@
       ["decidir", "a decisão", "la decisión"],
       ["desenvolver", "o desenvolvimento", "el desarrollo"]
     ]
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "title": "Há / havia (there is / there was)",
+    "description": "Há e havia para existência no presente e no passado.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Há um parque aqui.", "There is a park here.", "Hay un parque aquí."],
+      ["Há duas lojas.", "There are two shops.", "Hay dos tiendas."],
+      ["Havia leite na geladeira.", "There was milk in the fridge.", "Había leche en la nevera."],
+      ["Havia muitas pessoas.", "There were many people.", "Había mucha gente."]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "title": "Gostar de / preferir",
+    "description": "Expressar gostos e preferências.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Gosto de café.", "I like coffee.", "Me gusta el café."],
+      ["Prefiro chá.", "I prefer tea.", "Prefiero el té."],
+      ["Gosto muito de viajar.", "I really like travelling.", "Me gusta mucho viajar."],
+      ["Odeio esperar.", "I hate waiting.", "Odio esperar."]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "title": "Demonstrativos (este / esse / aquele)",
+    "description": "este (perto), esse (perto do ouvinte), aquele (longe).",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["este livro", "this book (here)", "este libro"],
+      ["esse livro", "that book (near you)", "ese libro"],
+      ["aquele livro", "that book (over there)", "aquel libro"],
+      ["estas casas", "these houses", "estas casas"]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "title": "Comparativo de igualdade",
+    "description": "tão... como / tanto... quanto.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["O Marco é tão alto como o Luca.", "Marco is as tall as Luca.", "Marco es tan alto como Luca."],
+      ["Esta casa é tão bonita quanto aquela.", "This house is as beautiful as that one.", "Esta casa es tan bonita como aquella."],
+      ["Não é tão difícil como eu pensava.", "It is not as difficult as I thought.", "No es tan difícil como pensaba."]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "title": "Colocação pronominal (próclise e ênclise)",
+    "description": "Posição dos pronomes: antes ou depois do verbo.",
+    "columns": ["Forma", "Exemplo", "Español"],
+    "rows": [
+      ["Próclise", "Eu te ligo amanhã.", "Te llamo mañana."],
+      ["Próclise", "Ele não me viu.", "Él no me vio."],
+      ["Ênclise", "Diga-me a verdade.", "Dime la verdad."],
+      ["Ênclise", "Vou comprá-lo.", "Voy a comprarlo."]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "title": "Perguntas de confirmação (não é?)",
+    "description": "Breves confirmações no fim da frase.",
+    "columns": ["Frase", "Confirmação", "Español"],
+    "rows": [
+      ["Você é espanhol,", "não é?", "Eres español, ¿verdad?"],
+      ["Ela não gosta de café,", "não é?", "No le gusta el café, ¿verdad?"],
+      ["Vamos ao cinema,", "tá bom?", "Vamos al cine, ¿vale?"],
+      ["Era caro,", "né?", "Era caro, ¿no?"]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Voz passiva com tempos compostos",
+    "description": "ter/ser + particípio para a passiva.",
+    "columns": ["Ativa", "Passiva", "Español"],
+    "rows": [
+      ["Construíram a casa em 1990.", "A casa foi construída em 1990.", "La casa fue construida en 1990."],
+      ["Escreveram a carta.", "A carta foi escrita.", "La carta fue escrita."],
+      ["Consertaram o carro.", "O carro foi consertado.", "El coche fue reparado."]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Antes de / depois de + infinitivo",
+    "description": "Expressões temporais seguidas do infinitivo.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Antes de sair, feche a janela.", "Before going out, close the window.", "Antes de salir, cierra la ventana."],
+      ["Depois de comer, fomos para casa.", "After eating, we went home.", "Después de comer, fuimos a casa."],
+      ["Antes de viajar, ligue para a sua mãe.", "Before travelling, call your mother.", "Antes de viajar, llama a tu madre."]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Orações concessivas (embora, ainda que)",
+    "description": "embora / ainda que + subjuntivo para concessões.",
+    "columns": ["Português", "English", "Español"],
+    "rows": [
+      ["Embora seja tarde, continuo a trabalhar.", "Although it is late, I keep working.", "Aunque es tarde, sigo trabajando."],
+      ["Ainda que tivesse fome, não comeu.", "Although he was hungry, he did not eat.", "Aunque tenía hambre, no comió."],
+      ["Apesar da chuva, saímos.", "Despite the rain, we went out.", "A pesar de la lluvia, salimos."]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Colocações com o verbo fazer",
+    "description": "Expressões fixas com o verbo fazer.",
+    "columns": ["Colocação", "Significado", "Español"],
+    "rows": [
+      ["fazer uma pergunta", "perguntar", "hacer una pregunta"],
+      ["fazer uma caminhada", "caminhar", "dar un paseo"],
+      ["fazer questão de", "insistir em", "insistir en"],
+      ["fazer o possível", "esforçar-se", "hacer lo posible"]
+    ]
   }
 ]

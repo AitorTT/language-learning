@@ -564,5 +564,136 @@
       ["besluta", "beslutet", "la decisión"],
       ["utveckla", "utvecklingen", "el desarrollo"]
     ]
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "title": "Det finns / det fanns",
+    "description": "Nutid och dåtid av 'det finns'.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Det finns en park här.", "There is a park here.", "Hay un parque aquí."],
+      ["Det finns två affärer.", "There are two shops.", "Hay dos tiendas."],
+      ["Det fanns ingen mjölk.", "There was no milk.", "No había leche."],
+      ["Det fanns många människor.", "There were many people.", "Había mucha gente."]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "title": "Jag tycker om / jag föredrar",
+    "description": "Uttryck för tycke och preferens.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Jag tycker om kaffe.", "I like coffee.", "Me gusta el café."],
+      ["Jag föredrar te.", "I prefer tea.", "Prefiero el té."],
+      ["Jag tycker mycket om att resa.", "I really like travelling.", "Me gusta mucho viajar."],
+      ["Jag hatar att vänta.", "I hate waiting.", "Odio esperar."]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "title": "Demonstrativa pronomen (den här / den där)",
+    "description": "den här (nära), den där (långt borta).",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["den här boken", "this book", "este libro"],
+      ["det här huset", "this house", "esta casa"],
+      ["den där bilen", "that car", "ese coche"],
+      ["de där husen", "those houses", "esas casas"]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "title": "Starka verb: preteritum och supinum",
+    "description": "Oregelbundna verb byter vokal.",
+    "columns": ["Infinitiv", "Preteritum", "Supinum", "Español"],
+    "rows": [
+      ["skriva", "skrev", "skrivit", "escribir"],
+      ["dricka", "drack", "druckit", "beber"],
+      ["se", "såg", "sett", "ver"],
+      ["ge", "gav", "gett", "dar"],
+      ["ta", "tog", "tagit", "tomar"]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "title": "Reflexiva pronomen (mig, dig, sig)",
+    "description": "mig, dig, sig, oss, er, sig.",
+    "columns": ["Person", "Reflexivt", "Español"],
+    "rows": [
+      ["jag", "mig", "me"],
+      ["du", "dig", "te"],
+      ["han / hon", "sig", "se"],
+      ["vi", "oss", "nos"],
+      ["ni", "er", "os"],
+      ["de", "sig", "se"]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "title": "Frågor med 'eller hur?'",
+    "description": "Korta bekräftelser i slutet av meningen.",
+    "columns": ["Påstående", "Bekräftelse", "Español"],
+    "rows": [
+      ["Du är spanjor,", "eller hur?", "Eres español, ¿verdad?"],
+      ["Hon gillar inte kaffe,", "eller hur?", "No le gusta el café, ¿verdad?"],
+      ["Vi går på bio,", "eller hur?", "Vamos al cine, ¿vale?"],
+      ["Det var dyrt,", "eller hur?", "Era caro, ¿no?"]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Passiv med blev + particip",
+    "description": "Bli + particip för passiv i dåtid.",
+    "columns": ["Aktiv", "Passiv", "Español"],
+    "rows": [
+      ["Man byggde huset 1990.", "Huset blev byggt 1990.", "La casa fue construida en 1990."],
+      ["De skrev brevet.", "Brevet blev skrivet.", "La carta fue escrita."],
+      ["Man reparerade bilen.", "Bilen blev reparerad.", "El coche fue reparado."]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Infinitiv med att",
+    "description": "att + infinitiv efter många verb och uttryck.",
+    "columns": ["Svenska", "English", "Español"],
+    "rows": [
+      ["Jag glömde att stänga dörren.", "I forgot to close the door.", "Olvidé cerrar la puerta."],
+      ["Det är viktigt att vara i tid.", "It is important to be on time.", "Es importante ser puntual."],
+      ["Hon försöker att läsa mer.", "She tries to read more.", "Intenta leer más."]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Partikelverb (phrasal verbs)",
+    "description": "Verb med partikel får ny betydelse.",
+    "columns": ["Partikelverb", "Betydelse", "Español"],
+    "rows": [
+      ["ge upp", "sluta försöka", "rendirse"],
+      ["komma fram", "anlända", "llegar"],
+      ["sätta igång", "börja", "empezar"],
+      ["tycka om", "gilla", "gustar"]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Kollokationer med göra och ta",
+    "description": "Fasta uttryck med göra och ta.",
+    "columns": ["Uttryck", "Betydelse", "Español"],
+    "rows": [
+      ["göra en fråga", "ställa en fråga", "hacer una pregunta"],
+      ["göra sitt bästa", "anstränga sig", "hacer lo posible"],
+      ["ta ett beslut", "bestämma sig", "tomar una decisión"],
+      ["ta en promenad", "promenera", "dar un paseo"]
+    ]
   }
 ]
