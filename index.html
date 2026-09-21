@@ -389,12 +389,19 @@
   function grammarRowText(g, row) {
     const target = (lang && lang.code) || "en";
     const cjk = lang && lang.script === "cjk";
+    const japanese = lang && lang.script === "japanese";
     const skip = new Set(SPANISH_HEADERS);
     if (target !== "en") skip.add("english");
     const parts = [];
     g.columns.forEach((c, i) => {
       const v = row[i];
       if (v === undefined || v === null || v === "" || v === "—" || v === "-") return;
+      if (japanese) {
+        if (!/[\u3040-\u30ff\u3400-\u9fff]/.test(String(v))) return;
+        const jp = String(v).replace(/[^\u3040-\u30ff\u3400-\u9fff\u3000-\u303f\uff00-\uffef]/g, "");
+        if (jp) parts.push(jp);
+        return;
+      }
       if (cjk) {
         if (!/[\u3400-\u9fff]/.test(String(v))) return;
         const han = String(v).replace(/[^\u3400-\u9fff\u3000-\u303f\uff00-\uffef]/g, "");
@@ -442,7 +449,7 @@
       <div class="hint">${lang.termLabel}</div>
       <div class="word">${w[lang.termField]}</div>
       ${w.ipa ? `<div class="ipa">/${w.ipa}/</div>` : ""}
-      ${w.pinyin ? `<div class="ipa pinyin">${w.pinyin}</div>` : ""}
+      ${w.pinyin || w.romaji ? `<div class="ipa pinyin">${w.pinyin || w.romaji}</div>` : ""}
       <button class="speak" type="button" title="Listen" aria-label="Listen" data-fc-speak>${ICON_SPEAK}</button>`;
     back.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>

@@ -1,0 +1,2272 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The three scripts",
+    "description": "Japanese mixes kanji with two syllabaries: hiragana and katakana.",
+    "columns": [
+      "Script",
+      "Example",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "kanji (meaning)",
+        "水",
+        "water",
+        "agua"
+      ],
+      [
+        "hiragana (grammar)",
+        "みず",
+        "water in hiragana",
+        "agua en hiragana"
+      ],
+      [
+        "katakana (loans)",
+        "パン",
+        "bread (from Portuguese)",
+        "pan"
+      ],
+      [
+        "particles",
+        "は が を に",
+        "grammatical markers",
+        "marcadores gramaticales"
+      ],
+      [
+        "reading",
+        "水 → みず",
+        "kanji read as mizu",
+        "el kanji se lee mizu"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Pronouns are often dropped when clear from context.",
+    "columns": [
+      "Person",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st",
+        "私",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd",
+        "あなた",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd m.",
+        "彼",
+        "he",
+        "él"
+      ],
+      [
+        "3rd f.",
+        "彼女",
+        "she",
+        "ella"
+      ],
+      [
+        "1st pl.",
+        "私たち",
+        "we",
+        "nosotros"
+      ],
+      [
+        "3rd pl.",
+        "彼ら",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "です (the polite copula)",
+    "description": "です follows nouns and na-adjectives to mean 'is / am / are'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "私は学生です。",
+        "I am a student.",
+        "Soy estudiante."
+      ],
+      [
+        "this is",
+        "これは本です。",
+        "This is a book.",
+        "Esto es un libro."
+      ],
+      [
+        "he is",
+        "彼は先生です。",
+        "He is a teacher.",
+        "Él es profesor."
+      ],
+      [
+        "question",
+        "学生ですか。",
+        "Are you a student?",
+        "¿Eres estudiante?"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Negation with じゃないです",
+    "description": "The polite negative of です is じゃないです.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am not",
+        "私は学生じゃないです。",
+        "I am not a student.",
+        "No soy estudiante."
+      ],
+      [
+        "not",
+        "これは本じゃないです。",
+        "This is not a book.",
+        "Esto no es un libro."
+      ],
+      [
+        "not",
+        "彼は先生じゃないです。",
+        "He is not a teacher.",
+        "Él no es profesor."
+      ],
+      [
+        "formal",
+        "ではありません",
+        "is not (formal)",
+        "no es (formal)"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "これ, それ, あれ",
+    "description": "These stand for things at three distances.",
+    "columns": [
+      "Word",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "near me",
+        "これ",
+        "this",
+        "esto"
+      ],
+      [
+        "near you",
+        "それ",
+        "that",
+        "eso"
+      ],
+      [
+        "over there",
+        "あれ",
+        "that over there",
+        "aquello"
+      ],
+      [
+        "which",
+        "どれ",
+        "which one",
+        "cuál"
+      ],
+      [
+        "question",
+        "これは何ですか。",
+        "What is this?",
+        "¿Qué es esto?"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "The topic particle は",
+    "description": "は marks what the sentence is about.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "topic",
+        "私は学生です。",
+        "As for me, I am a student.",
+        "En cuanto a mí, soy estudiante."
+      ],
+      [
+        "topic",
+        "これは本です。",
+        "This is a book.",
+        "Esto es un libro."
+      ],
+      [
+        "contrast",
+        "今日は寒いです。",
+        "Today it is cold.",
+        "Hoy hace frío."
+      ],
+      [
+        "note",
+        "pronounced 'wa'",
+        "written は, read wa",
+        "se escribe は y se lee wa"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "The object particle を",
+    "description": "を marks the direct object of a verb.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "read",
+        "本を読みます。",
+        "I read a book.",
+        "Leo un libro."
+      ],
+      [
+        "drink",
+        "水を飲みます。",
+        "I drink water.",
+        "Bebo agua."
+      ],
+      [
+        "listen",
+        "音楽を聞きます。",
+        "I listen to music.",
+        "Escucho música."
+      ],
+      [
+        "eat",
+        "パンを食べます。",
+        "I eat bread.",
+        "Como pan."
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "The particle に",
+    "description": "に marks direction, destination and clock time.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "destination",
+        "学校に行きます。",
+        "I go to school.",
+        "Voy a la escuela."
+      ],
+      [
+        "time",
+        "七時に起きます。",
+        "I get up at seven.",
+        "Me levanto a las siete."
+      ],
+      [
+        "destination",
+        "日本に行きます。",
+        "I am going to Japan.",
+        "Voy a Japón."
+      ],
+      [
+        "return",
+        "家に帰ります。",
+        "I return home.",
+        "Vuelvo a casa."
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "The particle で",
+    "description": "で marks where an action happens, or the means used.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "place",
+        "図書館で勉強します。",
+        "I study at the library.",
+        "Estudio en la biblioteca."
+      ],
+      [
+        "means",
+        "バスで行きます。",
+        "I go by bus.",
+        "Voy en autobús."
+      ],
+      [
+        "tool",
+        "ペンで書きます。",
+        "I write with a pen.",
+        "Escribo con un bolígrafo."
+      ],
+      [
+        "place",
+        "家で食べます。",
+        "I eat at home.",
+        "Como en casa."
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "The particle と",
+    "description": "と means 'and' between nouns, or 'with' a person.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "and",
+        "パンと牛乳",
+        "bread and milk",
+        "pan y leche"
+      ],
+      [
+        "with",
+        "友達と行きます。",
+        "I go with a friend.",
+        "Voy con un amigo."
+      ],
+      [
+        "with",
+        "母と話します。",
+        "I talk with my mother.",
+        "Hablo con mi madre."
+      ],
+      [
+        "with",
+        "彼と会います。",
+        "I meet with him.",
+        "Me reúno con él."
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "The particle も",
+    "description": "も means 'also' or 'too'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "also",
+        "私も学生です。",
+        "I am a student too.",
+        "Yo también soy estudiante."
+      ],
+      [
+        "also",
+        "これも本です。",
+        "This is a book too.",
+        "Esto también es un libro."
+      ],
+      [
+        "also",
+        "彼も先生です。",
+        "He is a teacher too.",
+        "Él también es profesor."
+      ],
+      [
+        "both",
+        "私も彼も学生です。",
+        "Both he and I are students.",
+        "Él y yo somos estudiantes."
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "The possessive の",
+    "description": "の links a noun to what it belongs to.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "私の本",
+        "my book",
+        "mi libro"
+      ],
+      [
+        "of Japan",
+        "日本の車",
+        "a Japanese car",
+        "un coche japonés"
+      ],
+      [
+        "my mother's",
+        "母の名前",
+        "my mother's name",
+        "el nombre de mi madre"
+      ],
+      [
+        "the school's",
+        "学校の先生",
+        "the school's teacher",
+        "el profesor de la escuela"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Counters",
+    "description": "Different objects take different counting suffixes.",
+    "columns": [
+      "Counter",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "books",
+        "二冊",
+        "two books",
+        "dos libros"
+      ],
+      [
+        "people",
+        "三人",
+        "three people",
+        "tres personas"
+      ],
+      [
+        "animals",
+        "二匹",
+        "two animals",
+        "dos animales"
+      ],
+      [
+        "machines",
+        "三台",
+        "three machines",
+        "tres máquinas"
+      ],
+      [
+        "things",
+        "一つ",
+        "one thing",
+        "una cosa"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Day names use the elements: moon, fire, water, wood, metal, earth.",
+    "columns": [
+      "Day",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "月曜日",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "火曜日",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "水曜日",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "木曜日",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "金曜日",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "土曜日",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "日曜日",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Polite present: -masu",
+    "description": "The polite form of verbs ends in -masu.",
+    "columns": [
+      "Verb",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "read",
+        "読みます",
+        "I read",
+        "leo"
+      ],
+      [
+        "drink",
+        "飲みます",
+        "I drink",
+        "bebo"
+      ],
+      [
+        "listen",
+        "聞きます",
+        "I listen",
+        "escucho"
+      ],
+      [
+        "eat",
+        "食べます",
+        "I eat",
+        "como"
+      ],
+      [
+        "study",
+        "勉強します",
+        "I study",
+        "estudio"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Polite negative: -masen",
+    "description": "The polite negative ends in -masen.",
+    "columns": [
+      "Verb",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not read",
+        "読みません",
+        "I do not read",
+        "no leo"
+      ],
+      [
+        "not drink",
+        "飲みません",
+        "I do not drink",
+        "no bebo"
+      ],
+      [
+        "not listen",
+        "聞きません",
+        "I do not listen",
+        "no escucho"
+      ],
+      [
+        "not eat",
+        "食べません",
+        "I do not eat",
+        "no como"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Polite past: -mashita",
+    "description": "The polite past ends in -mashita.",
+    "columns": [
+      "Verb",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "read",
+        "読みました",
+        "I read (past)",
+        "leí"
+      ],
+      [
+        "drink",
+        "飲みました",
+        "I drank",
+        "bebí"
+      ],
+      [
+        "went",
+        "行きました",
+        "I went",
+        "fui"
+      ],
+      [
+        "watched",
+        "見ました",
+        "I watched",
+        "vi"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "i-adjectives",
+    "description": "i-adjectives end in -i and conjugate on their own.",
+    "columns": [
+      "Adjective",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "interesting",
+        "面白い",
+        "interesting",
+        "interesante"
+      ],
+      [
+        "new",
+        "新しい",
+        "new",
+        "nuevo"
+      ],
+      [
+        "cheap",
+        "安い",
+        "cheap",
+        "barato"
+      ],
+      [
+        "negative",
+        "面白くない",
+        "not interesting",
+        "no interesante"
+      ],
+      [
+        "past",
+        "面白かった",
+        "was interesting",
+        "era interesante"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The -te form",
+    "description": "The -te form links verbs and builds many patterns.",
+    "columns": [
+      "Verb",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "get up",
+        "起きて",
+        "get up and…",
+        "levantarse y…"
+      ],
+      [
+        "drink",
+        "飲んで",
+        "drink and…",
+        "beber y…"
+      ],
+      [
+        "go",
+        "行って",
+        "go and…",
+        "ir y…"
+      ],
+      [
+        "read",
+        "読んで",
+        "read and…",
+        "leer y…"
+      ],
+      [
+        "eat",
+        "食べて",
+        "eat and…",
+        "comer y…"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "-te imasu (progressive)",
+    "description": "Describes an action in progress or an ongoing state.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "progress",
+        "本を読んでいます。",
+        "I am reading a book.",
+        "Estoy leyendo un libro."
+      ],
+      [
+        "progress",
+        "雨が降っています。",
+        "It is raining.",
+        "Está lloviendo."
+      ],
+      [
+        "state",
+        "東京に住んでいます。",
+        "I live in Tokyo.",
+        "Vivo en Tokio."
+      ],
+      [
+        "state",
+        "彼は働いています。",
+        "He is working.",
+        "Él está trabajando."
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "-tai (want to)",
+    "description": "The -tai form expresses the speaker's wish.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "want to drink",
+        "水が飲みたいです。",
+        "I want to drink water.",
+        "Quiero beber agua."
+      ],
+      [
+        "want to go",
+        "日本へ行きたいです。",
+        "I want to go to Japan.",
+        "Quiero ir a Japón."
+      ],
+      [
+        "want to eat",
+        "寿司を食べたいです。",
+        "I want to eat sushi.",
+        "Quiero comer sushi."
+      ],
+      [
+        "negative",
+        "行きたくないです。",
+        "I do not want to go.",
+        "No quiero ir."
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The potential form",
+    "description": "The potential form expresses ability.",
+    "columns": [
+      "Verb",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "can speak",
+        "話せます",
+        "can speak",
+        "puedo hablar"
+      ],
+      [
+        "can drink",
+        "飲めます",
+        "can drink",
+        "puedo beber"
+      ],
+      [
+        "can read",
+        "読めます",
+        "can read",
+        "puedo leer"
+      ],
+      [
+        "can write",
+        "書けます",
+        "can write",
+        "puedo escribir"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "ことができます (can)",
+    "description": "こと turns a verb into a noun phrase, giving 'can do'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "can speak",
+        "日本語を話すことができます。",
+        "I can speak Japanese.",
+        "Puedo hablar japonés."
+      ],
+      [
+        "can eat",
+        "ここで食べることができます。",
+        "You can eat here.",
+        "Se puede comer aquí."
+      ],
+      [
+        "can drive",
+        "車を運転することができます。",
+        "I can drive a car.",
+        "Puedo conducir un coche."
+      ],
+      [
+        "can swim",
+        "泳ぐことができます。",
+        "I can swim.",
+        "Puedo nadar."
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "たことがあります (experience)",
+    "description": "Expresses having had an experience.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "been to Japan",
+        "日本へ行ったことがあります。",
+        "I have been to Japan.",
+        "He estado en Japón."
+      ],
+      [
+        "eaten sushi",
+        "寿司を食べたことがあります。",
+        "I have eaten sushi.",
+        "He comido sushi."
+      ],
+      [
+        "seen the film",
+        "その映画を見たことがあります。",
+        "I have seen that film.",
+        "He visto esa película."
+      ],
+      [
+        "climbed Fuji",
+        "富士山に登ったことがあります。",
+        "I have climbed Mount Fuji.",
+        "He subido al monte Fuji."
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "-kudasai (please)",
+    "description": "The -te form plus ください makes a polite request.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "read",
+        "読んでください。",
+        "Please read.",
+        "Por favor, lee."
+      ],
+      [
+        "drink",
+        "飲んでください。",
+        "Please drink.",
+        "Por favor, bebe."
+      ],
+      [
+        "speak slowly",
+        "ゆっくり話してください。",
+        "Please speak slowly.",
+        "Por favor, habla despacio."
+      ],
+      [
+        "come",
+        "来てください。",
+        "Please come.",
+        "Por favor, ven."
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "-te mo ii (permission)",
+    "description": "Asking or giving permission.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "sit",
+        "座ってもいいですか。",
+        "May I sit down?",
+        "¿Puedo sentarme?"
+      ],
+      [
+        "photo",
+        "写真を撮ってもいいですか。",
+        "May I take a photo?",
+        "¿Puedo hacer una foto?"
+      ],
+      [
+        "go home",
+        "帰ってもいいですか。",
+        "May I go home?",
+        "¿Puedo irme a casa?"
+      ],
+      [
+        "use",
+        "使ってもいいですか。",
+        "May I use it?",
+        "¿Puedo usarlo?"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "-te wa ikemasen (prohibition)",
+    "description": "Expresses that something must not be done.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "photos",
+        "写真を撮ってはいけません。",
+        "You must not take photos.",
+        "No se pueden hacer fotos."
+      ],
+      [
+        "smoking",
+        "タバコを吸ってはいけません。",
+        "You must not smoke.",
+        "No se puede fumar."
+      ],
+      [
+        "entering",
+        "入ってはいけません。",
+        "You must not enter.",
+        "No se puede entrar."
+      ],
+      [
+        "touching",
+        "触ってはいけません。",
+        "You must not touch it.",
+        "No se puede tocar."
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Comparison with より",
+    "description": "より means 'than'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "more interesting",
+        "この本はあの本より面白いです。",
+        "This book is more interesting than that one.",
+        "Este libro es más interesante que aquel."
+      ],
+      [
+        "faster",
+        "車は自転車より速いです。",
+        "A car is faster than a bicycle.",
+        "Un coche es más rápido que una bicicleta."
+      ],
+      [
+        "taller",
+        "彼は私より背が高いです。",
+        "He is taller than me.",
+        "Él es más alto que yo."
+      ],
+      [
+        "colder",
+        "今日は昨日より寒いです。",
+        "Today is colder than yesterday.",
+        "Hoy hace más frío que ayer."
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Superlative with 一番",
+    "description": "一番 means 'the most'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "favourite",
+        "これが一番好きです。",
+        "I like this the most.",
+        "Este es el que más me gusta."
+      ],
+      [
+        "highest",
+        "富士山は日本で一番高い山です。",
+        "Mount Fuji is the highest mountain in Japan.",
+        "El monte Fuji es la montaña más alta de Japón."
+      ],
+      [
+        "cleverest",
+        "彼がクラスで一番賢いです。",
+        "He is the cleverest in the class.",
+        "Él es el más listo de la clase."
+      ],
+      [
+        "cheapest",
+        "これが一番安いです。",
+        "This is the cheapest.",
+        "Este es el más barato."
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "-tari -tari (listing)",
+    "description": "Lists representative actions.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "read and watch",
+        "本を読んだり、映画を見たりします。",
+        "I read books and watch films.",
+        "Leo libros y veo películas."
+      ],
+      [
+        "shop and clean",
+        "買い物したり、掃除したりします。",
+        "I shop and clean.",
+        "Compro y limpio."
+      ],
+      [
+        "run and swim",
+        "走ったり、泳いだりします。",
+        "I run and swim.",
+        "Corro y nado."
+      ],
+      [
+        "sing and dance",
+        "歌ったり、踊ったりします。",
+        "I sing and dance.",
+        "Canto y bailo."
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "-nagara (while)",
+    "description": "Expresses two actions done at the same time.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "music",
+        "音楽を聞きながら勉強します。",
+        "I study while listening to music.",
+        "Estudio mientras escucho música."
+      ],
+      [
+        "walking",
+        "歩きながら話します。",
+        "We talk while walking.",
+        "Hablamos mientras caminamos."
+      ],
+      [
+        "TV",
+        "テレビを見ながら食べます。",
+        "I eat while watching TV.",
+        "Como mientras veo la tele."
+      ],
+      [
+        "singing",
+        "歌いながら働きます。",
+        "I work while singing.",
+        "Trabajo mientras canto."
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "前に and 後で",
+    "description": "前に means 'before', 後で means 'after'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "before sleeping",
+        "寝る前に本を読みます。",
+        "I read before sleeping.",
+        "Leo antes de dormir."
+      ],
+      [
+        "after eating",
+        "食べた後で出かけます。",
+        "I go out after eating.",
+        "Salgo después de comer."
+      ],
+      [
+        "before going",
+        "行く前に電話します。",
+        "I call before going.",
+        "Llamo antes de ir."
+      ],
+      [
+        "after work",
+        "仕事の後で休みます。",
+        "I rest after work.",
+        "Descanso después del trabajo."
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Cause with ので",
+    "description": "ので gives a reason, often softer than から.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "cold",
+        "寒いので、家にいます。",
+        "I stay home because it is cold.",
+        "Me quedo en casa porque hace frío."
+      ],
+      [
+        "busy",
+        "忙しいので、行けません。",
+        "I cannot go because I am busy.",
+        "No puedo ir porque estoy ocupado."
+      ],
+      [
+        "rain",
+        "雨が降ったので、中止しました。",
+        "We cancelled because it rained.",
+        "Cancelamos porque llovió."
+      ],
+      [
+        "cheap",
+        "安いので、買いました。",
+        "I bought it because it was cheap.",
+        "Lo compré porque era barato."
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "-tara (if / when)",
+    "description": "The -tara form expresses a condition or a temporal sequence.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rain",
+        "雨が降ったら、行きません。",
+        "If it rains, I will not go.",
+        "Si llueve, no iré."
+      ],
+      [
+        "time",
+        "時間があったら、来てください。",
+        "If you have time, please come.",
+        "Si tienes tiempo, ven."
+      ],
+      [
+        "cheap",
+        "安かったら、買います。",
+        "If it is cheap, I will buy it.",
+        "Si es barato, lo compraré."
+      ],
+      [
+        "he comes",
+        "彼が来たら、教えてください。",
+        "If he comes, please tell me.",
+        "Si él viene, avísame."
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Passive voice",
+    "description": "The passive is formed with -reru / -rareru.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "is read",
+        "この本は多くの人に読まれています。",
+        "This book is read by many people.",
+        "Este libro es leído por mucha gente."
+      ],
+      [
+        "was praised",
+        "私は先生に褒められました。",
+        "I was praised by the teacher.",
+        "Fui elogiado por el profesor."
+      ],
+      [
+        "was built",
+        "この建物は百年前に建てられました。",
+        "This building was built a hundred years ago.",
+        "Este edificio fue construido hace cien años."
+      ],
+      [
+        "is sung",
+        "その歌は世界中で歌われています。",
+        "That song is sung all over the world.",
+        "Esa canción se canta en todo el mundo."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Causative",
+    "description": "The causative -seru / -saseru means 'make' or 'let' someone do.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "made me eat",
+        "母は私に野菜を食べさせました。",
+        "My mother made me eat vegetables.",
+        "Mi madre me hizo comer verduras."
+      ],
+      [
+        "let go home",
+        "先生は学生を帰らせました。",
+        "The teacher let the students go home.",
+        "El profesor dejó ir a los estudiantes."
+      ],
+      [
+        "made me go",
+        "父は私を買い物に行かせました。",
+        "My father made me go shopping.",
+        "Mi padre me hizo ir de compras."
+      ],
+      [
+        "had him read",
+        "彼は弟に本を読ませました。",
+        "He made his brother read a book.",
+        "Hizo que su hermano leyera un libro."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "-te shimau (completion / regret)",
+    "description": "Shows an action is finished, often with regret.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "lost",
+        "財布をなくしてしまいました。",
+        "I have lost my wallet.",
+        "He perdido mi cartera."
+      ],
+      [
+        "ate all",
+        "ご飯を全部食べてしまいました。",
+        "I ate all the food.",
+        "Me comí toda la comida."
+      ],
+      [
+        "forgot",
+        "宿題を忘れてしまいました。",
+        "I forgot my homework.",
+        "Olvidé mis deberes."
+      ],
+      [
+        "missed",
+        "電車に乗り遅れてしまいました。",
+        "I missed the train.",
+        "Perdí el tren."
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "-ba (conditional)",
+    "description": "The -ba form is a conditional: 'if'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "have time",
+        "時間があれば、行きます。",
+        "If I have time, I will go.",
+        "Si tengo tiempo, iré."
+      ],
+      [
+        "cheap",
+        "安ければ、買います。",
+        "If it is cheap, I will buy it.",
+        "Si es barato, lo compraré."
+      ],
+      [
+        "rain",
+        "雨が降れば、中止します。",
+        "If it rains, we will cancel.",
+        "Si llueve, cancelaremos."
+      ],
+      [
+        "he comes",
+        "彼が来れば、始めます。",
+        "If he comes, we will start.",
+        "Si él viene, empezaremos."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "なら (if it is the case)",
+    "description": "なら is used when responding to a known situation.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "going",
+        "行くなら、私も行きます。",
+        "If you are going, I will go too.",
+        "Si vas, yo también iré."
+      ],
+      [
+        "rain",
+        "雨なら、家にいます。",
+        "If it is rain, I will stay home.",
+        "Si es lluvia, me quedo en casa."
+      ],
+      [
+        "student",
+        "学生なら、勉強すべきです。",
+        "If you are a student, you should study.",
+        "Si eres estudiante, deberías estudiar."
+      ],
+      [
+        "coming",
+        "彼が来るなら、待ちます。",
+        "If he is coming, I will wait.",
+        "Si él viene, esperaré."
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "-temo (even if)",
+    "description": "The concessive form means 'even if'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rain",
+        "雨が降っても、行きます。",
+        "Even if it rains, I will go.",
+        "Aunque llueva, iré."
+      ],
+      [
+        "expensive",
+        "高くても、買います。",
+        "Even if it is expensive, I will buy it.",
+        "Aunque sea caro, lo compraré."
+      ],
+      [
+        "tired",
+        "疲れても、続けます。",
+        "Even if I am tired, I will continue.",
+        "Aunque esté cansado, continuaré."
+      ],
+      [
+        "he not come",
+        "彼が来なくても、始めます。",
+        "Even if he does not come, we will start.",
+        "Aunque él no venga, empezaremos."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "ことにしました (decided to)",
+    "description": "Expresses a personal decision.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "study",
+        "毎日勉強することにしました。",
+        "I decided to study every day.",
+        "Decidí estudiar cada día."
+      ],
+      [
+        "go to Japan",
+        "日本へ行くことにしました。",
+        "I decided to go to Japan.",
+        "Decidí ir a Japón."
+      ],
+      [
+        "quit smoking",
+        "タバコをやめることにしました。",
+        "I decided to quit smoking.",
+        "Decidí dejar de fumar."
+      ],
+      [
+        "sleep early",
+        "早く寝ることにしました。",
+        "I decided to go to bed early.",
+        "Decidí acostarme temprano."
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "ことになりました (it was decided)",
+    "description": "Expresses a decision made by others or by circumstance.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "move",
+        "来月引っ越すことになりました。",
+        "It has been decided that I will move next month.",
+        "Se ha decidido que me mudaré el próximo mes."
+      ],
+      [
+        "I go",
+        "私が行くことになりました。",
+        "It has been decided that I will go.",
+        "Se ha decidido que iré yo."
+      ],
+      [
+        "cancelled",
+        "会議は中止することになりました。",
+        "It has been decided that the meeting is cancelled.",
+        "Se ha decidido cancelar la reunión."
+      ],
+      [
+        "he takes charge",
+        "彼が担当することになりました。",
+        "It has been decided that he will take charge.",
+        "Se ha decidido que él se encargue."
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "ように (so that)",
+    "description": "Expresses purpose or a wish.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not forget",
+        "忘れないようにメモします。",
+        "I take notes so as not to forget.",
+        "Tomo notas para no olvidar."
+      ],
+      [
+        "not late",
+        "遅れないように早く出ます。",
+        "I leave early so as not to be late.",
+        "Salgo temprano para no llegar tarde."
+      ],
+      [
+        "audible",
+        "聞こえるように大きな声で話します。",
+        "I speak loudly so that people can hear.",
+        "Hablo alto para que se oiga."
+      ],
+      [
+        "possible",
+        "できるように頑張ります。",
+        "I will do my best so that I can.",
+        "Me esforzaré para poder."
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "そう (looks like / I hear)",
+    "description": "Expresses an impression based on appearance or hearsay.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "looks delicious",
+        "このケーキはおいしそうです。",
+        "This cake looks delicious.",
+        "Este pastel parece delicioso."
+      ],
+      [
+        "about to rain",
+        "雨が降りそうです。",
+        "It looks like it will rain.",
+        "Parece que va a llover."
+      ],
+      [
+        "looks well",
+        "彼は元気そうです。",
+        "He looks well.",
+        "Parece estar bien."
+      ],
+      [
+        "looks interesting",
+        "この本は面白そうです。",
+        "This book looks interesting.",
+        "Este libro parece interesante."
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "はず (should)",
+    "description": "Expresses expectation based on reasoning.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrived",
+        "彼はもう着いているはずです。",
+        "He should have arrived already.",
+        "Debería haber llegado ya."
+      ],
+      [
+        "knows",
+        "彼女は知っているはずです。",
+        "She should know.",
+        "Ella debería saberlo."
+      ],
+      [
+        "soon",
+        "電車はすぐ来るはずです。",
+        "The train should come soon.",
+        "El tren debería llegar pronto."
+      ],
+      [
+        "expensive",
+        "それは高いはずです。",
+        "That should be expensive.",
+        "Eso debería ser caro."
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Honorific verbs (keigo)",
+    "description": "Common verbs have special honorific equivalents.",
+    "columns": [
+      "Plain",
+      "Honorific",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "行く・来る・いる",
+        "いらっしゃる",
+        "to go / come / be",
+        "ir / venir / estar"
+      ],
+      [
+        "見る",
+        "ご覧になる",
+        "to see",
+        "ver"
+      ],
+      [
+        "食べる",
+        "召し上がる",
+        "to eat",
+        "comer"
+      ],
+      [
+        "言う",
+        "おっしゃる",
+        "to say",
+        "decir"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "わけではない (it is not that)",
+    "description": "Partially denies an assumption.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "expensive",
+        "高いからといって、悪いわけではない。",
+        "It is not that it is bad because it is expensive.",
+        "No es que sea malo por ser caro."
+      ],
+      [
+        "Japanese",
+        "日本人だからといって、みんなが同じわけではない。",
+        "It is not that all Japanese are the same.",
+        "No es que todos los japoneses sean iguales."
+      ],
+      [
+        "dislike",
+        "彼が嫌いなわけではない。",
+        "It is not that I dislike him.",
+        "No es que no me guste él."
+      ],
+      [
+        "easy",
+        "簡単なわけではない。",
+        "It is not that it is easy.",
+        "No es que sea fácil."
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "に関して (regarding)",
+    "description": "A formal way to say 'about' or 'regarding'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "problem",
+        "この問題に関して、意見が分かれています。",
+        "Opinions are divided regarding this problem.",
+        "Las opiniones están divididas respecto a este problema."
+      ],
+      [
+        "environment",
+        "環境に関して、多くの議論があります。",
+        "There is much debate regarding the environment.",
+        "Hay mucho debate en cuanto al medio ambiente."
+      ],
+      [
+        "incident",
+        "その事件に関して、何も知りません。",
+        "I know nothing regarding that incident.",
+        "No sé nada respecto a ese incidente."
+      ],
+      [
+        "education",
+        "教育に関して、彼は専門家です。",
+        "He is an expert regarding education.",
+        "Es un experto en cuanto a educación."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "に対して (towards / against)",
+    "description": "Marks the target of an attitude or action.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "teachers",
+        "先生に対して、敬意を持つべきです。",
+        "We should have respect for teachers.",
+        "Deberíamos respetar a los profesores."
+      ],
+      [
+        "opinion",
+        "彼の意見に対して、私は反対です。",
+        "I am opposed to his opinion.",
+        "Estoy en contra de su opinión."
+      ],
+      [
+        "customers",
+        "顧客に対して、丁寧にすべきです。",
+        "We should be polite to customers.",
+        "Deberíamos ser amables con los clientes."
+      ],
+      [
+        "problem",
+        "その問題に対して、対策が必要です。",
+        "Measures are needed for that problem.",
+        "Se necesitan medidas para ese problema."
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "によって (by / depending on)",
+    "description": "Marks the agent in passives, or a source of variation.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by Shakespeare",
+        "これはシェイクスピアによって書かれた本です。",
+        "This is a book written by Shakespeare.",
+        "Este es un libro escrito por Shakespeare."
+      ],
+      [
+        "by country",
+        "国によって法律が違います。",
+        "Laws differ by country.",
+        "Las leyes varían según el país."
+      ],
+      [
+        "by person",
+        "問題は人によって違います。",
+        "The problem differs by person.",
+        "El problema varía según la persona."
+      ],
+      [
+        "designed by him",
+        "その建物は彼によって設計されました。",
+        "That building was designed by him.",
+        "Ese edificio fue diseñado por él."
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "ということ (the fact that)",
+    "description": "Turns a clause into a noun phrase.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "know that",
+        "彼が来ることを知っていますか。",
+        "Do you know that he is coming?",
+        "¿Sabes que él viene?"
+      ],
+      [
+        "do not forget",
+        "それは大切だということを忘れないで。",
+        "Do not forget that it is important.",
+        "No olvides que es importante."
+      ],
+      [
+        "fact",
+        "彼が成功したということは事実です。",
+        "It is a fact that he succeeded.",
+        "Es un hecho que tuvo éxito."
+      ],
+      [
+        "problem",
+        "時間がないということが問題です。",
+        "The problem is that there is no time.",
+        "El problema es que no hay tiempo."
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "べき (should)",
+    "description": "Expresses strong moral obligation or advice.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "study",
+        "学生は勉強すべきです。",
+        "Students should study.",
+        "Los estudiantes deberían estudiar."
+      ],
+      [
+        "exercise",
+        "もっと運動すべきです。",
+        "You should exercise more.",
+        "Deberías hacer más ejercicio."
+      ],
+      [
+        "not say",
+        "それは言うべきではない。",
+        "That should not be said.",
+        "Eso no se debería decir."
+      ],
+      [
+        "sleep early",
+        "早く寝るべきです。",
+        "You should go to bed early.",
+        "Deberías acostarte temprano."
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "ざるを得ない (cannot avoid)",
+    "description": "Means there is no choice but to do something.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "worsens",
+        "状況は悪化せざるを得ない。",
+        "The situation inevitably worsens.",
+        "La situación empeora inevitablemente."
+      ],
+      [
+        "quit",
+        "やめざるを得なかった。",
+        "I had no choice but to quit.",
+        "No tuve más remedio que dejarlo."
+      ],
+      [
+        "tell truth",
+        "本当のことを言わざるを得ない。",
+        "I cannot avoid telling the truth.",
+        "No puedo evitar decir la verdad."
+      ],
+      [
+        "resign",
+        "彼は辞めざるを得なかった。",
+        "He had no choice but to resign.",
+        "No tuvo más remedio que dimitir."
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "にもかかわらず (despite)",
+    "description": "A formal concessive: 'in spite of'.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rain",
+        "雨にもかかわらず、試合は行われました。",
+        "Despite the rain, the match was held.",
+        "A pesar de la lluvia, se celebró el partido."
+      ],
+      [
+        "effort",
+        "努力したにもかかわらず、失敗しました。",
+        "Despite having made an effort, I failed.",
+        "A pesar de haberme esforzado, fracasé."
+      ],
+      [
+        "opposition",
+        "反対にもかかわらず、計画は進みました。",
+        "Despite the opposition, the plan went ahead.",
+        "A pesar de la oposición, el plan siguió adelante."
+      ],
+      [
+        "busy",
+        "忙しいにもかかわらず、来てくれました。",
+        "Despite being busy, he came.",
+        "A pesar de estar ocupado, vino."
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "ば…ほど (the more… the more)",
+    "description": "Correlative construction with the -ba conditional.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "study",
+        "勉強すればするほど上手になります。",
+        "The more you study, the better you get.",
+        "Cuanto más estudias, mejor te vuelves."
+      ],
+      [
+        "think",
+        "考えれば考えるほどわからなくなります。",
+        "The more I think, the less I understand.",
+        "Cuanto más pienso, menos entiendo."
+      ],
+      [
+        "eat",
+        "食べれば食べるほど食べたくなります。",
+        "The more I eat, the more I want to eat.",
+        "Cuanto más como, más quiero comer."
+      ],
+      [
+        "practise",
+        "練習すればするほど上達します。",
+        "The more you practise, the more you improve.",
+        "Cuanto más practicas, más mejoras."
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "ないように (so as not to)",
+    "description": "The negative purpose form.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not forget",
+        "忘れないようにしてください。",
+        "Please make sure not to forget.",
+        "Por favor, asegúrate de no olvidar."
+      ],
+      [
+        "cold",
+        "風邪を引かないように気をつけてください。",
+        "Please be careful not to catch a cold.",
+        "Por favor, ten cuidado de no resfriarte."
+      ],
+      [
+        "late",
+        "遅れないように早く出てください。",
+        "Please leave early so as not to be late.",
+        "Por favor, sal temprano para no llegar tarde."
+      ],
+      [
+        "break",
+        "壊さないように慎重に運んでください。",
+        "Please carry it carefully so as not to break it.",
+        "Por favor, llévalo con cuidado para no romperlo."
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "がち (tends to)",
+    "description": "Indicates a tendency, often a negative one.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "late",
+        "彼は遅れがちです。",
+        "He tends to be late.",
+        "Tiende a llegar tarde."
+      ],
+      [
+        "ill in winter",
+        "冬は病気になりがちです。",
+        "In winter people tend to get ill.",
+        "En invierno se tiende a enfermar."
+      ],
+      [
+        "forgetful",
+        "学生は忘れがちです。",
+        "Students tend to forget.",
+        "Los estudiantes tienden a olvidar."
+      ],
+      [
+        "away",
+        "彼は留守にしがちです。",
+        "He tends to be away from home.",
+        "Tiende a estar fuera de casa."
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "とともに (together with / as)",
+    "description": "Expresses accompanying change or simultaneity.",
+    "columns": [
+      "Use",
+      "Japanese",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "economy",
+        "経済が発展するとともに、問題も増えました。",
+        "As the economy developed, problems increased too.",
+        "A medida que se desarrollaba la economía, también aumentaron los problemas."
+      ],
+      [
+        "age",
+        "年を取るとともに、記憶が弱くなります。",
+        "As we age, memory weakens.",
+        "A medida que envejecemos, la memoria se debilita."
+      ],
+      [
+        "and also",
+        "彼は友達であり、とともに先生でもあります。",
+        "He is a friend and at the same time a teacher.",
+        "Es un amigo y a la vez un profesor."
+      ],
+      [
+        "urbanisation",
+        "都市化とともに、環境問題が深刻になりました。",
+        "With urbanisation, environmental problems worsened.",
+        "Con la urbanización, los problemas ambientales empeoraron."
+      ]
+    ]
+  }
+]

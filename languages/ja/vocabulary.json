@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "japanese": "こんにちは",
+    "romaji": "konnichiwa",
+    "english": "hello",
+    "spanish": "hola",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "japanese": "さようなら",
+    "romaji": "sayōnara",
+    "english": "goodbye",
+    "spanish": "adiós",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "japanese": "おはようございます",
+    "romaji": "ohayō gozaimasu",
+    "english": "good morning",
+    "spanish": "buenos días",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "japanese": "おやすみなさい",
+    "romaji": "oyasuminasai",
+    "english": "good night",
+    "spanish": "buenas noches",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "japanese": "ありがとう",
+    "romaji": "arigatō",
+    "english": "thank you",
+    "spanish": "gracias",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "japanese": "お願いします",
+    "romaji": "onegaishimasu",
+    "english": "please",
+    "spanish": "por favor",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "japanese": "ごめんなさい",
+    "romaji": "gomen nasai",
+    "english": "sorry",
+    "spanish": "lo siento / perdón",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "japanese": "はい",
+    "romaji": "hai",
+    "english": "yes",
+    "spanish": "sí",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "japanese": "いいえ",
+    "romaji": "iie",
+    "english": "no",
+    "spanish": "no",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "japanese": "お元気ですか",
+    "romaji": "o-genki desu ka",
+    "english": "how are you?",
+    "spanish": "¿cómo estás?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "japanese": "水",
+    "romaji": "mizu",
+    "english": "water",
+    "spanish": "agua",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "japanese": "パン",
+    "romaji": "pan",
+    "english": "bread",
+    "spanish": "pan",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "japanese": "牛乳",
+    "romaji": "gyūnyū",
+    "english": "milk",
+    "spanish": "leche",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "japanese": "コーヒー",
+    "romaji": "kōhī",
+    "english": "coffee",
+    "spanish": "café",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "japanese": "りんご",
+    "romaji": "ringo",
+    "english": "apple",
+    "spanish": "manzana",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "japanese": "家",
+    "romaji": "ie",
+    "english": "house",
+    "spanish": "casa",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "japanese": "猫",
+    "romaji": "neko",
+    "english": "cat",
+    "spanish": "gato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "japanese": "犬",
+    "romaji": "inu",
+    "english": "dog",
+    "spanish": "perro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "japanese": "母",
+    "romaji": "haha",
+    "english": "mother",
+    "spanish": "madre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "japanese": "父",
+    "romaji": "chichi",
+    "english": "father",
+    "spanish": "padre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "japanese": "家族",
+    "romaji": "kazoku",
+    "english": "family",
+    "spanish": "familia",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "japanese": "友達",
+    "romaji": "tomodachi",
+    "english": "friend",
+    "spanish": "amigo",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "japanese": "です",
+    "romaji": "desu",
+    "english": "to be",
+    "spanish": "ser / estar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "japanese": "持つ",
+    "romaji": "motsu",
+    "english": "to have",
+    "spanish": "tener",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "japanese": "行く",
+    "romaji": "iku",
+    "english": "to go",
+    "spanish": "ir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "japanese": "食べる",
+    "romaji": "taberu",
+    "english": "to eat",
+    "spanish": "comer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "japanese": "飲む",
+    "romaji": "nomu",
+    "english": "to drink",
+    "spanish": "beber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "japanese": "良い",
+    "romaji": "yoi",
+    "english": "good",
+    "spanish": "bueno",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "japanese": "悪い",
+    "romaji": "warui",
+    "english": "bad",
+    "spanish": "malo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "japanese": "大きい",
+    "romaji": "ōkii",
+    "english": "big",
+    "spanish": "grande",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "japanese": "小さい",
+    "romaji": "chiisai",
+    "english": "small",
+    "spanish": "pequeño",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "japanese": "住む",
+    "romaji": "sumu",
+    "english": "to live",
+    "spanish": "vivir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 33,
+    "japanese": "働く",
+    "romaji": "hataraku",
+    "english": "to work",
+    "spanish": "trabajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 34,
+    "japanese": "買う",
+    "romaji": "kau",
+    "english": "to buy",
+    "spanish": "comprar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 35,
+    "japanese": "旅行する",
+    "romaji": "ryokō suru",
+    "english": "to travel",
+    "spanish": "viajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 36,
+    "japanese": "料理する",
+    "romaji": "ryōri suru",
+    "english": "to cook",
+    "spanish": "cocinar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 37,
+    "japanese": "学ぶ",
+    "romaji": "manabu",
+    "english": "to learn",
+    "spanish": "aprender",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 38,
+    "japanese": "服",
+    "romaji": "fuku",
+    "english": "clothes",
+    "spanish": "ropa",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 39,
+    "japanese": "靴",
+    "romaji": "kutsu",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 40,
+    "japanese": "コート",
+    "romaji": "kōto",
+    "english": "coat",
+    "spanish": "abrigo",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 41,
+    "japanese": "台所",
+    "romaji": "daidokoro",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 42,
+    "japanese": "浴室",
+    "romaji": "yokushitsu",
+    "english": "bathroom",
+    "spanish": "baño",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 43,
+    "japanese": "寝室",
+    "romaji": "shinshitsu",
+    "english": "bedroom",
+    "spanish": "dormitorio",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 44,
+    "japanese": "通り",
+    "romaji": "tōri",
+    "english": "street",
+    "spanish": "calle",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 45,
+    "japanese": "都市",
+    "romaji": "toshi",
+    "english": "city",
+    "spanish": "ciudad",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 46,
+    "japanese": "店",
+    "romaji": "mise",
+    "english": "shop",
+    "spanish": "tienda",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 47,
+    "japanese": "駅",
+    "romaji": "eki",
+    "english": "station",
+    "spanish": "estación",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 48,
+    "japanese": "切符",
+    "romaji": "kippu",
+    "english": "ticket",
+    "spanish": "billete",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 49,
+    "japanese": "スーツケース",
+    "romaji": "sūtsukēsu",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 50,
+    "japanese": "車",
+    "romaji": "kuruma",
+    "english": "car",
+    "spanish": "coche",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 51,
+    "japanese": "電車",
+    "romaji": "densha",
+    "english": "train",
+    "spanish": "tren",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 52,
+    "japanese": "今日",
+    "romaji": "kyō",
+    "english": "today",
+    "spanish": "hoy",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 53,
+    "japanese": "明日",
+    "romaji": "ashita",
+    "english": "tomorrow",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 54,
+    "japanese": "昨日",
+    "romaji": "kinō",
+    "english": "yesterday",
+    "spanish": "ayer",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 55,
+    "japanese": "いつも",
+    "romaji": "itsumo",
+    "english": "always",
+    "spanish": "siempre",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 56,
+    "japanese": "よく",
+    "romaji": "yoku",
+    "english": "often",
+    "spanish": "a menudo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 57,
+    "japanese": "決して",
+    "romaji": "kesshite",
+    "english": "never",
+    "spanish": "nunca",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 58,
+    "japanese": "天気",
+    "romaji": "tenki",
+    "english": "weather",
+    "spanish": "tiempo (clima)",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 59,
+    "japanese": "雨",
+    "romaji": "ame",
+    "english": "rain",
+    "spanish": "lluvia",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 60,
+    "japanese": "太陽",
+    "romaji": "taiyō",
+    "english": "sun",
+    "spanish": "sol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 61,
+    "japanese": "幸せ",
+    "romaji": "shiawase",
+    "english": "happy",
+    "spanish": "feliz",
+    "category": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": 62,
+    "japanese": "経験",
+    "romaji": "keiken",
+    "english": "experience",
+    "spanish": "experiencia",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 63,
+    "japanese": "職業",
+    "romaji": "shokugyō",
+    "english": "profession",
+    "spanish": "profesión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 64,
+    "japanese": "上司",
+    "romaji": "jōshi",
+    "english": "boss",
+    "spanish": "jefe",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 65,
+    "japanese": "会議",
+    "romaji": "kaigi",
+    "english": "meeting",
+    "spanish": "reunión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 66,
+    "japanese": "契約",
+    "romaji": "keiyaku",
+    "english": "contract",
+    "spanish": "contrato",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 67,
+    "japanese": "給料",
+    "romaji": "kyūryō",
+    "english": "salary",
+    "spanish": "salario",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 68,
+    "japanese": "教育",
+    "romaji": "kyōiku",
+    "english": "education",
+    "spanish": "educación",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 69,
+    "japanese": "知識",
+    "romaji": "chishiki",
+    "english": "knowledge",
+    "spanish": "conocimiento",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 70,
+    "japanese": "技能",
+    "romaji": "ginō",
+    "english": "skill",
+    "spanish": "habilidad",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 71,
+    "japanese": "試験",
+    "romaji": "shiken",
+    "english": "exam",
+    "spanish": "examen",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 72,
+    "japanese": "健康",
+    "romaji": "kenkō",
+    "english": "health",
+    "spanish": "salud",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 73,
+    "japanese": "病気",
+    "romaji": "byōki",
+    "english": "illness",
+    "spanish": "enfermedad",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 74,
+    "japanese": "医者",
+    "romaji": "isha",
+    "english": "doctor",
+    "spanish": "médico",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 75,
+    "japanese": "幸福",
+    "romaji": "kōfuku",
+    "english": "happiness",
+    "spanish": "felicidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 76,
+    "japanese": "恐れ",
+    "romaji": "osore",
+    "english": "fear",
+    "spanish": "miedo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 77,
+    "japanese": "希望",
+    "romaji": "kibō",
+    "english": "hope",
+    "spanish": "esperanza",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 78,
+    "japanese": "愛",
+    "romaji": "ai",
+    "english": "love",
+    "spanish": "amor",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 79,
+    "japanese": "嫉妬",
+    "romaji": "shitto",
+    "english": "jealousy",
+    "spanish": "celos",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 80,
+    "japanese": "決める",
+    "romaji": "kimeru",
+    "english": "to decide",
+    "spanish": "decidir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 81,
+    "japanese": "選ぶ",
+    "romaji": "erabu",
+    "english": "to choose",
+    "spanish": "elegir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 82,
+    "japanese": "説明する",
+    "romaji": "setsumei suru",
+    "english": "to explain",
+    "spanish": "explicar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 83,
+    "japanese": "比べる",
+    "romaji": "kuraberu",
+    "english": "to compare",
+    "spanish": "comparar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 84,
+    "japanese": "達成する",
+    "romaji": "tassei suru",
+    "english": "to achieve",
+    "spanish": "lograr",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 85,
+    "japanese": "勧める",
+    "romaji": "susumeru",
+    "english": "to recommend",
+    "spanish": "recomendar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 86,
+    "japanese": "実は",
+    "romaji": "jitsu wa",
+    "english": "actually",
+    "spanish": "en realidad",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 87,
+    "japanese": "すぐに",
+    "romaji": "sugu ni",
+    "english": "immediately",
+    "spanish": "inmediatamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 88,
+    "japanese": "残念ながら",
+    "romaji": "zannen nagara",
+    "english": "unfortunately",
+    "spanish": "desafortunadamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 89,
+    "japanese": "環境",
+    "romaji": "kankyō",
+    "english": "environment",
+    "spanish": "medio ambiente",
+    "category": "nature",
+    "level": "B1"
+  },
+  {
+    "id": 90,
+    "japanese": "社会",
+    "romaji": "shakai",
+    "english": "society",
+    "spanish": "sociedad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 91,
+    "japanese": "選択",
+    "romaji": "sentaku",
+    "english": "choice",
+    "spanish": "elección",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 92,
+    "japanese": "信念",
+    "romaji": "shinnen",
+    "english": "belief",
+    "spanish": "convicción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 93,
+    "japanese": "疑い",
+    "romaji": "utagai",
+    "english": "doubt",
+    "spanish": "duda",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "japanese": "現象",
+    "romaji": "genshō",
+    "english": "phenomenon",
+    "spanish": "fenómeno",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "japanese": "解決",
+    "romaji": "kaiketsu",
+    "english": "solution",
+    "spanish": "solución",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "japanese": "研究",
+    "romaji": "kenkyū",
+    "english": "research",
+    "spanish": "investigación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "japanese": "影響",
+    "romaji": "eikyō",
+    "english": "influence",
+    "spanish": "influencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "japanese": "脅威",
+    "romaji": "kyōi",
+    "english": "threat",
+    "spanish": "amenaza",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "japanese": "意識",
+    "romaji": "ishiki",
+    "english": "awareness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "japanese": "発展",
+    "romaji": "hatten",
+    "english": "development",
+    "spanish": "desarrollo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 101,
+    "japanese": "進歩",
+    "romaji": "shinpo",
+    "english": "progress",
+    "spanish": "progreso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 102,
+    "japanese": "結果",
+    "romaji": "kekka",
+    "english": "consequence",
+    "spanish": "consecuencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 103,
+    "japanese": "予測する",
+    "romaji": "yosoku suru",
+    "english": "to predict",
+    "spanish": "predecir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 104,
+    "japanese": "仮定する",
+    "romaji": "katei suru",
+    "english": "to assume",
+    "spanish": "asumir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 105,
+    "japanese": "証明する",
+    "romaji": "shōmei suru",
+    "english": "to prove",
+    "spanish": "demostrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 106,
+    "japanese": "疑う",
+    "romaji": "utagau",
+    "english": "to doubt",
+    "spanish": "dudar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 107,
+    "japanese": "交渉する",
+    "romaji": "kōshō suru",
+    "english": "to negotiate",
+    "spanish": "negociar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 108,
+    "japanese": "分析する",
+    "romaji": "bunseki suru",
+    "english": "to analyze",
+    "spanish": "analizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 109,
+    "japanese": "評価する",
+    "romaji": "hyōka suru",
+    "english": "to assess",
+    "spanish": "evaluar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 110,
+    "japanese": "十分",
+    "romaji": "jūbun",
+    "english": "sufficient",
+    "spanish": "suficiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 111,
+    "japanese": "明らか",
+    "romaji": "akiraka",
+    "english": "obvious",
+    "spanish": "obvio",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 112,
+    "japanese": "複雑",
+    "romaji": "fukuzatsu",
+    "english": "complex",
+    "spanish": "complejo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 113,
+    "japanese": "相対的",
+    "romaji": "sōtaiteki",
+    "english": "relative",
+    "spanish": "relativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 114,
+    "japanese": "独立した",
+    "romaji": "dokuritsu shita",
+    "english": "independent",
+    "spanish": "independiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 115,
+    "japanese": "持続可能",
+    "romaji": "jizoku kanō",
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 116,
+    "japanese": "たとえ〜でも",
+    "romaji": "tatoe~demo",
+    "english": "even though",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 117,
+    "japanese": "しかし",
+    "romaji": "shikashi",
+    "english": "however",
+    "spanish": "sin embargo",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 118,
+    "japanese": "一方",
+    "romaji": "ippō",
+    "english": "whereas",
+    "spanish": "en cambio",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 119,
+    "japanese": "さらに",
+    "romaji": "sara ni",
+    "english": "moreover",
+    "spanish": "además",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 120,
+    "japanese": "自由",
+    "romaji": "jiyū",
+    "english": "freedom",
+    "spanish": "libertad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 121,
+    "japanese": "一",
+    "romaji": "ichi",
+    "english": "one",
+    "spanish": "uno",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "japanese": "二",
+    "romaji": "ni",
+    "english": "two",
+    "spanish": "dos",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "japanese": "三",
+    "romaji": "san",
+    "english": "three",
+    "spanish": "tres",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "japanese": "四",
+    "romaji": "yon",
+    "english": "four",
+    "spanish": "cuatro",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "japanese": "五",
+    "romaji": "go",
+    "english": "five",
+    "spanish": "cinco",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "japanese": "六",
+    "romaji": "roku",
+    "english": "six",
+    "spanish": "seis",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "japanese": "七",
+    "romaji": "nana",
+    "english": "seven",
+    "spanish": "siete",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "japanese": "八",
+    "romaji": "hachi",
+    "english": "eight",
+    "spanish": "ocho",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "japanese": "九",
+    "romaji": "kyū",
+    "english": "nine",
+    "spanish": "nueve",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "japanese": "十",
+    "romaji": "jū",
+    "english": "ten",
+    "spanish": "diez",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "japanese": "赤",
+    "romaji": "aka",
+    "english": "red",
+    "spanish": "rojo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "japanese": "青",
+    "romaji": "ao",
+    "english": "blue",
+    "spanish": "azul",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "japanese": "緑",
+    "romaji": "midori",
+    "english": "green",
+    "spanish": "verde",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "japanese": "黒",
+    "romaji": "kuro",
+    "english": "black",
+    "spanish": "negro",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "japanese": "白",
+    "romaji": "shiro",
+    "english": "white",
+    "spanish": "blanco",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "japanese": "黄色",
+    "romaji": "kiiro",
+    "english": "yellow",
+    "spanish": "amarillo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "japanese": "晴れ",
+    "romaji": "hare",
+    "english": "sunny",
+    "spanish": "soleado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "japanese": "雨の",
+    "romaji": "ame no",
+    "english": "rainy",
+    "spanish": "lluvioso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "japanese": "曇り",
+    "romaji": "kumori",
+    "english": "cloudy",
+    "spanish": "nublado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "japanese": "寒い",
+    "romaji": "samui",
+    "english": "cold",
+    "spanish": "frío",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "japanese": "暑い",
+    "romaji": "atsui",
+    "english": "hot",
+    "spanish": "caluroso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "japanese": "兄",
+    "romaji": "ani",
+    "english": "brother",
+    "spanish": "hermano",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "japanese": "姉",
+    "romaji": "ane",
+    "english": "sister",
+    "spanish": "hermana",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "japanese": "息子",
+    "romaji": "musuko",
+    "english": "son",
+    "spanish": "hijo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "japanese": "娘",
+    "romaji": "musume",
+    "english": "daughter",
+    "spanish": "hija",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "japanese": "学校",
+    "romaji": "gakkō",
+    "english": "school",
+    "spanish": "escuela",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "japanese": "公園",
+    "romaji": "kōen",
+    "english": "park",
+    "spanish": "parque",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "japanese": "左",
+    "romaji": "hidari",
+    "english": "left",
+    "spanish": "izquierda",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "japanese": "右",
+    "romaji": "migi",
+    "english": "right",
+    "spanish": "derecha",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "japanese": "助け",
+    "romaji": "tasuke",
+    "english": "help",
+    "spanish": "ayuda",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "japanese": "庭",
+    "romaji": "niwa",
+    "english": "garden",
+    "spanish": "jardín",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 152,
+    "japanese": "窓",
+    "romaji": "mado",
+    "english": "window",
+    "spanish": "ventana",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 153,
+    "japanese": "ドア",
+    "romaji": "doa",
+    "english": "door",
+    "spanish": "puerta",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 154,
+    "japanese": "椅子",
+    "romaji": "isu",
+    "english": "chair",
+    "spanish": "silla",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 155,
+    "japanese": "テーブル",
+    "romaji": "tēburu",
+    "english": "table",
+    "spanish": "mesa",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 156,
+    "japanese": "本",
+    "romaji": "hon",
+    "english": "book",
+    "spanish": "libro",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 157,
+    "japanese": "ペン",
+    "romaji": "pen",
+    "english": "pen",
+    "spanish": "bolígrafo",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 158,
+    "japanese": "読む",
+    "romaji": "yomu",
+    "english": "to read",
+    "spanish": "leer",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 159,
+    "japanese": "書く",
+    "romaji": "kaku",
+    "english": "to write",
+    "spanish": "escribir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 160,
+    "japanese": "話す",
+    "romaji": "hanasu",
+    "english": "to speak",
+    "spanish": "hablar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 161,
+    "japanese": "聞く",
+    "romaji": "kiku",
+    "english": "to listen",
+    "spanish": "escuchar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 162,
+    "japanese": "開ける",
+    "romaji": "akeru",
+    "english": "to open",
+    "spanish": "abrir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 163,
+    "japanese": "閉める",
+    "romaji": "shimeru",
+    "english": "to close",
+    "spanish": "cerrar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 164,
+    "japanese": "寝る",
+    "romaji": "neru",
+    "english": "to sleep",
+    "spanish": "dormir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 165,
+    "japanese": "走る",
+    "romaji": "hashiru",
+    "english": "to run",
+    "spanish": "correr",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 166,
+    "japanese": "泳ぐ",
+    "romaji": "oyogu",
+    "english": "to swim",
+    "spanish": "nadar",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 167,
+    "japanese": "サッカー",
+    "romaji": "sakkā",
+    "english": "football",
+    "spanish": "fútbol",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 168,
+    "japanese": "音楽",
+    "romaji": "ongaku",
+    "english": "music",
+    "spanish": "música",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 169,
+    "japanese": "歌",
+    "romaji": "uta",
+    "english": "song",
+    "spanish": "canción",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 170,
+    "japanese": "歌う",
+    "romaji": "utau",
+    "english": "to sing",
+    "spanish": "cantar",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 171,
+    "japanese": "パーティー",
+    "romaji": "pātī",
+    "english": "party",
+    "spanish": "fiesta",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 172,
+    "japanese": "ビーチ",
+    "romaji": "bīchi",
+    "english": "beach",
+    "spanish": "playa",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 173,
+    "japanese": "山",
+    "romaji": "yama",
+    "english": "mountain",
+    "spanish": "montaña",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 174,
+    "japanese": "川",
+    "romaji": "kawa",
+    "english": "river",
+    "spanish": "río",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 175,
+    "japanese": "木",
+    "romaji": "ki",
+    "english": "tree",
+    "spanish": "árbol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 176,
+    "japanese": "花",
+    "romaji": "hana",
+    "english": "flower",
+    "spanish": "flor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 177,
+    "japanese": "空",
+    "romaji": "sora",
+    "english": "sky",
+    "spanish": "cielo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 178,
+    "japanese": "疲れた",
+    "romaji": "tsukareta",
+    "english": "tired",
+    "spanish": "cansado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 179,
+    "japanese": "怒った",
+    "romaji": "okotta",
+    "english": "angry",
+    "spanish": "enfadado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 180,
+    "japanese": "心配な",
+    "romaji": "shinpai na",
+    "english": "worried",
+    "spanish": "preocupado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 181,
+    "japanese": "収入",
+    "romaji": "shūnyū",
+    "english": "income",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 182,
+    "japanese": "貯める",
+    "romaji": "tameru",
+    "english": "to save",
+    "spanish": "ahorrar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 183,
+    "japanese": "使う",
+    "romaji": "tsukau",
+    "english": "to spend",
+    "spanish": "gastar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 184,
+    "japanese": "借金",
+    "romaji": "shakkin",
+    "english": "debt",
+    "spanish": "deuda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 185,
+    "japanese": "値段",
+    "romaji": "nedan",
+    "english": "price",
+    "spanish": "precio",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 186,
+    "japanese": "銀行",
+    "romaji": "ginkō",
+    "english": "bank",
+    "spanish": "banco",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 187,
+    "japanese": "雇う",
+    "romaji": "yatou",
+    "english": "to hire",
+    "spanish": "contratar",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 188,
+    "japanese": "同僚",
+    "romaji": "dōryō",
+    "english": "colleague",
+    "spanish": "colega",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 189,
+    "japanese": "締め切り",
+    "romaji": "shimekiri",
+    "english": "deadline",
+    "spanish": "fecha límite",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 190,
+    "japanese": "経歴",
+    "romaji": "keireki",
+    "english": "career",
+    "spanish": "carrera",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 191,
+    "japanese": "改善する",
+    "romaji": "kaizen suru",
+    "english": "to improve",
+    "spanish": "mejorar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 192,
+    "japanese": "提案する",
+    "romaji": "teian suru",
+    "english": "to suggest",
+    "spanish": "sugerir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 193,
+    "japanese": "避ける",
+    "romaji": "sakeru",
+    "english": "to avoid",
+    "spanish": "evitar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 194,
+    "japanese": "開発する",
+    "romaji": "kaihatsu suru",
+    "english": "to develop",
+    "spanish": "desarrollar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 195,
+    "japanese": "支える",
+    "romaji": "sasaeru",
+    "english": "to support",
+    "spanish": "apoyar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 196,
+    "japanese": "汚染",
+    "romaji": "osen",
+    "english": "pollution",
+    "spanish": "contaminación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 197,
+    "japanese": "気候",
+    "romaji": "kikō",
+    "english": "climate",
+    "spanish": "clima",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 198,
+    "japanese": "リサイクルする",
+    "romaji": "risaikuru suru",
+    "english": "to recycle",
+    "spanish": "reciclar",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 199,
+    "japanese": "エネルギー",
+    "romaji": "enerugī",
+    "english": "energy",
+    "spanish": "energía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 200,
+    "japanese": "政府",
+    "romaji": "seifu",
+    "english": "government",
+    "spanish": "gobierno",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 201,
+    "japanese": "法律",
+    "romaji": "hōritsu",
+    "english": "law",
+    "spanish": "ley",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 202,
+    "japanese": "選挙",
+    "romaji": "senkyo",
+    "english": "election",
+    "spanish": "elección",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 203,
+    "japanese": "市民",
+    "romaji": "shimin",
+    "english": "citizen",
+    "spanish": "ciudadano",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 204,
+    "japanese": "文化",
+    "romaji": "bunka",
+    "english": "culture",
+    "spanish": "cultura",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 205,
+    "japanese": "科学",
+    "romaji": "kagaku",
+    "english": "science",
+    "spanish": "ciencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 206,
+    "japanese": "実験",
+    "romaji": "jikken",
+    "english": "experiment",
+    "spanish": "experimento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 207,
+    "japanese": "証拠",
+    "romaji": "shōko",
+    "english": "evidence",
+    "spanish": "evidencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 208,
+    "japanese": "理論",
+    "romaji": "riron",
+    "english": "theory",
+    "spanish": "teoría",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 209,
+    "japanese": "発見",
+    "romaji": "hakken",
+    "english": "discovery",
+    "spanish": "descubrimiento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 210,
+    "japanese": "たぶん",
+    "romaji": "tabun",
+    "english": "perhaps",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 211,
+    "japanese": "仮定",
+    "romaji": "katei",
+    "english": "assumption",
+    "spanish": "suposición",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 212,
+    "japanese": "論争",
+    "romaji": "ronsō",
+    "english": "controversy",
+    "spanish": "controversia",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 213,
+    "japanese": "不平等",
+    "romaji": "fubyōdō",
+    "english": "inequality",
+    "spanish": "desigualdad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 214,
+    "japanese": "持続可能性",
+    "romaji": "jizoku kanōsei",
+    "english": "sustainability",
+    "spanish": "sostenibilidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 215,
+    "japanese": "視点",
+    "romaji": "shiten",
+    "english": "perspective",
+    "spanish": "perspectiva",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 216,
+    "japanese": "含意",
+    "romaji": "gan'i",
+    "english": "implication",
+    "spanish": "implicación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 217,
+    "japanese": "制約",
+    "romaji": "seiyaku",
+    "english": "constraint",
+    "spanish": "restricción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 218,
+    "japanese": "奨励",
+    "romaji": "shōrei",
+    "english": "incentive",
+    "spanish": "incentivo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 219,
+    "japanese": "収益",
+    "romaji": "shūeki",
+    "english": "revenue",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 220,
+    "japanese": "投資",
+    "romaji": "tōshi",
+    "english": "investment",
+    "spanish": "inversión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 221,
+    "japanese": "交渉",
+    "romaji": "kōshō",
+    "english": "negotiation",
+    "spanish": "negociación",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 222,
+    "japanese": "効率",
+    "romaji": "kōritsu",
+    "english": "efficiency",
+    "spanish": "eficiencia",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 223,
+    "japanese": "革新",
+    "romaji": "kakushin",
+    "english": "innovation",
+    "spanish": "innovación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 224,
+    "japanese": "アルゴリズム",
+    "romaji": "arugorizumu",
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 225,
+    "japanese": "プライバシー",
+    "romaji": "puraibashī",
+    "english": "privacy",
+    "spanish": "privacidad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 226,
+    "japanese": "人工知能",
+    "romaji": "jinkō chinō",
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 227,
+    "japanese": "データ",
+    "romaji": "dēta",
+    "english": "data",
+    "spanish": "datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 228,
+    "japanese": "サイバーセキュリティ",
+    "romaji": "saibā sekyuriti",
+    "english": "cybersecurity",
+    "spanish": "ciberseguridad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 229,
+    "japanese": "弱める",
+    "romaji": "yowameru",
+    "english": "to undermine",
+    "spanish": "socavar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 230,
+    "japanese": "強める",
+    "romaji": "tsuyomeru",
+    "english": "to reinforce",
+    "spanish": "reforzar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 231,
+    "japanese": "和らげる",
+    "romaji": "yawarageru",
+    "english": "to mitigate",
+    "spanish": "mitigar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 232,
+    "japanese": "促進する",
+    "romaji": "sokushin suru",
+    "english": "to facilitate",
+    "spanish": "facilitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 233,
+    "japanese": "認める",
+    "romaji": "mitomeru",
+    "english": "to acknowledge",
+    "spanish": "reconocer",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 234,
+    "japanese": "曖昧",
+    "romaji": "aimai",
+    "english": "ambiguous",
+    "spanish": "ambiguo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 235,
+    "japanese": "実行可能",
+    "romaji": "jikkō kanō",
+    "english": "feasible",
+    "spanish": "factible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 236,
+    "japanese": "避けられない",
+    "romaji": "sakerarenai",
+    "english": "inevitable",
+    "spanish": "inevitable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 237,
+    "japanese": "包括的",
+    "romaji": "hōkatsuteki",
+    "english": "comprehensive",
+    "spanish": "integral",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 238,
+    "japanese": "説得力のある",
+    "romaji": "settokuryoku no aru",
+    "english": "compelling",
+    "spanish": "convincente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 239,
+    "japanese": "普及した",
+    "romaji": "fukyū shita",
+    "english": "prevalent",
+    "spanish": "predominante",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 240,
+    "japanese": "有害な",
+    "romaji": "yūgai na",
+    "english": "detrimental",
+    "spanish": "perjudicial",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 241,
+    "japanese": "頭",
+    "romaji": "atama",
+    "english": "head",
+    "spanish": "cabeza",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "japanese": "手",
+    "romaji": "te",
+    "english": "hand",
+    "spanish": "mano",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "japanese": "足",
+    "romaji": "ashi",
+    "english": "foot",
+    "spanish": "pie",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "japanese": "目",
+    "romaji": "me",
+    "english": "eye",
+    "spanish": "ojo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "japanese": "耳",
+    "romaji": "mimi",
+    "english": "ear",
+    "spanish": "oreja",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "japanese": "口",
+    "romaji": "kuchi",
+    "english": "mouth",
+    "spanish": "boca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "japanese": "鼻",
+    "romaji": "hana",
+    "english": "nose",
+    "spanish": "nariz",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "japanese": "髪",
+    "romaji": "kami",
+    "english": "hair",
+    "spanish": "pelo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "japanese": "腕",
+    "romaji": "ude",
+    "english": "arm",
+    "spanish": "brazo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "japanese": "脚",
+    "romaji": "ashi",
+    "english": "leg",
+    "spanish": "pierna",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "japanese": "ベッド",
+    "romaji": "beddo",
+    "english": "bed",
+    "spanish": "cama",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "japanese": "ランプ",
+    "romaji": "ranpu",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "japanese": "鍵",
+    "romaji": "kagi",
+    "english": "key",
+    "spanish": "llave",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "japanese": "壁",
+    "romaji": "kabe",
+    "english": "wall",
+    "spanish": "pared",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "japanese": "床",
+    "romaji": "yuka",
+    "english": "floor",
+    "spanish": "suelo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "japanese": "屋根",
+    "romaji": "yane",
+    "english": "roof",
+    "spanish": "tejado",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "japanese": "卵",
+    "romaji": "tamago",
+    "english": "egg",
+    "spanish": "huevo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "japanese": "チーズ",
+    "romaji": "chīzu",
+    "english": "cheese",
+    "spanish": "queso",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "japanese": "魚",
+    "romaji": "sakana",
+    "english": "fish",
+    "spanish": "pescado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "japanese": "肉",
+    "romaji": "niku",
+    "english": "meat",
+    "spanish": "carne",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "japanese": "スープ",
+    "romaji": "sūpu",
+    "english": "soup",
+    "spanish": "sopa",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "japanese": "サラダ",
+    "romaji": "sarada",
+    "english": "salad",
+    "spanish": "ensalada",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "japanese": "砂糖",
+    "romaji": "satō",
+    "english": "sugar",
+    "spanish": "azúcar",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "japanese": "塩",
+    "romaji": "shio",
+    "english": "salt",
+    "spanish": "sal",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "japanese": "新しい",
+    "romaji": "atarashii",
+    "english": "new",
+    "spanish": "nuevo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "japanese": "古い",
+    "romaji": "furui",
+    "english": "old",
+    "spanish": "viejo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "japanese": "若い",
+    "romaji": "wakai",
+    "english": "young",
+    "spanish": "joven",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "japanese": "長い",
+    "romaji": "nagai",
+    "english": "long",
+    "spanish": "largo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "japanese": "短い",
+    "romaji": "mijikai",
+    "english": "short",
+    "spanish": "corto",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "japanese": "遅い",
+    "romaji": "osoi",
+    "english": "slow",
+    "spanish": "lento",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "japanese": "起きる",
+    "romaji": "okiru",
+    "english": "to wake up",
+    "spanish": "despertarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "japanese": "立ち上がる",
+    "romaji": "tachiagaru",
+    "english": "to get up",
+    "spanish": "levantarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "japanese": "洗う",
+    "romaji": "arau",
+    "english": "to wash",
+    "spanish": "lavarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "japanese": "着る",
+    "romaji": "kiru",
+    "english": "to dress",
+    "spanish": "vestirse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "japanese": "休む",
+    "romaji": "yasumu",
+    "english": "to rest",
+    "spanish": "descansar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "japanese": "始める",
+    "romaji": "hajimeru",
+    "english": "to start",
+    "spanish": "empezar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "japanese": "終える",
+    "romaji": "oeru",
+    "english": "to finish",
+    "spanish": "terminar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "japanese": "試す",
+    "romaji": "tamesu",
+    "english": "to try",
+    "spanish": "intentar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "japanese": "バス",
+    "romaji": "basu",
+    "english": "bus",
+    "spanish": "autobús",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "japanese": "自転車",
+    "romaji": "jitensha",
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "japanese": "飛行機",
+    "romaji": "hikōki",
+    "english": "plane",
+    "spanish": "avión",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "japanese": "ボート",
+    "romaji": "bōto",
+    "english": "boat",
+    "spanish": "barco",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "japanese": "空港",
+    "romaji": "kūkō",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "japanese": "道",
+    "romaji": "michi",
+    "english": "road",
+    "spanish": "carretera",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "japanese": "パスポート",
+    "romaji": "pasupōto",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "japanese": "観光客",
+    "romaji": "kankōkyaku",
+    "english": "tourist",
+    "spanish": "turista",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "japanese": "ガイド",
+    "romaji": "gaido",
+    "english": "guide",
+    "spanish": "guía",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "japanese": "休暇",
+    "romaji": "kyūka",
+    "english": "holiday",
+    "spanish": "vacaciones",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "japanese": "退屈な",
+    "romaji": "taikutsu na",
+    "english": "bored",
+    "spanish": "aburrido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "japanese": "興奮した",
+    "romaji": "kōfun shita",
+    "english": "excited",
+    "spanish": "emocionado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "japanese": "驚いた",
+    "romaji": "odoroita",
+    "english": "surprised",
+    "spanish": "sorprendido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "japanese": "緊張した",
+    "romaji": "kinchō shita",
+    "english": "nervous",
+    "spanish": "nervioso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "japanese": "誇りに思う",
+    "romaji": "hokori ni omou",
+    "english": "proud",
+    "spanish": "orgulloso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "japanese": "穏やかな",
+    "romaji": "odayaka na",
+    "english": "calm",
+    "spanish": "tranquilo",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "japanese": "市場",
+    "romaji": "ichiba",
+    "english": "market",
+    "spanish": "mercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "japanese": "スーパー",
+    "romaji": "sūpā",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "japanese": "カード",
+    "romaji": "kādo",
+    "english": "card",
+    "spanish": "tarjeta",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "japanese": "現金",
+    "romaji": "genkin",
+    "english": "cash",
+    "spanish": "efectivo",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "japanese": "割引",
+    "romaji": "waribiki",
+    "english": "discount",
+    "spanish": "descuento",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "japanese": "サイズ",
+    "romaji": "saizu",
+    "english": "size",
+    "spanish": "talla",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "japanese": "従業員",
+    "romaji": "jūgyōin",
+    "english": "employee",
+    "spanish": "empleado",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 302,
+    "japanese": "雇用者",
+    "romaji": "koyōsha",
+    "english": "employer",
+    "spanish": "empleador",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 303,
+    "japanese": "面接",
+    "romaji": "mensetsu",
+    "english": "interview",
+    "spanish": "entrevista",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "japanese": "履歴書",
+    "romaji": "rirekisho",
+    "english": "resume",
+    "spanish": "currículum",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "japanese": "昇進",
+    "romaji": "shōshin",
+    "english": "promotion",
+    "spanish": "ascenso",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "japanese": "課題",
+    "romaji": "kadai",
+    "english": "task",
+    "spanish": "tarea",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "japanese": "プロジェクト",
+    "romaji": "purojekuto",
+    "english": "project",
+    "spanish": "proyecto",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "japanese": "チーム",
+    "romaji": "chīmu",
+    "english": "team",
+    "spanish": "equipo",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "japanese": "マネージャー",
+    "romaji": "manējā",
+    "english": "manager",
+    "spanish": "gerente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "japanese": "研修",
+    "romaji": "kenshū",
+    "english": "training",
+    "spanish": "formación",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "japanese": "伝統",
+    "romaji": "dentō",
+    "english": "tradition",
+    "spanish": "tradición",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "japanese": "宗教",
+    "romaji": "shūkyō",
+    "english": "religion",
+    "spanish": "religión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "japanese": "メディア",
+    "romaji": "media",
+    "english": "media",
+    "spanish": "medios de comunicación",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "japanese": "ニュース",
+    "romaji": "nyūsu",
+    "english": "news",
+    "spanish": "noticias",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "japanese": "記者",
+    "romaji": "kisha",
+    "english": "journalist",
+    "spanish": "periodista",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "japanese": "意見",
+    "romaji": "iken",
+    "english": "opinion",
+    "spanish": "opinión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "japanese": "抗議",
+    "romaji": "kōgi",
+    "english": "protest",
+    "spanish": "protesta",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "japanese": "投票",
+    "romaji": "tōhyō",
+    "english": "vote",
+    "spanish": "voto",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "japanese": "廃棄物",
+    "romaji": "haikibutsu",
+    "english": "waste",
+    "spanish": "residuos",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "japanese": "森",
+    "romaji": "mori",
+    "english": "forest",
+    "spanish": "bosque",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "japanese": "海",
+    "romaji": "umi",
+    "english": "ocean",
+    "spanish": "océano",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "japanese": "洪水",
+    "romaji": "kōzui",
+    "english": "flood",
+    "spanish": "inundación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "japanese": "干ばつ",
+    "romaji": "kanbatsu",
+    "english": "drought",
+    "spanish": "sequía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "japanese": "種",
+    "romaji": "shu",
+    "english": "species",
+    "spanish": "especie",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "japanese": "治療",
+    "romaji": "chiryō",
+    "english": "treatment",
+    "spanish": "tratamiento",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "japanese": "症状",
+    "romaji": "shōjō",
+    "english": "symptom",
+    "spanish": "síntoma",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "japanese": "処方箋",
+    "romaji": "shohōsen",
+    "english": "prescription",
+    "spanish": "receta médica",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "japanese": "保険",
+    "romaji": "hoken",
+    "english": "insurance",
+    "spanish": "seguro",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 329,
+    "japanese": "食事",
+    "romaji": "shokuji",
+    "english": "diet",
+    "spanish": "dieta",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 330,
+    "japanese": "ストレス",
+    "romaji": "sutoresu",
+    "english": "stress",
+    "spanish": "estrés",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 331,
+    "japanese": "ソフトウェア",
+    "romaji": "sofutowea",
+    "english": "software",
+    "spanish": "software",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "japanese": "ハードウェア",
+    "romaji": "hādowea",
+    "english": "hardware",
+    "spanish": "hardware",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "japanese": "ネットワーク",
+    "romaji": "nettowāku",
+    "english": "network",
+    "spanish": "red",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "japanese": "サーバー",
+    "romaji": "sābā",
+    "english": "server",
+    "spanish": "servidor",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "japanese": "データベース",
+    "romaji": "dētabēsu",
+    "english": "database",
+    "spanish": "base de datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "japanese": "暗号化",
+    "romaji": "angōka",
+    "english": "encryption",
+    "spanish": "cifrado",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "japanese": "装置",
+    "romaji": "sōchi",
+    "english": "device",
+    "spanish": "dispositivo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "japanese": "アプリ",
+    "romaji": "apuri",
+    "english": "application",
+    "spanish": "aplicación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "japanese": "プラットフォーム",
+    "romaji": "purattofōmu",
+    "english": "platform",
+    "spanish": "plataforma",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "japanese": "仮想",
+    "romaji": "kasō",
+    "english": "virtual",
+    "spanish": "virtual",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "japanese": "利益",
+    "romaji": "rieki",
+    "english": "profit",
+    "spanish": "beneficio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "japanese": "予算",
+    "romaji": "yosan",
+    "english": "budget",
+    "spanish": "presupuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "japanese": "税",
+    "romaji": "zei",
+    "english": "tax",
+    "spanish": "impuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "japanese": "インフレ",
+    "romaji": "infure",
+    "english": "inflation",
+    "spanish": "inflación",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "japanese": "貿易",
+    "romaji": "bōeki",
+    "english": "trade",
+    "spanish": "comercio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "japanese": "通貨",
+    "romaji": "tsūka",
+    "english": "currency",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "japanese": "供給",
+    "romaji": "kyōkyū",
+    "english": "supply",
+    "spanish": "oferta",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "japanese": "枠組み",
+    "romaji": "wakugumi",
+    "english": "framework",
+    "spanish": "marco",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "japanese": "基準",
+    "romaji": "kijun",
+    "english": "criterion",
+    "spanish": "criterio",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "japanese": "パラダイム",
+    "romaji": "paradaimu",
+    "english": "paradigm",
+    "spanish": "paradigma",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "japanese": "概念",
+    "romaji": "gainen",
+    "english": "notion",
+    "spanish": "noción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "japanese": "仮説",
+    "romaji": "kasetsu",
+    "english": "hypothesis",
+    "spanish": "hipótesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "japanese": "合意",
+    "romaji": "gōi",
+    "english": "consensus",
+    "spanish": "consenso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "japanese": "曖昧さ",
+    "romaji": "aimai sa",
+    "english": "ambiguity",
+    "spanish": "ambigüedad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "japanese": "割り当てる",
+    "romaji": "wariateru",
+    "english": "to allocate",
+    "spanish": "asignar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "japanese": "実施する",
+    "romaji": "jisshi suru",
+    "english": "to implement",
+    "spanish": "implementar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "japanese": "統合する",
+    "romaji": "tōgō suru",
+    "english": "to integrate",
+    "spanish": "integrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "japanese": "最適化する",
+    "romaji": "saitekika suru",
+    "english": "to optimize",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "japanese": "優先する",
+    "romaji": "yūsen suru",
+    "english": "to prioritize",
+    "spanish": "priorizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "japanese": "検証する",
+    "romaji": "kenshō suru",
+    "english": "to validate",
+    "spanish": "validar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "japanese": "鳥",
+    "romaji": "tori",
+    "english": "bird",
+    "spanish": "pájaro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "japanese": "馬",
+    "romaji": "uma",
+    "english": "horse",
+    "spanish": "caballo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "japanese": "牛",
+    "romaji": "ushi",
+    "english": "cow",
+    "spanish": "vaca",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "japanese": "豚",
+    "romaji": "buta",
+    "english": "pig",
+    "spanish": "cerdo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "japanese": "鶏",
+    "romaji": "niwatori",
+    "english": "chicken",
+    "spanish": "pollo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "japanese": "ねずみ",
+    "romaji": "nezumi",
+    "english": "mouse",
+    "spanish": "ratón",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "japanese": "うさぎ",
+    "romaji": "usagi",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "japanese": "羊",
+    "romaji": "hitsuji",
+    "english": "sheep",
+    "spanish": "oveja",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "japanese": "アヒル",
+    "romaji": "ahiru",
+    "english": "duck",
+    "spanish": "pato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "japanese": "ライオン",
+    "romaji": "raion",
+    "english": "lion",
+    "spanish": "león",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "japanese": "月",
+    "romaji": "tsuki",
+    "english": "moon",
+    "spanish": "luna",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "japanese": "星",
+    "romaji": "hoshi",
+    "english": "star",
+    "spanish": "estrella",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "japanese": "雲",
+    "romaji": "kumo",
+    "english": "cloud",
+    "spanish": "nube",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "japanese": "風",
+    "romaji": "kaze",
+    "english": "wind",
+    "spanish": "viento",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "japanese": "雪",
+    "romaji": "yuki",
+    "english": "snow",
+    "spanish": "nieve",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "japanese": "氷",
+    "romaji": "kōri",
+    "english": "ice",
+    "spanish": "hielo",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "japanese": "火",
+    "romaji": "hi",
+    "english": "fire",
+    "spanish": "fuego",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "japanese": "石",
+    "romaji": "ishi",
+    "english": "stone",
+    "spanish": "piedra",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "japanese": "最初の",
+    "romaji": "saisho no",
+    "english": "first",
+    "spanish": "primero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "japanese": "二番目の",
+    "romaji": "nibanme no",
+    "english": "second",
+    "spanish": "segundo",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "japanese": "三番目の",
+    "romaji": "sanbanme no",
+    "english": "third",
+    "spanish": "tercero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "japanese": "最後の",
+    "romaji": "saigo no",
+    "english": "last",
+    "spanish": "último",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "japanese": "次の",
+    "romaji": "tsugi no",
+    "english": "next",
+    "spanish": "siguiente",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "japanese": "また",
+    "romaji": "mata",
+    "english": "again",
+    "spanish": "otra vez",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "japanese": "見る",
+    "romaji": "miru",
+    "english": "to see",
+    "spanish": "ver",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "japanese": "聞こえる",
+    "romaji": "kikoeru",
+    "english": "to hear",
+    "spanish": "oír",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "japanese": "知る",
+    "romaji": "shiru",
+    "english": "to know",
+    "spanish": "saber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "japanese": "考える",
+    "romaji": "kangaeru",
+    "english": "to think",
+    "spanish": "pensar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "japanese": "与える",
+    "romaji": "ataeru",
+    "english": "to give",
+    "spanish": "dar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "japanese": "取る",
+    "romaji": "toru",
+    "english": "to take",
+    "spanish": "tomar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "japanese": "先生",
+    "romaji": "sensei",
+    "english": "teacher",
+    "spanish": "profesor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 392,
+    "japanese": "エンジニア",
+    "romaji": "enjinia",
+    "english": "engineer",
+    "spanish": "ingeniero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 393,
+    "japanese": "看護師",
+    "romaji": "kango-shi",
+    "english": "nurse",
+    "spanish": "enfermero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 394,
+    "japanese": "弁護士",
+    "romaji": "bengoshi",
+    "english": "lawyer",
+    "spanish": "abogado",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 395,
+    "japanese": "シェフ",
+    "romaji": "shefu",
+    "english": "chef",
+    "spanish": "chef",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 396,
+    "japanese": "運転手",
+    "romaji": "untenshu",
+    "english": "driver",
+    "spanish": "conductor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 397,
+    "japanese": "農家",
+    "romaji": "nōka",
+    "english": "farmer",
+    "spanish": "granjero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 398,
+    "japanese": "警官",
+    "romaji": "keikan",
+    "english": "police officer",
+    "spanish": "policía",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 399,
+    "japanese": "ウェイター",
+    "romaji": "weitā",
+    "english": "waiter",
+    "spanish": "camarero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 400,
+    "japanese": "芸術家",
+    "romaji": "geijutsuka",
+    "english": "artist",
+    "spanish": "artista",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 401,
+    "japanese": "教会",
+    "romaji": "kyōkai",
+    "english": "church",
+    "spanish": "iglesia",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 402,
+    "japanese": "博物館",
+    "romaji": "hakubutsukan",
+    "english": "museum",
+    "spanish": "museo",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 403,
+    "japanese": "図書館",
+    "romaji": "toshokan",
+    "english": "library",
+    "spanish": "biblioteca",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 404,
+    "japanese": "劇場",
+    "romaji": "gekijō",
+    "english": "theatre",
+    "spanish": "teatro",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 405,
+    "japanese": "橋",
+    "romaji": "hashi",
+    "english": "bridge",
+    "spanish": "puente",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 406,
+    "japanese": "広場",
+    "romaji": "hiroba",
+    "english": "square",
+    "spanish": "plaza",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 407,
+    "japanese": "工場",
+    "romaji": "kōjō",
+    "english": "factory",
+    "spanish": "fábrica",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 408,
+    "japanese": "事務所",
+    "romaji": "jimusho",
+    "english": "office",
+    "spanish": "oficina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 409,
+    "japanese": "茹でる",
+    "romaji": "yuderu",
+    "english": "to boil",
+    "spanish": "hervir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 410,
+    "japanese": "揚げる",
+    "romaji": "ageru",
+    "english": "to fry",
+    "spanish": "freír",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 411,
+    "japanese": "焼く",
+    "romaji": "yaku",
+    "english": "to bake",
+    "spanish": "hornear",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 412,
+    "japanese": "ナイフ",
+    "romaji": "naifu",
+    "english": "knife",
+    "spanish": "cuchillo",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 413,
+    "japanese": "スプーン",
+    "romaji": "supūn",
+    "english": "spoon",
+    "spanish": "cuchara",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 414,
+    "japanese": "フォーク",
+    "romaji": "fōku",
+    "english": "fork",
+    "spanish": "tenedor",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 415,
+    "japanese": "描く",
+    "romaji": "kaku",
+    "english": "to paint",
+    "spanish": "pintar",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 416,
+    "japanese": "写真",
+    "romaji": "shashin",
+    "english": "photography",
+    "spanish": "fotografía",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 417,
+    "japanese": "チェス",
+    "romaji": "chesu",
+    "english": "chess",
+    "spanish": "ajedrez",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 418,
+    "japanese": "キャンプ",
+    "romaji": "kyanpu",
+    "english": "camping",
+    "spanish": "acampada",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 419,
+    "japanese": "釣り",
+    "romaji": "tsuri",
+    "english": "fishing",
+    "spanish": "pesca",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 420,
+    "japanese": "園芸",
+    "romaji": "engei",
+    "english": "gardening",
+    "spanish": "jardinería",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 421,
+    "japanese": "勇気",
+    "romaji": "yūki",
+    "english": "courage",
+    "spanish": "valor",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 422,
+    "japanese": "忍耐",
+    "romaji": "nintai",
+    "english": "patience",
+    "spanish": "paciencia",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 423,
+    "japanese": "正直",
+    "romaji": "shōjiki",
+    "english": "honesty",
+    "spanish": "honestidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 424,
+    "japanese": "知恵",
+    "romaji": "chie",
+    "english": "wisdom",
+    "spanish": "sabiduría",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 425,
+    "japanese": "親切",
+    "romaji": "shinsetsu",
+    "english": "kindness",
+    "spanish": "amabilidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 426,
+    "japanese": "尊敬",
+    "romaji": "sonkei",
+    "english": "respect",
+    "spanish": "respeto",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 427,
+    "japanese": "信頼",
+    "romaji": "shinrai",
+    "english": "trust",
+    "spanish": "confianza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 428,
+    "japanese": "誇り",
+    "romaji": "hokori",
+    "english": "pride",
+    "spanish": "orgullo",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 429,
+    "japanese": "恥",
+    "romaji": "haji",
+    "english": "shame",
+    "spanish": "vergüenza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 430,
+    "japanese": "怒り",
+    "romaji": "ikari",
+    "english": "anger",
+    "spanish": "ira",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 431,
+    "japanese": "顧客",
+    "romaji": "kokyaku",
+    "english": "customer",
+    "spanish": "cliente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 432,
+    "japanese": "供給者",
+    "romaji": "kyōkyūsha",
+    "english": "supplier",
+    "spanish": "proveedor",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 433,
+    "japanese": "ブランド",
+    "romaji": "burando",
+    "english": "brand",
+    "spanish": "marca",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 434,
+    "japanese": "マーケティング",
+    "romaji": "māketingu",
+    "english": "marketing",
+    "spanish": "marketing",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 435,
+    "japanese": "請求書",
+    "romaji": "seikyūsho",
+    "english": "invoice",
+    "spanish": "factura",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 436,
+    "japanese": "倉庫",
+    "romaji": "sōko",
+    "english": "warehouse",
+    "spanish": "almacén",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 437,
+    "japanese": "小売",
+    "romaji": "kouri",
+    "english": "retail",
+    "spanish": "comercio minorista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 438,
+    "japanese": "株主",
+    "romaji": "kabunushi",
+    "english": "shareholder",
+    "spanish": "accionista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 439,
+    "japanese": "憲法",
+    "romaji": "kenpō",
+    "english": "constitution",
+    "spanish": "constitución",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 440,
+    "japanese": "議会",
+    "romaji": "gikai",
+    "english": "parliament",
+    "spanish": "parlamento",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 441,
+    "japanese": "大臣",
+    "romaji": "daijin",
+    "english": "minister",
+    "spanish": "ministro",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 442,
+    "japanese": "裁判所",
+    "romaji": "saibansho",
+    "english": "court",
+    "spanish": "tribunal",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 443,
+    "japanese": "裁判官",
+    "romaji": "saibankan",
+    "english": "judge",
+    "spanish": "juez",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 444,
+    "japanese": "判決",
+    "romaji": "hanketsu",
+    "english": "sentence",
+    "spanish": "sentencia",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 445,
+    "japanese": "分子",
+    "romaji": "bunshi",
+    "english": "molecule",
+    "spanish": "molécula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 446,
+    "japanese": "原子",
+    "romaji": "genshi",
+    "english": "atom",
+    "spanish": "átomo",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 447,
+    "japanese": "重力",
+    "romaji": "jūryoku",
+    "english": "gravity",
+    "spanish": "gravedad",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 448,
+    "japanese": "細胞",
+    "romaji": "saibō",
+    "english": "cell",
+    "spanish": "célula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 449,
+    "japanese": "実験室",
+    "romaji": "jikkenshitsu",
+    "english": "laboratory",
+    "spanish": "laboratorio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 450,
+    "japanese": "顕微鏡",
+    "romaji": "kenbikyō",
+    "english": "microscope",
+    "spanish": "microscopio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 451,
+    "japanese": "合成",
+    "romaji": "gōsei",
+    "english": "synthesis",
+    "spanish": "síntesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "japanese": "方法論",
+    "romaji": "hōhōron",
+    "english": "methodology",
+    "spanish": "metodología",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "japanese": "相関",
+    "romaji": "sōkan",
+    "english": "correlation",
+    "spanish": "correlación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "japanese": "変数",
+    "romaji": "hensū",
+    "english": "variable",
+    "spanish": "variable",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "japanese": "経験的",
+    "romaji": "keikenteki",
+    "english": "empirical",
+    "spanish": "empírico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "japanese": "定量的",
+    "romaji": "teiryōteki",
+    "english": "quantitative",
+    "spanish": "cuantitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "japanese": "定性的",
+    "romaji": "teiseiteki",
+    "english": "qualitative",
+    "spanish": "cualitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "japanese": "階層",
+    "romaji": "kaisō",
+    "english": "hierarchy",
+    "spanish": "jerarquía",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 459,
+    "japanese": "談話",
+    "romaji": "danwa",
+    "english": "discourse",
+    "spanish": "discurso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 460,
+    "japanese": "修辞",
+    "romaji": "shūji",
+    "english": "rhetoric",
+    "spanish": "retórica",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "japanese": "立法",
+    "romaji": "rippō",
+    "english": "legislation",
+    "spanish": "legislación",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "japanese": "評決",
+    "romaji": "hyōketsu",
+    "english": "verdict",
+    "spanish": "veredicto",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "japanese": "原告",
+    "romaji": "genkoku",
+    "english": "plaintiff",
+    "spanish": "demandante",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "japanese": "被告",
+    "romaji": "hikoku",
+    "english": "defendant",
+    "spanish": "demandado",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 465,
+    "japanese": "規制",
+    "romaji": "kisei",
+    "english": "regulation",
+    "spanish": "reglamento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 466,
+    "japanese": "遵守",
+    "romaji": "junshu",
+    "english": "compliance",
+    "spanish": "cumplimiento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "japanese": "責任",
+    "romaji": "sekinin",
+    "english": "liability",
+    "spanish": "responsabilidad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "japanese": "診断",
+    "romaji": "shindan",
+    "english": "diagnosis",
+    "spanish": "diagnóstico",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "japanese": "療法",
+    "romaji": "ryōhō",
+    "english": "therapy",
+    "spanish": "terapia",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 470,
+    "japanese": "ワクチン",
+    "romaji": "wakuchin",
+    "english": "vaccine",
+    "spanish": "vacuna",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 471,
+    "japanese": "慢性",
+    "romaji": "mansei",
+    "english": "chronic",
+    "spanish": "crónico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "japanese": "感染",
+    "romaji": "kansen",
+    "english": "infection",
+    "spanish": "infección",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "japanese": "免疫",
+    "romaji": "men'eki",
+    "english": "immune",
+    "spanish": "inmune",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 474,
+    "japanese": "外科医",
+    "romaji": "gekai",
+    "english": "surgeon",
+    "spanish": "cirujano",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "japanese": "立証する",
+    "romaji": "risshō suru",
+    "english": "to substantiate",
+    "spanish": "fundamentar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "japanese": "区別する",
+    "romaji": "kubetsu suru",
+    "english": "to delineate",
+    "spanish": "delimitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 477,
+    "japanese": "推定する",
+    "romaji": "suitei suru",
+    "english": "to extrapolate",
+    "spanish": "extrapolar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 478,
+    "japanese": "和解する",
+    "romaji": "wakai suru",
+    "english": "to reconcile",
+    "spanish": "reconciliar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 479,
+    "japanese": "精査する",
+    "romaji": "seisa suru",
+    "english": "to scrutinize",
+    "spanish": "escudriñar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 480,
+    "japanese": "合理化する",
+    "romaji": "gōrika suru",
+    "english": "to streamline",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 481,
+    "japanese": "シャツ",
+    "romaji": "shatsu",
+    "english": "shirt",
+    "spanish": "camisa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "japanese": "ズボン",
+    "romaji": "zubon",
+    "english": "trousers",
+    "spanish": "pantalones",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "japanese": "ドレス",
+    "romaji": "doresu",
+    "english": "dress",
+    "spanish": "vestido",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 484,
+    "japanese": "スカート",
+    "romaji": "sukāto",
+    "english": "skirt",
+    "spanish": "falda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 485,
+    "japanese": "帽子",
+    "romaji": "bōshi",
+    "english": "hat",
+    "spanish": "sombrero",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "japanese": "マフラー",
+    "romaji": "mafurā",
+    "english": "scarf",
+    "spanish": "bufanda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "japanese": "手袋",
+    "romaji": "tebukuro",
+    "english": "gloves",
+    "spanish": "guantes",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "japanese": "靴下",
+    "romaji": "kutsushita",
+    "english": "socks",
+    "spanish": "calcetines",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "japanese": "ジャケット",
+    "romaji": "jaketto",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "japanese": "ブーツ",
+    "romaji": "būtsu",
+    "english": "boot",
+    "spanish": "bota",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 491,
+    "japanese": "ジュース",
+    "romaji": "jūsu",
+    "english": "juice",
+    "spanish": "zumo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "japanese": "ワイン",
+    "romaji": "wain",
+    "english": "wine",
+    "spanish": "vino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "japanese": "ビール",
+    "romaji": "bīru",
+    "english": "beer",
+    "spanish": "cerveza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "japanese": "ケーキ",
+    "romaji": "kēki",
+    "english": "cake",
+    "spanish": "pastel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "japanese": "チョコレート",
+    "romaji": "chokorēto",
+    "english": "chocolate",
+    "spanish": "chocolate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "japanese": "アイスクリーム",
+    "romaji": "aisukurīmu",
+    "english": "ice cream",
+    "spanish": "helado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "japanese": "米",
+    "romaji": "kome",
+    "english": "rice",
+    "spanish": "arroz",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "japanese": "バナナ",
+    "romaji": "banana",
+    "english": "banana",
+    "spanish": "plátano",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "japanese": "オレンジ",
+    "romaji": "orenji",
+    "english": "orange",
+    "spanish": "naranja",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "japanese": "蜂蜜",
+    "romaji": "hachimitsu",
+    "english": "honey",
+    "spanish": "miel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "japanese": "遊ぶ",
+    "romaji": "asobu",
+    "english": "to play",
+    "spanish": "jugar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "japanese": "売る",
+    "romaji": "uru",
+    "english": "to sell",
+    "spanish": "vender",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "japanese": "愛する",
+    "romaji": "aisuru",
+    "english": "to love",
+    "spanish": "amar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "japanese": "踊る",
+    "romaji": "odoru",
+    "english": "to dance",
+    "spanish": "bailar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "japanese": "跳ぶ",
+    "romaji": "tobu",
+    "english": "to jump",
+    "spanish": "saltar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "japanese": "勝つ",
+    "romaji": "katsu",
+    "english": "to win",
+    "spanish": "ganar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "japanese": "硬い",
+    "romaji": "katai",
+    "english": "hard",
+    "spanish": "duro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "japanese": "柔らかい",
+    "romaji": "yawarakai",
+    "english": "soft",
+    "spanish": "blando",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "japanese": "重い",
+    "romaji": "omoi",
+    "english": "heavy",
+    "spanish": "pesado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "japanese": "軽い",
+    "romaji": "karui",
+    "english": "light",
+    "spanish": "ligero",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "japanese": "数学",
+    "romaji": "sūgaku",
+    "english": "mathematics",
+    "spanish": "matemáticas",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 512,
+    "japanese": "歴史",
+    "romaji": "rekishi",
+    "english": "history",
+    "spanish": "historia",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 513,
+    "japanese": "地理",
+    "romaji": "chiri",
+    "english": "geography",
+    "spanish": "geografía",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 514,
+    "japanese": "生物学",
+    "romaji": "seibutsugaku",
+    "english": "biology",
+    "spanish": "biología",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 515,
+    "japanese": "化学",
+    "romaji": "kagaku",
+    "english": "chemistry",
+    "spanish": "química",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 516,
+    "japanese": "物理",
+    "romaji": "butsuri",
+    "english": "physics",
+    "spanish": "física",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 517,
+    "japanese": "文学",
+    "romaji": "bungaku",
+    "english": "literature",
+    "spanish": "literatura",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 518,
+    "japanese": "芸術",
+    "romaji": "geijutsu",
+    "english": "art",
+    "spanish": "arte",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 519,
+    "japanese": "背中",
+    "romaji": "senaka",
+    "english": "back",
+    "spanish": "espalda",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 520,
+    "japanese": "肩",
+    "romaji": "kata",
+    "english": "shoulder",
+    "spanish": "hombro",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 521,
+    "japanese": "膝",
+    "romaji": "hiza",
+    "english": "knee",
+    "spanish": "rodilla",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 522,
+    "japanese": "指",
+    "romaji": "yubi",
+    "english": "finger",
+    "spanish": "dedo",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 523,
+    "japanese": "歯",
+    "romaji": "ha",
+    "english": "tooth",
+    "spanish": "diente",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 524,
+    "japanese": "胃",
+    "romaji": "i",
+    "english": "stomach",
+    "spanish": "estómago",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 525,
+    "japanese": "心",
+    "romaji": "kokoro",
+    "english": "heart",
+    "spanish": "corazón",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 526,
+    "japanese": "血",
+    "romaji": "chi",
+    "english": "blood",
+    "spanish": "sangre",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 527,
+    "japanese": "嵐",
+    "romaji": "arashi",
+    "english": "storm",
+    "spanish": "tormenta",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 528,
+    "japanese": "雷",
+    "romaji": "kaminari",
+    "english": "thunder",
+    "spanish": "trueno",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 529,
+    "japanese": "稲妻",
+    "romaji": "inazuma",
+    "english": "lightning",
+    "spanish": "rayo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 530,
+    "japanese": "虹",
+    "romaji": "niji",
+    "english": "rainbow",
+    "spanish": "arcoíris",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 531,
+    "japanese": "霧",
+    "romaji": "kiri",
+    "english": "fog",
+    "spanish": "niebla",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 532,
+    "japanese": "暑さ",
+    "romaji": "atsusa",
+    "english": "heat",
+    "spanish": "calor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 533,
+    "japanese": "影",
+    "romaji": "kage",
+    "english": "shadow",
+    "spanish": "sombra",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 534,
+    "japanese": "谷",
+    "romaji": "tani",
+    "english": "valley",
+    "spanish": "valle",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 535,
+    "japanese": "地下鉄",
+    "romaji": "chikatetsu",
+    "english": "metro",
+    "spanish": "metro",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 536,
+    "japanese": "信号機",
+    "romaji": "shingōki",
+    "english": "traffic light",
+    "spanish": "semáforo",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 537,
+    "japanese": "駐車場",
+    "romaji": "chūshajō",
+    "english": "parking",
+    "spanish": "aparcamiento",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 538,
+    "japanese": "角",
+    "romaji": "kado",
+    "english": "corner",
+    "spanish": "esquina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 539,
+    "japanese": "横断歩道",
+    "romaji": "ōdanhodō",
+    "english": "crossing",
+    "spanish": "paso de peatones",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 540,
+    "japanese": "歩道",
+    "romaji": "hodō",
+    "english": "pavement",
+    "spanish": "acera",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 541,
+    "japanese": "小説",
+    "romaji": "shōsetsu",
+    "english": "novel",
+    "spanish": "novela",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 542,
+    "japanese": "詩",
+    "romaji": "shi",
+    "english": "poem",
+    "spanish": "poema",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 543,
+    "japanese": "絵",
+    "romaji": "e",
+    "english": "painting",
+    "spanish": "cuadro",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 544,
+    "japanese": "彫刻",
+    "romaji": "chōkoku",
+    "english": "sculpture",
+    "spanish": "escultura",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 545,
+    "japanese": "コンサート",
+    "romaji": "konsāto",
+    "english": "concert",
+    "spanish": "concierto",
+    "category": "music",
+    "level": "B1"
+  },
+  {
+    "id": 546,
+    "japanese": "展覧会",
+    "romaji": "tenrankai",
+    "english": "exhibition",
+    "spanish": "exposición",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 547,
+    "japanese": "観客",
+    "romaji": "kankyaku",
+    "english": "audience",
+    "spanish": "público",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 548,
+    "japanese": "舞台",
+    "romaji": "butai",
+    "english": "stage",
+    "spanish": "escenario",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 549,
+    "japanese": "俳優",
+    "romaji": "haiyū",
+    "english": "actor",
+    "spanish": "actor",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 550,
+    "japanese": "監督",
+    "romaji": "kantoku",
+    "english": "director",
+    "spanish": "director",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 551,
+    "japanese": "パスワード",
+    "romaji": "pasuwādo",
+    "english": "password",
+    "spanish": "contraseña",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 552,
+    "japanese": "ダウンロード",
+    "romaji": "daunrōdo",
+    "english": "download",
+    "spanish": "descarga",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 553,
+    "japanese": "アップロード",
+    "romaji": "appurōdo",
+    "english": "upload",
+    "spanish": "subida",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 554,
+    "japanese": "ウェブサイト",
+    "romaji": "webusaito",
+    "english": "website",
+    "spanish": "sitio web",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 555,
+    "japanese": "メール",
+    "romaji": "mēru",
+    "english": "email",
+    "spanish": "correo electrónico",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 556,
+    "japanese": "メッセージ",
+    "romaji": "messēji",
+    "english": "message",
+    "spanish": "mensaje",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 557,
+    "japanese": "画面",
+    "romaji": "gamen",
+    "english": "screen",
+    "spanish": "pantalla",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 558,
+    "japanese": "キーボード",
+    "romaji": "kībōdo",
+    "english": "keyboard",
+    "spanish": "teclado",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 559,
+    "japanese": "ローン",
+    "romaji": "rōn",
+    "english": "loan",
+    "spanish": "préstamo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 560,
+    "japanese": "貯金",
+    "romaji": "chokin",
+    "english": "savings",
+    "spanish": "ahorros",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 561,
+    "japanese": "財布",
+    "romaji": "saifu",
+    "english": "wallet",
+    "spanish": "cartera",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 562,
+    "japanese": "領収書",
+    "romaji": "ryōshūsho",
+    "english": "receipt",
+    "spanish": "recibo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 563,
+    "japanese": "お釣り",
+    "romaji": "otsuri",
+    "english": "change",
+    "spanish": "cambio (dinero)",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 564,
+    "japanese": "硬貨",
+    "romaji": "kōka",
+    "english": "coin",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 565,
+    "japanese": "安心",
+    "romaji": "anshin",
+    "english": "relief",
+    "spanish": "alivio",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 566,
+    "japanese": "感謝",
+    "romaji": "kansha",
+    "english": "gratitude",
+    "spanish": "gratitud",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 567,
+    "japanese": "羨望",
+    "romaji": "senbō",
+    "english": "envy",
+    "spanish": "envidia",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 568,
+    "japanese": "罪悪感",
+    "romaji": "zaiakukan",
+    "english": "guilt",
+    "spanish": "culpa",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 569,
+    "japanese": "好奇心",
+    "romaji": "kōkishin",
+    "english": "curiosity",
+    "spanish": "curiosidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 570,
+    "japanese": "熱意",
+    "romaji": "netsui",
+    "english": "enthusiasm",
+    "spanish": "entusiasmo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 571,
+    "japanese": "倫理",
+    "romaji": "rinri",
+    "english": "ethics",
+    "spanish": "ética",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 572,
+    "japanese": "道徳",
+    "romaji": "dōtoku",
+    "english": "morality",
+    "spanish": "moralidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 573,
+    "japanese": "アイデンティティ",
+    "romaji": "aidentiti",
+    "english": "identity",
+    "spanish": "identidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 574,
+    "japanese": "意識",
+    "romaji": "ishiki",
+    "english": "consciousness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 575,
+    "japanese": "存在",
+    "romaji": "sonzai",
+    "english": "existence",
+    "spanish": "existencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 576,
+    "japanese": "真実",
+    "romaji": "shinjitsu",
+    "english": "truth",
+    "spanish": "verdad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 577,
+    "japanese": "美徳",
+    "romaji": "bitoku",
+    "english": "virtue",
+    "spanish": "virtud",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 578,
+    "japanese": "パラドックス",
+    "romaji": "paradokkusu",
+    "english": "paradox",
+    "spanish": "paradoja",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 579,
+    "japanese": "ジレンマ",
+    "romaji": "jirenma",
+    "english": "dilemma",
+    "spanish": "dilema",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 580,
+    "japanese": "懐疑主義",
+    "romaji": "kaigishugi",
+    "english": "scepticism",
+    "spanish": "escepticismo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 581,
+    "japanese": "合併",
+    "romaji": "gappei",
+    "english": "merger",
+    "spanish": "fusión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 582,
+    "japanese": "倒産",
+    "romaji": "tōsan",
+    "english": "bankruptcy",
+    "spanish": "quiebra",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 583,
+    "japanese": "独占",
+    "romaji": "dokusen",
+    "english": "monopoly",
+    "spanish": "monopolio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 584,
+    "japanese": "補助金",
+    "romaji": "hojokin",
+    "english": "subsidy",
+    "spanish": "subvención",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 585,
+    "japanese": "関税",
+    "romaji": "kanzei",
+    "english": "tariff",
+    "spanish": "arancel",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 586,
+    "japanese": "割当",
+    "romaji": "wariate",
+    "english": "quota",
+    "spanish": "cupo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 587,
+    "japanese": "起業家",
+    "romaji": "kigyōka",
+    "english": "entrepreneur",
+    "spanish": "empresario",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 588,
+    "japanese": "排出",
+    "romaji": "haishutsu",
+    "english": "emission",
+    "spanish": "emisión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 589,
+    "japanese": "炭素",
+    "romaji": "tanso",
+    "english": "carbon",
+    "spanish": "carbono",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 590,
+    "japanese": "生物多様性",
+    "romaji": "seibutsu tayōsei",
+    "english": "biodiversity",
+    "spanish": "biodiversidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 591,
+    "japanese": "森林破壊",
+    "romaji": "shinrin hakai",
+    "english": "deforestation",
+    "spanish": "deforestación",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 592,
+    "japanese": "生態系",
+    "romaji": "seitaikei",
+    "english": "ecosystem",
+    "spanish": "ecosistema",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "japanese": "生息地",
+    "romaji": "seisokuchi",
+    "english": "habitat",
+    "spanish": "hábitat",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 594,
+    "japanese": "侵食",
+    "romaji": "shinshoku",
+    "english": "erosion",
+    "spanish": "erosión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 595,
+    "japanese": "明確にする",
+    "romaji": "meikaku ni suru",
+    "english": "to articulate",
+    "spanish": "articular",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 596,
+    "japanese": "回避する",
+    "romaji": "kaihi suru",
+    "english": "to circumvent",
+    "spanish": "eludir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 597,
+    "japanese": "統合する",
+    "romaji": "tōgō suru",
+    "english": "to consolidate",
+    "spanish": "consolidar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 598,
+    "japanese": "悪化する",
+    "romaji": "akka suru",
+    "english": "to deteriorate",
+    "spanish": "deteriorarse",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 599,
+    "japanese": "悪化させる",
+    "romaji": "akka saseru",
+    "english": "to exacerbate",
+    "spanish": "agravar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 600,
+    "japanese": "妨げる",
+    "romaji": "samatageru",
+    "english": "to hinder",
+    "spanish": "obstaculizar",
+    "category": "verbs",
+    "level": "B2"
+  }
+]

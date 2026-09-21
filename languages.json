@@ -157,5 +157,20 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "flag": "JP",
+    "speech": "ja-JP",
+    "termLabel": "Japanese",
+    "termField": "japanese",
+    "script": "japanese",
+    "romaji": true,
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

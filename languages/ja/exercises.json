@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ は学生です。",
+        "answer": "私",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ は先生です。",
+        "answer": "あなた",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "___ は医者です。",
+        "answer": "彼",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "___ は友達です。",
+        "answer": "私たち",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the copula です into each gap.",
+    "items": [
+      {
+        "sentence": "私は学生___ 。",
+        "answer": "です",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "これは本___ 。",
+        "answer": "です",
+        "translation_en": "This is a book.",
+        "translation_es": "Esto es un libro."
+      },
+      {
+        "sentence": "彼は先生___ 。",
+        "answer": "です",
+        "translation_en": "He is a teacher.",
+        "translation_es": "Él es profesor."
+      },
+      {
+        "sentence": "あれは車___ 。",
+        "answer": "です",
+        "translation_en": "That is a car.",
+        "translation_es": "Ese es un coche."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the negative form into each gap.",
+    "items": [
+      {
+        "sentence": "私は学生___ 。",
+        "answer": "じゃないです",
+        "translation_en": "I am not a student.",
+        "translation_es": "No soy estudiante."
+      },
+      {
+        "sentence": "これは本___ 。",
+        "answer": "じゃないです",
+        "translation_en": "This is not a book.",
+        "translation_es": "Esto no es un libro."
+      },
+      {
+        "sentence": "彼は先生___ 。",
+        "answer": "じゃないです",
+        "translation_en": "He is not a teacher.",
+        "translation_es": "Él no es profesor."
+      },
+      {
+        "sentence": "あれは車___ 。",
+        "answer": "じゃないです",
+        "translation_en": "That is not a car.",
+        "translation_es": "Ese no es un coche."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag これ, それ or あれ into each gap.",
+    "items": [
+      {
+        "sentence": "___ は本です。",
+        "answer": "これ",
+        "translation_en": "This is a book.",
+        "translation_es": "Esto es un libro."
+      },
+      {
+        "sentence": "___ は車です。",
+        "answer": "それ",
+        "translation_en": "That is a car.",
+        "translation_es": "Ese es un coche."
+      },
+      {
+        "sentence": "___ は家です。",
+        "answer": "あれ",
+        "translation_en": "That over there is a house.",
+        "translation_es": "Aquella es una casa."
+      },
+      {
+        "sentence": "___ は何ですか。",
+        "answer": "これ",
+        "translation_en": "What is this?",
+        "translation_es": "¿Qué es esto?"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the topic particle は into each gap.",
+    "items": [
+      {
+        "sentence": "私___ 学生です。",
+        "answer": "は",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "これ___ 本です。",
+        "answer": "は",
+        "translation_en": "This is a book.",
+        "translation_es": "Esto es un libro."
+      },
+      {
+        "sentence": "彼___ 先生です。",
+        "answer": "は",
+        "translation_en": "He is a teacher.",
+        "translation_es": "Él es profesor."
+      },
+      {
+        "sentence": "今日___ 月曜日です。",
+        "answer": "は",
+        "translation_en": "Today is Monday.",
+        "translation_es": "Hoy es lunes."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the object particle を into each gap.",
+    "items": [
+      {
+        "sentence": "本___ 読みます。",
+        "answer": "を",
+        "translation_en": "I read a book.",
+        "translation_es": "Leo un libro."
+      },
+      {
+        "sentence": "水___ 飲みます。",
+        "answer": "を",
+        "translation_en": "I drink water.",
+        "translation_es": "Bebo agua."
+      },
+      {
+        "sentence": "音楽___ 聞きます。",
+        "answer": "を",
+        "translation_en": "I listen to music.",
+        "translation_es": "Escucho música."
+      },
+      {
+        "sentence": "パン___ 食べます。",
+        "answer": "を",
+        "translation_en": "I eat bread.",
+        "translation_es": "Como pan."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the particle に into each gap.",
+    "items": [
+      {
+        "sentence": "学校___ 行きます。",
+        "answer": "に",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "七時___ 起きます。",
+        "answer": "に",
+        "translation_en": "I get up at seven.",
+        "translation_es": "Me levanto a las siete."
+      },
+      {
+        "sentence": "日本___ 行きます。",
+        "answer": "に",
+        "translation_en": "I am going to Japan.",
+        "translation_es": "Voy a Japón."
+      },
+      {
+        "sentence": "家___ 帰ります。",
+        "answer": "に",
+        "translation_en": "I return home.",
+        "translation_es": "Vuelvo a casa."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the particle で into each gap.",
+    "items": [
+      {
+        "sentence": "図書館___ 勉強します。",
+        "answer": "で",
+        "translation_en": "I study at the library.",
+        "translation_es": "Estudio en la biblioteca."
+      },
+      {
+        "sentence": "バス___ 行きます。",
+        "answer": "で",
+        "translation_en": "I go by bus.",
+        "translation_es": "Voy en autobús."
+      },
+      {
+        "sentence": "家___ 食べます。",
+        "answer": "で",
+        "translation_en": "I eat at home.",
+        "translation_es": "Como en casa."
+      },
+      {
+        "sentence": "ペン___ 書きます。",
+        "answer": "で",
+        "translation_en": "I write with a pen.",
+        "translation_es": "Escribo con un bolígrafo."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the particle と into each gap.",
+    "items": [
+      {
+        "sentence": "友達___ 行きます。",
+        "answer": "と",
+        "translation_en": "I go with a friend.",
+        "translation_es": "Voy con un amigo."
+      },
+      {
+        "sentence": "母___ 話します。",
+        "answer": "と",
+        "translation_en": "I talk with my mother.",
+        "translation_es": "Hablo con mi madre."
+      },
+      {
+        "sentence": "パン___ 牛乳を買います。",
+        "answer": "と",
+        "translation_en": "I buy bread and milk.",
+        "translation_es": "Compro pan y leche."
+      },
+      {
+        "sentence": "彼___ 会います。",
+        "answer": "と",
+        "translation_en": "I meet with him.",
+        "translation_es": "Me reúno con él."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the particle も into each gap.",
+    "items": [
+      {
+        "sentence": "私___ 学生です。",
+        "answer": "も",
+        "translation_en": "I am a student too.",
+        "translation_es": "Yo también soy estudiante."
+      },
+      {
+        "sentence": "これ___ 本です。",
+        "answer": "も",
+        "translation_en": "This is a book too.",
+        "translation_es": "Esto también es un libro."
+      },
+      {
+        "sentence": "彼___ 先生です。",
+        "answer": "も",
+        "translation_en": "He is a teacher too.",
+        "translation_es": "Él también es profesor."
+      },
+      {
+        "sentence": "今日___ 寒いです。",
+        "answer": "も",
+        "translation_en": "Today is cold too.",
+        "translation_es": "Hoy también hace frío."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the possessive particle の into each gap.",
+    "items": [
+      {
+        "sentence": "私___ 本",
+        "answer": "の",
+        "translation_en": "my book",
+        "translation_es": "mi libro"
+      },
+      {
+        "sentence": "日本___ 車",
+        "answer": "の",
+        "translation_en": "a Japanese car",
+        "translation_es": "un coche japonés"
+      },
+      {
+        "sentence": "母___ 名前",
+        "answer": "の",
+        "translation_en": "my mother's name",
+        "translation_es": "el nombre de mi madre"
+      },
+      {
+        "sentence": "学校___ 先生",
+        "answer": "の",
+        "translation_en": "the school's teacher",
+        "translation_es": "el profesor de la escuela"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "___ 冊の本",
+        "answer": "二",
+        "translation_en": "two books",
+        "translation_es": "dos libros"
+      },
+      {
+        "sentence": "___ 人の学生",
+        "answer": "三",
+        "translation_en": "three students",
+        "translation_es": "tres estudiantes"
+      },
+      {
+        "sentence": "___ 歳です。",
+        "answer": "十",
+        "translation_en": "I am ten years old.",
+        "translation_es": "Tengo diez años."
+      },
+      {
+        "sentence": "___ つください。",
+        "answer": "一",
+        "translation_en": "One, please.",
+        "translation_es": "Uno, por favor."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct counter into each gap.",
+    "items": [
+      {
+        "sentence": "本を二___ 読みました。",
+        "answer": "冊",
+        "translation_en": "I read two books.",
+        "translation_es": "Leí dos libros."
+      },
+      {
+        "sentence": "学生が三___ います。",
+        "answer": "人",
+        "translation_en": "There are three students.",
+        "translation_es": "Hay tres estudiantes."
+      },
+      {
+        "sentence": "りんごを五___ 買いました。",
+        "answer": "つ",
+        "translation_en": "I bought five apples.",
+        "translation_es": "Compré cinco manzanas."
+      },
+      {
+        "sentence": "猫が二___ います。",
+        "answer": "匹",
+        "translation_en": "There are two cats.",
+        "translation_es": "Hay dos gatos."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct day of the week into each gap.",
+    "items": [
+      {
+        "sentence": "今日は___ です。",
+        "answer": "月曜日",
+        "translation_en": "Today is Monday.",
+        "translation_es": "Hoy es lunes."
+      },
+      {
+        "sentence": "明日は___ です。",
+        "answer": "火曜日",
+        "translation_en": "Tomorrow is Tuesday.",
+        "translation_es": "Mañana es martes."
+      },
+      {
+        "sentence": "___ は休みです。",
+        "answer": "日曜日",
+        "translation_en": "Sunday is a holiday.",
+        "translation_es": "El domingo es festivo."
+      },
+      {
+        "sentence": "___ に学校へ行きます。",
+        "answer": "金曜日",
+        "translation_en": "On Friday I go to school.",
+        "translation_es": "El viernes voy a la escuela."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the polite present ending into each gap.",
+    "items": [
+      {
+        "sentence": "毎日勉強___ 。",
+        "answer": "します",
+        "translation_en": "I study every day.",
+        "translation_es": "Estudio cada día."
+      },
+      {
+        "sentence": "水を飲___ 。",
+        "answer": "みます",
+        "translation_en": "I drink water.",
+        "translation_es": "Bebo agua."
+      },
+      {
+        "sentence": "本を読___ 。",
+        "answer": "みます",
+        "translation_en": "I read a book.",
+        "translation_es": "Leo un libro."
+      },
+      {
+        "sentence": "音楽を聞___ 。",
+        "answer": "きます",
+        "translation_en": "I listen to music.",
+        "translation_es": "Escucho música."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the polite negative ending into each gap.",
+    "items": [
+      {
+        "sentence": "肉を食べ___ 。",
+        "answer": "ません",
+        "translation_en": "I do not eat meat.",
+        "translation_es": "No como carne."
+      },
+      {
+        "sentence": "酒を飲___ 。",
+        "answer": "みません",
+        "translation_en": "I do not drink alcohol.",
+        "translation_es": "No bebo alcohol."
+      },
+      {
+        "sentence": "本を読___ 。",
+        "answer": "みません",
+        "translation_en": "I do not read books.",
+        "translation_es": "No leo libros."
+      },
+      {
+        "sentence": "音楽を聞___ 。",
+        "answer": "きません",
+        "translation_en": "I do not listen to music.",
+        "translation_es": "No escucho música."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the polite past ending into each gap.",
+    "items": [
+      {
+        "sentence": "昨日、本を読み___ 。",
+        "answer": "ました",
+        "translation_en": "Yesterday I read a book.",
+        "translation_es": "Ayer leí un libro."
+      },
+      {
+        "sentence": "水を飲___ 。",
+        "answer": "みました",
+        "translation_en": "I drank water.",
+        "translation_es": "Bebí agua."
+      },
+      {
+        "sentence": "学校へ行き___ 。",
+        "answer": "ました",
+        "translation_en": "I went to school.",
+        "translation_es": "Fui a la escuela."
+      },
+      {
+        "sentence": "映画を見___ 。",
+        "answer": "ました",
+        "translation_en": "I watched a film.",
+        "translation_es": "Vi una película."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct i-adjective into each gap.",
+    "items": [
+      {
+        "sentence": "この本は___ です。",
+        "answer": "面白い",
+        "translation_en": "This book is interesting.",
+        "translation_es": "Este libro es interesante."
+      },
+      {
+        "sentence": "今日は___ です。",
+        "answer": "暑い",
+        "translation_en": "Today is hot.",
+        "translation_es": "Hoy hace calor."
+      },
+      {
+        "sentence": "この車は___ です。",
+        "answer": "新しい",
+        "translation_en": "This car is new.",
+        "translation_es": "Este coche es nuevo."
+      },
+      {
+        "sentence": "その店は___ です。",
+        "answer": "安い",
+        "translation_en": "That shop is cheap.",
+        "translation_es": "Esa tienda es barata."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct na-adjective into each gap.",
+    "items": [
+      {
+        "sentence": "この町は___ です。",
+        "answer": "静か",
+        "translation_en": "This town is quiet.",
+        "translation_es": "Este pueblo es tranquilo."
+      },
+      {
+        "sentence": "彼は___ です。",
+        "answer": "親切",
+        "translation_en": "He is kind.",
+        "translation_es": "Él es amable."
+      },
+      {
+        "sentence": "それは___ です。",
+        "answer": "大切",
+        "translation_en": "That is important.",
+        "translation_es": "Eso es importante."
+      },
+      {
+        "sentence": "この部屋は___ です。",
+        "answer": "きれい",
+        "translation_en": "This room is clean.",
+        "translation_es": "Esta habitación está limpia."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the question particle か into each gap.",
+    "items": [
+      {
+        "sentence": "あなたは学生です___ 。",
+        "answer": "か",
+        "translation_en": "Are you a student?",
+        "translation_es": "¿Eres estudiante?"
+      },
+      {
+        "sentence": "これは本です___ 。",
+        "answer": "か",
+        "translation_en": "Is this a book?",
+        "translation_es": "¿Es esto un libro?"
+      },
+      {
+        "sentence": "今日は月曜日です___ 。",
+        "answer": "か",
+        "translation_en": "Is today Monday?",
+        "translation_es": "¿Hoy es lunes?"
+      },
+      {
+        "sentence": "元気です___ 。",
+        "answer": "か",
+        "translation_en": "Are you well?",
+        "translation_es": "¿Estás bien?"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the -te form into each gap.",
+    "items": [
+      {
+        "sentence": "朝起き___ 、ご飯を食べます。",
+        "answer": "て",
+        "translation_en": "I get up and eat breakfast.",
+        "translation_es": "Me levanto y desayuno."
+      },
+      {
+        "sentence": "水を飲___ 、寝ました。",
+        "answer": "んで",
+        "translation_en": "I drank water and slept.",
+        "translation_es": "Bebí agua y dormí."
+      },
+      {
+        "sentence": "学校へ行っ___ 、勉強しました。",
+        "answer": "て",
+        "translation_en": "I went to school and studied.",
+        "translation_es": "Fui a la escuela y estudié."
+      },
+      {
+        "sentence": "本を読___ 、寝ました。",
+        "answer": "んで",
+        "translation_en": "I read a book and slept.",
+        "translation_es": "Leí un libro y dormí."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the -te imasu form into each gap.",
+    "items": [
+      {
+        "sentence": "今、本を読___ 。",
+        "answer": "んでいます",
+        "translation_en": "I am reading a book now.",
+        "translation_es": "Estoy leyendo un libro ahora."
+      },
+      {
+        "sentence": "彼は働い___ 。",
+        "answer": "ています",
+        "translation_en": "He is working.",
+        "translation_es": "Él está trabajando."
+      },
+      {
+        "sentence": "今、雨が降っ___ 。",
+        "answer": "ています",
+        "translation_en": "It is raining now.",
+        "translation_es": "Está lloviendo ahora."
+      },
+      {
+        "sentence": "私は東京に住___ 。",
+        "answer": "んでいます",
+        "translation_en": "I live in Tokyo.",
+        "translation_es": "Vivo en Tokio."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the -tai form into each gap.",
+    "items": [
+      {
+        "sentence": "水が飲み___ 。",
+        "answer": "たいです",
+        "translation_en": "I want to drink water.",
+        "translation_es": "Quiero beber agua."
+      },
+      {
+        "sentence": "日本へ行き___ 。",
+        "answer": "たいです",
+        "translation_en": "I want to go to Japan.",
+        "translation_es": "Quiero ir a Japón."
+      },
+      {
+        "sentence": "本を読み___ 。",
+        "answer": "たいです",
+        "translation_en": "I want to read a book.",
+        "translation_es": "Quiero leer un libro."
+      },
+      {
+        "sentence": "寿司を食べ___ 。",
+        "answer": "たいです",
+        "translation_en": "I want to eat sushi.",
+        "translation_es": "Quiero comer sushi."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag に into each gap for purpose.",
+    "items": [
+      {
+        "sentence": "本を買い___ 行きます。",
+        "answer": "に",
+        "translation_en": "I am going to buy a book.",
+        "translation_es": "Voy a comprar un libro."
+      },
+      {
+        "sentence": "友達に会い___ 行きます。",
+        "answer": "に",
+        "translation_en": "I am going to meet a friend.",
+        "translation_es": "Voy a ver a un amigo."
+      },
+      {
+        "sentence": "昼ご飯を食べ___ 行きます。",
+        "answer": "に",
+        "translation_en": "I am going to eat lunch.",
+        "translation_es": "Voy a comer."
+      },
+      {
+        "sentence": "映画を見___ 行きます。",
+        "answer": "に",
+        "translation_en": "I am going to watch a film.",
+        "translation_es": "Voy a ver una película."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the potential form into each gap.",
+    "items": [
+      {
+        "sentence": "私は日本語が話___ 。",
+        "answer": "せます",
+        "translation_en": "I can speak Japanese.",
+        "translation_es": "Puedo hablar japonés."
+      },
+      {
+        "sentence": "水が飲___ 。",
+        "answer": "めます",
+        "translation_en": "I can drink water.",
+        "translation_es": "Puedo beber agua."
+      },
+      {
+        "sentence": "本が読___ 。",
+        "answer": "めます",
+        "translation_en": "I can read books.",
+        "translation_es": "Puedo leer libros."
+      },
+      {
+        "sentence": "漢字が書___ 。",
+        "answer": "けます",
+        "translation_en": "I can write kanji.",
+        "translation_es": "Puedo escribir kanji."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag こと into each gap.",
+    "items": [
+      {
+        "sentence": "私は日本語を話す___ ができます。",
+        "answer": "こと",
+        "translation_en": "I can speak Japanese.",
+        "translation_es": "Puedo hablar japonés."
+      },
+      {
+        "sentence": "ここで食べる___ ができます。",
+        "answer": "こと",
+        "translation_en": "You can eat here.",
+        "translation_es": "Se puede comer aquí."
+      },
+      {
+        "sentence": "車を運転する___ ができます。",
+        "answer": "こと",
+        "translation_en": "I can drive a car.",
+        "translation_es": "Puedo conducir un coche."
+      },
+      {
+        "sentence": "泳ぐ___ ができます。",
+        "answer": "こと",
+        "translation_en": "I can swim.",
+        "translation_es": "Puedo nadar."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the past form into each gap for experience.",
+    "items": [
+      {
+        "sentence": "私は日本へ___ ことがあります。",
+        "answer": "行った",
+        "translation_en": "I have been to Japan.",
+        "translation_es": "He estado en Japón."
+      },
+      {
+        "sentence": "寿司を___ ことがあります。",
+        "answer": "食べた",
+        "translation_en": "I have eaten sushi.",
+        "translation_es": "He comido sushi."
+      },
+      {
+        "sentence": "その映画を___ ことがあります。",
+        "answer": "見た",
+        "translation_en": "I have seen that film.",
+        "translation_es": "He visto esa película."
+      },
+      {
+        "sentence": "富士山に___ ことがあります。",
+        "answer": "登った",
+        "translation_en": "I have climbed Mount Fuji.",
+        "translation_es": "He subido al monte Fuji."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the -mashou form into each gap.",
+    "items": [
+      {
+        "sentence": "一緒に___ 。",
+        "answer": "行きましょう",
+        "translation_en": "Let's go together.",
+        "translation_es": "Vamos juntos."
+      },
+      {
+        "sentence": "昼ご飯を___ 。",
+        "answer": "食べましょう",
+        "translation_en": "Let's eat lunch.",
+        "translation_es": "Comamos."
+      },
+      {
+        "sentence": "本を___ 。",
+        "answer": "読みましょう",
+        "translation_en": "Let's read a book.",
+        "translation_es": "Leamos un libro."
+      },
+      {
+        "sentence": "少し___ 。",
+        "answer": "休みましょう",
+        "translation_en": "Let's rest a little.",
+        "translation_es": "Descansemos un poco."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the -kudasai form into each gap.",
+    "items": [
+      {
+        "sentence": "本を読ん___ 。",
+        "answer": "でください",
+        "translation_en": "Please read the book.",
+        "translation_es": "Por favor, lee el libro."
+      },
+      {
+        "sentence": "水を飲ん___ 。",
+        "answer": "でください",
+        "translation_en": "Please drink water.",
+        "translation_es": "Por favor, bebe agua."
+      },
+      {
+        "sentence": "ゆっくり話し___ 。",
+        "answer": "てください",
+        "translation_en": "Please speak slowly.",
+        "translation_es": "Por favor, habla despacio."
+      },
+      {
+        "sentence": "ここに来___ 。",
+        "answer": "てください",
+        "translation_en": "Please come here.",
+        "translation_es": "Por favor, ven aquí."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the permission form into each gap.",
+    "items": [
+      {
+        "sentence": "ここに座っ___ ですか。",
+        "answer": "てもいい",
+        "translation_en": "May I sit here?",
+        "translation_es": "¿Puedo sentarme aquí?"
+      },
+      {
+        "sentence": "写真を撮っ___ ですか。",
+        "answer": "てもいい",
+        "translation_en": "May I take a photo?",
+        "translation_es": "¿Puedo hacer una foto?"
+      },
+      {
+        "sentence": "早く帰っ___ ですか。",
+        "answer": "てもいい",
+        "translation_en": "May I go home early?",
+        "translation_es": "¿Puedo irme temprano?"
+      },
+      {
+        "sentence": "これを使っ___ ですか。",
+        "answer": "てもいい",
+        "translation_en": "May I use this?",
+        "translation_es": "¿Puedo usar esto?"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the prohibition form into each gap.",
+    "items": [
+      {
+        "sentence": "ここで写真を撮っ___ 。",
+        "answer": "てはいけません",
+        "translation_en": "You must not take photos here.",
+        "translation_es": "No se pueden hacer fotos aquí."
+      },
+      {
+        "sentence": "ここでタバコを吸っ___ 。",
+        "answer": "てはいけません",
+        "translation_en": "You must not smoke here.",
+        "translation_es": "No se puede fumar aquí."
+      },
+      {
+        "sentence": "ここに入っ___ 。",
+        "answer": "てはいけません",
+        "translation_en": "You must not enter here.",
+        "translation_es": "No se puede entrar aquí."
+      },
+      {
+        "sentence": "それを触っ___ 。",
+        "answer": "てはいけません",
+        "translation_en": "You must not touch that.",
+        "translation_es": "No se puede tocar eso."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the obligation form into each gap.",
+    "items": [
+      {
+        "sentence": "勉強し___ 。",
+        "answer": "なければなりません",
+        "translation_en": "I must study.",
+        "translation_es": "Debo estudiar."
+      },
+      {
+        "sentence": "早く起き___ 。",
+        "answer": "なければなりません",
+        "translation_en": "I must get up early.",
+        "translation_es": "Debo levantarme temprano."
+      },
+      {
+        "sentence": "薬を飲ま___ 。",
+        "answer": "なければなりません",
+        "translation_en": "I must take medicine.",
+        "translation_es": "Debo tomar medicina."
+      },
+      {
+        "sentence": "行か___ 。",
+        "answer": "なければなりません",
+        "translation_en": "I must go.",
+        "translation_es": "Debo ir."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag より into each gap.",
+    "items": [
+      {
+        "sentence": "この本はあの本___ 面白いです。",
+        "answer": "より",
+        "translation_en": "This book is more interesting than that one.",
+        "translation_es": "Este libro es más interesante que aquel."
+      },
+      {
+        "sentence": "車は自転車___ 速いです。",
+        "answer": "より",
+        "translation_en": "A car is faster than a bicycle.",
+        "translation_es": "Un coche es más rápido que una bicicleta."
+      },
+      {
+        "sentence": "彼は私___ 背が高いです。",
+        "answer": "より",
+        "translation_en": "He is taller than me.",
+        "translation_es": "Él es más alto que yo."
+      },
+      {
+        "sentence": "今日は昨日___ 寒いです。",
+        "answer": "より",
+        "translation_en": "Today is colder than yesterday.",
+        "translation_es": "Hoy hace más frío que ayer."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag 一番 into each gap.",
+    "items": [
+      {
+        "sentence": "これが___ 好きです。",
+        "answer": "一番",
+        "translation_en": "I like this the most.",
+        "translation_es": "Este es el que más me gusta."
+      },
+      {
+        "sentence": "富士山は日本で___ 高い山です。",
+        "answer": "一番",
+        "translation_en": "Mount Fuji is the highest mountain in Japan.",
+        "translation_es": "El monte Fuji es la montaña más alta de Japón."
+      },
+      {
+        "sentence": "彼がクラスで___ 賢いです。",
+        "answer": "一番",
+        "translation_en": "He is the cleverest in the class.",
+        "translation_es": "Él es el más listo de la clase."
+      },
+      {
+        "sentence": "これが___ 安いです。",
+        "answer": "一番",
+        "translation_en": "This is the cheapest.",
+        "translation_es": "Este es el más barato."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct counter into each gap.",
+    "items": [
+      {
+        "sentence": "犬が二___ います。",
+        "answer": "匹",
+        "translation_en": "There are two dogs.",
+        "translation_es": "Hay dos perros."
+      },
+      {
+        "sentence": "本を三___ 買いました。",
+        "answer": "冊",
+        "translation_en": "I bought three books.",
+        "translation_es": "Compré tres libros."
+      },
+      {
+        "sentence": "ビールを二___ 飲みました。",
+        "answer": "杯",
+        "translation_en": "I drank two glasses of beer.",
+        "translation_es": "Bebí dos vasos de cerveza."
+      },
+      {
+        "sentence": "車が三___ あります。",
+        "answer": "台",
+        "translation_en": "There are three cars.",
+        "translation_es": "Hay tres coches."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the -tari form into each gap.",
+    "items": [
+      {
+        "sentence": "日曜日は本を読ん___ 、映画を見たりします。",
+        "answer": "だり",
+        "translation_en": "On Sundays I read books and watch films.",
+        "translation_es": "Los domingos leo libros y veo películas."
+      },
+      {
+        "sentence": "週末は買い物し___ 、掃除したりします。",
+        "answer": "たり",
+        "translation_en": "On weekends I shop and clean.",
+        "translation_es": "Los fines de semana compro y limpio."
+      },
+      {
+        "sentence": "朝は走っ___ 、泳いだりします。",
+        "answer": "たり",
+        "translation_en": "In the morning I run and swim.",
+        "translation_es": "Por la mañana corro y nado."
+      },
+      {
+        "sentence": "夜は歌っ___ 、踊ったりします。",
+        "answer": "たり",
+        "translation_en": "At night I sing and dance.",
+        "translation_es": "Por la noche canto y bailo."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag ながら into each gap.",
+    "items": [
+      {
+        "sentence": "音楽を聞き___ 勉強します。",
+        "answer": "ながら",
+        "translation_en": "I study while listening to music.",
+        "translation_es": "Estudio mientras escucho música."
+      },
+      {
+        "sentence": "歩き___ 話します。",
+        "answer": "ながら",
+        "translation_en": "We talk while walking.",
+        "translation_es": "Hablamos mientras caminamos."
+      },
+      {
+        "sentence": "テレビを見___ 食べます。",
+        "answer": "ながら",
+        "translation_en": "I eat while watching TV.",
+        "translation_es": "Como mientras veo la tele."
+      },
+      {
+        "sentence": "歌い___ 働きます。",
+        "answer": "ながら",
+        "translation_en": "I work while singing.",
+        "translation_es": "Trabajo mientras canto."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag 前に or 後で into each gap.",
+    "items": [
+      {
+        "sentence": "寝る___ 本を読みます。",
+        "answer": "前に",
+        "translation_en": "I read a book before sleeping.",
+        "translation_es": "Leo un libro antes de dormir."
+      },
+      {
+        "sentence": "食べた___ 出かけます。",
+        "answer": "後で",
+        "translation_en": "I go out after eating.",
+        "translation_es": "Salgo después de comer."
+      },
+      {
+        "sentence": "行く___ 電話します。",
+        "answer": "前に",
+        "translation_en": "I will call before going.",
+        "translation_es": "Llamaré antes de ir."
+      },
+      {
+        "sentence": "仕事の___ 休みます。",
+        "answer": "後で",
+        "translation_en": "I rest after work.",
+        "translation_es": "Descanso después del trabajo."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag ので into each gap.",
+    "items": [
+      {
+        "sentence": "寒い___ 、家にいます。",
+        "answer": "ので",
+        "translation_en": "I stay at home because it is cold.",
+        "translation_es": "Me quedo en casa porque hace frío."
+      },
+      {
+        "sentence": "忙しい___ 、行けません。",
+        "answer": "ので",
+        "translation_en": "I cannot go because I am busy.",
+        "translation_es": "No puedo ir porque estoy ocupado."
+      },
+      {
+        "sentence": "雨が降った___ 、中止しました。",
+        "answer": "ので",
+        "translation_en": "We cancelled because it rained.",
+        "translation_es": "Cancelamos porque llovió."
+      },
+      {
+        "sentence": "安い___ 、買いました。",
+        "answer": "ので",
+        "translation_en": "I bought it because it was cheap.",
+        "translation_es": "Lo compré porque era barato."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the -tara form into each gap.",
+    "items": [
+      {
+        "sentence": "雨が降っ___ 、行きません。",
+        "answer": "たら",
+        "translation_en": "If it rains, I will not go.",
+        "translation_es": "Si llueve, no iré."
+      },
+      {
+        "sentence": "時間があっ___ 、来てください。",
+        "answer": "たら",
+        "translation_en": "If you have time, please come.",
+        "translation_es": "Si tienes tiempo, ven."
+      },
+      {
+        "sentence": "安かっ___ 、買います。",
+        "answer": "たら",
+        "translation_en": "If it is cheap, I will buy it.",
+        "translation_es": "Si es barato, lo compraré."
+      },
+      {
+        "sentence": "彼が来___ 、教えてください。",
+        "answer": "たら",
+        "translation_en": "If he comes, please tell me.",
+        "translation_es": "Si él viene, avísame."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the passive form into each gap.",
+    "items": [
+      {
+        "sentence": "この本は多くの人に読___ います。",
+        "answer": "まれて",
+        "translation_en": "This book is read by many people.",
+        "translation_es": "Este libro es leído por mucha gente."
+      },
+      {
+        "sentence": "私は先生に褒め___ 。",
+        "answer": "られました",
+        "translation_en": "I was praised by the teacher.",
+        "translation_es": "Fui elogiado por el profesor."
+      },
+      {
+        "sentence": "この建物は百年前に建て___ 。",
+        "answer": "られました",
+        "translation_en": "This building was built a hundred years ago.",
+        "translation_es": "Este edificio fue construido hace cien años."
+      },
+      {
+        "sentence": "その歌は世界中で歌___ 。",
+        "answer": "われています",
+        "translation_en": "That song is sung all over the world.",
+        "translation_es": "Esa canción se canta en todo el mundo."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the causative form into each gap.",
+    "items": [
+      {
+        "sentence": "母は私に野菜を食べ___ 。",
+        "answer": "させました",
+        "translation_en": "My mother made me eat vegetables.",
+        "translation_es": "Mi madre me hizo comer verduras."
+      },
+      {
+        "sentence": "先生は学生を帰___ 。",
+        "answer": "らせました",
+        "translation_en": "The teacher let the students go home.",
+        "translation_es": "El profesor dejó ir a los estudiantes."
+      },
+      {
+        "sentence": "父は私を買い物に行か___ 。",
+        "answer": "せました",
+        "translation_en": "My father made me go shopping.",
+        "translation_es": "Mi padre me hizo ir de compras."
+      },
+      {
+        "sentence": "彼は弟に本を読ま___ 。",
+        "answer": "せました",
+        "translation_en": "He made his brother read a book.",
+        "translation_es": "Hizo que su hermano leyera un libro."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the -te aru form into each gap.",
+    "items": [
+      {
+        "sentence": "窓が開け___ 。",
+        "answer": "てあります",
+        "translation_en": "The window is open.",
+        "translation_es": "La ventana está abierta."
+      },
+      {
+        "sentence": "机の上に本が置い___ 。",
+        "answer": "てあります",
+        "translation_en": "A book is placed on the desk.",
+        "translation_es": "Hay un libro puesto sobre el escritorio."
+      },
+      {
+        "sentence": "壁に絵が掛け___ 。",
+        "answer": "てあります",
+        "translation_en": "A picture is hung on the wall.",
+        "translation_es": "Hay un cuadro colgado en la pared."
+      },
+      {
+        "sentence": "ドアに鍵が掛け___ 。",
+        "answer": "てあります",
+        "translation_en": "The door is locked.",
+        "translation_es": "La puerta está cerrada con llave."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the -te oku form into each gap.",
+    "items": [
+      {
+        "sentence": "明日のために準備し___ 。",
+        "answer": "ておきます",
+        "translation_en": "I will prepare in advance for tomorrow.",
+        "translation_es": "Prepararé con antelación para mañana."
+      },
+      {
+        "sentence": "先に食べ___ 。",
+        "answer": "ておきます",
+        "translation_en": "I will eat in advance.",
+        "translation_es": "Comeré con antelación."
+      },
+      {
+        "sentence": "窓を開け___ 。",
+        "answer": "ておきます",
+        "translation_en": "I will leave the window open.",
+        "translation_es": "Dejaré la ventana abierta."
+      },
+      {
+        "sentence": "予約し___ 。",
+        "answer": "ておきます",
+        "translation_en": "I will reserve in advance.",
+        "translation_es": "Reservaré con antelación."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the -te shimau form into each gap.",
+    "items": [
+      {
+        "sentence": "財布をなくし___ 。",
+        "answer": "てしまいました",
+        "translation_en": "I have lost my wallet.",
+        "translation_es": "He perdido mi cartera."
+      },
+      {
+        "sentence": "ご飯を全部食べ___ 。",
+        "answer": "てしまいました",
+        "translation_en": "I ate all the food.",
+        "translation_es": "Me comí toda la comida."
+      },
+      {
+        "sentence": "宿題を忘れ___ 。",
+        "answer": "てしまいました",
+        "translation_en": "I forgot my homework.",
+        "translation_es": "Olvidé mis deberes."
+      },
+      {
+        "sentence": "電車に乗り遅れ___ 。",
+        "answer": "てしまいました",
+        "translation_en": "I missed the train.",
+        "translation_es": "Perdí el tren."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the -ba conditional into each gap.",
+    "items": [
+      {
+        "sentence": "時間が___ 、行きます。",
+        "answer": "あれば",
+        "translation_en": "If I have time, I will go.",
+        "translation_es": "Si tengo tiempo, iré."
+      },
+      {
+        "sentence": "安けれ___ 、買います。",
+        "answer": "ば",
+        "translation_en": "If it is cheap, I will buy it.",
+        "translation_es": "Si es barato, lo compraré."
+      },
+      {
+        "sentence": "雨が降れ___ 、中止します。",
+        "answer": "ば",
+        "translation_en": "If it rains, we will cancel.",
+        "translation_es": "Si llueve, cancelaremos."
+      },
+      {
+        "sentence": "彼が来れ___ 、始めます。",
+        "answer": "ば",
+        "translation_en": "If he comes, we will start.",
+        "translation_es": "Si él viene, empezaremos."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag なら into each gap.",
+    "items": [
+      {
+        "sentence": "行く___ 、私も行きます。",
+        "answer": "なら",
+        "translation_en": "If you are going, I will go too.",
+        "translation_es": "Si vas, yo también iré."
+      },
+      {
+        "sentence": "雨___ 、家にいます。",
+        "answer": "なら",
+        "translation_en": "If it is rain, I will stay home.",
+        "translation_es": "Si es lluvia, me quedo en casa."
+      },
+      {
+        "sentence": "学生___ 、勉強すべきです。",
+        "answer": "なら",
+        "translation_en": "If you are a student, you should study.",
+        "translation_es": "Si eres estudiante, deberías estudiar."
+      },
+      {
+        "sentence": "彼が来る___ 、待ちます。",
+        "answer": "なら",
+        "translation_en": "If he is coming, I will wait.",
+        "translation_es": "Si él viene, esperaré."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the -temo concessive into each gap.",
+    "items": [
+      {
+        "sentence": "雨が降っ___ 、行きます。",
+        "answer": "ても",
+        "translation_en": "Even if it rains, I will go.",
+        "translation_es": "Aunque llueva, iré."
+      },
+      {
+        "sentence": "高く___ 、買います。",
+        "answer": "ても",
+        "translation_en": "Even if it is expensive, I will buy it.",
+        "translation_es": "Aunque sea caro, lo compraré."
+      },
+      {
+        "sentence": "疲れ___ 、続けます。",
+        "answer": "ても",
+        "translation_en": "Even if I am tired, I will continue.",
+        "translation_es": "Aunque esté cansado, continuaré."
+      },
+      {
+        "sentence": "彼が来___ 、始めます。",
+        "answer": "なくても",
+        "translation_en": "Even if he does not come, we will start.",
+        "translation_es": "Aunque él no venga, empezaremos."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the -koto ni suru form into each gap.",
+    "items": [
+      {
+        "sentence": "毎日勉強する___ 。",
+        "answer": "ことにしました",
+        "translation_en": "I decided to study every day.",
+        "translation_es": "Decidí estudiar cada día."
+      },
+      {
+        "sentence": "日本へ行く___ 。",
+        "answer": "ことにしました",
+        "translation_en": "I decided to go to Japan.",
+        "translation_es": "Decidí ir a Japón."
+      },
+      {
+        "sentence": "タバコをやめる___ 。",
+        "answer": "ことにしました",
+        "translation_en": "I decided to quit smoking.",
+        "translation_es": "Decidí dejar de fumar."
+      },
+      {
+        "sentence": "早く寝る___ 。",
+        "answer": "ことにしました",
+        "translation_en": "I decided to go to bed early.",
+        "translation_es": "Decidí acostarme temprano."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the -koto ni naru form into each gap.",
+    "items": [
+      {
+        "sentence": "来月引っ越す___ 。",
+        "answer": "ことになりました",
+        "translation_en": "It has been decided that I will move next month.",
+        "translation_es": "Se ha decidido que me mudaré el próximo mes."
+      },
+      {
+        "sentence": "私が行く___ 。",
+        "answer": "ことになりました",
+        "translation_en": "It has been decided that I will go.",
+        "translation_es": "Se ha decidido que iré yo."
+      },
+      {
+        "sentence": "会議は中止する___ 。",
+        "answer": "ことになりました",
+        "translation_en": "It has been decided that the meeting is cancelled.",
+        "translation_es": "Se ha decidido cancelar la reunión."
+      },
+      {
+        "sentence": "彼が担当する___ 。",
+        "answer": "ことになりました",
+        "translation_en": "It has been decided that he will take charge.",
+        "translation_es": "Se ha decidido que él se encargue."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag ように into each gap.",
+    "items": [
+      {
+        "sentence": "忘れない___ メモします。",
+        "answer": "ように",
+        "translation_en": "I take notes so as not to forget.",
+        "translation_es": "Tomo notas para no olvidar."
+      },
+      {
+        "sentence": "遅れない___ 早く出ます。",
+        "answer": "ように",
+        "translation_en": "I leave early so as not to be late.",
+        "translation_es": "Salgo temprano para no llegar tarde."
+      },
+      {
+        "sentence": "聞こえる___ 大きな声で話します。",
+        "answer": "ように",
+        "translation_en": "I speak loudly so that people can hear.",
+        "translation_es": "Hablo alto para que se oiga."
+      },
+      {
+        "sentence": "できる___ 頑張ります。",
+        "answer": "ように",
+        "translation_en": "I will do my best so that I can.",
+        "translation_es": "Me esforzaré para poder."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag らしい into each gap.",
+    "items": [
+      {
+        "sentence": "彼は来ない___ 。",
+        "answer": "らしい",
+        "translation_en": "Apparently he is not coming.",
+        "translation_es": "Al parecer no viene."
+      },
+      {
+        "sentence": "明日は雨___ 。",
+        "answer": "らしい",
+        "translation_en": "Apparently it will rain tomorrow.",
+        "translation_es": "Al parecer mañana lloverá."
+      },
+      {
+        "sentence": "彼は先生___ 。",
+        "answer": "らしい",
+        "translation_en": "Apparently he is a teacher.",
+        "translation_es": "Al parecer es profesor."
+      },
+      {
+        "sentence": "その店は安い___ 。",
+        "answer": "らしい",
+        "translation_en": "Apparently that shop is cheap.",
+        "translation_es": "Al parecer esa tienda es barata."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag みたい into each gap.",
+    "items": [
+      {
+        "sentence": "彼は子供___ 。",
+        "answer": "みたい",
+        "translation_en": "He is like a child.",
+        "translation_es": "Es como un niño."
+      },
+      {
+        "sentence": "ここは夢___ 。",
+        "answer": "みたい",
+        "translation_en": "This place is like a dream.",
+        "translation_es": "Este lugar es como un sueño."
+      },
+      {
+        "sentence": "その店は閉まっている___ 。",
+        "answer": "みたい",
+        "translation_en": "It seems that shop is closed.",
+        "translation_es": "Parece que esa tienda está cerrada."
+      },
+      {
+        "sentence": "彼は疲れている___ 。",
+        "answer": "みたい",
+        "translation_en": "It seems he is tired.",
+        "translation_es": "Parece que está cansado."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag そう into each gap.",
+    "items": [
+      {
+        "sentence": "このケーキはおいし___ 。",
+        "answer": "そうです",
+        "translation_en": "This cake looks delicious.",
+        "translation_es": "Este pastel parece delicioso."
+      },
+      {
+        "sentence": "雨が降り___ 。",
+        "answer": "そうです",
+        "translation_en": "It looks like it will rain.",
+        "translation_es": "Parece que va a llover."
+      },
+      {
+        "sentence": "彼は元気___ 。",
+        "answer": "そうです",
+        "translation_en": "He looks well.",
+        "translation_es": "Parece estar bien."
+      },
+      {
+        "sentence": "この本は面白___ 。",
+        "answer": "そうです",
+        "translation_en": "This book looks interesting.",
+        "translation_es": "Este libro parece interesante."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag はず into each gap.",
+    "items": [
+      {
+        "sentence": "彼はもう着いている___ 。",
+        "answer": "はず",
+        "translation_en": "He should have arrived already.",
+        "translation_es": "Debería haber llegado ya."
+      },
+      {
+        "sentence": "彼女は知っている___ 。",
+        "answer": "はず",
+        "translation_en": "She should know.",
+        "translation_es": "Ella debería saberlo."
+      },
+      {
+        "sentence": "電車はすぐ来る___ 。",
+        "answer": "はず",
+        "translation_en": "The train should come soon.",
+        "translation_es": "El tren debería llegar pronto."
+      },
+      {
+        "sentence": "それは高い___ 。",
+        "answer": "はず",
+        "translation_en": "That should be expensive.",
+        "translation_es": "Eso debería ser caro."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the plain form that the honorific replaces.",
+    "items": [
+      {
+        "sentence": "いらっしゃいます is the honorific of ___ 。",
+        "answer": "行く・来る・いる",
+        "translation_en": "to go / come / be",
+        "translation_es": "ir / venir / estar"
+      },
+      {
+        "sentence": "ご覧になる is the honorific of ___ 。",
+        "answer": "見る",
+        "translation_en": "to see",
+        "translation_es": "ver"
+      },
+      {
+        "sentence": "召し上がる is the honorific of ___ 。",
+        "answer": "食べる",
+        "translation_en": "to eat",
+        "translation_es": "comer"
+      },
+      {
+        "sentence": "おっしゃる is the honorific of ___ 。",
+        "answer": "言う",
+        "translation_en": "to say",
+        "translation_es": "decir"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag わけではない into each gap.",
+    "items": [
+      {
+        "sentence": "高いからといって、悪い___ 。",
+        "answer": "わけではない",
+        "translation_en": "It is not that it is bad because it is expensive.",
+        "translation_es": "No es que sea malo por ser caro."
+      },
+      {
+        "sentence": "日本人だからといって、みんなが同じ___ 。",
+        "answer": "わけではない",
+        "translation_en": "It is not that all Japanese are the same.",
+        "translation_es": "No es que todos los japoneses sean iguales."
+      },
+      {
+        "sentence": "彼が嫌いな___ 。",
+        "answer": "わけではない",
+        "translation_en": "It is not that I dislike him.",
+        "translation_es": "No es que no me guste él."
+      },
+      {
+        "sentence": "簡単な___ 。",
+        "answer": "わけではない",
+        "translation_en": "It is not that it is easy.",
+        "translation_es": "No es que sea fácil."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag に関して into each gap.",
+    "items": [
+      {
+        "sentence": "この問題___ 、意見が分かれています。",
+        "answer": "に関して",
+        "translation_en": "Opinions are divided regarding this problem.",
+        "translation_es": "Las opiniones están divididas respecto a este problema."
+      },
+      {
+        "sentence": "環境___ 、多くの議論があります。",
+        "answer": "に関して",
+        "translation_en": "There is much debate regarding the environment.",
+        "translation_es": "Hay mucho debate en cuanto al medio ambiente."
+      },
+      {
+        "sentence": "その事件___ 、何も知りません。",
+        "answer": "に関して",
+        "translation_en": "I know nothing regarding that incident.",
+        "translation_es": "No sé nada respecto a ese incidente."
+      },
+      {
+        "sentence": "教育___ 、彼は専門家です。",
+        "answer": "に関して",
+        "translation_en": "He is an expert regarding education.",
+        "translation_es": "Es un experto en cuanto a educación."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag に対して into each gap.",
+    "items": [
+      {
+        "sentence": "先生___ 、敬意を持つべきです。",
+        "answer": "に対して",
+        "translation_en": "We should have respect for teachers.",
+        "translation_es": "Deberíamos respetar a los profesores."
+      },
+      {
+        "sentence": "彼の意見___ 、私は反対です。",
+        "answer": "に対して",
+        "translation_en": "I am opposed to his opinion.",
+        "translation_es": "Estoy en contra de su opinión."
+      },
+      {
+        "sentence": "顧客___ 、丁寧にすべきです。",
+        "answer": "に対して",
+        "translation_en": "We should be polite to customers.",
+        "translation_es": "Deberíamos ser amables con los clientes."
+      },
+      {
+        "sentence": "その問題___ 、対策が必要です。",
+        "answer": "に対して",
+        "translation_en": "Measures are needed for that problem.",
+        "translation_es": "Se necesitan medidas para ese problema."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag によって into each gap.",
+    "items": [
+      {
+        "sentence": "これはシェイクスピア___ 書かれた本です。",
+        "answer": "によって",
+        "translation_en": "This is a book written by Shakespeare.",
+        "translation_es": "Este es un libro escrito por Shakespeare."
+      },
+      {
+        "sentence": "国___ 法律が違います。",
+        "answer": "によって",
+        "translation_en": "Laws differ by country.",
+        "translation_es": "Las leyes varían según el país."
+      },
+      {
+        "sentence": "問題は人___ 違います。",
+        "answer": "によって",
+        "translation_en": "The problem differs by person.",
+        "translation_es": "El problema varía según la persona."
+      },
+      {
+        "sentence": "その建物は彼___ 設計されました。",
+        "answer": "によって",
+        "translation_en": "That building was designed by him.",
+        "translation_es": "Ese edificio fue diseñado por él."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag こと into each gap.",
+    "items": [
+      {
+        "sentence": "彼が来る___ を知っていますか。",
+        "answer": "こと",
+        "translation_en": "Do you know that he is coming?",
+        "translation_es": "¿Sabes que él viene?"
+      },
+      {
+        "sentence": "それは大切だ___ を忘れないで。",
+        "answer": "ということを",
+        "translation_en": "Do not forget that it is important.",
+        "translation_es": "No olvides que es importante."
+      },
+      {
+        "sentence": "彼が成功した___ は事実です。",
+        "answer": "ということは",
+        "translation_en": "It is a fact that he succeeded.",
+        "translation_es": "Es un hecho que tuvo éxito."
+      },
+      {
+        "sentence": "時間がない___ が問題です。",
+        "answer": "ということが",
+        "translation_en": "The problem is that there is no time.",
+        "translation_es": "El problema es que no hay tiempo."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag べき into each gap.",
+    "items": [
+      {
+        "sentence": "学生は勉強す___ です。",
+        "answer": "べき",
+        "translation_en": "Students should study.",
+        "translation_es": "Los estudiantes deberían estudiar."
+      },
+      {
+        "sentence": "もっと運動す___ です。",
+        "answer": "べき",
+        "translation_en": "You should exercise more.",
+        "translation_es": "Deberías hacer más ejercicio."
+      },
+      {
+        "sentence": "それは言う___ ではない。",
+        "answer": "べき",
+        "translation_en": "That should not be said.",
+        "translation_es": "Eso no se debería decir."
+      },
+      {
+        "sentence": "早く寝る___ です。",
+        "answer": "べき",
+        "translation_en": "You should go to bed early.",
+        "translation_es": "Deberías acostarte temprano."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag ざる into each gap.",
+    "items": [
+      {
+        "sentence": "状況は悪化する___ を得ない。",
+        "answer": "ざる",
+        "translation_en": "The situation inevitably worsens.",
+        "translation_es": "La situación empeora inevitablemente."
+      },
+      {
+        "sentence": "やめる___ を得なかった。",
+        "answer": "ざる",
+        "translation_en": "I had no choice but to quit.",
+        "translation_es": "No tuve más remedio que dejarlo."
+      },
+      {
+        "sentence": "本当のことを言わ___ を得ない。",
+        "answer": "ざる",
+        "translation_en": "I cannot avoid telling the truth.",
+        "translation_es": "No puedo evitar decir la verdad."
+      },
+      {
+        "sentence": "彼は辞め___ を得なかった。",
+        "answer": "ざる",
+        "translation_en": "He had no choice but to resign.",
+        "translation_es": "No tuvo más remedio que dimitir."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag ことはない into each gap.",
+    "items": [
+      {
+        "sentence": "心配する___ 。",
+        "answer": "ことはない",
+        "translation_en": "There is no need to worry.",
+        "translation_es": "No hay necesidad de preocuparse."
+      },
+      {
+        "sentence": "急ぐ___ 。",
+        "answer": "ことはない",
+        "translation_en": "There is no need to hurry.",
+        "translation_es": "No hay prisa."
+      },
+      {
+        "sentence": "そんなに心配する___ 。",
+        "answer": "ことはない",
+        "translation_en": "You do not need to worry so much.",
+        "translation_es": "No necesitas preocuparte tanto."
+      },
+      {
+        "sentence": "彼に言う___ 。",
+        "answer": "ことはない",
+        "translation_en": "There is no need to tell him.",
+        "translation_es": "No hace falta decírselo."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag にもかかわらず into each gap.",
+    "items": [
+      {
+        "sentence": "雨___ 、試合は行われました。",
+        "answer": "にもかかわらず",
+        "translation_en": "Despite the rain, the match was held.",
+        "translation_es": "A pesar de la lluvia, se celebró el partido."
+      },
+      {
+        "sentence": "努力した___ 、失敗しました。",
+        "answer": "にもかかわらず",
+        "translation_en": "Despite having made an effort, I failed.",
+        "translation_es": "A pesar de haberme esforzado, fracasé."
+      },
+      {
+        "sentence": "反対___ 、計画は進みました。",
+        "answer": "にもかかわらず",
+        "translation_en": "Despite the opposition, the plan went ahead.",
+        "translation_es": "A pesar de la oposición, el plan siguió adelante."
+      },
+      {
+        "sentence": "忙しい___ 、来てくれました。",
+        "answer": "にもかかわらず",
+        "translation_en": "Despite being busy, he came.",
+        "translation_es": "A pesar de estar ocupado, vino."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag ばほど into each gap.",
+    "items": [
+      {
+        "sentence": "勉強すれ___ 上手になります。",
+        "answer": "ばほど",
+        "translation_en": "The more you study, the better you get.",
+        "translation_es": "Cuanto más estudias, mejor te vuelves."
+      },
+      {
+        "sentence": "考えれ___ わからなくなります。",
+        "answer": "ばほど",
+        "translation_en": "The more I think, the less I understand.",
+        "translation_es": "Cuanto más pienso, menos entiendo."
+      },
+      {
+        "sentence": "食べれ___ 食べたくなります。",
+        "answer": "ばほど",
+        "translation_en": "The more I eat, the more I want to eat.",
+        "translation_es": "Cuanto más como, más quiero comer."
+      },
+      {
+        "sentence": "練習すれ___ 上達します。",
+        "answer": "ばほど",
+        "translation_en": "The more you practise, the more you improve.",
+        "translation_es": "Cuanto más practicas, más mejoras."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag つつある into each gap.",
+    "items": [
+      {
+        "sentence": "人口は増え___ 。",
+        "answer": "つつある",
+        "translation_en": "The population is increasing.",
+        "translation_es": "La población está aumentando."
+      },
+      {
+        "sentence": "経済は発展し___ 。",
+        "answer": "つつある",
+        "translation_en": "The economy is developing.",
+        "translation_es": "La economía está desarrollándose."
+      },
+      {
+        "sentence": "状況は改善し___ 。",
+        "answer": "つつある",
+        "translation_en": "The situation is improving.",
+        "translation_es": "La situación está mejorando."
+      },
+      {
+        "sentence": "伝統は失われ___ 。",
+        "answer": "つつある",
+        "translation_en": "Traditions are being lost.",
+        "translation_es": "Las tradiciones se están perdiendo."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag がち into each gap.",
+    "items": [
+      {
+        "sentence": "彼は遅れ___ です。",
+        "answer": "がち",
+        "translation_en": "He tends to be late.",
+        "translation_es": "Tiende a llegar tarde."
+      },
+      {
+        "sentence": "冬は病気になり___ です。",
+        "answer": "がち",
+        "translation_en": "In winter people tend to get ill.",
+        "translation_es": "En invierno se tiende a enfermar."
+      },
+      {
+        "sentence": "学生は忘れ___ です。",
+        "answer": "がち",
+        "translation_en": "Students tend to forget.",
+        "translation_es": "Los estudiantes tienden a olvidar."
+      },
+      {
+        "sentence": "彼は留守にし___ です。",
+        "answer": "がち",
+        "translation_en": "He tends to be away from home.",
+        "translation_es": "Tiende a estar fuera de casa."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag かけ into each gap.",
+    "items": [
+      {
+        "sentence": "食べ___ のケーキがテーブルにあります。",
+        "answer": "かけ",
+        "translation_en": "There is a half-eaten cake on the table.",
+        "translation_es": "Hay un pastel a medio comer en la mesa."
+      },
+      {
+        "sentence": "読み___ の本を置きました。",
+        "answer": "かけ",
+        "translation_en": "I put down a half-read book.",
+        "translation_es": "Dejé un libro a medio leer."
+      },
+      {
+        "sentence": "飲み___ のコーヒーがあります。",
+        "answer": "かけ",
+        "translation_en": "There is a half-drunk coffee.",
+        "translation_es": "Hay un café a medio beber."
+      },
+      {
+        "sentence": "作り___ の料理が残っています。",
+        "answer": "かけ",
+        "translation_en": "There is half-made food left.",
+        "translation_es": "Queda comida a medio hacer."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag っぽい into each gap.",
+    "items": [
+      {
+        "sentence": "彼は子供___ です。",
+        "answer": "っぽい",
+        "translation_en": "He is childish.",
+        "translation_es": "Es infantil."
+      },
+      {
+        "sentence": "この色は赤___ です。",
+        "answer": "っぽい",
+        "translation_en": "This colour is reddish.",
+        "translation_es": "Este color es rojizo."
+      },
+      {
+        "sentence": "彼女は忘れ___ です。",
+        "answer": "っぽい",
+        "translation_en": "She is forgetful.",
+        "translation_es": "Ella es olvidadiza."
+      },
+      {
+        "sentence": "この水は油___ です。",
+        "answer": "っぽい",
+        "translation_en": "This water is oily.",
+        "translation_es": "Este agua es aceitosa."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag ないように into each gap.",
+    "items": [
+      {
+        "sentence": "忘れ___ してください。",
+        "answer": "ないように",
+        "translation_en": "Please make sure not to forget.",
+        "translation_es": "Por favor, asegúrate de no olvidar."
+      },
+      {
+        "sentence": "風邪を引か___ 気をつけてください。",
+        "answer": "ないように",
+        "translation_en": "Please be careful not to catch a cold.",
+        "translation_es": "Por favor, ten cuidado de no resfriarte."
+      },
+      {
+        "sentence": "遅れ___ 早く出てください。",
+        "answer": "ないように",
+        "translation_en": "Please leave early so as not to be late.",
+        "translation_es": "Por favor, sal temprano para no llegar tarde."
+      },
+      {
+        "sentence": "壊さ___ 慎重に運んでください。",
+        "answer": "ないように",
+        "translation_en": "Please carry it carefully so as not to break it.",
+        "translation_es": "Por favor, llévalo con cuidado para no romperlo."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag とともに into each gap.",
+    "items": [
+      {
+        "sentence": "経済が発展する___ 、問題も増えました。",
+        "answer": "とともに",
+        "translation_en": "As the economy developed, problems increased too.",
+        "translation_es": "A medida que se desarrollaba la economía, también aumentaron los problemas."
+      },
+      {
+        "sentence": "年を取る___ 、記憶が弱くなります。",
+        "answer": "とともに",
+        "translation_en": "As we age, memory weakens.",
+        "translation_es": "A medida que envejecemos, la memoria se debilita."
+      },
+      {
+        "sentence": "彼は友達であり、___ 先生でもあります。",
+        "answer": "とともに",
+        "translation_en": "He is a friend and at the same time a teacher.",
+        "translation_es": "Es un amigo y a la vez un profesor."
+      },
+      {
+        "sentence": "都市化___ 、環境問題が深刻になりました。",
+        "answer": "とともに",
+        "translation_en": "With urbanisation, environmental problems worsened.",
+        "translation_es": "Con la urbanización, los problemas ambientales empeoraron."
+      }
+    ]
+  }
+]
