@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Pronunciation basics",
+    "description": "French spelling hides a lot: nasal vowels, silent letters and liaison.",
+    "columns": [
+      "Feature",
+      "Example",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nasal vowels",
+        "bon / banc / vin",
+        "good / bench / wine",
+        "bueno / banco / vino"
+      ],
+      [
+        "silent final letter",
+        "petit",
+        "small (the t is silent)",
+        "pequeño (la t no se pronuncia)"
+      ],
+      [
+        "liaison",
+        "les amis → [lezami]",
+        "the friends",
+        "los amigos"
+      ],
+      [
+        "u vs ou",
+        "tu / tout",
+        "you / all",
+        "tú / todo"
+      ],
+      [
+        "the r",
+        "rouge",
+        "red (throaty r)",
+        "rojo"
+      ],
+      [
+        "é vs è",
+        "été / père",
+        "summer / father",
+        "verano / padre"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Subject pronouns",
+    "description": "French needs an explicit subject pronoun with every verb.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sg.",
+        "je",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sg.",
+        "tu",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sg. m.",
+        "il",
+        "he",
+        "él"
+      ],
+      [
+        "3rd sg. f.",
+        "elle",
+        "she",
+        "ella"
+      ],
+      [
+        "1st pl.",
+        "nous",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd pl.",
+        "vous",
+        "you (pl. / polite)",
+        "vosotros / usted"
+      ],
+      [
+        "3rd pl.",
+        "ils / elles",
+        "they",
+        "ellos / ellas"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "être (to be) — present",
+    "description": "One of the two most important verbs; also an auxiliary.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "suis",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "tu",
+        "es",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "il / elle",
+        "est",
+        "he / she is",
+        "él / ella es"
+      ],
+      [
+        "nous",
+        "sommes",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "vous",
+        "êtes",
+        "you are",
+        "vosotros sois"
+      ],
+      [
+        "ils / elles",
+        "sont",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "avoir (to have) — present",
+    "description": "The second core verb; used in many fixed expressions and tenses.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "j'",
+        "ai",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "tu",
+        "as",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "il / elle",
+        "a",
+        "he / she has",
+        "él / ella tiene"
+      ],
+      [
+        "nous",
+        "avons",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "vous",
+        "avez",
+        "you have",
+        "vosotros tenéis"
+      ],
+      [
+        "ils / elles",
+        "ont",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Definite articles",
+    "description": "le, la, l' and les all mean 'the' and agree with the noun.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "le livre",
+        "the book",
+        "el libro"
+      ],
+      [
+        "feminine",
+        "la maison",
+        "the house",
+        "la casa"
+      ],
+      [
+        "before a vowel",
+        "l'ami",
+        "the friend",
+        "el amigo"
+      ],
+      [
+        "plural",
+        "les livres",
+        "the books",
+        "los libros"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Indefinite articles",
+    "description": "un, une and des mean 'a' or 'some'.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "un livre",
+        "a book",
+        "un libro"
+      ],
+      [
+        "feminine",
+        "une maison",
+        "a house",
+        "una casa"
+      ],
+      [
+        "plural",
+        "des livres",
+        "some books",
+        "unos libros"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Negation ne… pas",
+    "description": "Both parts surround the verb: ne (or n') before, pas after.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "present",
+        "Je ne parle pas.",
+        "I do not speak.",
+        "No hablo."
+      ],
+      [
+        "before a vowel",
+        "Il n'aime pas.",
+        "He does not like it.",
+        "A él no le gusta."
+      ],
+      [
+        "past",
+        "Je n'ai pas mangé.",
+        "I have not eaten.",
+        "No he comido."
+      ],
+      [
+        "infinitive",
+        "Ne pas fumer.",
+        "Do not smoke.",
+        "No fumar."
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Regular -er verbs",
+    "description": "Most verbs end in -er and follow one simple pattern.",
+    "columns": [
+      "Person",
+      "French (parler)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "parle",
+        "I speak",
+        "yo hablo"
+      ],
+      [
+        "tu",
+        "parles",
+        "you speak",
+        "tú hablas"
+      ],
+      [
+        "il / elle",
+        "parle",
+        "he / she speaks",
+        "él / ella habla"
+      ],
+      [
+        "nous",
+        "parlons",
+        "we speak",
+        "nosotros hablamos"
+      ],
+      [
+        "vous",
+        "parlez",
+        "you speak",
+        "vosotros habláis"
+      ],
+      [
+        "ils / elles",
+        "parlent",
+        "they speak",
+        "ellos hablan"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "aller (to go) — present",
+    "description": "Irregular verb, and the basis of the near future.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "vais",
+        "I go",
+        "yo voy"
+      ],
+      [
+        "tu",
+        "vas",
+        "you go",
+        "tú vas"
+      ],
+      [
+        "il / elle",
+        "va",
+        "he / she goes",
+        "él / ella va"
+      ],
+      [
+        "nous",
+        "allons",
+        "we go",
+        "nosotros vamos"
+      ],
+      [
+        "vous",
+        "allez",
+        "you go",
+        "vosotros vais"
+      ],
+      [
+        "ils / elles",
+        "vont",
+        "they go",
+        "ellos van"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "Watch out for the silent consonants in six, huit, dix.",
+    "columns": [
+      "Number",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "0",
+        "zéro",
+        "zero",
+        "cero"
+      ],
+      [
+        "1",
+        "un",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "deux",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "trois",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "quatre",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "cinq",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "six",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "sept",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "huit",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "neuf",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "dix",
+        "ten",
+        "diez"
+      ],
+      [
+        "11",
+        "onze",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "douze",
+        "twelve",
+        "doce"
+      ],
+      [
+        "15",
+        "quinze",
+        "fifteen",
+        "quince"
+      ],
+      [
+        "16",
+        "seize",
+        "sixteen",
+        "dieciséis"
+      ],
+      [
+        "20",
+        "vingt",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are not capitalised in French.",
+    "columns": [
+      "Day",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "lundi",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "mardi",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "mercredi",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "jeudi",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "vendredi",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "samedi",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "dimanche",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Possessive adjectives",
+    "description": "They agree with the thing owned, not with the owner.",
+    "columns": [
+      "Owner",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (m.)",
+        "mon père",
+        "my father",
+        "mi padre"
+      ],
+      [
+        "my (f.)",
+        "ma mère",
+        "my mother",
+        "mi madre"
+      ],
+      [
+        "my (pl.)",
+        "mes amis",
+        "my friends",
+        "mis amigos"
+      ],
+      [
+        "your (m.)",
+        "ton livre",
+        "your book",
+        "tu libro"
+      ],
+      [
+        "our",
+        "notre maison",
+        "our house",
+        "nuestra casa"
+      ],
+      [
+        "their",
+        "leur maison",
+        "their house",
+        "su casa (de ellos)"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Adjective agreement",
+    "description": "Adjectives add -e for the feminine and -s for the plural.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "m. sg.",
+        "un grand jardin",
+        "a big garden",
+        "un jardín grande"
+      ],
+      [
+        "f. sg.",
+        "une grande maison",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "m. pl.",
+        "des grands jardins",
+        "big gardens",
+        "jardines grandes"
+      ],
+      [
+        "f. pl.",
+        "des grandes maisons",
+        "big houses",
+        "casas grandes"
+      ],
+      [
+        "invariable",
+        "un livre facile",
+        "an easy book",
+        "un libro fácil"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Asking questions",
+    "description": "Three ways to ask, from most formal to most relaxed.",
+    "columns": [
+      "Form",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "est-ce que",
+        "Est-ce que tu parles français ?",
+        "Do you speak French?",
+        "¿Hablas francés?"
+      ],
+      [
+        "inversion",
+        "Parles-tu français ?",
+        "Do you speak French?",
+        "¿Hablas francés?"
+      ],
+      [
+        "intonation",
+        "Tu parles français ?",
+        "You speak French?",
+        "¿Hablas francés?"
+      ],
+      [
+        "qu'est-ce que",
+        "Qu'est-ce que tu fais ?",
+        "What are you doing?",
+        "¿Qué haces?"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Most question words come at the start of the sentence.",
+    "columns": [
+      "Word",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who",
+        "qui",
+        "who",
+        "quién"
+      ],
+      [
+        "what",
+        "que / quoi",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "où",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "quand",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "pourquoi",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "comment",
+        "how",
+        "cómo"
+      ],
+      [
+        "how much",
+        "combien",
+        "how much / many",
+        "cuánto"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "The partitive article",
+    "description": "du, de la, de l' and des express an unspecified quantity.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "du pain",
+        "(some) bread",
+        "pan"
+      ],
+      [
+        "feminine",
+        "de la soupe",
+        "(some) soup",
+        "sopa"
+      ],
+      [
+        "before a vowel",
+        "de l'eau",
+        "(some) water",
+        "agua"
+      ],
+      [
+        "plural",
+        "des légumes",
+        "(some) vegetables",
+        "verduras"
+      ],
+      [
+        "negative",
+        "pas de pain",
+        "no bread",
+        "sin pan"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "il y a (there is / there are)",
+    "description": "A single form covers both singular and plural.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "there is",
+        "Il y a un chat.",
+        "There is a cat.",
+        "Hay un gato."
+      ],
+      [
+        "there are",
+        "Il y a deux chats.",
+        "There are two cats.",
+        "Hay dos gatos."
+      ],
+      [
+        "question",
+        "Y a-t-il un médecin ?",
+        "Is there a doctor?",
+        "¿Hay un médico?"
+      ],
+      [
+        "negative",
+        "Il n'y a pas de problème.",
+        "There is no problem.",
+        "No hay problema."
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Months of the year",
+    "description": "Like the days, months are not capitalised.",
+    "columns": [
+      "Month",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "janvier",
+        "January",
+        "enero"
+      ],
+      [
+        "February",
+        "février",
+        "February",
+        "febrero"
+      ],
+      [
+        "March",
+        "mars",
+        "March",
+        "marzo"
+      ],
+      [
+        "April",
+        "avril",
+        "April",
+        "abril"
+      ],
+      [
+        "May",
+        "mai",
+        "May",
+        "mayo"
+      ],
+      [
+        "June",
+        "juin",
+        "June",
+        "junio"
+      ],
+      [
+        "July",
+        "juillet",
+        "July",
+        "julio"
+      ],
+      [
+        "August",
+        "août",
+        "August",
+        "agosto"
+      ],
+      [
+        "September",
+        "septembre",
+        "September",
+        "septiembre"
+      ],
+      [
+        "October",
+        "octobre",
+        "October",
+        "octubre"
+      ],
+      [
+        "November",
+        "novembre",
+        "November",
+        "noviembre"
+      ],
+      [
+        "December",
+        "décembre",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "Passé composé with avoir",
+    "description": "avoir in the present + past participle = a completed past action.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "j'ai mangé",
+        "I have eaten",
+        "he comido"
+      ],
+      [
+        "tu",
+        "tu as mangé",
+        "you have eaten",
+        "has comido"
+      ],
+      [
+        "il / elle",
+        "il a mangé",
+        "he has eaten",
+        "ha comido"
+      ],
+      [
+        "nous",
+        "nous avons mangé",
+        "we have eaten",
+        "hemos comido"
+      ],
+      [
+        "vous",
+        "vous avez mangé",
+        "you have eaten",
+        "habéis comido"
+      ],
+      [
+        "ils / elles",
+        "ils ont mangé",
+        "they have eaten",
+        "han comido"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "Passé composé with être",
+    "description": "A small group of verbs use être and the participle agrees.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "je suis allé(e)",
+        "I went",
+        "fui"
+      ],
+      [
+        "tu",
+        "tu es allé(e)",
+        "you went",
+        "fuiste"
+      ],
+      [
+        "il / elle",
+        "il est allé / elle est allée",
+        "he / she went",
+        "él / ella fue"
+      ],
+      [
+        "nous",
+        "nous sommes allé(e)s",
+        "we went",
+        "fuimos"
+      ],
+      [
+        "vous",
+        "vous êtes allé(e)s",
+        "you went",
+        "fuisteis"
+      ],
+      [
+        "ils / elles",
+        "ils sont allés / elles sont allées",
+        "they went",
+        "ellos fueron"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "Imparfait",
+    "description": "Describes past habits, background and ongoing states.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "je parlais",
+        "I used to speak",
+        "yo hablaba"
+      ],
+      [
+        "tu",
+        "tu parlais",
+        "you used to speak",
+        "tú hablabas"
+      ],
+      [
+        "il / elle",
+        "il parlait",
+        "he used to speak",
+        "él hablaba"
+      ],
+      [
+        "nous",
+        "nous parlions",
+        "we used to speak",
+        "nosotros hablábamos"
+      ],
+      [
+        "vous",
+        "vous parliez",
+        "you used to speak",
+        "vosotros hablabais"
+      ],
+      [
+        "ils / elles",
+        "ils parlaient",
+        "they used to speak",
+        "ellos hablaban"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Futur simple",
+    "description": "The infinitive plus the endings -ai, -as, -a, -ons, -ez, -ont.",
+    "columns": [
+      "Person",
+      "French (parler)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "je parlerai",
+        "I will speak",
+        "yo hablaré"
+      ],
+      [
+        "tu",
+        "tu parleras",
+        "you will speak",
+        "tú hablarás"
+      ],
+      [
+        "il / elle",
+        "il parlera",
+        "he will speak",
+        "él hablará"
+      ],
+      [
+        "nous",
+        "nous parlerons",
+        "we will speak",
+        "nosotros hablaremos"
+      ],
+      [
+        "vous",
+        "vous parlerez",
+        "you will speak",
+        "vosotros hablaréis"
+      ],
+      [
+        "ils / elles",
+        "ils parleront",
+        "they will speak",
+        "ellos hablarán"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Futur proche",
+    "description": "aller in the present + infinitive = what is about to happen.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "je vais manger",
+        "I am going to eat",
+        "voy a comer"
+      ],
+      [
+        "tu",
+        "tu vas manger",
+        "you are going to eat",
+        "vas a comer"
+      ],
+      [
+        "il / elle",
+        "il va manger",
+        "he is going to eat",
+        "él va a comer"
+      ],
+      [
+        "nous",
+        "nous allons manger",
+        "we are going to eat",
+        "vamos a comer"
+      ],
+      [
+        "ils / elles",
+        "ils vont manger",
+        "they are going to eat",
+        "ellos van a comer"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The reflexive pronoun matches the subject.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "je me lève",
+        "I get up",
+        "me levanto"
+      ],
+      [
+        "tu",
+        "tu te lèves",
+        "you get up",
+        "te levantas"
+      ],
+      [
+        "il / elle",
+        "il se lève",
+        "he gets up",
+        "él se levanta"
+      ],
+      [
+        "nous",
+        "nous nous levons",
+        "we get up",
+        "nosotros nos levantamos"
+      ],
+      [
+        "vous",
+        "vous vous levez",
+        "you get up",
+        "vosotros os levantáis"
+      ],
+      [
+        "ils / elles",
+        "ils se lèvent",
+        "they get up",
+        "ellos se levantan"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Direct object pronouns",
+    "description": "They go before the verb: je le vois.",
+    "columns": [
+      "Pronoun",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "me",
+        "me",
+        "me",
+        "me"
+      ],
+      [
+        "you",
+        "te",
+        "you",
+        "te"
+      ],
+      [
+        "him",
+        "le",
+        "him",
+        "lo"
+      ],
+      [
+        "her",
+        "la",
+        "her",
+        "la"
+      ],
+      [
+        "us",
+        "nous",
+        "us",
+        "nos"
+      ],
+      [
+        "them",
+        "les",
+        "them",
+        "los"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Indirect object pronouns",
+    "description": "lui and leur replace 'to him / her / them'.",
+    "columns": [
+      "Pronoun",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to me",
+        "me",
+        "to me",
+        "me"
+      ],
+      [
+        "to you",
+        "te",
+        "to you",
+        "te"
+      ],
+      [
+        "to him / her",
+        "lui",
+        "to him / her",
+        "le"
+      ],
+      [
+        "to us",
+        "nous",
+        "to us",
+        "nos"
+      ],
+      [
+        "to you (pl.)",
+        "vous",
+        "to you",
+        "os"
+      ],
+      [
+        "to them",
+        "leur",
+        "to them",
+        "les"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "The pronouns y and en",
+    "description": "y replaces a place or 'à + thing'; en replaces 'de + thing' or a quantity.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "y = there",
+        "J'y vais.",
+        "I am going there.",
+        "Voy allí."
+      ],
+      [
+        "y = about it",
+        "J'y pense.",
+        "I am thinking about it.",
+        "Pienso en ello."
+      ],
+      [
+        "en = some",
+        "J'en veux.",
+        "I want some.",
+        "Quiero algo de eso."
+      ],
+      [
+        "en = of them",
+        "J'en ai deux.",
+        "I have two of them.",
+        "Tengo dos."
+      ],
+      [
+        "en = quantity",
+        "Il y en a beaucoup.",
+        "There are many.",
+        "Hay muchos."
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "plus / moins / aussi … que compare two things.",
+    "columns": [
+      "Type",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "superiority",
+        "plus grand que",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "inferiority",
+        "moins grand que",
+        "less big than",
+        "menos grande que"
+      ],
+      [
+        "equality",
+        "aussi grand que",
+        "as big as",
+        "tan grande como"
+      ],
+      [
+        "irregular",
+        "meilleur que",
+        "better than",
+        "mejor que"
+      ],
+      [
+        "irregular",
+        "pire que",
+        "worse than",
+        "peor que"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "le / la / les plus (or moins) + adjective forms the superlative.",
+    "columns": [
+      "Type",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "superiority",
+        "le plus grand",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "inferiority",
+        "le moins grand",
+        "the least big",
+        "el menos grande"
+      ],
+      [
+        "irregular",
+        "le meilleur",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "irregular",
+        "le pire",
+        "the worst",
+        "el peor"
+      ],
+      [
+        "with the noun",
+        "le plus beau livre",
+        "the most beautiful book",
+        "el libro más bonito"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Relative pronouns qui and que",
+    "description": "qui is the subject, que is the object of the relative clause.",
+    "columns": [
+      "Pronoun",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "qui (subject)",
+        "L'homme qui parle est mon père.",
+        "The man who is speaking is my father.",
+        "El hombre que habla es mi padre."
+      ],
+      [
+        "que (object)",
+        "Le livre que je lis est bon.",
+        "The book that I am reading is good.",
+        "El libro que leo es bueno."
+      ],
+      [
+        "qui (after a preposition)",
+        "L'ami avec qui je travaille",
+        "The friend with whom I work",
+        "El amigo con quien trabajo"
+      ],
+      [
+        "que (before a vowel)",
+        "L'ami qu'il connaît",
+        "The friend that he knows",
+        "El amigo que él conoce"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "si + présent",
+    "description": "For real conditions: si + present, then present, future or imperative.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "real condition",
+        "Si tu viens, je serai content.",
+        "If you come, I will be happy.",
+        "Si vienes, estaré contento."
+      ],
+      [
+        "general truth",
+        "Si on chauffe l'eau, elle bout.",
+        "If you heat water, it boils.",
+        "Si calientas el agua, hierve."
+      ],
+      [
+        "advice",
+        "Si tu as faim, mange.",
+        "If you are hungry, eat.",
+        "Si tienes hambre, come."
+      ],
+      [
+        "negative",
+        "S'il ne pleut pas, nous irons.",
+        "If it does not rain, we will go.",
+        "Si no llueve, iremos."
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "venir de + infinitive",
+    "description": "Expresses what has just happened.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "je viens d'arriver",
+        "I have just arrived",
+        "acabo de llegar"
+      ],
+      [
+        "tu",
+        "tu viens de partir",
+        "you have just left",
+        "acabas de irte"
+      ],
+      [
+        "il / elle",
+        "il vient de finir",
+        "he has just finished",
+        "acaba de terminar"
+      ],
+      [
+        "nous",
+        "nous venons de manger",
+        "we have just eaten",
+        "acabamos de comer"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "depuis + present",
+    "description": "French uses the present where English uses the perfect with 'for / since'.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "duration",
+        "Je travaille ici depuis trois ans.",
+        "I have been working here for three years.",
+        "Trabajo aquí desde hace tres años."
+      ],
+      [
+        "point in time",
+        "Il est malade depuis lundi.",
+        "He has been ill since Monday.",
+        "Está enfermo desde el lunes."
+      ],
+      [
+        "question",
+        "Depuis quand attendez-vous ?",
+        "Since when have you been waiting?",
+        "¿Desde cuándo esperáis?"
+      ],
+      [
+        "negative",
+        "Je ne l'ai pas vu depuis un an.",
+        "I have not seen him for a year.",
+        "No lo he visto desde hace un año."
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Demonstratives ce / cet / cette / ces",
+    "description": "cet is used before a masculine noun starting with a vowel.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "m. sg.",
+        "ce livre",
+        "this book",
+        "este libro"
+      ],
+      [
+        "m. before a vowel",
+        "cet homme",
+        "this man",
+        "este hombre"
+      ],
+      [
+        "f. sg.",
+        "cette maison",
+        "this house",
+        "esta casa"
+      ],
+      [
+        "plural",
+        "ces livres",
+        "these books",
+        "estos libros"
+      ],
+      [
+        "with -ci / -là",
+        "ce livre-ci / ce livre-là",
+        "this book here / that book there",
+        "este libro / aquel libro"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Plus-que-parfait",
+    "description": "The past of the past: avoir or être in the imparfait + participle.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "j'avais mangé",
+        "I had eaten",
+        "había comido"
+      ],
+      [
+        "tu",
+        "tu avais mangé",
+        "you had eaten",
+        "habías comido"
+      ],
+      [
+        "il / elle",
+        "il avait mangé",
+        "he had eaten",
+        "había comido"
+      ],
+      [
+        "nous",
+        "nous avions mangé",
+        "we had eaten",
+        "habíamos comido"
+      ],
+      [
+        "ils / elles",
+        "ils avaient mangé",
+        "they had eaten",
+        "habían comido"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Conditionnel présent",
+    "description": "The infinitive stem plus imparfait endings: politeness, wishes, hypotheses.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "je voudrais",
+        "I would like",
+        "me gustaría"
+      ],
+      [
+        "tu",
+        "tu pourrais",
+        "you could",
+        "podrías"
+      ],
+      [
+        "il / elle",
+        "il ferait",
+        "he would do",
+        "él haría"
+      ],
+      [
+        "nous",
+        "nous aimerions",
+        "we would like",
+        "nos gustaría"
+      ],
+      [
+        "ils / elles",
+        "ils viendraient",
+        "they would come",
+        "ellos vendrían"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "si + imparfait → conditionnel",
+    "description": "For unreal or polite hypotheses: never 'si' followed by a conditional.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "hypothesis",
+        "Si j'avais de l'argent, je voyagerais.",
+        "If I had money, I would travel.",
+        "Si tuviera dinero, viajaría."
+      ],
+      [
+        "hypothesis",
+        "Si tu venais, nous serions contents.",
+        "If you came, we would be happy.",
+        "Si vinieras, estaríamos contentos."
+      ],
+      [
+        "polite",
+        "Si vous pouviez m'aider…",
+        "If you could help me…",
+        "Si pudierais ayudarme…"
+      ],
+      [
+        "rule",
+        "jamais « si » + conditionnel",
+        "never 'si' + conditional",
+        "nunca 'si' + condicional"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Subjonctif présent",
+    "description": "Triggered by will, emotion, necessity and doubt after 'que'.",
+    "columns": [
+      "Person",
+      "French (que… faire)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "que je fasse",
+        "that I do",
+        "que yo haga"
+      ],
+      [
+        "tu",
+        "que tu fasses",
+        "that you do",
+        "que tú hagas"
+      ],
+      [
+        "il / elle",
+        "qu'il fasse",
+        "that he does",
+        "que él haga"
+      ],
+      [
+        "nous",
+        "que nous fassions",
+        "that we do",
+        "que nosotros hagamos"
+      ],
+      [
+        "ils / elles",
+        "qu'ils fassent",
+        "that they do",
+        "que ellos hagan"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Gérondif (en + -ant)",
+    "description": "Expresses simultaneity, means or condition.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "simultaneous",
+        "Il mange en lisant.",
+        "He eats while reading.",
+        "Come leyendo."
+      ],
+      [
+        "means",
+        "En travaillant, on apprend.",
+        "By working, one learns.",
+        "Trabajando, se aprende."
+      ],
+      [
+        "condition",
+        "En partant tôt, tu arriveras.",
+        "By leaving early, you will arrive.",
+        "Saliendo temprano, llegarás."
+      ],
+      [
+        "form",
+        "en + participe présent",
+        "en + present participle",
+        "en + participio presente"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "Tenses shift back and time words change when speech is reported.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "Il a dit qu'il était fatigué.",
+        "He said that he was tired.",
+        "Dijo que estaba cansado."
+      ],
+      [
+        "question",
+        "Elle m'a demandé où j'habitais.",
+        "She asked me where I lived.",
+        "Me preguntó dónde vivía."
+      ],
+      [
+        "command",
+        "Il m'a dit de partir.",
+        "He told me to leave.",
+        "Me dijo que me fuera."
+      ],
+      [
+        "future",
+        "Elle a dit qu'elle viendrait.",
+        "She said that she would come.",
+        "Dijo que vendría."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Relative pronouns dont and où",
+    "description": "dont replaces 'de + noun'; où replaces a place or time.",
+    "columns": [
+      "Pronoun",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "dont",
+        "Le livre dont je parle",
+        "The book I am talking about",
+        "El libro del que hablo"
+      ],
+      [
+        "dont",
+        "L'ami dont j'ai besoin",
+        "The friend I need",
+        "El amigo que necesito"
+      ],
+      [
+        "où (place)",
+        "La ville où je suis né",
+        "The city where I was born",
+        "La ciudad donde nací"
+      ],
+      [
+        "où (time)",
+        "Le jour où nous nous sommes rencontrés",
+        "The day when we met",
+        "El día en que nos conocimos"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Logical connectors",
+    "description": "These link clauses and structure an argument.",
+    "columns": [
+      "Connector",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "cause",
+        "parce que",
+        "because",
+        "porque"
+      ],
+      [
+        "consequence",
+        "donc",
+        "so / therefore",
+        "así que"
+      ],
+      [
+        "opposition",
+        "cependant",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "addition",
+        "de plus",
+        "moreover",
+        "además"
+      ],
+      [
+        "goal",
+        "pour que",
+        "so that",
+        "para que"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Causative faire",
+    "description": "faire + infinitive = to have something done or to make someone do it.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "have sth done",
+        "Je fais réparer la voiture.",
+        "I have the car repaired.",
+        "Hago reparar el coche."
+      ],
+      [
+        "make sb do",
+        "Il fait travailler les élèves.",
+        "He makes the pupils work.",
+        "Hace trabajar a los alumnos."
+      ],
+      [
+        "have sb come",
+        "Nous faisons venir le médecin.",
+        "We have the doctor come.",
+        "Hacemos venir al médico."
+      ],
+      [
+        "form",
+        "faire + infinitif",
+        "faire + infinitive",
+        "faire + infinitivo"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Verbs with à or de",
+    "description": "Some verbs need à, others de before an infinitive.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "à",
+        "commencer à",
+        "to start to",
+        "empezar a"
+      ],
+      [
+        "à",
+        "apprendre à",
+        "to learn to",
+        "aprender a"
+      ],
+      [
+        "de",
+        "essayer de",
+        "to try to",
+        "intentar"
+      ],
+      [
+        "de",
+        "refuser de",
+        "to refuse to",
+        "negarse a"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Negative words",
+    "description": "These replace the pas of ne… pas.",
+    "columns": [
+      "Word",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "never",
+        "ne… jamais",
+        "never",
+        "nunca"
+      ],
+      [
+        "nothing",
+        "ne… rien",
+        "nothing",
+        "nada"
+      ],
+      [
+        "nobody",
+        "ne… personne",
+        "nobody",
+        "nadie"
+      ],
+      [
+        "no longer",
+        "ne… plus",
+        "no longer",
+        "ya no"
+      ],
+      [
+        "only",
+        "ne… que",
+        "only",
+        "solo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "bien que + subjonctif",
+    "description": "A common concessive conjunction: 'although'.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "concession",
+        "Bien qu'il soit tard, il travaille.",
+        "Although it is late, he works.",
+        "Aunque es tarde, trabaja."
+      ],
+      [
+        "concession",
+        "Bien que je sois fatigué, je continue.",
+        "Although I am tired, I continue.",
+        "Aunque estoy cansado, sigo."
+      ],
+      [
+        "concession",
+        "Bien qu'elle soit jeune, elle est sage.",
+        "Although she is young, she is wise.",
+        "Aunque es joven, es sabia."
+      ],
+      [
+        "rule",
+        "bien que + subjonctif",
+        "bien que + subjunctive",
+        "bien que + subjuntivo"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Subjonctif passé",
+    "description": "avoir or être in the subjonctif présent + participle.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "que je sois parti",
+        "that I left",
+        "que yo haya salido"
+      ],
+      [
+        "il / elle",
+        "qu'il soit venu",
+        "that he came",
+        "que él haya venido"
+      ],
+      [
+        "nous",
+        "que nous ayons fini",
+        "that we finished",
+        "que hayamos terminado"
+      ],
+      [
+        "ils / elles",
+        "qu'ils aient vu",
+        "that they saw",
+        "que hayan visto"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Conditionnel passé",
+    "description": "Would have: conditionnel of the auxiliary + participle.",
+    "columns": [
+      "Person",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "je",
+        "j'aurais mangé",
+        "I would have eaten",
+        "habría comido"
+      ],
+      [
+        "tu",
+        "tu aurais pu",
+        "you could have",
+        "habrías podido"
+      ],
+      [
+        "il / elle",
+        "il aurait dû",
+        "he should have",
+        "habría debido"
+      ],
+      [
+        "nous",
+        "nous aurions aimé",
+        "we would have liked",
+        "nos habría gustado"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "si + plus-que-parfait",
+    "description": "For unreal past conditions: si + plus-que-parfait → conditionnel passé.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "unreal past",
+        "Si j'avais su, je serais venu.",
+        "If I had known, I would have come.",
+        "Si lo hubiera sabido, habría venido."
+      ],
+      [
+        "unreal past",
+        "S'il avait travaillé, il aurait réussi.",
+        "If he had worked, he would have succeeded.",
+        "Si hubiera trabajado, habría tenido éxito."
+      ],
+      [
+        "regret",
+        "Si nous étions partis tôt…",
+        "If only we had left early…",
+        "Si hubiéramos salido temprano…"
+      ],
+      [
+        "pattern",
+        "si + plus-que-parfait → conditionnel passé",
+        "if + past perfect → past conditional",
+        "si + pluscuamperfecto → condicional compuesto"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Agreement of the past participle",
+    "description": "With être it agrees with the subject; with avoir, with a preceding direct object.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with être",
+        "Elle est arrivée.",
+        "She has arrived (feminine).",
+        "Ella ha llegado."
+      ],
+      [
+        "avoir + object before",
+        "Les livres que j'ai lus",
+        "The books that I have read",
+        "Los libros que he leído"
+      ],
+      [
+        "no agreement",
+        "J'ai lu les livres.",
+        "I have read the books.",
+        "He leído los libros."
+      ],
+      [
+        "reflexive",
+        "Elle s'est lavée.",
+        "She washed herself.",
+        "Ella se ha lavado."
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "quoi que / quoique",
+    "description": "Two words mean 'whatever', one word means 'although'.",
+    "columns": [
+      "Form",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "quoi que (2 words)",
+        "Quoi que tu fasses…",
+        "Whatever you do…",
+        "Hagas lo que hagas…"
+      ],
+      [
+        "quoique (1 word)",
+        "Quoique il soit tard…",
+        "Although it is late…",
+        "Aunque es tarde…"
+      ],
+      [
+        "quoi que",
+        "Quoi que tu dises…",
+        "Whatever you say…",
+        "Digas lo que digas…"
+      ],
+      [
+        "quoique",
+        "Quoique malade…",
+        "Although ill…",
+        "Aunque enfermo…"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "afin que + subjonctif",
+    "description": "A formal way to express purpose.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "purpose",
+        "Je parle fort afin que tout le monde entende.",
+        "I speak loudly so that everyone hears.",
+        "Hablo fuerte para que todos oigan."
+      ],
+      [
+        "purpose",
+        "Il travaille afin que sa famille vive mieux.",
+        "He works so that his family lives better.",
+        "Trabaja para que su familia viva mejor."
+      ],
+      [
+        "rule",
+        "afin que + subjonctif",
+        "afin que + subjunctive",
+        "afin que + subjuntivo"
+      ],
+      [
+        "synonym",
+        "pour que",
+        "so that",
+        "para que"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "à condition que",
+    "description": "Expresses a required condition, with the subjunctive.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "condition",
+        "Je viendrai à condition que tu m'invites.",
+        "I will come provided that you invite me.",
+        "Vendré siempre que me invites."
+      ],
+      [
+        "condition",
+        "Il réussira à condition qu'il travaille.",
+        "He will succeed provided that he works.",
+        "Tendrá éxito siempre que trabaje."
+      ],
+      [
+        "rule",
+        "à condition que + subjonctif",
+        "à condition que + subjunctive",
+        "à condition que + subjuntivo"
+      ],
+      [
+        "synonym",
+        "pourvu que",
+        "provided that",
+        "con tal de que"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "sous prétexte que",
+    "description": "Introduces an alleged reason, often an excuse.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "pretext",
+        "Il est parti sous prétexte qu'il était malade.",
+        "He left on the pretext that he was ill.",
+        "Se fue con la excusa de que estaba enfermo."
+      ],
+      [
+        "pretext",
+        "Elle refuse sous prétexte qu'elle n'a pas le temps.",
+        "She refuses on the pretext that she has no time.",
+        "Se niega con la excusa de que no tiene tiempo."
+      ],
+      [
+        "rule",
+        "sous prétexte que + indicatif",
+        "sous prétexte que + indicative",
+        "sous prétexte que + indicativo"
+      ],
+      [
+        "meaning",
+        "excuse invoquée",
+        "alleged reason",
+        "excusa alegada"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "d'autant plus que",
+    "description": "Strengthens a statement by adding a reinforcing reason.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reinforcement",
+        "Il est content d'autant plus qu'il a réussi.",
+        "He is happy, all the more because he succeeded.",
+        "Está contento, tanto más cuanto que tuvo éxito."
+      ],
+      [
+        "reinforcement",
+        "C'est difficile d'autant plus que c'est nouveau.",
+        "It is difficult, all the more so because it is new.",
+        "Es difícil, tanto más cuanto que es nuevo."
+      ],
+      [
+        "opposite",
+        "d'autant moins que",
+        "all the less because",
+        "tanto menos cuanto que"
+      ],
+      [
+        "meaning",
+        "renforce la raison",
+        "strengthens the reason",
+        "refuerza la razón"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "non seulement… mais aussi",
+    "description": "A double emphasis: not only … but also.",
+    "columns": [
+      "Use",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "addition",
+        "Il parle non seulement anglais mais aussi français.",
+        "He speaks not only English but also French.",
+        "Habla no solo inglés sino también francés."
+      ],
+      [
+        "addition",
+        "Elle est non seulement intelligente mais aussi travailleuse.",
+        "She is not only intelligent but also hard-working.",
+        "No solo es inteligente sino también trabajadora."
+      ],
+      [
+        "agreement",
+        "Non seulement il est riche, mais aussi généreux.",
+        "Not only is he rich, but he is also generous.",
+        "No solo es rico, sino también generoso."
+      ],
+      [
+        "meaning",
+        "double insistance",
+        "double emphasis",
+        "doble énfasis"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "en dépit de / faute de",
+    "description": "Two formal prepositional phrases of cause.",
+    "columns": [
+      "Expression",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "en dépit de",
+        "En dépit de la pluie, nous sommes sortis.",
+        "Despite the rain, we went out.",
+        "A pesar de la lluvia, salimos."
+      ],
+      [
+        "faute de",
+        "Faute de temps, nous avons abandonné.",
+        "For lack of time, we gave up.",
+        "Por falta de tiempo, abandonamos."
+      ],
+      [
+        "en dépit des",
+        "en dépit des difficultés",
+        "despite the difficulties",
+        "a pesar de las dificultades"
+      ],
+      [
+        "faute d'",
+        "faute d'argent",
+        "for lack of money",
+        "por falta de dinero"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "quitte à / au risque de",
+    "description": "Accept the possible downside of an action.",
+    "columns": [
+      "Expression",
+      "French",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "quitte à",
+        "Je le ferai, quitte à perdre mon travail.",
+        "I will do it even if it means losing my job.",
+        "Lo haré aunque tenga que perder mi trabajo."
+      ],
+      [
+        "au risque de",
+        "Il dit la vérité au risque de tout perdre.",
+        "He tells the truth at the risk of losing everything.",
+        "Dice la verdad a riesgo de perderlo todo."
+      ],
+      [
+        "quitte à",
+        "quitte à tout abandonner",
+        "even if it means abandoning everything",
+        "aunque tenga que abandonarlo todo"
+      ],
+      [
+        "au risque d'",
+        "au risque d'échouer",
+        "at the risk of failing",
+        "a riesgo de fracasar"
+      ]
+    ]
+  }
+]

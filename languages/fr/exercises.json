@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct form of être (to be) into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ étudiant.",
+        "answer": "suis",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "Tu ___ mon ami.",
+        "answer": "es",
+        "translation_en": "You are my friend.",
+        "translation_es": "Eres mi amigo."
+      },
+      {
+        "sentence": "Il ___ français.",
+        "answer": "est",
+        "translation_en": "He is French.",
+        "translation_es": "Él es francés."
+      },
+      {
+        "sentence": "Nous ___ amis.",
+        "answer": "sommes",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of avoir (to have) into each gap.",
+    "items": [
+      {
+        "sentence": "J'___ un livre.",
+        "answer": "ai",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Tu ___ un chien.",
+        "answer": "as",
+        "translation_en": "You have a dog.",
+        "translation_es": "Tienes un perro."
+      },
+      {
+        "sentence": "Elle ___ vingt ans.",
+        "answer": "a",
+        "translation_en": "She is twenty years old.",
+        "translation_es": "Ella tiene veinte años."
+      },
+      {
+        "sentence": "Nous ___ une maison.",
+        "answer": "avons",
+        "translation_en": "We have a house.",
+        "translation_es": "Tenemos una casa."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the definite article into each gap.",
+    "items": [
+      {
+        "sentence": "___ livre est sur la table.",
+        "answer": "Le",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "___ maison est grande.",
+        "answer": "La",
+        "translation_en": "The house is big.",
+        "translation_es": "La casa es grande."
+      },
+      {
+        "sentence": "___ enfants jouent dans le parc.",
+        "answer": "Les",
+        "translation_en": "The children play in the park.",
+        "translation_es": "Los niños juegan en el parque."
+      },
+      {
+        "sentence": "___ école est neuve.",
+        "answer": "L'",
+        "translation_en": "The school is new.",
+        "translation_es": "La escuela es nueva."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the indefinite article into each gap.",
+    "items": [
+      {
+        "sentence": "J'ai ___ chat.",
+        "answer": "un",
+        "translation_en": "I have a cat.",
+        "translation_es": "Tengo un gato."
+      },
+      {
+        "sentence": "C'est ___ maison.",
+        "answer": "une",
+        "translation_en": "It is a house.",
+        "translation_es": "Es una casa."
+      },
+      {
+        "sentence": "Il y a ___ livres sur la table.",
+        "answer": "des",
+        "translation_en": "There are books on the table.",
+        "translation_es": "Hay libros sobre la mesa."
+      },
+      {
+        "sentence": "Elle a ___ idée.",
+        "answer": "une",
+        "translation_en": "She has an idea.",
+        "translation_es": "Ella tiene una idea."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag ne into each gap for the negative.",
+    "items": [
+      {
+        "sentence": "Je ___ suis pas étudiant.",
+        "answer": "ne",
+        "translation_en": "I am not a student.",
+        "translation_es": "No soy estudiante."
+      },
+      {
+        "sentence": "Il ___ parle pas français.",
+        "answer": "ne",
+        "translation_en": "He does not speak French.",
+        "translation_es": "Él no habla francés."
+      },
+      {
+        "sentence": "Nous n'___ pas de voiture.",
+        "answer": "avons",
+        "translation_en": "We do not have a car.",
+        "translation_es": "No tenemos coche."
+      },
+      {
+        "sentence": "Elle ___ mange pas.",
+        "answer": "ne",
+        "translation_en": "She does not eat.",
+        "translation_es": "Ella no come."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag un or une into each gap.",
+    "items": [
+      {
+        "sentence": "___ homme",
+        "answer": "Un",
+        "translation_en": "a man",
+        "translation_es": "un hombre"
+      },
+      {
+        "sentence": "___ femme",
+        "answer": "Une",
+        "translation_en": "a woman",
+        "translation_es": "una mujer"
+      },
+      {
+        "sentence": "___ ami",
+        "answer": "Un",
+        "translation_en": "a friend",
+        "translation_es": "un amigo"
+      },
+      {
+        "sentence": "___ amie",
+        "answer": "Une",
+        "translation_en": "a friend (female)",
+        "translation_es": "una amiga"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag Est-ce que into each gap to ask a question.",
+    "items": [
+      {
+        "sentence": "___ tu parles français ?",
+        "answer": "Est-ce que",
+        "translation_en": "Do you speak French?",
+        "translation_es": "¿Hablas francés?"
+      },
+      {
+        "sentence": "___ il est là ?",
+        "answer": "Est-ce qu'",
+        "translation_en": "Is he there?",
+        "translation_es": "¿Está él ahí?"
+      },
+      {
+        "sentence": "___ vous avez un chat ?",
+        "answer": "Est-ce que",
+        "translation_en": "Do you have a cat?",
+        "translation_es": "¿Tenéis un gato?"
+      },
+      {
+        "sentence": "___ elle travaille ?",
+        "answer": "Est-ce que",
+        "translation_en": "Does she work?",
+        "translation_es": "¿Trabaja ella?"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ est-ce ?",
+        "answer": "Qui",
+        "translation_en": "Who is it?",
+        "translation_es": "¿Quién es?"
+      },
+      {
+        "sentence": "___ fais-tu ?",
+        "answer": "Que",
+        "translation_en": "What are you doing?",
+        "translation_es": "¿Qué haces?"
+      },
+      {
+        "sentence": "___ habites-tu ?",
+        "answer": "Où",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ viens-tu ?",
+        "answer": "Quand",
+        "translation_en": "When are you coming?",
+        "translation_es": "¿Cuándo vienes?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the plural -s into each gap.",
+    "items": [
+      {
+        "sentence": "un livre → deux livre___",
+        "answer": "s",
+        "translation_en": "two books",
+        "translation_es": "dos libros"
+      },
+      {
+        "sentence": "un chat → trois chat___",
+        "answer": "s",
+        "translation_en": "three cats",
+        "translation_es": "tres gatos"
+      },
+      {
+        "sentence": "une maison → deux maison___",
+        "answer": "s",
+        "translation_en": "two houses",
+        "translation_es": "dos casas"
+      },
+      {
+        "sentence": "un ami → des ami___",
+        "answer": "s",
+        "translation_en": "some friends",
+        "translation_es": "unos amigos"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct adjective form into each gap.",
+    "items": [
+      {
+        "sentence": "une ___ maison",
+        "answer": "grande",
+        "translation_en": "a big house",
+        "translation_es": "una casa grande"
+      },
+      {
+        "sentence": "un ___ garçon",
+        "answer": "petit",
+        "translation_en": "a small boy",
+        "translation_es": "un niño pequeño"
+      },
+      {
+        "sentence": "une ___ fille",
+        "answer": "petite",
+        "translation_en": "a small girl",
+        "translation_es": "una niña pequeña"
+      },
+      {
+        "sentence": "des ___ enfants",
+        "answer": "petits",
+        "translation_en": "small children",
+        "translation_es": "niños pequeños"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct possessive adjective into each gap.",
+    "items": [
+      {
+        "sentence": "___ mère est médecin.",
+        "answer": "Ma",
+        "translation_en": "My mother is a doctor.",
+        "translation_es": "Mi madre es médica."
+      },
+      {
+        "sentence": "___ père travaille ici.",
+        "answer": "Mon",
+        "translation_en": "My father works here.",
+        "translation_es": "Mi padre trabaja aquí."
+      },
+      {
+        "sentence": "___ amis sont gentils.",
+        "answer": "Mes",
+        "translation_en": "My friends are kind.",
+        "translation_es": "Mis amigos son amables."
+      },
+      {
+        "sentence": "___ maison est grande.",
+        "answer": "Notre",
+        "translation_en": "Our house is big.",
+        "translation_es": "Nuestra casa es grande."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct subject pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ suis français.",
+        "answer": "Je",
+        "translation_en": "I am French.",
+        "translation_es": "Soy francés."
+      },
+      {
+        "sentence": "___ es mon ami.",
+        "answer": "Tu",
+        "translation_en": "You are my friend.",
+        "translation_es": "Eres mi amigo."
+      },
+      {
+        "sentence": "___ est médecin.",
+        "answer": "Il",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "___ sommes ici.",
+        "answer": "Nous",
+        "translation_en": "We are here.",
+        "translation_es": "Estamos aquí."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct -er verb form into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ français.",
+        "answer": "parle",
+        "translation_en": "I speak French.",
+        "translation_es": "Hablo francés."
+      },
+      {
+        "sentence": "Tu ___ anglais.",
+        "answer": "parles",
+        "translation_en": "You speak English.",
+        "translation_es": "Hablas inglés."
+      },
+      {
+        "sentence": "Il ___ espagnol.",
+        "answer": "parle",
+        "translation_en": "He speaks Spanish.",
+        "translation_es": "Él habla español."
+      },
+      {
+        "sentence": "Nous ___ basque.",
+        "answer": "parlons",
+        "translation_en": "We speak Basque.",
+        "translation_es": "Hablamos euskera."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct form of aller into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ au marché.",
+        "answer": "vais",
+        "translation_en": "I am going to the market.",
+        "translation_es": "Voy al mercado."
+      },
+      {
+        "sentence": "Tu ___ à l'école.",
+        "answer": "vas",
+        "translation_en": "You go to school.",
+        "translation_es": "Vas a la escuela."
+      },
+      {
+        "sentence": "Il ___ au travail.",
+        "answer": "va",
+        "translation_en": "He goes to work.",
+        "translation_es": "Él va al trabajo."
+      },
+      {
+        "sentence": "Nous ___ à Paris.",
+        "answer": "allons",
+        "translation_en": "We are going to Paris.",
+        "translation_es": "Vamos a París."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "Je vais ___ marché.",
+        "answer": "au",
+        "translation_en": "I am going to the market.",
+        "translation_es": "Voy al mercado."
+      },
+      {
+        "sentence": "Je vais ___ école.",
+        "answer": "à l'",
+        "translation_en": "I am going to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Je viens ___ France.",
+        "answer": "de",
+        "translation_en": "I come from France.",
+        "translation_es": "Vengo de Francia."
+      },
+      {
+        "sentence": "Je viens ___ Canada.",
+        "answer": "du",
+        "translation_en": "I come from Canada.",
+        "translation_es": "Vengo de Canadá."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "J'ai ___ chats.",
+        "answer": "deux",
+        "translation_en": "I have two cats.",
+        "translation_es": "Tengo dos gatos."
+      },
+      {
+        "sentence": "Il y a ___ personnes.",
+        "answer": "trois",
+        "translation_en": "There are three people.",
+        "translation_es": "Hay tres personas."
+      },
+      {
+        "sentence": "J'ai ___ ans.",
+        "answer": "dix",
+        "translation_en": "I am ten years old.",
+        "translation_es": "Tengo diez años."
+      },
+      {
+        "sentence": "C'est la ___ fois.",
+        "answer": "cinquième",
+        "translation_en": "It is the fifth time.",
+        "translation_es": "Es la quinta vez."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct day of the week into each gap.",
+    "items": [
+      {
+        "sentence": "Aujourd'hui, c'est lundi ; demain, c'est ___.",
+        "answer": "mardi",
+        "translation_en": "Today is Monday; tomorrow is Tuesday.",
+        "translation_es": "Hoy es lunes; mañana es martes."
+      },
+      {
+        "sentence": "___ est le premier jour de la semaine.",
+        "answer": "Lundi",
+        "translation_en": "Monday is the first day of the week.",
+        "translation_es": "El lunes es el primer día de la semana."
+      },
+      {
+        "sentence": "Le ___ et le dimanche, je ne travaille pas.",
+        "answer": "samedi",
+        "translation_en": "On Saturday and Sunday I do not work.",
+        "translation_es": "El sábado y el domingo no trabajo."
+      },
+      {
+        "sentence": "Nous sommes ___.",
+        "answer": "mercredi",
+        "translation_en": "It is Wednesday.",
+        "translation_es": "Es miércoles."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag très into each gap.",
+    "items": [
+      {
+        "sentence": "Cette maison est ___ grande.",
+        "answer": "très",
+        "translation_en": "This house is very big.",
+        "translation_es": "Esta casa es muy grande."
+      },
+      {
+        "sentence": "Il est ___ gentil.",
+        "answer": "très",
+        "translation_en": "He is very kind.",
+        "translation_es": "Él es muy amable."
+      },
+      {
+        "sentence": "Je suis ___ content.",
+        "answer": "très",
+        "translation_en": "I am very happy.",
+        "translation_es": "Estoy muy contento."
+      },
+      {
+        "sentence": "Le café est ___ chaud.",
+        "answer": "très",
+        "translation_en": "The coffee is very hot.",
+        "translation_es": "El café está muy caliente."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the partitive article into each gap.",
+    "items": [
+      {
+        "sentence": "Je bois ___ lait.",
+        "answer": "du",
+        "translation_en": "I drink milk.",
+        "translation_es": "Bebo leche."
+      },
+      {
+        "sentence": "Elle mange ___ pain.",
+        "answer": "du",
+        "translation_en": "She eats bread.",
+        "translation_es": "Ella come pan."
+      },
+      {
+        "sentence": "Nous mangeons ___ soupe.",
+        "answer": "de la",
+        "translation_en": "We eat soup.",
+        "translation_es": "Comemos sopa."
+      },
+      {
+        "sentence": "Il boit ___ eau.",
+        "answer": "de l'",
+        "translation_en": "He drinks water.",
+        "translation_es": "Él bebe agua."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag il y a into each gap.",
+    "items": [
+      {
+        "sentence": "___ un chat dans la maison.",
+        "answer": "Il y a",
+        "translation_en": "There is a cat in the house.",
+        "translation_es": "Hay un gato en la casa."
+      },
+      {
+        "sentence": "___ deux livres sur la table.",
+        "answer": "Il y a",
+        "translation_en": "There are two books on the table.",
+        "translation_es": "Hay dos libros sobre la mesa."
+      },
+      {
+        "sentence": "___ un problème.",
+        "answer": "Il y a",
+        "translation_en": "There is a problem.",
+        "translation_es": "Hay un problema."
+      },
+      {
+        "sentence": "___ beaucoup de monde.",
+        "answer": "Il y a",
+        "translation_en": "There are many people.",
+        "translation_es": "Hay mucha gente."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the auxiliary into each gap for the passé composé with avoir.",
+    "items": [
+      {
+        "sentence": "J'___ mangé.",
+        "answer": "ai",
+        "translation_en": "I have eaten.",
+        "translation_es": "He comido."
+      },
+      {
+        "sentence": "Tu ___ parlé français.",
+        "answer": "as",
+        "translation_en": "You spoke French.",
+        "translation_es": "Hablaste francés."
+      },
+      {
+        "sentence": "Il ___ fini.",
+        "answer": "a",
+        "translation_en": "He has finished.",
+        "translation_es": "Él ha terminado."
+      },
+      {
+        "sentence": "Nous ___ travaillé.",
+        "answer": "avons",
+        "translation_en": "We have worked.",
+        "translation_es": "Hemos trabajado."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the auxiliary into each gap for the passé composé with être.",
+    "items": [
+      {
+        "sentence": "Je ___ allé au marché.",
+        "answer": "suis",
+        "translation_en": "I went to the market.",
+        "translation_es": "Fui al mercado."
+      },
+      {
+        "sentence": "Elle ___ arrivée.",
+        "answer": "est",
+        "translation_en": "She has arrived.",
+        "translation_es": "Ella ha llegado."
+      },
+      {
+        "sentence": "Nous ___ partis.",
+        "answer": "sommes",
+        "translation_en": "We left.",
+        "translation_es": "Nos fuimos."
+      },
+      {
+        "sentence": "Ils ___ venus.",
+        "answer": "sont",
+        "translation_en": "They came.",
+        "translation_es": "Ellos vinieron."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the imparfait form into each gap.",
+    "items": [
+      {
+        "sentence": "Quand j'étais petit, je ___ souvent au parc.",
+        "answer": "allais",
+        "translation_en": "When I was little, I often went to the park.",
+        "translation_es": "Cuando era pequeño, iba a menudo al parque."
+      },
+      {
+        "sentence": "Il ___ beau hier.",
+        "answer": "faisait",
+        "translation_en": "The weather was nice yesterday.",
+        "translation_es": "Hacía buen tiempo ayer."
+      },
+      {
+        "sentence": "Nous ___ à la maison.",
+        "answer": "étions",
+        "translation_en": "We were at home.",
+        "translation_es": "Estábamos en casa."
+      },
+      {
+        "sentence": "Elle ___ toujours contente.",
+        "answer": "était",
+        "translation_en": "She was always happy.",
+        "translation_es": "Ella estaba siempre contenta."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the futur simple form into each gap.",
+    "items": [
+      {
+        "sentence": "Demain, je ___ au travail.",
+        "answer": "irai",
+        "translation_en": "Tomorrow I will go to work.",
+        "translation_es": "Mañana iré al trabajo."
+      },
+      {
+        "sentence": "Tu ___ bientôt.",
+        "answer": "arriveras",
+        "translation_en": "You will arrive soon.",
+        "translation_es": "Llegarás pronto."
+      },
+      {
+        "sentence": "Il ___ la vérité.",
+        "answer": "dira",
+        "translation_en": "He will tell the truth.",
+        "translation_es": "Él dirá la verdad."
+      },
+      {
+        "sentence": "Nous ___ ensemble.",
+        "answer": "travaillerons",
+        "translation_en": "We will work together.",
+        "translation_es": "Trabajaremos juntos."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the futur proche form into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ partir.",
+        "answer": "vais",
+        "translation_en": "I am going to leave.",
+        "translation_es": "Voy a salir."
+      },
+      {
+        "sentence": "Tu ___ manger.",
+        "answer": "vas",
+        "translation_en": "You are going to eat.",
+        "translation_es": "Vas a comer."
+      },
+      {
+        "sentence": "Il ___ arriver.",
+        "answer": "va",
+        "translation_en": "He is going to arrive.",
+        "translation_es": "Él va a llegar."
+      },
+      {
+        "sentence": "Nous ___ commencer.",
+        "answer": "allons",
+        "translation_en": "We are going to start.",
+        "translation_es": "Vamos a empezar."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct reflexive pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ lève à sept heures.",
+        "answer": "me",
+        "translation_en": "I get up at seven.",
+        "translation_es": "Me levanto a las siete."
+      },
+      {
+        "sentence": "Tu ___ appelles comment ?",
+        "answer": "t'",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "Elle ___ habille.",
+        "answer": "s'",
+        "translation_en": "She gets dressed.",
+        "translation_es": "Ella se viste."
+      },
+      {
+        "sentence": "Nous ___ couchons tard.",
+        "answer": "nous",
+        "translation_en": "We go to bed late.",
+        "translation_es": "Nos acostamos tarde."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct comparative word into each gap.",
+    "items": [
+      {
+        "sentence": "Il est plus grand ___ moi.",
+        "answer": "que",
+        "translation_en": "He is taller than me.",
+        "translation_es": "Él es más alto que yo."
+      },
+      {
+        "sentence": "Ce livre est ___ intéressant que l'autre.",
+        "answer": "plus",
+        "translation_en": "This book is more interesting than the other one.",
+        "translation_es": "Este libro es más interesante que el otro."
+      },
+      {
+        "sentence": "Elle est ___ rapide que moi.",
+        "answer": "moins",
+        "translation_en": "She is less fast than me.",
+        "translation_es": "Ella es menos rápida que yo."
+      },
+      {
+        "sentence": "Ce café est aussi bon ___ celui-là.",
+        "answer": "que",
+        "translation_en": "This coffee is as good as that one.",
+        "translation_es": "Este café es tan bueno como aquel."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the superlative article into each gap.",
+    "items": [
+      {
+        "sentence": "C'est ___ plus belle ville.",
+        "answer": "la",
+        "translation_en": "It is the most beautiful city.",
+        "translation_es": "Es la ciudad más bonita."
+      },
+      {
+        "sentence": "C'est ___ meilleur restaurant.",
+        "answer": "le",
+        "translation_en": "It is the best restaurant.",
+        "translation_es": "Es el mejor restaurante."
+      },
+      {
+        "sentence": "C'est ___ plus grand.",
+        "answer": "le",
+        "translation_en": "It is the biggest.",
+        "translation_es": "Es el más grande."
+      },
+      {
+        "sentence": "Ce sont ___ plus belles fleurs.",
+        "answer": "les",
+        "translation_en": "They are the most beautiful flowers.",
+        "translation_es": "Son las flores más bonitas."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the direct object pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ vois.",
+        "answer": "le",
+        "translation_en": "I see him.",
+        "translation_es": "Lo veo."
+      },
+      {
+        "sentence": "Je ___ connais.",
+        "answer": "la",
+        "translation_en": "I know her.",
+        "translation_es": "La conozco."
+      },
+      {
+        "sentence": "Je ___ aime.",
+        "answer": "les",
+        "translation_en": "I love them.",
+        "translation_es": "Los quiero."
+      },
+      {
+        "sentence": "Il ___ regarde.",
+        "answer": "la",
+        "translation_en": "He is watching her.",
+        "translation_es": "Él la mira."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag lui or leur into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ parle.",
+        "answer": "lui",
+        "translation_en": "I speak to him.",
+        "translation_es": "Le hablo."
+      },
+      {
+        "sentence": "Je ___ donne le livre.",
+        "answer": "leur",
+        "translation_en": "I give them the book.",
+        "translation_es": "Les doy el libro."
+      },
+      {
+        "sentence": "Elle ___ écrit une lettre.",
+        "answer": "lui",
+        "translation_en": "She writes him a letter.",
+        "translation_es": "Ella le escribe una carta."
+      },
+      {
+        "sentence": "Nous ___ téléphonons.",
+        "answer": "leur",
+        "translation_en": "We call them.",
+        "translation_es": "Les llamamos."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag y or en into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ vais.",
+        "answer": "y",
+        "translation_en": "I am going there.",
+        "translation_es": "Voy allí."
+      },
+      {
+        "sentence": "Je ___ pense.",
+        "answer": "y",
+        "translation_en": "I am thinking about it.",
+        "translation_es": "Pienso en ello."
+      },
+      {
+        "sentence": "J'___ ai deux.",
+        "answer": "en",
+        "translation_en": "I have two of them.",
+        "translation_es": "Tengo dos."
+      },
+      {
+        "sentence": "Tu ___ veux ?",
+        "answer": "en",
+        "translation_en": "Do you want some?",
+        "translation_es": "¿Quieres?"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag qui or que into each gap.",
+    "items": [
+      {
+        "sentence": "L'homme ___ parle est mon père.",
+        "answer": "qui",
+        "translation_en": "The man who is speaking is my father.",
+        "translation_es": "El hombre que habla es mi padre."
+      },
+      {
+        "sentence": "Le livre ___ je lis est bon.",
+        "answer": "que",
+        "translation_en": "The book that I am reading is good.",
+        "translation_es": "El libro que leo es bueno."
+      },
+      {
+        "sentence": "La femme ___ travaille ici est médecin.",
+        "answer": "qui",
+        "translation_en": "The woman who works here is a doctor.",
+        "translation_es": "La mujer que trabaja aquí es médica."
+      },
+      {
+        "sentence": "Les amis ___ j'ai invités sont là.",
+        "answer": "que",
+        "translation_en": "The friends that I invited are here.",
+        "translation_es": "Los amigos que invité están aquí."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct form for si + présent into each gap.",
+    "items": [
+      {
+        "sentence": "Si tu ___ , je viendrai.",
+        "answer": "viens",
+        "translation_en": "If you come, I will come.",
+        "translation_es": "Si vienes, vendré."
+      },
+      {
+        "sentence": "S'il pleut, nous ___ à la maison.",
+        "answer": "resterons",
+        "translation_en": "If it rains, we will stay at home.",
+        "translation_es": "Si llueve, nos quedaremos en casa."
+      },
+      {
+        "sentence": "Si tu ___ faim, mange.",
+        "answer": "as",
+        "translation_en": "If you are hungry, eat.",
+        "translation_es": "Si tienes hambre, come."
+      },
+      {
+        "sentence": "Si elle ___ , nous partirons.",
+        "answer": "arrive",
+        "translation_en": "If she arrives, we will leave.",
+        "translation_es": "Si ella llega, nos iremos."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag venir de into each gap for the recent past.",
+    "items": [
+      {
+        "sentence": "Je ___ d'arriver.",
+        "answer": "viens",
+        "translation_en": "I have just arrived.",
+        "translation_es": "Acabo de llegar."
+      },
+      {
+        "sentence": "Il ___ de partir.",
+        "answer": "vient",
+        "translation_en": "He has just left.",
+        "translation_es": "Acaba de irse."
+      },
+      {
+        "sentence": "Nous ___ de manger.",
+        "answer": "venons",
+        "translation_en": "We have just eaten.",
+        "translation_es": "Acabamos de comer."
+      },
+      {
+        "sentence": "Elle ___ de finir.",
+        "answer": "vient",
+        "translation_en": "She has just finished.",
+        "translation_es": "Ella acaba de terminar."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag depuis into each gap.",
+    "items": [
+      {
+        "sentence": "Je travaille ici ___ trois ans.",
+        "answer": "depuis",
+        "translation_en": "I have been working here for three years.",
+        "translation_es": "Trabajo aquí desde hace tres años."
+      },
+      {
+        "sentence": "Il est malade ___ lundi.",
+        "answer": "depuis",
+        "translation_en": "He has been ill since Monday.",
+        "translation_es": "Está enfermo desde el lunes."
+      },
+      {
+        "sentence": "Nous habitons ici ___ 2010.",
+        "answer": "depuis",
+        "translation_en": "We have lived here since 2010.",
+        "translation_es": "Vivimos aquí desde 2010."
+      },
+      {
+        "sentence": "Elle attend ___ une heure.",
+        "answer": "depuis",
+        "translation_en": "She has been waiting for an hour.",
+        "translation_es": "Ella espera desde hace una hora."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct demonstrative into each gap.",
+    "items": [
+      {
+        "sentence": "___ livre est bon.",
+        "answer": "Ce",
+        "translation_en": "This book is good.",
+        "translation_es": "Este libro es bueno."
+      },
+      {
+        "sentence": "___ homme est médecin.",
+        "answer": "Cet",
+        "translation_en": "This man is a doctor.",
+        "translation_es": "Este hombre es médico."
+      },
+      {
+        "sentence": "___ femme est gentille.",
+        "answer": "Cette",
+        "translation_en": "This woman is kind.",
+        "translation_es": "Esta mujer es amable."
+      },
+      {
+        "sentence": "___ livres sont neufs.",
+        "answer": "Ces",
+        "translation_en": "These books are new.",
+        "translation_es": "Estos libros son nuevos."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the adverb in -ment into each gap.",
+    "items": [
+      {
+        "sentence": "Il parle ___ .",
+        "answer": "lentement",
+        "translation_en": "He speaks slowly.",
+        "translation_es": "Habla lentamente."
+      },
+      {
+        "sentence": "Elle travaille ___ .",
+        "answer": "rapidement",
+        "translation_en": "She works quickly.",
+        "translation_es": "Trabaja rápidamente."
+      },
+      {
+        "sentence": "Il répond ___ .",
+        "answer": "poliment",
+        "translation_en": "He answers politely.",
+        "translation_es": "Responde educadamente."
+      },
+      {
+        "sentence": "Ils chantent ___ .",
+        "answer": "joyeusement",
+        "translation_en": "They sing joyfully.",
+        "translation_es": "Cantan alegremente."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the adverb in -ment into each gap.",
+    "items": [
+      {
+        "sentence": "Il marche ___ dans la rue.",
+        "answer": "calmement",
+        "translation_en": "He walks calmly in the street.",
+        "translation_es": "Camina tranquilamente por la calle."
+      },
+      {
+        "sentence": "Elle explique ___ la leçon.",
+        "answer": "clairement",
+        "translation_en": "She explains the lesson clearly.",
+        "translation_es": "Explica la lección claramente."
+      },
+      {
+        "sentence": "Nous attendons ___ .",
+        "answer": "patiemment",
+        "translation_en": "We wait patiently.",
+        "translation_es": "Esperamos con paciencia."
+      },
+      {
+        "sentence": "Ils parlent ___ français.",
+        "answer": "couramment",
+        "translation_en": "They speak French fluently.",
+        "translation_es": "Hablan francés con fluidez."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag tout, toute or tous into each gap.",
+    "items": [
+      {
+        "sentence": "___ les jours, je travaille.",
+        "answer": "Tous",
+        "translation_en": "Every day I work.",
+        "translation_es": "Todos los días trabajo."
+      },
+      {
+        "sentence": "___ la journée, il pleut.",
+        "answer": "Toute",
+        "translation_en": "It rains all day.",
+        "translation_es": "Llueve todo el día."
+      },
+      {
+        "sentence": "___ le monde est là.",
+        "answer": "Tout",
+        "translation_en": "Everyone is here.",
+        "translation_es": "Todo el mundo está aquí."
+      },
+      {
+        "sentence": "J'ai lu ___ le livre.",
+        "answer": "tout",
+        "translation_en": "I read the whole book.",
+        "translation_es": "Leí todo el libro."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the imperative form into each gap.",
+    "items": [
+      {
+        "sentence": "___ ici !",
+        "answer": "Viens",
+        "translation_en": "Come here!",
+        "translation_es": "¡Ven aquí!"
+      },
+      {
+        "sentence": "___ votre travail !",
+        "answer": "Faites",
+        "translation_en": "Do your work!",
+        "translation_es": "¡Haced vuestro trabajo!"
+      },
+      {
+        "sentence": "___ pas !",
+        "answer": "Ne pars",
+        "translation_en": "Do not leave!",
+        "translation_es": "¡No te vayas!"
+      },
+      {
+        "sentence": "___ -moi la vérité.",
+        "answer": "Dis",
+        "translation_en": "Tell me the truth.",
+        "translation_es": "Dime la verdad."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the plus-que-parfait form into each gap.",
+    "items": [
+      {
+        "sentence": "Quand je suis arrivé, il ___ déjà parti.",
+        "answer": "était",
+        "translation_en": "When I arrived, he had already left.",
+        "translation_es": "Cuando llegué, él ya se había ido."
+      },
+      {
+        "sentence": "Elle a dit qu'elle ___ vu le film.",
+        "answer": "avait",
+        "translation_en": "She said that she had seen the film.",
+        "translation_es": "Ella dijo que había visto la película."
+      },
+      {
+        "sentence": "Nous ___ mangé avant de sortir.",
+        "answer": "avions",
+        "translation_en": "We had eaten before going out.",
+        "translation_es": "Habíamos comido antes de salir."
+      },
+      {
+        "sentence": "Ils ___ fini le travail.",
+        "answer": "avaient",
+        "translation_en": "They had finished the work.",
+        "translation_es": "Habían terminado el trabajo."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the conditionnel présent form into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ voyager.",
+        "answer": "voudrais",
+        "translation_en": "I would like to travel.",
+        "translation_es": "Me gustaría viajar."
+      },
+      {
+        "sentence": "Tu ___ venir.",
+        "answer": "pourrais",
+        "translation_en": "You could come.",
+        "translation_es": "Podrías venir."
+      },
+      {
+        "sentence": "Il ___ mieux de rester.",
+        "answer": "ferait",
+        "translation_en": "He had better stay.",
+        "translation_es": "Haría mejor en quedarse."
+      },
+      {
+        "sentence": "Nous ___ partir demain.",
+        "answer": "aimerions",
+        "translation_en": "We would like to leave tomorrow.",
+        "translation_es": "Nos gustaría salir mañana."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct form for si + imparfait into each gap.",
+    "items": [
+      {
+        "sentence": "Si j'avais de l'argent, je ___ .",
+        "answer": "voyagerais",
+        "translation_en": "If I had money, I would travel.",
+        "translation_es": "Si tuviera dinero, viajaría."
+      },
+      {
+        "sentence": "Si tu venais, nous ___ contents.",
+        "answer": "serions",
+        "translation_en": "If you came, we would be happy.",
+        "translation_es": "Si vinieras, estaríamos contentos."
+      },
+      {
+        "sentence": "Si elle savait, elle ___ .",
+        "answer": "viendrait",
+        "translation_en": "If she knew, she would come.",
+        "translation_es": "Si ella supiera, vendría."
+      },
+      {
+        "sentence": "S'il faisait beau, nous ___ .",
+        "answer": "sortirions",
+        "translation_en": "If the weather were nice, we would go out.",
+        "translation_es": "Si hiciera buen tiempo, saldríamos."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the subjonctif présent form into each gap.",
+    "items": [
+      {
+        "sentence": "Il faut que tu ___ .",
+        "answer": "viennes",
+        "translation_en": "You must come.",
+        "translation_es": "Tienes que venir."
+      },
+      {
+        "sentence": "Je veux qu'il ___ .",
+        "answer": "parte",
+        "translation_en": "I want him to leave.",
+        "translation_es": "Quiero que él se vaya."
+      },
+      {
+        "sentence": "Bien qu'il ___ malade, il travaille.",
+        "answer": "soit",
+        "translation_en": "Although he is ill, he works.",
+        "translation_es": "Aunque esté enfermo, trabaja."
+      },
+      {
+        "sentence": "Il est important que vous ___ .",
+        "answer": "sachiez",
+        "translation_en": "It is important that you know.",
+        "translation_es": "Es importante que sepáis."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag en into each gap for the gérondif.",
+    "items": [
+      {
+        "sentence": "Il mange ___ lisant.",
+        "answer": "en",
+        "translation_en": "He eats while reading.",
+        "translation_es": "Come leyendo."
+      },
+      {
+        "sentence": "___ travaillant, on apprend.",
+        "answer": "En",
+        "translation_en": "By working, one learns.",
+        "translation_es": "Trabajando, se aprende."
+      },
+      {
+        "sentence": "Elle chante ___ dansant.",
+        "answer": "en",
+        "translation_en": "She sings while dancing.",
+        "translation_es": "Canta bailando."
+      },
+      {
+        "sentence": "Nous parlons ___ marchant.",
+        "answer": "en",
+        "translation_en": "We talk while walking.",
+        "translation_es": "Hablamos caminando."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct word for reported speech into each gap.",
+    "items": [
+      {
+        "sentence": "Il a dit qu'il ___ fatigué.",
+        "answer": "était",
+        "translation_en": "He said that he was tired.",
+        "translation_es": "Dijo que estaba cansado."
+      },
+      {
+        "sentence": "Elle m'a demandé ___ j'habitais.",
+        "answer": "où",
+        "translation_en": "She asked me where I lived.",
+        "translation_es": "Me preguntó dónde vivía."
+      },
+      {
+        "sentence": "Il m'a dit de ___ .",
+        "answer": "partir",
+        "translation_en": "He told me to leave.",
+        "translation_es": "Me dijo que me fuera."
+      },
+      {
+        "sentence": "Elle a dit qu'elle ___ le lendemain.",
+        "answer": "viendrait",
+        "translation_en": "She said that she would come the next day.",
+        "translation_es": "Dijo que vendría al día siguiente."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag dont or où into each gap.",
+    "items": [
+      {
+        "sentence": "L'homme ___ je parle est médecin.",
+        "answer": "dont",
+        "translation_en": "The man I am talking about is a doctor.",
+        "translation_es": "El hombre del que hablo es médico."
+      },
+      {
+        "sentence": "La ville ___ je suis né est petite.",
+        "answer": "où",
+        "translation_en": "The city where I was born is small.",
+        "translation_es": "La ciudad donde nací es pequeña."
+      },
+      {
+        "sentence": "Le livre ___ j'ai besoin est cher.",
+        "answer": "dont",
+        "translation_en": "The book that I need is expensive.",
+        "translation_es": "El libro que necesito es caro."
+      },
+      {
+        "sentence": "Le jour ___ nous nous sommes rencontrés était beau.",
+        "answer": "où",
+        "translation_en": "The day we met was beautiful.",
+        "translation_es": "El día que nos conocimos era bonito."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the logical connector into each gap.",
+    "items": [
+      {
+        "sentence": "Il pleut, ___ je prends un parapluie.",
+        "answer": "donc",
+        "translation_en": "It is raining, so I take an umbrella.",
+        "translation_es": "Llueve, así que cojo un paraguas."
+      },
+      {
+        "sentence": "Il est riche, ___ il n'est pas heureux.",
+        "answer": "pourtant",
+        "translation_en": "He is rich, yet he is not happy.",
+        "translation_es": "Es rico, sin embargo no es feliz."
+      },
+      {
+        "sentence": "Je suis fatigué, ___ je continue.",
+        "answer": "mais",
+        "translation_en": "I am tired, but I continue.",
+        "translation_es": "Estoy cansado, pero continúo."
+      },
+      {
+        "sentence": "___ il pleuvait, nous sommes sortis.",
+        "answer": "Cependant",
+        "translation_en": "However, it was raining and we went out.",
+        "translation_es": "Sin embargo, llovía y salimos."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the causative faire form into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ réparer la voiture.",
+        "answer": "fais",
+        "translation_en": "I have the car repaired.",
+        "translation_es": "Hago reparar el coche."
+      },
+      {
+        "sentence": "Il ___ construire une maison.",
+        "answer": "fait",
+        "translation_en": "He has a house built.",
+        "translation_es": "Él manda construir una casa."
+      },
+      {
+        "sentence": "Nous ___ venir le médecin.",
+        "answer": "faisons",
+        "translation_en": "We have the doctor come.",
+        "translation_es": "Hacemos venir al médico."
+      },
+      {
+        "sentence": "Elle ___ laver la voiture.",
+        "answer": "fait",
+        "translation_en": "She has the car washed.",
+        "translation_es": "Ella manda lavar el coche."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag à or de into each gap.",
+    "items": [
+      {
+        "sentence": "Je commence ___ travailler.",
+        "answer": "à",
+        "translation_en": "I am starting to work.",
+        "translation_es": "Empiezo a trabajar."
+      },
+      {
+        "sentence": "J'essaie ___ comprendre.",
+        "answer": "de",
+        "translation_en": "I am trying to understand.",
+        "translation_es": "Intento comprender."
+      },
+      {
+        "sentence": "Il apprend ___ nager.",
+        "answer": "à",
+        "translation_en": "He is learning to swim.",
+        "translation_es": "Está aprendiendo a nadar."
+      },
+      {
+        "sentence": "Elle refuse ___ venir.",
+        "answer": "de",
+        "translation_en": "She refuses to come.",
+        "translation_es": "Ella se niega a venir."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the subjonctif form after bien que into each gap.",
+    "items": [
+      {
+        "sentence": "Bien qu'il ___ tard, il travaille.",
+        "answer": "soit",
+        "translation_en": "Although it is late, he works.",
+        "translation_es": "Aunque es tarde, trabaja."
+      },
+      {
+        "sentence": "Bien que je ___ fatigué, je continue.",
+        "answer": "sois",
+        "translation_en": "Although I am tired, I continue.",
+        "translation_es": "Aunque estoy cansado, sigo."
+      },
+      {
+        "sentence": "Bien qu'elle ___ jeune, elle est sage.",
+        "answer": "soit",
+        "translation_en": "Although she is young, she is wise.",
+        "translation_es": "Aunque es joven, es sabia."
+      },
+      {
+        "sentence": "Bien que nous ___ pauvres, nous sommes heureux.",
+        "answer": "soyons",
+        "translation_en": "Although we are poor, we are happy.",
+        "translation_es": "Aunque somos pobres, somos felices."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag si or tellement into each gap.",
+    "items": [
+      {
+        "sentence": "Il est ___ fatigué qu'il dort.",
+        "answer": "tellement",
+        "translation_en": "He is so tired that he is sleeping.",
+        "translation_es": "Está tan cansado que duerme."
+      },
+      {
+        "sentence": "Elle court ___ vite qu'elle gagne.",
+        "answer": "si",
+        "translation_en": "She runs so fast that she wins.",
+        "translation_es": "Corre tan rápido que gana."
+      },
+      {
+        "sentence": "Il y a ___ de monde que je ne vois rien.",
+        "answer": "tellement",
+        "translation_en": "There are so many people that I see nothing.",
+        "translation_es": "Hay tanta gente que no veo nada."
+      },
+      {
+        "sentence": "C'est ___ difficile que personne ne réussit.",
+        "answer": "si",
+        "translation_en": "It is so difficult that nobody succeeds.",
+        "translation_es": "Es tan difícil que nadie lo consigue."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag en into each gap for the pronoun en.",
+    "items": [
+      {
+        "sentence": "J'ai des livres, j'___ ai trois.",
+        "answer": "en",
+        "translation_en": "I have books, I have three of them.",
+        "translation_es": "Tengo libros, tengo tres."
+      },
+      {
+        "sentence": "Tu veux du café ? Oui, j'___ veux.",
+        "answer": "en",
+        "translation_en": "Do you want coffee? Yes, I want some.",
+        "translation_es": "¿Quieres café? Sí, quiero."
+      },
+      {
+        "sentence": "Il parle de son travail, il ___ parle souvent.",
+        "answer": "en",
+        "translation_en": "He talks about his work, he often talks about it.",
+        "translation_es": "Habla de su trabajo, habla de ello a menudo."
+      },
+      {
+        "sentence": "Nous avons des amis et nous ___ parlons.",
+        "answer": "en",
+        "translation_en": "We have friends and we talk about them.",
+        "translation_es": "Tenemos amigos y hablamos de ellos."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag quel or quelle into each gap.",
+    "items": [
+      {
+        "sentence": "___ heure est-il ?",
+        "answer": "Quelle",
+        "translation_en": "What time is it?",
+        "translation_es": "¿Qué hora es?"
+      },
+      {
+        "sentence": "___ livre veux-tu ?",
+        "answer": "Quel",
+        "translation_en": "Which book do you want?",
+        "translation_es": "¿Qué libro quieres?"
+      },
+      {
+        "sentence": "___ est ton nom ?",
+        "answer": "Quel",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cuál es tu nombre?"
+      },
+      {
+        "sentence": "___ sont tes amis ?",
+        "answer": "Quels",
+        "translation_en": "Who are your friends?",
+        "translation_es": "¿Quiénes son tus amigos?"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag jamais, rien or personne into each gap.",
+    "items": [
+      {
+        "sentence": "Je ne ___ mange.",
+        "answer": "jamais",
+        "translation_en": "I never eat.",
+        "translation_es": "Nunca como."
+      },
+      {
+        "sentence": "Il n'y a ___ .",
+        "answer": "rien",
+        "translation_en": "There is nothing.",
+        "translation_es": "No hay nada."
+      },
+      {
+        "sentence": "Je ne vois ___ .",
+        "answer": "personne",
+        "translation_en": "I see nobody.",
+        "translation_es": "No veo a nadie."
+      },
+      {
+        "sentence": "Elle ne dit ___ .",
+        "answer": "rien",
+        "translation_en": "She says nothing.",
+        "translation_es": "Ella no dice nada."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the irregular superlative into each gap.",
+    "items": [
+      {
+        "sentence": "C'est mon ___ ami.",
+        "answer": "meilleur",
+        "translation_en": "He is my best friend.",
+        "translation_es": "Es mi mejor amigo."
+      },
+      {
+        "sentence": "C'est la ___ solution.",
+        "answer": "meilleure",
+        "translation_en": "It is the best solution.",
+        "translation_es": "Es la mejor solución."
+      },
+      {
+        "sentence": "C'est le ___ film.",
+        "answer": "pire",
+        "translation_en": "It is the worst film.",
+        "translation_es": "Es la peor película."
+      },
+      {
+        "sentence": "Il est ___ que moi.",
+        "answer": "meilleur",
+        "translation_en": "He is better than me.",
+        "translation_es": "Es mejor que yo."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the subjonctif passé form into each gap.",
+    "items": [
+      {
+        "sentence": "Bien qu'il ___ , il est venu.",
+        "answer": "ait plu",
+        "translation_en": "Although it rained, he came.",
+        "translation_es": "Aunque llovió, vino."
+      },
+      {
+        "sentence": "Je suis content que tu ___ .",
+        "answer": "sois venu",
+        "translation_en": "I am glad that you came.",
+        "translation_es": "Me alegro de que hayas venido."
+      },
+      {
+        "sentence": "Il regrette qu'elle ___ .",
+        "answer": "soit partie",
+        "translation_en": "He regrets that she left.",
+        "translation_es": "Lamenta que ella se haya ido."
+      },
+      {
+        "sentence": "Je doute qu'il ___ fini.",
+        "answer": "ait",
+        "translation_en": "I doubt that he has finished.",
+        "translation_es": "Dudo que haya terminado."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the conditionnel passé form into each gap.",
+    "items": [
+      {
+        "sentence": "J'___ voyagé si j'avais eu de l'argent.",
+        "answer": "aurais",
+        "translation_en": "I would have travelled if I had had money.",
+        "translation_es": "Habría viajado si hubiera tenido dinero."
+      },
+      {
+        "sentence": "Tu ___ pu venir.",
+        "answer": "aurais",
+        "translation_en": "You could have come.",
+        "translation_es": "Podrías haber venido."
+      },
+      {
+        "sentence": "Il ___ dû partir plus tôt.",
+        "answer": "aurait",
+        "translation_en": "He should have left earlier.",
+        "translation_es": "Habría debido irse antes."
+      },
+      {
+        "sentence": "Nous ___ aimé rester.",
+        "answer": "aurions",
+        "translation_en": "We would have liked to stay.",
+        "translation_es": "Nos habría gustado quedarnos."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct form for si + plus-que-parfait into each gap.",
+    "items": [
+      {
+        "sentence": "Si j'avais su, je ___ .",
+        "answer": "serais venu",
+        "translation_en": "If I had known, I would have come.",
+        "translation_es": "Si lo hubiera sabido, habría venido."
+      },
+      {
+        "sentence": "S'il avait travaillé, il ___ réussi.",
+        "answer": "aurait",
+        "translation_en": "If he had worked, he would have succeeded.",
+        "translation_es": "Si hubiera trabajado, habría tenido éxito."
+      },
+      {
+        "sentence": "Si nous étions partis tôt, nous n'___ pas raté le train.",
+        "answer": "aurions",
+        "translation_en": "If we had left early, we would not have missed the train.",
+        "translation_es": "Si hubiéramos salido temprano, no habríamos perdido el tren."
+      },
+      {
+        "sentence": "Si elle avait su, elle ___ .",
+        "answer": "aurait répondu",
+        "translation_en": "If she had known, she would have answered.",
+        "translation_es": "Si lo hubiera sabido, habría respondido."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correctly agreed past participle into each gap.",
+    "items": [
+      {
+        "sentence": "Les livres que j'ai ___ sont bons.",
+        "answer": "lus",
+        "translation_en": "The books that I have read are good.",
+        "translation_es": "Los libros que he leído son buenos."
+      },
+      {
+        "sentence": "La lettre que j'ai ___ est longue.",
+        "answer": "écrite",
+        "translation_en": "The letter that I have written is long.",
+        "translation_es": "La carta que he escrito es larga."
+      },
+      {
+        "sentence": "Les amis que j'ai ___ sont arrivés.",
+        "answer": "invités",
+        "translation_en": "The friends that I invited have arrived.",
+        "translation_es": "Los amigos que invité han llegado."
+      },
+      {
+        "sentence": "La ville que nous avons ___ était belle.",
+        "answer": "visitée",
+        "translation_en": "The city that we visited was beautiful.",
+        "translation_es": "La ciudad que visitamos era bonita."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag dont into each gap.",
+    "items": [
+      {
+        "sentence": "Le livre ___ je parle est intéressant.",
+        "answer": "dont",
+        "translation_en": "The book that I am talking about is interesting.",
+        "translation_es": "El libro del que hablo es interesante."
+      },
+      {
+        "sentence": "C'est l'ami ___ j'ai besoin.",
+        "answer": "dont",
+        "translation_en": "It is the friend that I need.",
+        "translation_es": "Es el amigo que necesito."
+      },
+      {
+        "sentence": "Voici la maison ___ le toit est rouge.",
+        "answer": "dont",
+        "translation_en": "Here is the house whose roof is red.",
+        "translation_es": "Aquí está la casa cuyo tejado es rojo."
+      },
+      {
+        "sentence": "Le projet ___ nous sommes fiers a réussi.",
+        "answer": "dont",
+        "translation_en": "The project that we are proud of has succeeded.",
+        "translation_es": "El proyecto del que estamos orgullosos ha tenido éxito."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag quoi que or quoique into each gap.",
+    "items": [
+      {
+        "sentence": "___ tu fasses, fais-le bien.",
+        "answer": "Quoi que",
+        "translation_en": "Whatever you do, do it well.",
+        "translation_es": "Hagas lo que hagas, hazlo bien."
+      },
+      {
+        "sentence": "___ il soit tard, il travaille.",
+        "answer": "Quoique",
+        "translation_en": "Although it is late, he works.",
+        "translation_es": "Aunque es tarde, trabaja."
+      },
+      {
+        "sentence": "___ tu dises, je ne te crois pas.",
+        "answer": "Quoi que",
+        "translation_en": "Whatever you say, I do not believe you.",
+        "translation_es": "Digas lo que digas, no te creo."
+      },
+      {
+        "sentence": "___ malade, elle est venue.",
+        "answer": "Quoique",
+        "translation_en": "Although ill, she came.",
+        "translation_es": "Aunque enferma, vino."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag afin que into each gap.",
+    "items": [
+      {
+        "sentence": "Je parle fort ___ tout le monde entende.",
+        "answer": "afin que",
+        "translation_en": "I speak loudly so that everyone hears.",
+        "translation_es": "Hablo fuerte para que todos oigan."
+      },
+      {
+        "sentence": "Il travaille ___ sa famille vive mieux.",
+        "answer": "afin que",
+        "translation_en": "He works so that his family lives better.",
+        "translation_es": "Trabaja para que su familia viva mejor."
+      },
+      {
+        "sentence": "Elle part tôt ___ elle arrive à l'heure.",
+        "answer": "afin qu'",
+        "translation_en": "She leaves early so that she arrives on time.",
+        "translation_es": "Sale temprano para llegar a tiempo."
+      },
+      {
+        "sentence": "Nous économisons ___ nos enfants étudient.",
+        "answer": "afin que",
+        "translation_en": "We save so that our children can study.",
+        "translation_es": "Ahorramos para que nuestros hijos estudien."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag à condition que into each gap.",
+    "items": [
+      {
+        "sentence": "Je viendrai ___ tu m'invites.",
+        "answer": "à condition que",
+        "translation_en": "I will come provided that you invite me.",
+        "translation_es": "Vendré siempre que me invites."
+      },
+      {
+        "sentence": "Il réussira ___ il travaille.",
+        "answer": "à condition qu'",
+        "translation_en": "He will succeed provided that he works.",
+        "translation_es": "Tendrá éxito siempre que trabaje."
+      },
+      {
+        "sentence": "Nous partirons ___ il fasse beau.",
+        "answer": "à condition qu'",
+        "translation_en": "We will leave provided the weather is nice.",
+        "translation_es": "Saldremos siempre que haga buen tiempo."
+      },
+      {
+        "sentence": "Tu peux sortir ___ tu rentres tôt.",
+        "answer": "à condition que",
+        "translation_en": "You can go out provided you come back early.",
+        "translation_es": "Puedes salir siempre que vuelvas pronto."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag sous prétexte que into each gap.",
+    "items": [
+      {
+        "sentence": "Il est parti ___ il était malade.",
+        "answer": "sous prétexte qu'",
+        "translation_en": "He left on the pretext that he was ill.",
+        "translation_es": "Se fue con la excusa de que estaba enfermo."
+      },
+      {
+        "sentence": "Elle refuse ___ elle n'a pas le temps.",
+        "answer": "sous prétexte qu'",
+        "translation_en": "She refuses on the pretext that she has no time.",
+        "translation_es": "Se niega con la excusa de que no tiene tiempo."
+      },
+      {
+        "sentence": "Il ne vient pas ___ il travaille.",
+        "answer": "sous prétexte qu'",
+        "translation_en": "He does not come on the pretext that he is working.",
+        "translation_es": "No viene con la excusa de que trabaja."
+      },
+      {
+        "sentence": "Ils protestent ___ c'est injuste.",
+        "answer": "sous prétexte que",
+        "translation_en": "They protest on the pretext that it is unfair.",
+        "translation_es": "Protestan con la excusa de que es injusto."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag d'autant plus que into each gap.",
+    "items": [
+      {
+        "sentence": "Il est content ___ il a réussi.",
+        "answer": "d'autant plus qu'",
+        "translation_en": "He is happy, all the more because he succeeded.",
+        "translation_es": "Está contento, tanto más cuanto que tuvo éxito."
+      },
+      {
+        "sentence": "C'est difficile ___ c'est nouveau.",
+        "answer": "d'autant plus que",
+        "translation_en": "It is difficult, all the more so because it is new.",
+        "translation_es": "Es difícil, tanto más cuanto que es nuevo."
+      },
+      {
+        "sentence": "Elle est triste ___ elle est seule.",
+        "answer": "d'autant plus qu'",
+        "translation_en": "She is sad, all the more because she is alone.",
+        "translation_es": "Está triste, tanto más cuanto que está sola."
+      },
+      {
+        "sentence": "Nous sommes fatigués ___ nous avons marché.",
+        "answer": "d'autant plus que",
+        "translation_en": "We are tired, all the more because we walked.",
+        "translation_es": "Estamos cansados, tanto más cuanto que caminamos."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag non seulement...mais aussi into each gap.",
+    "items": [
+      {
+        "sentence": "Il parle ___ anglais mais aussi français.",
+        "answer": "non seulement",
+        "translation_en": "He speaks not only English but also French.",
+        "translation_es": "Habla no solo inglés sino también francés."
+      },
+      {
+        "sentence": "Elle est non seulement intelligente ___ travailleuse.",
+        "answer": "mais aussi",
+        "translation_en": "She is not only intelligent but also hard-working.",
+        "translation_es": "Ella no solo es inteligente sino también trabajadora."
+      },
+      {
+        "sentence": "___ il est riche, mais aussi généreux.",
+        "answer": "Non seulement",
+        "translation_en": "He is not only rich but also generous.",
+        "translation_es": "No solo es rico sino también generoso."
+      },
+      {
+        "sentence": "Nous avons non seulement vu le film, ___ lu le livre.",
+        "answer": "mais aussi",
+        "translation_en": "We not only saw the film but also read the book.",
+        "translation_es": "No solo vimos la película sino que también leímos el libro."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag en dépit de into each gap.",
+    "items": [
+      {
+        "sentence": "___ la pluie, nous sommes sortis.",
+        "answer": "En dépit de",
+        "translation_en": "Despite the rain, we went out.",
+        "translation_es": "A pesar de la lluvia, salimos."
+      },
+      {
+        "sentence": "Il a réussi ___ difficultés.",
+        "answer": "en dépit des",
+        "translation_en": "He succeeded despite the difficulties.",
+        "translation_es": "Tuvo éxito a pesar de las dificultades."
+      },
+      {
+        "sentence": "___ son âge, elle travaille encore.",
+        "answer": "En dépit de",
+        "translation_en": "Despite her age, she still works.",
+        "translation_es": "A pesar de su edad, todavía trabaja."
+      },
+      {
+        "sentence": "Nous avons continué ___ la fatigue.",
+        "answer": "en dépit de",
+        "translation_en": "We continued despite the fatigue.",
+        "translation_es": "Continuamos a pesar del cansancio."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag quitte à into each gap.",
+    "items": [
+      {
+        "sentence": "Je le ferai ___ perdre mon travail.",
+        "answer": "quitte à",
+        "translation_en": "I will do it even if it means losing my job.",
+        "translation_es": "Lo haré aunque tenga que perder mi trabajo."
+      },
+      {
+        "sentence": "Elle partira ___ tout abandonner.",
+        "answer": "quitte à",
+        "translation_en": "She will leave even if it means abandoning everything.",
+        "translation_es": "Se irá aunque tenga que abandonarlo todo."
+      },
+      {
+        "sentence": "Il dit la vérité ___ déplaire.",
+        "answer": "quitte à",
+        "translation_en": "He tells the truth even if it means displeasing.",
+        "translation_es": "Dice la verdad aunque tenga que desagradar."
+      },
+      {
+        "sentence": "Nous resterons ___ attendre des heures.",
+        "answer": "quitte à",
+        "translation_en": "We will stay even if it means waiting for hours.",
+        "translation_es": "Nos quedaremos aunque tengamos que esperar horas."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag faute de into each gap.",
+    "items": [
+      {
+        "sentence": "___ argent, il n'est pas parti.",
+        "answer": "Faute d'",
+        "translation_en": "For lack of money, he did not leave.",
+        "translation_es": "Por falta de dinero, no se fue."
+      },
+      {
+        "sentence": "___ temps, nous avons abandonné.",
+        "answer": "Faute de",
+        "translation_en": "For lack of time, we gave up.",
+        "translation_es": "Por falta de tiempo, abandonamos."
+      },
+      {
+        "sentence": "Il a échoué ___ préparation.",
+        "answer": "faute de",
+        "translation_en": "He failed for lack of preparation.",
+        "translation_es": "Fracasó por falta de preparación."
+      },
+      {
+        "sentence": "___ preuves, il a été libéré.",
+        "answer": "Faute de",
+        "translation_en": "For lack of evidence, he was released.",
+        "translation_es": "Por falta de pruebas, fue liberado."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag au risque de into each gap.",
+    "items": [
+      {
+        "sentence": "Il dit la vérité ___ perdre son emploi.",
+        "answer": "au risque de",
+        "translation_en": "He tells the truth at the risk of losing his job.",
+        "translation_es": "Dice la verdad a riesgo de perder su empleo."
+      },
+      {
+        "sentence": "Elle a plongé ___ se noyer.",
+        "answer": "au risque de",
+        "translation_en": "She dived at the risk of drowning.",
+        "translation_es": "Se lanzó a riesgo de ahogarse."
+      },
+      {
+        "sentence": "Nous avons continué ___ échouer.",
+        "answer": "au risque d'",
+        "translation_en": "We continued at the risk of failing.",
+        "translation_es": "Continuamos a riesgo de fracasar."
+      },
+      {
+        "sentence": "Il parle ___ tout perdre.",
+        "answer": "au risque de",
+        "translation_en": "He speaks at the risk of losing everything.",
+        "translation_es": "Habla a riesgo de perderlo todo."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag d'ailleurs or par ailleurs into each gap.",
+    "items": [
+      {
+        "sentence": "Il est tard, ___ je suis fatigué.",
+        "answer": "d'ailleurs",
+        "translation_en": "It is late; besides, I am tired.",
+        "translation_es": "Es tarde; además, estoy cansado."
+      },
+      {
+        "sentence": "___ , le projet est trop cher.",
+        "answer": "Par ailleurs",
+        "translation_en": "Moreover, the project is too expensive.",
+        "translation_es": "Por otra parte, el proyecto es demasiado caro."
+      },
+      {
+        "sentence": "Je n'ai pas faim ; ___ , j'ai déjà mangé.",
+        "answer": "d'ailleurs",
+        "translation_en": "I am not hungry; besides, I have already eaten.",
+        "translation_es": "No tengo hambre; además, ya he comido."
+      },
+      {
+        "sentence": "___ , il faut considérer les risques.",
+        "answer": "Par ailleurs",
+        "translation_en": "Furthermore, one must consider the risks.",
+        "translation_es": "Además, hay que considerar los riesgos."
+      }
+    ]
+  }
+]
