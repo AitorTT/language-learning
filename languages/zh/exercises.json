@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the verb 是 (to be) into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 学生。",
+        "answer": "是",
+        "translation_en": "I am a student.",
+        "translation_es": "Yo soy estudiante."
+      },
+      {
+        "sentence": "他 ___ 我的哥哥。",
+        "answer": "是",
+        "translation_en": "He is my brother.",
+        "translation_es": "Él es mi hermano."
+      },
+      {
+        "sentence": "她 ___ 老师。",
+        "answer": "是",
+        "translation_en": "She is a teacher.",
+        "translation_es": "Ella es profesora."
+      },
+      {
+        "sentence": "我们 ___ 朋友。",
+        "answer": "是",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the verb 有 (to have) into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 一只猫。",
+        "answer": "有",
+        "translation_en": "I have a cat.",
+        "translation_es": "Tengo un gato."
+      },
+      {
+        "sentence": "他 ___ 两个孩子。",
+        "answer": "有",
+        "translation_en": "He has two children.",
+        "translation_es": "Él tiene dos hijos."
+      },
+      {
+        "sentence": "你 ___ 时间吗？",
+        "answer": "有",
+        "translation_en": "Do you have time?",
+        "translation_es": "¿Tienes tiempo?"
+      },
+      {
+        "sentence": "我们 ___ 很多书。",
+        "answer": "有",
+        "translation_en": "We have many books.",
+        "translation_es": "Tenemos muchos libros."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ 叫安娜。",
+        "answer": "我",
+        "translation_en": "My name is Anna.",
+        "translation_es": "Me llamo Anna."
+      },
+      {
+        "sentence": "___ 是中国人。",
+        "answer": "他",
+        "translation_en": "He is Chinese.",
+        "translation_es": "Él es chino."
+      },
+      {
+        "sentence": "___ 住在北京。",
+        "answer": "她",
+        "translation_en": "She lives in Beijing.",
+        "translation_es": "Ella vive en Pekín."
+      },
+      {
+        "sentence": "___ 一起学习。",
+        "answer": "我们",
+        "translation_en": "We study together.",
+        "translation_es": "Estudiamos juntos."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct measure word into each gap.",
+    "items": [
+      {
+        "sentence": "一 ___ 人",
+        "answer": "个",
+        "translation_en": "one person",
+        "translation_es": "una persona"
+      },
+      {
+        "sentence": "两 ___ 书",
+        "answer": "本",
+        "translation_en": "two books",
+        "translation_es": "dos libros"
+      },
+      {
+        "sentence": "三 ___ 猫",
+        "answer": "只",
+        "translation_en": "three cats",
+        "translation_es": "tres gatos"
+      },
+      {
+        "sentence": "四 ___ 苹果",
+        "answer": "个",
+        "translation_en": "four apples",
+        "translation_es": "cuatro manzanas"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct number or word into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 岁。",
+        "answer": "二十",
+        "translation_en": "I am twenty years old.",
+        "translation_es": "Tengo veinte años."
+      },
+      {
+        "sentence": "今天星期 ___。",
+        "answer": "一",
+        "translation_en": "Today is Monday.",
+        "translation_es": "Hoy es lunes."
+      },
+      {
+        "sentence": "我家有 ___ 口人。",
+        "answer": "四",
+        "translation_en": "There are four people in my family.",
+        "translation_es": "En mi familia somos cuatro."
+      },
+      {
+        "sentence": "我住在 ___ 楼。",
+        "answer": "三",
+        "translation_en": "I live on the third floor.",
+        "translation_es": "Vivo en el tercer piso."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag 不 or 没 into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 是学生。",
+        "answer": "不",
+        "translation_en": "I am not a student.",
+        "translation_es": "No soy estudiante."
+      },
+      {
+        "sentence": "他 ___ 去学校。",
+        "answer": "不",
+        "translation_en": "He does not go to school.",
+        "translation_es": "Él no va a la escuela."
+      },
+      {
+        "sentence": "我 ___ 有哥哥。",
+        "answer": "没",
+        "translation_en": "I do not have an older brother.",
+        "translation_es": "No tengo hermano mayor."
+      },
+      {
+        "sentence": "昨天他 ___ 来。",
+        "answer": "没",
+        "translation_en": "Yesterday he did not come.",
+        "translation_es": "Ayer él no vino."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the question particle 吗 into each gap.",
+    "items": [
+      {
+        "sentence": "你是学生 ___？",
+        "answer": "吗",
+        "translation_en": "Are you a student?",
+        "translation_es": "¿Eres estudiante?"
+      },
+      {
+        "sentence": "他有书 ___？",
+        "answer": "吗",
+        "translation_en": "Does he have a book?",
+        "translation_es": "¿Tiene él un libro?"
+      },
+      {
+        "sentence": "你好 ___？",
+        "answer": "吗",
+        "translation_en": "How are you?",
+        "translation_es": "¿Cómo estás?"
+      },
+      {
+        "sentence": "那是你的狗 ___？",
+        "answer": "吗",
+        "translation_en": "Is that your dog?",
+        "translation_es": "¿Es ese tu perro?"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "你叫 ___ 名字？",
+        "answer": "什么",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "他 ___ 谁？",
+        "answer": "是",
+        "translation_en": "Who is he?",
+        "translation_es": "¿Quién es él?"
+      },
+      {
+        "sentence": "你住在 ___？",
+        "answer": "哪儿",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "现在 ___ 点了？",
+        "answer": "几",
+        "translation_en": "What time is it now?",
+        "translation_es": "¿Qué hora es ahora?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag 的 into each gap to show possession.",
+    "items": [
+      {
+        "sentence": "这是 ___ 书。",
+        "answer": "我",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "他 ___ 妈妈是老师。",
+        "answer": "的",
+        "translation_en": "His mother is a teacher.",
+        "translation_es": "Su madre es profesora."
+      },
+      {
+        "sentence": "中国 ___ 茶很好喝。",
+        "answer": "的",
+        "translation_en": "Chinese tea is very good.",
+        "translation_es": "El té chino está muy rico."
+      },
+      {
+        "sentence": "那本书是 ___ 的。",
+        "answer": "老师",
+        "translation_en": "That book is the teacher's.",
+        "translation_es": "Ese libro es del profesor."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag 很 before the adjective in each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 高兴。",
+        "answer": "很",
+        "translation_en": "I am very happy.",
+        "translation_es": "Estoy muy contento."
+      },
+      {
+        "sentence": "这个苹果 ___ 大。",
+        "answer": "很",
+        "translation_en": "This apple is very big.",
+        "translation_es": "Esta manzana es muy grande."
+      },
+      {
+        "sentence": "他 ___ 忙。",
+        "answer": "很",
+        "translation_en": "He is very busy.",
+        "translation_es": "Él está muy ocupado."
+      },
+      {
+        "sentence": "今天 ___ 冷。",
+        "answer": "很",
+        "translation_en": "Today it is very cold.",
+        "translation_es": "Hoy hace mucho frío."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct time word into each gap.",
+    "items": [
+      {
+        "sentence": "___ 我去学校。",
+        "answer": "今天",
+        "translation_en": "Today I go to school.",
+        "translation_es": "Hoy voy a la escuela."
+      },
+      {
+        "sentence": "___ 是我的生日。",
+        "answer": "明天",
+        "translation_en": "Tomorrow is my birthday.",
+        "translation_es": "Mañana es mi cumpleaños."
+      },
+      {
+        "sentence": "___ 他不在家。",
+        "answer": "昨天",
+        "translation_en": "Yesterday he was not at home.",
+        "translation_es": "Ayer él no estaba en casa."
+      },
+      {
+        "sentence": "我 ___ 六点起床。",
+        "answer": "早上",
+        "translation_en": "I get up at six in the morning.",
+        "translation_es": "Me levanto a las seis de la mañana."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag 在 into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 家。",
+        "answer": "在",
+        "translation_en": "I am at home.",
+        "translation_es": "Estoy en casa."
+      },
+      {
+        "sentence": "他 ___ 学校学习。",
+        "answer": "在",
+        "translation_en": "He studies at school.",
+        "translation_es": "Él estudia en la escuela."
+      },
+      {
+        "sentence": "猫 ___ 桌子上。",
+        "answer": "在",
+        "translation_en": "The cat is on the table.",
+        "translation_es": "El gato está sobre la mesa."
+      },
+      {
+        "sentence": "我们 ___ 公园玩。",
+        "answer": "在",
+        "translation_en": "We play in the park.",
+        "translation_es": "Jugamos en el parque."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag 这 or 那 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 是我的书。",
+        "answer": "这",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "___ 是他的车。",
+        "answer": "那",
+        "translation_en": "That is his car.",
+        "translation_es": "Ese es su coche."
+      },
+      {
+        "sentence": "___ 个苹果很红。",
+        "answer": "这",
+        "translation_en": "This apple is very red.",
+        "translation_es": "Esta manzana es muy roja."
+      },
+      {
+        "sentence": "___ 个人是我的老师。",
+        "answer": "那",
+        "translation_en": "That person is my teacher.",
+        "translation_es": "Esa persona es mi profesor."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag 会 or 能 into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 说汉语。",
+        "answer": "会",
+        "translation_en": "I can speak Chinese.",
+        "translation_es": "Sé hablar chino."
+      },
+      {
+        "sentence": "他 ___ 游泳。",
+        "answer": "会",
+        "translation_en": "He can swim.",
+        "translation_es": "Él sabe nadar."
+      },
+      {
+        "sentence": "你 ___ 帮我吗？",
+        "answer": "能",
+        "translation_en": "Can you help me?",
+        "translation_es": "¿Puedes ayudarme?"
+      },
+      {
+        "sentence": "今天 ___ 下雨。",
+        "answer": "会",
+        "translation_en": "It may rain today.",
+        "translation_es": "Hoy puede llover."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag 想 or 要 into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 喝水。",
+        "answer": "想",
+        "translation_en": "I want to drink water.",
+        "translation_es": "Quiero beber agua."
+      },
+      {
+        "sentence": "他 ___ 买一本书。",
+        "answer": "要",
+        "translation_en": "He wants to buy a book.",
+        "translation_es": "Él quiere comprar un libro."
+      },
+      {
+        "sentence": "你 ___ 吃什么？",
+        "answer": "想",
+        "translation_en": "What do you want to eat?",
+        "translation_es": "¿Qué quieres comer?"
+      },
+      {
+        "sentence": "我们 ___ 去中国。",
+        "answer": "要",
+        "translation_en": "We want to go to China.",
+        "translation_es": "Queremos ir a China."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the missing day of the week into each gap.",
+    "items": [
+      {
+        "sentence": "星期一、星期 ___、星期三",
+        "answer": "二",
+        "translation_en": "Monday, Tuesday, Wednesday",
+        "translation_es": "lunes, martes, miércoles"
+      },
+      {
+        "sentence": "今天星期 ___，明天星期五。",
+        "answer": "四",
+        "translation_en": "Today is Thursday, tomorrow is Friday.",
+        "translation_es": "Hoy es jueves, mañana es viernes."
+      },
+      {
+        "sentence": "星期 ___ 我不上班。",
+        "answer": "天",
+        "translation_en": "I do not work on Sunday.",
+        "translation_es": "El domingo no trabajo."
+      },
+      {
+        "sentence": "星期 ___ 我们去公园。",
+        "answer": "六",
+        "translation_en": "On Saturday we go to the park.",
+        "translation_es": "El sábado vamos al parque."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag 也 or 都 into each gap.",
+    "items": [
+      {
+        "sentence": "我是学生，他 ___ 是学生。",
+        "answer": "也",
+        "translation_en": "I am a student and he is a student too.",
+        "translation_es": "Yo soy estudiante y él también."
+      },
+      {
+        "sentence": "我们 ___ 是中国人。",
+        "answer": "都",
+        "translation_en": "We are all Chinese.",
+        "translation_es": "Todos somos chinos."
+      },
+      {
+        "sentence": "我喜欢茶，他 ___ 喜欢茶。",
+        "answer": "也",
+        "translation_en": "I like tea and he likes tea too.",
+        "translation_es": "Me gusta el té y a él también."
+      },
+      {
+        "sentence": "他们 ___ 来了。",
+        "answer": "都",
+        "translation_en": "They have all come.",
+        "translation_es": "Todos han venido."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag 请 into each gap to make a polite request.",
+    "items": [
+      {
+        "sentence": "___ 你帮我。",
+        "answer": "请",
+        "translation_en": "Please help me.",
+        "translation_es": "Por favor, ayúdame."
+      },
+      {
+        "sentence": "___ 进。",
+        "answer": "请",
+        "translation_en": "Please come in.",
+        "translation_es": "Pase, por favor."
+      },
+      {
+        "sentence": "___ 坐。",
+        "answer": "请",
+        "translation_en": "Please sit down.",
+        "translation_es": "Siéntese, por favor."
+      },
+      {
+        "sentence": "___ 等一下。",
+        "answer": "请",
+        "translation_en": "Please wait a moment.",
+        "translation_es": "Espere un momento, por favor."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct measure word for people into each gap.",
+    "items": [
+      {
+        "sentence": "我有三 ___ 朋友。",
+        "answer": "个",
+        "translation_en": "I have three friends.",
+        "translation_es": "Tengo tres amigos."
+      },
+      {
+        "sentence": "一 ___ 老师",
+        "answer": "位",
+        "translation_en": "one teacher (polite)",
+        "translation_es": "un profesor (formal)"
+      },
+      {
+        "sentence": "两 ___ 学生",
+        "answer": "个",
+        "translation_en": "two students",
+        "translation_es": "dos estudiantes"
+      },
+      {
+        "sentence": "那 ___ 医生很好。",
+        "answer": "位",
+        "translation_en": "That doctor is very good.",
+        "translation_es": "Ese médico es muy bueno."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag 呢 or 吧 into each gap.",
+    "items": [
+      {
+        "sentence": "我很好，你 ___？",
+        "answer": "呢",
+        "translation_en": "I am fine, and you?",
+        "translation_es": "Estoy bien, ¿y tú?"
+      },
+      {
+        "sentence": "我们走吧 ___？",
+        "answer": "吧",
+        "translation_en": "Let's go, shall we?",
+        "translation_es": "Vámonos, ¿vale?"
+      },
+      {
+        "sentence": "他 ___？",
+        "answer": "呢",
+        "translation_en": "And him?",
+        "translation_es": "¿Y él?"
+      },
+      {
+        "sentence": "明天见 ___。",
+        "answer": "吧",
+        "translation_en": "See you tomorrow then.",
+        "translation_es": "Hasta mañana entonces."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag 了 into each gap for a completed action.",
+    "items": [
+      {
+        "sentence": "我吃 ___ 饭。",
+        "answer": "了",
+        "translation_en": "I have eaten.",
+        "translation_es": "He comido."
+      },
+      {
+        "sentence": "他买 ___ 一本书。",
+        "answer": "了",
+        "translation_en": "He bought a book.",
+        "translation_es": "Él compró un libro."
+      },
+      {
+        "sentence": "昨天我 ___ 学校。",
+        "answer": "去了",
+        "translation_en": "Yesterday I went to school.",
+        "translation_es": "Ayer fui a la escuela."
+      },
+      {
+        "sentence": "我们看 ___ 电影。",
+        "answer": "了",
+        "translation_en": "We watched a film.",
+        "translation_es": "Vimos una película."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct form with 过 into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 北京。",
+        "answer": "去过",
+        "translation_en": "I have been to Beijing.",
+        "translation_es": "He estado en Pekín."
+      },
+      {
+        "sentence": "你 ___ 中国菜吗？",
+        "answer": "吃过",
+        "translation_en": "Have you eaten Chinese food?",
+        "translation_es": "¿Has comido comida china?"
+      },
+      {
+        "sentence": "他 ___ 那部电影。",
+        "answer": "看过",
+        "translation_en": "He has seen that film.",
+        "translation_es": "Él ha visto esa película."
+      },
+      {
+        "sentence": "我们 ___ 长城。",
+        "answer": "去过",
+        "translation_en": "We have been to the Great Wall.",
+        "translation_es": "Hemos estado en la Gran Muralla."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag 正在 or 在 into each gap.",
+    "items": [
+      {
+        "sentence": "他 ___ 吃饭。",
+        "answer": "正在",
+        "translation_en": "He is eating right now.",
+        "translation_es": "Él está comiendo ahora mismo."
+      },
+      {
+        "sentence": "我 ___ 看书。",
+        "answer": "在",
+        "translation_en": "I am reading.",
+        "translation_es": "Estoy leyendo."
+      },
+      {
+        "sentence": "他们 ___ 唱歌。",
+        "answer": "正在",
+        "translation_en": "They are singing right now.",
+        "translation_es": "Ellos están cantando ahora mismo."
+      },
+      {
+        "sentence": "妈妈 ___ 做饭。",
+        "answer": "在",
+        "translation_en": "Mum is cooking.",
+        "translation_es": "Mamá está cocinando."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag 得 into each gap before the degree complement.",
+    "items": [
+      {
+        "sentence": "他跑 ___ 很快。",
+        "answer": "得",
+        "translation_en": "He runs very fast.",
+        "translation_es": "Él corre muy rápido."
+      },
+      {
+        "sentence": "她说 ___ 很好。",
+        "answer": "得",
+        "translation_en": "She speaks very well.",
+        "translation_es": "Ella habla muy bien."
+      },
+      {
+        "sentence": "你写 ___ 很漂亮。",
+        "answer": "得",
+        "translation_en": "You write very beautifully.",
+        "translation_es": "Escribes muy bonito."
+      },
+      {
+        "sentence": "我们玩 ___ 很开心。",
+        "answer": "得",
+        "translation_en": "We had a lot of fun.",
+        "translation_es": "Nos divertimos mucho."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag 比 into each gap for comparison.",
+    "items": [
+      {
+        "sentence": "我 ___ 他高。",
+        "answer": "比",
+        "translation_en": "I am taller than him.",
+        "translation_es": "Soy más alto que él."
+      },
+      {
+        "sentence": "今天 ___ 昨天冷。",
+        "answer": "比",
+        "translation_en": "Today is colder than yesterday.",
+        "translation_es": "Hoy hace más frío que ayer."
+      },
+      {
+        "sentence": "我的书 ___ 你的多。",
+        "answer": "比",
+        "translation_en": "My books are more than yours.",
+        "translation_es": "Mis libros son más que los tuyos."
+      },
+      {
+        "sentence": "他 ___ 我跑得快。",
+        "answer": "比",
+        "translation_en": "He runs faster than me.",
+        "translation_es": "Él corre más rápido que yo."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag 跟 into each gap for 跟…一样.",
+    "items": [
+      {
+        "sentence": "我 ___ 你一样高。",
+        "answer": "跟",
+        "translation_en": "I am as tall as you.",
+        "translation_es": "Soy tan alto como tú."
+      },
+      {
+        "sentence": "这个 ___ 那个一样。",
+        "answer": "跟",
+        "translation_en": "This one is the same as that one.",
+        "translation_es": "Este es igual que ese."
+      },
+      {
+        "sentence": "他 ___ 我一样大。",
+        "answer": "跟",
+        "translation_en": "He is the same age as me.",
+        "translation_es": "Él tiene la misma edad que yo."
+      },
+      {
+        "sentence": "我的车 ___ 你的车一样新。",
+        "answer": "跟",
+        "translation_en": "My car is as new as yours.",
+        "translation_es": "Mi coche es tan nuevo como el tuyo."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag 因为 or 所以 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 下雨，所以我没去。",
+        "answer": "因为",
+        "translation_en": "Because it rained, I did not go.",
+        "translation_es": "Como llovió, no fui."
+      },
+      {
+        "sentence": "因为太冷，___ 我们没出门。",
+        "answer": "所以",
+        "translation_en": "Because it was too cold, we did not go out.",
+        "translation_es": "Como hacía mucho frío, no salimos."
+      },
+      {
+        "sentence": "___ 他病了，所以没来。",
+        "answer": "因为",
+        "translation_en": "He did not come because he was ill.",
+        "translation_es": "No vino porque estaba enfermo."
+      },
+      {
+        "sentence": "因为他努力，___ 成功了。",
+        "answer": "所以",
+        "translation_en": "Because he worked hard, he succeeded.",
+        "translation_es": "Como se esforzó, tuvo éxito."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag 虽然 or 但是 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 很累，但是我很开心。",
+        "answer": "虽然",
+        "translation_en": "Although I am tired, I am happy.",
+        "translation_es": "Aunque estoy cansado, soy feliz."
+      },
+      {
+        "sentence": "虽然下雨，___ 我们还是去了。",
+        "answer": "但是",
+        "translation_en": "Although it rained, we still went.",
+        "translation_es": "Aunque llovía, fuimos igualmente."
+      },
+      {
+        "sentence": "___ 他不高，但是他跑得快。",
+        "answer": "虽然",
+        "translation_en": "Although he is not tall, he runs fast.",
+        "translation_es": "Aunque no es alto, corre rápido."
+      },
+      {
+        "sentence": "虽然贵，___ 我买了。",
+        "answer": "但是",
+        "translation_en": "Although it was expensive, I bought it.",
+        "translation_es": "Aunque era caro, lo compré."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag 如果 or 就 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 明天晴天，我们就去公园。",
+        "answer": "如果",
+        "translation_en": "If it is sunny tomorrow, we will go to the park.",
+        "translation_es": "Si mañana hace sol, iremos al parque."
+      },
+      {
+        "sentence": "如果你来，我 ___ 很高兴。",
+        "answer": "就",
+        "translation_en": "If you come, I will be very happy.",
+        "translation_es": "Si vienes, estaré muy contento."
+      },
+      {
+        "sentence": "___ 你有时间，就给我打电话。",
+        "answer": "如果",
+        "translation_en": "If you have time, call me.",
+        "translation_es": "Si tienes tiempo, llámame."
+      },
+      {
+        "sentence": "如果他来，我们 ___ 开始。",
+        "answer": "就",
+        "translation_en": "If he comes, we will start.",
+        "translation_es": "Si él viene, empezaremos."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag 着 into each gap for a continuing state.",
+    "items": [
+      {
+        "sentence": "门开 ___。",
+        "answer": "着",
+        "translation_en": "The door is open.",
+        "translation_es": "La puerta está abierta."
+      },
+      {
+        "sentence": "他坐 ___ 看书。",
+        "answer": "着",
+        "translation_en": "He reads while sitting.",
+        "translation_es": "Él lee sentado."
+      },
+      {
+        "sentence": "墙上挂 ___ 一张画。",
+        "answer": "着",
+        "translation_en": "A picture hangs on the wall.",
+        "translation_es": "Un cuadro cuelga de la pared."
+      },
+      {
+        "sentence": "她笑 ___ 说。",
+        "answer": "着",
+        "translation_en": "She says it smiling.",
+        "translation_es": "Lo dice sonriendo."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct result complement into each gap.",
+    "items": [
+      {
+        "sentence": "我吃 ___ 饭了。",
+        "answer": "完",
+        "translation_en": "I have finished eating.",
+        "translation_es": "He terminado de comer."
+      },
+      {
+        "sentence": "我看 ___ 他了。",
+        "answer": "到",
+        "translation_en": "I saw him.",
+        "translation_es": "Lo vi."
+      },
+      {
+        "sentence": "我听 ___ 了。",
+        "answer": "见",
+        "translation_en": "I heard it.",
+        "translation_es": "Lo oí."
+      },
+      {
+        "sentence": "他做 ___ 作业了。",
+        "answer": "完",
+        "translation_en": "He has finished his homework.",
+        "translation_es": "Ha terminado los deberes."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the sentence-final 了 into each gap.",
+    "items": [
+      {
+        "sentence": "下雨 ___。",
+        "answer": "了",
+        "translation_en": "It is raining now.",
+        "translation_es": "Ya está lloviendo."
+      },
+      {
+        "sentence": "他病 ___。",
+        "answer": "了",
+        "translation_en": "He has become ill.",
+        "translation_es": "Él se ha puesto enfermo."
+      },
+      {
+        "sentence": "我二十岁 ___。",
+        "answer": "了",
+        "translation_en": "I am twenty now.",
+        "translation_es": "Ya tengo veinte años."
+      },
+      {
+        "sentence": "该走 ___。",
+        "answer": "了",
+        "translation_en": "It is time to go.",
+        "translation_es": "Es hora de irse."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag 还没 into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 吃饭。",
+        "answer": "还没",
+        "translation_en": "I have not eaten yet.",
+        "translation_es": "Todavía no he comido."
+      },
+      {
+        "sentence": "他 ___ 来。",
+        "answer": "还没",
+        "translation_en": "He has not come yet.",
+        "translation_es": "Él todavía no ha venido."
+      },
+      {
+        "sentence": "我们 ___ 决定。",
+        "answer": "还没",
+        "translation_en": "We have not decided yet.",
+        "translation_es": "Todavía no hemos decidido."
+      },
+      {
+        "sentence": "你 ___ 看完吗？",
+        "answer": "还没",
+        "translation_en": "Have you not finished reading yet?",
+        "translation_es": "¿Todavía no has terminado de leer?"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag 要 into each gap for a future action with 了.",
+    "items": [
+      {
+        "sentence": "天 ___ 下雨了。",
+        "answer": "要",
+        "translation_en": "It is going to rain.",
+        "translation_es": "Va a llover."
+      },
+      {
+        "sentence": "我们 ___ 走了。",
+        "answer": "要",
+        "translation_en": "We are about to leave.",
+        "translation_es": "Estamos a punto de irnos."
+      },
+      {
+        "sentence": "火车 ___ 开了。",
+        "answer": "要",
+        "translation_en": "The train is about to leave.",
+        "translation_es": "El tren está a punto de salir."
+      },
+      {
+        "sentence": "他 ___ 来了。",
+        "answer": "要",
+        "translation_en": "He is about to arrive.",
+        "translation_es": "Él está a punto de llegar."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag 一边 into each gap.",
+    "items": [
+      {
+        "sentence": "他 ___ 吃饭，一边看电视。",
+        "answer": "一边",
+        "translation_en": "He watches TV while eating.",
+        "translation_es": "Ve la televisión mientras come."
+      },
+      {
+        "sentence": "我一边走，___ 听音乐。",
+        "answer": "一边",
+        "translation_en": "I listen to music while walking.",
+        "translation_es": "Escucho música mientras camino."
+      },
+      {
+        "sentence": "她 ___ 唱歌，一边跳舞。",
+        "answer": "一边",
+        "translation_en": "She dances while singing.",
+        "translation_es": "Ella baila mientras canta."
+      },
+      {
+        "sentence": "我们一边聊，___ 喝茶。",
+        "answer": "一边",
+        "translation_en": "We drink tea while chatting.",
+        "translation_es": "Tomamos té mientras charlamos."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag 越 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 学越有意思。",
+        "answer": "越",
+        "translation_en": "The more you learn, the more interesting it is.",
+        "translation_es": "Cuanto más aprendes, más interesante es."
+      },
+      {
+        "sentence": "天气 ___ 来越热。",
+        "answer": "越",
+        "translation_en": "The weather is getting hotter and hotter.",
+        "translation_es": "El tiempo es cada vez más caluroso."
+      },
+      {
+        "sentence": "他 ___ 跑越快。",
+        "answer": "越",
+        "translation_en": "The more he runs, the faster he gets.",
+        "translation_es": "Cuanto más corre, más rápido va."
+      },
+      {
+        "sentence": "___ 说越高兴。",
+        "answer": "越",
+        "translation_en": "The more we talk, the happier we are.",
+        "translation_es": "Cuanto más hablamos, más contentos estamos."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag 除了 or 以外 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 他以外，大家都来了。",
+        "answer": "除了",
+        "translation_en": "Everyone came except him.",
+        "translation_es": "Todos vinieron excepto él."
+      },
+      {
+        "sentence": "除了你 ___，我都喜欢。",
+        "answer": "以外",
+        "translation_en": "I like everything except you.",
+        "translation_es": "Me gusta todo menos tú."
+      },
+      {
+        "sentence": "___ 中文以外，他还会英语。",
+        "answer": "除了",
+        "translation_en": "Besides Chinese, he also knows English.",
+        "translation_es": "Además del chino, también sabe inglés."
+      },
+      {
+        "sentence": "除了茶 ___，我还喜欢咖啡。",
+        "answer": "以外",
+        "translation_en": "Besides tea, I also like coffee.",
+        "translation_es": "Además del té, también me gusta el café."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag 只要 or 就 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 你努力，就能成功。",
+        "answer": "只要",
+        "translation_en": "As long as you work hard, you can succeed.",
+        "translation_es": "Con tal de que te esfuerces, puedes tener éxito."
+      },
+      {
+        "sentence": "只要努力，___ 有希望。",
+        "answer": "就",
+        "translation_en": "As long as you work hard, there is hope.",
+        "translation_es": "Con tal de que te esfuerces, hay esperanza."
+      },
+      {
+        "sentence": "___ 他同意，我就去。",
+        "answer": "只要",
+        "translation_en": "As long as he agrees, I will go.",
+        "translation_es": "Con tal de que él esté de acuerdo, iré."
+      },
+      {
+        "sentence": "只要有时间，我 ___ 来。",
+        "answer": "就",
+        "translation_en": "As long as I have time, I will come.",
+        "translation_es": "Con tal de que tenga tiempo, vendré."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag 只有 or 才 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 努力，才能成功。",
+        "answer": "只有",
+        "translation_en": "Only by working hard can you succeed.",
+        "translation_es": "Solo esforzándote puedes tener éxito."
+      },
+      {
+        "sentence": "只有他 ___ 知道。",
+        "answer": "才",
+        "translation_en": "Only he knows.",
+        "translation_es": "Solo él lo sabe."
+      },
+      {
+        "sentence": "___ 你去，我才去。",
+        "answer": "只有",
+        "translation_en": "Only if you go will I go.",
+        "translation_es": "Solo si tú vas, iré yo."
+      },
+      {
+        "sentence": "只有多练习，___ 说得好。",
+        "answer": "才",
+        "translation_en": "Only by practising a lot can you speak well.",
+        "translation_es": "Solo practicando mucho se habla bien."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag 得 or 不 into each gap for a potential complement.",
+    "items": [
+      {
+        "sentence": "我吃 ___ 完。",
+        "answer": "得",
+        "translation_en": "I can finish eating it.",
+        "translation_es": "Puedo terminarlo de comer."
+      },
+      {
+        "sentence": "他听 ___ 懂。",
+        "answer": "不",
+        "translation_en": "He cannot understand it.",
+        "translation_es": "Él no puede entenderlo."
+      },
+      {
+        "sentence": "你写 ___ 完吗？",
+        "answer": "得",
+        "translation_en": "Can you finish writing it?",
+        "translation_es": "¿Puedes terminarlo de escribir?"
+      },
+      {
+        "sentence": "我们走 ___ 动。",
+        "answer": "不",
+        "translation_en": "We cannot walk any further.",
+        "translation_es": "No podemos caminar más."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag 把 into each gap for the disposal construction.",
+    "items": [
+      {
+        "sentence": "我 ___ 书放在桌子上。",
+        "answer": "把",
+        "translation_en": "I put the book on the table.",
+        "translation_es": "Puse el libro sobre la mesa."
+      },
+      {
+        "sentence": "他 ___ 门关上了。",
+        "answer": "把",
+        "translation_en": "He closed the door.",
+        "translation_es": "Él cerró la puerta."
+      },
+      {
+        "sentence": "请 ___ 窗户打开。",
+        "answer": "把",
+        "translation_en": "Please open the window.",
+        "translation_es": "Por favor, abre la ventana."
+      },
+      {
+        "sentence": "她 ___ 作业做完了。",
+        "answer": "把",
+        "translation_en": "She finished her homework.",
+        "translation_es": "Ella terminó los deberes."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag 被 into each gap for the passive.",
+    "items": [
+      {
+        "sentence": "书 ___ 他拿走了。",
+        "answer": "被",
+        "translation_en": "The book was taken away by him.",
+        "translation_es": "El libro fue llevado por él."
+      },
+      {
+        "sentence": "我的车 ___ 人偷了。",
+        "answer": "被",
+        "translation_en": "My car was stolen.",
+        "translation_es": "Me robaron el coche."
+      },
+      {
+        "sentence": "窗户 ___ 风吹开了。",
+        "answer": "被",
+        "translation_en": "The window was blown open by the wind.",
+        "translation_es": "El viento abrió la ventana."
+      },
+      {
+        "sentence": "他 ___ 老师批评了。",
+        "answer": "被",
+        "translation_en": "He was criticised by the teacher.",
+        "translation_es": "Fue criticado por el profesor."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag 是 into each gap for emphasis with 是…的.",
+    "items": [
+      {
+        "sentence": "我 ___ 昨天来的。",
+        "answer": "是",
+        "translation_en": "It was yesterday that I came.",
+        "translation_es": "Fue ayer cuando vine."
+      },
+      {
+        "sentence": "他 ___ 坐火车去的。",
+        "answer": "是",
+        "translation_en": "It was by train that he went.",
+        "translation_es": "Fue en tren como fue."
+      },
+      {
+        "sentence": "你 ___ 什么时候来的？",
+        "answer": "是",
+        "translation_en": "When was it that you came?",
+        "translation_es": "¿Cuándo fue que viniste?"
+      },
+      {
+        "sentence": "这本书 ___ 他写的。",
+        "answer": "是",
+        "translation_en": "It was he who wrote this book.",
+        "translation_es": "Fue él quien escribió este libro."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag 不是 into each gap for a rhetorical question.",
+    "items": [
+      {
+        "sentence": "你 ___ 中国人吗？",
+        "answer": "不是",
+        "translation_en": "Aren't you Chinese?",
+        "translation_es": "¿No eres chino?"
+      },
+      {
+        "sentence": "这 ___ 你的书吗？",
+        "answer": "不是",
+        "translation_en": "Isn't this your book?",
+        "translation_es": "¿No es este tu libro?"
+      },
+      {
+        "sentence": "他 ___ 已经走了吗？",
+        "answer": "不是",
+        "translation_en": "Hasn't he already left?",
+        "translation_es": "¿No se ha ido ya?"
+      },
+      {
+        "sentence": "你 ___ 喜欢茶吗？",
+        "answer": "不是",
+        "translation_en": "Don't you like tea?",
+        "translation_es": "¿No te gusta el té?"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag 无论 or 都 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 你去不去，我都要去。",
+        "answer": "无论",
+        "translation_en": "Whether you go or not, I will go.",
+        "translation_es": "Vayas o no, yo iré."
+      },
+      {
+        "sentence": "无论多难，我 ___ 要试。",
+        "answer": "都",
+        "translation_en": "No matter how hard it is, I will try.",
+        "translation_es": "No importa cuán difícil sea, lo intentaré."
+      },
+      {
+        "sentence": "___ 下雨还是晴天，他都跑步。",
+        "answer": "无论",
+        "translation_en": "Whether it rains or is sunny, he runs.",
+        "translation_es": "Llueva o haga sol, él corre."
+      },
+      {
+        "sentence": "无论谁，___ 要遵守规则。",
+        "answer": "都",
+        "translation_en": "Whoever it is must follow the rules.",
+        "translation_es": "Quienquiera que sea debe seguir las reglas."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag 不但 or 而且 into each gap.",
+    "items": [
+      {
+        "sentence": "他 ___ 会英语，而且会汉语。",
+        "answer": "不但",
+        "translation_en": "He knows not only English but also Chinese.",
+        "translation_es": "Sabe no solo inglés sino también chino."
+      },
+      {
+        "sentence": "这个菜不但好吃，___ 便宜。",
+        "answer": "而且",
+        "translation_en": "This dish is not only tasty but also cheap.",
+        "translation_es": "Este plato no solo está rico sino que es barato."
+      },
+      {
+        "sentence": "她 ___ 聪明，而且努力。",
+        "answer": "不但",
+        "translation_en": "She is not only clever but also hard-working.",
+        "translation_es": "Ella no solo es inteligente sino también trabajadora."
+      },
+      {
+        "sentence": "他不但是老师，___ 是作家。",
+        "answer": "而且",
+        "translation_en": "He is not only a teacher but also a writer.",
+        "translation_es": "No solo es profesor sino también escritor."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag 即使 or 也 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 下雨，我也要去。",
+        "answer": "即使",
+        "translation_en": "Even if it rains, I will go.",
+        "translation_es": "Aunque llueva, iré."
+      },
+      {
+        "sentence": "即使很累，我 ___ 要完成。",
+        "answer": "也",
+        "translation_en": "Even if I am tired, I must finish.",
+        "translation_es": "Aunque esté cansado, debo terminarlo."
+      },
+      {
+        "sentence": "___ 你不同意，我也要做。",
+        "answer": "即使",
+        "translation_en": "Even if you disagree, I will do it.",
+        "translation_es": "Aunque no estés de acuerdo, lo haré."
+      },
+      {
+        "sentence": "即使他来了，___ 来不及了。",
+        "answer": "也",
+        "translation_en": "Even if he comes, it will be too late.",
+        "translation_es": "Aunque venga, ya será tarde."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag 既然 or 就 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 你来了，就一起吃饭吧。",
+        "answer": "既然",
+        "translation_en": "Since you are here, let's eat together.",
+        "translation_es": "Ya que estás aquí, comamos juntos."
+      },
+      {
+        "sentence": "既然下雨，我们 ___ 在家吧。",
+        "answer": "就",
+        "translation_en": "Since it is raining, let's stay at home.",
+        "translation_es": "Ya que llueve, quedémonos en casa."
+      },
+      {
+        "sentence": "___ 决定了，就不要后悔。",
+        "answer": "既然",
+        "translation_en": "Since you have decided, do not regret it.",
+        "translation_es": "Ya que lo has decidido, no te arrepientas."
+      },
+      {
+        "sentence": "既然你知道，___ 告诉我吧。",
+        "answer": "就",
+        "translation_en": "Since you know, tell me.",
+        "translation_es": "Ya que lo sabes, dímelo."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag 尽管 or 还是 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 很忙，他还是来了。",
+        "answer": "尽管",
+        "translation_en": "Although he was busy, he still came.",
+        "translation_es": "Aunque estaba ocupado, vino igualmente."
+      },
+      {
+        "sentence": "尽管很难，我 ___ 要试。",
+        "answer": "还是",
+        "translation_en": "Although it is hard, I will still try.",
+        "translation_es": "Aunque es difícil, lo intentaré igualmente."
+      },
+      {
+        "sentence": "___ 他不同意，我们还是做了。",
+        "answer": "尽管",
+        "translation_en": "Although he disagreed, we still did it.",
+        "translation_es": "Aunque él no estaba de acuerdo, lo hicimos igual."
+      },
+      {
+        "sentence": "尽管下雨，他 ___ 出去了。",
+        "answer": "还是",
+        "translation_en": "Although it was raining, he still went out.",
+        "translation_es": "Aunque llovía, salió igualmente."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag 一 into each gap for 一…就.",
+    "items": [
+      {
+        "sentence": "我 ___ 到家就睡觉。",
+        "answer": "一",
+        "translation_en": "As soon as I get home, I go to sleep.",
+        "translation_es": "En cuanto llego a casa, me duermo."
+      },
+      {
+        "sentence": "他 ___ 说就笑。",
+        "answer": "一",
+        "translation_en": "As soon as he speaks, he laughs.",
+        "translation_es": "En cuanto habla, se ríe."
+      },
+      {
+        "sentence": "你 ___ 看就明白。",
+        "answer": "一",
+        "translation_en": "As soon as you look, you will understand.",
+        "translation_es": "En cuanto lo mires, lo entenderás."
+      },
+      {
+        "sentence": "天 ___ 黑就回家。",
+        "answer": "一",
+        "translation_en": "As soon as it gets dark, we go home.",
+        "translation_es": "En cuanto oscurece, volvemos a casa."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag 与其 or 不如 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 在家等，不如出去走走。",
+        "answer": "与其",
+        "translation_en": "Rather than wait at home, it is better to go out.",
+        "translation_es": "En vez de esperar en casa, mejor salir a caminar."
+      },
+      {
+        "sentence": "与其买新的，___ 修一下。",
+        "answer": "不如",
+        "translation_en": "Rather than buy a new one, it is better to repair it.",
+        "translation_es": "En vez de comprar uno nuevo, mejor repararlo."
+      },
+      {
+        "sentence": "___ 抱怨，不如行动。",
+        "answer": "与其",
+        "translation_en": "Rather than complain, it is better to act.",
+        "translation_es": "En vez de quejarse, mejor actuar."
+      },
+      {
+        "sentence": "与其去电影院，我们 ___ 在家看。",
+        "answer": "不如",
+        "translation_en": "Rather than go to the cinema, we had better watch at home.",
+        "translation_es": "En vez de ir al cine, mejor verlo en casa."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag 为了 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 健康，他每天跑步。",
+        "answer": "为了",
+        "translation_en": "For the sake of his health, he runs every day.",
+        "translation_es": "Por su salud, corre cada día."
+      },
+      {
+        "sentence": "我 ___ 学中文来到中国。",
+        "answer": "为了",
+        "translation_en": "I came to China in order to learn Chinese.",
+        "translation_es": "Vine a China para aprender chino."
+      },
+      {
+        "sentence": "___ 不迟到，他早起了。",
+        "answer": "为了",
+        "translation_en": "In order not to be late, he got up early.",
+        "translation_es": "Para no llegar tarde, se levantó temprano."
+      },
+      {
+        "sentence": "他 ___ 家人努力工作。",
+        "answer": "为了",
+        "translation_en": "He works hard for his family.",
+        "translation_es": "Trabaja duro por su familia."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the directional complement into each gap.",
+    "items": [
+      {
+        "sentence": "他站了 ___ 来。",
+        "answer": "起",
+        "translation_en": "He stood up.",
+        "translation_es": "Él se puso de pie."
+      },
+      {
+        "sentence": "天色暗 ___ 来了。",
+        "answer": "下",
+        "translation_en": "It gradually got dark.",
+        "translation_es": "Se fue oscureciendo."
+      },
+      {
+        "sentence": "请把书拿 ___ 来。",
+        "answer": "过",
+        "translation_en": "Please bring the book over.",
+        "translation_es": "Por favor, trae el libro."
+      },
+      {
+        "sentence": "他跑了 ___ 去。",
+        "answer": "出",
+        "translation_en": "He ran out.",
+        "translation_es": "Él salió corriendo."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag 就是 into each gap.",
+    "items": [
+      {
+        "sentence": "他不想去，___ 太累了。",
+        "answer": "就是",
+        "translation_en": "He does not want to go, it is just that he is too tired.",
+        "translation_es": "No quiere ir, es solo que está muy cansado."
+      },
+      {
+        "sentence": "这件衣服好，___ 太贵。",
+        "answer": "就是",
+        "translation_en": "This piece of clothing is nice, it is just too expensive.",
+        "translation_es": "Esta prenda es bonita, solo que es cara."
+      },
+      {
+        "sentence": "我不是不去，___ 没时间。",
+        "answer": "就是",
+        "translation_en": "It is not that I will not go, it is just that I have no time.",
+        "translation_es": "No es que no vaya, es que no tengo tiempo."
+      },
+      {
+        "sentence": "他人很好，___ 有点马虎。",
+        "answer": "就是",
+        "translation_en": "He is very nice, only a bit careless.",
+        "translation_es": "Él es muy bueno, solo un poco descuidado."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag 连 into each gap.",
+    "items": [
+      {
+        "sentence": "他 ___ 饭都没吃就走了。",
+        "answer": "连",
+        "translation_en": "He left without even eating.",
+        "translation_es": "Se fue sin siquiera comer."
+      },
+      {
+        "sentence": "这个字 ___ 老师都不认识。",
+        "answer": "连",
+        "translation_en": "Even the teacher does not know this character.",
+        "translation_es": "Ni siquiera el profesor conoce este carácter."
+      },
+      {
+        "sentence": "他 ___ 自己的名字都不会写。",
+        "answer": "连",
+        "translation_en": "He cannot even write his own name.",
+        "translation_es": "Ni siquiera sabe escribir su propio nombre."
+      },
+      {
+        "sentence": "我 ___ 一分钱也没有。",
+        "answer": "连",
+        "translation_en": "I do not even have one penny.",
+        "translation_es": "No tengo ni un céntimo."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct tag question into each gap.",
+    "items": [
+      {
+        "sentence": "你来，___？",
+        "answer": "好吗",
+        "translation_en": "You will come, all right?",
+        "translation_es": "Vendrás, ¿vale?"
+      },
+      {
+        "sentence": "我们走，___？",
+        "answer": "好吗",
+        "translation_en": "Let's go, all right?",
+        "translation_es": "Vámonos, ¿vale?"
+      },
+      {
+        "sentence": "你是老师，___？",
+        "answer": "对吗",
+        "translation_en": "You are a teacher, right?",
+        "translation_es": "Eres profesor, ¿verdad?"
+      },
+      {
+        "sentence": "这本书不错，___？",
+        "answer": "是不是",
+        "translation_en": "This book is good, isn't it?",
+        "translation_es": "Este libro está bien, ¿no?"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag 与其 or 宁可 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 求人，宁可自己解决。",
+        "answer": "与其",
+        "translation_en": "Rather than ask others, I would rather solve it myself.",
+        "translation_es": "Antes que pedir ayuda, prefiero resolverlo yo mismo."
+      },
+      {
+        "sentence": "与其在家，他 ___ 出去。",
+        "answer": "宁可",
+        "translation_en": "Rather than stay at home, he would rather go out.",
+        "translation_es": "Antes que quedarse en casa, prefiere salir."
+      },
+      {
+        "sentence": "___ 等，我宁可走。",
+        "answer": "与其",
+        "translation_en": "Rather than wait, I would rather walk.",
+        "translation_es": "Antes que esperar, prefiero caminar."
+      },
+      {
+        "sentence": "与其买贵的，他 ___ 买实用的。",
+        "answer": "宁可",
+        "translation_en": "Rather than buy something expensive, he would rather buy something practical.",
+        "translation_es": "Antes que comprar algo caro, prefiere algo práctico."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag 固然 or 但是 into each gap.",
+    "items": [
+      {
+        "sentence": "钱 ___ 重要，但是健康更重要。",
+        "answer": "固然",
+        "translation_en": "Money is certainly important, but health is more so.",
+        "translation_es": "El dinero es ciertamente importante, pero la salud lo es más."
+      },
+      {
+        "sentence": "固然很难，___ 值得一试。",
+        "answer": "但是",
+        "translation_en": "It is admittedly hard, but worth a try.",
+        "translation_es": "Es ciertamente difícil, pero vale la pena intentarlo."
+      },
+      {
+        "sentence": "他 ___ 聪明，但是不够努力。",
+        "answer": "固然",
+        "translation_en": "He is certainly clever, but not hard-working enough.",
+        "translation_es": "Ciertamente es listo, pero no se esfuerza lo bastante."
+      },
+      {
+        "sentence": "固然他错了，___ 你也有责任。",
+        "answer": "但是",
+        "translation_en": "Admittedly he was wrong, but you are also responsible.",
+        "translation_es": "Ciertamente él se equivocó, pero tú también eres responsable."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag 尚且 or 何况 into each gap.",
+    "items": [
+      {
+        "sentence": "他 ___ 不会，何况我呢？",
+        "answer": "尚且",
+        "translation_en": "Even he cannot do it, let alone me.",
+        "translation_es": "Ni siquiera él sabe hacerlo, y mucho menos yo."
+      },
+      {
+        "sentence": "这么难的问题，专家 ___ 解决不了，何况我们。",
+        "answer": "尚且",
+        "translation_en": "Such a hard problem, even experts cannot solve it, let alone us.",
+        "translation_es": "Un problema tan difícil, ni los expertos pueden resolverlo, y menos nosotros."
+      },
+      {
+        "sentence": "他连饭 ___ 顾不上，何况休息。",
+        "answer": "尚且",
+        "translation_en": "He cannot even find time to eat, let alone rest.",
+        "translation_es": "Ni siquiera tiene tiempo para comer, y mucho menos para descansar."
+      },
+      {
+        "sentence": "大人尚且做不到，___ 孩子？",
+        "answer": "何况",
+        "translation_en": "Even adults cannot do it, let alone children.",
+        "translation_es": "Ni los adultos pueden hacerlo, y mucho menos los niños."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag 以免 or 免得 into each gap.",
+    "items": [
+      {
+        "sentence": "早点出发，___ 迟到。",
+        "answer": "以免",
+        "translation_en": "Set off early so as to avoid being late.",
+        "translation_es": "Sal temprano para evitar llegar tarde."
+      },
+      {
+        "sentence": "记下来，___ 忘记。",
+        "answer": "免得",
+        "translation_en": "Write it down so as not to forget.",
+        "translation_es": "Anótalo para no olvidarlo."
+      },
+      {
+        "sentence": "多穿点，___ 感冒。",
+        "answer": "以免",
+        "translation_en": "Wear more so as to avoid catching a cold.",
+        "translation_es": "Abrígate más para evitar resfriarte."
+      },
+      {
+        "sentence": "小心点，___ 出错。",
+        "answer": "免得",
+        "translation_en": "Be careful so as not to make a mistake.",
+        "translation_es": "Ten cuidado para no cometer errores."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag 之所以 or 是因为 into each gap.",
+    "items": [
+      {
+        "sentence": "他 ___ 成功，是因为他很努力。",
+        "answer": "之所以",
+        "translation_en": "The reason he succeeded is that he worked very hard.",
+        "translation_es": "La razón por la que tuvo éxito es que se esforzó mucho."
+      },
+      {
+        "sentence": "之所以迟到，___ 路上堵车。",
+        "answer": "是因为",
+        "translation_en": "The reason for being late is that there was a traffic jam.",
+        "translation_es": "La razón de llegar tarde es que hubo un atasco."
+      },
+      {
+        "sentence": "她 ___ 生气，是因为你没告诉她。",
+        "answer": "之所以",
+        "translation_en": "The reason she is angry is that you did not tell her.",
+        "translation_es": "La razón por la que está enfadada es que no se lo dijiste."
+      },
+      {
+        "sentence": "之所以没去，___ 下雨了。",
+        "answer": "是因为",
+        "translation_en": "The reason we did not go is that it rained.",
+        "translation_es": "La razón de no ir es que llovió."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag 以至于 into each gap.",
+    "items": [
+      {
+        "sentence": "他太累了，___ 站着就睡着了。",
+        "answer": "以至于",
+        "translation_en": "He was so tired that he fell asleep standing up.",
+        "translation_es": "Estaba tan cansado que se quedó dormido de pie."
+      },
+      {
+        "sentence": "声音太大，___ 我听不见你说什么。",
+        "answer": "以至于",
+        "translation_en": "The noise was so loud that I could not hear you.",
+        "translation_es": "Había tanto ruido que no podía oírte."
+      },
+      {
+        "sentence": "他跑得太快，___ 没人追得上。",
+        "answer": "以至于",
+        "translation_en": "He ran so fast that no one could catch up.",
+        "translation_es": "Corrió tan rápido que nadie pudo alcanzarlo."
+      },
+      {
+        "sentence": "事情变化太快，___ 我们来不及反应。",
+        "answer": "以至于",
+        "translation_en": "Things changed so fast that we had no time to react.",
+        "translation_es": "Las cosas cambiaron tan rápido que no tuvimos tiempo de reaccionar."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag 反而 into each gap.",
+    "items": [
+      {
+        "sentence": "药吃了，病 ___ 更重了。",
+        "answer": "反而",
+        "translation_en": "He took the medicine, but the illness got worse instead.",
+        "translation_es": "Tomó la medicina, pero la enfermedad empeoró."
+      },
+      {
+        "sentence": "他不但没生气，___ 笑了。",
+        "answer": "反而",
+        "translation_en": "He did not get angry; on the contrary, he laughed.",
+        "translation_es": "No se enfadó; al contrario, se rió."
+      },
+      {
+        "sentence": "越睡 ___ 越累。",
+        "answer": "反而",
+        "translation_en": "The more I sleep, the more tired I feel instead.",
+        "translation_es": "Cuanto más duermo, más cansado estoy."
+      },
+      {
+        "sentence": "我不但不累，___ 更精神了。",
+        "answer": "反而",
+        "translation_en": "I am not tired; on the contrary, I feel more energetic.",
+        "translation_es": "No solo no estoy cansado, sino que estoy más animado."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag 未免 into each gap.",
+    "items": [
+      {
+        "sentence": "你这样说 ___ 太过分了。",
+        "answer": "未免",
+        "translation_en": "Saying that is a bit too much.",
+        "translation_es": "Decir eso es un poco excesivo."
+      },
+      {
+        "sentence": "这个价格 ___ 太高了。",
+        "answer": "未免",
+        "translation_en": "This price is rather too high.",
+        "translation_es": "Este precio es bastante alto."
+      },
+      {
+        "sentence": "他 ___ 太自信了。",
+        "answer": "未免",
+        "translation_en": "He is rather too self-confident.",
+        "translation_es": "Él es demasiado seguro de sí mismo."
+      },
+      {
+        "sentence": "这样说 ___ 有点不公平。",
+        "answer": "未免",
+        "translation_en": "Saying that is somewhat unfair.",
+        "translation_es": "Decir eso es un poco injusto."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag 不妨 into each gap.",
+    "items": [
+      {
+        "sentence": "你 ___ 试试看。",
+        "answer": "不妨",
+        "translation_en": "You might as well give it a try.",
+        "translation_es": "Bien podrías intentarlo."
+      },
+      {
+        "sentence": "如果不知道，___ 问问他。",
+        "answer": "不妨",
+        "translation_en": "If you do not know, you might as well ask him.",
+        "translation_es": "Si no lo sabes, bien podrías preguntarle."
+      },
+      {
+        "sentence": "我们 ___ 换个方法。",
+        "answer": "不妨",
+        "translation_en": "We might as well try another method.",
+        "translation_es": "Bien podríamos probar otro método."
+      },
+      {
+        "sentence": "___ 先听听他的意见。",
+        "answer": "不妨",
+        "translation_en": "We might as well listen to his opinion first.",
+        "translation_es": "Bien podríamos escuchar su opinión primero."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag 难免 into each gap.",
+    "items": [
+      {
+        "sentence": "第一次做，___ 出错。",
+        "answer": "难免",
+        "translation_en": "Doing it for the first time, mistakes are unavoidable.",
+        "translation_es": "Al hacerlo por primera vez, es inevitable equivocarse."
+      },
+      {
+        "sentence": "人多的地方，___ 会有麻烦。",
+        "answer": "难免",
+        "translation_en": "In crowded places, trouble is inevitable.",
+        "translation_es": "En lugares concurridos, los problemas son inevitables."
+      },
+      {
+        "sentence": "他刚来，___ 不习惯。",
+        "answer": "难免",
+        "translation_en": "He has just arrived, so it is natural he is not used to it.",
+        "translation_es": "Acaba de llegar, es natural que no esté acostumbrado."
+      },
+      {
+        "sentence": "这样做 ___ 让人误会。",
+        "answer": "难免",
+        "translation_en": "Doing it this way will inevitably cause misunderstanding.",
+        "translation_es": "Hacerlo así inevitablemente causará malentendidos."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag 鉴于 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 情况紧急，我们必须马上行动。",
+        "answer": "鉴于",
+        "translation_en": "Given the urgency, we must act at once.",
+        "translation_es": "Dada la urgencia, debemos actuar de inmediato."
+      },
+      {
+        "sentence": "___ 他表现优秀，公司提拔了他。",
+        "answer": "鉴于",
+        "translation_en": "In view of his excellent performance, the company promoted him.",
+        "translation_es": "En vista de su excelente rendimiento, la empresa lo ascendió."
+      },
+      {
+        "sentence": "___ 天气原因，活动取消了。",
+        "answer": "鉴于",
+        "translation_en": "Owing to the weather, the event was cancelled.",
+        "translation_es": "Debido al tiempo, el evento se canceló."
+      },
+      {
+        "sentence": "___ 时间有限，我们就谈到这里。",
+        "answer": "鉴于",
+        "translation_en": "As time is limited, let us stop here.",
+        "translation_es": "Como el tiempo es limitado, terminemos aquí."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag 便于 into each gap.",
+    "items": [
+      {
+        "sentence": "把文件分类，___ 查找。",
+        "answer": "便于",
+        "translation_en": "Sort the files so that they are easy to find.",
+        "translation_es": "Clasifica los archivos para que sea fácil encontrarlos."
+      },
+      {
+        "sentence": "请留下电话，___ 联系。",
+        "answer": "便于",
+        "translation_en": "Please leave your phone number so that we can contact you.",
+        "translation_es": "Por favor, deja tu teléfono para poder contactarte."
+      },
+      {
+        "sentence": "建这个网站是 ___ 学习。",
+        "answer": "便于",
+        "translation_en": "This website was built to make studying easier.",
+        "translation_es": "Este sitio web se creó para facilitar el estudio."
+      },
+      {
+        "sentence": "把重点记下来，___ 复习。",
+        "answer": "便于",
+        "translation_en": "Note down the key points to make revision easier.",
+        "translation_es": "Anota los puntos clave para facilitar el repaso."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag 无非 into each gap.",
+    "items": [
+      {
+        "sentence": "他这么说，___ 想让你高兴。",
+        "answer": "无非",
+        "translation_en": "He said that simply to please you.",
+        "translation_es": "Lo dijo simplemente para alegrarte."
+      },
+      {
+        "sentence": "他生气，___ 是因为太累了。",
+        "answer": "无非",
+        "translation_en": "He is angry simply because he is too tired.",
+        "translation_es": "Está enfadado simplemente porque está muy cansado."
+      },
+      {
+        "sentence": "这 ___ 是个借口。",
+        "answer": "无非",
+        "translation_en": "This is nothing but an excuse.",
+        "translation_es": "Esto no es más que una excusa."
+      },
+      {
+        "sentence": "我们争论，___ 为了解决问题。",
+        "answer": "无非",
+        "translation_en": "We argue simply in order to solve the problem.",
+        "translation_es": "Discutimos simplemente para resolver el problema."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag 未尝 into each gap.",
+    "items": [
+      {
+        "sentence": "这个办法 ___ 不可。",
+        "answer": "未尝",
+        "translation_en": "This method is not necessarily unworkable.",
+        "translation_es": "Este método no es necesariamente inviable."
+      },
+      {
+        "sentence": "你 ___ 不能试试。",
+        "answer": "未尝",
+        "translation_en": "It is not that you cannot give it a try.",
+        "translation_es": "No es que no puedas intentarlo."
+      },
+      {
+        "sentence": "这样做 ___ 不是一种选择。",
+        "answer": "未尝",
+        "translation_en": "Doing it this way is not necessarily not an option.",
+        "translation_es": "Hacerlo así no deja de ser una opción."
+      },
+      {
+        "sentence": "他的想法 ___ 没有道理。",
+        "answer": "未尝",
+        "translation_en": "His idea is not without reason.",
+        "translation_es": "Su idea no carece de razón."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag 何尝 into each gap.",
+    "items": [
+      {
+        "sentence": "我 ___ 不想去呢？",
+        "answer": "何尝",
+        "translation_en": "How could I not want to go?",
+        "translation_es": "¿Cómo no voy a querer ir?"
+      },
+      {
+        "sentence": "他 ___ 不愿意，只是没时间。",
+        "answer": "何尝",
+        "translation_en": "It is not that he is unwilling, he simply has no time.",
+        "translation_es": "No es que no quiera, simplemente no tiene tiempo."
+      },
+      {
+        "sentence": "我们 ___ 不是这样想的？",
+        "answer": "何尝",
+        "translation_en": "Haven't we thought the same way?",
+        "translation_es": "¿Acaso no hemos pensado igual?"
+      },
+      {
+        "sentence": "你 ___ 没有努力过？",
+        "answer": "何尝",
+        "translation_en": "Have you never made an effort?",
+        "translation_es": "¿Acaso no te has esforzado nunca?"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag 就 or 而言 into each gap.",
+    "items": [
+      {
+        "sentence": "___ 价格而言，这个很便宜。",
+        "answer": "就",
+        "translation_en": "As far as the price is concerned, this is cheap.",
+        "translation_es": "En cuanto al precio, esto es barato."
+      },
+      {
+        "sentence": "就能力 ___，他完全可以胜任。",
+        "answer": "而言",
+        "translation_en": "In terms of ability, he is fully capable.",
+        "translation_es": "En cuanto a la capacidad, es totalmente competente."
+      },
+      {
+        "sentence": "___ 质量而言，这个牌子最好。",
+        "answer": "就",
+        "translation_en": "As far as quality is concerned, this brand is the best.",
+        "translation_es": "En cuanto a la calidad, esta marca es la mejor."
+      },
+      {
+        "sentence": "就我个人 ___，我不同意。",
+        "answer": "而言",
+        "translation_en": "As far as I am concerned, I do not agree.",
+        "translation_es": "En lo que a mí respecta, no estoy de acuerdo."
+      }
+    ]
+  }
+]

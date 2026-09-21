@@ -117,6 +117,7 @@
   .face.back { transform: rotateY(180deg); }
   .word { font-size: 40px; font-weight: 800; margin: 8px 0; word-break: break-word; }
   .ipa { color: var(--muted); font-size: 17px; margin-top: 2px; letter-spacing: 0.5px; }
+  .ipa.pinyin { font-style: italic; }
   .hint { color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: 1px; }
   .badge {
     display: inline-block; padding: 5px 14px; border-radius: 999px; font-size: 12px; font-weight: 700;
@@ -203,6 +204,7 @@
   .text-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
   .text-head h3 { margin: 0; }
   table.grid th.act, table.grid td.act { width: 46px; text-align: center; }
+  .tablewrap { overflow-x: auto; }
 </style>
 </head>
 <body>
@@ -386,12 +388,19 @@
 
   function grammarRowText(g, row) {
     const target = (lang && lang.code) || "en";
+    const cjk = lang && lang.script === "cjk";
     const skip = new Set(SPANISH_HEADERS);
     if (target !== "en") skip.add("english");
     const parts = [];
     g.columns.forEach((c, i) => {
       const v = row[i];
       if (v === undefined || v === null || v === "" || v === "—" || v === "-") return;
+      if (cjk) {
+        if (!/[\u3400-\u9fff]/.test(String(v))) return;
+        const han = String(v).replace(/[^\u3400-\u9fff\u3000-\u303f\uff00-\uffef]/g, "");
+        if (han) parts.push(han);
+        return;
+      }
       if (skip.has(String(c).trim().toLowerCase())) return;
       parts.push(v);
     });
@@ -433,6 +442,7 @@
       <div class="hint">${lang.termLabel}</div>
       <div class="word">${w[lang.termField]}</div>
       ${w.ipa ? `<div class="ipa">/${w.ipa}/</div>` : ""}
+      ${w.pinyin ? `<div class="ipa pinyin">${w.pinyin}</div>` : ""}
       <button class="speak" type="button" title="Listen" aria-label="Listen" data-fc-speak>${ICON_SPEAK}</button>`;
     back.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
@@ -645,10 +655,10 @@
         <div class="level-tag">${g.level}</div>
         <h3>${g.title}</h3>
         <p style="color:var(--muted);margin:0 0 12px">${g.description}</p>
-        <table class="grid">
+        <div class="tablewrap"><table class="grid">
           <thead><tr>${canSpeak ? '<th class="act"></th>' : ""}${g.columns.map(c => `<th>${c}</th>`).join("")}</tr></thead>
           <tbody>${g.rows.map((r, ri) => `<tr>${canSpeak ? `<td class="act"><button class="speak" type="button" title="Listen" aria-label="Listen" data-gr-row="${g.id}:${ri}">${ICON_SPEAK}</button></td>` : ""}${r.map(c => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody>
-        </table>
+        </table></div>
       </div>`).join("");
     if (!canSpeak) return;
     el.querySelectorAll("[data-gr-row]").forEach(btn => {

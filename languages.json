@@ -77,5 +77,20 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "zh",
+    "name": "Chinese",
+    "flag": "CN",
+    "speech": "zh-CN",
+    "termLabel": "Chinese",
+    "termField": "chinese",
+    "script": "cjk",
+    "pinyin": true,
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

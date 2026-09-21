@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "hello",
+    "spanish": "hola",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "chinese": "再见",
+    "pinyin": "zài jiàn",
+    "english": "goodbye",
+    "spanish": "adiós",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "chinese": "早上好",
+    "pinyin": "zǎo shang hǎo",
+    "english": "good morning",
+    "spanish": "buenos días",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "chinese": "晚安",
+    "pinyin": "wǎn ān",
+    "english": "good night",
+    "spanish": "buenas noches",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "chinese": "谢谢",
+    "pinyin": "xiè xie",
+    "english": "thank you",
+    "spanish": "gracias",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "english": "please",
+    "spanish": "por favor",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "chinese": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english": "sorry",
+    "spanish": "lo siento / perdón",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "chinese": "是",
+    "pinyin": "shì",
+    "english": "yes",
+    "spanish": "sí",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "chinese": "不",
+    "pinyin": "bù",
+    "english": "no",
+    "spanish": "no",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "chinese": "你好吗？",
+    "pinyin": "nǐ hǎo ma?",
+    "english": "how are you?",
+    "spanish": "¿cómo estás?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "english": "water",
+    "spanish": "agua",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "chinese": "面包",
+    "pinyin": "miàn bāo",
+    "english": "bread",
+    "spanish": "pan",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "chinese": "牛奶",
+    "pinyin": "niú nǎi",
+    "english": "milk",
+    "spanish": "leche",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "chinese": "咖啡",
+    "pinyin": "kā fēi",
+    "english": "coffee",
+    "spanish": "café",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "chinese": "苹果",
+    "pinyin": "píng guǒ",
+    "english": "apple",
+    "spanish": "manzana",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "chinese": "房子",
+    "pinyin": "fáng zi",
+    "english": "house",
+    "spanish": "casa",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "chinese": "猫",
+    "pinyin": "māo",
+    "english": "cat",
+    "spanish": "gato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "chinese": "狗",
+    "pinyin": "gǒu",
+    "english": "dog",
+    "spanish": "perro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "chinese": "妈妈",
+    "pinyin": "mā ma",
+    "english": "mother",
+    "spanish": "madre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "chinese": "爸爸",
+    "pinyin": "bà ba",
+    "english": "father",
+    "spanish": "padre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "chinese": "家庭",
+    "pinyin": "jiā tíng",
+    "english": "family",
+    "spanish": "familia",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "chinese": "朋友",
+    "pinyin": "péng you",
+    "english": "friend",
+    "spanish": "amigo",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "chinese": "是",
+    "pinyin": "shì",
+    "english": "to be",
+    "spanish": "ser / estar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "english": "to have",
+    "spanish": "tener",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "chinese": "去",
+    "pinyin": "qù",
+    "english": "to go",
+    "spanish": "ir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "chinese": "吃",
+    "pinyin": "chī",
+    "english": "to eat",
+    "spanish": "comer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "chinese": "喝",
+    "pinyin": "hē",
+    "english": "to drink",
+    "spanish": "beber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "english": "good",
+    "spanish": "bueno",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "chinese": "坏",
+    "pinyin": "huài",
+    "english": "bad",
+    "spanish": "malo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "chinese": "大",
+    "pinyin": "dà",
+    "english": "big",
+    "spanish": "grande",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "english": "small",
+    "spanish": "pequeño",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "chinese": "住",
+    "pinyin": "zhù",
+    "english": "to live",
+    "spanish": "vivir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 33,
+    "chinese": "工作",
+    "pinyin": "gōng zuò",
+    "english": "to work",
+    "spanish": "trabajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 34,
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "english": "to buy",
+    "spanish": "comprar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 35,
+    "chinese": "旅行",
+    "pinyin": "lǚ xíng",
+    "english": "to travel",
+    "spanish": "viajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 36,
+    "chinese": "做饭",
+    "pinyin": "zuò fàn",
+    "english": "to cook",
+    "spanish": "cocinar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 37,
+    "chinese": "学",
+    "pinyin": "xué",
+    "english": "to learn",
+    "spanish": "aprender",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 38,
+    "chinese": "衣服",
+    "pinyin": "yī fu",
+    "english": "clothes",
+    "spanish": "ropa",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 39,
+    "chinese": "鞋",
+    "pinyin": "xié",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 40,
+    "chinese": "外套",
+    "pinyin": "wài tào",
+    "english": "coat",
+    "spanish": "abrigo",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 41,
+    "chinese": "厨房",
+    "pinyin": "chú fáng",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 42,
+    "chinese": "卫生间",
+    "pinyin": "wèi shēng jiān",
+    "english": "bathroom",
+    "spanish": "baño",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 43,
+    "chinese": "卧室",
+    "pinyin": "wò shì",
+    "english": "bedroom",
+    "spanish": "dormitorio",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 44,
+    "chinese": "街",
+    "pinyin": "jiē",
+    "english": "street",
+    "spanish": "calle",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 45,
+    "chinese": "城市",
+    "pinyin": "chéng shì",
+    "english": "city",
+    "spanish": "ciudad",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 46,
+    "chinese": "商店",
+    "pinyin": "shāng diàn",
+    "english": "shop",
+    "spanish": "tienda",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 47,
+    "chinese": "车站",
+    "pinyin": "chē zhàn",
+    "english": "station",
+    "spanish": "estación",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 48,
+    "chinese": "票",
+    "pinyin": "piào",
+    "english": "ticket",
+    "spanish": "billete",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 49,
+    "chinese": "行李箱",
+    "pinyin": "xíng li xiāng",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 50,
+    "chinese": "汽车",
+    "pinyin": "qì chē",
+    "english": "car",
+    "spanish": "coche",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 51,
+    "chinese": "火车",
+    "pinyin": "huǒ chē",
+    "english": "train",
+    "spanish": "tren",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 52,
+    "chinese": "今天",
+    "pinyin": "jīn tiān",
+    "english": "today",
+    "spanish": "hoy",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 53,
+    "chinese": "明天",
+    "pinyin": "míng tiān",
+    "english": "tomorrow",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 54,
+    "chinese": "昨天",
+    "pinyin": "zuó tiān",
+    "english": "yesterday",
+    "spanish": "ayer",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 55,
+    "chinese": "总是",
+    "pinyin": "zǒng shì",
+    "english": "always",
+    "spanish": "siempre",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 56,
+    "chinese": "经常",
+    "pinyin": "jīng cháng",
+    "english": "often",
+    "spanish": "a menudo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 57,
+    "chinese": "从不",
+    "pinyin": "cóng bù",
+    "english": "never",
+    "spanish": "nunca",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 58,
+    "chinese": "天气",
+    "pinyin": "tiān qì",
+    "english": "weather",
+    "spanish": "tiempo (clima)",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 59,
+    "chinese": "雨",
+    "pinyin": "yǔ",
+    "english": "rain",
+    "spanish": "lluvia",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 60,
+    "chinese": "太阳",
+    "pinyin": "tài yáng",
+    "english": "sun",
+    "spanish": "sol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 61,
+    "chinese": "高兴",
+    "pinyin": "gāo xìng",
+    "english": "happy",
+    "spanish": "feliz",
+    "category": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": 62,
+    "chinese": "经验",
+    "pinyin": "jīng yàn",
+    "english": "experience",
+    "spanish": "experiencia",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 63,
+    "chinese": "职业",
+    "pinyin": "zhí yè",
+    "english": "profession",
+    "spanish": "profesión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 64,
+    "chinese": "老板",
+    "pinyin": "lǎo bǎn",
+    "english": "boss",
+    "spanish": "jefe",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 65,
+    "chinese": "会议",
+    "pinyin": "huì yì",
+    "english": "meeting",
+    "spanish": "reunión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 66,
+    "chinese": "合同",
+    "pinyin": "hé tong",
+    "english": "contract",
+    "spanish": "contrato",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 67,
+    "chinese": "工资",
+    "pinyin": "gōng zī",
+    "english": "salary",
+    "spanish": "salario",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 68,
+    "chinese": "教育",
+    "pinyin": "jiào yù",
+    "english": "education",
+    "spanish": "educación",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 69,
+    "chinese": "知识",
+    "pinyin": "zhī shi",
+    "english": "knowledge",
+    "spanish": "conocimiento",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 70,
+    "chinese": "技能",
+    "pinyin": "jì néng",
+    "english": "skill",
+    "spanish": "habilidad",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 71,
+    "chinese": "考试",
+    "pinyin": "kǎo shì",
+    "english": "exam",
+    "spanish": "examen",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 72,
+    "chinese": "健康",
+    "pinyin": "jiàn kāng",
+    "english": "health",
+    "spanish": "salud",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 73,
+    "chinese": "病",
+    "pinyin": "bìng",
+    "english": "illness",
+    "spanish": "enfermedad",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 74,
+    "chinese": "医生",
+    "pinyin": "yī shēng",
+    "english": "doctor",
+    "spanish": "médico",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 75,
+    "chinese": "幸福",
+    "pinyin": "xìng fú",
+    "english": "happiness",
+    "spanish": "felicidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 76,
+    "chinese": "害怕",
+    "pinyin": "hài pà",
+    "english": "fear",
+    "spanish": "miedo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 77,
+    "chinese": "希望",
+    "pinyin": "xī wàng",
+    "english": "hope",
+    "spanish": "esperanza",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 78,
+    "chinese": "爱",
+    "pinyin": "ài",
+    "english": "love",
+    "spanish": "amor",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 79,
+    "chinese": "嫉妒",
+    "pinyin": "jí dù",
+    "english": "jealousy",
+    "spanish": "celos",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 80,
+    "chinese": "决定",
+    "pinyin": "jué dìng",
+    "english": "to decide",
+    "spanish": "decidir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 81,
+    "chinese": "选择",
+    "pinyin": "xuǎn zé",
+    "english": "to choose",
+    "spanish": "elegir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 82,
+    "chinese": "解释",
+    "pinyin": "jiě shì",
+    "english": "to explain",
+    "spanish": "explicar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 83,
+    "chinese": "比较",
+    "pinyin": "bǐ jiào",
+    "english": "to compare",
+    "spanish": "comparar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 84,
+    "chinese": "实现",
+    "pinyin": "shí xiàn",
+    "english": "to achieve",
+    "spanish": "lograr",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 85,
+    "chinese": "推荐",
+    "pinyin": "tuī jiàn",
+    "english": "to recommend",
+    "spanish": "recomendar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 86,
+    "chinese": "其实",
+    "pinyin": "qí shí",
+    "english": "actually",
+    "spanish": "en realidad",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 87,
+    "chinese": "马上",
+    "pinyin": "mǎ shàng",
+    "english": "immediately",
+    "spanish": "inmediatamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 88,
+    "chinese": "可惜",
+    "pinyin": "kě xī",
+    "english": "unfortunately",
+    "spanish": "desafortunadamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 89,
+    "chinese": "环境",
+    "pinyin": "huán jìng",
+    "english": "environment",
+    "spanish": "medio ambiente",
+    "category": "nature",
+    "level": "B1"
+  },
+  {
+    "id": 90,
+    "chinese": "社会",
+    "pinyin": "shè huì",
+    "english": "society",
+    "spanish": "sociedad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 91,
+    "chinese": "选择",
+    "pinyin": "xuǎn zé",
+    "english": "choice",
+    "spanish": "elección",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 92,
+    "chinese": "信念",
+    "pinyin": "xìn niàn",
+    "english": "belief",
+    "spanish": "convicción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 93,
+    "chinese": "怀疑",
+    "pinyin": "huái yí",
+    "english": "doubt",
+    "spanish": "duda",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "chinese": "现象",
+    "pinyin": "xiàn xiàng",
+    "english": "phenomenon",
+    "spanish": "fenómeno",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "chinese": "解决办法",
+    "pinyin": "jiě jué bàn fǎ",
+    "english": "solution",
+    "spanish": "solución",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "chinese": "研究",
+    "pinyin": "yán jiū",
+    "english": "research",
+    "spanish": "investigación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "chinese": "影响",
+    "pinyin": "yǐng xiǎng",
+    "english": "influence",
+    "spanish": "influencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "chinese": "威胁",
+    "pinyin": "wēi xié",
+    "english": "threat",
+    "spanish": "amenaza",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "chinese": "意识",
+    "pinyin": "yì shí",
+    "english": "awareness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "chinese": "发展",
+    "pinyin": "fā zhǎn",
+    "english": "development",
+    "spanish": "desarrollo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 101,
+    "chinese": "进步",
+    "pinyin": "jìn bù",
+    "english": "progress",
+    "spanish": "progreso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 102,
+    "chinese": "后果",
+    "pinyin": "hòu guǒ",
+    "english": "consequence",
+    "spanish": "consecuencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 103,
+    "chinese": "预测",
+    "pinyin": "yù cè",
+    "english": "to predict",
+    "spanish": "predecir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 104,
+    "chinese": "假设",
+    "pinyin": "jiǎ shè",
+    "english": "to assume",
+    "spanish": "asumir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 105,
+    "chinese": "证明",
+    "pinyin": "zhèng míng",
+    "english": "to prove",
+    "spanish": "demostrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 106,
+    "chinese": "怀疑",
+    "pinyin": "huái yí",
+    "english": "to doubt",
+    "spanish": "dudar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 107,
+    "chinese": "谈判",
+    "pinyin": "tán pàn",
+    "english": "to negotiate",
+    "spanish": "negociar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 108,
+    "chinese": "分析",
+    "pinyin": "fēn xī",
+    "english": "to analyze",
+    "spanish": "analizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 109,
+    "chinese": "评估",
+    "pinyin": "píng gū",
+    "english": "to assess",
+    "spanish": "evaluar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 110,
+    "chinese": "足够",
+    "pinyin": "zú gòu",
+    "english": "sufficient",
+    "spanish": "suficiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 111,
+    "chinese": "明显",
+    "pinyin": "míng xiǎn",
+    "english": "obvious",
+    "spanish": "obvio",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 112,
+    "chinese": "复杂",
+    "pinyin": "fù zá",
+    "english": "complex",
+    "spanish": "complejo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 113,
+    "chinese": "相对",
+    "pinyin": "xiāng duì",
+    "english": "relative",
+    "spanish": "relativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 114,
+    "chinese": "独立",
+    "pinyin": "dú lì",
+    "english": "independent",
+    "spanish": "independiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 115,
+    "chinese": "可持续",
+    "pinyin": "kě chí xù",
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 116,
+    "chinese": "虽然",
+    "pinyin": "suī rán",
+    "english": "even though",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 117,
+    "chinese": "然而",
+    "pinyin": "rán ér",
+    "english": "however",
+    "spanish": "sin embargo",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 118,
+    "chinese": "而",
+    "pinyin": "ér",
+    "english": "whereas",
+    "spanish": "en cambio",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 119,
+    "chinese": "而且",
+    "pinyin": "ér qiě",
+    "english": "moreover",
+    "spanish": "además",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 120,
+    "chinese": "自由",
+    "pinyin": "zì yóu",
+    "english": "freedom",
+    "spanish": "libertad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 121,
+    "chinese": "一",
+    "pinyin": "yī",
+    "english": "one",
+    "spanish": "uno",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "chinese": "二",
+    "pinyin": "èr",
+    "english": "two",
+    "spanish": "dos",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "chinese": "三",
+    "pinyin": "sān",
+    "english": "three",
+    "spanish": "tres",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "chinese": "四",
+    "pinyin": "sì",
+    "english": "four",
+    "spanish": "cuatro",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "english": "five",
+    "spanish": "cinco",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "chinese": "六",
+    "pinyin": "liù",
+    "english": "six",
+    "spanish": "seis",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "chinese": "七",
+    "pinyin": "qī",
+    "english": "seven",
+    "spanish": "siete",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "chinese": "八",
+    "pinyin": "bā",
+    "english": "eight",
+    "spanish": "ocho",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "english": "nine",
+    "spanish": "nueve",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "chinese": "十",
+    "pinyin": "shí",
+    "english": "ten",
+    "spanish": "diez",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "chinese": "红",
+    "pinyin": "hóng",
+    "english": "red",
+    "spanish": "rojo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "chinese": "蓝",
+    "pinyin": "lán",
+    "english": "blue",
+    "spanish": "azul",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "chinese": "绿",
+    "pinyin": "lǜ",
+    "english": "green",
+    "spanish": "verde",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "chinese": "黑",
+    "pinyin": "hēi",
+    "english": "black",
+    "spanish": "negro",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "chinese": "白",
+    "pinyin": "bái",
+    "english": "white",
+    "spanish": "blanco",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "chinese": "黄",
+    "pinyin": "huáng",
+    "english": "yellow",
+    "spanish": "amarillo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "chinese": "晴",
+    "pinyin": "qíng",
+    "english": "sunny",
+    "spanish": "soleado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "chinese": "多雨",
+    "pinyin": "duō yǔ",
+    "english": "rainy",
+    "spanish": "lluvioso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "chinese": "多云",
+    "pinyin": "duō yún",
+    "english": "cloudy",
+    "spanish": "nublado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "english": "cold",
+    "spanish": "frío",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "chinese": "热",
+    "pinyin": "rè",
+    "english": "hot",
+    "spanish": "caluroso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "chinese": "兄弟",
+    "pinyin": "xiōng dì",
+    "english": "brother",
+    "spanish": "hermano",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "chinese": "姐妹",
+    "pinyin": "jiě mèi",
+    "english": "sister",
+    "spanish": "hermana",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "chinese": "儿子",
+    "pinyin": "ér zi",
+    "english": "son",
+    "spanish": "hijo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "chinese": "女儿",
+    "pinyin": "nǚ ér",
+    "english": "daughter",
+    "spanish": "hija",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "chinese": "学校",
+    "pinyin": "xué xiào",
+    "english": "school",
+    "spanish": "escuela",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "chinese": "公园",
+    "pinyin": "gōng yuán",
+    "english": "park",
+    "spanish": "parque",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "chinese": "左",
+    "pinyin": "zuǒ",
+    "english": "left",
+    "spanish": "izquierda",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "chinese": "右",
+    "pinyin": "yòu",
+    "english": "right",
+    "spanish": "derecha",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "chinese": "帮助",
+    "pinyin": "bāng zhù",
+    "english": "help",
+    "spanish": "ayuda",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "chinese": "花园",
+    "pinyin": "huā yuán",
+    "english": "garden",
+    "spanish": "jardín",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 152,
+    "chinese": "窗户",
+    "pinyin": "chuāng hu",
+    "english": "window",
+    "spanish": "ventana",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 153,
+    "chinese": "门",
+    "pinyin": "mén",
+    "english": "door",
+    "spanish": "puerta",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 154,
+    "chinese": "椅子",
+    "pinyin": "yǐ zi",
+    "english": "chair",
+    "spanish": "silla",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 155,
+    "chinese": "桌子",
+    "pinyin": "zhuō zi",
+    "english": "table",
+    "spanish": "mesa",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 156,
+    "chinese": "书",
+    "pinyin": "shū",
+    "english": "book",
+    "spanish": "libro",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 157,
+    "chinese": "笔",
+    "pinyin": "bǐ",
+    "english": "pen",
+    "spanish": "bolígrafo",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 158,
+    "chinese": "读",
+    "pinyin": "dú",
+    "english": "to read",
+    "spanish": "leer",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 159,
+    "chinese": "写",
+    "pinyin": "xiě",
+    "english": "to write",
+    "spanish": "escribir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 160,
+    "chinese": "说",
+    "pinyin": "shuō",
+    "english": "to speak",
+    "spanish": "hablar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 161,
+    "chinese": "听",
+    "pinyin": "tīng",
+    "english": "to listen",
+    "spanish": "escuchar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 162,
+    "chinese": "开",
+    "pinyin": "kāi",
+    "english": "to open",
+    "spanish": "abrir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 163,
+    "chinese": "关",
+    "pinyin": "guān",
+    "english": "to close",
+    "spanish": "cerrar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 164,
+    "chinese": "睡觉",
+    "pinyin": "shuì jiào",
+    "english": "to sleep",
+    "spanish": "dormir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 165,
+    "chinese": "跑",
+    "pinyin": "pǎo",
+    "english": "to run",
+    "spanish": "correr",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 166,
+    "chinese": "游泳",
+    "pinyin": "yóu yǒng",
+    "english": "to swim",
+    "spanish": "nadar",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 167,
+    "chinese": "足球",
+    "pinyin": "zú qiú",
+    "english": "football",
+    "spanish": "fútbol",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 168,
+    "chinese": "音乐",
+    "pinyin": "yīn yuè",
+    "english": "music",
+    "spanish": "música",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 169,
+    "chinese": "歌",
+    "pinyin": "gē",
+    "english": "song",
+    "spanish": "canción",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 170,
+    "chinese": "唱歌",
+    "pinyin": "chàng gē",
+    "english": "to sing",
+    "spanish": "cantar",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 171,
+    "chinese": "聚会",
+    "pinyin": "jù huì",
+    "english": "party",
+    "spanish": "fiesta",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 172,
+    "chinese": "海滩",
+    "pinyin": "hǎi tān",
+    "english": "beach",
+    "spanish": "playa",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 173,
+    "chinese": "山",
+    "pinyin": "shān",
+    "english": "mountain",
+    "spanish": "montaña",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 174,
+    "chinese": "河",
+    "pinyin": "hé",
+    "english": "river",
+    "spanish": "río",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 175,
+    "chinese": "树",
+    "pinyin": "shù",
+    "english": "tree",
+    "spanish": "árbol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 176,
+    "chinese": "花",
+    "pinyin": "huā",
+    "english": "flower",
+    "spanish": "flor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 177,
+    "chinese": "天空",
+    "pinyin": "tiān kōng",
+    "english": "sky",
+    "spanish": "cielo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 178,
+    "chinese": "累",
+    "pinyin": "lèi",
+    "english": "tired",
+    "spanish": "cansado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 179,
+    "chinese": "生气",
+    "pinyin": "shēng qì",
+    "english": "angry",
+    "spanish": "enfadado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 180,
+    "chinese": "担心",
+    "pinyin": "dān xīn",
+    "english": "worried",
+    "spanish": "preocupado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 181,
+    "chinese": "收入",
+    "pinyin": "shōu rù",
+    "english": "income",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 182,
+    "chinese": "存钱",
+    "pinyin": "cún qián",
+    "english": "to save",
+    "spanish": "ahorrar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 183,
+    "chinese": "花",
+    "pinyin": "huā",
+    "english": "to spend",
+    "spanish": "gastar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 184,
+    "chinese": "债务",
+    "pinyin": "zhài wù",
+    "english": "debt",
+    "spanish": "deuda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 185,
+    "chinese": "价格",
+    "pinyin": "jià gé",
+    "english": "price",
+    "spanish": "precio",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 186,
+    "chinese": "银行",
+    "pinyin": "yín háng",
+    "english": "bank",
+    "spanish": "banco",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 187,
+    "chinese": "雇用",
+    "pinyin": "gù yòng",
+    "english": "to hire",
+    "spanish": "contratar",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 188,
+    "chinese": "同事",
+    "pinyin": "tóng shì",
+    "english": "colleague",
+    "spanish": "colega",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 189,
+    "chinese": "截止日期",
+    "pinyin": "jié zhǐ rì qī",
+    "english": "deadline",
+    "spanish": "fecha límite",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 190,
+    "chinese": "事业",
+    "pinyin": "shì yè",
+    "english": "career",
+    "spanish": "carrera",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 191,
+    "chinese": "提高",
+    "pinyin": "tí gāo",
+    "english": "to improve",
+    "spanish": "mejorar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 192,
+    "chinese": "建议",
+    "pinyin": "jiàn yì",
+    "english": "to suggest",
+    "spanish": "sugerir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 193,
+    "chinese": "避免",
+    "pinyin": "bì miǎn",
+    "english": "to avoid",
+    "spanish": "evitar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 194,
+    "chinese": "发展",
+    "pinyin": "fā zhǎn",
+    "english": "to develop",
+    "spanish": "desarrollar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 195,
+    "chinese": "支持",
+    "pinyin": "zhī chí",
+    "english": "to support",
+    "spanish": "apoyar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 196,
+    "chinese": "污染",
+    "pinyin": "wū rǎn",
+    "english": "pollution",
+    "spanish": "contaminación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 197,
+    "chinese": "气候",
+    "pinyin": "qì hòu",
+    "english": "climate",
+    "spanish": "clima",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 198,
+    "chinese": "回收",
+    "pinyin": "huí shōu",
+    "english": "to recycle",
+    "spanish": "reciclar",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 199,
+    "chinese": "能源",
+    "pinyin": "néng yuán",
+    "english": "energy",
+    "spanish": "energía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 200,
+    "chinese": "政府",
+    "pinyin": "zhèng fǔ",
+    "english": "government",
+    "spanish": "gobierno",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 201,
+    "chinese": "法律",
+    "pinyin": "fǎ lǜ",
+    "english": "law",
+    "spanish": "ley",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 202,
+    "chinese": "选举",
+    "pinyin": "xuǎn jǔ",
+    "english": "election",
+    "spanish": "elección",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 203,
+    "chinese": "公民",
+    "pinyin": "gōng mín",
+    "english": "citizen",
+    "spanish": "ciudadano",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 204,
+    "chinese": "文化",
+    "pinyin": "wén huà",
+    "english": "culture",
+    "spanish": "cultura",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 205,
+    "chinese": "科学",
+    "pinyin": "kē xué",
+    "english": "science",
+    "spanish": "ciencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 206,
+    "chinese": "实验",
+    "pinyin": "shí yàn",
+    "english": "experiment",
+    "spanish": "experimento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 207,
+    "chinese": "证据",
+    "pinyin": "zhèng jù",
+    "english": "evidence",
+    "spanish": "evidencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 208,
+    "chinese": "理论",
+    "pinyin": "lǐ lùn",
+    "english": "theory",
+    "spanish": "teoría",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 209,
+    "chinese": "发现",
+    "pinyin": "fā xiàn",
+    "english": "discovery",
+    "spanish": "descubrimiento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 210,
+    "chinese": "也许",
+    "pinyin": "yě xǔ",
+    "english": "perhaps",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 211,
+    "chinese": "假设",
+    "pinyin": "jiǎ shè",
+    "english": "assumption",
+    "spanish": "suposición",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 212,
+    "chinese": "争议",
+    "pinyin": "zhēng yì",
+    "english": "controversy",
+    "spanish": "controversia",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 213,
+    "chinese": "不平等",
+    "pinyin": "bù píng děng",
+    "english": "inequality",
+    "spanish": "desigualdad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 214,
+    "chinese": "可持续性",
+    "pinyin": "kě chí xù xìng",
+    "english": "sustainability",
+    "spanish": "sostenibilidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 215,
+    "chinese": "观点",
+    "pinyin": "guān diǎn",
+    "english": "perspective",
+    "spanish": "perspectiva",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 216,
+    "chinese": "含义",
+    "pinyin": "hán yì",
+    "english": "implication",
+    "spanish": "implicación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 217,
+    "chinese": "限制",
+    "pinyin": "xiàn zhì",
+    "english": "constraint",
+    "spanish": "restricción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 218,
+    "chinese": "激励",
+    "pinyin": "jī lì",
+    "english": "incentive",
+    "spanish": "incentivo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 219,
+    "chinese": "收入",
+    "pinyin": "shōu rù",
+    "english": "revenue",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 220,
+    "chinese": "投资",
+    "pinyin": "tóu zī",
+    "english": "investment",
+    "spanish": "inversión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 221,
+    "chinese": "谈判",
+    "pinyin": "tán pàn",
+    "english": "negotiation",
+    "spanish": "negociación",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 222,
+    "chinese": "效率",
+    "pinyin": "xiào lǜ",
+    "english": "efficiency",
+    "spanish": "eficiencia",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 223,
+    "chinese": "创新",
+    "pinyin": "chuàng xīn",
+    "english": "innovation",
+    "spanish": "innovación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 224,
+    "chinese": "算法",
+    "pinyin": "suàn fǎ",
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 225,
+    "chinese": "隐私",
+    "pinyin": "yǐn sī",
+    "english": "privacy",
+    "spanish": "privacidad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 226,
+    "chinese": "人工智能",
+    "pinyin": "rén gōng zhì néng",
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 227,
+    "chinese": "数据",
+    "pinyin": "shù jù",
+    "english": "data",
+    "spanish": "datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 228,
+    "chinese": "网络安全",
+    "pinyin": "wǎng luò ān quán",
+    "english": "cybersecurity",
+    "spanish": "ciberseguridad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 229,
+    "chinese": "削弱",
+    "pinyin": "xuē ruò",
+    "english": "to undermine",
+    "spanish": "socavar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 230,
+    "chinese": "加强",
+    "pinyin": "jiā qiáng",
+    "english": "to reinforce",
+    "spanish": "reforzar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 231,
+    "chinese": "减轻",
+    "pinyin": "jiǎn qīng",
+    "english": "to mitigate",
+    "spanish": "mitigar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 232,
+    "chinese": "促进",
+    "pinyin": "cù jìn",
+    "english": "to facilitate",
+    "spanish": "facilitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 233,
+    "chinese": "承认",
+    "pinyin": "chéng rèn",
+    "english": "to acknowledge",
+    "spanish": "reconocer",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 234,
+    "chinese": "模糊",
+    "pinyin": "mó hu",
+    "english": "ambiguous",
+    "spanish": "ambiguo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 235,
+    "chinese": "可行",
+    "pinyin": "kě xíng",
+    "english": "feasible",
+    "spanish": "factible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 236,
+    "chinese": "不可避免",
+    "pinyin": "bù kě bì miǎn",
+    "english": "inevitable",
+    "spanish": "inevitable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 237,
+    "chinese": "全面",
+    "pinyin": "quán miàn",
+    "english": "comprehensive",
+    "spanish": "integral",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 238,
+    "chinese": "有力",
+    "pinyin": "yǒu lì",
+    "english": "compelling",
+    "spanish": "convincente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 239,
+    "chinese": "普遍",
+    "pinyin": "pǔ biàn",
+    "english": "prevalent",
+    "spanish": "predominante",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 240,
+    "chinese": "有害",
+    "pinyin": "yǒu hài",
+    "english": "detrimental",
+    "spanish": "perjudicial",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 241,
+    "chinese": "头",
+    "pinyin": "tóu",
+    "english": "head",
+    "spanish": "cabeza",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "chinese": "手",
+    "pinyin": "shǒu",
+    "english": "hand",
+    "spanish": "mano",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "chinese": "脚",
+    "pinyin": "jiǎo",
+    "english": "foot",
+    "spanish": "pie",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "chinese": "眼睛",
+    "pinyin": "yǎn jing",
+    "english": "eye",
+    "spanish": "ojo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "chinese": "耳朵",
+    "pinyin": "ěr duo",
+    "english": "ear",
+    "spanish": "oreja",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "chinese": "嘴",
+    "pinyin": "zuǐ",
+    "english": "mouth",
+    "spanish": "boca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "chinese": "鼻子",
+    "pinyin": "bí zi",
+    "english": "nose",
+    "spanish": "nariz",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "chinese": "头发",
+    "pinyin": "tóu fa",
+    "english": "hair",
+    "spanish": "pelo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "chinese": "胳膊",
+    "pinyin": "gē bo",
+    "english": "arm",
+    "spanish": "brazo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "chinese": "腿",
+    "pinyin": "tuǐ",
+    "english": "leg",
+    "spanish": "pierna",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "chinese": "床",
+    "pinyin": "chuáng",
+    "english": "bed",
+    "spanish": "cama",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "chinese": "台灯",
+    "pinyin": "tái dēng",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "chinese": "钥匙",
+    "pinyin": "yào shi",
+    "english": "key",
+    "spanish": "llave",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "chinese": "墙",
+    "pinyin": "qiáng",
+    "english": "wall",
+    "spanish": "pared",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "chinese": "地板",
+    "pinyin": "dì bǎn",
+    "english": "floor",
+    "spanish": "suelo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "chinese": "屋顶",
+    "pinyin": "wū dǐng",
+    "english": "roof",
+    "spanish": "tejado",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "chinese": "鸡蛋",
+    "pinyin": "jī dàn",
+    "english": "egg",
+    "spanish": "huevo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "chinese": "奶酪",
+    "pinyin": "nǎi lào",
+    "english": "cheese",
+    "spanish": "queso",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "chinese": "鱼",
+    "pinyin": "yú",
+    "english": "fish",
+    "spanish": "pescado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "chinese": "肉",
+    "pinyin": "ròu",
+    "english": "meat",
+    "spanish": "carne",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "chinese": "汤",
+    "pinyin": "tāng",
+    "english": "soup",
+    "spanish": "sopa",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "chinese": "沙拉",
+    "pinyin": "shā lā",
+    "english": "salad",
+    "spanish": "ensalada",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "chinese": "糖",
+    "pinyin": "táng",
+    "english": "sugar",
+    "spanish": "azúcar",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "chinese": "盐",
+    "pinyin": "yán",
+    "english": "salt",
+    "spanish": "sal",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "chinese": "新",
+    "pinyin": "xīn",
+    "english": "new",
+    "spanish": "nuevo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "chinese": "旧",
+    "pinyin": "jiù",
+    "english": "old",
+    "spanish": "viejo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "chinese": "年轻",
+    "pinyin": "nián qīng",
+    "english": "young",
+    "spanish": "joven",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "chinese": "长",
+    "pinyin": "cháng",
+    "english": "long",
+    "spanish": "largo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "chinese": "短",
+    "pinyin": "duǎn",
+    "english": "short",
+    "spanish": "corto",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "chinese": "慢",
+    "pinyin": "màn",
+    "english": "slow",
+    "spanish": "lento",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "chinese": "醒",
+    "pinyin": "xǐng",
+    "english": "to wake up",
+    "spanish": "despertarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "chinese": "起床",
+    "pinyin": "qǐ chuáng",
+    "english": "to get up",
+    "spanish": "levantarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "chinese": "洗",
+    "pinyin": "xǐ",
+    "english": "to wash",
+    "spanish": "lavarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "chinese": "穿衣",
+    "pinyin": "chuān yī",
+    "english": "to dress",
+    "spanish": "vestirse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "chinese": "休息",
+    "pinyin": "xiū xi",
+    "english": "to rest",
+    "spanish": "descansar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "chinese": "开始",
+    "pinyin": "kāi shǐ",
+    "english": "to start",
+    "spanish": "empezar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "chinese": "结束",
+    "pinyin": "jié shù",
+    "english": "to finish",
+    "spanish": "terminar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "chinese": "尝试",
+    "pinyin": "cháng shì",
+    "english": "to try",
+    "spanish": "intentar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "chinese": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "english": "bus",
+    "spanish": "autobús",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "chinese": "自行车",
+    "pinyin": "zì xíng chē",
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "chinese": "飞机",
+    "pinyin": "fēi jī",
+    "english": "plane",
+    "spanish": "avión",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "chinese": "船",
+    "pinyin": "chuán",
+    "english": "boat",
+    "spanish": "barco",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "chinese": "机场",
+    "pinyin": "jī chǎng",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "chinese": "路",
+    "pinyin": "lù",
+    "english": "road",
+    "spanish": "carretera",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "chinese": "护照",
+    "pinyin": "hù zhào",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "chinese": "游客",
+    "pinyin": "yóu kè",
+    "english": "tourist",
+    "spanish": "turista",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "chinese": "导游",
+    "pinyin": "dǎo yóu",
+    "english": "guide",
+    "spanish": "guía",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "chinese": "假期",
+    "pinyin": "jià qī",
+    "english": "holiday",
+    "spanish": "vacaciones",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "chinese": "无聊",
+    "pinyin": "wú liáo",
+    "english": "bored",
+    "spanish": "aburrido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "chinese": "兴奋",
+    "pinyin": "xīng fèn",
+    "english": "excited",
+    "spanish": "emocionado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "chinese": "惊讶",
+    "pinyin": "jīng yà",
+    "english": "surprised",
+    "spanish": "sorprendido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "chinese": "紧张",
+    "pinyin": "jǐn zhāng",
+    "english": "nervous",
+    "spanish": "nervioso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "chinese": "骄傲",
+    "pinyin": "jiāo ào",
+    "english": "proud",
+    "spanish": "orgulloso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "chinese": "平静",
+    "pinyin": "píng jìng",
+    "english": "calm",
+    "spanish": "tranquilo",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "chinese": "市场",
+    "pinyin": "shì chǎng",
+    "english": "market",
+    "spanish": "mercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "chinese": "超市",
+    "pinyin": "chāo shì",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "chinese": "卡",
+    "pinyin": "kǎ",
+    "english": "card",
+    "spanish": "tarjeta",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "chinese": "现金",
+    "pinyin": "xiàn jīn",
+    "english": "cash",
+    "spanish": "efectivo",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "chinese": "折扣",
+    "pinyin": "zhé kòu",
+    "english": "discount",
+    "spanish": "descuento",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "chinese": "尺码",
+    "pinyin": "chǐ mǎ",
+    "english": "size",
+    "spanish": "talla",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "chinese": "员工",
+    "pinyin": "yuán gōng",
+    "english": "employee",
+    "spanish": "empleado",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 302,
+    "chinese": "雇主",
+    "pinyin": "gù zhǔ",
+    "english": "employer",
+    "spanish": "empleador",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 303,
+    "chinese": "面试",
+    "pinyin": "miàn shì",
+    "english": "interview",
+    "spanish": "entrevista",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "chinese": "简历",
+    "pinyin": "jiǎn lì",
+    "english": "resume",
+    "spanish": "currículum",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "chinese": "升职",
+    "pinyin": "shēng zhí",
+    "english": "promotion",
+    "spanish": "ascenso",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "chinese": "任务",
+    "pinyin": "rèn wu",
+    "english": "task",
+    "spanish": "tarea",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "chinese": "项目",
+    "pinyin": "xiàng mù",
+    "english": "project",
+    "spanish": "proyecto",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "chinese": "团队",
+    "pinyin": "tuán duì",
+    "english": "team",
+    "spanish": "equipo",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "chinese": "经理",
+    "pinyin": "jīng lǐ",
+    "english": "manager",
+    "spanish": "gerente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "chinese": "培训",
+    "pinyin": "péi xùn",
+    "english": "training",
+    "spanish": "formación",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "chinese": "传统",
+    "pinyin": "chuán tǒng",
+    "english": "tradition",
+    "spanish": "tradición",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "chinese": "宗教",
+    "pinyin": "zōng jiào",
+    "english": "religion",
+    "spanish": "religión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "chinese": "媒体",
+    "pinyin": "méi tǐ",
+    "english": "media",
+    "spanish": "medios de comunicación",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "chinese": "新闻",
+    "pinyin": "xīn wén",
+    "english": "news",
+    "spanish": "noticias",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "chinese": "记者",
+    "pinyin": "jì zhě",
+    "english": "journalist",
+    "spanish": "periodista",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "chinese": "意见",
+    "pinyin": "yì jiàn",
+    "english": "opinion",
+    "spanish": "opinión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "chinese": "抗议",
+    "pinyin": "kàng yì",
+    "english": "protest",
+    "spanish": "protesta",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "chinese": "投票",
+    "pinyin": "tóu piào",
+    "english": "vote",
+    "spanish": "voto",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "chinese": "垃圾",
+    "pinyin": "lā jī",
+    "english": "waste",
+    "spanish": "residuos",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "chinese": "森林",
+    "pinyin": "sēn lín",
+    "english": "forest",
+    "spanish": "bosque",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "chinese": "海洋",
+    "pinyin": "hǎi yáng",
+    "english": "ocean",
+    "spanish": "océano",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "chinese": "洪水",
+    "pinyin": "hóng shuǐ",
+    "english": "flood",
+    "spanish": "inundación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "chinese": "干旱",
+    "pinyin": "gān hàn",
+    "english": "drought",
+    "spanish": "sequía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "chinese": "物种",
+    "pinyin": "wù zhǒng",
+    "english": "species",
+    "spanish": "especie",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "chinese": "治疗",
+    "pinyin": "zhì liáo",
+    "english": "treatment",
+    "spanish": "tratamiento",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "chinese": "症状",
+    "pinyin": "zhèng zhuàng",
+    "english": "symptom",
+    "spanish": "síntoma",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "chinese": "处方",
+    "pinyin": "chǔ fāng",
+    "english": "prescription",
+    "spanish": "receta médica",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "chinese": "保险",
+    "pinyin": "bǎo xiǎn",
+    "english": "insurance",
+    "spanish": "seguro",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 329,
+    "chinese": "饮食",
+    "pinyin": "yǐn shí",
+    "english": "diet",
+    "spanish": "dieta",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 330,
+    "chinese": "压力",
+    "pinyin": "yā lì",
+    "english": "stress",
+    "spanish": "estrés",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 331,
+    "chinese": "软件",
+    "pinyin": "ruǎn jiàn",
+    "english": "software",
+    "spanish": "software",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "chinese": "硬件",
+    "pinyin": "yìng jiàn",
+    "english": "hardware",
+    "spanish": "hardware",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "chinese": "网络",
+    "pinyin": "wǎng luò",
+    "english": "network",
+    "spanish": "red",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "chinese": "服务器",
+    "pinyin": "fú wù qì",
+    "english": "server",
+    "spanish": "servidor",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "chinese": "数据库",
+    "pinyin": "shù jù kù",
+    "english": "database",
+    "spanish": "base de datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "chinese": "加密",
+    "pinyin": "jiā mì",
+    "english": "encryption",
+    "spanish": "cifrado",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "chinese": "设备",
+    "pinyin": "shè bèi",
+    "english": "device",
+    "spanish": "dispositivo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "chinese": "应用程序",
+    "pinyin": "yìng yòng chéng xù",
+    "english": "application",
+    "spanish": "aplicación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "chinese": "平台",
+    "pinyin": "píng tái",
+    "english": "platform",
+    "spanish": "plataforma",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "chinese": "虚拟",
+    "pinyin": "xū nǐ",
+    "english": "virtual",
+    "spanish": "virtual",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "chinese": "利润",
+    "pinyin": "lì rùn",
+    "english": "profit",
+    "spanish": "beneficio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "chinese": "预算",
+    "pinyin": "yù suàn",
+    "english": "budget",
+    "spanish": "presupuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "chinese": "税",
+    "pinyin": "shuì",
+    "english": "tax",
+    "spanish": "impuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "chinese": "通货膨胀",
+    "pinyin": "tōng huò péng zhàng",
+    "english": "inflation",
+    "spanish": "inflación",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "chinese": "贸易",
+    "pinyin": "mào yì",
+    "english": "trade",
+    "spanish": "comercio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "chinese": "货币",
+    "pinyin": "huò bì",
+    "english": "currency",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "chinese": "供应",
+    "pinyin": "gōng yìng",
+    "english": "supply",
+    "spanish": "oferta",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "chinese": "框架",
+    "pinyin": "kuàng jià",
+    "english": "framework",
+    "spanish": "marco",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "chinese": "标准",
+    "pinyin": "biāo zhǔn",
+    "english": "criterion",
+    "spanish": "criterio",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "chinese": "范式",
+    "pinyin": "fàn shì",
+    "english": "paradigm",
+    "spanish": "paradigma",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "chinese": "概念",
+    "pinyin": "gài niàn",
+    "english": "notion",
+    "spanish": "noción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "chinese": "假设",
+    "pinyin": "jiǎ shè",
+    "english": "hypothesis",
+    "spanish": "hipótesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "chinese": "共识",
+    "pinyin": "gòng shí",
+    "english": "consensus",
+    "spanish": "consenso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "chinese": "歧义",
+    "pinyin": "qí yì",
+    "english": "ambiguity",
+    "spanish": "ambigüedad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "chinese": "分配",
+    "pinyin": "fēn pèi",
+    "english": "to allocate",
+    "spanish": "asignar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "chinese": "实施",
+    "pinyin": "shí shī",
+    "english": "to implement",
+    "spanish": "implementar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "chinese": "整合",
+    "pinyin": "zhěng hé",
+    "english": "to integrate",
+    "spanish": "integrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "chinese": "优化",
+    "pinyin": "yōu huà",
+    "english": "to optimize",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "chinese": "优先",
+    "pinyin": "yōu xiān",
+    "english": "to prioritize",
+    "spanish": "priorizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "chinese": "验证",
+    "pinyin": "yàn zhèng",
+    "english": "to validate",
+    "spanish": "validar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "chinese": "鸟",
+    "pinyin": "niǎo",
+    "english": "bird",
+    "spanish": "pájaro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "chinese": "马",
+    "pinyin": "mǎ",
+    "english": "horse",
+    "spanish": "caballo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "chinese": "牛",
+    "pinyin": "niú",
+    "english": "cow",
+    "spanish": "vaca",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "chinese": "猪",
+    "pinyin": "zhū",
+    "english": "pig",
+    "spanish": "cerdo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "chinese": "鸡",
+    "pinyin": "jī",
+    "english": "chicken",
+    "spanish": "pollo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "chinese": "老鼠",
+    "pinyin": "lǎo shǔ",
+    "english": "mouse",
+    "spanish": "ratón",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "chinese": "兔子",
+    "pinyin": "tù zi",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "chinese": "羊",
+    "pinyin": "yáng",
+    "english": "sheep",
+    "spanish": "oveja",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "chinese": "鸭子",
+    "pinyin": "yā zi",
+    "english": "duck",
+    "spanish": "pato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "chinese": "狮子",
+    "pinyin": "shī zi",
+    "english": "lion",
+    "spanish": "león",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "chinese": "月亮",
+    "pinyin": "yuè liang",
+    "english": "moon",
+    "spanish": "luna",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "chinese": "星星",
+    "pinyin": "xīng xing",
+    "english": "star",
+    "spanish": "estrella",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "chinese": "云",
+    "pinyin": "yún",
+    "english": "cloud",
+    "spanish": "nube",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "chinese": "风",
+    "pinyin": "fēng",
+    "english": "wind",
+    "spanish": "viento",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "chinese": "雪",
+    "pinyin": "xuě",
+    "english": "snow",
+    "spanish": "nieve",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "chinese": "冰",
+    "pinyin": "bīng",
+    "english": "ice",
+    "spanish": "hielo",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "chinese": "火",
+    "pinyin": "huǒ",
+    "english": "fire",
+    "spanish": "fuego",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "chinese": "石头",
+    "pinyin": "shí tou",
+    "english": "stone",
+    "spanish": "piedra",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "chinese": "第一",
+    "pinyin": "dì yī",
+    "english": "first",
+    "spanish": "primero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "chinese": "第二",
+    "pinyin": "dì èr",
+    "english": "second",
+    "spanish": "segundo",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "chinese": "第三",
+    "pinyin": "dì sān",
+    "english": "third",
+    "spanish": "tercero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "chinese": "最后",
+    "pinyin": "zuì hòu",
+    "english": "last",
+    "spanish": "último",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "chinese": "下一个",
+    "pinyin": "xià yī gè",
+    "english": "next",
+    "spanish": "siguiente",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "chinese": "再",
+    "pinyin": "zài",
+    "english": "again",
+    "spanish": "otra vez",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "chinese": "看",
+    "pinyin": "kàn",
+    "english": "to see",
+    "spanish": "ver",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "chinese": "听",
+    "pinyin": "tīng",
+    "english": "to hear",
+    "spanish": "oír",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "chinese": "知道",
+    "pinyin": "zhī dào",
+    "english": "to know",
+    "spanish": "saber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "english": "to think",
+    "spanish": "pensar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "chinese": "给",
+    "pinyin": "gěi",
+    "english": "to give",
+    "spanish": "dar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "chinese": "拿",
+    "pinyin": "ná",
+    "english": "to take",
+    "spanish": "tomar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "chinese": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher",
+    "spanish": "profesor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 392,
+    "chinese": "工程师",
+    "pinyin": "gōng chéng shī",
+    "english": "engineer",
+    "spanish": "ingeniero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 393,
+    "chinese": "护士",
+    "pinyin": "hù shi",
+    "english": "nurse",
+    "spanish": "enfermero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 394,
+    "chinese": "律师",
+    "pinyin": "lǜ shī",
+    "english": "lawyer",
+    "spanish": "abogado",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 395,
+    "chinese": "厨师",
+    "pinyin": "chú shī",
+    "english": "chef",
+    "spanish": "chef",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 396,
+    "chinese": "司机",
+    "pinyin": "sī jī",
+    "english": "driver",
+    "spanish": "conductor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 397,
+    "chinese": "农民",
+    "pinyin": "nóng mín",
+    "english": "farmer",
+    "spanish": "granjero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 398,
+    "chinese": "警察",
+    "pinyin": "jǐng chá",
+    "english": "police officer",
+    "spanish": "policía",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 399,
+    "chinese": "服务员",
+    "pinyin": "fú wù yuán",
+    "english": "waiter",
+    "spanish": "camarero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 400,
+    "chinese": "艺术家",
+    "pinyin": "yì shù jiā",
+    "english": "artist",
+    "spanish": "artista",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 401,
+    "chinese": "教堂",
+    "pinyin": "jiào táng",
+    "english": "church",
+    "spanish": "iglesia",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 402,
+    "chinese": "博物馆",
+    "pinyin": "bó wù guǎn",
+    "english": "museum",
+    "spanish": "museo",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 403,
+    "chinese": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "english": "library",
+    "spanish": "biblioteca",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 404,
+    "chinese": "剧院",
+    "pinyin": "jù yuàn",
+    "english": "theatre",
+    "spanish": "teatro",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 405,
+    "chinese": "桥",
+    "pinyin": "qiáo",
+    "english": "bridge",
+    "spanish": "puente",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 406,
+    "chinese": "广场",
+    "pinyin": "guǎng chǎng",
+    "english": "square",
+    "spanish": "plaza",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 407,
+    "chinese": "工厂",
+    "pinyin": "gōng chǎng",
+    "english": "factory",
+    "spanish": "fábrica",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 408,
+    "chinese": "办公室",
+    "pinyin": "bàn gōng shì",
+    "english": "office",
+    "spanish": "oficina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 409,
+    "chinese": "煮",
+    "pinyin": "zhǔ",
+    "english": "to boil",
+    "spanish": "hervir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 410,
+    "chinese": "煎",
+    "pinyin": "jiān",
+    "english": "to fry",
+    "spanish": "freír",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 411,
+    "chinese": "烤",
+    "pinyin": "kǎo",
+    "english": "to bake",
+    "spanish": "hornear",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 412,
+    "chinese": "刀",
+    "pinyin": "dāo",
+    "english": "knife",
+    "spanish": "cuchillo",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 413,
+    "chinese": "勺子",
+    "pinyin": "sháo zi",
+    "english": "spoon",
+    "spanish": "cuchara",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 414,
+    "chinese": "叉子",
+    "pinyin": "chā zi",
+    "english": "fork",
+    "spanish": "tenedor",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 415,
+    "chinese": "画画",
+    "pinyin": "huà huà",
+    "english": "to paint",
+    "spanish": "pintar",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 416,
+    "chinese": "摄影",
+    "pinyin": "shè yǐng",
+    "english": "photography",
+    "spanish": "fotografía",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 417,
+    "chinese": "国际象棋",
+    "pinyin": "guó jì xiàng qí",
+    "english": "chess",
+    "spanish": "ajedrez",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 418,
+    "chinese": "露营",
+    "pinyin": "lù yíng",
+    "english": "camping",
+    "spanish": "acampada",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 419,
+    "chinese": "钓鱼",
+    "pinyin": "diào yú",
+    "english": "fishing",
+    "spanish": "pesca",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 420,
+    "chinese": "园艺",
+    "pinyin": "yuán yì",
+    "english": "gardening",
+    "spanish": "jardinería",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 421,
+    "chinese": "勇气",
+    "pinyin": "yǒng qì",
+    "english": "courage",
+    "spanish": "valor",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 422,
+    "chinese": "耐心",
+    "pinyin": "nài xīn",
+    "english": "patience",
+    "spanish": "paciencia",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 423,
+    "chinese": "诚实",
+    "pinyin": "chéng shí",
+    "english": "honesty",
+    "spanish": "honestidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 424,
+    "chinese": "智慧",
+    "pinyin": "zhì huì",
+    "english": "wisdom",
+    "spanish": "sabiduría",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 425,
+    "chinese": "善良",
+    "pinyin": "shàn liáng",
+    "english": "kindness",
+    "spanish": "amabilidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 426,
+    "chinese": "尊重",
+    "pinyin": "zūn zhòng",
+    "english": "respect",
+    "spanish": "respeto",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 427,
+    "chinese": "信任",
+    "pinyin": "xìn rèn",
+    "english": "trust",
+    "spanish": "confianza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 428,
+    "chinese": "骄傲",
+    "pinyin": "jiāo ào",
+    "english": "pride",
+    "spanish": "orgullo",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 429,
+    "chinese": "羞耻",
+    "pinyin": "xiū chǐ",
+    "english": "shame",
+    "spanish": "vergüenza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 430,
+    "chinese": "愤怒",
+    "pinyin": "fèn nù",
+    "english": "anger",
+    "spanish": "ira",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 431,
+    "chinese": "顾客",
+    "pinyin": "gù kè",
+    "english": "customer",
+    "spanish": "cliente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 432,
+    "chinese": "供应商",
+    "pinyin": "gōng yìng shāng",
+    "english": "supplier",
+    "spanish": "proveedor",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 433,
+    "chinese": "品牌",
+    "pinyin": "pǐn pái",
+    "english": "brand",
+    "spanish": "marca",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 434,
+    "chinese": "营销",
+    "pinyin": "yíng xiāo",
+    "english": "marketing",
+    "spanish": "marketing",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 435,
+    "chinese": "发票",
+    "pinyin": "fā piào",
+    "english": "invoice",
+    "spanish": "factura",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 436,
+    "chinese": "仓库",
+    "pinyin": "cāng kù",
+    "english": "warehouse",
+    "spanish": "almacén",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 437,
+    "chinese": "零售",
+    "pinyin": "líng shòu",
+    "english": "retail",
+    "spanish": "comercio minorista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 438,
+    "chinese": "股东",
+    "pinyin": "gǔ dōng",
+    "english": "shareholder",
+    "spanish": "accionista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 439,
+    "chinese": "宪法",
+    "pinyin": "xiàn fǎ",
+    "english": "constitution",
+    "spanish": "constitución",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 440,
+    "chinese": "议会",
+    "pinyin": "yì huì",
+    "english": "parliament",
+    "spanish": "parlamento",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 441,
+    "chinese": "部长",
+    "pinyin": "bù zhǎng",
+    "english": "minister",
+    "spanish": "ministro",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 442,
+    "chinese": "法院",
+    "pinyin": "fǎ yuàn",
+    "english": "court",
+    "spanish": "tribunal",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 443,
+    "chinese": "法官",
+    "pinyin": "fǎ guān",
+    "english": "judge",
+    "spanish": "juez",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 444,
+    "chinese": "判决",
+    "pinyin": "pàn jué",
+    "english": "sentence",
+    "spanish": "sentencia",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 445,
+    "chinese": "分子",
+    "pinyin": "fēn zǐ",
+    "english": "molecule",
+    "spanish": "molécula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 446,
+    "chinese": "原子",
+    "pinyin": "yuán zǐ",
+    "english": "atom",
+    "spanish": "átomo",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 447,
+    "chinese": "重力",
+    "pinyin": "zhòng lì",
+    "english": "gravity",
+    "spanish": "gravedad",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 448,
+    "chinese": "细胞",
+    "pinyin": "xì bāo",
+    "english": "cell",
+    "spanish": "célula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 449,
+    "chinese": "实验室",
+    "pinyin": "shí yàn shì",
+    "english": "laboratory",
+    "spanish": "laboratorio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 450,
+    "chinese": "显微镜",
+    "pinyin": "xiǎn wēi jìng",
+    "english": "microscope",
+    "spanish": "microscopio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 451,
+    "chinese": "综合",
+    "pinyin": "zōng hé",
+    "english": "synthesis",
+    "spanish": "síntesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "chinese": "方法论",
+    "pinyin": "fāng fǎ lùn",
+    "english": "methodology",
+    "spanish": "metodología",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "chinese": "相关性",
+    "pinyin": "xiāng guān xìng",
+    "english": "correlation",
+    "spanish": "correlación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "chinese": "变量",
+    "pinyin": "biàn liàng",
+    "english": "variable",
+    "spanish": "variable",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "chinese": "实证",
+    "pinyin": "shí zhèng",
+    "english": "empirical",
+    "spanish": "empírico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "chinese": "定量",
+    "pinyin": "dìng liàng",
+    "english": "quantitative",
+    "spanish": "cuantitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "chinese": "定性",
+    "pinyin": "dìng xìng",
+    "english": "qualitative",
+    "spanish": "cualitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "chinese": "等级",
+    "pinyin": "děng jí",
+    "english": "hierarchy",
+    "spanish": "jerarquía",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 459,
+    "chinese": "话语",
+    "pinyin": "huà yǔ",
+    "english": "discourse",
+    "spanish": "discurso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 460,
+    "chinese": "修辞",
+    "pinyin": "xiū cí",
+    "english": "rhetoric",
+    "spanish": "retórica",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "chinese": "立法",
+    "pinyin": "lì fǎ",
+    "english": "legislation",
+    "spanish": "legislación",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "chinese": "裁决",
+    "pinyin": "cái jué",
+    "english": "verdict",
+    "spanish": "veredicto",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "chinese": "原告",
+    "pinyin": "yuán gào",
+    "english": "plaintiff",
+    "spanish": "demandante",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "chinese": "被告",
+    "pinyin": "bèi gào",
+    "english": "defendant",
+    "spanish": "demandado",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 465,
+    "chinese": "规定",
+    "pinyin": "guī dìng",
+    "english": "regulation",
+    "spanish": "reglamento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 466,
+    "chinese": "合规",
+    "pinyin": "hé guī",
+    "english": "compliance",
+    "spanish": "cumplimiento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "chinese": "责任",
+    "pinyin": "zé rèn",
+    "english": "liability",
+    "spanish": "responsabilidad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "chinese": "诊断",
+    "pinyin": "zhěn duàn",
+    "english": "diagnosis",
+    "spanish": "diagnóstico",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "chinese": "疗法",
+    "pinyin": "liáo fǎ",
+    "english": "therapy",
+    "spanish": "terapia",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 470,
+    "chinese": "疫苗",
+    "pinyin": "yì miáo",
+    "english": "vaccine",
+    "spanish": "vacuna",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 471,
+    "chinese": "慢性",
+    "pinyin": "màn xìng",
+    "english": "chronic",
+    "spanish": "crónico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "chinese": "感染",
+    "pinyin": "gǎn rǎn",
+    "english": "infection",
+    "spanish": "infección",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "chinese": "免疫",
+    "pinyin": "miǎn yì",
+    "english": "immune",
+    "spanish": "inmune",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 474,
+    "chinese": "外科医生",
+    "pinyin": "wài kē yī shēng",
+    "english": "surgeon",
+    "spanish": "cirujano",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "chinese": "证实",
+    "pinyin": "zhèng shí",
+    "english": "to substantiate",
+    "spanish": "fundamentar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "chinese": "划定",
+    "pinyin": "huà dìng",
+    "english": "to delineate",
+    "spanish": "delimitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 477,
+    "chinese": "推断",
+    "pinyin": "tuī duàn",
+    "english": "to extrapolate",
+    "spanish": "extrapolar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 478,
+    "chinese": "协调",
+    "pinyin": "xié tiáo",
+    "english": "to reconcile",
+    "spanish": "reconciliar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 479,
+    "chinese": "审查",
+    "pinyin": "shěn chá",
+    "english": "to scrutinize",
+    "spanish": "escudriñar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 480,
+    "chinese": "简化",
+    "pinyin": "jiǎn huà",
+    "english": "to streamline",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 481,
+    "chinese": "衬衫",
+    "pinyin": "chèn shān",
+    "english": "shirt",
+    "spanish": "camisa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "chinese": "裤子",
+    "pinyin": "kù zi",
+    "english": "trousers",
+    "spanish": "pantalones",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "chinese": "连衣裙",
+    "pinyin": "lián yī qún",
+    "english": "dress",
+    "spanish": "vestido",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 484,
+    "chinese": "裙子",
+    "pinyin": "qún zi",
+    "english": "skirt",
+    "spanish": "falda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 485,
+    "chinese": "帽子",
+    "pinyin": "mào zi",
+    "english": "hat",
+    "spanish": "sombrero",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "chinese": "围巾",
+    "pinyin": "wéi jīn",
+    "english": "scarf",
+    "spanish": "bufanda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "chinese": "手套",
+    "pinyin": "shǒu tào",
+    "english": "gloves",
+    "spanish": "guantes",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "chinese": "袜子",
+    "pinyin": "wà zi",
+    "english": "socks",
+    "spanish": "calcetines",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "chinese": "夹克",
+    "pinyin": "jiā kè",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "chinese": "靴子",
+    "pinyin": "xuē zi",
+    "english": "boot",
+    "spanish": "bota",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 491,
+    "chinese": "果汁",
+    "pinyin": "guǒ zhī",
+    "english": "juice",
+    "spanish": "zumo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "chinese": "葡萄酒",
+    "pinyin": "pú táo jiǔ",
+    "english": "wine",
+    "spanish": "vino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "chinese": "啤酒",
+    "pinyin": "pí jiǔ",
+    "english": "beer",
+    "spanish": "cerveza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "chinese": "蛋糕",
+    "pinyin": "dàn gāo",
+    "english": "cake",
+    "spanish": "pastel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "chinese": "巧克力",
+    "pinyin": "qiǎo kè lì",
+    "english": "chocolate",
+    "spanish": "chocolate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "chinese": "冰淇淋",
+    "pinyin": "bīng qí lín",
+    "english": "ice cream",
+    "spanish": "helado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "chinese": "米饭",
+    "pinyin": "mǐ fàn",
+    "english": "rice",
+    "spanish": "arroz",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "chinese": "香蕉",
+    "pinyin": "xiāng jiāo",
+    "english": "banana",
+    "spanish": "plátano",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "chinese": "橙子",
+    "pinyin": "chéng zi",
+    "english": "orange",
+    "spanish": "naranja",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "chinese": "蜂蜜",
+    "pinyin": "fēng mì",
+    "english": "honey",
+    "spanish": "miel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "chinese": "玩",
+    "pinyin": "wán",
+    "english": "to play",
+    "spanish": "jugar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "chinese": "卖",
+    "pinyin": "mài",
+    "english": "to sell",
+    "spanish": "vender",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "chinese": "爱",
+    "pinyin": "ài",
+    "english": "to love",
+    "spanish": "amar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "chinese": "跳舞",
+    "pinyin": "tiào wǔ",
+    "english": "to dance",
+    "spanish": "bailar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "chinese": "跳",
+    "pinyin": "tiào",
+    "english": "to jump",
+    "spanish": "saltar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "chinese": "赢",
+    "pinyin": "yíng",
+    "english": "to win",
+    "spanish": "ganar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "chinese": "硬",
+    "pinyin": "yìng",
+    "english": "hard",
+    "spanish": "duro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "chinese": "软",
+    "pinyin": "ruǎn",
+    "english": "soft",
+    "spanish": "blando",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "chinese": "重",
+    "pinyin": "zhòng",
+    "english": "heavy",
+    "spanish": "pesado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "chinese": "轻",
+    "pinyin": "qīng",
+    "english": "light",
+    "spanish": "ligero",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "chinese": "数学",
+    "pinyin": "shù xué",
+    "english": "mathematics",
+    "spanish": "matemáticas",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 512,
+    "chinese": "历史",
+    "pinyin": "lì shǐ",
+    "english": "history",
+    "spanish": "historia",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 513,
+    "chinese": "地理",
+    "pinyin": "dì lǐ",
+    "english": "geography",
+    "spanish": "geografía",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 514,
+    "chinese": "生物",
+    "pinyin": "shēng wù",
+    "english": "biology",
+    "spanish": "biología",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 515,
+    "chinese": "化学",
+    "pinyin": "huà xué",
+    "english": "chemistry",
+    "spanish": "química",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 516,
+    "chinese": "物理",
+    "pinyin": "wù lǐ",
+    "english": "physics",
+    "spanish": "física",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 517,
+    "chinese": "文学",
+    "pinyin": "wén xué",
+    "english": "literature",
+    "spanish": "literatura",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 518,
+    "chinese": "艺术",
+    "pinyin": "yì shù",
+    "english": "art",
+    "spanish": "arte",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 519,
+    "chinese": "背",
+    "pinyin": "bèi",
+    "english": "back",
+    "spanish": "espalda",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 520,
+    "chinese": "肩膀",
+    "pinyin": "jiān bǎng",
+    "english": "shoulder",
+    "spanish": "hombro",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 521,
+    "chinese": "膝盖",
+    "pinyin": "xī gài",
+    "english": "knee",
+    "spanish": "rodilla",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 522,
+    "chinese": "手指",
+    "pinyin": "shǒu zhǐ",
+    "english": "finger",
+    "spanish": "dedo",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 523,
+    "chinese": "牙齿",
+    "pinyin": "yá chǐ",
+    "english": "tooth",
+    "spanish": "diente",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 524,
+    "chinese": "胃",
+    "pinyin": "wèi",
+    "english": "stomach",
+    "spanish": "estómago",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 525,
+    "chinese": "心",
+    "pinyin": "xīn",
+    "english": "heart",
+    "spanish": "corazón",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 526,
+    "chinese": "血",
+    "pinyin": "xuè",
+    "english": "blood",
+    "spanish": "sangre",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 527,
+    "chinese": "暴风雨",
+    "pinyin": "bào fēng yǔ",
+    "english": "storm",
+    "spanish": "tormenta",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 528,
+    "chinese": "雷",
+    "pinyin": "léi",
+    "english": "thunder",
+    "spanish": "trueno",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 529,
+    "chinese": "闪电",
+    "pinyin": "shǎn diàn",
+    "english": "lightning",
+    "spanish": "rayo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 530,
+    "chinese": "彩虹",
+    "pinyin": "cǎi hóng",
+    "english": "rainbow",
+    "spanish": "arcoíris",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 531,
+    "chinese": "雾",
+    "pinyin": "wù",
+    "english": "fog",
+    "spanish": "niebla",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 532,
+    "chinese": "炎热",
+    "pinyin": "yán rè",
+    "english": "heat",
+    "spanish": "calor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 533,
+    "chinese": "影子",
+    "pinyin": "yǐng zi",
+    "english": "shadow",
+    "spanish": "sombra",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 534,
+    "chinese": "山谷",
+    "pinyin": "shān gǔ",
+    "english": "valley",
+    "spanish": "valle",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 535,
+    "chinese": "地铁",
+    "pinyin": "dì tiě",
+    "english": "metro",
+    "spanish": "metro",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 536,
+    "chinese": "红绿灯",
+    "pinyin": "hóng lǜ dēng",
+    "english": "traffic light",
+    "spanish": "semáforo",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 537,
+    "chinese": "停车场",
+    "pinyin": "tíng chē chǎng",
+    "english": "parking",
+    "spanish": "aparcamiento",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 538,
+    "chinese": "角落",
+    "pinyin": "jiǎo luò",
+    "english": "corner",
+    "spanish": "esquina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 539,
+    "chinese": "人行横道",
+    "pinyin": "rén xíng héng dào",
+    "english": "crossing",
+    "spanish": "paso de peatones",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 540,
+    "chinese": "人行道",
+    "pinyin": "rén xíng dào",
+    "english": "pavement",
+    "spanish": "acera",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 541,
+    "chinese": "小说",
+    "pinyin": "xiǎo shuō",
+    "english": "novel",
+    "spanish": "novela",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 542,
+    "chinese": "诗",
+    "pinyin": "shī",
+    "english": "poem",
+    "spanish": "poema",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 543,
+    "chinese": "画",
+    "pinyin": "huà",
+    "english": "painting",
+    "spanish": "cuadro",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 544,
+    "chinese": "雕塑",
+    "pinyin": "diāo sù",
+    "english": "sculpture",
+    "spanish": "escultura",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 545,
+    "chinese": "音乐会",
+    "pinyin": "yīn yuè huì",
+    "english": "concert",
+    "spanish": "concierto",
+    "category": "music",
+    "level": "B1"
+  },
+  {
+    "id": 546,
+    "chinese": "展览",
+    "pinyin": "zhǎn lǎn",
+    "english": "exhibition",
+    "spanish": "exposición",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 547,
+    "chinese": "观众",
+    "pinyin": "guān zhòng",
+    "english": "audience",
+    "spanish": "público",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 548,
+    "chinese": "舞台",
+    "pinyin": "wǔ tái",
+    "english": "stage",
+    "spanish": "escenario",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 549,
+    "chinese": "演员",
+    "pinyin": "yǎn yuán",
+    "english": "actor",
+    "spanish": "actor",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 550,
+    "chinese": "导演",
+    "pinyin": "dǎo yǎn",
+    "english": "director",
+    "spanish": "director",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 551,
+    "chinese": "密码",
+    "pinyin": "mì mǎ",
+    "english": "password",
+    "spanish": "contraseña",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 552,
+    "chinese": "下载",
+    "pinyin": "xià zài",
+    "english": "download",
+    "spanish": "descarga",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 553,
+    "chinese": "上传",
+    "pinyin": "shàng chuán",
+    "english": "upload",
+    "spanish": "subida",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 554,
+    "chinese": "网站",
+    "pinyin": "wǎng zhàn",
+    "english": "website",
+    "spanish": "sitio web",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 555,
+    "chinese": "电子邮件",
+    "pinyin": "diàn zǐ yóu jiàn",
+    "english": "email",
+    "spanish": "correo electrónico",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 556,
+    "chinese": "消息",
+    "pinyin": "xiāo xi",
+    "english": "message",
+    "spanish": "mensaje",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 557,
+    "chinese": "屏幕",
+    "pinyin": "píng mù",
+    "english": "screen",
+    "spanish": "pantalla",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 558,
+    "chinese": "键盘",
+    "pinyin": "jiàn pán",
+    "english": "keyboard",
+    "spanish": "teclado",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 559,
+    "chinese": "贷款",
+    "pinyin": "dài kuǎn",
+    "english": "loan",
+    "spanish": "préstamo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 560,
+    "chinese": "存款",
+    "pinyin": "cún kuǎn",
+    "english": "savings",
+    "spanish": "ahorros",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 561,
+    "chinese": "钱包",
+    "pinyin": "qián bāo",
+    "english": "wallet",
+    "spanish": "cartera",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 562,
+    "chinese": "收据",
+    "pinyin": "shōu jù",
+    "english": "receipt",
+    "spanish": "recibo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 563,
+    "chinese": "零钱",
+    "pinyin": "líng qián",
+    "english": "change",
+    "spanish": "cambio (dinero)",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 564,
+    "chinese": "硬币",
+    "pinyin": "yìng bì",
+    "english": "coin",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 565,
+    "chinese": "宽慰",
+    "pinyin": "kuān wèi",
+    "english": "relief",
+    "spanish": "alivio",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 566,
+    "chinese": "感激",
+    "pinyin": "gǎn jī",
+    "english": "gratitude",
+    "spanish": "gratitud",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 567,
+    "chinese": "羡慕",
+    "pinyin": "xiàn mù",
+    "english": "envy",
+    "spanish": "envidia",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 568,
+    "chinese": "内疚",
+    "pinyin": "nèi jiù",
+    "english": "guilt",
+    "spanish": "culpa",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 569,
+    "chinese": "好奇",
+    "pinyin": "hào qí",
+    "english": "curiosity",
+    "spanish": "curiosidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 570,
+    "chinese": "热情",
+    "pinyin": "rè qíng",
+    "english": "enthusiasm",
+    "spanish": "entusiasmo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 571,
+    "chinese": "伦理",
+    "pinyin": "lún lǐ",
+    "english": "ethics",
+    "spanish": "ética",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 572,
+    "chinese": "道德",
+    "pinyin": "dào dé",
+    "english": "morality",
+    "spanish": "moralidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 573,
+    "chinese": "身份",
+    "pinyin": "shēn fèn",
+    "english": "identity",
+    "spanish": "identidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 574,
+    "chinese": "意识",
+    "pinyin": "yì shí",
+    "english": "consciousness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 575,
+    "chinese": "存在",
+    "pinyin": "cún zài",
+    "english": "existence",
+    "spanish": "existencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 576,
+    "chinese": "真理",
+    "pinyin": "zhēn lǐ",
+    "english": "truth",
+    "spanish": "verdad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 577,
+    "chinese": "美德",
+    "pinyin": "měi dé",
+    "english": "virtue",
+    "spanish": "virtud",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 578,
+    "chinese": "悖论",
+    "pinyin": "bèi lùn",
+    "english": "paradox",
+    "spanish": "paradoja",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 579,
+    "chinese": "困境",
+    "pinyin": "kùn jìng",
+    "english": "dilemma",
+    "spanish": "dilema",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 580,
+    "chinese": "怀疑主义",
+    "pinyin": "huái yí zhǔ yì",
+    "english": "scepticism",
+    "spanish": "escepticismo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 581,
+    "chinese": "合并",
+    "pinyin": "hé bìng",
+    "english": "merger",
+    "spanish": "fusión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 582,
+    "chinese": "破产",
+    "pinyin": "pò chǎn",
+    "english": "bankruptcy",
+    "spanish": "quiebra",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 583,
+    "chinese": "垄断",
+    "pinyin": "lǒng duàn",
+    "english": "monopoly",
+    "spanish": "monopolio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 584,
+    "chinese": "补贴",
+    "pinyin": "bǔ tiē",
+    "english": "subsidy",
+    "spanish": "subvención",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 585,
+    "chinese": "关税",
+    "pinyin": "guān shuì",
+    "english": "tariff",
+    "spanish": "arancel",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 586,
+    "chinese": "配额",
+    "pinyin": "pèi é",
+    "english": "quota",
+    "spanish": "cupo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 587,
+    "chinese": "企业家",
+    "pinyin": "qǐ yè jiā",
+    "english": "entrepreneur",
+    "spanish": "empresario",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 588,
+    "chinese": "排放",
+    "pinyin": "pái fàng",
+    "english": "emission",
+    "spanish": "emisión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 589,
+    "chinese": "碳",
+    "pinyin": "tàn",
+    "english": "carbon",
+    "spanish": "carbono",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 590,
+    "chinese": "生物多样性",
+    "pinyin": "shēng wù duō yàng xìng",
+    "english": "biodiversity",
+    "spanish": "biodiversidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 591,
+    "chinese": "森林砍伐",
+    "pinyin": "sēn lín kǎn fá",
+    "english": "deforestation",
+    "spanish": "deforestación",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 592,
+    "chinese": "生态系统",
+    "pinyin": "shēng tài xì tǒng",
+    "english": "ecosystem",
+    "spanish": "ecosistema",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "chinese": "栖息地",
+    "pinyin": "qī xī dì",
+    "english": "habitat",
+    "spanish": "hábitat",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 594,
+    "chinese": "侵蚀",
+    "pinyin": "qīn shí",
+    "english": "erosion",
+    "spanish": "erosión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 595,
+    "chinese": "阐述",
+    "pinyin": "chǎn shù",
+    "english": "to articulate",
+    "spanish": "articular",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 596,
+    "chinese": "规避",
+    "pinyin": "guī bì",
+    "english": "to circumvent",
+    "spanish": "eludir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 597,
+    "chinese": "巩固",
+    "pinyin": "gǒng gù",
+    "english": "to consolidate",
+    "spanish": "consolidar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 598,
+    "chinese": "恶化",
+    "pinyin": "è huà",
+    "english": "to deteriorate",
+    "spanish": "deteriorarse",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 599,
+    "chinese": "加剧",
+    "pinyin": "jiā jù",
+    "english": "to exacerbate",
+    "spanish": "agravar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 600,
+    "chinese": "阻碍",
+    "pinyin": "zǔ ài",
+    "english": "to hinder",
+    "spanish": "obstaculizar",
+    "category": "verbs",
+    "level": "B2"
+  }
+]

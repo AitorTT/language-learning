@@ -1,0 +1,2608 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Tones",
+    "description": "Mandarin has four main tones plus a neutral tone. The same syllable changes meaning completely.",
+    "columns": [
+      "Tone",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st tone (ˉ)",
+        "妈",
+        "mā",
+        "mother",
+        "madre"
+      ],
+      [
+        "2nd tone (ˊ)",
+        "麻",
+        "má",
+        "hemp / numb",
+        "cáñamo / entumecido"
+      ],
+      [
+        "3rd tone (ˇ)",
+        "马",
+        "mǎ",
+        "horse",
+        "caballo"
+      ],
+      [
+        "4th tone (ˋ)",
+        "骂",
+        "mà",
+        "to scold",
+        "regañar"
+      ],
+      [
+        "neutral",
+        "吗",
+        "ma",
+        "question particle",
+        "partícula interrogativa"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Basic word order",
+    "description": "Chinese follows Subject + Verb + Object, and time words come before the verb.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Subject + Verb + Object",
+        "我喝茶。",
+        "wǒ hē chá.",
+        "I drink tea.",
+        "Yo bebo té."
+      ],
+      [
+        "Subject + Adjective",
+        "她很高兴。",
+        "tā hěn gāo xìng.",
+        "She is very happy.",
+        "Ella está muy contenta."
+      ],
+      [
+        "Negation",
+        "我不喝茶。",
+        "wǒ bù hē chá.",
+        "I do not drink tea.",
+        "No bebo té."
+      ],
+      [
+        "Question with 吗",
+        "你喝茶吗？",
+        "nǐ hē chá ma?",
+        "Do you drink tea?",
+        "¿Bebes té?"
+      ],
+      [
+        "Time before the verb",
+        "我明天去。",
+        "wǒ míng tiān qù.",
+        "I am going tomorrow.",
+        "Voy mañana."
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Pronouns do not change for case. Add 们 to make the plural.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st singular",
+        "我",
+        "wǒ",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd singular",
+        "你",
+        "nǐ",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd singular (m.)",
+        "他",
+        "tā",
+        "he",
+        "él"
+      ],
+      [
+        "3rd singular (f.)",
+        "她",
+        "tā",
+        "she",
+        "ella"
+      ],
+      [
+        "3rd singular (thing)",
+        "它",
+        "tā",
+        "it",
+        "ello"
+      ],
+      [
+        "1st plural",
+        "我们",
+        "wǒ men",
+        "we",
+        "nosotros"
+      ],
+      [
+        "3rd plural",
+        "他们",
+        "tā men",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "The verb 是 (to be)",
+    "description": "是 links two nouns. It is not used with adjectives.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Affirmative",
+        "我是学生。",
+        "wǒ shì xué sheng.",
+        "I am a student.",
+        "Yo soy estudiante."
+      ],
+      [
+        "Affirmative",
+        "你是老师。",
+        "nǐ shì lǎo shī.",
+        "You are a teacher.",
+        "Tú eres profesor."
+      ],
+      [
+        "Affirmative",
+        "他是中国人。",
+        "tā shì zhōng guó rén.",
+        "He is Chinese.",
+        "Él es chino."
+      ],
+      [
+        "Negative",
+        "我不是医生。",
+        "wǒ bú shì yī shēng.",
+        "I am not a doctor.",
+        "No soy médico."
+      ],
+      [
+        "Question",
+        "你是学生吗？",
+        "nǐ shì xué sheng ma?",
+        "Are you a student?",
+        "¿Eres estudiante?"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "The verb 有 (to have)",
+    "description": "The negative of 有 is always 没有, never 不有.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Affirmative",
+        "我有一只猫。",
+        "wǒ yǒu yì zhī māo.",
+        "I have a cat.",
+        "Tengo un gato."
+      ],
+      [
+        "Affirmative",
+        "他有两个孩子。",
+        "tā yǒu liǎng gè hái zi.",
+        "He has two children.",
+        "Él tiene dos hijos."
+      ],
+      [
+        "Negative",
+        "我没有钱。",
+        "wǒ méi yǒu qián.",
+        "I have no money.",
+        "No tengo dinero."
+      ],
+      [
+        "Question",
+        "你有时间吗？",
+        "nǐ yǒu shí jiān ma?",
+        "Do you have time?",
+        "¿Tienes tiempo?"
+      ],
+      [
+        "Existence",
+        "桌子上有一本书。",
+        "zhuō zi shang yǒu yì běn shū.",
+        "There is a book on the table.",
+        "Hay un libro sobre la mesa."
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Negation: 不 and 没",
+    "description": "不 negates the present or habitual; 没 negates 有 and past events.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Present / habitual",
+        "我不去。",
+        "wǒ bú qù.",
+        "I am not going.",
+        "No voy."
+      ],
+      [
+        "Past event",
+        "我没去。",
+        "wǒ méi qù.",
+        "I did not go.",
+        "No fui."
+      ],
+      [
+        "Negative of 有",
+        "他没有钱。",
+        "tā méi yǒu qián.",
+        "He has no money.",
+        "Él no tiene dinero."
+      ],
+      [
+        "Never",
+        "我从来没去过。",
+        "wǒ cóng lái méi qù guo.",
+        "I have never been there.",
+        "Nunca he ido."
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Yes / no questions with 吗",
+    "description": "Add 吗 at the end of a statement to turn it into a question.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Statement",
+        "你是中国人。",
+        "nǐ shì zhōng guó rén.",
+        "You are Chinese.",
+        "Eres chino."
+      ],
+      [
+        "Question",
+        "你是中国人吗？",
+        "nǐ shì zhōng guó rén ma?",
+        "Are you Chinese?",
+        "¿Eres chino?"
+      ],
+      [
+        "Statement",
+        "他喜欢茶。",
+        "tā xǐ huan chá.",
+        "He likes tea.",
+        "A él le gusta el té."
+      ],
+      [
+        "Question",
+        "他喜欢茶吗？",
+        "tā xǐ huan chá ma?",
+        "Does he like tea?",
+        "¿Le gusta el té?"
+      ],
+      [
+        "Answer",
+        "是 / 不是",
+        "shì / bú shì",
+        "yes / no",
+        "sí / no"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Question words",
+    "description": "The question word stays in the position of the answer; 吗 is not used with it.",
+    "columns": [
+      "Word",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "什么",
+        "shén me",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "谁",
+        "shéi",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "哪儿",
+        "nǎr",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "什么时候",
+        "shén me shí hou",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "为什么",
+        "wèi shén me",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "怎么",
+        "zěn me",
+        "how",
+        "cómo"
+      ],
+      [
+        "how many",
+        "几 / 多少",
+        "jǐ / duō shao",
+        "how many",
+        "cuántos"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Possession with 的",
+    "description": "的 links the owner to the thing owned. With close family it is often dropped.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my book",
+        "我的书",
+        "wǒ de shū",
+        "my book",
+        "mi libro"
+      ],
+      [
+        "your friend",
+        "你的朋友",
+        "nǐ de péng you",
+        "your friend",
+        "tu amigo"
+      ],
+      [
+        "the teacher's",
+        "老师的",
+        "lǎo shī de",
+        "the teacher's",
+        "del profesor"
+      ],
+      [
+        "family (no 的)",
+        "我妈妈",
+        "wǒ mā ma",
+        "my mother",
+        "mi madre"
+      ],
+      [
+        "Chinese tea",
+        "中国的茶",
+        "zhōng guó de chá",
+        "Chinese tea",
+        "té chino"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Measure words",
+    "description": "Every noun needs a measure word between the number and the noun.",
+    "columns": [
+      "Measure word",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "个 (general)",
+        "一个人",
+        "yí gè rén",
+        "one person",
+        "una persona"
+      ],
+      [
+        "本 (books)",
+        "两本书",
+        "liǎng běn shū",
+        "two books",
+        "dos libros"
+      ],
+      [
+        "只 (animals)",
+        "三只猫",
+        "sān zhī māo",
+        "three cats",
+        "tres gatos"
+      ],
+      [
+        "张 (flat things)",
+        "一张纸",
+        "yì zhāng zhǐ",
+        "a sheet of paper",
+        "una hoja de papel"
+      ],
+      [
+        "位 (people, polite)",
+        "一位老师",
+        "yí wèi lǎo shī",
+        "one teacher",
+        "un profesor"
+      ],
+      [
+        "件 (clothes)",
+        "一件衣服",
+        "yí jiàn yī fu",
+        "one piece of clothing",
+        "una prenda"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Demonstratives: 这 and 那",
+    "description": "这 = this, 那 = that, 哪 = which. They need a measure word.",
+    "columns": [
+      "Word",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "this",
+        "这个",
+        "zhè ge",
+        "this one",
+        "este"
+      ],
+      [
+        "that",
+        "那个",
+        "nà ge",
+        "that one",
+        "ese"
+      ],
+      [
+        "which",
+        "哪个",
+        "nǎ ge",
+        "which one",
+        "cuál"
+      ],
+      [
+        "here",
+        "这里",
+        "zhè lǐ",
+        "here",
+        "aquí"
+      ],
+      [
+        "there",
+        "那里",
+        "nà lǐ",
+        "there",
+        "allí"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "Numbers are regular; 二 becomes 两 before a measure word.",
+    "columns": [
+      "Number",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "0",
+        "零",
+        "líng",
+        "zero",
+        "cero"
+      ],
+      [
+        "1",
+        "一",
+        "yī",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "二",
+        "èr",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "三",
+        "sān",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "四",
+        "sì",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "五",
+        "wǔ",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "六",
+        "liù",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "七",
+        "qī",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "八",
+        "bā",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "九",
+        "jiǔ",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "十",
+        "shí",
+        "ten",
+        "diez"
+      ],
+      [
+        "11",
+        "十一",
+        "shí yī",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "十二",
+        "shí èr",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "二十",
+        "èr shí",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "20 people",
+        "二十个人",
+        "èr shí gè rén",
+        "twenty people",
+        "veinte personas"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "也 and 都",
+    "description": "也 means 'also' and 都 means 'all'; both come before the verb.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "also",
+        "我也是学生。",
+        "wǒ yě shì xué sheng.",
+        "I am a student too.",
+        "Yo también soy estudiante."
+      ],
+      [
+        "all",
+        "我们都是学生。",
+        "wǒ men dōu shì xué sheng.",
+        "We are all students.",
+        "Todos somos estudiantes."
+      ],
+      [
+        "also + all",
+        "他们也都在。",
+        "tā men yě dōu zài.",
+        "They are all here too.",
+        "Ellos también están todos."
+      ],
+      [
+        "negative",
+        "我也不去。",
+        "wǒ yě bú qù.",
+        "I am not going either.",
+        "Yo tampoco voy."
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Adjectives with 很",
+    "description": "An adjective used as a predicate normally takes 很, which often just means 'to be'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "positive",
+        "我很好。",
+        "wǒ hěn hǎo.",
+        "I am fine.",
+        "Estoy bien."
+      ],
+      [
+        "positive",
+        "今天很冷。",
+        "jīn tiān hěn lěng.",
+        "Today it is very cold.",
+        "Hoy hace mucho frío."
+      ],
+      [
+        "negative",
+        "他不忙。",
+        "tā bù máng.",
+        "He is not busy.",
+        "Él no está ocupado."
+      ],
+      [
+        "question",
+        "你累吗？",
+        "nǐ lèi ma?",
+        "Are you tired?",
+        "¿Estás cansado?"
+      ],
+      [
+        "with 的",
+        "很漂亮的房子",
+        "hěn piào liang de fáng zi",
+        "a very beautiful house",
+        "una casa muy bonita"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Location with 在",
+    "description": "在 comes before the place and means 'to be at / in / on'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "at home",
+        "我在家。",
+        "wǒ zài jiā.",
+        "I am at home.",
+        "Estoy en casa."
+      ],
+      [
+        "at school",
+        "他在学校学习。",
+        "tā zài xué xiào xué xí.",
+        "He studies at school.",
+        "Él estudia en la escuela."
+      ],
+      [
+        "on the table",
+        "书在桌子上。",
+        "shū zài zhuō zi shang.",
+        "The book is on the table.",
+        "El libro está sobre la mesa."
+      ],
+      [
+        "to go somewhere",
+        "我去商店。",
+        "wǒ qù shāng diàn.",
+        "I am going to the shop.",
+        "Voy a la tienda."
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Time expressions",
+    "description": "Time words come after the subject and before the verb.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "today",
+        "我今天休息。",
+        "wǒ jīn tiān xiū xi.",
+        "I am resting today.",
+        "Hoy descanso."
+      ],
+      [
+        "tomorrow",
+        "我明天上班。",
+        "wǒ míng tiān shàng bān.",
+        "I work tomorrow.",
+        "Mañana trabajo."
+      ],
+      [
+        "at six",
+        "我六点起床。",
+        "wǒ liù diǎn qǐ chuáng.",
+        "I get up at six.",
+        "Me levanto a las seis."
+      ],
+      [
+        "last year",
+        "他去年去了中国。",
+        "tā qù nián qù le zhōng guó.",
+        "He went to China last year.",
+        "Él fue a China el año pasado."
+      ],
+      [
+        "now",
+        "我现在很忙。",
+        "wǒ xiàn zài hěn máng.",
+        "I am very busy now.",
+        "Ahora estoy muy ocupado."
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "星期 + number, from Monday to Sunday (Sunday is 星期天 or 星期日).",
+    "columns": [
+      "Day",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "星期一",
+        "xīng qī yī",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "星期二",
+        "xīng qī èr",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "星期三",
+        "xīng qī sān",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "星期四",
+        "xīng qī sì",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "星期五",
+        "xīng qī wǔ",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "星期六",
+        "xīng qī liù",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "星期天",
+        "xīng qī tiān",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Modal verbs: 会, 能, 想, 要",
+    "description": "Modal verbs come before the main verb and are not conjugated.",
+    "columns": [
+      "Modal",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "会 (learned skill)",
+        "我会说汉语。",
+        "wǒ huì shuō hàn yǔ.",
+        "I can speak Chinese.",
+        "Sé hablar chino."
+      ],
+      [
+        "能 (physical ability / permission)",
+        "我能帮你。",
+        "wǒ néng bāng nǐ.",
+        "I can help you.",
+        "Puedo ayudarte."
+      ],
+      [
+        "想 (would like)",
+        "我想喝茶。",
+        "wǒ xiǎng hē chá.",
+        "I would like to drink tea.",
+        "Quiero beber té."
+      ],
+      [
+        "要 (want / need)",
+        "我要回家。",
+        "wǒ yào huí jiā.",
+        "I want to go home.",
+        "Quiero ir a casa."
+      ],
+      [
+        "negative 不用",
+        "你不用来。",
+        "nǐ bú yòng lái.",
+        "You need not come.",
+        "No hace falta que vengas."
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The particle 了 (completed action)",
+    "description": "Verb + 了 marks a completed action; the object usually follows.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "completed",
+        "我吃了饭。",
+        "wǒ chī le fàn.",
+        "I have eaten.",
+        "He comido."
+      ],
+      [
+        "completed",
+        "他买了一本书。",
+        "tā mǎi le yì běn shū.",
+        "He bought a book.",
+        "Él compró un libro."
+      ],
+      [
+        "with time",
+        "昨天我去了学校。",
+        "zuó tiān wǒ qù le xué xiào.",
+        "Yesterday I went to school.",
+        "Ayer fui a la escuela."
+      ],
+      [
+        "negative (dropped)",
+        "我没吃饭。",
+        "wǒ méi chī fàn.",
+        "I have not eaten.",
+        "No he comido."
+      ],
+      [
+        "question",
+        "你吃了吗？",
+        "nǐ chī le ma?",
+        "Have you eaten?",
+        "¿Has comido?"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "Sentence-final 了 (change of state)",
+    "description": "At the end of a sentence, 了 shows that the situation has changed.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "change",
+        "下雨了。",
+        "xià yǔ le.",
+        "It has started raining.",
+        "Ha empezado a llover."
+      ],
+      [
+        "change",
+        "他病了。",
+        "tā bìng le.",
+        "He has fallen ill.",
+        "Él se ha puesto enfermo."
+      ],
+      [
+        "new state",
+        "我二十岁了。",
+        "wǒ èr shí suì le.",
+        "I am twenty now.",
+        "Ya tengo veinte años."
+      ],
+      [
+        "it is time",
+        "该走了。",
+        "gāi zǒu le.",
+        "It is time to go.",
+        "Es hora de irse."
+      ],
+      [
+        "too much now",
+        "天太冷了。",
+        "tiān tài lěng le.",
+        "It has become too cold.",
+        "Se ha vuelto demasiado frío."
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The particle 过 (experience)",
+    "description": "Verb + 过 means you have had the experience at some time.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "experience",
+        "我去过北京。",
+        "wǒ qù guo běi jīng.",
+        "I have been to Beijing.",
+        "He estado en Pekín."
+      ],
+      [
+        "experience",
+        "他看过这部电影。",
+        "tā kàn guo zhè bù diàn yǐng.",
+        "He has seen this film.",
+        "Él ha visto esta película."
+      ],
+      [
+        "question",
+        "你吃过中国菜吗？",
+        "nǐ chī guo zhōng guó cài ma?",
+        "Have you eaten Chinese food?",
+        "¿Has comido comida china?"
+      ],
+      [
+        "negative",
+        "我没去过。",
+        "wǒ méi qù guo.",
+        "I have never been.",
+        "Nunca he ido."
+      ],
+      [
+        "never",
+        "我从来没吃过。",
+        "wǒ cóng lái méi chī guo.",
+        "I have never eaten it.",
+        "Nunca lo he comido."
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "正在 and 在 (progressive)",
+    "description": "正在 / 在 + verb shows an action happening right now, often with 呢.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "right now",
+        "他正在吃饭。",
+        "tā zhèng zài chī fàn.",
+        "He is eating right now.",
+        "Él está comiendo ahora mismo."
+      ],
+      [
+        "right now",
+        "我在看书。",
+        "wǒ zài kàn shū.",
+        "I am reading.",
+        "Estoy leyendo."
+      ],
+      [
+        "right now",
+        "他们正在唱歌。",
+        "tā men zhèng zài chàng gē.",
+        "They are singing.",
+        "Ellos están cantando."
+      ],
+      [
+        "with 呢",
+        "我睡觉呢。",
+        "wǒ shuì jiào ne.",
+        "I am sleeping.",
+        "Estoy durmiendo."
+      ],
+      [
+        "durations do not fit",
+        "我每天看书。",
+        "wǒ měi tiān kàn shū.",
+        "I read every day.",
+        "Leo todos los días."
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The particle 着 (continuous state)",
+    "description": "Verb + 着 describes a state that continues, not an action in progress.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "open state",
+        "门开着。",
+        "mén kāi zhe.",
+        "The door is open.",
+        "La puerta está abierta."
+      ],
+      [
+        "seated",
+        "他坐着看书。",
+        "tā zuò zhe kàn shū.",
+        "He reads while sitting.",
+        "Él lee sentado."
+      ],
+      [
+        "hanging",
+        "墙上挂着一张画。",
+        "qiáng shang guà zhe yì zhāng huà.",
+        "A picture hangs on the wall.",
+        "Un cuadro cuelga de la pared."
+      ],
+      [
+        "accompanying action",
+        "她笑着说。",
+        "tā xiào zhe shuō.",
+        "She says it smiling.",
+        "Lo dice sonriendo."
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "The complement of degree with 得",
+    "description": "Verb + 得 + description tells how well or how much an action is done.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "manner",
+        "他跑得很快。",
+        "tā pǎo de hěn kuài.",
+        "He runs very fast.",
+        "Él corre muy rápido."
+      ],
+      [
+        "manner",
+        "她说得很好。",
+        "tā shuō de hěn hǎo.",
+        "She speaks very well.",
+        "Ella habla muy bien."
+      ],
+      [
+        "manner",
+        "你写得漂亮。",
+        "nǐ xiě de piào liang.",
+        "You write beautifully.",
+        "Escribes bonito."
+      ],
+      [
+        "negative",
+        "他跑得不快。",
+        "tā pǎo de bú kuài.",
+        "He does not run fast.",
+        "Él no corre rápido."
+      ],
+      [
+        "question",
+        "你玩得开心吗？",
+        "nǐ wán de kāi xīn ma?",
+        "Did you have fun?",
+        "¿Te divertiste?"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Comparison with 比",
+    "description": "A + 比 + B + adjective means 'A is more … than B'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "taller",
+        "我比他高。",
+        "wǒ bǐ tā gāo.",
+        "I am taller than him.",
+        "Soy más alto que él."
+      ],
+      [
+        "colder",
+        "今天比昨天冷。",
+        "jīn tiān bǐ zuó tiān lěng.",
+        "Today is colder than yesterday.",
+        "Hoy hace más frío que ayer."
+      ],
+      [
+        "more",
+        "我的书比你的多。",
+        "wǒ de shū bǐ nǐ de duō.",
+        "My books are more than yours.",
+        "Mis libros son más que los tuyos."
+      ],
+      [
+        "less",
+        "他比我小。",
+        "tā bǐ wǒ xiǎo.",
+        "He is younger than me.",
+        "Él es más joven que yo."
+      ],
+      [
+        "not as … as",
+        "我没有你高。",
+        "wǒ méi yǒu nǐ gāo.",
+        "I am not as tall as you.",
+        "No soy tan alto como tú."
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Equality with 跟…一样",
+    "description": "A 跟 B 一样 + adjective means 'A is the same as B'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "same height",
+        "我跟你一样高。",
+        "wǒ gēn nǐ yí yàng gāo.",
+        "I am as tall as you.",
+        "Soy tan alto como tú."
+      ],
+      [
+        "same age",
+        "他跟我一样大。",
+        "tā gēn wǒ yí yàng dà.",
+        "He is the same age as me.",
+        "Él tiene la misma edad que yo."
+      ],
+      [
+        "same",
+        "这个跟那个一样。",
+        "zhè ge gēn nà ge yí yàng.",
+        "This one is the same as that one.",
+        "Este es igual que ese."
+      ],
+      [
+        "negative",
+        "这个跟那个不一样。",
+        "zhè ge gēn nà ge bù yí yàng.",
+        "This one is different from that one.",
+        "Este es diferente de ese."
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Cause and effect: 因为…所以",
+    "description": "因为 introduces the cause and 所以 the result; either half may be dropped.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "cause + result",
+        "因为下雨，所以我没去。",
+        "yīn wèi xià yǔ, suǒ yǐ wǒ méi qù.",
+        "Because it rained, I did not go.",
+        "Como llovió, no fui."
+      ],
+      [
+        "result only",
+        "因为太冷，我们没出门。",
+        "yīn wèi tài lěng, wǒ men méi chū mén.",
+        "Because it was too cold, we did not go out.",
+        "Como hacía mucho frío, no salimos."
+      ],
+      [
+        "cause only",
+        "他病了，所以没来。",
+        "tā bìng le, suǒ yǐ méi lái.",
+        "He was ill, so he did not come.",
+        "Estaba enfermo, así que no vino."
+      ],
+      [
+        "question",
+        "你为什么不来？",
+        "nǐ wèi shén me bù lái?",
+        "Why are you not coming?",
+        "¿Por qué no vienes?"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Contrast: 虽然…但是",
+    "description": "虽然 concedes a point and 但是 gives the contrast.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "contrast",
+        "虽然很累，但是我很开心。",
+        "suī rán hěn lèi, dàn shì wǒ hěn kāi xīn.",
+        "Although I am tired, I am happy.",
+        "Aunque estoy cansado, soy feliz."
+      ],
+      [
+        "contrast",
+        "虽然下雨，我们还是去了。",
+        "suī rán xià yǔ, wǒ men hái shì qù le.",
+        "Although it rained, we still went.",
+        "Aunque llovía, fuimos igualmente."
+      ],
+      [
+        "contrast",
+        "虽然贵，但是我买了。",
+        "suī rán guì, dàn shì wǒ mǎi le.",
+        "Although it was expensive, I bought it.",
+        "Aunque era caro, lo compré."
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Condition: 如果…就",
+    "description": "如果 introduces the condition and 就 introduces the consequence.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "condition",
+        "如果明天晴天，我们就去公园。",
+        "rú guǒ míng tiān qíng tiān, wǒ men jiù qù gōng yuán.",
+        "If it is sunny tomorrow, we will go to the park.",
+        "Si mañana hace sol, iremos al parque."
+      ],
+      [
+        "condition",
+        "如果你来，我就很高兴。",
+        "rú guǒ nǐ lái, wǒ jiù hěn gāo xìng.",
+        "If you come, I will be very happy.",
+        "Si vienes, estaré muy contento."
+      ],
+      [
+        "condition",
+        "如果下雨，我们就不去。",
+        "rú guǒ xià yǔ, wǒ men jiù bú qù.",
+        "If it rains, we will not go.",
+        "Si llueve, no iremos."
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Result complements",
+    "description": "A verb plus a complement shows the result of the action.",
+    "columns": [
+      "Complement",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "完 (finish)",
+        "我吃完饭了。",
+        "wǒ chī wán fàn le.",
+        "I have finished eating.",
+        "He terminado de comer."
+      ],
+      [
+        "到 (reach)",
+        "我看到他了。",
+        "wǒ kàn dào tā le.",
+        "I saw him.",
+        "Lo vi."
+      ],
+      [
+        "见 (perceive)",
+        "我听见了。",
+        "wǒ tīng jiàn le.",
+        "I heard it.",
+        "Lo oí."
+      ],
+      [
+        "好 (done well)",
+        "饭做好了。",
+        "fàn zuò hǎo le.",
+        "The meal is ready.",
+        "La comida está lista."
+      ],
+      [
+        "错 (wrongly)",
+        "我写错了。",
+        "wǒ xiě cuò le.",
+        "I wrote it wrong.",
+        "Lo escribí mal."
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Imminent action: 要…了 / 快要…了",
+    "description": "要…了 or 快要…了 shows something is about to happen.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "about to rain",
+        "要下雨了。",
+        "yào xià yǔ le.",
+        "It is going to rain.",
+        "Va a llover."
+      ],
+      [
+        "about to leave",
+        "我们快要走了。",
+        "wǒ men kuài yào zǒu le.",
+        "We are about to leave.",
+        "Estamos a punto de irnos."
+      ],
+      [
+        "about to start",
+        "火车要开了。",
+        "huǒ chē yào kāi le.",
+        "The train is about to leave.",
+        "El tren está a punto de salir."
+      ],
+      [
+        "about to arrive",
+        "他快要到了。",
+        "tā kuài yào dào le.",
+        "He is about to arrive.",
+        "Él está a punto de llegar."
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Simultaneous actions: 一边…一边",
+    "description": "一边…一边 shows two actions happening at the same time.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "simultaneous",
+        "他一边吃饭，一边看电视。",
+        "tā yì biān chī fàn, yì biān kàn diàn shì.",
+        "He watches TV while eating.",
+        "Ve la televisión mientras come."
+      ],
+      [
+        "simultaneous",
+        "我一边走，一边听音乐。",
+        "wǒ yì biān zǒu, yì biān tīng yīn yuè.",
+        "I listen to music while walking.",
+        "Escucho música mientras camino."
+      ],
+      [
+        "simultaneous",
+        "她一边唱歌，一边跳舞。",
+        "tā yì biān chàng gē, yì biān tiào wǔ.",
+        "She dances while singing.",
+        "Ella baila mientras canta."
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "The more… the more: 越…越",
+    "description": "越 + adjective/verb, 越 + adjective/verb shows a growing change.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "growing",
+        "越学越有意思。",
+        "yuè xué yuè yǒu yì si.",
+        "The more you learn, the more interesting it is.",
+        "Cuanto más aprendes, más interesante es."
+      ],
+      [
+        "growing",
+        "天气越来越热。",
+        "tiān qì yuè lái yuè rè.",
+        "The weather is getting hotter.",
+        "El tiempo es cada vez más caluroso."
+      ],
+      [
+        "growing",
+        "他越跑越快。",
+        "tā yuè pǎo yuè kuài.",
+        "The more he runs, the faster he goes.",
+        "Cuanto más corre, más rápido va."
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Addition and exception: 除了…以外",
+    "description": "除了…以外 … 都 = except; 除了…以外 … 还/也 = besides.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "except",
+        "除了他以外，大家都来了。",
+        "chú le tā yǐ wài, dà jiā dōu lái le.",
+        "Everyone came except him.",
+        "Todos vinieron excepto él."
+      ],
+      [
+        "besides",
+        "除了中文以外，他还会英语。",
+        "chú le zhōng wén yǐ wài, tā hái huì yīng yǔ.",
+        "Besides Chinese, he also knows English.",
+        "Además del chino, también sabe inglés."
+      ],
+      [
+        "besides",
+        "除了茶以外，我也喜欢咖啡。",
+        "chú le chá yǐ wài, wǒ yě xǐ huan kā fēi.",
+        "Besides tea, I also like coffee.",
+        "Además del té, también me gusta el café."
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The 把 construction",
+    "description": "把 moves the object before the verb to show what is done to it: 把 + object + verb + result.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "disposal",
+        "我把书放在桌子上了。",
+        "wǒ bǎ shū fàng zài zhuō zi shang le.",
+        "I put the book on the table.",
+        "Puse el libro sobre la mesa."
+      ],
+      [
+        "disposal",
+        "他把门关上了。",
+        "tā bǎ mén guān shàng le.",
+        "He closed the door.",
+        "Él cerró la puerta."
+      ],
+      [
+        "disposal",
+        "请把窗户打开。",
+        "qǐng bǎ chuāng hu dǎ kāi.",
+        "Please open the window.",
+        "Por favor, abre la ventana."
+      ],
+      [
+        "disposal",
+        "她把作业做完了。",
+        "tā bǎ zuò yè zuò wán le.",
+        "She finished her homework.",
+        "Ella terminó los deberes."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive with 被",
+    "description": "被 + agent + verb marks the passive; the agent can be left out.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "passive",
+        "书被他拿走了。",
+        "shū bèi tā ná zǒu le.",
+        "The book was taken away by him.",
+        "El libro fue llevado por él."
+      ],
+      [
+        "passive",
+        "我的车被人偷了。",
+        "wǒ de chē bèi rén tōu le.",
+        "My car was stolen.",
+        "Me robaron el coche."
+      ],
+      [
+        "passive",
+        "窗户被风吹开了。",
+        "chuāng hu bèi fēng chuī kāi le.",
+        "The window was blown open by the wind.",
+        "El viento abrió la ventana."
+      ],
+      [
+        "passive",
+        "他被老师批评了。",
+        "tā bèi lǎo shī pī píng le.",
+        "He was criticised by the teacher.",
+        "Fue criticado por el profesor."
+      ],
+      [
+        "agent omitted",
+        "杯子被打破了。",
+        "bēi zi bèi dǎ pò le.",
+        "The cup got broken.",
+        "La taza se rompió."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Emphasis with 是…的",
+    "description": "是…的 highlights the time, place or manner of a past action.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "emphasis",
+        "我是昨天来的。",
+        "wǒ shì zuó tiān lái de.",
+        "It was yesterday that I came.",
+        "Fue ayer cuando vine."
+      ],
+      [
+        "emphasis",
+        "他是坐火车去的。",
+        "tā shì zuò huǒ chē qù de.",
+        "It was by train that he went.",
+        "Fue en tren como fue."
+      ],
+      [
+        "emphasis",
+        "这本书是他写的。",
+        "zhè běn shū shì tā xiě de.",
+        "It was he who wrote this book.",
+        "Fue él quien escribió este libro."
+      ],
+      [
+        "question",
+        "你是什么时候来的？",
+        "nǐ shì shén me shí hou lái de?",
+        "When was it that you came?",
+        "¿Cuándo fue que viniste?"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Condition: 只要…就",
+    "description": "只要…就 means 'as long as … then …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "condition",
+        "只要你努力，就能成功。",
+        "zhǐ yào nǐ nǔ lì, jiù néng chéng gōng.",
+        "As long as you work hard, you can succeed.",
+        "Con tal de que te esfuerces, puedes tener éxito."
+      ],
+      [
+        "condition",
+        "只要努力，就有希望。",
+        "zhǐ yào nǔ lì, jiù yǒu xī wàng.",
+        "As long as you try, there is hope.",
+        "Con tal de que lo intentes, hay esperanza."
+      ],
+      [
+        "condition",
+        "只要他来，我就去。",
+        "zhǐ yào tā lái, wǒ jiù qù.",
+        "As long as he comes, I will go.",
+        "Con tal de que él venga, iré."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Necessary condition: 只有…才",
+    "description": "只有…才 means 'only if … then …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "only if",
+        "只有努力，才能成功。",
+        "zhǐ yǒu nǔ lì, cái néng chéng gōng.",
+        "Only by working hard can you succeed.",
+        "Solo esforzándote puedes tener éxito."
+      ],
+      [
+        "only if",
+        "只有你去，我才去。",
+        "zhǐ yǒu nǐ qù, wǒ cái qù.",
+        "Only if you go will I go.",
+        "Solo si tú vas, iré yo."
+      ],
+      [
+        "only if",
+        "只有他才知道。",
+        "zhǐ yǒu tā cái zhī dào.",
+        "Only he knows.",
+        "Solo él lo sabe."
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Concession: 无论…都",
+    "description": "无论…都 means 'no matter what / whether … still'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "no matter",
+        "无论你去不去，我都要去。",
+        "wú lùn nǐ qù bú qù, wǒ dōu yào qù.",
+        "Whether you go or not, I will go.",
+        "Vayas o no, yo iré."
+      ],
+      [
+        "no matter",
+        "无论多难，我都要试。",
+        "wú lùn duō nán, wǒ dōu yào shì.",
+        "No matter how hard it is, I will try.",
+        "No importa cuán difícil sea, lo intentaré."
+      ],
+      [
+        "no matter",
+        "无论谁都要遵守规则。",
+        "wú lùn shéi dōu yào zūn shǒu guī zé.",
+        "Everyone must follow the rules, whoever they are.",
+        "Todos deben seguir las reglas, sean quienes sean."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Not only… but also: 不但…而且",
+    "description": "不但…而且 adds a second, often stronger point.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "addition",
+        "他不但会英语，而且会汉语。",
+        "tā bú dàn huì yīng yǔ, ér qiě huì hàn yǔ.",
+        "He knows not only English but also Chinese.",
+        "Sabe no solo inglés sino también chino."
+      ],
+      [
+        "addition",
+        "这个菜不但好吃，而且便宜。",
+        "zhè ge cài bú dàn hǎo chī, ér qiě pián yi.",
+        "This dish is not only tasty but also cheap.",
+        "Este plato no solo está rico sino que es barato."
+      ],
+      [
+        "addition",
+        "她不但是老师，而且是作家。",
+        "tā bú dàn shì lǎo shī, ér qiě shì zuò jiā.",
+        "She is not only a teacher but also a writer.",
+        "No solo es profesora sino también escritora."
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Even if: 即使…也",
+    "description": "即使…也 means 'even if … still'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "even if",
+        "即使下雨，我也要去。",
+        "jí shǐ xià yǔ, wǒ yě yào qù.",
+        "Even if it rains, I will go.",
+        "Aunque llueva, iré."
+      ],
+      [
+        "even if",
+        "即使很累，我也要完成。",
+        "jí shǐ hěn lèi, wǒ yě yào wán chéng.",
+        "Even if I am tired, I must finish.",
+        "Aunque esté cansado, debo terminarlo."
+      ],
+      [
+        "even if",
+        "即使他来了，也来不及了。",
+        "jí shǐ tā lái le, yě lái bu jí le.",
+        "Even if he comes, it will be too late.",
+        "Aunque venga, ya será tarde."
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Since… then: 既然…就",
+    "description": "既然…就 means 'since it is the case that … then …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "since",
+        "既然你来了，就一起吃饭吧。",
+        "jì rán nǐ lái le, jiù yì qǐ chī fàn ba.",
+        "Since you are here, let's eat together.",
+        "Ya que estás aquí, comamos juntos."
+      ],
+      [
+        "since",
+        "既然下雨，我们就在家吧。",
+        "jì rán xià yǔ, wǒ men jiù zài jiā ba.",
+        "Since it is raining, let's stay at home.",
+        "Ya que llueve, quedémonos en casa."
+      ],
+      [
+        "since",
+        "既然决定了，就不要后悔。",
+        "jì rán jué dìng le, jiù bú yào hòu huǐ.",
+        "Since you have decided, do not regret it.",
+        "Ya que lo has decidido, no te arrepientas."
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Concession: 尽管…还是",
+    "description": "尽管…还是 means 'although … still'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "although",
+        "尽管很忙，他还是来了。",
+        "jǐn guǎn hěn máng, tā hái shì lái le.",
+        "Although he was busy, he still came.",
+        "Aunque estaba ocupado, vino igualmente."
+      ],
+      [
+        "although",
+        "尽管很难，我还是要试。",
+        "jǐn guǎn hěn nán, wǒ hái shì yào shì.",
+        "Although it is hard, I will still try.",
+        "Aunque es difícil, lo intentaré igualmente."
+      ],
+      [
+        "although",
+        "尽管下雨，他还是出去了。",
+        "jǐn guǎn xià yǔ, tā hái shì chū qù le.",
+        "Although it rained, he still went out.",
+        "Aunque llovía, salió igualmente."
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Even: 连…都 / 也",
+    "description": "连…都/也 emphasises an extreme case: 'even …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "even",
+        "他连饭都没吃就走了。",
+        "tā lián fàn dōu méi chī jiù zǒu le.",
+        "He left without even eating.",
+        "Se fue sin siquiera comer."
+      ],
+      [
+        "even",
+        "这个字连老师都不认识。",
+        "zhè ge zì lián lǎo shī dōu bú rèn shi.",
+        "Even the teacher does not know this character.",
+        "Ni siquiera el profesor conoce este carácter."
+      ],
+      [
+        "even",
+        "我连一分钱也没有。",
+        "wǒ lián yì fēn qián yě méi yǒu.",
+        "I do not even have one penny.",
+        "No tengo ni un céntimo."
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Directional complements",
+    "description": "Verbs of movement combine with 来 / 去 and 上, 下, 出, 过, 起 to show direction.",
+    "columns": [
+      "Complement",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "起来 (up)",
+        "他站起来了。",
+        "tā zhàn qǐ lái le.",
+        "He stood up.",
+        "Él se puso de pie."
+      ],
+      [
+        "下来 (down)",
+        "天色暗下来了。",
+        "tiān sè àn xià lái le.",
+        "It gradually got dark.",
+        "Se fue oscureciendo."
+      ],
+      [
+        "过来 (over here)",
+        "请把书拿过来。",
+        "qǐng bǎ shū ná guò lái.",
+        "Please bring the book over.",
+        "Por favor, trae el libro."
+      ],
+      [
+        "出去 (out)",
+        "他跑出去了。",
+        "tā pǎo chū qù le.",
+        "He ran out.",
+        "Él salió corriendo."
+      ],
+      [
+        "下来 (continue)",
+        "请你说下去。",
+        "qǐng nǐ shuō xià qù.",
+        "Please go on speaking.",
+        "Por favor, sigue hablando."
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Preference: 与其…不如 / 宁可",
+    "description": "与其…不如 = 'rather than … it is better to'; 宁可 = 'would rather'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "preference",
+        "与其在家等，不如出去走走。",
+        "yǔ qí zài jiā děng, bù rú chū qù zǒu zou.",
+        "Rather than wait at home, it is better to go out.",
+        "En vez de esperar en casa, mejor salir."
+      ],
+      [
+        "preference",
+        "与其求人，我宁可自己解决。",
+        "yǔ qí qiú rén, wǒ nìng kě zì jǐ jiě jué.",
+        "Rather than ask others, I would rather solve it myself.",
+        "Antes que pedir ayuda, prefiero resolverlo yo mismo."
+      ],
+      [
+        "preference",
+        "与其买贵的，不如买实用的。",
+        "yǔ qí mǎi guì de, bù rú mǎi shí yòng de.",
+        "Rather than buy something expensive, it is better to buy something practical.",
+        "Antes que comprar algo caro, mejor algo práctico."
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Concession: 固然…但是",
+    "description": "固然…但是 concedes a fact but introduces a stronger counterpoint.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "concession",
+        "钱固然重要，但是健康更重要。",
+        "qián gù rán zhòng yào, dàn shì jiàn kāng gèng zhòng yào.",
+        "Money is certainly important, but health matters more.",
+        "El dinero es ciertamente importante, pero la salud importa más."
+      ],
+      [
+        "concession",
+        "固然很难，但是值得一试。",
+        "gù rán hěn nán, dàn shì zhí dé yì shì.",
+        "It is admittedly hard, but worth a try.",
+        "Es ciertamente difícil, pero vale la pena intentarlo."
+      ],
+      [
+        "concession",
+        "他固然聪明，但是不够努力。",
+        "tā gù rán cōng ming, dàn shì bú gòu nǔ lì.",
+        "He is certainly clever, but not hard-working enough.",
+        "Ciertamente es listo, pero no se esfuerza lo bastante."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Reason: 之所以…是因为",
+    "description": "之所以…是因为 front-loads the result and then gives the reason.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reason",
+        "他之所以成功，是因为他很努力。",
+        "tā zhī suǒ yǐ chéng gōng, shì yīn wèi tā hěn nǔ lì.",
+        "The reason he succeeded is that he worked hard.",
+        "La razón por la que tuvo éxito es que se esforzó mucho."
+      ],
+      [
+        "reason",
+        "之所以迟到，是因为路上堵车。",
+        "zhī suǒ yǐ chí dào, shì yīn wèi lù shang dǔ chē.",
+        "The reason for being late is a traffic jam.",
+        "La razón de llegar tarde es un atasco."
+      ],
+      [
+        "reason",
+        "她之所以生气，是因为你没告诉她。",
+        "tā zhī suǒ yǐ shēng qì, shì yīn wèi nǐ méi gào su tā.",
+        "She is angry because you did not tell her.",
+        "Está enfadada porque no se lo dijiste."
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Extent: 以至于",
+    "description": "以至于 introduces an extreme result: 'so much that …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "result",
+        "他太累了，以至于站着就睡着了。",
+        "tā tài lèi le, yǐ zhì yú zhàn zhe jiù shuì zháo le.",
+        "He was so tired that he fell asleep standing.",
+        "Estaba tan cansado que se durmió de pie."
+      ],
+      [
+        "result",
+        "声音太大，以至于我听不见。",
+        "shēng yīn tài dà, yǐ zhì yú wǒ tīng bu jiàn.",
+        "The noise was so loud that I could not hear.",
+        "Había tanto ruido que no podía oír."
+      ],
+      [
+        "result",
+        "他跑得太快，以至于没人追得上。",
+        "tā pǎo de tài kuài, yǐ zhì yú méi rén zhuī de shàng.",
+        "He ran so fast that no one could catch him.",
+        "Corrió tan rápido que nadie pudo alcanzarlo."
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Let alone: 尚且…何况",
+    "description": "尚且…何况 means 'even … let alone …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "let alone",
+        "他尚且不会，何况我呢？",
+        "tā shàng qiě bú huì, hé kuàng wǒ ne?",
+        "Even he cannot do it, let alone me.",
+        "Ni siquiera él puede, y mucho menos yo."
+      ],
+      [
+        "let alone",
+        "专家尚且解决不了，何况我们。",
+        "zhuān jiā shàng qiě jiě jué bu liǎo, hé kuàng wǒ men.",
+        "Even experts cannot solve it, let alone us.",
+        "Ni los expertos pueden resolverlo, y menos nosotros."
+      ],
+      [
+        "let alone",
+        "大人尚且做不到，何况孩子？",
+        "dà rén shàng qiě zuò bu dào, hé kuàng hái zi?",
+        "Even adults cannot do it, let alone children.",
+        "Ni los adultos pueden, y mucho menos los niños."
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Avoidance: 以免 / 免得",
+    "description": "以免 and 免得 introduce a negative purpose: 'so as not to …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "avoid",
+        "早点出发，以免迟到。",
+        "zǎo diǎn chū fā, yǐ miǎn chí dào.",
+        "Set off early so as not to be late.",
+        "Sal temprano para no llegar tarde."
+      ],
+      [
+        "avoid",
+        "记下来，免得忘记。",
+        "jì xià lái, miǎn de wàng jì.",
+        "Write it down so as not to forget.",
+        "Anótalo para no olvidarlo."
+      ],
+      [
+        "avoid",
+        "多穿点，以免感冒。",
+        "duō chuān diǎn, yǐ miǎn gǎn mào.",
+        "Wear more so as not to catch a cold.",
+        "Abrígate más para no resfriarte."
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Contrary to expectation: 反而",
+    "description": "反而 shows a result opposite to what was expected.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "contrary",
+        "药吃了，病反而更重了。",
+        "yào chī le, bìng fǎn ér gèng zhòng le.",
+        "He took the medicine, but got worse instead.",
+        "Tomó la medicina, pero empeoró."
+      ],
+      [
+        "contrary",
+        "他不但没生气，反而笑了。",
+        "tā bú dàn méi shēng qì, fǎn ér xiào le.",
+        "He did not get angry; on the contrary, he laughed.",
+        "No se enfadó; al contrario, se rió."
+      ],
+      [
+        "contrary",
+        "越睡反而越累。",
+        "yuè shuì fǎn ér yuè lèi.",
+        "The more I sleep, the more tired I feel.",
+        "Cuanto más duermo, más cansado estoy."
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Excess: 未免",
+    "description": "未免 softens a criticism meaning 'rather too …'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "excess",
+        "你这样说未免太过分了。",
+        "nǐ zhè yàng shuō wèi miǎn tài guò fèn le.",
+        "Saying that is rather too much.",
+        "Decir eso es un poco excesivo."
+      ],
+      [
+        "excess",
+        "这个价格未免太高了。",
+        "zhè ge jià gé wèi miǎn tài gāo le.",
+        "This price is rather too high.",
+        "Este precio es bastante alto."
+      ],
+      [
+        "excess",
+        "他未免太自信了。",
+        "tā wèi miǎn tài zì xìn le.",
+        "He is rather too self-confident.",
+        "Él es demasiado seguro de sí mismo."
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Tentative suggestion: 不妨",
+    "description": "不妨 means 'might as well' and softens a suggestion.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "suggestion",
+        "你不妨试试看。",
+        "nǐ bù fáng shì shi kàn.",
+        "You might as well give it a try.",
+        "Bien podrías intentarlo."
+      ],
+      [
+        "suggestion",
+        "如果不知道，不妨问问他。",
+        "rú guǒ bù zhī dào, bù fáng wèn wen tā.",
+        "If you do not know, you might as well ask him.",
+        "Si no lo sabes, bien podrías preguntarle."
+      ],
+      [
+        "suggestion",
+        "我们不妨换个方法。",
+        "wǒ men bù fáng huàn gè fāng fǎ.",
+        "We might as well try another method.",
+        "Bien podríamos probar otro método."
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Inevitability: 难免",
+    "description": "难免 means that something is hard to avoid: 'inevitably'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inevitable",
+        "第一次做，难免出错。",
+        "dì yī cì zuò, nán miǎn chū cuò.",
+        "Doing it the first time, mistakes are unavoidable.",
+        "Al hacerlo por primera vez, es inevitable equivocarse."
+      ],
+      [
+        "inevitable",
+        "人多的地方难免有麻烦。",
+        "rén duō de dì fang nán miǎn yǒu má fan.",
+        "In crowded places trouble is inevitable.",
+        "En lugares concurridos los problemas son inevitables."
+      ],
+      [
+        "inevitable",
+        "他刚来，难免不习惯。",
+        "tā gāng lái, nán miǎn bù xí guàn.",
+        "He has just arrived, so it is natural he is not used to it.",
+        "Acaba de llegar, es natural que no esté acostumbrado."
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "Formal reason: 鉴于",
+    "description": "鉴于 introduces a formal consideration: 'in view of / given'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "given",
+        "鉴于情况紧急，我们必须马上行动。",
+        "jiàn yú qíng kuàng jǐn jí, wǒ men bì xū mǎ shàng xíng dòng.",
+        "Given the urgency, we must act at once.",
+        "Dada la urgencia, debemos actuar de inmediato."
+      ],
+      [
+        "given",
+        "鉴于他表现优秀，公司提拔了他。",
+        "jiàn yú tā biǎo xiàn yōu xiù, gōng sī tí bá le tā.",
+        "In view of his performance, the company promoted him.",
+        "En vista de su rendimiento, la empresa lo ascendió."
+      ],
+      [
+        "given",
+        "鉴于时间有限，我们就谈到这里。",
+        "jiàn yú shí jiān yǒu xiàn, wǒ men jiù tán dào zhè lǐ.",
+        "As time is limited, let us stop here.",
+        "Como el tiempo es limitado, terminemos aquí."
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Register: 就…而言",
+    "description": "就…而言 frames the point of view: 'as far as … is concerned'.",
+    "columns": [
+      "Use",
+      "Chinese",
+      "Pinyin",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "as for",
+        "就价格而言，这个很便宜。",
+        "jiù jià gé ér yán, zhè ge hěn pián yi.",
+        "As far as the price is concerned, this is cheap.",
+        "En cuanto al precio, esto es barato."
+      ],
+      [
+        "as for",
+        "就能力而言，他完全可以胜任。",
+        "jiù néng lì ér yán, tā wán quán kě yǐ shèng rèn.",
+        "In terms of ability, he is fully capable.",
+        "En cuanto a la capacidad, es competente."
+      ],
+      [
+        "as for",
+        "就我个人而言，我不同意。",
+        "jiù wǒ gè rén ér yán, wǒ bù tóng yì.",
+        "As far as I am concerned, I do not agree.",
+        "En lo que a mí respecta, no estoy de acuerdo."
+      ]
+    ]
+  }
+]
