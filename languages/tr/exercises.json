@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ öğrenciyim.",
+        "answer": "Ben",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ öğrencisin.",
+        "answer": "Sen",
+        "translation_en": "You are a student.",
+        "translation_es": "Eres estudiante."
+      },
+      {
+        "sentence": "___ öğrenci.",
+        "answer": "O",
+        "translation_en": "He is a student.",
+        "translation_es": "Él es estudiante."
+      },
+      {
+        "sentence": "___ öğrenciyiz.",
+        "answer": "Biz",
+        "translation_en": "We are students.",
+        "translation_es": "Somos estudiantes."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag bu, şu or o into each gap.",
+    "items": [
+      {
+        "sentence": "___ bir kitap.",
+        "answer": "Bu",
+        "translation_en": "This is a book.",
+        "translation_es": "Esto es un libro."
+      },
+      {
+        "sentence": "___ bir ev.",
+        "answer": "Şu",
+        "translation_en": "That is a house.",
+        "translation_es": "Esa es una casa."
+      },
+      {
+        "sentence": "___ benim arkadaşım.",
+        "answer": "O",
+        "translation_en": "That is my friend.",
+        "translation_es": "Ese es mi amigo."
+      },
+      {
+        "sentence": "___ ne?",
+        "answer": "Bu",
+        "translation_en": "What is this?",
+        "translation_es": "¿Qué es esto?"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the plural ending -lar / -ler into each gap.",
+    "items": [
+      {
+        "sentence": "kitap → kitap___",
+        "answer": "lar",
+        "translation_en": "books",
+        "translation_es": "libros"
+      },
+      {
+        "sentence": "ev → ev___",
+        "answer": "ler",
+        "translation_en": "houses",
+        "translation_es": "casas"
+      },
+      {
+        "sentence": "öğrenci → öğrenci___",
+        "answer": "ler",
+        "translation_en": "students",
+        "translation_es": "estudiantes"
+      },
+      {
+        "sentence": "araba → araba___",
+        "answer": "lar",
+        "translation_en": "cars",
+        "translation_es": "coches"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct form of değil into each gap.",
+    "items": [
+      {
+        "sentence": "Ben öğrenci ___.",
+        "answer": "değilim",
+        "translation_en": "I am not a student.",
+        "translation_es": "No soy estudiante."
+      },
+      {
+        "sentence": "O doktor ___.",
+        "answer": "değil",
+        "translation_en": "He is not a doctor.",
+        "translation_es": "Él no es médico."
+      },
+      {
+        "sentence": "Biz hazır ___.",
+        "answer": "değiliz",
+        "translation_en": "We are not ready.",
+        "translation_es": "No estamos listos."
+      },
+      {
+        "sentence": "Bu doğru ___.",
+        "answer": "değil",
+        "translation_en": "This is not true.",
+        "translation_es": "Esto no es verdad."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag var or yok into each gap.",
+    "items": [
+      {
+        "sentence": "Bir kitabım ___.",
+        "answer": "var",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Param ___.",
+        "answer": "yok",
+        "translation_en": "I have no money.",
+        "translation_es": "No tengo dinero."
+      },
+      {
+        "sentence": "Evde su ___.",
+        "answer": "var",
+        "translation_en": "There is water at home.",
+        "translation_es": "Hay agua en casa."
+      },
+      {
+        "sentence": "Zamanım ___.",
+        "answer": "yok",
+        "translation_en": "I have no time.",
+        "translation_es": "No tengo tiempo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ bu?",
+        "answer": "Ne",
+        "translation_en": "What is this?",
+        "translation_es": "¿Qué es esto?"
+      },
+      {
+        "sentence": "___ o?",
+        "answer": "Kim",
+        "translation_en": "Who is that?",
+        "translation_es": "¿Quién es ese?"
+      },
+      {
+        "sentence": "___ yaşıyorsun?",
+        "answer": "Nerede",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ geliyorsun?",
+        "answer": "Ne zaman",
+        "translation_en": "When are you coming?",
+        "translation_es": "¿Cuándo vienes?"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the possessive ending into each gap.",
+    "items": [
+      {
+        "sentence": "Benim ev___.",
+        "answer": "im",
+        "translation_en": "my house",
+        "translation_es": "mi casa"
+      },
+      {
+        "sentence": "Senin kitab___.",
+        "answer": "ın",
+        "translation_en": "your book",
+        "translation_es": "tu libro"
+      },
+      {
+        "sentence": "Onun araba___.",
+        "answer": "sı",
+        "translation_en": "his car",
+        "translation_es": "su coche"
+      },
+      {
+        "sentence": "Bizim okul___.",
+        "answer": "umuz",
+        "translation_en": "our school",
+        "translation_es": "nuestra escuela"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "___ kitabım var.",
+        "answer": "İki",
+        "translation_en": "I have two books.",
+        "translation_es": "Tengo dos libros."
+      },
+      {
+        "sentence": "___ yaşındayım.",
+        "answer": "On",
+        "translation_en": "I am ten years old.",
+        "translation_es": "Tengo diez años."
+      },
+      {
+        "sentence": "___ öğrenci geldi.",
+        "answer": "Üç",
+        "translation_en": "Three students came.",
+        "translation_es": "Vinieron tres estudiantes."
+      },
+      {
+        "sentence": "___ evim var.",
+        "answer": "Bir",
+        "translation_en": "I have one house.",
+        "translation_es": "Tengo una casa."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct day of the week into each gap.",
+    "items": [
+      {
+        "sentence": "Bugün ___.",
+        "answer": "pazartesi",
+        "translation_en": "Today is Monday.",
+        "translation_es": "Hoy es lunes."
+      },
+      {
+        "sentence": "Yarın ___.",
+        "answer": "salı",
+        "translation_en": "Tomorrow is Tuesday.",
+        "translation_es": "Mañana es martes."
+      },
+      {
+        "sentence": "___ günü dinleniyorum.",
+        "answer": "Pazar",
+        "translation_en": "On Sunday I rest.",
+        "translation_es": "El domingo descanso."
+      },
+      {
+        "sentence": "___ tatil günü.",
+        "answer": "Pazar",
+        "translation_en": "Sunday is a holiday.",
+        "translation_es": "El domingo es día festivo."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "___ bir ev",
+        "answer": "büyük",
+        "translation_en": "a big house",
+        "translation_es": "una casa grande"
+      },
+      {
+        "sentence": "___ bir kitap",
+        "answer": "yeni",
+        "translation_en": "a new book",
+        "translation_es": "un libro nuevo"
+      },
+      {
+        "sentence": "___ bir şehir",
+        "answer": "güzel",
+        "translation_en": "a beautiful city",
+        "translation_es": "una ciudad bonita"
+      },
+      {
+        "sentence": "___ bir çocuk",
+        "answer": "küçük",
+        "translation_en": "a small child",
+        "translation_es": "un niño pequeño"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the ending of the present continuous into each gap.",
+    "items": [
+      {
+        "sentence": "Ben gel___.",
+        "answer": "iyorum",
+        "translation_en": "I am coming.",
+        "translation_es": "Estoy viniendo."
+      },
+      {
+        "sentence": "Sen gel___.",
+        "answer": "iyorsun",
+        "translation_en": "You are coming.",
+        "translation_es": "Estás viniendo."
+      },
+      {
+        "sentence": "O gel___.",
+        "answer": "iyor",
+        "translation_en": "He is coming.",
+        "translation_es": "Él está viniendo."
+      },
+      {
+        "sentence": "Biz gel___.",
+        "answer": "iyoruz",
+        "translation_en": "We are coming.",
+        "translation_es": "Estamos viniendo."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the aorist ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ben her gün çalış___.",
+        "answer": "ırım",
+        "translation_en": "I work every day.",
+        "translation_es": "Trabajo cada día."
+      },
+      {
+        "sentence": "Sen çalış___.",
+        "answer": "ırsın",
+        "translation_en": "You work.",
+        "translation_es": "Tú trabajas."
+      },
+      {
+        "sentence": "O çalış___.",
+        "answer": "ır",
+        "translation_en": "He works.",
+        "translation_es": "Él trabaja."
+      },
+      {
+        "sentence": "Biz çalış___.",
+        "answer": "ırız",
+        "translation_en": "We work.",
+        "translation_es": "Trabajamos."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the question particle into each gap.",
+    "items": [
+      {
+        "sentence": "Öğrenci ___?",
+        "answer": "misin",
+        "translation_en": "Are you a student?",
+        "translation_es": "¿Eres estudiante?"
+      },
+      {
+        "sentence": "Türk ___?",
+        "answer": "müsün",
+        "translation_en": "Are you Turkish?",
+        "translation_es": "¿Eres turco?"
+      },
+      {
+        "sentence": "Bu kitap senin ___?",
+        "answer": "mi",
+        "translation_en": "Is this book yours?",
+        "translation_es": "¿Es tuyo este libro?"
+      },
+      {
+        "sentence": "Bugün pazartesi ___?",
+        "answer": "mi",
+        "translation_en": "Is today Monday?",
+        "translation_es": "¿Hoy es lunes?"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag var mı into each gap.",
+    "items": [
+      {
+        "sentence": "Kitabın ___?",
+        "answer": "var mı",
+        "translation_en": "Do you have a book?",
+        "translation_es": "¿Tienes un libro?"
+      },
+      {
+        "sentence": "Param ___?",
+        "answer": "var mı",
+        "translation_en": "Do I have money?",
+        "translation_es": "¿Tengo dinero?"
+      },
+      {
+        "sentence": "Evde su ___?",
+        "answer": "var mı",
+        "translation_en": "Is there water at home?",
+        "translation_es": "¿Hay agua en casa?"
+      },
+      {
+        "sentence": "Sınavın ___?",
+        "answer": "var mı",
+        "translation_en": "Do you have an exam?",
+        "translation_es": "¿Tienes un examen?"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the locative ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ev___yim.",
+        "answer": "de",
+        "translation_en": "I am at home.",
+        "translation_es": "Estoy en casa."
+      },
+      {
+        "sentence": "Okul___yum.",
+        "answer": "da",
+        "translation_en": "I am at school.",
+        "translation_es": "Estoy en la escuela."
+      },
+      {
+        "sentence": "İş___yim.",
+        "answer": "te",
+        "translation_en": "I am at work.",
+        "translation_es": "Estoy en el trabajo."
+      },
+      {
+        "sentence": "Park___yız.",
+        "answer": "ta",
+        "translation_en": "We are in the park.",
+        "translation_es": "Estamos en el parque."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the ablative ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ev___ geliyorum.",
+        "answer": "den",
+        "translation_en": "I am coming from home.",
+        "translation_es": "Vengo de casa."
+      },
+      {
+        "sentence": "Okul___ geliyorum.",
+        "answer": "dan",
+        "translation_en": "I am coming from school.",
+        "translation_es": "Vengo de la escuela."
+      },
+      {
+        "sentence": "İş___ geliyorum.",
+        "answer": "ten",
+        "translation_en": "I am coming from work.",
+        "translation_es": "Vengo del trabajo."
+      },
+      {
+        "sentence": "Ankara'___ geliyorum.",
+        "answer": "dan",
+        "translation_en": "I am coming from Ankara.",
+        "translation_es": "Vengo de Ankara."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the dative ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ev___ gidiyorum.",
+        "answer": "e",
+        "translation_en": "I am going home.",
+        "translation_es": "Voy a casa."
+      },
+      {
+        "sentence": "Okul___ gidiyorum.",
+        "answer": "a",
+        "translation_en": "I am going to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "İş___ gidiyorum.",
+        "answer": "e",
+        "translation_en": "I am going to work.",
+        "translation_es": "Voy al trabajo."
+      },
+      {
+        "sentence": "Park___ gidiyoruz.",
+        "answer": "a",
+        "translation_en": "We are going to the park.",
+        "translation_es": "Vamos al parque."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the accusative ending into each gap.",
+    "items": [
+      {
+        "sentence": "Kitab___ okuyorum.",
+        "answer": "ı",
+        "translation_en": "I am reading the book.",
+        "translation_es": "Leo el libro."
+      },
+      {
+        "sentence": "Elma___ yiyorum.",
+        "answer": "yı",
+        "translation_en": "I am eating the apple.",
+        "translation_es": "Como la manzana."
+      },
+      {
+        "sentence": "Su___ içiyorum.",
+        "answer": "yu",
+        "translation_en": "I am drinking the water.",
+        "translation_es": "Bebo el agua."
+      },
+      {
+        "sentence": "Mektub___ yazıyorum.",
+        "answer": "u",
+        "translation_en": "I am writing the letter.",
+        "translation_es": "Escribo la carta."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the ending -la / -le into each gap.",
+    "items": [
+      {
+        "sentence": "Arkadaş___ gidiyorum.",
+        "answer": "la",
+        "translation_en": "I am going with a friend.",
+        "translation_es": "Voy con un amigo."
+      },
+      {
+        "sentence": "Annem___ yaşıyorum.",
+        "answer": "le",
+        "translation_en": "I live with my mother.",
+        "translation_es": "Vivo con mi madre."
+      },
+      {
+        "sentence": "Köpek___ oynuyorum.",
+        "answer": "le",
+        "translation_en": "I am playing with the dog.",
+        "translation_es": "Juego con el perro."
+      },
+      {
+        "sentence": "Sen___ geliyorum.",
+        "answer": "inle",
+        "translation_en": "I am coming with you.",
+        "translation_es": "Vengo contigo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct polite expression into each gap.",
+    "items": [
+      {
+        "sentence": "___ (hello)",
+        "answer": "Merhaba",
+        "translation_en": "Hello",
+        "translation_es": "Hola"
+      },
+      {
+        "sentence": "___ (thank you)",
+        "answer": "Teşekkür ederim",
+        "translation_en": "Thank you",
+        "translation_es": "Gracias"
+      },
+      {
+        "sentence": "___ (please)",
+        "answer": "Lütfen",
+        "translation_en": "Please",
+        "translation_es": "Por favor"
+      },
+      {
+        "sentence": "___ (good morning)",
+        "answer": "Günaydın",
+        "translation_en": "Good morning",
+        "translation_es": "Buenos días"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the past tense ending into each gap.",
+    "items": [
+      {
+        "sentence": "Dün çalış___.",
+        "answer": "tım",
+        "translation_en": "Yesterday I worked.",
+        "translation_es": "Ayer trabajé."
+      },
+      {
+        "sentence": "O çalış___.",
+        "answer": "tı",
+        "translation_en": "He worked.",
+        "translation_es": "Él trabajó."
+      },
+      {
+        "sentence": "Biz çalış___.",
+        "answer": "tık",
+        "translation_en": "We worked.",
+        "translation_es": "Trabajamos."
+      },
+      {
+        "sentence": "Sen çalış___.",
+        "answer": "tın",
+        "translation_en": "You worked.",
+        "translation_es": "Trabajaste."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the future ending into each gap.",
+    "items": [
+      {
+        "sentence": "Yarın çalış___.",
+        "answer": "acağım",
+        "translation_en": "Tomorrow I will work.",
+        "translation_es": "Mañana trabajaré."
+      },
+      {
+        "sentence": "O çalış___.",
+        "answer": "acak",
+        "translation_en": "He will work.",
+        "translation_es": "Él trabajará."
+      },
+      {
+        "sentence": "Biz çalış___.",
+        "answer": "acağız",
+        "translation_en": "We will work.",
+        "translation_es": "Trabajaremos."
+      },
+      {
+        "sentence": "Sen çalış___.",
+        "answer": "acaksın",
+        "translation_en": "You will work.",
+        "translation_es": "Trabajarás."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the -mış form into each gap.",
+    "items": [
+      {
+        "sentence": "O gel___.",
+        "answer": "miş",
+        "translation_en": "He has apparently come.",
+        "translation_es": "Al parecer ha venido."
+      },
+      {
+        "sentence": "Dün çalış___.",
+        "answer": "mışım",
+        "translation_en": "Apparently I worked yesterday.",
+        "translation_es": "Al parecer trabajé ayer."
+      },
+      {
+        "sentence": "Biz git___.",
+        "answer": "mişiz",
+        "translation_en": "Apparently we went.",
+        "translation_es": "Al parecer fuimos."
+      },
+      {
+        "sentence": "Sen oku___.",
+        "answer": "muşsun",
+        "translation_en": "Apparently you read.",
+        "translation_es": "Al parecer leíste."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the negative ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ben gel___yorum.",
+        "answer": "mi",
+        "translation_en": "I am not coming.",
+        "translation_es": "No vengo."
+      },
+      {
+        "sentence": "O çalış___yor.",
+        "answer": "mı",
+        "translation_en": "He does not work.",
+        "translation_es": "Él no trabaja."
+      },
+      {
+        "sentence": "Biz git___yoruz.",
+        "answer": "mi",
+        "translation_en": "We are not going.",
+        "translation_es": "No vamos."
+      },
+      {
+        "sentence": "Ben gör___yorum.",
+        "answer": "mü",
+        "translation_en": "I do not see.",
+        "translation_es": "No veo."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the ability ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ben gel___irim.",
+        "answer": "ebil",
+        "translation_en": "I can come.",
+        "translation_es": "Puedo venir."
+      },
+      {
+        "sentence": "O oku___ir.",
+        "answer": "yabil",
+        "translation_en": "He can read.",
+        "translation_es": "Él puede leer."
+      },
+      {
+        "sentence": "Biz çalış___iriz.",
+        "answer": "abil",
+        "translation_en": "We can work.",
+        "translation_es": "Podemos trabajar."
+      },
+      {
+        "sentence": "Sen yüz___sin.",
+        "answer": "ebil",
+        "translation_en": "You can swim.",
+        "translation_es": "Puedes nadar."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the necessity ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ben çalış___yım.",
+        "answer": "malı",
+        "translation_en": "I must work.",
+        "translation_es": "Debo trabajar."
+      },
+      {
+        "sentence": "Sen git___sin.",
+        "answer": "meli",
+        "translation_en": "You must go.",
+        "translation_es": "Debes ir."
+      },
+      {
+        "sentence": "O gel___.",
+        "answer": "meli",
+        "translation_en": "He must come.",
+        "translation_es": "Él debe venir."
+      },
+      {
+        "sentence": "Biz oku___yız.",
+        "answer": "malı",
+        "translation_en": "We must study.",
+        "translation_es": "Debemos estudiar."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the imperative form into each gap.",
+    "items": [
+      {
+        "sentence": "___! (come)",
+        "answer": "Gel",
+        "translation_en": "Come!",
+        "translation_es": "¡Ven!"
+      },
+      {
+        "sentence": "___! (read)",
+        "answer": "Oku",
+        "translation_en": "Read!",
+        "translation_es": "¡Lee!"
+      },
+      {
+        "sentence": "___! (go)",
+        "answer": "Git",
+        "translation_en": "Go!",
+        "translation_es": "¡Vete!"
+      },
+      {
+        "sentence": "___! (write)",
+        "answer": "Yaz",
+        "translation_en": "Write!",
+        "translation_es": "¡Escribe!"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the suffix that follows vowel harmony into each gap.",
+    "items": [
+      {
+        "sentence": "Ev___.",
+        "answer": "de",
+        "translation_en": "at home",
+        "translation_es": "en casa"
+      },
+      {
+        "sentence": "Kitab___.",
+        "answer": "ı",
+        "translation_en": "the book (object)",
+        "translation_es": "el libro"
+      },
+      {
+        "sentence": "Okul___.",
+        "answer": "a",
+        "translation_en": "to school",
+        "translation_es": "a la escuela"
+      },
+      {
+        "sentence": "Göz___.",
+        "answer": "de",
+        "translation_en": "in the eye",
+        "translation_es": "en el ojo"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the mutated consonant form into each gap.",
+    "items": [
+      {
+        "sentence": "kitap → kitab___",
+        "answer": "ı",
+        "translation_en": "the book",
+        "translation_es": "el libro"
+      },
+      {
+        "sentence": "ağaç → ağac___",
+        "answer": "ı",
+        "translation_en": "the tree",
+        "translation_es": "el árbol"
+      },
+      {
+        "sentence": "renk → reng___",
+        "answer": "i",
+        "translation_en": "the colour",
+        "translation_es": "el color"
+      },
+      {
+        "sentence": "dolap → dolab___",
+        "answer": "ı",
+        "translation_en": "the cupboard",
+        "translation_es": "el armario"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the possessive plus case ending into each gap.",
+    "items": [
+      {
+        "sentence": "Ev___ geliyorum.",
+        "answer": "ime",
+        "translation_en": "I am coming to my house.",
+        "translation_es": "Vengo a mi casa."
+      },
+      {
+        "sentence": "Ev___ çıkıyorum.",
+        "answer": "imden",
+        "translation_en": "I am leaving my house.",
+        "translation_es": "Salgo de mi casa."
+      },
+      {
+        "sentence": "Kitab___ okuyorum.",
+        "answer": "ımı",
+        "translation_en": "I am reading my book.",
+        "translation_es": "Leo mi libro."
+      },
+      {
+        "sentence": "Arkadaş___ gidiyorum.",
+        "answer": "ıma",
+        "translation_en": "I am going to my friend.",
+        "translation_es": "Voy a mi amigo."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the possessive form into each gap.",
+    "items": [
+      {
+        "sentence": "Benim bir kitab___ var.",
+        "answer": "ım",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Senin bir ev___ var.",
+        "answer": "in",
+        "translation_en": "You have a house.",
+        "translation_es": "Tienes una casa."
+      },
+      {
+        "sentence": "Onun bir araba___ var.",
+        "answer": "sı",
+        "translation_en": "He has a car.",
+        "translation_es": "Él tiene un coche."
+      },
+      {
+        "sentence": "Bizim bir okul___ var.",
+        "answer": "umuz",
+        "translation_en": "We have a school.",
+        "translation_es": "Tenemos una escuela."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag daha into each comparative gap.",
+    "items": [
+      {
+        "sentence": "Bu ev ___ büyük.",
+        "answer": "daha",
+        "translation_en": "This house is bigger.",
+        "translation_es": "Esta casa es más grande."
+      },
+      {
+        "sentence": "O benden ___ uzun.",
+        "answer": "daha",
+        "translation_en": "He is taller than me.",
+        "translation_es": "Él es más alto que yo."
+      },
+      {
+        "sentence": "Bu kitap ___ ilginç.",
+        "answer": "daha",
+        "translation_en": "This book is more interesting.",
+        "translation_es": "Este libro es más interesante."
+      },
+      {
+        "sentence": "Ben senden ___ gencim.",
+        "answer": "daha",
+        "translation_en": "I am younger than you.",
+        "translation_es": "Soy más joven que tú."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag en into each superlative gap.",
+    "items": [
+      {
+        "sentence": "Bu ___ büyük ev.",
+        "answer": "en",
+        "translation_en": "This is the biggest house.",
+        "translation_es": "Esta es la casa más grande."
+      },
+      {
+        "sentence": "O ___ iyi arkadaş.",
+        "answer": "en",
+        "translation_en": "He is the best friend.",
+        "translation_es": "Él es el mejor amigo."
+      },
+      {
+        "sentence": "Bu ___ güzel şehir.",
+        "answer": "en",
+        "translation_en": "This is the most beautiful city.",
+        "translation_es": "Esta es la ciudad más bonita."
+      },
+      {
+        "sentence": "O ___ çalışkan öğrenci.",
+        "answer": "en",
+        "translation_en": "He is the most hard-working student.",
+        "translation_es": "Él es el estudiante más trabajador."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct noun after the number into each gap.",
+    "items": [
+      {
+        "sentence": "İki ___",
+        "answer": "kitap",
+        "translation_en": "two books",
+        "translation_es": "dos libros"
+      },
+      {
+        "sentence": "Üç ___",
+        "answer": "öğrenci",
+        "translation_en": "three students",
+        "translation_es": "tres estudiantes"
+      },
+      {
+        "sentence": "Beş ___",
+        "answer": "ev",
+        "translation_en": "five houses",
+        "translation_es": "cinco casas"
+      },
+      {
+        "sentence": "On ___",
+        "answer": "yıl",
+        "translation_en": "ten years",
+        "translation_es": "diez años"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the -ki form into each gap.",
+    "items": [
+      {
+        "sentence": "Ben___ kitap",
+        "answer": "imki",
+        "translation_en": "my book (mine)",
+        "translation_es": "mi libro"
+      },
+      {
+        "sentence": "Sen___ araba",
+        "answer": "inki",
+        "translation_en": "your car (yours)",
+        "translation_es": "tu coche"
+      },
+      {
+        "sentence": "O___ ev",
+        "answer": "nunki",
+        "translation_en": "his house",
+        "translation_es": "su casa"
+      },
+      {
+        "sentence": "Biz___ okul",
+        "answer": "imki",
+        "translation_en": "our school",
+        "translation_es": "nuestra escuela"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the suffix -lı / -lı / -sız into each gap.",
+    "items": [
+      {
+        "sentence": "şeker___ çay",
+        "answer": "li",
+        "translation_en": "tea with sugar",
+        "translation_es": "té con azúcar"
+      },
+      {
+        "sentence": "tuz___ yemek",
+        "answer": "suz",
+        "translation_en": "food without salt",
+        "translation_es": "comida sin sal"
+      },
+      {
+        "sentence": "İstanbul___ arkadaş",
+        "answer": "lu",
+        "translation_en": "a friend from Istanbul",
+        "translation_es": "un amigo de Estambul"
+      },
+      {
+        "sentence": "ev___ kalmak",
+        "answer": "siz",
+        "translation_en": "to stay without a house",
+        "translation_es": "quedarse sin casa"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct postposition into each gap.",
+    "items": [
+      {
+        "sentence": "Sen___ geliyorum.",
+        "answer": "inle",
+        "translation_en": "I am coming with you.",
+        "translation_es": "Vengo contigo."
+      },
+      {
+        "sentence": "Bu sen___ bir hediye.",
+        "answer": "in için",
+        "translation_en": "This is a gift for you.",
+        "translation_es": "Este es un regalo para ti."
+      },
+      {
+        "sentence": "Arkadaş___ gidiyorum.",
+        "answer": "ımla",
+        "translation_en": "I am going with my friend.",
+        "translation_es": "Voy con mi amigo."
+      },
+      {
+        "sentence": "Sağlık___ spor yapıyorum.",
+        "answer": "için",
+        "translation_en": "I do sports for health.",
+        "translation_es": "Hago deporte por salud."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct conjunction into each gap.",
+    "items": [
+      {
+        "sentence": "Ben geldim ___ o gitti.",
+        "answer": "ama",
+        "translation_en": "I came but he left.",
+        "translation_es": "Vine pero él se fue."
+      },
+      {
+        "sentence": "Çay ___ kahve istiyorum.",
+        "answer": "ve",
+        "translation_en": "I want tea and coffee.",
+        "translation_es": "Quiero té y café."
+      },
+      {
+        "sentence": "Gelmiyorum ___ hastayım.",
+        "answer": "çünkü",
+        "translation_en": "I am not coming because I am ill.",
+        "translation_es": "No vengo porque estoy enfermo."
+      },
+      {
+        "sentence": "Ya sen ___ ben?",
+        "answer": "ya",
+        "translation_en": "Either you or me?",
+        "translation_es": "¿O tú o yo?"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the participle ending -an / -en into each gap.",
+    "items": [
+      {
+        "sentence": "gel___ adam",
+        "answer": "en",
+        "translation_en": "the man who comes",
+        "translation_es": "el hombre que viene"
+      },
+      {
+        "sentence": "oku___ öğrenci",
+        "answer": "yan",
+        "translation_en": "the student who reads",
+        "translation_es": "el estudiante que lee"
+      },
+      {
+        "sentence": "çalış___ insan",
+        "answer": "an",
+        "translation_en": "the person who works",
+        "translation_es": "la persona que trabaja"
+      },
+      {
+        "sentence": "yüz___ çocuk",
+        "answer": "en",
+        "translation_en": "the child who swims",
+        "translation_es": "el niño que nada"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag -dan beri into each gap.",
+    "items": [
+      {
+        "sentence": "İki yıl___ burada çalışıyorum.",
+        "answer": "dan beri",
+        "translation_en": "I have been working here for two years.",
+        "translation_es": "Trabajo aquí desde hace dos años."
+      },
+      {
+        "sentence": "Sabah___ bekliyorum.",
+        "answer": "tan beri",
+        "translation_en": "I have been waiting since morning.",
+        "translation_es": "Espero desde la mañana."
+      },
+      {
+        "sentence": "Dün___ hastayım.",
+        "answer": "den beri",
+        "translation_en": "I have been ill since yesterday.",
+        "translation_es": "Estoy enfermo desde ayer."
+      },
+      {
+        "sentence": "Çocukluğum___ onu tanıyorum.",
+        "answer": "dan beri",
+        "translation_en": "I have known him since childhood.",
+        "translation_es": "Lo conozco desde la infancia."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the ending -dığı için into each gap.",
+    "items": [
+      {
+        "sentence": "Hasta olduğu ___ gelmedi.",
+        "answer": "için",
+        "translation_en": "He did not come because he was ill.",
+        "translation_es": "No vino porque estaba enfermo."
+      },
+      {
+        "sentence": "Yağmur yağdığı ___ kaldık.",
+        "answer": "için",
+        "translation_en": "We stayed because it rained.",
+        "translation_es": "Nos quedamos porque llovió."
+      },
+      {
+        "sentence": "İşim olduğu ___ gelemedim.",
+        "answer": "için",
+        "translation_en": "I could not come because I had work.",
+        "translation_es": "No pude venir porque tenía trabajo."
+      },
+      {
+        "sentence": "Yorgun olduğu ___ gitti.",
+        "answer": "için",
+        "translation_en": "He left because he was tired.",
+        "translation_es": "Se fue porque estaba cansado."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the ending -erek / -arak into each gap.",
+    "items": [
+      {
+        "sentence": "Koş___ geldi.",
+        "answer": "arak",
+        "translation_en": "He came running.",
+        "translation_es": "Vino corriendo."
+      },
+      {
+        "sentence": "Gül___ konuştu.",
+        "answer": "erek",
+        "translation_en": "He spoke smiling.",
+        "translation_es": "Habló sonriendo."
+      },
+      {
+        "sentence": "Yürü___ gidiyoruz.",
+        "answer": "yerek",
+        "translation_en": "We are going walking.",
+        "translation_es": "Vamos caminando."
+      },
+      {
+        "sentence": "Bak___ öğreniyoruz.",
+        "answer": "arak",
+        "translation_en": "We learn by looking.",
+        "translation_es": "Aprendemos mirando."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the ending -ince into each gap.",
+    "items": [
+      {
+        "sentence": "Eve gel___ aradım.",
+        "answer": "ince",
+        "translation_en": "When I got home, I called.",
+        "translation_es": "Cuando llegué a casa, llamé."
+      },
+      {
+        "sentence": "Okulu bitir___ iş buldu.",
+        "answer": "ince",
+        "translation_en": "When he finished school, he found a job.",
+        "translation_es": "Cuando terminó la escuela, encontró trabajo."
+      },
+      {
+        "sentence": "Onu gör___ selam ver.",
+        "answer": "ünce",
+        "translation_en": "When you see him, greet him.",
+        "translation_es": "Cuando lo veas, salúdalo."
+      },
+      {
+        "sentence": "Sen gel___ gitti.",
+        "answer": "ince",
+        "translation_en": "When you came, he left.",
+        "translation_es": "Cuando viniste, él se fue."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the ending -ip into each gap.",
+    "items": [
+      {
+        "sentence": "Gel___ gitti.",
+        "answer": "ip",
+        "translation_en": "He came and left.",
+        "translation_es": "Vino y se fue."
+      },
+      {
+        "sentence": "Yiy___ içtik.",
+        "answer": "ip",
+        "translation_en": "We ate and drank.",
+        "translation_es": "Comimos y bebimos."
+      },
+      {
+        "sentence": "Oku___ yazdı.",
+        "answer": "yup",
+        "translation_en": "He read and wrote.",
+        "translation_es": "Leyó y escribió."
+      },
+      {
+        "sentence": "Bak___ gördü.",
+        "answer": "ıp",
+        "translation_en": "He looked and saw.",
+        "translation_es": "Miró y vio."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the ending -ken into each gap.",
+    "items": [
+      {
+        "sentence": "Ben çalış___ müzik dinliyorum.",
+        "answer": "ırken",
+        "translation_en": "While I work, I listen to music.",
+        "translation_es": "Mientras trabajo, escucho música."
+      },
+      {
+        "sentence": "O gel___ ben gidiyordum.",
+        "answer": "irken",
+        "translation_en": "While he was coming, I was leaving.",
+        "translation_es": "Mientras él venía, yo me iba."
+      },
+      {
+        "sentence": "Sen oku___ ben yazıyordum.",
+        "answer": "rken",
+        "translation_en": "While you were reading, I was writing.",
+        "translation_es": "Mientras tú leías, yo escribía."
+      },
+      {
+        "sentence": "Gül___ konuştu.",
+        "answer": "erken",
+        "translation_en": "He spoke while smiling.",
+        "translation_es": "Habló mientras sonreía."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag -mak / -mek için into each gap.",
+    "items": [
+      {
+        "sentence": "Öğren___ çalışıyorum.",
+        "answer": "mek için",
+        "translation_en": "I study in order to learn.",
+        "translation_es": "Estudio para aprender."
+      },
+      {
+        "sentence": "Seni gör___ geldim.",
+        "answer": "mek için",
+        "translation_en": "I came to see you.",
+        "translation_es": "Vine a verte."
+      },
+      {
+        "sentence": "Para kazan___ çalışıyor.",
+        "answer": "mak için",
+        "translation_en": "He works to earn money.",
+        "translation_es": "Trabaja para ganar dinero."
+      },
+      {
+        "sentence": "Eve git___ acele ediyorum.",
+        "answer": "mek için",
+        "translation_en": "I am hurrying to go home.",
+        "translation_es": "Me apresuro para ir a casa."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag -dan sonra or -dan önce into each gap.",
+    "items": [
+      {
+        "sentence": "Yemek___ sonra çalıştım.",
+        "answer": "ten",
+        "translation_en": "After the meal I worked.",
+        "translation_es": "Después de comer trabajé."
+      },
+      {
+        "sentence": "İş___ sonra eve gittim.",
+        "answer": "ten",
+        "translation_en": "After work I went home.",
+        "translation_es": "Después del trabajo fui a casa."
+      },
+      {
+        "sentence": "Git___ önce aradım.",
+        "answer": "meden",
+        "translation_en": "Before going I called.",
+        "translation_es": "Antes de ir llamé."
+      },
+      {
+        "sentence": "Yemek___ önce ellerini yıka.",
+        "answer": "ten",
+        "translation_en": "Before the meal wash your hands.",
+        "translation_es": "Antes de comer lávate las manos."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag rağmen into each gap.",
+    "items": [
+      {
+        "sentence": "Yağmura ___, gittik.",
+        "answer": "rağmen",
+        "translation_en": "Despite the rain, we went.",
+        "translation_es": "A pesar de la lluvia, fuimos."
+      },
+      {
+        "sentence": "Yorgun olmasına ___, çalıştı.",
+        "answer": "rağmen",
+        "translation_en": "Despite being tired, he worked.",
+        "translation_es": "A pesar de estar cansado, trabajó."
+      },
+      {
+        "sentence": "Zor olmasına ___, başardık.",
+        "answer": "rağmen",
+        "translation_en": "Despite it being hard, we succeeded.",
+        "translation_es": "A pesar de ser difícil, lo logramos."
+      },
+      {
+        "sentence": "Hastalığa ___, geldi.",
+        "answer": "rağmen",
+        "translation_en": "Despite the illness, he came.",
+        "translation_es": "A pesar de la enfermedad, vino."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the reported-speech verb into each gap.",
+    "items": [
+      {
+        "sentence": "O, hasta olduğunu ___.",
+        "answer": "söyledi",
+        "translation_en": "He said that he was ill.",
+        "translation_es": "Dijo que estaba enfermo."
+      },
+      {
+        "sentence": "Bana nerede yaşadığımı ___.",
+        "answer": "sordu",
+        "translation_en": "He asked me where I live.",
+        "translation_es": "Me preguntó dónde vivo."
+      },
+      {
+        "sentence": "Yarın geleceğini ___.",
+        "answer": "söyledi",
+        "translation_en": "He said that he would come tomorrow.",
+        "translation_es": "Dijo que vendría mañana."
+      },
+      {
+        "sentence": "Bana yardım etmemi ___.",
+        "answer": "istedi",
+        "translation_en": "He asked me to help him.",
+        "translation_es": "Me pidió que le ayudara."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the passive form into each gap.",
+    "items": [
+      {
+        "sentence": "Ev 1990'da ___.",
+        "answer": "inşa edildi",
+        "translation_en": "The house was built in 1990.",
+        "translation_es": "La casa fue construida en 1990."
+      },
+      {
+        "sentence": "Kitap yazar tarafından ___.",
+        "answer": "yazıldı",
+        "translation_en": "The book was written by the author.",
+        "translation_es": "El libro fue escrito por el autor."
+      },
+      {
+        "sentence": "Bu problem ___.",
+        "answer": "çözüldü",
+        "translation_en": "This problem was solved.",
+        "translation_es": "Este problema fue resuelto."
+      },
+      {
+        "sentence": "Toplantı iptal ___.",
+        "answer": "edildi",
+        "translation_en": "The meeting was cancelled.",
+        "translation_es": "La reunión fue cancelada."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the causative form into each gap.",
+    "items": [
+      {
+        "sentence": "Saçımı ___.",
+        "answer": "kestirdim",
+        "translation_en": "I had my hair cut.",
+        "translation_es": "Me corté el pelo."
+      },
+      {
+        "sentence": "Evi ___.",
+        "answer": "boyattım",
+        "translation_en": "I had the house painted.",
+        "translation_es": "Hice pintar la casa."
+      },
+      {
+        "sentence": "Arabayı ___.",
+        "answer": "tamir ettirdim",
+        "translation_en": "I had the car repaired.",
+        "translation_es": "Hice reparar el coche."
+      },
+      {
+        "sentence": "Oğluma kitap ___.",
+        "answer": "okuttum",
+        "translation_en": "I had my son read a book.",
+        "translation_es": "Hice que mi hijo leyera un libro."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the reflexive form into each gap.",
+    "items": [
+      {
+        "sentence": "Kendimi ___.",
+        "answer": "yıkadım",
+        "translation_en": "I washed myself.",
+        "translation_es": "Me lavé."
+      },
+      {
+        "sentence": "Kendi evimi ___ .",
+        "answer": "temizledim",
+        "translation_en": "I cleaned my own house.",
+        "translation_es": "Limpié mi propia casa."
+      },
+      {
+        "sentence": "Kendisi ___.",
+        "answer": "geldi",
+        "translation_en": "He himself came.",
+        "translation_es": "Él mismo vino."
+      },
+      {
+        "sentence": "Kendi başıma ___.",
+        "answer": "çalıştım",
+        "translation_en": "I worked on my own.",
+        "translation_es": "Trabajé por mi cuenta."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the reciprocal form into each gap.",
+    "items": [
+      {
+        "sentence": "Onlar her gün ___.",
+        "answer": "görüşüyorlar",
+        "translation_en": "They meet every day.",
+        "translation_es": "Se ven cada día."
+      },
+      {
+        "sentence": "Biz ___.",
+        "answer": "konuşuyoruz",
+        "translation_en": "We are talking to each other.",
+        "translation_es": "Estamos hablando el uno con el otro."
+      },
+      {
+        "sentence": "Onlar mektup ___.",
+        "answer": "yazışıyorlar",
+        "translation_en": "They write to each other.",
+        "translation_es": "Se escriben cartas."
+      },
+      {
+        "sentence": "Biz ___.",
+        "answer": "bakıştık",
+        "translation_en": "We looked at each other.",
+        "translation_es": "Nos miramos."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the ending -madan / -meden into each gap.",
+    "items": [
+      {
+        "sentence": "Yemek ___ konuşmayın.",
+        "answer": "yemeden",
+        "translation_en": "Do not talk without eating.",
+        "translation_es": "No habléis sin comer."
+      },
+      {
+        "sentence": "Bak___ gitti.",
+        "answer": "madan",
+        "translation_en": "He left without looking.",
+        "translation_es": "Se fue sin mirar."
+      },
+      {
+        "sentence": "Beni gör___ gitti.",
+        "answer": "meden",
+        "translation_en": "He left without seeing me.",
+        "translation_es": "Se fue sin verme."
+      },
+      {
+        "sentence": "Su iç___ konuştu.",
+        "answer": "meden",
+        "translation_en": "He spoke without drinking water.",
+        "translation_es": "Habló sin beber agua."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the permission form into each gap.",
+    "items": [
+      {
+        "sentence": "Gel___?",
+        "answer": "ebilir miyim",
+        "translation_en": "May I come?",
+        "translation_es": "¿Puedo venir?"
+      },
+      {
+        "sentence": "Bir soru sor___?",
+        "answer": "abilir miyim",
+        "translation_en": "May I ask a question?",
+        "translation_es": "¿Puedo hacer una pregunta?"
+      },
+      {
+        "sentence": "Gide___?",
+        "answer": "bilir miyim",
+        "translation_en": "May I go?",
+        "translation_es": "¿Puedo ir?"
+      },
+      {
+        "sentence": "Konuş___?",
+        "answer": "abilir miyim",
+        "translation_en": "May I speak?",
+        "translation_es": "¿Puedo hablar?"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the ending -dığında into each gap.",
+    "items": [
+      {
+        "sentence": "Eve gel___ beni ara.",
+        "answer": "diğinde",
+        "translation_en": "When you get home, call me.",
+        "translation_es": "Cuando llegues a casa, llámame."
+      },
+      {
+        "sentence": "Okulu bitir___ iş buldu.",
+        "answer": "diğinde",
+        "translation_en": "When he finished school, he found a job.",
+        "translation_es": "Cuando terminó la escuela, encontró trabajo."
+      },
+      {
+        "sentence": "Onu gör___ selam ver.",
+        "answer": "düğünde",
+        "translation_en": "When you see him, greet him.",
+        "translation_es": "Cuando lo veas, salúdalo."
+      },
+      {
+        "sentence": "Ben gel___ sen gittin.",
+        "answer": "diğimde",
+        "translation_en": "When I came, you had left.",
+        "translation_es": "Cuando llegué, te habías ido."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag -dığı halde into each gap.",
+    "items": [
+      {
+        "sentence": "Hasta olduğu ___, geldi.",
+        "answer": "halde",
+        "translation_en": "Although he was ill, he came.",
+        "translation_es": "Aunque estaba enfermo, vino."
+      },
+      {
+        "sentence": "Yorgun olduğu ___, çalıştı.",
+        "answer": "halde",
+        "translation_en": "Although he was tired, he worked.",
+        "translation_es": "Aunque estaba cansado, trabajó."
+      },
+      {
+        "sentence": "Zor olduğu ___, başardı.",
+        "answer": "halde",
+        "translation_en": "Although it was hard, he succeeded.",
+        "translation_es": "Aunque era difícil, lo logró."
+      },
+      {
+        "sentence": "Genç olduğu ___, çok bilgili.",
+        "answer": "halde",
+        "translation_en": "Although young, he is very knowledgeable.",
+        "translation_es": "Aunque es joven, es muy culto."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag -masına rağmen into each gap.",
+    "items": [
+      {
+        "sentence": "Hasta olmasına ___, geldi.",
+        "answer": "rağmen",
+        "translation_en": "Despite being ill, he came.",
+        "translation_es": "A pesar de estar enfermo, vino."
+      },
+      {
+        "sentence": "Yorgun olmasına ___, çalıştı.",
+        "answer": "rağmen",
+        "translation_en": "Despite being tired, he worked.",
+        "translation_es": "A pesar de estar cansado, trabajó."
+      },
+      {
+        "sentence": "Zor olmasına ___, başardık.",
+        "answer": "rağmen",
+        "translation_en": "Despite it being hard, we succeeded.",
+        "translation_es": "A pesar de ser difícil, lo logramos."
+      },
+      {
+        "sentence": "Yağmura ___, çıktık.",
+        "answer": "rağmen",
+        "translation_en": "Despite the rain, we went out.",
+        "translation_es": "A pesar de la lluvia, salimos."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the unreal conditional into each gap.",
+    "items": [
+      {
+        "sentence": "Zengin ol___ seyahat ederdim.",
+        "answer": "saydım",
+        "translation_en": "If I were rich, I would travel.",
+        "translation_es": "Si fuera rico, viajaría."
+      },
+      {
+        "sentence": "Vakti ol___, o da gelirdi.",
+        "answer": "saydı",
+        "translation_en": "If he had time, he would come too.",
+        "translation_es": "Si tuviera tiempo, vendría también."
+      },
+      {
+        "sentence": "Hava güzel olsaydı dışarı ___.",
+        "answer": "çıkardık",
+        "translation_en": "If the weather were nice, we would go out.",
+        "translation_es": "Si hiciera buen tiempo, saldríamos."
+      },
+      {
+        "sentence": "Sen ben olsan ne ___?",
+        "answer": "yapardın",
+        "translation_en": "If you were me, what would you do?",
+        "translation_es": "Si fueras yo, ¿qué harías?"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the past unreal conditional into each gap.",
+    "items": [
+      {
+        "sentence": "Erken gelmiş olsaydı, onu ___.",
+        "answer": "görürdük",
+        "translation_en": "If he had come early, we would have seen him.",
+        "translation_es": "Si hubiera venido temprano, lo habríamos visto."
+      },
+      {
+        "sentence": "Bilmiş olsaydım, ___.",
+        "answer": "gelirdim",
+        "translation_en": "If I had known, I would have come.",
+        "translation_es": "Si lo hubiera sabido, habría venido."
+      },
+      {
+        "sentence": "Çalışmış olsaydı, ___.",
+        "answer": "başarırdı",
+        "translation_en": "If he had worked, he would have succeeded.",
+        "translation_es": "Si hubiera trabajado, habría tenido éxito."
+      },
+      {
+        "sentence": "Söylemiş olsaydın, ___.",
+        "answer": "yardım ederdim",
+        "translation_en": "If you had said, I would have helped.",
+        "translation_es": "Si lo hubieras dicho, habría ayudado."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag -ması gerekiyor into each gap.",
+    "items": [
+      {
+        "sentence": "Gitmem ___.",
+        "answer": "gerekiyor",
+        "translation_en": "I need to go.",
+        "translation_es": "Necesito ir."
+      },
+      {
+        "sentence": "Çalışması ___.",
+        "answer": "gerekiyor",
+        "translation_en": "He needs to work.",
+        "translation_es": "Él necesita trabajar."
+      },
+      {
+        "sentence": "Beklememiz ___.",
+        "answer": "gerekiyor",
+        "translation_en": "We need to wait.",
+        "translation_es": "Necesitamos esperar."
+      },
+      {
+        "sentence": "Söylemesi ___.",
+        "answer": "gerekiyor",
+        "translation_en": "He needs to say it.",
+        "translation_es": "Él necesita decirlo."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag üzere into each gap.",
+    "items": [
+      {
+        "sentence": "Toplantı başlamak ___, herkes hazır.",
+        "answer": "üzere",
+        "translation_en": "Everyone is ready for the meeting to start.",
+        "translation_es": "Todos están listos para que empiece la reunión."
+      },
+      {
+        "sentence": "Gitmek ___ hazırlanıyor.",
+        "answer": "üzere",
+        "translation_en": "He is preparing to go.",
+        "translation_es": "Se está preparando para ir."
+      },
+      {
+        "sentence": "Kitabı bitirmek ___, çalışıyor.",
+        "answer": "üzere",
+        "translation_en": "He is working to finish the book.",
+        "translation_es": "Está trabajando para terminar el libro."
+      },
+      {
+        "sentence": "Yola çıkmak ___, hazırdık.",
+        "answer": "üzere",
+        "translation_en": "We were ready to set off.",
+        "translation_es": "Estábamos listos para salir."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the ending -dıkça into each gap.",
+    "items": [
+      {
+        "sentence": "Çalış___ öğreniyorum.",
+        "answer": "tıkça",
+        "translation_en": "The more I work, the more I learn.",
+        "translation_es": "Cuanto más trabajo, más aprendo."
+      },
+      {
+        "sentence": "Okuduk___ daha çok seviyorum.",
+        "answer": "ça",
+        "translation_en": "The more I read, the more I love it.",
+        "translation_es": "Cuanto más leo, más lo quiero."
+      },
+      {
+        "sentence": "Yaşlandık___ bilgileniyor.",
+        "answer": "ça",
+        "translation_en": "As he ages, he gains knowledge.",
+        "translation_es": "A medida que envejece, aprende más."
+      },
+      {
+        "sentence": "İlerledik___ yorulduk.",
+        "answer": "çe",
+        "translation_en": "As we advanced, we got tired.",
+        "translation_es": "A medida que avanzábamos, nos cansábamos."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag -diği sürece into each gap.",
+    "items": [
+      {
+        "sentence": "Çalıştığı ___ başarılı olur.",
+        "answer": "sürece",
+        "translation_en": "As long as he works, he will succeed.",
+        "translation_es": "Siempre que trabaje, tendrá éxito."
+      },
+      {
+        "sentence": "Yardım ettiği ___ mutluyum.",
+        "answer": "sürece",
+        "translation_en": "As long as he helps, I am happy.",
+        "translation_es": "Siempre que ayude, soy feliz."
+      },
+      {
+        "sentence": "Hava güzel olduğu ___ gideriz.",
+        "answer": "sürece",
+        "translation_en": "As long as the weather is nice, we go.",
+        "translation_es": "Siempre que haga buen tiempo, vamos."
+      },
+      {
+        "sentence": "Sen yanımda olduğun ___ korkmuyorum.",
+        "answer": "sürece",
+        "translation_en": "As long as you are with me, I am not afraid.",
+        "translation_es": "Siempre que estés conmigo, no tengo miedo."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag -mekle birlikte into each gap.",
+    "items": [
+      {
+        "sentence": "Zor olmakla ___, başardık.",
+        "answer": "birlikte",
+        "translation_en": "Although it is hard, we succeeded.",
+        "translation_es": "Aunque es difícil, lo logramos."
+      },
+      {
+        "sentence": "Yorgun olmakla ___, çalıştı.",
+        "answer": "birlikte",
+        "translation_en": "Although he was tired, he worked.",
+        "translation_es": "Aunque estaba cansado, trabajó."
+      },
+      {
+        "sentence": "Genç olmakla ___, bilgili.",
+        "answer": "birlikte",
+        "translation_en": "Although he is young, he is knowledgeable.",
+        "translation_es": "Aunque es joven, es culto."
+      },
+      {
+        "sentence": "Pahalı olmakla ___, iyi bir ürün.",
+        "answer": "birlikte",
+        "translation_en": "Although expensive, it is a good product.",
+        "translation_es": "Aunque es caro, es un buen producto."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag -diği gibi into each gap.",
+    "items": [
+      {
+        "sentence": "Dediği ___, geldi.",
+        "answer": "gibi",
+        "translation_en": "He came as he said.",
+        "translation_es": "Vino como dijo."
+      },
+      {
+        "sentence": "Göründüğü ___, kolay değil.",
+        "answer": "gibi",
+        "translation_en": "It is not as easy as it seems.",
+        "translation_es": "No es tan fácil como parece."
+      },
+      {
+        "sentence": "Düşündüğüm ___ olmadı.",
+        "answer": "gibi",
+        "translation_en": "It did not turn out as I thought.",
+        "translation_es": "No salió como pensaba."
+      },
+      {
+        "sentence": "Bildiğim ___, iyi bir insan.",
+        "answer": "gibi",
+        "translation_en": "He is a good person as far as I know.",
+        "translation_es": "Es una buena persona por lo que sé."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag -mesine karşın into each gap.",
+    "items": [
+      {
+        "sentence": "Hasta olmasına ___, geldi.",
+        "answer": "karşın",
+        "translation_en": "Despite being ill, he came.",
+        "translation_es": "A pesar de estar enfermo, vino."
+      },
+      {
+        "sentence": "Yağmura ___, çıktık.",
+        "answer": "karşın",
+        "translation_en": "Despite the rain, we went out.",
+        "translation_es": "A pesar de la lluvia, salimos."
+      },
+      {
+        "sentence": "Yorgun olmasına ___, çalıştı.",
+        "answer": "karşın",
+        "translation_en": "Despite being tired, he worked.",
+        "translation_es": "A pesar de estar cansado, trabajó."
+      },
+      {
+        "sentence": "Zor olmasına ___, başardı.",
+        "answer": "karşın",
+        "translation_en": "Despite it being hard, he succeeded.",
+        "translation_es": "A pesar de ser difícil, lo logró."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag -eceği yerde into each gap.",
+    "items": [
+      {
+        "sentence": "Çalışacağı ___, uyudu.",
+        "answer": "yerde",
+        "translation_en": "Instead of working, he slept.",
+        "translation_es": "En vez de trabajar, durmió."
+      },
+      {
+        "sentence": "Gideceği ___, kaldı.",
+        "answer": "yerde",
+        "translation_en": "Instead of going, he stayed.",
+        "translation_es": "En vez de ir, se quedó."
+      },
+      {
+        "sentence": "Yardım edeceği ___, gitti.",
+        "answer": "yerde",
+        "translation_en": "Instead of helping, he left.",
+        "translation_es": "En vez de ayudar, se fue."
+      },
+      {
+        "sentence": "Okuyacağı ___, oyun oynadı.",
+        "answer": "yerde",
+        "translation_en": "Instead of reading, he played.",
+        "translation_es": "En vez de leer, jugó."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag şöyle dursun into each gap.",
+    "items": [
+      {
+        "sentence": "Yardım etmek ___, kendisi de zor durumda.",
+        "answer": "şöyle dursun",
+        "translation_en": "Let alone helping, he himself is in trouble.",
+        "translation_es": "Que ayude ni hablar, él mismo está en apuros."
+      },
+      {
+        "sentence": "Okumak ___, yazamıyor bile.",
+        "answer": "şöyle dursun",
+        "translation_en": "Let alone read, he cannot even write.",
+        "translation_es": "Que lea ni hablar, ni siquiera puede escribir."
+      },
+      {
+        "sentence": "Koşmak ___, yürüyemiyor.",
+        "answer": "şöyle dursun",
+        "translation_en": "Let alone run, he cannot walk.",
+        "translation_es": "Que corra ni hablar, no puede caminar."
+      },
+      {
+        "sentence": "Fransızca ___, Türkçe bile bilmiyor.",
+        "answer": "şöyle dursun",
+        "translation_en": "Let alone French, he does not even know Turkish.",
+        "translation_es": "Que francés ni hablar, ni siquiera sabe turco."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag başka into each gap.",
+    "items": [
+      {
+        "sentence": "Beklemekten ___, yapacak bir şey yok.",
+        "answer": "başka",
+        "translation_en": "There is nothing to do but wait.",
+        "translation_es": "No hay nada que hacer más que esperar."
+      },
+      {
+        "sentence": "Çalışmaktan ___, çarem yok.",
+        "answer": "başka",
+        "translation_en": "I have no way but to work.",
+        "translation_es": "No tengo otra salida que trabajar."
+      },
+      {
+        "sentence": "Denemekten ___, seçenek yok.",
+        "answer": "başka",
+        "translation_en": "There is no option but to try.",
+        "translation_es": "No hay opción más que intentarlo."
+      },
+      {
+        "sentence": "Gitmekten ___, yol yok.",
+        "answer": "başka",
+        "translation_en": "There is no way but to go.",
+        "translation_es": "No hay más camino que ir."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag değer into each gap.",
+    "items": [
+      {
+        "sentence": "Bu kitap okunmaya ___.",
+        "answer": "değer",
+        "translation_en": "This book is worth reading.",
+        "translation_es": "Este libro vale la pena leer."
+      },
+      {
+        "sentence": "Bu film görülmeye ___.",
+        "answer": "değer",
+        "translation_en": "This film is worth watching.",
+        "translation_es": "Esta película vale la pena ver."
+      },
+      {
+        "sentence": "Bu yer ziyaret edilmeye ___.",
+        "answer": "değer",
+        "translation_en": "This place is worth visiting.",
+        "translation_es": "Este lugar vale la pena visitar."
+      },
+      {
+        "sentence": "Bu çaba takdir edilmeye ___.",
+        "answer": "değer",
+        "translation_en": "This effort is worth appreciating.",
+        "translation_es": "Este esfuerzo vale la pena apreciar."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag yana into each gap.",
+    "items": [
+      {
+        "sentence": "Fiyatı bir ___, ürün çok iyi.",
+        "answer": "yana",
+        "translation_en": "Apart from the price, the product is very good.",
+        "translation_es": "Aparte del precio, el producto es muy bueno."
+      },
+      {
+        "sentence": "Hatası bir ___, iyi bir insan.",
+        "answer": "yana",
+        "translation_en": "Apart from his mistake, he is a good person.",
+        "translation_es": "Aparte de su error, es buena persona."
+      },
+      {
+        "sentence": "Yorgunluğu bir ___, işini yaptı.",
+        "answer": "yana",
+        "translation_en": "Apart from his tiredness, he did his job.",
+        "translation_es": "Aparte del cansancio, hizo su trabajo."
+      },
+      {
+        "sentence": "Pahalı olması bir ___, kaliteli.",
+        "answer": "yana",
+        "translation_en": "Apart from being expensive, it is good quality.",
+        "translation_es": "Aparte de ser caro, es de buena calidad."
+      }
+    ]
+  }
+]

@@ -144,5 +144,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "tr",
+    "name": "Turkish",
+    "flag": "TR",
+    "speech": "tr-TR",
+    "termLabel": "Turkish",
+    "termField": "turkish",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

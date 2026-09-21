@@ -1,0 +1,2440 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Letters and sounds",
+    "description": "Turkish is written as it sounds; these letters differ from English.",
+    "columns": [
+      "Letter",
+      "Sound",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ı",
+        "undotted ı",
+        "a closed 'uh'",
+        "una 'u' cerrada"
+      ],
+      [
+        "i",
+        "i",
+        "as in 'bit'",
+        "como la 'i' española"
+      ],
+      [
+        "ğ",
+        "soft g",
+        "lengthens the vowel",
+        "alarga la vocal"
+      ],
+      [
+        "ş",
+        "sh",
+        "ship",
+        "sh"
+      ],
+      [
+        "ç",
+        "ch",
+        "chair",
+        "ch"
+      ],
+      [
+        "ö",
+        "ö",
+        "like German ö",
+        "como la 'eu' francesa"
+      ],
+      [
+        "ü",
+        "ü",
+        "like German ü",
+        "como la 'u' francesa"
+      ],
+      [
+        "c",
+        "j",
+        "jam",
+        "como la 'y' inglesa"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Turkish has one word for he, she and it.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sg.",
+        "ben",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sg.",
+        "sen",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sg.",
+        "o",
+        "he / she / it",
+        "él / ella"
+      ],
+      [
+        "1st pl.",
+        "biz",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd pl.",
+        "siz",
+        "you (pl. / formal)",
+        "vosotros / usted"
+      ],
+      [
+        "3rd pl.",
+        "onlar",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Vowel harmony",
+    "description": "Suffixes change their vowel to match the last vowel of the word.",
+    "columns": [
+      "Rule",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "a, ı, o, u → a / ı",
+        "kitap-lar",
+        "books",
+        "libros"
+      ],
+      [
+        "e, i, ö, ü → e / i",
+        "ev-ler",
+        "houses",
+        "casas"
+      ],
+      [
+        "back vowel",
+        "okul-da",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "front vowel",
+        "ev-de",
+        "at home",
+        "en casa"
+      ],
+      [
+        "front rounded",
+        "göz-ler",
+        "eyes",
+        "ojos"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Plural -lar / -ler",
+    "description": "The plural suffix is added after the noun stem.",
+    "columns": [
+      "Singular",
+      "Plural",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "kitap",
+        "kitaplar",
+        "book / books",
+        "libro / libros"
+      ],
+      [
+        "ev",
+        "evler",
+        "house / houses",
+        "casa / casas"
+      ],
+      [
+        "öğrenci",
+        "öğrenciler",
+        "student / students",
+        "estudiante / estudiantes"
+      ],
+      [
+        "göz",
+        "gözler",
+        "eye / eyes",
+        "ojo / ojos"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "'to be' as a suffix",
+    "description": "There is no separate verb 'to be'; a suffix attaches to the word.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "öğrenciyim",
+        "I am a student",
+        "soy estudiante"
+      ],
+      [
+        "sen",
+        "öğrencisin",
+        "you are a student",
+        "eres estudiante"
+      ],
+      [
+        "o",
+        "öğrencidir",
+        "he is a student",
+        "él es estudiante"
+      ],
+      [
+        "biz",
+        "öğrenciyiz",
+        "we are students",
+        "somos estudiantes"
+      ],
+      [
+        "siz",
+        "öğrencisiniz",
+        "you are students",
+        "sois estudiantes"
+      ],
+      [
+        "onlar",
+        "öğrencidirler",
+        "they are students",
+        "son estudiantes"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Negation with değil",
+    "description": "değil follows the word it negates.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am not",
+        "Ben öğrenci değilim.",
+        "I am not a student.",
+        "No soy estudiante."
+      ],
+      [
+        "he is not",
+        "O doktor değil.",
+        "He is not a doctor.",
+        "Él no es médico."
+      ],
+      [
+        "we are not",
+        "Biz hazır değiliz.",
+        "We are not ready.",
+        "No estamos listos."
+      ],
+      [
+        "not true",
+        "Bu doğru değil.",
+        "This is not true.",
+        "Esto no es verdad."
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "var and yok",
+    "description": "var means 'there is' or 'I have'; yok is its negative.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "there is",
+        "Bir kitabım var.",
+        "I have a book.",
+        "Tengo un libro."
+      ],
+      [
+        "there is not",
+        "Param yok.",
+        "I have no money.",
+        "No tengo dinero."
+      ],
+      [
+        "there is",
+        "Evde su var.",
+        "There is water at home.",
+        "Hay agua en casa."
+      ],
+      [
+        "there is not",
+        "Zamanım yok.",
+        "I have no time.",
+        "No tengo tiempo."
+      ],
+      [
+        "question",
+        "Kitabın var mı?",
+        "Do you have a book?",
+        "¿Tienes un libro?"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "The question particle mı / mi",
+    "description": "The particle follows the word and vowel-harmonises.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "after e / i",
+        "Öğrenci misin?",
+        "Are you a student?",
+        "¿Eres estudiante?"
+      ],
+      [
+        "after ı",
+        "Kitap mı?",
+        "Is it a book?",
+        "¿Es un libro?"
+      ],
+      [
+        "after ö / ü",
+        "Türk müsün?",
+        "Are you Turkish?",
+        "¿Eres turco?"
+      ],
+      [
+        "answer",
+        "Evet / Hayır",
+        "Yes / No",
+        "Sí / No"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Question words",
+    "description": "The question word normally comes first.",
+    "columns": [
+      "Word",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who",
+        "kim",
+        "who",
+        "quién"
+      ],
+      [
+        "what",
+        "ne",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "nerede",
+        "where",
+        "dónde"
+      ],
+      [
+        "where to",
+        "nereye",
+        "where to",
+        "a dónde"
+      ],
+      [
+        "where from",
+        "nereden",
+        "where from",
+        "de dónde"
+      ],
+      [
+        "when",
+        "ne zaman",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "neden",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "nasıl",
+        "how",
+        "cómo"
+      ],
+      [
+        "how much",
+        "ne kadar",
+        "how much",
+        "cuánto"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "The numbers are regular and invariable.",
+    "columns": [
+      "Number",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "0",
+        "sıfır",
+        "zero",
+        "cero"
+      ],
+      [
+        "1",
+        "bir",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "iki",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "üç",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "dört",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "beş",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "altı",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "yedi",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "sekiz",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "dokuz",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "on",
+        "ten",
+        "diez"
+      ],
+      [
+        "11",
+        "on bir",
+        "eleven",
+        "once"
+      ],
+      [
+        "20",
+        "yirmi",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Day names are not capitalised in Turkish.",
+    "columns": [
+      "Day",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "pazartesi",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "salı",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "çarşamba",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "perşembe",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "cuma",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "cumartesi",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "pazar",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Possessive suffixes",
+    "description": "The ending marks the owner of the noun.",
+    "columns": [
+      "Owner",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "evim",
+        "my house",
+        "mi casa"
+      ],
+      [
+        "your",
+        "evin",
+        "your house",
+        "tu casa"
+      ],
+      [
+        "his / her",
+        "evi",
+        "his house",
+        "su casa"
+      ],
+      [
+        "our",
+        "evimiz",
+        "our house",
+        "nuestra casa"
+      ],
+      [
+        "your (pl.)",
+        "eviniz",
+        "your house",
+        "vuestra casa"
+      ],
+      [
+        "their",
+        "evleri",
+        "their house",
+        "su casa (de ellos)"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Locative -da / -de",
+    "description": "The locative answers 'where?' and harmonises.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "at home",
+        "evde",
+        "at home",
+        "en casa"
+      ],
+      [
+        "at school",
+        "okulda",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "at work",
+        "işte",
+        "at work",
+        "en el trabajo"
+      ],
+      [
+        "in the park",
+        "parkta",
+        "in the park",
+        "en el parque"
+      ],
+      [
+        "in the book",
+        "kitapta",
+        "in the book",
+        "en el libro"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Ablative -dan / -den",
+    "description": "The ablative answers 'where from?'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "from home",
+        "evden",
+        "from home",
+        "de casa"
+      ],
+      [
+        "from school",
+        "okuldan",
+        "from school",
+        "de la escuela"
+      ],
+      [
+        "from work",
+        "işten",
+        "from work",
+        "del trabajo"
+      ],
+      [
+        "from Ankara",
+        "Ankara'dan",
+        "from Ankara",
+        "de Ankara"
+      ],
+      [
+        "from the book",
+        "kitaptan",
+        "from the book",
+        "del libro"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Dative -a / -e",
+    "description": "The dative answers 'where to?'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "home",
+        "eve",
+        "(to) home",
+        "a casa"
+      ],
+      [
+        "to school",
+        "okula",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "to work",
+        "işe",
+        "to work",
+        "al trabajo"
+      ],
+      [
+        "to the park",
+        "parka",
+        "to the park",
+        "al parque"
+      ],
+      [
+        "to me",
+        "bana",
+        "to me",
+        "a mí"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Present continuous -ıyor",
+    "description": "Describes what is happening now.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "geliyorum",
+        "I am coming",
+        "estoy viniendo"
+      ],
+      [
+        "sen",
+        "geliyorsun",
+        "you are coming",
+        "estás viniendo"
+      ],
+      [
+        "o",
+        "geliyor",
+        "he is coming",
+        "él está viniendo"
+      ],
+      [
+        "biz",
+        "geliyoruz",
+        "we are coming",
+        "estamos viniendo"
+      ],
+      [
+        "onlar",
+        "geliyorlar",
+        "they are coming",
+        "ellos están viniendo"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Accusative -ı / -i",
+    "description": "The definite direct object takes the accusative.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the book",
+        "kitabı",
+        "the book (object)",
+        "el libro (objeto)"
+      ],
+      [
+        "the house",
+        "evi",
+        "the house (object)",
+        "la casa (objeto)"
+      ],
+      [
+        "the water",
+        "suyu",
+        "the water (object)",
+        "el agua (objeto)"
+      ],
+      [
+        "the letter",
+        "mektubu",
+        "the letter (object)",
+        "la carta (objeto)"
+      ],
+      [
+        "example",
+        "Kitabı okuyorum.",
+        "I am reading the book.",
+        "Leo el libro."
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Basic word order",
+    "description": "Turkish is Subject–Object–Verb.",
+    "columns": [
+      "Pattern",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "S–O–V",
+        "Ben ekmek yiyorum.",
+        "I eat bread.",
+        "Yo como pan."
+      ],
+      [
+        "adjective + noun",
+        "büyük ev",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "negation",
+        "Ben ekmek yemiyorum.",
+        "I do not eat bread.",
+        "No como pan."
+      ],
+      [
+        "question",
+        "Ekmek yiyor musun?",
+        "Are you eating bread?",
+        "¿Comes pan?"
+      ],
+      [
+        "time first",
+        "Yarın geliyorum.",
+        "I am coming tomorrow.",
+        "Vengo mañana."
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "Past tense -dı",
+    "description": "The definite past marks a completed action.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "geldim",
+        "I came",
+        "vine"
+      ],
+      [
+        "sen",
+        "geldin",
+        "you came",
+        "viniste"
+      ],
+      [
+        "o",
+        "geldi",
+        "he came",
+        "él vino"
+      ],
+      [
+        "biz",
+        "geldik",
+        "we came",
+        "vinimos"
+      ],
+      [
+        "onlar",
+        "geldiler",
+        "they came",
+        "ellos vinieron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "Future -acak / -ecek",
+    "description": "The future expresses intention or prediction.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "geleceğim",
+        "I will come",
+        "vendré"
+      ],
+      [
+        "sen",
+        "geleceksin",
+        "you will come",
+        "vendrás"
+      ],
+      [
+        "o",
+        "gelecek",
+        "he will come",
+        "él vendrá"
+      ],
+      [
+        "biz",
+        "geleceğiz",
+        "we will come",
+        "vendremos"
+      ],
+      [
+        "onlar",
+        "gelecekler",
+        "they will come",
+        "ellos vendrán"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "Aorist -ır / -ir",
+    "description": "The aorist expresses habits and general truths.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "gelirim",
+        "I come (habitually)",
+        "vengo habitualmente"
+      ],
+      [
+        "sen",
+        "gelirsin",
+        "you come",
+        "vienes"
+      ],
+      [
+        "o",
+        "gelir",
+        "he comes",
+        "viene"
+      ],
+      [
+        "biz",
+        "geliriz",
+        "we come",
+        "venimos"
+      ],
+      [
+        "onlar",
+        "gelirler",
+        "they come",
+        "vienen"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "-mış (evidential)",
+    "description": "-mış reports what was not directly witnessed.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "apparently",
+        "O gelmiş.",
+        "Apparently he has come.",
+        "Al parecer ha venido."
+      ],
+      [
+        "apparently",
+        "Dün çalışmışım.",
+        "Apparently I worked yesterday.",
+        "Al parecer trabajé ayer."
+      ],
+      [
+        "apparently",
+        "Biz gitmişiz.",
+        "Apparently we went.",
+        "Al parecer fuimos."
+      ],
+      [
+        "report",
+        "Hasta olmuş.",
+        "He is said to be ill.",
+        "Se dice que está enfermo."
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Negative verb -ma / -me",
+    "description": "The negative suffix comes before the tense suffix.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "gelmiyorum",
+        "I am not coming",
+        "no vengo"
+      ],
+      [
+        "o",
+        "çalışmıyor",
+        "he does not work",
+        "él no trabaja"
+      ],
+      [
+        "biz",
+        "gitmiyoruz",
+        "we are not going",
+        "no vamos"
+      ],
+      [
+        "past",
+        "gelmedim",
+        "I did not come",
+        "no vine"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Ability -abil / -ebil",
+    "description": "Expresses 'can' or 'to be able to'.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "gelebilirim",
+        "I can come",
+        "puedo venir"
+      ],
+      [
+        "sen",
+        "yüzebilirsin",
+        "you can swim",
+        "puedes nadar"
+      ],
+      [
+        "o",
+        "okuyabilir",
+        "he can read",
+        "él puede leer"
+      ],
+      [
+        "biz",
+        "çalışabiliriz",
+        "we can work",
+        "podemos trabajar"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Necessity -malı / -meli",
+    "description": "Expresses obligation or strong advice.",
+    "columns": [
+      "Person",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ben",
+        "çalışmalıyım",
+        "I must work",
+        "debo trabajar"
+      ],
+      [
+        "sen",
+        "gitmelisin",
+        "you must go",
+        "debes ir"
+      ],
+      [
+        "o",
+        "gelmeli",
+        "he must come",
+        "él debe venir"
+      ],
+      [
+        "biz",
+        "okumalıyız",
+        "we must study",
+        "debemos estudiar"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The bare stem is the informal singular command.",
+    "columns": [
+      "Form",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "informal sg.",
+        "Gel!",
+        "Come!",
+        "¡Ven!"
+      ],
+      [
+        "informal sg.",
+        "Oku!",
+        "Read!",
+        "¡Lee!"
+      ],
+      [
+        "formal / plural",
+        "Gelin!",
+        "Come! (formal)",
+        "¡Venga!"
+      ],
+      [
+        "negative",
+        "Gelme!",
+        "Do not come!",
+        "¡No vengas!"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Consonant mutation",
+    "description": "Final p, ç, t, k soften before a vowel suffix.",
+    "columns": [
+      "Base",
+      "Changes to",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "kitap",
+        "kitabı",
+        "book → the book",
+        "libro → el libro"
+      ],
+      [
+        "ağaç",
+        "ağacı",
+        "tree → the tree",
+        "árbol → el árbol"
+      ],
+      [
+        "renk",
+        "rengi",
+        "colour → the colour",
+        "color → el color"
+      ],
+      [
+        "dolap",
+        "dolabı",
+        "cupboard → the cupboard",
+        "armario → el armario"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Possessive plus case",
+    "description": "Case endings come after the possessive suffix.",
+    "columns": [
+      "Form",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to my house",
+        "evime",
+        "to my house",
+        "a mi casa"
+      ],
+      [
+        "from my house",
+        "evimden",
+        "from my house",
+        "de mi casa"
+      ],
+      [
+        "my book (object)",
+        "kitabımı",
+        "my book (object)",
+        "mi libro (objeto)"
+      ],
+      [
+        "to my friend",
+        "arkadaşıma",
+        "to my friend",
+        "a mi amigo"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Comparatives with daha",
+    "description": "daha before the adjective means 'more'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "daha büyük",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "more interesting",
+        "daha ilginç",
+        "more interesting",
+        "más interesante"
+      ],
+      [
+        "than me",
+        "benden daha uzun",
+        "taller than me",
+        "más alto que yo"
+      ],
+      [
+        "worse",
+        "daha kötü",
+        "worse",
+        "peor"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Superlatives with en",
+    "description": "en before the adjective means 'the most'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "biggest",
+        "en büyük",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "best",
+        "en iyi",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "most beautiful",
+        "en güzel",
+        "the most beautiful",
+        "el más bonito"
+      ],
+      [
+        "most hard-working",
+        "en çalışkan",
+        "the most hard-working",
+        "el más trabajador"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "-lı / -li / -sız / -siz",
+    "description": "-lı means 'with' and -sız means 'without'.",
+    "columns": [
+      "Suffix",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with sugar",
+        "şekerli",
+        "with sugar",
+        "con azúcar"
+      ],
+      [
+        "without sugar",
+        "şekersiz",
+        "without sugar",
+        "sin azúcar"
+      ],
+      [
+        "from Istanbul",
+        "İstanbullu",
+        "from Istanbul",
+        "de Estambul"
+      ],
+      [
+        "homeless",
+        "evsiz",
+        "homeless",
+        "sin casa"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "ile and için",
+    "description": "ile means 'with', için means 'for'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with you",
+        "seninle",
+        "with you",
+        "contigo"
+      ],
+      [
+        "with my friend",
+        "arkadaşımla",
+        "with my friend",
+        "con mi amigo"
+      ],
+      [
+        "for you",
+        "senin için",
+        "for you",
+        "para ti"
+      ],
+      [
+        "for health",
+        "sağlık için",
+        "for health",
+        "por salud"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Participles -an / -en",
+    "description": "The -an participle means 'who / which does'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who comes",
+        "gelen adam",
+        "the man who comes",
+        "el hombre que viene"
+      ],
+      [
+        "who reads",
+        "okuyan öğrenci",
+        "the student who reads",
+        "el estudiante que lee"
+      ],
+      [
+        "who works",
+        "çalışan insan",
+        "the person who works",
+        "la persona que trabaja"
+      ],
+      [
+        "who swims",
+        "yüzen çocuk",
+        "the child who swims",
+        "el niño que nada"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Basic conjunctions",
+    "description": "These join words and clauses.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "and",
+        "ve",
+        "and",
+        "y"
+      ],
+      [
+        "but",
+        "ama",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "çünkü",
+        "because",
+        "porque"
+      ],
+      [
+        "or",
+        "veya",
+        "or",
+        "o"
+      ],
+      [
+        "also",
+        "ayrıca",
+        "also",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "-dığı için (because)",
+    "description": "The -dığı form plus için gives the reason.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "because he was ill",
+        "Hasta olduğu için gelmedi.",
+        "He did not come because he was ill.",
+        "No vino porque estaba enfermo."
+      ],
+      [
+        "because it rained",
+        "Yağmur yağdığı için kaldık.",
+        "We stayed because it rained.",
+        "Nos quedamos porque llovió."
+      ],
+      [
+        "because I had work",
+        "İşim olduğu için gelemedim.",
+        "I could not come because I had work.",
+        "No pude venir porque tenía trabajo."
+      ],
+      [
+        "because he was tired",
+        "Yorgun olduğu için gitti.",
+        "He left because he was tired.",
+        "Se fue porque estaba cansado."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "-erek / -arak (by doing)",
+    "description": "Expresses the manner in which an action is done.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "running",
+        "Koşarak geldi.",
+        "He came running.",
+        "Vino corriendo."
+      ],
+      [
+        "smiling",
+        "Gülerek konuştu.",
+        "He spoke smiling.",
+        "Habló sonriendo."
+      ],
+      [
+        "walking",
+        "Yürüyerek gidiyoruz.",
+        "We are going walking.",
+        "Vamos caminando."
+      ],
+      [
+        "looking",
+        "Bakarak öğreniyoruz.",
+        "We learn by looking.",
+        "Aprendemos mirando."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "-ince (when)",
+    "description": "-ince attaches to a verb to mean 'when'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "when I got home",
+        "Eve gelince aradım.",
+        "When I got home, I called.",
+        "Cuando llegué a casa, llamé."
+      ],
+      [
+        "when he finished",
+        "Okulu bitirince iş buldu.",
+        "When he finished school, he found a job.",
+        "Cuando terminó la escuela, encontró trabajo."
+      ],
+      [
+        "when you see him",
+        "Onu görünce selam ver.",
+        "When you see him, greet him.",
+        "Cuando lo veas, salúdalo."
+      ],
+      [
+        "when you came",
+        "Sen gelince gitti.",
+        "When you came, he left.",
+        "Cuando viniste, él se fue."
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "-ip (and then)",
+    "description": "-ip links two actions by the same subject.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "came and left",
+        "Gelip gitti.",
+        "He came and left.",
+        "Vino y se fue."
+      ],
+      [
+        "ate and drank",
+        "Yiyip içtik.",
+        "We ate and drank.",
+        "Comimos y bebimos."
+      ],
+      [
+        "read and wrote",
+        "Okuyup yazdı.",
+        "He read and wrote.",
+        "Leyó y escribió."
+      ],
+      [
+        "looked and saw",
+        "Bakıp gördü.",
+        "He looked and saw.",
+        "Miró y vio."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "-ken (while)",
+    "description": "-ken attaches to a verb to mean 'while'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "while I work",
+        "Ben çalışırken müzik dinliyorum.",
+        "While I work, I listen to music.",
+        "Mientras trabajo, escucho música."
+      ],
+      [
+        "while he was coming",
+        "O gelirken ben gidiyordum.",
+        "While he was coming, I was leaving.",
+        "Mientras él venía, yo me iba."
+      ],
+      [
+        "while you were reading",
+        "Sen okurken ben yazıyordum.",
+        "While you were reading, I was writing.",
+        "Mientras tú leías, yo escribía."
+      ],
+      [
+        "while smiling",
+        "Gülerken konuştu.",
+        "He spoke while smiling.",
+        "Habló mientras sonreía."
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "-mak / -mek için (in order to)",
+    "description": "The infinitive plus için expresses purpose.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in order to learn",
+        "Öğrenmek için çalışıyorum.",
+        "I study in order to learn.",
+        "Estudio para aprender."
+      ],
+      [
+        "to see you",
+        "Seni görmek için geldim.",
+        "I came to see you.",
+        "Vine a verte."
+      ],
+      [
+        "to earn money",
+        "Para kazanmak için çalışıyor.",
+        "He works to earn money.",
+        "Trabaja para ganar dinero."
+      ],
+      [
+        "to go home",
+        "Eve gitmek için acele ediyorum.",
+        "I am hurrying to go home.",
+        "Me apresuro para ir a casa."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "-dan sonra / -dan önce",
+    "description": "'after' and 'before' with the ablative.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "after the meal",
+        "Yemekten sonra çalıştım.",
+        "After the meal I worked.",
+        "Después de comer trabajé."
+      ],
+      [
+        "after work",
+        "İşten sonra eve gittim.",
+        "After work I went home.",
+        "Después del trabajo fui a casa."
+      ],
+      [
+        "before going",
+        "Gitmeden önce aradım.",
+        "Before going I called.",
+        "Antes de ir llamé."
+      ],
+      [
+        "before the meal",
+        "Yemekten önce ellerini yıka.",
+        "Before the meal wash your hands.",
+        "Antes de comer lávate las manos."
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "-e rağmen (despite)",
+    "description": "rağmen follows the dative and means 'despite'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "despite the rain",
+        "Yağmura rağmen gittik.",
+        "Despite the rain, we went.",
+        "A pesar de la lluvia, fuimos."
+      ],
+      [
+        "despite being tired",
+        "Yorgun olmasına rağmen çalıştı.",
+        "Despite being tired, he worked.",
+        "A pesar de estar cansado, trabajó."
+      ],
+      [
+        "despite being hard",
+        "Zor olmasına rağmen başardık.",
+        "Despite it being hard, we succeeded.",
+        "A pesar de ser difícil, lo logramos."
+      ],
+      [
+        "despite the illness",
+        "Hastalığa rağmen geldi.",
+        "Despite the illness, he came.",
+        "A pesar de la enfermedad, vino."
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "-dığını plus a verb of saying reports statements.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "Hasta olduğunu söyledi.",
+        "He said that he was ill.",
+        "Dijo que estaba enfermo."
+      ],
+      [
+        "question",
+        "Nerede yaşadığımı sordu.",
+        "He asked me where I live.",
+        "Me preguntó dónde vivo."
+      ],
+      [
+        "future",
+        "Yarın geleceğini söyledi.",
+        "He said that he would come tomorrow.",
+        "Dijo que vendría mañana."
+      ],
+      [
+        "request",
+        "Yardım etmemi istedi.",
+        "He asked me to help him.",
+        "Me pidió que le ayudara."
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Passive voice",
+    "description": "The passive is formed with -ıl / -il or edil-.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "Ev 1990'da inşa edildi.",
+        "The house was built in 1990.",
+        "La casa fue construida en 1990."
+      ],
+      [
+        "was written",
+        "Kitap yazar tarafından yazıldı.",
+        "The book was written by the author.",
+        "El libro fue escrito por el autor."
+      ],
+      [
+        "was solved",
+        "Bu problem çözüldü.",
+        "This problem was solved.",
+        "Este problema fue resuelto."
+      ],
+      [
+        "was cancelled",
+        "Toplantı iptal edildi.",
+        "The meeting was cancelled.",
+        "La reunión fue cancelada."
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Causative",
+    "description": "The causative suffix shows that someone has something done.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "had my hair cut",
+        "Saçımı kestirdim.",
+        "I had my hair cut.",
+        "Me corté el pelo."
+      ],
+      [
+        "had the house painted",
+        "Evi boyattım.",
+        "I had the house painted.",
+        "Hice pintar la casa."
+      ],
+      [
+        "had the car repaired",
+        "Arabayı tamir ettirdim.",
+        "I had the car repaired.",
+        "Hice reparar el coche."
+      ],
+      [
+        "had my son read",
+        "Oğluma kitap okuttum.",
+        "I had my son read a book.",
+        "Hice que mi hijo leyera un libro."
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "-madan / -meden (without)",
+    "description": "The negative converb means 'without doing'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "without eating",
+        "Yemek yemeden konuşmayın.",
+        "Do not talk without eating.",
+        "No habléis sin comer."
+      ],
+      [
+        "without looking",
+        "Bakmadan gitti.",
+        "He left without looking.",
+        "Se fue sin mirar."
+      ],
+      [
+        "without seeing me",
+        "Beni görmeden gitti.",
+        "He left without seeing me.",
+        "Se fue sin verme."
+      ],
+      [
+        "without drinking",
+        "Su içmeden konuştu.",
+        "He spoke without drinking water.",
+        "Habló sin beber agua."
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "-dığı halde (although)",
+    "description": "A concessive form: 'although it is the case that'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "although he was ill",
+        "Hasta olduğu halde geldi.",
+        "Although he was ill, he came.",
+        "Aunque estaba enfermo, vino."
+      ],
+      [
+        "although he was tired",
+        "Yorgun olduğu halde çalıştı.",
+        "Although he was tired, he worked.",
+        "Aunque estaba cansado, trabajó."
+      ],
+      [
+        "although it was hard",
+        "Zor olduğu halde başardı.",
+        "Although it was hard, he succeeded.",
+        "Aunque era difícil, lo logró."
+      ],
+      [
+        "although young",
+        "Genç olduğu halde çok bilgili.",
+        "Although young, he is very knowledgeable.",
+        "Aunque es joven, es muy culto."
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "-masına rağmen (despite)",
+    "description": "The -masına form plus rağmen is a common concessive.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "despite being ill",
+        "Hasta olmasına rağmen geldi.",
+        "Despite being ill, he came.",
+        "A pesar de estar enfermo, vino."
+      ],
+      [
+        "despite being tired",
+        "Yorgun olmasına rağmen çalıştı.",
+        "Despite being tired, he worked.",
+        "A pesar de estar cansado, trabajó."
+      ],
+      [
+        "despite being hard",
+        "Zor olmasına rağmen başardık.",
+        "Despite it being hard, we succeeded.",
+        "A pesar de ser difícil, lo logramos."
+      ],
+      [
+        "despite the rain",
+        "Yağmura rağmen çıktık.",
+        "Despite the rain, we went out.",
+        "A pesar de la lluvia, salimos."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Unreal conditional -se / -sa",
+    "description": "The -se form expresses hypothetical conditions.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "if I were rich",
+        "Zengin olsaydım seyahat ederdim.",
+        "If I were rich, I would travel.",
+        "Si fuera rico, viajaría."
+      ],
+      [
+        "if he had time",
+        "Vakti olsaydı o da gelirdi.",
+        "If he had time, he would come too.",
+        "Si tuviera tiempo, vendría también."
+      ],
+      [
+        "if the weather were nice",
+        "Hava güzel olsaydı çıkardık.",
+        "If the weather were nice, we would go out.",
+        "Si hiciera buen tiempo, saldríamos."
+      ],
+      [
+        "if you were me",
+        "Sen ben olsan ne yapardın?",
+        "If you were me, what would you do?",
+        "Si fueras yo, ¿qué harías?"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "-miş olsaydı (unreal past)",
+    "description": "The past unreal condition: 'if it had been'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "if he had come early",
+        "Erken gelmiş olsaydı onu görürdük.",
+        "If he had come early, we would have seen him.",
+        "Si hubiera venido temprano, lo habríamos visto."
+      ],
+      [
+        "if I had known",
+        "Bilmiş olsaydım gelirdim.",
+        "If I had known, I would have come.",
+        "Si lo hubiera sabido, habría venido."
+      ],
+      [
+        "if he had worked",
+        "Çalışmış olsaydı başarırdı.",
+        "If he had worked, he would have succeeded.",
+        "Si hubiera trabajado, habría tenido éxito."
+      ],
+      [
+        "if you had said",
+        "Söylemiş olsaydın yardım ederdim.",
+        "If you had said, I would have helped.",
+        "Si lo hubieras dicho, habría ayudado."
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "-ması gerekiyor (needs to)",
+    "description": "Expresses an objective necessity.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I need to go",
+        "Gitmem gerekiyor.",
+        "I need to go.",
+        "Necesito ir."
+      ],
+      [
+        "he needs to work",
+        "Çalışması gerekiyor.",
+        "He needs to work.",
+        "Él necesita trabajar."
+      ],
+      [
+        "we need to wait",
+        "Beklememiz gerekiyor.",
+        "We need to wait.",
+        "Necesitamos esperar."
+      ],
+      [
+        "he needs to say",
+        "Söylemesi gerekiyor.",
+        "He needs to say it.",
+        "Él necesita decirlo."
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "-mek üzere (about to)",
+    "description": "Means 'on the point of' or 'for the purpose of'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "about to start",
+        "Toplantı başlamak üzere.",
+        "The meeting is about to start.",
+        "La reunión está a punto de empezar."
+      ],
+      [
+        "preparing to go",
+        "Gitmek üzere hazırlanıyor.",
+        "He is preparing to go.",
+        "Se está preparando para ir."
+      ],
+      [
+        "to finish the book",
+        "Kitabı bitirmek üzere çalışıyor.",
+        "He is working to finish the book.",
+        "Está trabajando para terminar el libro."
+      ],
+      [
+        "ready to set off",
+        "Yola çıkmak üzere hazırdık.",
+        "We were ready to set off.",
+        "Estábamos listos para salir."
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "-dıkça (the more)",
+    "description": "Means 'as' or 'the more … the more'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the more I work",
+        "Çalıştıkça öğreniyorum.",
+        "The more I work, the more I learn.",
+        "Cuanto más trabajo, más aprendo."
+      ],
+      [
+        "the more I read",
+        "Okudukça daha çok seviyorum.",
+        "The more I read, the more I love it.",
+        "Cuanto más leo, más lo quiero."
+      ],
+      [
+        "as he ages",
+        "Yaşlandıkça bilgileniyor.",
+        "As he ages, he gains knowledge.",
+        "A medida que envejece, aprende más."
+      ],
+      [
+        "as we advanced",
+        "İlerledikçe yorulduk.",
+        "As we advanced, we got tired.",
+        "A medida que avanzábamos, nos cansábamos."
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "-diği sürece (as long as)",
+    "description": "Expresses a condition that must hold.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "as long as he works",
+        "Çalıştığı sürece başarılı olur.",
+        "As long as he works, he will succeed.",
+        "Siempre que trabaje, tendrá éxito."
+      ],
+      [
+        "as long as he helps",
+        "Yardım ettiği sürece mutluyum.",
+        "As long as he helps, I am happy.",
+        "Siempre que ayude, soy feliz."
+      ],
+      [
+        "as long as the weather is nice",
+        "Hava güzel olduğu sürece gideriz.",
+        "As long as the weather is nice, we go.",
+        "Siempre que haga buen tiempo, vamos."
+      ],
+      [
+        "as long as you are with me",
+        "Sen yanımda olduğun sürece korkmuyorum.",
+        "As long as you are with me, I am not afraid.",
+        "Siempre que estés conmigo, no tengo miedo."
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "-mekle birlikte (although)",
+    "description": "A formal concessive: 'although' or 'along with'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "although it is hard",
+        "Zor olmakla birlikte başardık.",
+        "Although it is hard, we succeeded.",
+        "Aunque es difícil, lo logramos."
+      ],
+      [
+        "although he was tired",
+        "Yorgun olmakla birlikte çalıştı.",
+        "Although he was tired, he worked.",
+        "Aunque estaba cansado, trabajó."
+      ],
+      [
+        "although he is young",
+        "Genç olmakla birlikte bilgili.",
+        "Although he is young, he is knowledgeable.",
+        "Aunque es joven, es culto."
+      ],
+      [
+        "although expensive",
+        "Pahalı olmakla birlikte iyi bir ürün.",
+        "Although expensive, it is a good product.",
+        "Aunque es caro, es un buen producto."
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "-diği gibi (just as)",
+    "description": "Means 'as' or 'just as' in comparisons.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "as he said",
+        "Dediği gibi geldi.",
+        "He came as he said.",
+        "Vino como dijo."
+      ],
+      [
+        "as it seems",
+        "Göründüğü gibi kolay değil.",
+        "It is not as easy as it seems.",
+        "No es tan fácil como parece."
+      ],
+      [
+        "as I thought",
+        "Düşündüğüm gibi olmadı.",
+        "It did not turn out as I thought.",
+        "No salió como pensaba."
+      ],
+      [
+        "as far as I know",
+        "Bildiğim gibi iyi bir insan.",
+        "He is a good person as far as I know.",
+        "Es una buena persona por lo que sé."
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "-eceği yerde (instead of)",
+    "description": "Means 'instead of doing'.",
+    "columns": [
+      "Use",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "instead of working",
+        "Çalışacağı yerde uyudu.",
+        "Instead of working, he slept.",
+        "En vez de trabajar, durmió."
+      ],
+      [
+        "instead of going",
+        "Gideceği yerde kaldı.",
+        "Instead of going, he stayed.",
+        "En vez de ir, se quedó."
+      ],
+      [
+        "instead of helping",
+        "Yardım edeceği yerde gitti.",
+        "Instead of helping, he left.",
+        "En vez de ayudar, se fue."
+      ],
+      [
+        "instead of reading",
+        "Okuyacağı yerde oyun oynadı.",
+        "Instead of reading, he played.",
+        "En vez de leer, jugó."
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "şöyle dursun and başka",
+    "description": "Two ways to say 'let alone' and 'nothing but'.",
+    "columns": [
+      "Expression",
+      "Turkish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "let alone",
+        "Yardım etmek şöyle dursun, kendisi zor durumda.",
+        "Let alone helping, he himself is in trouble.",
+        "Que ayude ni hablar, él mismo está en apuros."
+      ],
+      [
+        "let alone",
+        "Okumak şöyle dursun, yazamıyor bile.",
+        "Let alone read, he cannot even write.",
+        "Que lea ni hablar, ni siquiera puede escribir."
+      ],
+      [
+        "nothing but",
+        "Beklemekten başka yapacak bir şey yok.",
+        "There is nothing to do but wait.",
+        "No hay nada que hacer más que esperar."
+      ],
+      [
+        "apart from",
+        "Fiyatı bir yana, ürün çok iyi.",
+        "Apart from the price, the product is very good.",
+        "Aparte del precio, el producto es muy bueno."
+      ]
+    ]
+  }
+]
