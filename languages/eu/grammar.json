@@ -1,0 +1,2550 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "Pronunciation is regular",
+    "description": "Basque is written as it is pronounced; these digraphs matter.",
+    "columns": [
+      "Sound",
+      "Example",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "z",
+        "zu",
+        "you (sharp s)",
+        "tú (s silbante)"
+      ],
+      [
+        "s",
+        "su",
+        "fire (s)",
+        "fuego"
+      ],
+      [
+        "tz",
+        "hotz",
+        "cold (tz = ts)",
+        "frío"
+      ],
+      [
+        "tx",
+        "etxe",
+        "house (tx = ch)",
+        "casa"
+      ],
+      [
+        "x",
+        "xake",
+        "chess (x = sh)",
+        "ajedrez"
+      ],
+      [
+        "j",
+        "jan",
+        "to eat (j varies by region)",
+        "comer"
+      ],
+      [
+        "rr",
+        "erro",
+        "root (strongly rolled r)",
+        "raíz"
+      ],
+      [
+        "h",
+        "hemen",
+        "here (h is silent in the south)",
+        "aquí"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Basque pronouns have no gender and change form by case.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sg.",
+        "ni",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sg.",
+        "zu",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sg.",
+        "hura",
+        "he / she / it",
+        "él / ella"
+      ],
+      [
+        "1st pl.",
+        "gu",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd pl.",
+        "zuek",
+        "you (pl.)",
+        "vosotros"
+      ],
+      [
+        "3rd pl.",
+        "haiek",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "izan (to be) — present",
+    "description": "izan expresses identity or essence: what something is.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ni",
+        "naiz",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "zu",
+        "zara",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "hura",
+        "da",
+        "he / she is",
+        "él / ella es"
+      ],
+      [
+        "gu",
+        "gara",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "zuek",
+        "zarete",
+        "you (pl.) are",
+        "vosotros sois"
+      ],
+      [
+        "haiek",
+        "dira",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "egon (to be) — present",
+    "description": "egon expresses a state or a location: how or where something is.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ni",
+        "nago",
+        "I am (state / place)",
+        "estoy"
+      ],
+      [
+        "zu",
+        "zaude",
+        "you are",
+        "estás"
+      ],
+      [
+        "hura",
+        "dago",
+        "he / she is",
+        "está"
+      ],
+      [
+        "gu",
+        "gaude",
+        "we are",
+        "estamos"
+      ],
+      [
+        "zuek",
+        "zaudete",
+        "you (pl.) are",
+        "estáis"
+      ],
+      [
+        "haiek",
+        "daude",
+        "they are",
+        "están"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "eduki (to have) — present",
+    "description": "The transitive auxiliary agrees with both subject and object.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nik",
+        "dut",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "zuk",
+        "duzu",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "hark",
+        "du",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "guk",
+        "dugu",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "zuek",
+        "duzue",
+        "you (pl.) have",
+        "vosotros tenéis"
+      ],
+      [
+        "haiek",
+        "dute",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "The article -a / -ak",
+    "description": "Basque marks 'the' with a suffix, not with a separate word.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "singular",
+        "etxea",
+        "the house",
+        "la casa"
+      ],
+      [
+        "plural",
+        "etxeak",
+        "the houses",
+        "las casas"
+      ],
+      [
+        "after a",
+        "sagarra",
+        "the apple",
+        "la manzana"
+      ],
+      [
+        "after a consonant",
+        "lorea",
+        "the flower",
+        "la flor"
+      ],
+      [
+        "bare stem",
+        "etxe",
+        "house (no article)",
+        "casa (sin artículo)"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Negation with ez",
+    "description": "ez goes immediately before the auxiliary verb.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "izan",
+        "Ni ez naiz medikua.",
+        "I am not a doctor.",
+        "No soy médico."
+      ],
+      [
+        "egon",
+        "Hura ez dago etxean.",
+        "He is not at home.",
+        "Él no está en casa."
+      ],
+      [
+        "eduki",
+        "Nik ez dut ogirik.",
+        "I do not have bread.",
+        "No tengo pan."
+      ],
+      [
+        "past",
+        "Ez nintzen joan.",
+        "I did not go.",
+        "No fui."
+      ],
+      [
+        "pattern",
+        "ez + auxiliary + verb",
+        "not + auxiliary + verb",
+        "no + auxiliar + verbo"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Question words",
+    "description": "The question word comes first and the verb keeps its normal place.",
+    "columns": [
+      "Word",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who",
+        "nor",
+        "who",
+        "quién"
+      ],
+      [
+        "what",
+        "zer",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "non",
+        "where (at)",
+        "dónde"
+      ],
+      [
+        "where to",
+        "nora",
+        "where to",
+        "a dónde"
+      ],
+      [
+        "where from",
+        "nondik",
+        "where from",
+        "de dónde"
+      ],
+      [
+        "when",
+        "noiz",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "zergatik",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "nola",
+        "how",
+        "cómo"
+      ],
+      [
+        "how many",
+        "zenbat",
+        "how many",
+        "cuántos"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Demonstratives",
+    "description": "There are three distances, as in Spanish.",
+    "columns": [
+      "Distance",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "near me",
+        "hau / hauek",
+        "this / these",
+        "este / estos"
+      ],
+      [
+        "near you",
+        "hori / horiek",
+        "that / those",
+        "ese / esos"
+      ],
+      [
+        "over there",
+        "hura / haiek",
+        "that / those (far)",
+        "aquel / aquellos"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Numbers 1–20",
+    "description": "Numbers stay unchanged before the noun.",
+    "columns": [
+      "Number",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "bat",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "bi",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "hiru",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "lau",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "bost",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "sei",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "zazpi",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "zortzi",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "bederatzi",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "hamar",
+        "ten",
+        "diez"
+      ],
+      [
+        "11",
+        "hamaika",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "hamabi",
+        "twelve",
+        "doce"
+      ],
+      [
+        "15",
+        "hamabost",
+        "fifteen",
+        "quince"
+      ],
+      [
+        "20",
+        "hogei",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Possessives",
+    "description": "nire, zure, haren… also take the article with the noun.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "nire",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "zure",
+        "your",
+        "tu"
+      ],
+      [
+        "his / her",
+        "haren",
+        "his / her",
+        "su"
+      ],
+      [
+        "our",
+        "gure",
+        "our",
+        "nuestro"
+      ],
+      [
+        "your (pl.)",
+        "zuen",
+        "your (pl.)",
+        "vuestro"
+      ],
+      [
+        "their",
+        "haien",
+        "their",
+        "su (de ellos)"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "The cases at a glance",
+    "description": "Basque marks the role of a noun with suffixes; this is the core of the language.",
+    "columns": [
+      "Case",
+      "Question",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "absolutive",
+        "nor?",
+        "Ni etorri naiz.",
+        "I have come.",
+        "Yo he venido."
+      ],
+      [
+        "ergative",
+        "nork?",
+        "Nik liburua irakurri dut.",
+        "I have read the book.",
+        "Yo he leído el libro."
+      ],
+      [
+        "dative",
+        "nori?",
+        "Nik hari eman diot.",
+        "I have given it to him.",
+        "Se lo he dado a él."
+      ],
+      [
+        "possessive",
+        "noren?",
+        "Haren etxea da.",
+        "It is his house.",
+        "Es su casa."
+      ],
+      [
+        "inessive",
+        "non?",
+        "Etxean nago.",
+        "I am at home.",
+        "Estoy en casa."
+      ],
+      [
+        "allative",
+        "nora?",
+        "Etxera noa.",
+        "I am going home.",
+        "Voy a casa."
+      ],
+      [
+        "ablative",
+        "nondik?",
+        "Etxetik nator.",
+        "I come from home.",
+        "Vengo de casa."
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Inessive -n (non: where)",
+    "description": "The ending -n answers 'where?' for being in a place.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "at home",
+        "etxean",
+        "at home",
+        "en casa"
+      ],
+      [
+        "in the city",
+        "hirian",
+        "in the city",
+        "en la ciudad"
+      ],
+      [
+        "at school",
+        "eskolan",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "in Bilbao",
+        "Bilbon",
+        "in Bilbao",
+        "en Bilbao"
+      ],
+      [
+        "in the street",
+        "kalean",
+        "in the street",
+        "en la calle"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Allative -ra (nora: where to)",
+    "description": "The ending -ra answers 'where to?'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "home",
+        "etxera",
+        "(to) home",
+        "a casa"
+      ],
+      [
+        "to the city",
+        "hirira",
+        "to the city",
+        "a la ciudad"
+      ],
+      [
+        "to school",
+        "eskolara",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "to Bilbao",
+        "Bilbora",
+        "to Bilbao",
+        "a Bilbao"
+      ],
+      [
+        "to the street",
+        "kalera",
+        "to the street",
+        "a la calle"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Ablative -tik (nondik: where from)",
+    "description": "The ending -tik answers 'where from?'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "from home",
+        "etxetik",
+        "from home",
+        "de casa"
+      ],
+      [
+        "from the city",
+        "hiritik",
+        "from the city",
+        "de la ciudad"
+      ],
+      [
+        "from school",
+        "eskolatik",
+        "from school",
+        "de la escuela"
+      ],
+      [
+        "from Bilbao",
+        "Bilbotik",
+        "from Bilbao",
+        "de Bilbao"
+      ],
+      [
+        "from the street",
+        "kaletik",
+        "from the street",
+        "de la calle"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Comitative -rekin (with)",
+    "description": "The ending -rekin means 'with' or 'together with'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with a friend",
+        "lagunarekin",
+        "with a friend",
+        "con un amigo"
+      ],
+      [
+        "with my mother",
+        "nire amarekin",
+        "with my mother",
+        "con mi madre"
+      ],
+      [
+        "with you",
+        "zurekin",
+        "with you",
+        "contigo"
+      ],
+      [
+        "with them",
+        "haiekin",
+        "with them",
+        "con ellos"
+      ],
+      [
+        "with the dog",
+        "txakurrarekin",
+        "with the dog",
+        "con el perro"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days take the article and are not capitalised.",
+    "columns": [
+      "Day",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "astelehena",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "asteartea",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "asteazkena",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "osteguna",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "ostirala",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "larunbata",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "igandea",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Basic word order",
+    "description": "Basque is Subject–Object–Verb, and time expressions go before the verb.",
+    "columns": [
+      "Pattern",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "S–O–V",
+        "Nik ogia jaten dut.",
+        "I eat bread.",
+        "Yo como pan."
+      ],
+      [
+        "subject + adjective",
+        "Etxea handia da.",
+        "The house is big.",
+        "La casa es grande."
+      ],
+      [
+        "negation",
+        "Nik ogia ez dut jaten.",
+        "I do not eat bread.",
+        "No como pan."
+      ],
+      [
+        "question",
+        "Ogia jaten duzu?",
+        "Do you eat bread?",
+        "¿Comes pan?"
+      ],
+      [
+        "time first",
+        "Bihar etorriko naiz.",
+        "I will come tomorrow.",
+        "Vendré mañana."
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The ergative -k",
+    "description": "The subject of a transitive verb takes -k: ni → nik, zu → zuk, hura → hark.",
+    "columns": [
+      "Subject",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ni → nik",
+        "Nik ogia jaten dut.",
+        "I eat bread.",
+        "Yo como pan."
+      ],
+      [
+        "zu → zuk",
+        "Zuk liburua duzu.",
+        "You have the book.",
+        "Tú tienes el libro."
+      ],
+      [
+        "hura → hark",
+        "Hark ura edaten du.",
+        "He drinks water.",
+        "Él bebe agua."
+      ],
+      [
+        "gu → guk",
+        "Guk musika entzuten dugu.",
+        "We listen to music.",
+        "Escuchamos música."
+      ],
+      [
+        "haiek → haiek",
+        "Haiek ogia jaten dute.",
+        "They eat bread.",
+        "Ellos comen pan."
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The dative -ri (nori)",
+    "description": "The dative marks the person something is given or said to.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to me",
+        "niri",
+        "to me",
+        "a mí"
+      ],
+      [
+        "to you",
+        "zuri",
+        "to you",
+        "a ti"
+      ],
+      [
+        "to him / her",
+        "hari",
+        "to him / her",
+        "a él / ella"
+      ],
+      [
+        "to us",
+        "guri",
+        "to us",
+        "a nosotros"
+      ],
+      [
+        "to them",
+        "haiei",
+        "to them",
+        "a ellos"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "gustatu (to like)",
+    "description": "The person who likes takes the dative and the thing liked is the subject.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "Niri kafea gustatzen zait.",
+        "I like coffee.",
+        "Me gusta el café."
+      ],
+      [
+        "you",
+        "Zuri musika gustatzen zaizu.",
+        "You like music.",
+        "Te gusta la música."
+      ],
+      [
+        "he",
+        "Hari futbola gustatzen zaio.",
+        "He likes football.",
+        "Le gusta el fútbol."
+      ],
+      [
+        "we",
+        "Guri liburuak gustatzen zaizkigu.",
+        "We like books.",
+        "Nos gustan los libros."
+      ],
+      [
+        "they",
+        "Haiei sagarrak gustatzen zaizkie.",
+        "They like apples.",
+        "Les gustan las manzanas."
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "izan — past",
+    "description": "The past of izan is used for identity in the past.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ni",
+        "nintzen",
+        "I was",
+        "yo era"
+      ],
+      [
+        "zu",
+        "zinen",
+        "you were",
+        "tú eras"
+      ],
+      [
+        "hura",
+        "zen",
+        "he / she was",
+        "él era"
+      ],
+      [
+        "gu",
+        "ginen",
+        "we were",
+        "nosotros éramos"
+      ],
+      [
+        "zuek",
+        "zineten",
+        "you (pl.) were",
+        "vosotros erais"
+      ],
+      [
+        "haiek",
+        "ziren",
+        "they were",
+        "ellos eran"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "eduki — past",
+    "description": "The past auxiliary agrees with the object as well as the subject.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nik",
+        "nuen",
+        "I had",
+        "yo tenía"
+      ],
+      [
+        "zuk",
+        "zenuen",
+        "you had",
+        "tú tenías"
+      ],
+      [
+        "hark",
+        "zuen",
+        "he had",
+        "él tenía"
+      ],
+      [
+        "guk",
+        "genuen",
+        "we had",
+        "nosotros teníamos"
+      ],
+      [
+        "haiek",
+        "zuten",
+        "they had",
+        "ellos tenían"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Habitual aspect (-tzen / -ten)",
+    "description": "The habitual form describes what one does regularly.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "eat",
+        "ogia jaten dut",
+        "I eat bread",
+        "como pan"
+      ],
+      [
+        "buy",
+        "esnea erosten dut",
+        "I buy milk",
+        "compro leche"
+      ],
+      [
+        "read",
+        "liburuak irakurtzen ditut",
+        "I read books",
+        "leo libros"
+      ],
+      [
+        "speak",
+        "euskaraz hitz egiten dut",
+        "I speak Basque",
+        "hablo euskera"
+      ],
+      [
+        "go",
+        "eskolara joaten naiz",
+        "I go to school",
+        "voy a la escuela"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Progressive: -tzen ari naiz",
+    "description": "ari + the auxiliary expresses an action happening now.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "now",
+        "liburua irakurtzen ari naiz",
+        "I am reading a book",
+        "estoy leyendo un libro"
+      ],
+      [
+        "cooking",
+        "afaria prestatzen ari naiz",
+        "I am preparing dinner",
+        "estoy preparando la cena"
+      ],
+      [
+        "they",
+        "futbolean jolasten ari dira",
+        "they are playing football",
+        "están jugando al fútbol"
+      ],
+      [
+        "you",
+        "musika entzuten ari zara",
+        "you are listening to music",
+        "estás escuchando música"
+      ],
+      [
+        "raining",
+        "euria egiten ari du",
+        "it is raining",
+        "está lloviendo"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Future -ko / -go",
+    "description": "The future is formed with the participle plus -ko / -go.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "go",
+        "joango naiz",
+        "I will go",
+        "iré"
+      ],
+      [
+        "come",
+        "etorriko naiz",
+        "I will come",
+        "vendré"
+      ],
+      [
+        "do",
+        "egingo dut",
+        "I will do it",
+        "lo haré"
+      ],
+      [
+        "eat",
+        "jan egingo dut",
+        "I will eat",
+        "comeré"
+      ],
+      [
+        "see",
+        "ikusi egingo dut",
+        "I will see",
+        "veré"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "behar, nahi and ahal",
+    "description": "These modals follow the main verb in its participle form.",
+    "columns": [
+      "Modal",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "must",
+        "joan behar dut",
+        "I must go",
+        "tengo que ir"
+      ],
+      [
+        "want",
+        "joan nahi dut",
+        "I want to go",
+        "quiero ir"
+      ],
+      [
+        "can",
+        "joan naiteke",
+        "I can go",
+        "puedo ir"
+      ],
+      [
+        "must not",
+        "ez dut joan behar",
+        "I must not go",
+        "no tengo que ir"
+      ],
+      [
+        "do not want",
+        "ez dut joan nahi",
+        "I do not want to go",
+        "no quiero ir"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Postpositions",
+    "description": "Location words follow the noun, which takes the genitive -en.",
+    "columns": [
+      "Postposition",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "mahai gainean",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "mahai azpian",
+        "under the table",
+        "debajo de la mesa"
+      ],
+      [
+        "in front of",
+        "etxearen aurrean",
+        "in front of the house",
+        "delante de la casa"
+      ],
+      [
+        "behind",
+        "etxearen atzean",
+        "behind the house",
+        "detrás de la casa"
+      ],
+      [
+        "next to",
+        "etxearen ondoan",
+        "next to the house",
+        "al lado de la casa"
+      ],
+      [
+        "between",
+        "etxeen artean",
+        "between the houses",
+        "entre las casas"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Comparison and superlative",
+    "description": "baino + -ago compares; -en forms the superlative.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "comparative",
+        "Hau handiagoa da.",
+        "This is bigger.",
+        "Este es más grande."
+      ],
+      [
+        "than",
+        "Hau hura baino handiagoa da.",
+        "This is bigger than that.",
+        "Este es más grande que aquel."
+      ],
+      [
+        "equal",
+        "Hau hura bezain handia da.",
+        "This is as big as that.",
+        "Este es tan grande como aquel."
+      ],
+      [
+        "superlative",
+        "Hau handiena da.",
+        "This is the biggest.",
+        "Este es el más grande."
+      ],
+      [
+        "irregular",
+        "hobea / okerragoa",
+        "better / worse",
+        "mejor / peor"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Purpose -tzeko / -tzera",
+    "description": "-tzeko means 'in order to'; -tzera is used with verbs of movement.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in order to",
+        "ogia erosteko",
+        "in order to buy bread",
+        "para comprar pan"
+      ],
+      [
+        "going to",
+        "dendara erostera noa",
+        "I am going to the shop to buy",
+        "voy a la tienda a comprar"
+      ],
+      [
+        "came to",
+        "zu ikustera etorri naiz",
+        "I came to see you",
+        "vine a verte"
+      ],
+      [
+        "to learn",
+        "euskaraz ikasteko",
+        "in order to learn Basque",
+        "para aprender euskera"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Cause with -lako",
+    "description": "-lako attaches to the verb and means 'because'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "because I",
+        "Ez nator, lan egiten dudalako.",
+        "I am not coming because I am working.",
+        "No vengo porque estoy trabajando."
+      ],
+      [
+        "because it",
+        "Ez du erosten, garestia delako.",
+        "He does not buy it because it is expensive.",
+        "No lo compra porque es caro."
+      ],
+      [
+        "because I have",
+        "Pozik nago, oporrak ditudalako.",
+        "I am happy because I have holidays.",
+        "Estoy contento porque tengo vacaciones."
+      ],
+      [
+        "because it is",
+        "Etxean nago, euria egiten duelako.",
+        "I am at home because it is raining.",
+        "Estoy en casa porque está lloviendo."
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Conditionals",
+    "description": "ba- marks a real condition; the -n form plus nuke marks an unreal one.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "real",
+        "Euria egiten badu, ez gara joango.",
+        "If it rains, we will not go.",
+        "Si llueve, no iremos."
+      ],
+      [
+        "real",
+        "Etortzen bazara, pozik izango naiz.",
+        "If you come, I will be happy.",
+        "Si vienes, estaré contento."
+      ],
+      [
+        "unreal",
+        "Diru gehiago izango banu, bidaiatuko nuke.",
+        "If I had more money, I would travel.",
+        "Si tuviera más dinero, viajaría."
+      ],
+      [
+        "unreal",
+        "Zu ni bazina, zer egingo zenuke?",
+        "If you were me, what would you do?",
+        "Si fueras yo, ¿qué harías?"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Plural transitive forms",
+    "description": "When the object is plural, the auxiliary changes: ditut, dituzu, ditu…",
+    "columns": [
+      "Object",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have them",
+        "Nik liburuak ditut.",
+        "I have the books.",
+        "Tengo los libros."
+      ],
+      [
+        "you have them",
+        "Zuk liburuak dituzu.",
+        "You have the books.",
+        "Tienes los libros."
+      ],
+      [
+        "he has them",
+        "Hark liburuak ditu.",
+        "He has the books.",
+        "Él tiene los libros."
+      ],
+      [
+        "we have them",
+        "Guk liburuak ditugu.",
+        "We have the books.",
+        "Tenemos los libros."
+      ],
+      [
+        "they have them",
+        "Haiek liburuak dituzte.",
+        "They have the books.",
+        "Ellos tienen los libros."
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Past habitual (-tzen nuen)",
+    "description": "The habitual participle plus a past auxiliary means 'used to'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "used to buy",
+        "esnea erosten nuen",
+        "I used to buy milk",
+        "solía comprar leche"
+      ],
+      [
+        "used to drink",
+        "kafea edaten nuen",
+        "I used to drink coffee",
+        "solía beber café"
+      ],
+      [
+        "used to read",
+        "liburuak irakurtzen nituen",
+        "I used to read books",
+        "solía leer libros"
+      ],
+      [
+        "used to go",
+        "eskolara joaten nintzen",
+        "I used to go to school",
+        "solía ir a la escuela"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "Complement with -la",
+    "description": "-la turns a clause into the object of verbs like 'to say' or 'to think'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "Uste dut egia dela.",
+        "I think that it is true.",
+        "Creo que es verdad."
+      ],
+      [
+        "that",
+        "Esan zidan etorriko zela.",
+        "He told me that he would come.",
+        "Me dijo que vendría."
+      ],
+      [
+        "that",
+        "Badakit zailak direla.",
+        "I know that they are difficult.",
+        "Sé que son difíciles."
+      ],
+      [
+        "past that",
+        "Egia zela uste nuen.",
+        "I thought that it was true.",
+        "Creía que era verdad."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Relative clauses with -en",
+    "description": "The verb of a relative clause takes -en before the noun.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who",
+        "Etorri den gizona nire laguna da.",
+        "The man who came is my friend.",
+        "El hombre que vino es mi amigo."
+      ],
+      [
+        "which",
+        "Zuk irakurri duzun liburua ona da.",
+        "The book that you read is good.",
+        "El libro que lees es bueno."
+      ],
+      [
+        "past",
+        "Atzo ikusi nuen etxea handia zen.",
+        "The house that I saw yesterday was big.",
+        "La casa que vi ayer era grande."
+      ],
+      [
+        "locative",
+        "Hemen bizi den artzaina ezagutzen dut.",
+        "I know the shepherd who lives here.",
+        "Conozco al pastor que vive aquí."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Nominalising with -tzea",
+    "description": "-tzea turns a verb into a noun, like the English -ing form.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "swimming",
+        "Igeri egitea gustatzen zait.",
+        "I like swimming.",
+        "Me gusta nadar."
+      ],
+      [
+        "reading",
+        "Irakurtzea erabilgarria da.",
+        "Reading is useful.",
+        "Leer es útil."
+      ],
+      [
+        "speaking",
+        "Euskaraz hitz egitea zaila da.",
+        "Speaking Basque is difficult.",
+        "Hablar euskera es difícil."
+      ],
+      [
+        "walking",
+        "Oinez ibiltzea ona da.",
+        "Walking is good.",
+        "Caminar es bueno."
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Temporal -nean",
+    "description": "-nean means 'when' and attaches to the past verb.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "when I",
+        "Etxera iritsi nintzenean, lo egin nuen.",
+        "When I arrived home, I slept.",
+        "Cuando llegué a casa, dormí."
+      ],
+      [
+        "when you",
+        "Zu etorri zinenenean, pozik nengoen.",
+        "When you came, I was happy.",
+        "Cuando viniste, estaba contento."
+      ],
+      [
+        "when it",
+        "Eguzkia atera zenean, joan ginen.",
+        "When the sun came out, we went.",
+        "Cuando salió el sol, fuimos."
+      ],
+      [
+        "when he",
+        "Hura umea zenean, hor bizi zen.",
+        "When he was a child, he lived there.",
+        "Cuando era niño, vivía allí."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Past indirect objects",
+    "description": "The past auxiliary also marks who receives the action.",
+    "columns": [
+      "Meaning",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I to him",
+        "Nik hari liburua eman nion.",
+        "I gave him the book.",
+        "Le di el libro a él."
+      ],
+      [
+        "he to me",
+        "Hark niri kafea eman zidan.",
+        "He gave me coffee.",
+        "Él me dio café."
+      ],
+      [
+        "I to you",
+        "Nik zuri liburua eman nizun.",
+        "I gave you the book.",
+        "Te di el libro."
+      ],
+      [
+        "he to us",
+        "Hark guri gauza bat kontatu zigun.",
+        "He told us something.",
+        "Nos contó algo."
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Instrumental -z",
+    "description": "The ending -z marks the means, the vehicle or the language used.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by train",
+        "Trenez joan nintzen.",
+        "I went by train.",
+        "Fui en tren."
+      ],
+      [
+        "by bus",
+        "Autobusez etorri naiz.",
+        "I came by bus.",
+        "Vine en autobús."
+      ],
+      [
+        "in Basque",
+        "Liburua euskaraz idatzi zuen.",
+        "He wrote the book in Basque.",
+        "Escribió el libro en euskera."
+      ],
+      [
+        "on foot",
+        "Oinez joaten naiz.",
+        "I go on foot.",
+        "Voy a pie."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Partitive -rik",
+    "description": "In negative sentences the object often takes -rik.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "no money",
+        "Ez daukat dirurik.",
+        "I have no money.",
+        "No tengo dinero."
+      ],
+      [
+        "no bread",
+        "Ez dut ogirik jan.",
+        "I have not eaten bread.",
+        "No he comido pan."
+      ],
+      [
+        "no milk",
+        "Ez dut esnerik nahi.",
+        "I do not want milk.",
+        "No quiero leche."
+      ],
+      [
+        "without",
+        "Dirurik gabe nago.",
+        "I am without money.",
+        "Estoy sin dinero."
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Concessive arren",
+    "description": "arren after a participle means 'although'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "although I",
+        "Nekatuta egon arren, etorri naiz.",
+        "Although I was tired, I came.",
+        "Aunque estaba cansado, vine."
+      ],
+      [
+        "although it",
+        "Hotz egin arren, ez ginen geratu.",
+        "Although it was cold, we did not stay.",
+        "Aunque hacía frío, no nos quedamos."
+      ],
+      [
+        "although he",
+        "Gaztea izan arren, jakintsua da.",
+        "Although he is young, he is wise.",
+        "Aunque es joven, es sabio."
+      ],
+      [
+        "although no",
+        "Dirurik ez izan arren, pozik dago.",
+        "Although he has no money, he is happy.",
+        "Aunque no tiene dinero, es feliz."
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Postpositions with the genitive",
+    "description": "Many postpositions need the noun in the genitive or dative.",
+    "columns": [
+      "Postposition",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "about",
+        "liburu honi buruz",
+        "about this book",
+        "sobre este libro"
+      ],
+      [
+        "according to",
+        "eguraldiaren arabera",
+        "according to the weather",
+        "según el tiempo"
+      ],
+      [
+        "in front of",
+        "etxearen aurrean",
+        "in front of the house",
+        "delante de la casa"
+      ],
+      [
+        "thanks to",
+        "zure laguntzari esker",
+        "thanks to your help",
+        "gracias a tu ayuda"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Causal bait-",
+    "description": "The prefix bait- marks a reason inside the sentence.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "because I am",
+        "Ez nator, gaixorik bainago.",
+        "I am not coming, because I am ill.",
+        "No vengo, porque estoy enfermo."
+      ],
+      [
+        "because it is",
+        "Ez dugu erosiko, garestia baitago.",
+        "We will not buy it, because it is expensive.",
+        "No lo compraremos, porque es caro."
+      ],
+      [
+        "because I have",
+        "Pozik nago, oporrak baititut.",
+        "I am happy, because I have holidays.",
+        "Estoy contento, porque tengo vacaciones."
+      ],
+      [
+        "because we are",
+        "Ez gaude haserre, ados baikaude.",
+        "We are not angry, because we agree.",
+        "No estamos enfadados, porque estamos de acuerdo."
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "Statements take -la, questions are kept inside, commands take -tzeko.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "Esan zuen etorriko zela.",
+        "He said that he would come.",
+        "Dijo que vendría."
+      ],
+      [
+        "question",
+        "Galdetu zidan non bizi nintzen.",
+        "He asked me where I lived.",
+        "Me preguntó dónde vivía."
+      ],
+      [
+        "command",
+        "Esan zidan etortzeko.",
+        "He told me to come.",
+        "Me dijo que viniera."
+      ],
+      [
+        "negation",
+        "Esan zuen ez zela etorriko.",
+        "He said that he would not come.",
+        "Dijo que no vendría."
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Potential: naiteke, zaitezke…",
+    "description": "The potential form expresses 'can' as an ability or possibility.",
+    "columns": [
+      "Person",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "Joan naiteke.",
+        "I can go.",
+        "Puedo ir."
+      ],
+      [
+        "you",
+        "Joan zaitezke.",
+        "You can go.",
+        "Puedes ir."
+      ],
+      [
+        "he",
+        "Joan daiteke.",
+        "He can go.",
+        "Él puede ir."
+      ],
+      [
+        "we",
+        "Joan gaitezke.",
+        "We can go.",
+        "Podemos ir."
+      ],
+      [
+        "they",
+        "Joan daitezke.",
+        "They can go.",
+        "Ellos pueden ir."
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Negative complement -enik",
+    "description": "After a negated main verb, the subordinate verb takes -enik.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I do not think",
+        "Ez dut uste egia denik.",
+        "I do not think that it is true.",
+        "No creo que sea verdad."
+      ],
+      [
+        "I do not think",
+        "Ez dut uste etorriko denik.",
+        "I do not think that he will come.",
+        "No creo que venga."
+      ],
+      [
+        "I do not know",
+        "Ez dakit hura hemen dagoenik.",
+        "I do not know that he is here.",
+        "No sé que él esté aquí."
+      ],
+      [
+        "I do not think",
+        "Ez dut uste beharrezkoa denik.",
+        "I do not think that it is necessary.",
+        "No creo que sea necesario."
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "-nez gero (since)",
+    "description": "-nez gero gives the reason for what follows.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "since you",
+        "Etorri zarenez gero, lagunduko dizut.",
+        "Since you have come, I will help you.",
+        "Ya que has venido, te ayudaré."
+      ],
+      [
+        "since it",
+        "Euria egiten duenez gero, etxean geratuko gara.",
+        "Since it is raining, we will stay at home.",
+        "Como está lloviendo, nos quedaremos en casa."
+      ],
+      [
+        "since you have",
+        "Denbora duzunez gero, irakurri hau.",
+        "Since you have time, read this.",
+        "Ya que tienes tiempo, lee esto."
+      ],
+      [
+        "since he",
+        "Hura hemen denez gero, hitz egingo diogu.",
+        "Since he is here, we will talk to him.",
+        "Ya que está aquí, hablaremos con él."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "hain…non / ezen (so…that)",
+    "description": "hain intensifies and non / ezen introduce the consequence.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "so tall that",
+        "Hain da altua, ezen ez da sartzen.",
+        "He is so tall that he does not fit.",
+        "Es tan alto que no entra."
+      ],
+      [
+        "so cold that",
+        "Hain zen hotza, non ez ginen atera.",
+        "It was so cold that we did not go out.",
+        "Hacía tanto frío que no salimos."
+      ],
+      [
+        "so good that",
+        "Hain da ona, non denek maite dute.",
+        "He is so good that everyone loves him.",
+        "Es tan bueno que todos lo quieren."
+      ],
+      [
+        "so tired that",
+        "Hain zegoen nekatuta, ezen lo egin zuen.",
+        "He was so tired that he slept.",
+        "Estaba tan cansado que durmió."
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "bezain / bezain laster",
+    "description": "bezain compares equality; bezain laster means 'as soon as'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "as…as",
+        "Ni zu bezain altua naiz.",
+        "I am as tall as you.",
+        "Soy tan alto como tú."
+      ],
+      [
+        "as…as",
+        "Hau hura bezain garestia da.",
+        "This is as expensive as that.",
+        "Esto es tan caro como eso."
+      ],
+      [
+        "as soon as",
+        "Hura ikusi bezain laster, pozik jarri nintzen.",
+        "As soon as I saw him, I became happy.",
+        "En cuanto lo vi, me puse contento."
+      ],
+      [
+        "as soon as",
+        "Etxera iritsi bezain laster, lo egin nuen.",
+        "As soon as I arrived home, I slept.",
+        "En cuanto llegué a casa, dormí."
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "ezik (but rather)",
+    "description": "ezik corrects or contrasts: 'not… but rather'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rather than",
+        "Lan egin ezik, atseden hartu zuen.",
+        "Rather than work, he rested.",
+        "En vez de trabajar, descansó."
+      ],
+      [
+        "but rather",
+        "Ez dut kafea ezik tea nahiago dut.",
+        "I do not want coffee but rather tea.",
+        "No quiero café, sino té."
+      ],
+      [
+        "not… but",
+        "Hura ez da medikua ezik irakaslea da.",
+        "He is not a doctor but a teacher.",
+        "No es médico, sino profesor."
+      ],
+      [
+        "not… but",
+        "Hemen ez da hotz ezik bero egiten du.",
+        "Here it is not cold but hot.",
+        "Aquí no hace frío, sino calor."
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "ala and ala ez",
+    "description": "ala offers alternatives in questions; ala ez means 'whether or not'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "or",
+        "Kafea ala tea nahi duzu?",
+        "Do you want coffee or tea?",
+        "¿Quieres café o té?"
+      ],
+      [
+        "or",
+        "Gaur ala bihar etorriko zara?",
+        "Will you come today or tomorrow?",
+        "¿Vendrás hoy o mañana?"
+      ],
+      [
+        "whether or not",
+        "Etorriko zaren ala ez galdetu zidan.",
+        "He asked me whether you would come.",
+        "Me preguntó si vendrías o no."
+      ],
+      [
+        "whether or not",
+        "Egia den ala ez ez dakit.",
+        "I do not know whether it is true.",
+        "No sé si es verdad o no."
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "-tzat (as, for)",
+    "description": "-tzat means 'as' or 'for': hartu/jotu tzat.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consider as",
+        "Hori egia tzat jotzen dute.",
+        "They consider that to be true.",
+        "Consideran eso como verdad."
+      ],
+      [
+        "take as",
+        "Nire lagun tzat daukat.",
+        "I consider him a friend.",
+        "Lo tengo por amigo."
+      ],
+      [
+        "as a loan",
+        "Diru hori mailegu tzat hartu nuen.",
+        "I took that money as a loan.",
+        "Tomé ese dinero como préstamo."
+      ],
+      [
+        "for you",
+        "Zuretzat opari bat daukat.",
+        "I have a gift for you.",
+        "Tengo un regalo para ti."
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Resultant state -tuta / -ta",
+    "description": "The participle with -ta describes the state left by an action.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "closed",
+        "Atea itxita dago.",
+        "The door is closed.",
+        "La puerta está cerrada."
+      ],
+      [
+        "open",
+        "Leihoa irekita dago.",
+        "The window is open.",
+        "La ventana está abierta."
+      ],
+      [
+        "tired",
+        "Hura nekatuta dago.",
+        "He is tired.",
+        "Él está cansado."
+      ],
+      [
+        "placed",
+        "Liburuak mahai gainean jarrita daude.",
+        "The books are placed on the table.",
+        "Los libros están puestos sobre la mesa."
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "-lakoan (thinking that)",
+    "description": "-lakoan means 'believing / assuming that'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "thinking he would",
+        "Etorriko zelakoan nengoen.",
+        "I was thinking that he would come.",
+        "Pensaba que vendría."
+      ],
+      [
+        "thinking the sun",
+        "Eguzkia aterako zelakoan atera nintzen.",
+        "Thinking the sun would come out, I went out.",
+        "Pensando que saldría el sol, salí."
+      ],
+      [
+        "thinking I had",
+        "Denbora nuelakoan, lasai nengoen.",
+        "Thinking I had time, I was calm.",
+        "Pensando que tenía tiempo, estaba tranquilo."
+      ],
+      [
+        "thinking he was",
+        "Hura gaixorik zegoelakoan nengoen.",
+        "I was thinking that he was ill.",
+        "Pensaba que él estaba enfermo."
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "-en arabera (according to)",
+    "description": "The genitive plus arabera means 'according to'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "according to",
+        "Eguraldiaren arabera, joango gara.",
+        "Depending on the weather, we will go.",
+        "Según el tiempo, iremos."
+      ],
+      [
+        "according to",
+        "Arauen arabera, hori debekatuta dago.",
+        "According to the rules, that is forbidden.",
+        "Según las normas, eso está prohibido."
+      ],
+      [
+        "according to",
+        "Datuen arabera, igo da prezioa.",
+        "According to the data, the price has risen.",
+        "Según los datos, el precio ha subido."
+      ],
+      [
+        "according to",
+        "Haren esanen arabera, egia da.",
+        "According to what he says, it is true.",
+        "Según lo que él dice, es verdad."
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "baita ere / ez ezik…ere",
+    "description": "baita ere adds; ez ezik…ere means 'not only… but also'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "also",
+        "Hura etorri zen, eta zu baita ere.",
+        "He came, and you too.",
+        "Él vino, y tú también."
+      ],
+      [
+        "also",
+        "Kafea gustatzen zait, baita ere tea.",
+        "I like coffee, and tea as well.",
+        "Me gusta el café, y el té también."
+      ],
+      [
+        "not only… but",
+        "Hura ez ezik, zu ere etorri zara.",
+        "Not only he, but you too have come.",
+        "No solo él, tú también has venido."
+      ],
+      [
+        "not only… but",
+        "Liburuak ez ezik, egunkariak ere irakurtzen ditut.",
+        "I read not only books but also newspapers.",
+        "Leo no solo libros sino también periódicos."
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "hainbat / batzuk",
+    "description": "hainbat means 'several'; batzuk means 'some'.",
+    "columns": [
+      "Use",
+      "Basque",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "several",
+        "Hainbat lagun etorri dira.",
+        "Several friends have come.",
+        "Han venido varios amigos."
+      ],
+      [
+        "some",
+        "Batzuk liburuak dira, besteak aldizkariak.",
+        "Some are books, the others magazines.",
+        "Algunos son libros, los otros revistas."
+      ],
+      [
+        "several",
+        "Hainbat gauza ikasi ditugu.",
+        "We have learned several things.",
+        "Hemos aprendido varias cosas."
+      ],
+      [
+        "some… others",
+        "Batzuk etorriko dira, besteak ez.",
+        "Some will come, the others not.",
+        "Algunos vendrán, los otros no."
+      ]
+    ]
+  }
+]

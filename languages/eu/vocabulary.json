@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "basque": "kaixo",
+    "english": "hello",
+    "spanish": "hola",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "basque": "agur",
+    "english": "goodbye",
+    "spanish": "adiós",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "basque": "egun on",
+    "english": "good morning",
+    "spanish": "buenos días",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "basque": "gau on",
+    "english": "good night",
+    "spanish": "buenas noches",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "basque": "eskerrik asko",
+    "english": "thank you",
+    "spanish": "gracias",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "basque": "mesedez",
+    "english": "please",
+    "spanish": "por favor",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "basque": "barkatu",
+    "english": "sorry",
+    "spanish": "lo siento / perdón",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "basque": "bai",
+    "english": "yes",
+    "spanish": "sí",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "basque": "ez",
+    "english": "no",
+    "spanish": "no",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "basque": "zer moduz?",
+    "english": "how are you?",
+    "spanish": "¿cómo estás?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "basque": "ur",
+    "english": "water",
+    "spanish": "agua",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "basque": "ogi",
+    "english": "bread",
+    "spanish": "pan",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "basque": "esne",
+    "english": "milk",
+    "spanish": "leche",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "basque": "kafe",
+    "english": "coffee",
+    "spanish": "café",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "basque": "sagar",
+    "english": "apple",
+    "spanish": "manzana",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "basque": "etxe",
+    "english": "house",
+    "spanish": "casa",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "basque": "katu",
+    "english": "cat",
+    "spanish": "gato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "basque": "txakur",
+    "english": "dog",
+    "spanish": "perro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "basque": "ama",
+    "english": "mother",
+    "spanish": "madre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "basque": "aita",
+    "english": "father",
+    "spanish": "padre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "basque": "familia",
+    "english": "family",
+    "spanish": "familia",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "basque": "lagun",
+    "english": "friend",
+    "spanish": "amigo",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "basque": "izan",
+    "english": "to be",
+    "spanish": "ser / estar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "basque": "eduki",
+    "english": "to have",
+    "spanish": "tener",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "basque": "joan",
+    "english": "to go",
+    "spanish": "ir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "basque": "jan",
+    "english": "to eat",
+    "spanish": "comer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "basque": "edan",
+    "english": "to drink",
+    "spanish": "beber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "basque": "on",
+    "english": "good",
+    "spanish": "bueno",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "basque": "txar",
+    "english": "bad",
+    "spanish": "malo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "basque": "handi",
+    "english": "big",
+    "spanish": "grande",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "basque": "txiki",
+    "english": "small",
+    "spanish": "pequeño",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "basque": "bizi",
+    "english": "to live",
+    "spanish": "vivir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 33,
+    "basque": "lan egin",
+    "english": "to work",
+    "spanish": "trabajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 34,
+    "basque": "erosi",
+    "english": "to buy",
+    "spanish": "comprar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 35,
+    "basque": "bidaiatu",
+    "english": "to travel",
+    "spanish": "viajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 36,
+    "basque": "sukaldatu",
+    "english": "to cook",
+    "spanish": "cocinar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 37,
+    "basque": "ikasi",
+    "english": "to learn",
+    "spanish": "aprender",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 38,
+    "basque": "arropa",
+    "english": "clothes",
+    "spanish": "ropa",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 39,
+    "basque": "oinetako",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 40,
+    "basque": "beroki",
+    "english": "coat",
+    "spanish": "abrigo",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 41,
+    "basque": "sukalde",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 42,
+    "basque": "bainugela",
+    "english": "bathroom",
+    "spanish": "baño",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 43,
+    "basque": "logela",
+    "english": "bedroom",
+    "spanish": "dormitorio",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 44,
+    "basque": "kale",
+    "english": "street",
+    "spanish": "calle",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 45,
+    "basque": "hiri",
+    "english": "city",
+    "spanish": "ciudad",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 46,
+    "basque": "denda",
+    "english": "shop",
+    "spanish": "tienda",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 47,
+    "basque": "geltoki",
+    "english": "station",
+    "spanish": "estación",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 48,
+    "basque": "txartel",
+    "english": "ticket",
+    "spanish": "billete",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 49,
+    "basque": "maleta",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 50,
+    "basque": "auto",
+    "english": "car",
+    "spanish": "coche",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 51,
+    "basque": "tren",
+    "english": "train",
+    "spanish": "tren",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 52,
+    "basque": "gaur",
+    "english": "today",
+    "spanish": "hoy",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 53,
+    "basque": "bihar",
+    "english": "tomorrow",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 54,
+    "basque": "atzo",
+    "english": "yesterday",
+    "spanish": "ayer",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 55,
+    "basque": "beti",
+    "english": "always",
+    "spanish": "siempre",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 56,
+    "basque": "sarritan",
+    "english": "often",
+    "spanish": "a menudo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 57,
+    "basque": "inoiz ez",
+    "english": "never",
+    "spanish": "nunca",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 58,
+    "basque": "eguraldi",
+    "english": "weather",
+    "spanish": "tiempo (clima)",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 59,
+    "basque": "euri",
+    "english": "rain",
+    "spanish": "lluvia",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 60,
+    "basque": "eguzki",
+    "english": "sun",
+    "spanish": "sol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 61,
+    "basque": "zoriontsu",
+    "english": "happy",
+    "spanish": "feliz",
+    "category": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": 62,
+    "basque": "esperientzia",
+    "english": "experience",
+    "spanish": "experiencia",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 63,
+    "basque": "lanbide",
+    "english": "profession",
+    "spanish": "profesión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 64,
+    "basque": "nagusi",
+    "english": "boss",
+    "spanish": "jefe",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 65,
+    "basque": "bilera",
+    "english": "meeting",
+    "spanish": "reunión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 66,
+    "basque": "kontratu",
+    "english": "contract",
+    "spanish": "contrato",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 67,
+    "basque": "soldata",
+    "english": "salary",
+    "spanish": "salario",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 68,
+    "basque": "hezkuntza",
+    "english": "education",
+    "spanish": "educación",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 69,
+    "basque": "ezagutza",
+    "english": "knowledge",
+    "spanish": "conocimiento",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 70,
+    "basque": "trebetasun",
+    "english": "skill",
+    "spanish": "habilidad",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 71,
+    "basque": "azterketa",
+    "english": "exam",
+    "spanish": "examen",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 72,
+    "basque": "osasun",
+    "english": "health",
+    "spanish": "salud",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 73,
+    "basque": "gaixotasun",
+    "english": "illness",
+    "spanish": "enfermedad",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 74,
+    "basque": "mediku",
+    "english": "doctor",
+    "spanish": "médico",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 75,
+    "basque": "zorion",
+    "english": "happiness",
+    "spanish": "felicidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 76,
+    "basque": "beldur",
+    "english": "fear",
+    "spanish": "miedo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 77,
+    "basque": "itxaropen",
+    "english": "hope",
+    "spanish": "esperanza",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 78,
+    "basque": "maitasun",
+    "english": "love",
+    "spanish": "amor",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 79,
+    "basque": "jelosia",
+    "english": "jealousy",
+    "spanish": "celos",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 80,
+    "basque": "erabaki",
+    "english": "to decide",
+    "spanish": "decidir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 81,
+    "basque": "aukeratu",
+    "english": "to choose",
+    "spanish": "elegir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 82,
+    "basque": "azaldu",
+    "english": "to explain",
+    "spanish": "explicar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 83,
+    "basque": "konparatu",
+    "english": "to compare",
+    "spanish": "comparar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 84,
+    "basque": "lortu",
+    "english": "to achieve",
+    "spanish": "lograr",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 85,
+    "basque": "gomendatu",
+    "english": "to recommend",
+    "spanish": "recomendar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 86,
+    "basque": "egia esan",
+    "english": "actually",
+    "spanish": "en realidad",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 87,
+    "basque": "berehala",
+    "english": "immediately",
+    "spanish": "inmediatamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 88,
+    "basque": "zoritxarrez",
+    "english": "unfortunately",
+    "spanish": "desafortunadamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 89,
+    "basque": "ingurumen",
+    "english": "environment",
+    "spanish": "medio ambiente",
+    "category": "nature",
+    "level": "B1"
+  },
+  {
+    "id": 90,
+    "basque": "gizarte",
+    "english": "society",
+    "spanish": "sociedad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 91,
+    "basque": "aukera",
+    "english": "choice",
+    "spanish": "elección",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 92,
+    "basque": "sinesmen",
+    "english": "belief",
+    "spanish": "convicción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 93,
+    "basque": "zalantza",
+    "english": "doubt",
+    "spanish": "duda",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "basque": "fenomeno",
+    "english": "phenomenon",
+    "spanish": "fenómeno",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "basque": "konponbide",
+    "english": "solution",
+    "spanish": "solución",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "basque": "ikerketa",
+    "english": "research",
+    "spanish": "investigación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "basque": "eragin",
+    "english": "influence",
+    "spanish": "influencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "basque": "mehatxu",
+    "english": "threat",
+    "spanish": "amenaza",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "basque": "kontzientzia",
+    "english": "awareness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "basque": "garapen",
+    "english": "development",
+    "spanish": "desarrollo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 101,
+    "basque": "aurrerapen",
+    "english": "progress",
+    "spanish": "progreso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 102,
+    "basque": "ondorio",
+    "english": "consequence",
+    "spanish": "consecuencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 103,
+    "basque": "aurreikusi",
+    "english": "to predict",
+    "spanish": "predecir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 104,
+    "basque": "suposatu",
+    "english": "to assume",
+    "spanish": "asumir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 105,
+    "basque": "frogatu",
+    "english": "to prove",
+    "spanish": "demostrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 106,
+    "basque": "zalantzan jarri",
+    "english": "to doubt",
+    "spanish": "dudar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 107,
+    "basque": "negoziatu",
+    "english": "to negotiate",
+    "spanish": "negociar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 108,
+    "basque": "analizatu",
+    "english": "to analyze",
+    "spanish": "analizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 109,
+    "basque": "ebaluatu",
+    "english": "to assess",
+    "spanish": "evaluar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 110,
+    "basque": "aski",
+    "english": "sufficient",
+    "spanish": "suficiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 111,
+    "basque": "begi-bistako",
+    "english": "obvious",
+    "spanish": "obvio",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 112,
+    "basque": "konplexu",
+    "english": "complex",
+    "spanish": "complejo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 113,
+    "basque": "erlatibo",
+    "english": "relative",
+    "spanish": "relativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 114,
+    "basque": "independente",
+    "english": "independent",
+    "spanish": "independiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 115,
+    "basque": "jasangarri",
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 116,
+    "basque": "nahiz eta",
+    "english": "even though",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 117,
+    "basque": "hala ere",
+    "english": "however",
+    "spanish": "sin embargo",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 118,
+    "basque": "aldiz",
+    "english": "whereas",
+    "spanish": "en cambio",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 119,
+    "basque": "gainera",
+    "english": "moreover",
+    "spanish": "además",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 120,
+    "basque": "askatasun",
+    "english": "freedom",
+    "spanish": "libertad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 121,
+    "basque": "bat",
+    "english": "one",
+    "spanish": "uno",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "basque": "bi",
+    "english": "two",
+    "spanish": "dos",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "basque": "hiru",
+    "english": "three",
+    "spanish": "tres",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "basque": "lau",
+    "english": "four",
+    "spanish": "cuatro",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "basque": "bost",
+    "english": "five",
+    "spanish": "cinco",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "basque": "sei",
+    "english": "six",
+    "spanish": "seis",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "basque": "zazpi",
+    "english": "seven",
+    "spanish": "siete",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "basque": "zortzi",
+    "english": "eight",
+    "spanish": "ocho",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "basque": "bederatzi",
+    "english": "nine",
+    "spanish": "nueve",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "basque": "hamar",
+    "english": "ten",
+    "spanish": "diez",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "basque": "gorri",
+    "english": "red",
+    "spanish": "rojo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "basque": "urdin",
+    "english": "blue",
+    "spanish": "azul",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "basque": "berde",
+    "english": "green",
+    "spanish": "verde",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "basque": "beltz",
+    "english": "black",
+    "spanish": "negro",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "basque": "zuri",
+    "english": "white",
+    "spanish": "blanco",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "basque": "hori",
+    "english": "yellow",
+    "spanish": "amarillo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "basque": "eguzkitsu",
+    "english": "sunny",
+    "spanish": "soleado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "basque": "euritsu",
+    "english": "rainy",
+    "spanish": "lluvioso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "basque": "hodeitsu",
+    "english": "cloudy",
+    "spanish": "nublado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "basque": "hotz",
+    "english": "cold",
+    "spanish": "frío",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "basque": "bero",
+    "english": "hot",
+    "spanish": "caluroso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "basque": "anai",
+    "english": "brother",
+    "spanish": "hermano",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "basque": "arreba",
+    "english": "sister",
+    "spanish": "hermana",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "basque": "seme",
+    "english": "son",
+    "spanish": "hijo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "basque": "alaba",
+    "english": "daughter",
+    "spanish": "hija",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "basque": "eskola",
+    "english": "school",
+    "spanish": "escuela",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "basque": "parke",
+    "english": "park",
+    "spanish": "parque",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "basque": "ezker",
+    "english": "left",
+    "spanish": "izquierda",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "basque": "eskuin",
+    "english": "right",
+    "spanish": "derecha",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "basque": "laguntza",
+    "english": "help",
+    "spanish": "ayuda",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "basque": "lorategi",
+    "english": "garden",
+    "spanish": "jardín",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 152,
+    "basque": "leiho",
+    "english": "window",
+    "spanish": "ventana",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 153,
+    "basque": "ate",
+    "english": "door",
+    "spanish": "puerta",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 154,
+    "basque": "aulki",
+    "english": "chair",
+    "spanish": "silla",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 155,
+    "basque": "mahai",
+    "english": "table",
+    "spanish": "mesa",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 156,
+    "basque": "liburu",
+    "english": "book",
+    "spanish": "libro",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 157,
+    "basque": "boligrafo",
+    "english": "pen",
+    "spanish": "bolígrafo",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 158,
+    "basque": "irakurri",
+    "english": "to read",
+    "spanish": "leer",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 159,
+    "basque": "idatzi",
+    "english": "to write",
+    "spanish": "escribir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 160,
+    "basque": "hitz egin",
+    "english": "to speak",
+    "spanish": "hablar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 161,
+    "basque": "entzun",
+    "english": "to listen",
+    "spanish": "escuchar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 162,
+    "basque": "ireki",
+    "english": "to open",
+    "spanish": "abrir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 163,
+    "basque": "itxi",
+    "english": "to close",
+    "spanish": "cerrar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 164,
+    "basque": "lo egin",
+    "english": "to sleep",
+    "spanish": "dormir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 165,
+    "basque": "korrika egin",
+    "english": "to run",
+    "spanish": "correr",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 166,
+    "basque": "igeri egin",
+    "english": "to swim",
+    "spanish": "nadar",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 167,
+    "basque": "futbol",
+    "english": "football",
+    "spanish": "fútbol",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 168,
+    "basque": "musika",
+    "english": "music",
+    "spanish": "música",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 169,
+    "basque": "abesti",
+    "english": "song",
+    "spanish": "canción",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 170,
+    "basque": "abestu",
+    "english": "to sing",
+    "spanish": "cantar",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 171,
+    "basque": "festa",
+    "english": "party",
+    "spanish": "fiesta",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 172,
+    "basque": "hondartza",
+    "english": "beach",
+    "spanish": "playa",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 173,
+    "basque": "mendi",
+    "english": "mountain",
+    "spanish": "montaña",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 174,
+    "basque": "ibai",
+    "english": "river",
+    "spanish": "río",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 175,
+    "basque": "zuhaitz",
+    "english": "tree",
+    "spanish": "árbol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 176,
+    "basque": "lore",
+    "english": "flower",
+    "spanish": "flor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 177,
+    "basque": "zeru",
+    "english": "sky",
+    "spanish": "cielo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 178,
+    "basque": "nekatuta",
+    "english": "tired",
+    "spanish": "cansado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 179,
+    "basque": "haserre",
+    "english": "angry",
+    "spanish": "enfadado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 180,
+    "basque": "kezkatuta",
+    "english": "worried",
+    "spanish": "preocupado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 181,
+    "basque": "diru-sarrera",
+    "english": "income",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 182,
+    "basque": "aurreztu",
+    "english": "to save",
+    "spanish": "ahorrar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 183,
+    "basque": "gastatu",
+    "english": "to spend",
+    "spanish": "gastar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 184,
+    "basque": "zor",
+    "english": "debt",
+    "spanish": "deuda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 185,
+    "basque": "prezio",
+    "english": "price",
+    "spanish": "precio",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 186,
+    "basque": "banku",
+    "english": "bank",
+    "spanish": "banco",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 187,
+    "basque": "kontratatu",
+    "english": "to hire",
+    "spanish": "contratar",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 188,
+    "basque": "lankide",
+    "english": "colleague",
+    "spanish": "colega",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 189,
+    "basque": "epe",
+    "english": "deadline",
+    "spanish": "fecha límite",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 190,
+    "basque": "karrera",
+    "english": "career",
+    "spanish": "carrera",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 191,
+    "basque": "hobetu",
+    "english": "to improve",
+    "spanish": "mejorar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 192,
+    "basque": "iradoki",
+    "english": "to suggest",
+    "spanish": "sugerir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 193,
+    "basque": "saihestu",
+    "english": "to avoid",
+    "spanish": "evitar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 194,
+    "basque": "garatu",
+    "english": "to develop",
+    "spanish": "desarrollar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 195,
+    "basque": "babestu",
+    "english": "to support",
+    "spanish": "apoyar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 196,
+    "basque": "kutsadura",
+    "english": "pollution",
+    "spanish": "contaminación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 197,
+    "basque": "klima",
+    "english": "climate",
+    "spanish": "clima",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 198,
+    "basque": "birziklatu",
+    "english": "to recycle",
+    "spanish": "reciclar",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 199,
+    "basque": "energia",
+    "english": "energy",
+    "spanish": "energía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 200,
+    "basque": "gobernu",
+    "english": "government",
+    "spanish": "gobierno",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 201,
+    "basque": "lege",
+    "english": "law",
+    "spanish": "ley",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 202,
+    "basque": "hauteskunde",
+    "english": "election",
+    "spanish": "elección",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 203,
+    "basque": "herritar",
+    "english": "citizen",
+    "spanish": "ciudadano",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 204,
+    "basque": "kultura",
+    "english": "culture",
+    "spanish": "cultura",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 205,
+    "basque": "zientzia",
+    "english": "science",
+    "spanish": "ciencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 206,
+    "basque": "esperimentu",
+    "english": "experiment",
+    "spanish": "experimento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 207,
+    "basque": "froga",
+    "english": "evidence",
+    "spanish": "evidencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 208,
+    "basque": "teoria",
+    "english": "theory",
+    "spanish": "teoría",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 209,
+    "basque": "aurkikuntza",
+    "english": "discovery",
+    "spanish": "descubrimiento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 210,
+    "basque": "agian",
+    "english": "perhaps",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 211,
+    "basque": "suposizio",
+    "english": "assumption",
+    "spanish": "suposición",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 212,
+    "basque": "eztabaida",
+    "english": "controversy",
+    "spanish": "controversia",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 213,
+    "basque": "desberdintasun",
+    "english": "inequality",
+    "spanish": "desigualdad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 214,
+    "basque": "jasangarritasun",
+    "english": "sustainability",
+    "spanish": "sostenibilidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 215,
+    "basque": "ikuspegi",
+    "english": "perspective",
+    "spanish": "perspectiva",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 216,
+    "basque": "inplikazio",
+    "english": "implication",
+    "spanish": "implicación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 217,
+    "basque": "muga",
+    "english": "constraint",
+    "spanish": "restricción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 218,
+    "basque": "pizgarri",
+    "english": "incentive",
+    "spanish": "incentivo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 219,
+    "basque": "diru-sarrera",
+    "english": "revenue",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 220,
+    "basque": "inbertsio",
+    "english": "investment",
+    "spanish": "inversión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 221,
+    "basque": "negoziazio",
+    "english": "negotiation",
+    "spanish": "negociación",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 222,
+    "basque": "eraginkortasun",
+    "english": "efficiency",
+    "spanish": "eficiencia",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 223,
+    "basque": "berrikuntza",
+    "english": "innovation",
+    "spanish": "innovación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 224,
+    "basque": "algoritmo",
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 225,
+    "basque": "pribatutasun",
+    "english": "privacy",
+    "spanish": "privacidad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 226,
+    "basque": "adimen artifizial",
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 227,
+    "basque": "datu",
+    "english": "data",
+    "spanish": "datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 228,
+    "basque": "zibersegurtasun",
+    "english": "cybersecurity",
+    "spanish": "ciberseguridad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 229,
+    "basque": "ahuldu",
+    "english": "to undermine",
+    "spanish": "socavar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 230,
+    "basque": "indartu",
+    "english": "to reinforce",
+    "spanish": "reforzar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 231,
+    "basque": "arindu",
+    "english": "to mitigate",
+    "spanish": "mitigar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 232,
+    "basque": "erraztu",
+    "english": "to facilitate",
+    "spanish": "facilitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 233,
+    "basque": "aitortu",
+    "english": "to acknowledge",
+    "spanish": "reconocer",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 234,
+    "basque": "anbiguo",
+    "english": "ambiguous",
+    "spanish": "ambiguo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 235,
+    "basque": "bideragarri",
+    "english": "feasible",
+    "spanish": "factible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 236,
+    "basque": "saihestezin",
+    "english": "inevitable",
+    "spanish": "inevitable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 237,
+    "basque": "oso",
+    "english": "comprehensive",
+    "spanish": "integral",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 238,
+    "basque": "sinesgarri",
+    "english": "compelling",
+    "spanish": "convincente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 239,
+    "basque": "hedatu",
+    "english": "prevalent",
+    "spanish": "predominante",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 240,
+    "basque": "kaltegarri",
+    "english": "detrimental",
+    "spanish": "perjudicial",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 241,
+    "basque": "buru",
+    "english": "head",
+    "spanish": "cabeza",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "basque": "esku",
+    "english": "hand",
+    "spanish": "mano",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "basque": "oin",
+    "english": "foot",
+    "spanish": "pie",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "basque": "begi",
+    "english": "eye",
+    "spanish": "ojo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "basque": "belarri",
+    "english": "ear",
+    "spanish": "oreja",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "basque": "aho",
+    "english": "mouth",
+    "spanish": "boca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "basque": "sudur",
+    "english": "nose",
+    "spanish": "nariz",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "basque": "ile",
+    "english": "hair",
+    "spanish": "pelo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "basque": "beso",
+    "english": "arm",
+    "spanish": "brazo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "basque": "hanka",
+    "english": "leg",
+    "spanish": "pierna",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "basque": "ohe",
+    "english": "bed",
+    "spanish": "cama",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "basque": "lanpara",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "basque": "giltza",
+    "english": "key",
+    "spanish": "llave",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "basque": "horma",
+    "english": "wall",
+    "spanish": "pared",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "basque": "zoru",
+    "english": "floor",
+    "spanish": "suelo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "basque": "teilatu",
+    "english": "roof",
+    "spanish": "tejado",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "basque": "arrautza",
+    "english": "egg",
+    "spanish": "huevo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "basque": "gazta",
+    "english": "cheese",
+    "spanish": "queso",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "basque": "arrain",
+    "english": "fish",
+    "spanish": "pescado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "basque": "haragi",
+    "english": "meat",
+    "spanish": "carne",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "basque": "zopa",
+    "english": "soup",
+    "spanish": "sopa",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "basque": "entsalada",
+    "english": "salad",
+    "spanish": "ensalada",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "basque": "azukre",
+    "english": "sugar",
+    "spanish": "azúcar",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "basque": "gatz",
+    "english": "salt",
+    "spanish": "sal",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "basque": "berri",
+    "english": "new",
+    "spanish": "nuevo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "basque": "zahar",
+    "english": "old",
+    "spanish": "viejo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "basque": "gazte",
+    "english": "young",
+    "spanish": "joven",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "basque": "luze",
+    "english": "long",
+    "spanish": "largo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "basque": "labur",
+    "english": "short",
+    "spanish": "corto",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "basque": "motel",
+    "english": "slow",
+    "spanish": "lento",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "basque": "esnatu",
+    "english": "to wake up",
+    "spanish": "despertarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "basque": "jaiki",
+    "english": "to get up",
+    "spanish": "levantarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "basque": "garbitu",
+    "english": "to wash",
+    "spanish": "lavarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "basque": "jantzi",
+    "english": "to dress",
+    "spanish": "vestirse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "basque": "atseden hartu",
+    "english": "to rest",
+    "spanish": "descansar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "basque": "hasi",
+    "english": "to start",
+    "spanish": "empezar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "basque": "amaitu",
+    "english": "to finish",
+    "spanish": "terminar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "basque": "saiatu",
+    "english": "to try",
+    "spanish": "intentar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "basque": "autobus",
+    "english": "bus",
+    "spanish": "autobús",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "basque": "bizikleta",
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "basque": "hegazkin",
+    "english": "plane",
+    "spanish": "avión",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "basque": "itsasontzi",
+    "english": "boat",
+    "spanish": "barco",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "basque": "aireportu",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "basque": "errepide",
+    "english": "road",
+    "spanish": "carretera",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "basque": "pasaporte",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "basque": "turista",
+    "english": "tourist",
+    "spanish": "turista",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "basque": "gida",
+    "english": "guide",
+    "spanish": "guía",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "basque": "opor",
+    "english": "holiday",
+    "spanish": "vacaciones",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "basque": "aspertuta",
+    "english": "bored",
+    "spanish": "aburrido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "basque": "emozionatuta",
+    "english": "excited",
+    "spanish": "emocionado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "basque": "harrituta",
+    "english": "surprised",
+    "spanish": "sorprendido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "basque": "urduri",
+    "english": "nervous",
+    "spanish": "nervioso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "basque": "harro",
+    "english": "proud",
+    "spanish": "orgulloso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "basque": "lasai",
+    "english": "calm",
+    "spanish": "tranquilo",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "basque": "azoka",
+    "english": "market",
+    "spanish": "mercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "basque": "supermerkatu",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "basque": "txartel",
+    "english": "card",
+    "spanish": "tarjeta",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "basque": "eskudiru",
+    "english": "cash",
+    "spanish": "efectivo",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "basque": "deskontu",
+    "english": "discount",
+    "spanish": "descuento",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "basque": "neurri",
+    "english": "size",
+    "spanish": "talla",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "basque": "langile",
+    "english": "employee",
+    "spanish": "empleado",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 302,
+    "basque": "enplegatzaile",
+    "english": "employer",
+    "spanish": "empleador",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 303,
+    "basque": "elkarrizketa",
+    "english": "interview",
+    "spanish": "entrevista",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "basque": "curriculum",
+    "english": "resume",
+    "spanish": "currículum",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "basque": "igoera",
+    "english": "promotion",
+    "spanish": "ascenso",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "basque": "zeregin",
+    "english": "task",
+    "spanish": "tarea",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "basque": "proiektu",
+    "english": "project",
+    "spanish": "proyecto",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "basque": "talde",
+    "english": "team",
+    "spanish": "equipo",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "basque": "arduradun",
+    "english": "manager",
+    "spanish": "gerente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "basque": "prestakuntza",
+    "english": "training",
+    "spanish": "formación",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "basque": "tradizio",
+    "english": "tradition",
+    "spanish": "tradición",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "basque": "erlijio",
+    "english": "religion",
+    "spanish": "religión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "basque": "komunikabide",
+    "english": "media",
+    "spanish": "medios de comunicación",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "basque": "albiste",
+    "english": "news",
+    "spanish": "noticias",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "basque": "kazetari",
+    "english": "journalist",
+    "spanish": "periodista",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "basque": "iritzi",
+    "english": "opinion",
+    "spanish": "opinión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "basque": "protesta",
+    "english": "protest",
+    "spanish": "protesta",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "basque": "boto",
+    "english": "vote",
+    "spanish": "voto",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "basque": "hondakin",
+    "english": "waste",
+    "spanish": "residuos",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "basque": "baso",
+    "english": "forest",
+    "spanish": "bosque",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "basque": "ozeano",
+    "english": "ocean",
+    "spanish": "océano",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "basque": "uholde",
+    "english": "flood",
+    "spanish": "inundación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "basque": "lehorte",
+    "english": "drought",
+    "spanish": "sequía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "basque": "espezie",
+    "english": "species",
+    "spanish": "especie",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "basque": "tratamendu",
+    "english": "treatment",
+    "spanish": "tratamiento",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "basque": "sintoma",
+    "english": "symptom",
+    "spanish": "síntoma",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "basque": "errezeta",
+    "english": "prescription",
+    "spanish": "receta médica",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "basque": "aseguru",
+    "english": "insurance",
+    "spanish": "seguro",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 329,
+    "basque": "dieta",
+    "english": "diet",
+    "spanish": "dieta",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 330,
+    "basque": "estres",
+    "english": "stress",
+    "spanish": "estrés",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 331,
+    "basque": "software",
+    "english": "software",
+    "spanish": "software",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "basque": "hardware",
+    "english": "hardware",
+    "spanish": "hardware",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "basque": "sare",
+    "english": "network",
+    "spanish": "red",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "basque": "zerbitzari",
+    "english": "server",
+    "spanish": "servidor",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "basque": "datu-base",
+    "english": "database",
+    "spanish": "base de datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "basque": "zifratze",
+    "english": "encryption",
+    "spanish": "cifrado",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "basque": "gailu",
+    "english": "device",
+    "spanish": "dispositivo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "basque": "aplikazio",
+    "english": "application",
+    "spanish": "aplicación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "basque": "plataforma",
+    "english": "platform",
+    "spanish": "plataforma",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "basque": "birtual",
+    "english": "virtual",
+    "spanish": "virtual",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "basque": "irabazi",
+    "english": "profit",
+    "spanish": "beneficio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "basque": "aurrekontu",
+    "english": "budget",
+    "spanish": "presupuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "basque": "zerga",
+    "english": "tax",
+    "spanish": "impuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "basque": "inflazio",
+    "english": "inflation",
+    "spanish": "inflación",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "basque": "merkataritza",
+    "english": "trade",
+    "spanish": "comercio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "basque": "moneta",
+    "english": "currency",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "basque": "eskaintza",
+    "english": "supply",
+    "spanish": "oferta",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "basque": "esparru",
+    "english": "framework",
+    "spanish": "marco",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "basque": "irizpide",
+    "english": "criterion",
+    "spanish": "criterio",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "basque": "paradigma",
+    "english": "paradigm",
+    "spanish": "paradigma",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "basque": "nozio",
+    "english": "notion",
+    "spanish": "noción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "basque": "hipotesi",
+    "english": "hypothesis",
+    "spanish": "hipótesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "basque": "adostasun",
+    "english": "consensus",
+    "spanish": "consenso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "basque": "anbiguotasun",
+    "english": "ambiguity",
+    "spanish": "ambigüedad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "basque": "esleitu",
+    "english": "to allocate",
+    "spanish": "asignar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "basque": "ezarri",
+    "english": "to implement",
+    "spanish": "implementar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "basque": "integratu",
+    "english": "to integrate",
+    "spanish": "integrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "basque": "optimizatu",
+    "english": "to optimize",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "basque": "lehenetsi",
+    "english": "to prioritize",
+    "spanish": "priorizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "basque": "balioztatu",
+    "english": "to validate",
+    "spanish": "validar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "basque": "txori",
+    "english": "bird",
+    "spanish": "pájaro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "basque": "zaldi",
+    "english": "horse",
+    "spanish": "caballo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "basque": "behi",
+    "english": "cow",
+    "spanish": "vaca",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "basque": "txerri",
+    "english": "pig",
+    "spanish": "cerdo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "basque": "oilo",
+    "english": "chicken",
+    "spanish": "pollo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "basque": "sagu",
+    "english": "mouse",
+    "spanish": "ratón",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "basque": "untxi",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "basque": "ardi",
+    "english": "sheep",
+    "spanish": "oveja",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "basque": "ahate",
+    "english": "duck",
+    "spanish": "pato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "basque": "lehoi",
+    "english": "lion",
+    "spanish": "león",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "basque": "ilargi",
+    "english": "moon",
+    "spanish": "luna",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "basque": "izar",
+    "english": "star",
+    "spanish": "estrella",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "basque": "hodei",
+    "english": "cloud",
+    "spanish": "nube",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "basque": "haize",
+    "english": "wind",
+    "spanish": "viento",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "basque": "elur",
+    "english": "snow",
+    "spanish": "nieve",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "basque": "izotz",
+    "english": "ice",
+    "spanish": "hielo",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "basque": "su",
+    "english": "fire",
+    "spanish": "fuego",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "basque": "harri",
+    "english": "stone",
+    "spanish": "piedra",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "basque": "lehen",
+    "english": "first",
+    "spanish": "primero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "basque": "bigarren",
+    "english": "second",
+    "spanish": "segundo",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "basque": "hirugarren",
+    "english": "third",
+    "spanish": "tercero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "basque": "azken",
+    "english": "last",
+    "spanish": "último",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "basque": "hurrengo",
+    "english": "next",
+    "spanish": "siguiente",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "basque": "berriro",
+    "english": "again",
+    "spanish": "otra vez",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "basque": "ikusi",
+    "english": "to see",
+    "spanish": "ver",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "basque": "entzun",
+    "english": "to hear",
+    "spanish": "oír",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "basque": "jakin",
+    "english": "to know",
+    "spanish": "saber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "basque": "pentsatu",
+    "english": "to think",
+    "spanish": "pensar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "basque": "eman",
+    "english": "to give",
+    "spanish": "dar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "basque": "hartu",
+    "english": "to take",
+    "spanish": "tomar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "basque": "irakasle",
+    "english": "teacher",
+    "spanish": "profesor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 392,
+    "basque": "ingeniari",
+    "english": "engineer",
+    "spanish": "ingeniero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 393,
+    "basque": "erizain",
+    "english": "nurse",
+    "spanish": "enfermero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 394,
+    "basque": "abokatu",
+    "english": "lawyer",
+    "spanish": "abogado",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 395,
+    "basque": "sukaldari",
+    "english": "chef",
+    "spanish": "chef",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 396,
+    "basque": "gidari",
+    "english": "driver",
+    "spanish": "conductor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 397,
+    "basque": "baserritar",
+    "english": "farmer",
+    "spanish": "granjero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 398,
+    "basque": "polizia",
+    "english": "police officer",
+    "spanish": "policía",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 399,
+    "basque": "zerbitzari",
+    "english": "waiter",
+    "spanish": "camarero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 400,
+    "basque": "artista",
+    "english": "artist",
+    "spanish": "artista",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 401,
+    "basque": "eliza",
+    "english": "church",
+    "spanish": "iglesia",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 402,
+    "basque": "museo",
+    "english": "museum",
+    "spanish": "museo",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 403,
+    "basque": "liburutegi",
+    "english": "library",
+    "spanish": "biblioteca",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 404,
+    "basque": "antzoki",
+    "english": "theatre",
+    "spanish": "teatro",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 405,
+    "basque": "zubi",
+    "english": "bridge",
+    "spanish": "puente",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 406,
+    "basque": "plaza",
+    "english": "square",
+    "spanish": "plaza",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 407,
+    "basque": "fabrika",
+    "english": "factory",
+    "spanish": "fábrica",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 408,
+    "basque": "bulego",
+    "english": "office",
+    "spanish": "oficina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 409,
+    "basque": "egosi",
+    "english": "to boil",
+    "spanish": "hervir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 410,
+    "basque": "frijitu",
+    "english": "to fry",
+    "spanish": "freír",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 411,
+    "basque": "labean egin",
+    "english": "to bake",
+    "spanish": "hornear",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 412,
+    "basque": "labana",
+    "english": "knife",
+    "spanish": "cuchillo",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 413,
+    "basque": "koilara",
+    "english": "spoon",
+    "spanish": "cuchara",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 414,
+    "basque": "sardexka",
+    "english": "fork",
+    "spanish": "tenedor",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 415,
+    "basque": "margotu",
+    "english": "to paint",
+    "spanish": "pintar",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 416,
+    "basque": "argazkilaritza",
+    "english": "photography",
+    "spanish": "fotografía",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 417,
+    "basque": "xake",
+    "english": "chess",
+    "spanish": "ajedrez",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 418,
+    "basque": "kanpaldia",
+    "english": "camping",
+    "spanish": "acampada",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 419,
+    "basque": "arrantza",
+    "english": "fishing",
+    "spanish": "pesca",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 420,
+    "basque": "lorezaintza",
+    "english": "gardening",
+    "spanish": "jardinería",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 421,
+    "basque": "ausardia",
+    "english": "courage",
+    "spanish": "valor",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 422,
+    "basque": "pazientzia",
+    "english": "patience",
+    "spanish": "paciencia",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 423,
+    "basque": "zintzotasun",
+    "english": "honesty",
+    "spanish": "honestidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 424,
+    "basque": "jakinduria",
+    "english": "wisdom",
+    "spanish": "sabiduría",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 425,
+    "basque": "ontasun",
+    "english": "kindness",
+    "spanish": "amabilidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 426,
+    "basque": "errespetu",
+    "english": "respect",
+    "spanish": "respeto",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 427,
+    "basque": "konfiantza",
+    "english": "trust",
+    "spanish": "confianza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 428,
+    "basque": "harrotasun",
+    "english": "pride",
+    "spanish": "orgullo",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 429,
+    "basque": "lotsa",
+    "english": "shame",
+    "spanish": "vergüenza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 430,
+    "basque": "haserre",
+    "english": "anger",
+    "spanish": "ira",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 431,
+    "basque": "bezero",
+    "english": "customer",
+    "spanish": "cliente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 432,
+    "basque": "hornitzaile",
+    "english": "supplier",
+    "spanish": "proveedor",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 433,
+    "basque": "marka",
+    "english": "brand",
+    "spanish": "marca",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 434,
+    "basque": "marketin",
+    "english": "marketing",
+    "spanish": "marketing",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 435,
+    "basque": "faktura",
+    "english": "invoice",
+    "spanish": "factura",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 436,
+    "basque": "biltegi",
+    "english": "warehouse",
+    "spanish": "almacén",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 437,
+    "basque": "txikizkako merkataritza",
+    "english": "retail",
+    "spanish": "comercio minorista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 438,
+    "basque": "akziodun",
+    "english": "shareholder",
+    "spanish": "accionista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 439,
+    "basque": "konstituzio",
+    "english": "constitution",
+    "spanish": "constitución",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 440,
+    "basque": "parlamentu",
+    "english": "parliament",
+    "spanish": "parlamento",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 441,
+    "basque": "ministro",
+    "english": "minister",
+    "spanish": "ministro",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 442,
+    "basque": "auzitegi",
+    "english": "court",
+    "spanish": "tribunal",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 443,
+    "basque": "epaile",
+    "english": "judge",
+    "spanish": "juez",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 444,
+    "basque": "epai",
+    "english": "sentence",
+    "spanish": "sentencia",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 445,
+    "basque": "molekula",
+    "english": "molecule",
+    "spanish": "molécula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 446,
+    "basque": "atomo",
+    "english": "atom",
+    "spanish": "átomo",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 447,
+    "basque": "grabitate",
+    "english": "gravity",
+    "spanish": "gravedad",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 448,
+    "basque": "zelula",
+    "english": "cell",
+    "spanish": "célula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 449,
+    "basque": "laborategi",
+    "english": "laboratory",
+    "spanish": "laboratorio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 450,
+    "basque": "mikroskopio",
+    "english": "microscope",
+    "spanish": "microscopio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 451,
+    "basque": "sintesi",
+    "english": "synthesis",
+    "spanish": "síntesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "basque": "metodologia",
+    "english": "methodology",
+    "spanish": "metodología",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "basque": "korrelazio",
+    "english": "correlation",
+    "spanish": "correlación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "basque": "aldagai",
+    "english": "variable",
+    "spanish": "variable",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "basque": "enpiriko",
+    "english": "empirical",
+    "spanish": "empírico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "basque": "kuantitatibo",
+    "english": "quantitative",
+    "spanish": "cuantitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "basque": "kualitatibo",
+    "english": "qualitative",
+    "spanish": "cualitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "basque": "hierarkia",
+    "english": "hierarchy",
+    "spanish": "jerarquía",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 459,
+    "basque": "diskurtso",
+    "english": "discourse",
+    "spanish": "discurso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 460,
+    "basque": "erretorika",
+    "english": "rhetoric",
+    "spanish": "retórica",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "basque": "legeria",
+    "english": "legislation",
+    "spanish": "legislación",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "basque": "epai",
+    "english": "verdict",
+    "spanish": "veredicto",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "basque": "auzi-jartzaile",
+    "english": "plaintiff",
+    "spanish": "demandante",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "basque": "auzipetu",
+    "english": "defendant",
+    "spanish": "demandado",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 465,
+    "basque": "araudi",
+    "english": "regulation",
+    "spanish": "reglamento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 466,
+    "basque": "betetze",
+    "english": "compliance",
+    "spanish": "cumplimiento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "basque": "erantzukizun",
+    "english": "liability",
+    "spanish": "responsabilidad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "basque": "diagnostiko",
+    "english": "diagnosis",
+    "spanish": "diagnóstico",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "basque": "terapia",
+    "english": "therapy",
+    "spanish": "terapia",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 470,
+    "basque": "txerto",
+    "english": "vaccine",
+    "spanish": "vacuna",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 471,
+    "basque": "kroniko",
+    "english": "chronic",
+    "spanish": "crónico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "basque": "infekzio",
+    "english": "infection",
+    "spanish": "infección",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "basque": "immun",
+    "english": "immune",
+    "spanish": "inmune",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 474,
+    "basque": "zirujau",
+    "english": "surgeon",
+    "spanish": "cirujano",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "basque": "frogatu",
+    "english": "to substantiate",
+    "spanish": "fundamentar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "basque": "mugatu",
+    "english": "to delineate",
+    "spanish": "delimitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 477,
+    "basque": "estrapolatu",
+    "english": "to extrapolate",
+    "spanish": "extrapolar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 478,
+    "basque": "adiskidetu",
+    "english": "to reconcile",
+    "spanish": "reconciliar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 479,
+    "basque": "aztertu",
+    "english": "to scrutinize",
+    "spanish": "escudriñar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 480,
+    "basque": "erraztu",
+    "english": "to streamline",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 481,
+    "basque": "alkandora",
+    "english": "shirt",
+    "spanish": "camisa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "basque": "galtza",
+    "english": "trousers",
+    "spanish": "pantalones",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "basque": "soineko",
+    "english": "dress",
+    "spanish": "vestido",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 484,
+    "basque": "gona",
+    "english": "skirt",
+    "spanish": "falda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 485,
+    "basque": "kapela",
+    "english": "hat",
+    "spanish": "sombrero",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "basque": "bufanda",
+    "english": "scarf",
+    "spanish": "bufanda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "basque": "eskularru",
+    "english": "gloves",
+    "spanish": "guantes",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "basque": "galtzerdi",
+    "english": "socks",
+    "spanish": "calcetines",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "basque": "jaka",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "basque": "bota",
+    "english": "boot",
+    "spanish": "bota",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 491,
+    "basque": "zuku",
+    "english": "juice",
+    "spanish": "zumo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "basque": "ardo",
+    "english": "wine",
+    "spanish": "vino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "basque": "garagardo",
+    "english": "beer",
+    "spanish": "cerveza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "basque": "tarta",
+    "english": "cake",
+    "spanish": "pastel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "basque": "txokolate",
+    "english": "chocolate",
+    "spanish": "chocolate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "basque": "izozki",
+    "english": "ice cream",
+    "spanish": "helado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "basque": "arroz",
+    "english": "rice",
+    "spanish": "arroz",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "basque": "banana",
+    "english": "banana",
+    "spanish": "plátano",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "basque": "laranja",
+    "english": "orange",
+    "spanish": "naranja",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "basque": "ezti",
+    "english": "honey",
+    "spanish": "miel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "basque": "jolastu",
+    "english": "to play",
+    "spanish": "jugar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "basque": "saldu",
+    "english": "to sell",
+    "spanish": "vender",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "basque": "maitatu",
+    "english": "to love",
+    "spanish": "amar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "basque": "dantza egin",
+    "english": "to dance",
+    "spanish": "bailar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "basque": "jauzi egin",
+    "english": "to jump",
+    "spanish": "saltar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "basque": "irabazi",
+    "english": "to win",
+    "spanish": "ganar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "basque": "gogor",
+    "english": "hard",
+    "spanish": "duro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "basque": "bigun",
+    "english": "soft",
+    "spanish": "blando",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "basque": "astun",
+    "english": "heavy",
+    "spanish": "pesado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "basque": "arin",
+    "english": "light",
+    "spanish": "ligero",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "basque": "matematika",
+    "english": "mathematics",
+    "spanish": "matemáticas",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 512,
+    "basque": "historia",
+    "english": "history",
+    "spanish": "historia",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 513,
+    "basque": "geografia",
+    "english": "geography",
+    "spanish": "geografía",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 514,
+    "basque": "biologia",
+    "english": "biology",
+    "spanish": "biología",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 515,
+    "basque": "kimika",
+    "english": "chemistry",
+    "spanish": "química",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 516,
+    "basque": "fisika",
+    "english": "physics",
+    "spanish": "física",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 517,
+    "basque": "literatura",
+    "english": "literature",
+    "spanish": "literatura",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 518,
+    "basque": "arte",
+    "english": "art",
+    "spanish": "arte",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 519,
+    "basque": "bizkar",
+    "english": "back",
+    "spanish": "espalda",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 520,
+    "basque": "sorbalda",
+    "english": "shoulder",
+    "spanish": "hombro",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 521,
+    "basque": "belaun",
+    "english": "knee",
+    "spanish": "rodilla",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 522,
+    "basque": "hatz",
+    "english": "finger",
+    "spanish": "dedo",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 523,
+    "basque": "hortz",
+    "english": "tooth",
+    "spanish": "diente",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 524,
+    "basque": "urdail",
+    "english": "stomach",
+    "spanish": "estómago",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 525,
+    "basque": "bihotz",
+    "english": "heart",
+    "spanish": "corazón",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 526,
+    "basque": "odol",
+    "english": "blood",
+    "spanish": "sangre",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 527,
+    "basque": "ekaitz",
+    "english": "storm",
+    "spanish": "tormenta",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 528,
+    "basque": "trumoi",
+    "english": "thunder",
+    "spanish": "trueno",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 529,
+    "basque": "tximista",
+    "english": "lightning",
+    "spanish": "rayo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 530,
+    "basque": "ortzadar",
+    "english": "rainbow",
+    "spanish": "arcoíris",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 531,
+    "basque": "laino",
+    "english": "fog",
+    "spanish": "niebla",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 532,
+    "basque": "bero",
+    "english": "heat",
+    "spanish": "calor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 533,
+    "basque": "itzal",
+    "english": "shadow",
+    "spanish": "sombra",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 534,
+    "basque": "haran",
+    "english": "valley",
+    "spanish": "valle",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 535,
+    "basque": "metro",
+    "english": "metro",
+    "spanish": "metro",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 536,
+    "basque": "semaforo",
+    "english": "traffic light",
+    "spanish": "semáforo",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 537,
+    "basque": "aparkaleku",
+    "english": "parking",
+    "spanish": "aparcamiento",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 538,
+    "basque": "izkin",
+    "english": "corner",
+    "spanish": "esquina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 539,
+    "basque": "zebra-bidea",
+    "english": "crossing",
+    "spanish": "paso de peatones",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 540,
+    "basque": "espaloi",
+    "english": "pavement",
+    "spanish": "acera",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 541,
+    "basque": "eleberri",
+    "english": "novel",
+    "spanish": "novela",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 542,
+    "basque": "poema",
+    "english": "poem",
+    "spanish": "poema",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 543,
+    "basque": "margolan",
+    "english": "painting",
+    "spanish": "cuadro",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 544,
+    "basque": "eskultura",
+    "english": "sculpture",
+    "spanish": "escultura",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 545,
+    "basque": "kontzertu",
+    "english": "concert",
+    "spanish": "concierto",
+    "category": "music",
+    "level": "B1"
+  },
+  {
+    "id": 546,
+    "basque": "erakusketa",
+    "english": "exhibition",
+    "spanish": "exposición",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 547,
+    "basque": "ikusle",
+    "english": "audience",
+    "spanish": "público",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 548,
+    "basque": "eszenatoki",
+    "english": "stage",
+    "spanish": "escenario",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 549,
+    "basque": "aktore",
+    "english": "actor",
+    "spanish": "actor",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 550,
+    "basque": "zuzendari",
+    "english": "director",
+    "spanish": "director",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 551,
+    "basque": "pasahitz",
+    "english": "password",
+    "spanish": "contraseña",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 552,
+    "basque": "deskarga",
+    "english": "download",
+    "spanish": "descarga",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 553,
+    "basque": "igoera",
+    "english": "upload",
+    "spanish": "subida",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 554,
+    "basque": "webgune",
+    "english": "website",
+    "spanish": "sitio web",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 555,
+    "basque": "posta elektroniko",
+    "english": "email",
+    "spanish": "correo electrónico",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 556,
+    "basque": "mezu",
+    "english": "message",
+    "spanish": "mensaje",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 557,
+    "basque": "pantaila",
+    "english": "screen",
+    "spanish": "pantalla",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 558,
+    "basque": "teklatu",
+    "english": "keyboard",
+    "spanish": "teclado",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 559,
+    "basque": "mailegu",
+    "english": "loan",
+    "spanish": "préstamo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 560,
+    "basque": "aurrezki",
+    "english": "savings",
+    "spanish": "ahorros",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 561,
+    "basque": "zorro",
+    "english": "wallet",
+    "spanish": "cartera",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 562,
+    "basque": "ordainagiri",
+    "english": "receipt",
+    "spanish": "recibo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 563,
+    "basque": "truke",
+    "english": "change",
+    "spanish": "cambio (dinero)",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 564,
+    "basque": "txanpon",
+    "english": "coin",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 565,
+    "basque": "arintasun",
+    "english": "relief",
+    "spanish": "alivio",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 566,
+    "basque": "esker on",
+    "english": "gratitude",
+    "spanish": "gratitud",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 567,
+    "basque": "inbidia",
+    "english": "envy",
+    "spanish": "envidia",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 568,
+    "basque": "erru",
+    "english": "guilt",
+    "spanish": "culpa",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 569,
+    "basque": "jakin-min",
+    "english": "curiosity",
+    "spanish": "curiosidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 570,
+    "basque": "gogo",
+    "english": "enthusiasm",
+    "spanish": "entusiasmo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 571,
+    "basque": "etika",
+    "english": "ethics",
+    "spanish": "ética",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 572,
+    "basque": "moraltasun",
+    "english": "morality",
+    "spanish": "moralidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 573,
+    "basque": "identitate",
+    "english": "identity",
+    "spanish": "identidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 574,
+    "basque": "kontzientzia",
+    "english": "consciousness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 575,
+    "basque": "existentzia",
+    "english": "existence",
+    "spanish": "existencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 576,
+    "basque": "egia",
+    "english": "truth",
+    "spanish": "verdad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 577,
+    "basque": "bertute",
+    "english": "virtue",
+    "spanish": "virtud",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 578,
+    "basque": "paradoxa",
+    "english": "paradox",
+    "spanish": "paradoja",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 579,
+    "basque": "dilema",
+    "english": "dilemma",
+    "spanish": "dilema",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 580,
+    "basque": "eszeptizismo",
+    "english": "scepticism",
+    "spanish": "escepticismo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 581,
+    "basque": "bat-egite",
+    "english": "merger",
+    "spanish": "fusión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 582,
+    "basque": "porrot",
+    "english": "bankruptcy",
+    "spanish": "quiebra",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 583,
+    "basque": "monopolio",
+    "english": "monopoly",
+    "spanish": "monopolio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 584,
+    "basque": "diru-laguntza",
+    "english": "subsidy",
+    "spanish": "subvención",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 585,
+    "basque": "tarifa",
+    "english": "tariff",
+    "spanish": "arancel",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 586,
+    "basque": "kuota",
+    "english": "quota",
+    "spanish": "cupo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 587,
+    "basque": "ekintzaile",
+    "english": "entrepreneur",
+    "spanish": "empresario",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 588,
+    "basque": "isuri",
+    "english": "emission",
+    "spanish": "emisión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 589,
+    "basque": "karbono",
+    "english": "carbon",
+    "spanish": "carbono",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 590,
+    "basque": "biodibertsitate",
+    "english": "biodiversity",
+    "spanish": "biodiversidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 591,
+    "basque": "baso-soiltze",
+    "english": "deforestation",
+    "spanish": "deforestación",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 592,
+    "basque": "ekosistema",
+    "english": "ecosystem",
+    "spanish": "ecosistema",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "basque": "habitat",
+    "english": "habitat",
+    "spanish": "hábitat",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 594,
+    "basque": "higadura",
+    "english": "erosion",
+    "spanish": "erosión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 595,
+    "basque": "adierazi",
+    "english": "to articulate",
+    "spanish": "articular",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 596,
+    "basque": "saihestu",
+    "english": "to circumvent",
+    "spanish": "eludir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 597,
+    "basque": "finkatu",
+    "english": "to consolidate",
+    "spanish": "consolidar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 598,
+    "basque": "okertu",
+    "english": "to deteriorate",
+    "spanish": "deteriorarse",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 599,
+    "basque": "areagotu",
+    "english": "to exacerbate",
+    "spanish": "agravar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 600,
+    "basque": "oztopatu",
+    "english": "to hinder",
+    "spanish": "obstaculizar",
+    "category": "verbs",
+    "level": "B2"
+  }
+]

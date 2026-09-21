@@ -92,5 +92,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "eu",
+    "name": "Basque",
+    "flag": "PV",
+    "speech": "eu-ES",
+    "termLabel": "Basque",
+    "termField": "basque",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct form of izan (to be) into each gap.",
+    "items": [
+      {
+        "sentence": "Ni Anna ___.",
+        "answer": "naiz",
+        "translation_en": "I am Anna.",
+        "translation_es": "Yo soy Anna."
+      },
+      {
+        "sentence": "Zu irakaslea ___.",
+        "answer": "zara",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Tú eres profesor."
+      },
+      {
+        "sentence": "Hura nire laguna ___.",
+        "answer": "da",
+        "translation_en": "He is my friend.",
+        "translation_es": "Él es mi amigo."
+      },
+      {
+        "sentence": "Gu ikasleak ___.",
+        "answer": "gara",
+        "translation_en": "We are students.",
+        "translation_es": "Somos estudiantes."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of ukan (to have) into each gap.",
+    "items": [
+      {
+        "sentence": "Nik liburu bat ___.",
+        "answer": "dut",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Zuk txakur bat ___.",
+        "answer": "duzu",
+        "translation_en": "You have a dog.",
+        "translation_es": "Tienes un perro."
+      },
+      {
+        "sentence": "Hark etxe bat ___.",
+        "answer": "du",
+        "translation_en": "He has a house.",
+        "translation_es": "Él tiene una casa."
+      },
+      {
+        "sentence": "Guk denbora ___.",
+        "answer": "dugu",
+        "translation_en": "We have time.",
+        "translation_es": "Tenemos tiempo."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ naiz.",
+        "answer": "Ni",
+        "translation_en": "I am.",
+        "translation_es": "Yo soy."
+      },
+      {
+        "sentence": "___ zara.",
+        "answer": "Zu",
+        "translation_en": "You are.",
+        "translation_es": "Tú eres."
+      },
+      {
+        "sentence": "___ da.",
+        "answer": "Hura",
+        "translation_en": "He / she is.",
+        "translation_es": "Él / ella es."
+      },
+      {
+        "sentence": "___ gara.",
+        "answer": "Gu",
+        "translation_en": "We are.",
+        "translation_es": "Nosotros somos."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the singular article into each gap.",
+    "items": [
+      {
+        "sentence": "etxe___ handia da",
+        "answer": "a",
+        "translation_en": "the big house",
+        "translation_es": "la casa grande"
+      },
+      {
+        "sentence": "mendi___ altua da",
+        "answer": "a",
+        "translation_en": "the high mountain",
+        "translation_es": "la montaña alta"
+      },
+      {
+        "sentence": "leiho___ zabalik dago",
+        "answer": "a",
+        "translation_en": "the window is open",
+        "translation_es": "la ventana está abierta"
+      },
+      {
+        "sentence": "kale___ luzea da",
+        "answer": "a",
+        "translation_en": "the street is long",
+        "translation_es": "la calle es larga"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the plural article into each gap.",
+    "items": [
+      {
+        "sentence": "liburu___ mahai gainean daude",
+        "answer": "ak",
+        "translation_en": "the books are on the table",
+        "translation_es": "los libros están sobre la mesa"
+      },
+      {
+        "sentence": "etxe___ handiak dira",
+        "answer": "ak",
+        "translation_en": "the houses are big",
+        "translation_es": "las casas son grandes"
+      },
+      {
+        "sentence": "sagar___ gozoak dira",
+        "answer": "ak",
+        "translation_en": "the apples are sweet",
+        "translation_es": "las manzanas son dulces"
+      },
+      {
+        "sentence": "lagun___ etorri dira",
+        "answer": "ak",
+        "translation_en": "the friends have come",
+        "translation_es": "los amigos han venido"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag ez into each gap to make a negative sentence.",
+    "items": [
+      {
+        "sentence": "Ni ___ naiz medikua.",
+        "answer": "ez",
+        "translation_en": "I am not a doctor.",
+        "translation_es": "No soy médico."
+      },
+      {
+        "sentence": "Zu ___ zara nire laguna.",
+        "answer": "ez",
+        "translation_en": "You are not my friend.",
+        "translation_es": "No eres mi amigo."
+      },
+      {
+        "sentence": "Hura ___ da nire anaia.",
+        "answer": "ez",
+        "translation_en": "He is not my brother.",
+        "translation_es": "Él no es mi hermano."
+      },
+      {
+        "sentence": "Gu ___ gara irakasleak.",
+        "answer": "ez",
+        "translation_en": "We are not teachers.",
+        "translation_es": "No somos profesores."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ da zure izena?",
+        "answer": "Zer",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cuál es tu nombre?"
+      },
+      {
+        "sentence": "___ da hura?",
+        "answer": "Nor",
+        "translation_en": "Who is that?",
+        "translation_es": "¿Quién es ese?"
+      },
+      {
+        "sentence": "___ bizi zara?",
+        "answer": "Non",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ etorriko zara?",
+        "answer": "Noiz",
+        "translation_en": "When will you come?",
+        "translation_es": "¿Cuándo vendrás?"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct demonstrative into each gap.",
+    "items": [
+      {
+        "sentence": "___ nire liburua da.",
+        "answer": "Hau",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "___ zure etxea da.",
+        "answer": "Hori",
+        "translation_en": "That is your house.",
+        "translation_es": "Esa es tu casa."
+      },
+      {
+        "sentence": "___ nire laguna da.",
+        "answer": "Hura",
+        "translation_en": "That one over there is my friend.",
+        "translation_es": "Aquel es mi amigo."
+      },
+      {
+        "sentence": "___ nire sagarrak dira.",
+        "answer": "Hauek",
+        "translation_en": "These are my apples.",
+        "translation_es": "Estas son mis manzanas."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "___ sagar ditut.",
+        "answer": "Bi",
+        "translation_en": "I have two apples.",
+        "translation_es": "Tengo dos manzanas."
+      },
+      {
+        "sentence": "___ urte ditut.",
+        "answer": "Hamar",
+        "translation_en": "I am ten years old.",
+        "translation_es": "Tengo diez años."
+      },
+      {
+        "sentence": "___ lagun etorri dira.",
+        "answer": "Hiru",
+        "translation_en": "Three friends have come.",
+        "translation_es": "Han venido tres amigos."
+      },
+      {
+        "sentence": "___ liburu ditut.",
+        "answer": "Bost",
+        "translation_en": "I have five books.",
+        "translation_es": "Tengo cinco libros."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct form of egon into each gap.",
+    "items": [
+      {
+        "sentence": "Ni etxean ___.",
+        "answer": "nago",
+        "translation_en": "I am at home.",
+        "translation_es": "Estoy en casa."
+      },
+      {
+        "sentence": "Zu lanean ___.",
+        "answer": "zaude",
+        "translation_en": "You are at work.",
+        "translation_es": "Estás en el trabajo."
+      },
+      {
+        "sentence": "Hura eskolan ___.",
+        "answer": "dago",
+        "translation_en": "He is at school.",
+        "translation_es": "Él está en la escuela."
+      },
+      {
+        "sentence": "Gu parkean ___.",
+        "answer": "gaude",
+        "translation_en": "We are in the park.",
+        "translation_es": "Estamos en el parque."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "___ izena Anna da.",
+        "answer": "Nire",
+        "translation_en": "My name is Anna.",
+        "translation_es": "Mi nombre es Anna."
+      },
+      {
+        "sentence": "___ etxea handia da.",
+        "answer": "Zure",
+        "translation_en": "Your house is big.",
+        "translation_es": "Tu casa es grande."
+      },
+      {
+        "sentence": "___ ama medikua da.",
+        "answer": "Haren",
+        "translation_en": "His mother is a doctor.",
+        "translation_es": "Su madre es médica."
+      },
+      {
+        "sentence": "___ lagunak etorri dira.",
+        "answer": "Gure",
+        "translation_en": "Our friends have come.",
+        "translation_es": "Nuestros amigos han venido."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the inessive ending (-n, 'in / at') into each gap.",
+    "items": [
+      {
+        "sentence": "Etxe___ nago.",
+        "answer": "an",
+        "translation_en": "I am at home.",
+        "translation_es": "Estoy en casa."
+      },
+      {
+        "sentence": "Eskola___ ikasten dut.",
+        "answer": "n",
+        "translation_en": "I study at school.",
+        "translation_es": "Estudio en la escuela."
+      },
+      {
+        "sentence": "Parke___ jolasten dugu.",
+        "answer": "an",
+        "translation_en": "We play in the park.",
+        "translation_es": "Jugamos en el parque."
+      },
+      {
+        "sentence": "Hiri___ bizi naiz.",
+        "answer": "an",
+        "translation_en": "I live in the city.",
+        "translation_es": "Vivo en la ciudad."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the allative ending (-ra, 'to') into each gap.",
+    "items": [
+      {
+        "sentence": "Etxe___ noa.",
+        "answer": "ra",
+        "translation_en": "I am going home.",
+        "translation_es": "Voy a casa."
+      },
+      {
+        "sentence": "Eskola___ joaten naiz.",
+        "answer": "ra",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Mendi___ igoko gara.",
+        "answer": "ra",
+        "translation_en": "We will go up the mountain.",
+        "translation_es": "Subiremos a la montaña."
+      },
+      {
+        "sentence": "Denda___ joan naiz.",
+        "answer": "ra",
+        "translation_en": "I went to the shop.",
+        "translation_es": "Fui a la tienda."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the ablative ending (-tik, 'from') into each gap.",
+    "items": [
+      {
+        "sentence": "Etxe___ nator.",
+        "answer": "tik",
+        "translation_en": "I come from home.",
+        "translation_es": "Vengo de casa."
+      },
+      {
+        "sentence": "Lan___ etorri naiz.",
+        "answer": "etik",
+        "translation_en": "I came from work.",
+        "translation_es": "Vine del trabajo."
+      },
+      {
+        "sentence": "Hiri___ noa.",
+        "answer": "tik",
+        "translation_en": "I am going away from the city.",
+        "translation_es": "Voy desde la ciudad."
+      },
+      {
+        "sentence": "Eskola___ ateratzen naiz.",
+        "answer": "tik",
+        "translation_en": "I come out of school.",
+        "translation_es": "Salgo de la escuela."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the comitative ending (-rekin, 'with') into each gap.",
+    "items": [
+      {
+        "sentence": "Lagun___ joan naiz.",
+        "answer": "arekin",
+        "translation_en": "I went with a friend.",
+        "translation_es": "Fui con un amigo."
+      },
+      {
+        "sentence": "Nire ama___ bizi naiz.",
+        "answer": "rekin",
+        "translation_en": "I live with my mother.",
+        "translation_es": "Vivo con mi madre."
+      },
+      {
+        "sentence": "Txakur___ jolasten dut.",
+        "answer": "rarekin",
+        "translation_en": "I play with the dog.",
+        "translation_es": "Juego con el perro."
+      },
+      {
+        "sentence": "Zu___ etorriko naiz.",
+        "answer": "rekin",
+        "translation_en": "I will come with you.",
+        "translation_es": "Vendré contigo."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct time word into each gap.",
+    "items": [
+      {
+        "sentence": "___ etxean nago.",
+        "answer": "Gaur",
+        "translation_en": "Today I am at home.",
+        "translation_es": "Hoy estoy en casa."
+      },
+      {
+        "sentence": "___ lanera joango naiz.",
+        "answer": "Bihar",
+        "translation_en": "Tomorrow I will go to work.",
+        "translation_es": "Mañana iré al trabajo."
+      },
+      {
+        "sentence": "___ eskolan izan nintzen.",
+        "answer": "Atzo",
+        "translation_en": "Yesterday I was at school.",
+        "translation_es": "Ayer estuve en la escuela."
+      },
+      {
+        "sentence": "Arratsaldean liburua irakurtzen ___.",
+        "answer": "dut",
+        "translation_en": "In the afternoon I read a book.",
+        "translation_es": "Por la tarde leo un libro."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "Etxe ___ da.",
+        "answer": "handia",
+        "translation_en": "The house is big.",
+        "translation_es": "La casa es grande."
+      },
+      {
+        "sentence": "Liburu ___ da.",
+        "answer": "berria",
+        "translation_en": "The book is new.",
+        "translation_es": "El libro es nuevo."
+      },
+      {
+        "sentence": "Mendi ___ da.",
+        "answer": "altua",
+        "translation_en": "The mountain is high.",
+        "translation_es": "La montaña es alta."
+      },
+      {
+        "sentence": "Kale ___ da.",
+        "answer": "luzea",
+        "translation_en": "The street is long.",
+        "translation_es": "La calle es larga."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag eta, baina or edo into each gap.",
+    "items": [
+      {
+        "sentence": "Ni euskalduna naiz ___ zu espainiarra zara.",
+        "answer": "baina",
+        "translation_en": "I am Basque but you are Spanish.",
+        "translation_es": "Yo soy vasco pero tú eres español."
+      },
+      {
+        "sentence": "Kafea ___ te nahi dut.",
+        "answer": "eta",
+        "translation_en": "I want coffee and tea.",
+        "translation_es": "Quiero café y té."
+      },
+      {
+        "sentence": "Kafea ___ tea nahi duzu?",
+        "answer": "edo",
+        "translation_en": "Do you want coffee or tea?",
+        "translation_es": "¿Quieres café o té?"
+      },
+      {
+        "sentence": "Ni ___ zu etorriko gara.",
+        "answer": "eta",
+        "translation_en": "You and I will come.",
+        "translation_es": "Tú y yo vendremos."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag oso (very) into each gap.",
+    "items": [
+      {
+        "sentence": "Etxe ___ handia da.",
+        "answer": "oso",
+        "translation_en": "The house is very big.",
+        "translation_es": "La casa es muy grande."
+      },
+      {
+        "sentence": "Liburu ___ ona da.",
+        "answer": "oso",
+        "translation_en": "The book is very good.",
+        "translation_es": "El libro es muy bueno."
+      },
+      {
+        "sentence": "Hura ___ altua da.",
+        "answer": "oso",
+        "translation_en": "He is very tall.",
+        "translation_es": "Él es muy alto."
+      },
+      {
+        "sentence": "Kafea ___ goxoa da.",
+        "answer": "oso",
+        "translation_en": "The coffee is very tasty.",
+        "translation_es": "El café está muy rico."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag bai or ez into each gap.",
+    "items": [
+      {
+        "sentence": "Etorriko zara? ___, etorriko naiz.",
+        "answer": "Bai",
+        "translation_en": "Will you come? Yes, I will come.",
+        "translation_es": "¿Vendrás? Sí, vendré."
+      },
+      {
+        "sentence": "Nahi duzu? ___, ez dut nahi.",
+        "answer": "Ez",
+        "translation_en": "Do you want it? No, I do not want it.",
+        "translation_es": "¿Lo quieres? No, no quiero."
+      },
+      {
+        "sentence": "Euskalduna zara? ___, euskalduna naiz.",
+        "answer": "Bai",
+        "translation_en": "Are you Basque? Yes, I am Basque.",
+        "translation_es": "¿Eres vasco? Sí, soy vasco."
+      },
+      {
+        "sentence": "Hotz egiten du? ___, ez du hotzik egiten.",
+        "answer": "Ez",
+        "translation_en": "Is it cold? No, it is not cold.",
+        "translation_es": "¿Hace frío? No, no hace frío."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the ergative ending (-k) into each gap.",
+    "items": [
+      {
+        "sentence": "Ni___ ogia jaten dut.",
+        "answer": "k",
+        "translation_en": "I eat bread.",
+        "translation_es": "Yo como pan."
+      },
+      {
+        "sentence": "Zu___ liburua irakurtzen duzu.",
+        "answer": "k",
+        "translation_en": "You read the book.",
+        "translation_es": "Tú lees el libro."
+      },
+      {
+        "sentence": "Hark ura edaten ___.",
+        "answer": "du",
+        "translation_en": "He drinks water.",
+        "translation_es": "Él bebe agua."
+      },
+      {
+        "sentence": "Guk musika entzuten ___.",
+        "answer": "dugu",
+        "translation_en": "We listen to music.",
+        "translation_es": "Escuchamos música."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct plural subject ending into each gap.",
+    "items": [
+      {
+        "sentence": "Haiek ogia jaten ___.",
+        "answer": "dute",
+        "translation_en": "They eat bread.",
+        "translation_es": "Ellos comen pan."
+      },
+      {
+        "sentence": "Horiek musika entzuten ___.",
+        "answer": "dute",
+        "translation_en": "Those people listen to music.",
+        "translation_es": "Esos escuchan música."
+      },
+      {
+        "sentence": "Nire lagunek kafea edaten ___.",
+        "answer": "dute",
+        "translation_en": "My friends drink coffee.",
+        "translation_es": "Mis amigos beben café."
+      },
+      {
+        "sentence": "Ikasleek ingelera ikasten ___.",
+        "answer": "dute",
+        "translation_en": "The students learn English.",
+        "translation_es": "Los estudiantes aprenden inglés."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct form of gustatu into each gap.",
+    "items": [
+      {
+        "sentence": "Niri kafea gustatzen ___.",
+        "answer": "zait",
+        "translation_en": "I like coffee.",
+        "translation_es": "Me gusta el café."
+      },
+      {
+        "sentence": "Zuri musika gustatzen ___.",
+        "answer": "zaizu",
+        "translation_en": "You like music.",
+        "translation_es": "Te gusta la música."
+      },
+      {
+        "sentence": "Hari futbola gustatzen ___.",
+        "answer": "zaio",
+        "translation_en": "He likes football.",
+        "translation_es": "Le gusta el fútbol."
+      },
+      {
+        "sentence": "Guri liburuak gustatzen ___.",
+        "answer": "zaizkigu",
+        "translation_en": "We like books.",
+        "translation_es": "Nos gustan los libros."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the past form of izan into each gap.",
+    "items": [
+      {
+        "sentence": "Ni irakasle ___.",
+        "answer": "nintzen",
+        "translation_en": "I was a teacher.",
+        "translation_es": "Yo era profesor."
+      },
+      {
+        "sentence": "Zu nire laguna ___.",
+        "answer": "zinen",
+        "translation_en": "You were my friend.",
+        "translation_es": "Tú eras mi amigo."
+      },
+      {
+        "sentence": "Hura medikua ___.",
+        "answer": "zen",
+        "translation_en": "He was a doctor.",
+        "translation_es": "Él era médico."
+      },
+      {
+        "sentence": "Gu ikasleak ___.",
+        "answer": "ginen",
+        "translation_en": "We were students.",
+        "translation_es": "Éramos estudiantes."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the past form of ukan into each gap.",
+    "items": [
+      {
+        "sentence": "Nik ogia ___ .",
+        "answer": "nuen",
+        "translation_en": "I had bread.",
+        "translation_es": "Yo tenía pan."
+      },
+      {
+        "sentence": "Zuk liburua ___ .",
+        "answer": "zenuen",
+        "translation_en": "You had a book.",
+        "translation_es": "Tú tenías un libro."
+      },
+      {
+        "sentence": "Hark etxe bat ___ .",
+        "answer": "zuen",
+        "translation_en": "He had a house.",
+        "translation_es": "Él tenía una casa."
+      },
+      {
+        "sentence": "Guk denbora ___ .",
+        "answer": "genuen",
+        "translation_en": "We had time.",
+        "translation_es": "Teníamos tiempo."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the habitual form (-tzen / -ten) into each gap.",
+    "items": [
+      {
+        "sentence": "Egunero esnea ___ dut.",
+        "answer": "erosten",
+        "translation_en": "Every day I buy milk.",
+        "translation_es": "Cada día compro leche."
+      },
+      {
+        "sentence": "Goizean kafea ___ dut.",
+        "answer": "edaten",
+        "translation_en": "In the morning I drink coffee.",
+        "translation_es": "Por la mañana bebo café."
+      },
+      {
+        "sentence": "Astero liburu bat ___ dut.",
+        "answer": "irakurtzen",
+        "translation_en": "Weekly I read a book.",
+        "translation_es": "Semanalmente leo un libro."
+      },
+      {
+        "sentence": "Beti euskaraz ___ dut.",
+        "answer": "hitz egiten",
+        "translation_en": "I always speak in Basque.",
+        "translation_es": "Siempre hablo en euskera."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag ari into each gap for the progressive.",
+    "items": [
+      {
+        "sentence": "Orain liburua irakurtzen ___ naiz.",
+        "answer": "ari",
+        "translation_en": "I am reading a book now.",
+        "translation_es": "Estoy leyendo un libro ahora."
+      },
+      {
+        "sentence": "Une honetan afaria prestatzen ___ naiz.",
+        "answer": "ari",
+        "translation_en": "Right now I am preparing dinner.",
+        "translation_es": "Ahora mismo estoy preparando la cena."
+      },
+      {
+        "sentence": "Haiek futbolean jolasten ___ dira.",
+        "answer": "ari",
+        "translation_en": "They are playing football.",
+        "translation_es": "Ellos están jugando al fútbol."
+      },
+      {
+        "sentence": "Zu musika entzuten ___ zara.",
+        "answer": "ari",
+        "translation_en": "You are listening to music.",
+        "translation_es": "Estás escuchando música."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the future form into each gap.",
+    "items": [
+      {
+        "sentence": "Bihar mendira ___ naiz.",
+        "answer": "joango",
+        "translation_en": "Tomorrow I will go to the mountain.",
+        "translation_es": "Mañana iré a la montaña."
+      },
+      {
+        "sentence": "Datorren astean lan ___ dut.",
+        "answer": "egingo",
+        "translation_en": "Next week I will work.",
+        "translation_es": "La próxima semana trabajaré."
+      },
+      {
+        "sentence": "Gaur afaria ___ dut.",
+        "answer": "prestatuko",
+        "translation_en": "Today I will prepare dinner.",
+        "translation_es": "Hoy prepararé la cena."
+      },
+      {
+        "sentence": "Etzi etxera ___ naiz.",
+        "answer": "etorriko",
+        "translation_en": "The day after tomorrow I will come home.",
+        "translation_es": "Pasado mañana vendré a casa."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag behar (must) into each gap.",
+    "items": [
+      {
+        "sentence": "Etxera ___ dut.",
+        "answer": "joan behar",
+        "translation_en": "I must go home.",
+        "translation_es": "Tengo que ir a casa."
+      },
+      {
+        "sentence": "Gaur lan ___ dut.",
+        "answer": "egin behar",
+        "translation_en": "Today I must work.",
+        "translation_es": "Hoy tengo que trabajar."
+      },
+      {
+        "sentence": "Liburu hau ___ duzu.",
+        "answer": "irakurri behar",
+        "translation_en": "You must read this book.",
+        "translation_es": "Tienes que leer este libro."
+      },
+      {
+        "sentence": "Goiz ___ dut.",
+        "answer": "jaiki behar",
+        "translation_en": "I must get up early.",
+        "translation_es": "Tengo que levantarme temprano."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag ahal (can) into each gap.",
+    "items": [
+      {
+        "sentence": "Euskaraz hitz egin ___ dut.",
+        "answer": "ahal",
+        "translation_en": "I can speak Basque.",
+        "translation_es": "Puedo hablar euskera."
+      },
+      {
+        "sentence": "Zuk lagundu ___ didazu?",
+        "answer": "ahal",
+        "translation_en": "Can you help me?",
+        "translation_es": "¿Puedes ayudarme?"
+      },
+      {
+        "sentence": "Hark korrika egin ___ du.",
+        "answer": "ahal",
+        "translation_en": "He can run.",
+        "translation_es": "Él puede correr."
+      },
+      {
+        "sentence": "Guk igeri egin ___ dugu.",
+        "answer": "ahal",
+        "translation_en": "We can swim.",
+        "translation_es": "Podemos nadar."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct postposition into each gap.",
+    "items": [
+      {
+        "sentence": "Mahaiaren ___ dago.",
+        "answer": "gainean",
+        "translation_en": "It is on the table.",
+        "translation_es": "Está sobre la mesa."
+      },
+      {
+        "sentence": "Etxearen ___ dago.",
+        "answer": "aurrean",
+        "translation_en": "It is in front of the house.",
+        "translation_es": "Está delante de la casa."
+      },
+      {
+        "sentence": "Zuhaitzaren ___ nago.",
+        "answer": "atzean",
+        "translation_en": "I am behind the tree.",
+        "translation_es": "Estoy detrás del árbol."
+      },
+      {
+        "sentence": "Bi etxeen ___ bizi naiz.",
+        "answer": "artean",
+        "translation_en": "I live between two houses.",
+        "translation_es": "Vivo entre dos casas."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the causal -lako into each gap.",
+    "items": [
+      {
+        "sentence": "Ez nator, lan egiten ___ nago eta.",
+        "answer": "dudalako",
+        "translation_en": "I am not coming because I am working.",
+        "translation_es": "No vengo porque estoy trabajando."
+      },
+      {
+        "sentence": "Ez du erosten, garestia ___ da eta.",
+        "answer": "delako",
+        "translation_en": "He does not buy it because it is expensive.",
+        "translation_es": "No lo compra porque es caro."
+      },
+      {
+        "sentence": "Pozik nago, oporrak ___ ditut eta.",
+        "answer": "ditudalako",
+        "translation_en": "I am happy because I have holidays.",
+        "translation_es": "Estoy contento porque tengo vacaciones."
+      },
+      {
+        "sentence": "Etxean nago, euria egiten ___ du eta.",
+        "answer": "duelako",
+        "translation_en": "I am at home because it is raining.",
+        "translation_es": "Estoy en casa porque está lloviendo."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag baino and the comparative form into each gap.",
+    "items": [
+      {
+        "sentence": "Hau hura ___ handiagoa da.",
+        "answer": "baino",
+        "translation_en": "This is bigger than that.",
+        "translation_es": "Este es más grande que aquel."
+      },
+      {
+        "sentence": "Ni zu ___ altuagoa naiz.",
+        "answer": "baino",
+        "translation_en": "I am taller than you.",
+        "translation_es": "Soy más alto que tú."
+      },
+      {
+        "sentence": "Etxe hau hura baino ___ da.",
+        "answer": "handiagoa",
+        "translation_en": "This house is bigger than that one.",
+        "translation_es": "Esta casa es más grande que aquella."
+      },
+      {
+        "sentence": "Atzo gaur baino ___ egiten zuen.",
+        "answer": "hotzago",
+        "translation_en": "Yesterday it was colder than today.",
+        "translation_es": "Ayer hacía más frío que hoy."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the superlative (-en) into each gap.",
+    "items": [
+      {
+        "sentence": "Hau etxerik ___ da.",
+        "answer": "handiena",
+        "translation_en": "This is the biggest house.",
+        "translation_es": "Esta es la casa más grande."
+      },
+      {
+        "sentence": "Hura lagunik ___ da.",
+        "answer": "onena",
+        "translation_en": "He is the best friend.",
+        "translation_es": "Él es el mejor amigo."
+      },
+      {
+        "sentence": "Ilargia izarrik ___ da.",
+        "answer": "distiratsuena",
+        "translation_en": "The moon is the brightest.",
+        "translation_es": "La luna es la más brillante."
+      },
+      {
+        "sentence": "Nire gela etxeko ___ da.",
+        "answer": "txikiena",
+        "translation_en": "My room is the smallest in the house.",
+        "translation_es": "Mi habitación es la más pequeña de la casa."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the purpose form (-tzeko) into each gap.",
+    "items": [
+      {
+        "sentence": "Dendara ogia ___ joan naiz.",
+        "answer": "erosteko",
+        "translation_en": "I went to the shop to buy bread.",
+        "translation_es": "Fui a la tienda a comprar pan."
+      },
+      {
+        "sentence": "Euskaraz ___ hasi naiz.",
+        "answer": "ikasteko",
+        "translation_en": "I started to learn Basque.",
+        "translation_es": "Empecé a aprender euskera."
+      },
+      {
+        "sentence": "Zu ___ etorri naiz.",
+        "answer": "ikusteko",
+        "translation_en": "I came to see you.",
+        "translation_es": "Vine a verte."
+      },
+      {
+        "sentence": "Lan ___ abiatu gara.",
+        "answer": "egiteko",
+        "translation_en": "We set off to work.",
+        "translation_es": "Salimos a trabajar."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Euria egiten ___ gero, ez gara joango.",
+        "answer": "badu",
+        "translation_en": "If it rains, we will not go.",
+        "translation_es": "Si llueve, no iremos."
+      },
+      {
+        "sentence": "___ etortzen bazara, pozik izango naiz.",
+        "answer": "Bihar",
+        "translation_en": "If you come tomorrow, I will be happy.",
+        "translation_es": "Si vienes mañana, estaré contento."
+      },
+      {
+        "sentence": "Diru gehiago ___ banu, bidaiatuko nuke.",
+        "answer": "izango",
+        "translation_en": "If I had more money, I would travel.",
+        "translation_es": "Si tuviera más dinero, viajaría."
+      },
+      {
+        "sentence": "Denbora ___ banu, gehiago ikasiko nuke.",
+        "answer": "banu",
+        "translation_en": "If I had time, I would study more.",
+        "translation_es": "Si tuviera tiempo, estudiaría más."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the plural-object form of ukan into each gap.",
+    "items": [
+      {
+        "sentence": "Nik bi liburu ___ .",
+        "answer": "ditut",
+        "translation_en": "I have two books.",
+        "translation_es": "Tengo dos libros."
+      },
+      {
+        "sentence": "Zuk hiru lagun ___ .",
+        "answer": "dituzu",
+        "translation_en": "You have three friends.",
+        "translation_es": "Tienes tres amigos."
+      },
+      {
+        "sentence": "Hark bi etxe ___ .",
+        "answer": "ditu",
+        "translation_en": "He has two houses.",
+        "translation_es": "Él tiene dos casas."
+      },
+      {
+        "sentence": "Guk lau sagar ___ .",
+        "answer": "ditugu",
+        "translation_en": "We have four apples.",
+        "translation_es": "Tenemos cuatro manzanas."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the 'they to me / you / him' form into each gap.",
+    "items": [
+      {
+        "sentence": "Niri kafea eman ___ .",
+        "answer": "didate",
+        "translation_en": "They gave me coffee.",
+        "translation_es": "Me dieron café."
+      },
+      {
+        "sentence": "Zuri liburua eman ___ .",
+        "answer": "dizute",
+        "translation_en": "They gave you the book.",
+        "translation_es": "Te dieron el libro."
+      },
+      {
+        "sentence": "Hari gauza bat eman ___ .",
+        "answer": "diote",
+        "translation_en": "They gave him something.",
+        "translation_es": "Le dieron algo."
+      },
+      {
+        "sentence": "Guri denbora eman ___ .",
+        "answer": "digute",
+        "translation_en": "They gave us time.",
+        "translation_es": "Nos dieron tiempo."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the habitual past form into each gap.",
+    "items": [
+      {
+        "sentence": "Egunero esnea erosten ___ .",
+        "answer": "nuen",
+        "translation_en": "I used to buy milk every day.",
+        "translation_es": "Solía comprar leche cada día."
+      },
+      {
+        "sentence": "Hark egunero kafea edaten ___ .",
+        "answer": "zuen",
+        "translation_en": "He used to drink coffee every day.",
+        "translation_es": "Él solía beber café cada día."
+      },
+      {
+        "sentence": "Guk astero musika entzuten ___ .",
+        "answer": "genuen",
+        "translation_en": "We used to listen to music weekly.",
+        "translation_es": "Solíamos escuchar música semanalmente."
+      },
+      {
+        "sentence": "Zuek egunero fruta saltzen ___ .",
+        "answer": "zenuten",
+        "translation_en": "You used to sell fruit every day.",
+        "translation_es": "Vosotros solíais vender fruta cada día."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag non, nora or nondik into each gap.",
+    "items": [
+      {
+        "sentence": "___ bizi zara?",
+        "answer": "Non",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ zoaz?",
+        "answer": "Nora",
+        "translation_en": "Where are you going to?",
+        "translation_es": "¿A dónde vas?"
+      },
+      {
+        "sentence": "___ zatoz?",
+        "answer": "Nondik",
+        "translation_en": "Where are you coming from?",
+        "translation_es": "¿De dónde vienes?"
+      },
+      {
+        "sentence": "___ joango gara?",
+        "answer": "Nora",
+        "translation_en": "Where will we go?",
+        "translation_es": "¿A dónde iremos?"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the complementiser -la into each gap.",
+    "items": [
+      {
+        "sentence": "Esan zidan etorriko ___ .",
+        "answer": "zela",
+        "translation_en": "He told me that he would come.",
+        "translation_es": "Me dijo que vendría."
+      },
+      {
+        "sentence": "Uste dut egia ___ .",
+        "answer": "dela",
+        "translation_en": "I think that it is true.",
+        "translation_es": "Creo que es verdad."
+      },
+      {
+        "sentence": "Badakit zailak ___ .",
+        "answer": "direla",
+        "translation_en": "I know that they are difficult.",
+        "translation_es": "Sé que son difíciles."
+      },
+      {
+        "sentence": "Pentsatzen dut ona ___ .",
+        "answer": "dela",
+        "translation_en": "I think that it is good.",
+        "translation_es": "Creo que es bueno."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the temporal -nean into each gap.",
+    "items": [
+      {
+        "sentence": "Etxera iritsi ___ , lo egin nuen.",
+        "answer": "nintzenean",
+        "translation_en": "When I arrived home, I slept.",
+        "translation_es": "Cuando llegué a casa, dormí."
+      },
+      {
+        "sentence": "Zu etorri ___ , pozik nengoen.",
+        "answer": "zinenenean",
+        "translation_en": "When you came, I was happy.",
+        "translation_es": "Cuando viniste, estaba contento."
+      },
+      {
+        "sentence": "Eguzkia atera ___ , joan ginen.",
+        "answer": "zenean",
+        "translation_en": "When the sun came out, we went.",
+        "translation_es": "Cuando salió el sol, fuimos."
+      },
+      {
+        "sentence": "Hura umea ___ , hor bizi zen.",
+        "answer": "zenean",
+        "translation_en": "When he was a child, he lived there.",
+        "translation_es": "Cuando él era niño, vivía allí."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the partitive -rik into each negative gap.",
+    "items": [
+      {
+        "sentence": "Ez daukat diru ___ .",
+        "answer": "rik",
+        "translation_en": "I have no money.",
+        "translation_es": "No tengo dinero."
+      },
+      {
+        "sentence": "Ez dut ogi ___ jan.",
+        "answer": "rik",
+        "translation_en": "I have not eaten bread.",
+        "translation_es": "No he comido pan."
+      },
+      {
+        "sentence": "Ez dut esne ___ nahi.",
+        "answer": "rik",
+        "translation_en": "I do not want milk.",
+        "translation_es": "No quiero leche."
+      },
+      {
+        "sentence": "Ez dut lagun ___ hemen.",
+        "answer": "rik",
+        "translation_en": "I have no friend here.",
+        "translation_es": "No tengo amigos aquí."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the hypothetical conditional into each gap.",
+    "items": [
+      {
+        "sentence": "Diru gehiago izango ___ , bidaiatuko nuke.",
+        "answer": "banu",
+        "translation_en": "If I had more money, I would travel.",
+        "translation_es": "Si tuviera más dinero, viajaría."
+      },
+      {
+        "sentence": "Hura etorriko ___ , pozik izango ginateke.",
+        "answer": "balitz",
+        "translation_en": "If he came, we would be happy.",
+        "translation_es": "Si él viniera, estaríamos contentos."
+      },
+      {
+        "sentence": "Denbora gehiago izango ___ , gehiago egingo genuke.",
+        "answer": "bagenu",
+        "translation_en": "If we had more time, we would do more.",
+        "translation_es": "Si tuviéramos más tiempo, haríamos más."
+      },
+      {
+        "sentence": "Zu ni ___ , zer egingo zenuke?",
+        "answer": "bazina",
+        "translation_en": "If you were me, what would you do?",
+        "translation_es": "Si fueras yo, ¿qué harías?"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the relative -en into each gap.",
+    "items": [
+      {
+        "sentence": "Etorri ___ gizona nire laguna da.",
+        "answer": "den",
+        "translation_en": "The man who came is my friend.",
+        "translation_es": "El hombre que vino es mi amigo."
+      },
+      {
+        "sentence": "Mendi horretan bizi ___ artzaina ezagutzen dut.",
+        "answer": "den",
+        "translation_en": "I know the shepherd who lives on that mountain.",
+        "translation_es": "Conozco al pastor que vive en esa montaña."
+      },
+      {
+        "sentence": "Zuk irakurri ___ liburua ona da.",
+        "answer": "duzun",
+        "translation_en": "The book that you are reading is good.",
+        "translation_es": "El libro que lees es bueno."
+      },
+      {
+        "sentence": "Atzo ikusi ___ etxea handia zen.",
+        "answer": "nuen",
+        "translation_en": "The house that I saw yesterday was big.",
+        "translation_es": "La casa que vi ayer era grande."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the nominalised verb (-tzea) into each gap.",
+    "items": [
+      {
+        "sentence": "Igeri ___ gustatzen zait.",
+        "answer": "egitea",
+        "translation_en": "I like swimming.",
+        "translation_es": "Me gusta nadar."
+      },
+      {
+        "sentence": "Irakurtzea oso ___ da.",
+        "answer": "erabilgarria",
+        "translation_en": "Reading is very useful.",
+        "translation_es": "Leer es muy útil."
+      },
+      {
+        "sentence": "Euskaraz hitz ___ zaila da.",
+        "answer": "egitea",
+        "translation_en": "Speaking Basque is difficult.",
+        "translation_es": "Hablar euskera es difícil."
+      },
+      {
+        "sentence": "Oinez ___ ona da osasunerako.",
+        "answer": "ibiltzea",
+        "translation_en": "Walking is good for health.",
+        "translation_es": "Caminar es bueno para la salud."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the past 'to me / to you / to us' form into each gap.",
+    "items": [
+      {
+        "sentence": "Nik hari liburua eman ___ .",
+        "answer": "nion",
+        "translation_en": "I gave the book to him.",
+        "translation_es": "Le di el libro a él."
+      },
+      {
+        "sentence": "Hark niri kafea eman ___ .",
+        "answer": "zidan",
+        "translation_en": "He gave me coffee.",
+        "translation_es": "Él me dio café."
+      },
+      {
+        "sentence": "Nik zuri liburua eman ___ .",
+        "answer": "nizun",
+        "translation_en": "I gave you the book.",
+        "translation_es": "Te di el libro."
+      },
+      {
+        "sentence": "Hark guri gauza bat kontatu ___ .",
+        "answer": "zigun",
+        "translation_en": "He told us something.",
+        "translation_es": "Nos contó algo."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag tzat (as) into each gap.",
+    "items": [
+      {
+        "sentence": "Hori egia ___ jotzen dute.",
+        "answer": "tzat",
+        "translation_en": "They consider that to be true.",
+        "translation_es": "Consideran eso como verdad."
+      },
+      {
+        "sentence": "Nire lagun ___ daukat.",
+        "answer": "tzat",
+        "translation_en": "I consider him a friend.",
+        "translation_es": "Lo tengo por amigo."
+      },
+      {
+        "sentence": "Hura maisu ___ hartzen dute.",
+        "answer": "tzat",
+        "translation_en": "They take him for a teacher.",
+        "translation_es": "Lo toman por maestro."
+      },
+      {
+        "sentence": "Diru hori mailegu ___ hartu nuen.",
+        "answer": "tzat",
+        "translation_en": "I took that money as a loan.",
+        "translation_es": "Tomé ese dinero como préstamo."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the instrumental -z into each gap.",
+    "items": [
+      {
+        "sentence": "Tren___ joan nintzen.",
+        "answer": "ez",
+        "translation_en": "I went by train.",
+        "translation_es": "Fui en tren."
+      },
+      {
+        "sentence": "Autobus___ etorri naiz.",
+        "answer": "ez",
+        "translation_en": "I came by bus.",
+        "translation_es": "Vine en autobús."
+      },
+      {
+        "sentence": "Liburua euskar___ idatzi zuen.",
+        "answer": "az",
+        "translation_en": "He wrote the book in Basque.",
+        "translation_es": "Escribió el libro en euskera."
+      },
+      {
+        "sentence": "Oinez joaten naiz eta autobus___ batzuetan.",
+        "answer": "ez",
+        "translation_en": "I go on foot and sometimes by bus.",
+        "translation_es": "Voy a pie y a veces en autobús."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the plural transitive form (dituzte) into each gap.",
+    "items": [
+      {
+        "sentence": "Haiek liburuak irakurtzen ___ .",
+        "answer": "dituzte",
+        "translation_en": "They read the books.",
+        "translation_es": "Ellos leen los libros."
+      },
+      {
+        "sentence": "Ikasleek ariketak egiten ___ .",
+        "answer": "dituzte",
+        "translation_en": "The students do the exercises.",
+        "translation_es": "Los estudiantes hacen los ejercicios."
+      },
+      {
+        "sentence": "Horiek sagarrak erosten ___ .",
+        "answer": "dituzte",
+        "translation_en": "Those people buy the apples.",
+        "translation_es": "Esos compran las manzanas."
+      },
+      {
+        "sentence": "Gurasoek haurrak eramaten ___ .",
+        "answer": "dituzte",
+        "translation_en": "The parents take the children.",
+        "translation_es": "Los padres llevan a los niños."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the 'in order to go / come' form into each gap.",
+    "items": [
+      {
+        "sentence": "Eskolara ikastera ___ .",
+        "answer": "noa",
+        "translation_en": "I go to school to study.",
+        "translation_es": "Voy a la escuela a estudiar."
+      },
+      {
+        "sentence": "Parkera jolastera ___ .",
+        "answer": "goaz",
+        "translation_en": "We go to the park to play.",
+        "translation_es": "Vamos al parque a jugar."
+      },
+      {
+        "sentence": "Dendara erostera ___ .",
+        "answer": "nator",
+        "translation_en": "I come to the shop to buy.",
+        "translation_es": "Vengo a la tienda a comprar."
+      },
+      {
+        "sentence": "Zinera ikustera ___ .",
+        "answer": "joan nintzen",
+        "translation_en": "I went to the cinema to watch.",
+        "translation_es": "Fui al cine a ver."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the irregular comparative into each gap.",
+    "items": [
+      {
+        "sentence": "Hau ona da, baina hura ___ da.",
+        "answer": "hobea",
+        "translation_en": "This is good, but that one is better.",
+        "translation_es": "Este es bueno, pero aquel es mejor."
+      },
+      {
+        "sentence": "Hura txarra da, baina hau ___ da.",
+        "answer": "okerragoa",
+        "translation_en": "That is bad, but this is worse.",
+        "translation_es": "Aquel es malo, pero este es peor."
+      },
+      {
+        "sentence": "Hau handia da, baina hura ___ da.",
+        "answer": "handiagoa",
+        "translation_en": "This is big, but that is bigger.",
+        "translation_es": "Este es grande, pero aquel es más grande."
+      },
+      {
+        "sentence": "Ni altua naiz, baina zu ___ zara.",
+        "answer": "altuagoa",
+        "translation_en": "I am tall, but you are taller.",
+        "translation_es": "Soy alto, pero tú eres más alto."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag inoiz (ever / never) into each gap.",
+    "items": [
+      {
+        "sentence": "___ etorri zara hona?",
+        "answer": "Inoiz",
+        "translation_en": "Have you ever come here?",
+        "translation_es": "¿Has venido alguna vez aquí?"
+      },
+      {
+        "sentence": "___ ikusi duzu hura?",
+        "answer": "Inoiz",
+        "translation_en": "Have you ever seen that?",
+        "translation_es": "¿Has visto eso alguna vez?"
+      },
+      {
+        "sentence": "Ez dut ___ hori egiten.",
+        "answer": "inoiz",
+        "translation_en": "I never do that.",
+        "translation_es": "Nunca hago eso."
+      },
+      {
+        "sentence": "___ ez dugu hori egin.",
+        "answer": "Inoiz",
+        "translation_en": "We have never done that.",
+        "translation_es": "Nunca hemos hecho eso."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag edozein (any) into each gap.",
+    "items": [
+      {
+        "sentence": "___ liburu irakurriko nuke.",
+        "answer": "Edozein",
+        "translation_en": "I would read any book.",
+        "translation_es": "Leería cualquier libro."
+      },
+      {
+        "sentence": "___ garaiz etorri daiteke.",
+        "answer": "Edozein",
+        "translation_en": "Anyone can come on time.",
+        "translation_es": "Cualquiera puede llegar a tiempo."
+      },
+      {
+        "sentence": "___ egunean joango naiz.",
+        "answer": "Edozein",
+        "translation_en": "I will go on any day.",
+        "translation_es": "Iré cualquier día."
+      },
+      {
+        "sentence": "Ez dut ___ laguntzarik behar.",
+        "answer": "edozein",
+        "translation_en": "I do not need any help.",
+        "translation_es": "No necesito ninguna ayuda."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the causal bait- form into each gap.",
+    "items": [
+      {
+        "sentence": "Ez nator, gaixorik ___ .",
+        "answer": "bainago",
+        "translation_en": "I am not coming, because I am ill.",
+        "translation_es": "No vengo, porque estoy enfermo."
+      },
+      {
+        "sentence": "Ez dugu erosiko, garestia ___ .",
+        "answer": "baitago",
+        "translation_en": "We will not buy it, because it is expensive.",
+        "translation_es": "No lo compraremos, porque es caro."
+      },
+      {
+        "sentence": "Pozik nago, oporrak ___ .",
+        "answer": "baititut",
+        "translation_en": "I am happy, because I have holidays.",
+        "translation_es": "Estoy contento, porque tengo vacaciones."
+      },
+      {
+        "sentence": "Ez gaude haserre, ados ___ .",
+        "answer": "baikaude",
+        "translation_en": "We are not angry, because we agree.",
+        "translation_es": "No estamos enfadados, porque estamos de acuerdo."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag -ri buruz (about) into each gap.",
+    "items": [
+      {
+        "sentence": "Liburu honi ___ hitz egingo dugu.",
+        "answer": "buruz",
+        "translation_en": "We will talk about this book.",
+        "translation_es": "Hablaremos sobre este libro."
+      },
+      {
+        "sentence": "Zuri ___ pentsatzen ari naiz.",
+        "answer": "buruz",
+        "translation_en": "I am thinking about you.",
+        "translation_es": "Estoy pensando en ti."
+      },
+      {
+        "sentence": "Euskarari ___ ikasten ari naiz.",
+        "answer": "buruz",
+        "translation_en": "I am learning about Basque.",
+        "translation_es": "Estoy aprendiendo sobre el euskera."
+      },
+      {
+        "sentence": "Hari ___ ez dakit ezer.",
+        "answer": "buruz",
+        "translation_en": "I know nothing about him.",
+        "translation_es": "No sé nada sobre él."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag arren (although) into each gap.",
+    "items": [
+      {
+        "sentence": "Nekatuta egon ___ , etorri naiz.",
+        "answer": "arren",
+        "translation_en": "Although I was tired, I came.",
+        "translation_es": "Aunque estaba cansado, vine."
+      },
+      {
+        "sentence": "Hotz egin ___ , ez ginen etxean geratu.",
+        "answer": "arren",
+        "translation_en": "Although it was cold, we did not stay at home.",
+        "translation_es": "Aunque hacía frío, no nos quedamos en casa."
+      },
+      {
+        "sentence": "Gaztea izan ___ , oso jakintsua da.",
+        "answer": "arren",
+        "translation_en": "Although he is young, he is very wise.",
+        "translation_es": "Aunque es joven, es muy sabio."
+      },
+      {
+        "sentence": "Dirurik ez izan ___ , pozik dago.",
+        "answer": "arren",
+        "translation_en": "Although he has no money, he is happy.",
+        "translation_es": "Aunque no tiene dinero, es feliz."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the negative complementiser -enik into each gap.",
+    "items": [
+      {
+        "sentence": "Ez dut uste egia ___ .",
+        "answer": "denik",
+        "translation_en": "I do not think that it is true.",
+        "translation_es": "No creo que sea verdad."
+      },
+      {
+        "sentence": "Ez dut uste etorriko ___ .",
+        "answer": "denik",
+        "translation_en": "I do not think that he will come.",
+        "translation_es": "No creo que venga."
+      },
+      {
+        "sentence": "Ez dakit hura hemen ___ .",
+        "answer": "dagoenik",
+        "translation_en": "I do not know that he is here.",
+        "translation_es": "No sé que él esté aquí."
+      },
+      {
+        "sentence": "Ez dut uste beharrezkoa ___ .",
+        "answer": "denik",
+        "translation_en": "I do not think that it is necessary.",
+        "translation_es": "No creo que sea necesario."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag -nez gero (since) into each gap.",
+    "items": [
+      {
+        "sentence": "Etorri zarenez ___ , lagunduko dizut.",
+        "answer": "gero",
+        "translation_en": "Since you have come, I will help you.",
+        "translation_es": "Ya que has venido, te ayudaré."
+      },
+      {
+        "sentence": "Euria egiten duenez ___ , etxean geratuko gara.",
+        "answer": "gero",
+        "translation_en": "Since it is raining, we will stay at home.",
+        "translation_es": "Como está lloviendo, nos quedaremos en casa."
+      },
+      {
+        "sentence": "Denbora duzunez ___ , irakurri liburu hau.",
+        "answer": "gero",
+        "translation_en": "Since you have time, read this book.",
+        "translation_es": "Ya que tienes tiempo, lee este libro."
+      },
+      {
+        "sentence": "Hura hemen denez ___ , hitz egingo diogu.",
+        "answer": "gero",
+        "translation_en": "Since he is here, we will speak to him.",
+        "translation_es": "Ya que él está aquí, hablaremos con él."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag hain...non / ezen (so...that) into each gap.",
+    "items": [
+      {
+        "sentence": "Hain da altua ___ ez da sartzen.",
+        "answer": "non",
+        "translation_en": "He is so tall that he does not fit.",
+        "translation_es": "Es tan alto que no entra."
+      },
+      {
+        "sentence": "Hain zen hotza ___ ez ginen atera.",
+        "answer": "ezen",
+        "translation_en": "It was so cold that we did not go out.",
+        "translation_es": "Hacía tanto frío que no salimos."
+      },
+      {
+        "sentence": "Hain da ona ___ denek maite dute.",
+        "answer": "non",
+        "translation_en": "He is so good that everyone loves him.",
+        "translation_es": "Es tan bueno que todos lo quieren."
+      },
+      {
+        "sentence": "Hain zegoen nekatuta ___ lo egin zuen.",
+        "answer": "ezen",
+        "translation_en": "He was so tired that he fell asleep.",
+        "translation_es": "Estaba tan cansado que se durmió."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag bezain (as...as) into each gap.",
+    "items": [
+      {
+        "sentence": "Hori ez da hain ona ___ uste duzun.",
+        "answer": "bezain",
+        "translation_en": "That is not as good as you think.",
+        "translation_es": "Eso no es tan bueno como crees."
+      },
+      {
+        "sentence": "Ni zu ___ altua naiz.",
+        "answer": "bezain",
+        "translation_en": "I am as tall as you.",
+        "translation_es": "Soy tan alto como tú."
+      },
+      {
+        "sentence": "Hau hura ___ garestia da.",
+        "answer": "bezain",
+        "translation_en": "This is as expensive as that.",
+        "translation_es": "Esto es tan caro como eso."
+      },
+      {
+        "sentence": "Ez da hain zaila ___ zirudien.",
+        "answer": "bezain",
+        "translation_en": "It is not as difficult as it seemed.",
+        "translation_es": "No es tan difícil como parecía."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag ezik (but rather) into each gap.",
+    "items": [
+      {
+        "sentence": "Lan egin ___ , atseden hartu zuen.",
+        "answer": "ezik",
+        "translation_en": "Rather than work, he rested.",
+        "translation_es": "En vez de trabajar, descansó."
+      },
+      {
+        "sentence": "Ez dut kafea ___ tea nahiago dut.",
+        "answer": "ezik",
+        "translation_en": "I do not want coffee, but rather tea.",
+        "translation_es": "No quiero café, sino té."
+      },
+      {
+        "sentence": "Hura ez da medikua ___ irakaslea da.",
+        "answer": "ezik",
+        "translation_en": "He is not a doctor but a teacher.",
+        "translation_es": "No es médico, sino profesor."
+      },
+      {
+        "sentence": "Hemen ez da hotz ___ bero egiten du.",
+        "answer": "ezik",
+        "translation_en": "Here it is not cold but hot.",
+        "translation_es": "Aquí no hace frío, sino calor."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag ala into each gap.",
+    "items": [
+      {
+        "sentence": "Kafea ___ tea nahi duzu?",
+        "answer": "ala",
+        "translation_en": "Do you want coffee or tea?",
+        "translation_es": "¿Quieres café o té?"
+      },
+      {
+        "sentence": "Gaur ___ bihar etorriko zara?",
+        "answer": "ala",
+        "translation_en": "Will you come today or tomorrow?",
+        "translation_es": "¿Vendrás hoy o mañana?"
+      },
+      {
+        "sentence": "Hau ___ hura aukeratu behar dut?",
+        "answer": "ala",
+        "translation_en": "Must I choose this one or that one?",
+        "translation_es": "¿Debo elegir este o aquel?"
+      },
+      {
+        "sentence": "Goizean ___ arratsaldean joango gara?",
+        "answer": "ala",
+        "translation_en": "Will we go in the morning or in the afternoon?",
+        "translation_es": "¿Iremos por la mañana o por la tarde?"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the -lakoan form into each gap.",
+    "items": [
+      {
+        "sentence": "Etorriko zela___ nengoen.",
+        "answer": "lakoan",
+        "translation_en": "I was thinking that he would come.",
+        "translation_es": "Pensaba que vendría."
+      },
+      {
+        "sentence": "Eguzkia aterako zela___ atera nintzen.",
+        "answer": "lakoan",
+        "translation_en": "Thinking that the sun would come out, I went out.",
+        "translation_es": "Pensando que saldría el sol, salí."
+      },
+      {
+        "sentence": "Denbora nuela___ , lasai nengoen.",
+        "answer": "lakoan",
+        "translation_en": "Thinking that I had time, I was calm.",
+        "translation_es": "Pensando que tenía tiempo, estaba tranquilo."
+      },
+      {
+        "sentence": "Hura gaixorik zegoela___ nengoen.",
+        "answer": "lakoan",
+        "translation_en": "I was thinking that he was ill.",
+        "translation_es": "Pensaba que él estaba enfermo."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag ala ez (whether or not) into each gap.",
+    "items": [
+      {
+        "sentence": "Etorriko zaren ___ galdetu zidan.",
+        "answer": "ala ez",
+        "translation_en": "He asked me whether you would come or not.",
+        "translation_es": "Me preguntó si vendrías o no."
+      },
+      {
+        "sentence": "Egia den ___ ez dakit.",
+        "answer": "ala ez",
+        "translation_en": "I do not know whether it is true or not.",
+        "translation_es": "No sé si es verdad o no."
+      },
+      {
+        "sentence": "Joango garen ___ oraindik ez dugu erabaki.",
+        "answer": "ala ez",
+        "translation_en": "We have not yet decided whether we will go or not.",
+        "translation_es": "Todavía no hemos decidido si iremos o no."
+      },
+      {
+        "sentence": "Nahi duzun ___ esan iezadazu.",
+        "answer": "ala ez",
+        "translation_en": "Tell me whether you want it or not.",
+        "translation_es": "Dime si lo quieres o no."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag baita ere (also) into each gap.",
+    "items": [
+      {
+        "sentence": "Hura etorri zen, eta zu ___ .",
+        "answer": "baita ere",
+        "translation_en": "He came, and you too.",
+        "translation_es": "Él vino, y tú también."
+      },
+      {
+        "sentence": "Kafea gustatzen zait, ___ tea.",
+        "answer": "baita ere",
+        "translation_en": "I like coffee, and tea as well.",
+        "translation_es": "Me gusta el café, y el té también."
+      },
+      {
+        "sentence": "Liburuak irakurtzen ditut, ___ egunkariak.",
+        "answer": "baita ere",
+        "translation_en": "I read books, and newspapers too.",
+        "translation_es": "Leo libros, y también periódicos."
+      },
+      {
+        "sentence": "Euskaraz hitz egiten du, ___ gaztelaniaz.",
+        "answer": "baita ere",
+        "translation_en": "He speaks Basque, and Spanish too.",
+        "translation_es": "Habla euskera, y también español."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag -rako / -tzat (for) into each gap.",
+    "items": [
+      {
+        "sentence": "Goize___ ogia erosi dut.",
+        "answer": "rako",
+        "translation_en": "I bought bread for the morning.",
+        "translation_es": "Compré pan para la mañana."
+      },
+      {
+        "sentence": "Zure___ opari bat daukat.",
+        "answer": "tzat",
+        "translation_en": "I have a gift for you.",
+        "translation_es": "Tengo un regalo para ti."
+      },
+      {
+        "sentence": "Etorkizune___ planak ditugu.",
+        "answer": "rako",
+        "translation_en": "We have plans for the future.",
+        "translation_es": "Tenemos planes para el futuro."
+      },
+      {
+        "sentence": "Zuen___ opari bana daukat.",
+        "answer": "tzat",
+        "translation_en": "I have a gift for each of you.",
+        "translation_es": "Tengo un regalo para cada uno de vosotros."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag -en arabera (according to) into each gap.",
+    "items": [
+      {
+        "sentence": "Eguraldiaren ___ , joango gara.",
+        "answer": "arabera",
+        "translation_en": "Depending on the weather, we will go.",
+        "translation_es": "Según el tiempo, iremos."
+      },
+      {
+        "sentence": "Arauen ___ , hori debekatuta dago.",
+        "answer": "arabera",
+        "translation_en": "According to the rules, that is forbidden.",
+        "translation_es": "Según las normas, eso está prohibido."
+      },
+      {
+        "sentence": "Datuen ___ , igo da prezioa.",
+        "answer": "arabera",
+        "translation_en": "According to the data, the price has risen.",
+        "translation_es": "Según los datos, el precio ha subido."
+      },
+      {
+        "sentence": "Haren esanen ___ , egia da.",
+        "answer": "arabera",
+        "translation_en": "According to what he says, it is true.",
+        "translation_es": "Según lo que él dice, es verdad."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag -rik gabe (without) into each gap.",
+    "items": [
+      {
+        "sentence": "Diru___ gabe nago.",
+        "answer": "rik",
+        "translation_en": "I am without money.",
+        "translation_es": "Estoy sin dinero."
+      },
+      {
+        "sentence": "Lan___ gabe dago.",
+        "answer": "rik",
+        "translation_en": "He is without work.",
+        "translation_es": "Está sin trabajo."
+      },
+      {
+        "sentence": "Zure laguntza___ gabe ezin dut.",
+        "answer": "rik",
+        "translation_en": "Without your help I cannot.",
+        "translation_es": "Sin tu ayuda no puedo."
+      },
+      {
+        "sentence": "Euri___ gabe joan ginen.",
+        "answer": "rik",
+        "translation_en": "We went without rain.",
+        "translation_es": "Fuimos sin lluvia."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag hainbat or batzuk (several / some) into each gap.",
+    "items": [
+      {
+        "sentence": "___ lagun etorri dira.",
+        "answer": "Hainbat",
+        "translation_en": "Several friends have come.",
+        "translation_es": "Han venido varios amigos."
+      },
+      {
+        "sentence": "___ liburu irakurri ditut.",
+        "answer": "Batzuk",
+        "translation_en": "I have read some books.",
+        "translation_es": "He leído algunos libros."
+      },
+      {
+        "sentence": "___ gauza ikasi ditugu.",
+        "answer": "Hainbat",
+        "translation_en": "We have learned several things.",
+        "translation_es": "Hemos aprendido varias cosas."
+      },
+      {
+        "sentence": "___ etorriko dira, besteak ez.",
+        "answer": "Batzuk",
+        "translation_en": "Some will come, the others not.",
+        "translation_es": "Algunos vendrán, los otros no."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag ez ezik...ere (not only...but also) into each gap.",
+    "items": [
+      {
+        "sentence": "Hura ez ezik, zu ___ etorri zara.",
+        "answer": "ere",
+        "translation_en": "Not only he, but you too have come.",
+        "translation_es": "No solo él, tú también has venido."
+      },
+      {
+        "sentence": "Liburuak ez ezik, egunkariak ___ irakurtzen ditut.",
+        "answer": "ere",
+        "translation_en": "I read not only books but also newspapers.",
+        "translation_es": "Leo no solo libros sino también periódicos."
+      },
+      {
+        "sentence": "Euskaraz ez ezik, ingelesez ___ hitz egiten du.",
+        "answer": "ere",
+        "translation_en": "He speaks not only Basque but also English.",
+        "translation_es": "Habla no solo euskera sino también inglés."
+      },
+      {
+        "sentence": "Kafea ez ezik, tea ___ gustatzen zait.",
+        "answer": "ere",
+        "translation_en": "I like not only coffee but also tea.",
+        "translation_es": "Me gusta no solo el café sino también el té."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag bezain laster (as soon as) into each gap.",
+    "items": [
+      {
+        "sentence": "Hura ikusi ___ , pozik jarri nintzen.",
+        "answer": "bezain laster",
+        "translation_en": "As soon as I saw him, I became happy.",
+        "translation_es": "En cuanto lo vi, me puse contento."
+      },
+      {
+        "sentence": "Etxera iritsi ___ , lo egin nuen.",
+        "answer": "bezain laster",
+        "translation_en": "As soon as I arrived home, I slept.",
+        "translation_es": "En cuanto llegué a casa, dormí."
+      },
+      {
+        "sentence": "Eguzkia atera ___ , atera ginen.",
+        "answer": "bezain laster",
+        "translation_en": "As soon as the sun came out, we went out.",
+        "translation_es": "En cuanto salió el sol, salimos."
+      },
+      {
+        "sentence": "Hitz egin ___ , isildu zen.",
+        "answer": "bezain laster",
+        "translation_en": "As soon as he spoke, he fell silent.",
+        "translation_es": "En cuanto habló, se calló."
+      }
+    ]
+  }
+]
