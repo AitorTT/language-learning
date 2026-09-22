@@ -1024,10 +1024,11 @@
   const DINO_GRAVITY = 2600;
   const DINO_JUMP_V = -820;
   const DINO_WORD_SECONDS = 5;
+  const DINO_SPEED = 260;
 
   const dinoGame = {
     raf: null, last: 0, running: false, paused: false, over: false,
-    speed: 260, distance: 0, score: 0, hi: 0,
+    speed: DINO_SPEED, distance: 0, score: 0, hi: 0,
     W: 600, H: DINO_H, groundY: DINO_H - 26,
     dino: { x: 34, y: 0, vy: 0, w: 34, h: 38, duck: false, onGround: true, phase: 0 },
     obstacles: [], clouds: [], spawnTimer: 0.9, wordTimer: 0, pool: [],
@@ -1074,7 +1075,7 @@
   function dinoReset() {
     const g = dinoGame;
     g.over = false;
-    g.speed = 260;
+    g.speed = DINO_SPEED;
     g.distance = 0;
     g.score = 0;
     g.obstacles = [];
@@ -1149,7 +1150,6 @@
   function dinoUpdate(dt) {
     const g = dinoGame;
     const d = g.dino;
-    g.speed = Math.min(260 + g.distance * 0.06, 640);
     const move = g.speed * dt;
     g.distance += move;
     g.score = g.distance / 10;
