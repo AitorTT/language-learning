@@ -254,6 +254,24 @@
   .text-head h3 { margin: 0; }
   table.grid th.act, table.grid td.act { width: 46px; text-align: center; }
   .tablewrap { overflow-x: auto; }
+
+  /* ---------- Compare ---------- */
+  .cmp-intro { color: #fff; text-align: center; margin: 0 0 16px; font-size: 14px; }
+  .cmp-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 12px; }
+  .cmp-head h3 { margin: 0; font-size: 18px; }
+  .cmp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(168px, 1fr)); gap: 8px; }
+  .cmp-tile {
+    display: flex; align-items: center; gap: 8px; padding: 8px 10px;
+    border-radius: 10px; background: rgba(102, 126, 234, 0.08);
+  }
+  .cmp-tile.active { background: rgba(102, 126, 234, 0.18); box-shadow: inset 0 0 0 2px var(--accent); }
+  .cmp-lang { display: flex; flex-direction: column; align-items: center; gap: 2px; width: 62px; flex: none; }
+  .cmp-lang .flag { font-size: 20px; line-height: 1; }
+  .cmp-lang .name { font-size: 10px; font-weight: 600; color: var(--muted); text-align: center; line-height: 1.1; }
+  .cmp-term { flex: 1; font-size: 16px; font-weight: 700; word-break: break-word; }
+  .cmp-term.missing { color: var(--muted); font-weight: 400; }
+  .cmp-tile button.speak { width: 30px; height: 30px; }
+  .cmp-tile button.speak svg { width: 14px; height: 14px; }
 </style>
 </head>
 <body>
@@ -285,6 +303,7 @@
     <button data-tab="texts">Texts</button>
     <button data-tab="exercises">Exercises</button>
     <button data-tab="grammar">Grammar</button>
+    <button data-tab="compare">Compare</button>
     <button data-tab="writing">Writing</button>
   </div>
 
@@ -321,6 +340,8 @@
   </section>
 
   <section class="panel" id="panel-grammar"></section>
+
+  <section class="panel" id="panel-compare"></section>
 
   <section class="panel" id="panel-writing">
     <div id="writeLocked" class="block" style="text-align:center">
@@ -861,6 +882,7 @@
     document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("active", b.dataset.tab === t));
     document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
     document.getElementById("panel-" + t).classList.add("active");
+    document.getElementById("levels").style.display = t === "compare" ? "none" : "";
     render();
   }
   function setLevel(l) {
@@ -874,8 +896,52 @@
     else if (tab === "texts") renderTexts();
     else if (tab === "exercises") renderExercises();
     else if (tab === "grammar") renderGrammar();
+    else if (tab === "compare") renderCompare();
     else if (tab === "writing") renderWriting();
   }
+
+  /* ---------- Compare ---------- */
+  let COMPARE = null;
+
+  function compareTile(l, term) {
+    const has = term !== undefined && term !== null && term !== "";
+    const active = lang && l.code === lang.code ? " active" : "";
+    const btn = speechSupported()
+      ? `<button class="speak" type="button" title="Listen" aria-label="Listen" data-cmp-code="${l.code}" data-cmp-text="${has ? escapeHtml(term) : ""}">${ICON_SPEAK}</button>`
+      : "";
+    return `<div class="cmp-tile${active}">
+        <div class="cmp-lang"><span class="flag">${l.flag || ""}</span><span class="name">${l.name}</span></div>
+        <div class="cmp-term${has ? "" : " missing"}" dir="auto">${has ? escapeHtml(term) : "—"}</div>
+        ${btn}
+      </div>`;
+  }
+
+  function renderCompare() {
+    stopSpeech();
+    const el = document.getElementById("panel-compare");
+    if (!COMPARE) {
+      el.innerHTML = `<div class="empty">Loading…</div>`;
+      fetch("/compare").then(r => r.json()).then(data => {
+        COMPARE = data;
+        if (tab === "compare") renderCompare();
+      }).catch(() => {
+        el.innerHTML = `<div class="empty">Could not load the comparison.</div>`;
+      });
+      return;
+    }
+    const blocks = COMPARE.words.map(w => `
+      <div class="block">
+        <div class="cmp-head"><h3>${escapeHtml(w.concept)}</h3></div>
+        <div class="cmp-grid">${COMPARE.languages.map(l => compareTile(l, w.terms[l.code])).join("")}</div>
+      </div>`).join("");
+    el.innerHTML =
+      `<p class="cmp-intro">The same word in all ${COMPARE.languages.length} languages. Tap a speaker to hear it.</p>` + blocks;
+  }
+
+  document.getElementById("panel-compare").addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-cmp-code]");
+    if (btn) speak(btn.dataset.cmpText, btn.dataset.cmpCode, btn);
+  });
 
   /* ---------- Events ---------- */
   document.querySelectorAll("#tabs button").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
@@ -930,7 +996,7 @@
   });
 
   /* ---------- Languages ---------- */
-  const TAB_SECTION = { flashcards: "vocabulary", texts: "texts", exercises: "exercises", grammar: "grammar", writing: null };
+  const TAB_SECTION = { flashcards: "vocabulary", texts: "texts", exercises: "exercises", grammar: "grammar", compare: null, writing: null };
 
   const langpick = document.getElementById("langpick");
   const langBtn = document.getElementById("langBtn");
@@ -959,8 +1025,8 @@
   function updateTabs() {
     document.querySelectorAll("#tabs button").forEach(b => {
       const sec = TAB_SECTION[b.dataset.tab];
-      const available = b.dataset.tab === "writing" || lang.sections.includes(sec);
-      b.style.display = available ? "" : "none";
+      const always = b.dataset.tab === "writing" || b.dataset.tab === "compare";
+      b.style.display = (always || lang.sections.includes(sec)) ? "" : "none";
     });
   }
 
@@ -992,7 +1058,8 @@
     document.getElementById("noteContent").placeholder = `Write in ${lang.name} here…`;
     updateTabs();
     loadData(code).then(() => {
-      if (!(tab === "writing" || lang.sections.includes(TAB_SECTION[tab]))) tab = "flashcards";
+      const keep = tab === "writing" || tab === "compare" || lang.sections.includes(TAB_SECTION[tab]);
+      if (!keep) tab = "flashcards";
       applyFilters();
       setTab(tab);
     });

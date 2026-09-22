@@ -54,6 +54,47 @@ def _load_pack(code):
 
 PACKS = {lang["code"]: _load_pack(lang["code"]) for lang in LANGUAGES}
 
+COMPARE_WORDS = [
+    "hello", "goodbye", "good morning", "good night", "thank you",
+    "please", "sorry", "yes", "no", "help",
+]
+
+_compare_cache = None
+
+
+def _english_alternatives(value):
+    text = str(value).strip().lower().rstrip("?").strip()
+    return [p.strip() for p in text.split("/") if p.strip()]
+
+
+def _build_compare():
+    global _compare_cache
+    if _compare_cache is not None:
+        return _compare_cache
+    languages = [
+        {
+            "code": lang["code"],
+            "name": lang["name"],
+            "flag": lang.get("flag", ""),
+            "speech": lang.get("speech", ""),
+            "termLabel": lang.get("termLabel", ""),
+        }
+        for lang in LANGUAGES
+    ]
+    words = []
+    for concept in COMPARE_WORDS:
+        terms = {}
+        for lang in LANGUAGES:
+            code = lang["code"]
+            field = lang["termField"]
+            for entry in PACKS[code].get("vocabulary", []):
+                if concept in _english_alternatives(entry.get("english", "")):
+                    terms[code] = entry.get(field, "")
+                    break
+        words.append({"concept": concept, "terms": terms})
+    _compare_cache = {"languages": languages, "words": words}
+    return _compare_cache
+
 
 def _load_notes():
     client = _get_redis()
@@ -144,6 +185,8 @@ class Handler(BaseHTTPRequestHandler):
             self._send_json(200, LANGUAGES)
         elif path == "/levels":
             self._send_json(200, LEVELS)
+        elif path == "/compare":
+            self._send_json(200, _build_compare())
         elif path == "/notes":
             if not WRITE_PASSWORD:
                 self._send_json(503, {"error": "saving is not configured"})
