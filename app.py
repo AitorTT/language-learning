@@ -100,6 +100,9 @@ COMPARE_PRON = {
     "fi": {"hello": "hei", "goodbye": "ˈnækemiːn", "good morning": "ˈhyʋæː ˈhuo̯mentɑ",
            "good night": "ˈhyʋæː ˈyø̯tæ", "thank you": "ˈkiːtos", "please": "ˈole ˈhyʋæ",
            "sorry": "ˈɑnteːksi", "yes": "ˈkylːæ", "no": "ei", "help": "ˈɑpu"},
+    "da": {"hello": "hɑj", "goodbye": "fɑˈvɛl", "good morning": "ɡoˈmɔːɐn",
+           "good night": "ɡoˈnat", "thank you": "tɑk", "please": "væɐ̯sˈɡoː",
+           "sorry": "ˈɔnskyld", "yes": "ja", "no": "nɑj", "help": "jɛlp"},
 }
 
 _compare_cache = None
