@@ -285,5 +285,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "et",
+    "name": "Estonian",
+    "flag": "🇪🇪",
+    "speech": "et-EE",
+    "termLabel": "Estonian",
+    "termField": "estonian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

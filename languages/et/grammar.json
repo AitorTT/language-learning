@@ -1,0 +1,2446 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Estonian alphabet",
+    "description": "Estonian uses the Latin alphabet with four extra vowels.",
+    "columns": [
+      "Feature",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "õ",
+        "õun",
+        "a central unrounded vowel",
+        "una vocal central"
+      ],
+      [
+        "ä",
+        "ära",
+        "like 'a' in cat",
+        "como la 'a' en casa"
+      ],
+      [
+        "ö",
+        "öö",
+        "like 'u' in fur",
+        "como la 'ö' alemana"
+      ],
+      [
+        "ü",
+        "üks",
+        "like a rounded i",
+        "una i redondeada"
+      ],
+      [
+        "double letters",
+        "linn",
+        "length matters",
+        "la duración importa"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Each pronoun has a long and a short form.",
+    "columns": [
+      "Person",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "mina / ma",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "sina / sa",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing.",
+        "tema / ta",
+        "he / she",
+        "él / ella"
+      ],
+      [
+        "1st plur.",
+        "meie / me",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "teie / te",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "nemad / nad",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "olema (to be)",
+    "description": "Estonian verbs change for person.",
+    "columns": [
+      "Person",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "ma olen",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "you are",
+        "sa oled",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "he is",
+        "ta on",
+        "he is",
+        "él es"
+      ],
+      [
+        "we are",
+        "me oleme",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "they are",
+        "nad on",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Possession: mul on",
+    "description": "Estonian has no verb 'to have'; it uses 'at me is'.",
+    "columns": [
+      "Person",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "mul on",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "you have",
+        "sul on",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "he has",
+        "tal on",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "we have",
+        "meil on",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "they have",
+        "neil on",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "The main cases",
+    "description": "Estonian marks roles with case endings, not word order.",
+    "columns": [
+      "Case",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nominative",
+        "raamat",
+        "book (subject)",
+        "libro (sujeto)"
+      ],
+      [
+        "genitive",
+        "raamatu",
+        "of the book",
+        "del libro"
+      ],
+      [
+        "partitive",
+        "raamatut",
+        "book (object)",
+        "libro (objeto)"
+      ],
+      [
+        "inessive",
+        "raamatus",
+        "in the book",
+        "en el libro"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "The nominative plural ends in -d.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-d",
+        "raamat → raamatud",
+        "book → books",
+        "libro → libros"
+      ],
+      [
+        "-d",
+        "lill → lilled",
+        "flower → flowers",
+        "flor → flores"
+      ],
+      [
+        "genitive plur.",
+        "raamatute",
+        "of the books",
+        "de los libros"
+      ],
+      [
+        "partitive plur.",
+        "raamatuid",
+        "books (object)",
+        "libros (objeto)"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective comes before the noun.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "big",
+        "suur maja",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "small",
+        "väike maja",
+        "a small house",
+        "una casa pequeña"
+      ],
+      [
+        "beautiful",
+        "ilus lill",
+        "a beautiful flower",
+        "una flor bonita"
+      ],
+      [
+        "new",
+        "uus raamat",
+        "a new book",
+        "un libro nuevo"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The present also expresses the future.",
+    "columns": [
+      "Person",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "ma räägin",
+        "I speak",
+        "yo hablo"
+      ],
+      [
+        "you speak",
+        "sa räägid",
+        "you speak",
+        "tú hablas"
+      ],
+      [
+        "he speaks",
+        "ta räägib",
+        "he speaks",
+        "él habla"
+      ],
+      [
+        "we speak",
+        "me räägime",
+        "we speak",
+        "nosotros hablamos"
+      ],
+      [
+        "they speak",
+        "nad räägivad",
+        "they speak",
+        "ellos hablan"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Negation",
+    "description": "ei comes before the verb and never changes.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "ma ei räägi",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "ma ei ütle midagi",
+        "I say nothing",
+        "no digo nada"
+      ],
+      [
+        "never",
+        "ma ei tule kunagi",
+        "I never come",
+        "nunca vengo"
+      ],
+      [
+        "nobody",
+        "ma ei näe kedagi",
+        "I see nobody",
+        "no veo a nadie"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "mis",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "kes",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "kus",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "millal",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "miks",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "kuidas",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers take the partitive form of the noun.",
+    "columns": [
+      "Number",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "üks",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "kaks",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "kolm",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "neli",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "viis",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "kuus",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "seitse",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "kaheksa",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "üheksa",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "kümme",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are written with a small letter.",
+    "columns": [
+      "Day",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "pühapäev",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "esmaspäev",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "teisipäev",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "kolmapäev",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "neljapäev",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "reede",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "laupäev",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Colour",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "punane",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "sinine",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "roheline",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "must",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "valge",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "kollane",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "The partitive case",
+    "description": "The partitive marks an indefinite or unfinished quantity.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-t",
+        "raamat → raamatut",
+        "book (object)",
+        "libro (objeto)"
+      ],
+      [
+        "after numbers",
+        "kaks raamatut",
+        "two books",
+        "dos libros"
+      ],
+      [
+        "with negation",
+        "ma ei osta maja",
+        "I do not buy a house",
+        "no compro una casa"
+      ],
+      [
+        "-i",
+        "lill → lilli",
+        "flowers (object)",
+        "flores (objeto)"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "The genitive case",
+    "description": "The genitive ends in a vowel and shows possession.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-u",
+        "raamat → raamatu",
+        "of the book",
+        "del libro"
+      ],
+      [
+        "-e",
+        "lill → lille",
+        "of the flower",
+        "de la flor"
+      ],
+      [
+        "unchanged",
+        "maja → maja",
+        "of the house",
+        "de la casa"
+      ],
+      [
+        "possession",
+        "venna maja",
+        "brother's house",
+        "la casa del hermano"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "The inessive case",
+    "description": "The inessive means 'in' or 'at'.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-s",
+        "maja → majas",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "-s",
+        "kool → koolis",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "-s",
+        "linn → linnas",
+        "in the city",
+        "en la ciudad"
+      ],
+      [
+        "-s",
+        "raamat → raamatus",
+        "in the book",
+        "en el libro"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "These do not change with the noun.",
+    "columns": [
+      "Person",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "minu",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "sinu",
+        "your",
+        "tu"
+      ],
+      [
+        "his / her",
+        "tema",
+        "his / her",
+        "su"
+      ],
+      [
+        "our",
+        "meie",
+        "our",
+        "nuestro"
+      ],
+      [
+        "your (pl.)",
+        "teie",
+        "your",
+        "vuestro"
+      ],
+      [
+        "their",
+        "nende",
+        "their",
+        "su"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "ema",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "isa",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "vend",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "õde",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "poeg",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "tütar",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "The past adds -si- to the stem.",
+    "columns": [
+      "Person",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I was",
+        "ma olin",
+        "I was",
+        "yo era"
+      ],
+      [
+        "you were",
+        "sa olid",
+        "you were",
+        "tú eras"
+      ],
+      [
+        "he was",
+        "ta oli",
+        "he was",
+        "él era"
+      ],
+      [
+        "we worked",
+        "me töötasime",
+        "we worked",
+        "trabajamos"
+      ],
+      [
+        "they worked",
+        "nad töötasid",
+        "they worked",
+        "trabajaron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future",
+    "description": "Estonian uses the present tense for the future.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will go",
+        "ma lähen",
+        "I will go",
+        "iré"
+      ],
+      [
+        "going to",
+        "ma hakkan õppima",
+        "I am going to study",
+        "voy a estudiar"
+      ],
+      [
+        "tomorrow",
+        "homme",
+        "tomorrow",
+        "mañana"
+      ],
+      [
+        "he comes tomorrow",
+        "ta tuleb homme",
+        "he comes tomorrow",
+        "él viene mañana"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative uses the short stem.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait!",
+        "oota",
+        "wait!",
+        "¡espera!"
+      ],
+      [
+        "read!",
+        "loe",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "come!",
+        "tule",
+        "come!",
+        "¡ven!"
+      ],
+      [
+        "close!",
+        "sulge",
+        "close!",
+        "¡cierra!"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "The comparative adds -m.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "suurem",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "suurem kui",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "parem",
+        "better",
+        "mejor"
+      ],
+      [
+        "smaller",
+        "väiksem",
+        "smaller",
+        "más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The superlative",
+    "description": "The superlative uses kõige or the ending -im.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "suurim",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "parim",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the most interesting",
+        "kõige huvitavam",
+        "the most interesting",
+        "el más interesante"
+      ],
+      [
+        "the smallest",
+        "väikseim",
+        "the smallest",
+        "el más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "The illative case",
+    "description": "The illative means 'into' or 'to'.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-sse",
+        "maja → majja",
+        "into the house",
+        "a la casa"
+      ],
+      [
+        "-sse",
+        "kool → kooli",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "-sse",
+        "linn → linna",
+        "to the city",
+        "a la ciudad"
+      ],
+      [
+        "-de",
+        "pood → poodi",
+        "to the shop",
+        "a la tienda"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "The elative case",
+    "description": "The elative means 'out of' or 'from'.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-st",
+        "maja → majast",
+        "from the house",
+        "de la casa"
+      ],
+      [
+        "-st",
+        "kool → koolist",
+        "from school",
+        "de la escuela"
+      ],
+      [
+        "-st",
+        "linn → linnast",
+        "from the city",
+        "de la ciudad"
+      ],
+      [
+        "-lt",
+        "töö → töölt",
+        "from work",
+        "del trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "The adessive case",
+    "description": "The adessive means 'on' or 'at'.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-l",
+        "laud → laual",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "-l",
+        "tänav → tänaval",
+        "in the street",
+        "en la calle"
+      ],
+      [
+        "-l",
+        "tal on",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "-l",
+        "minul on",
+        "I have",
+        "yo tengo"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "alati",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "sageli",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "mõnikord",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "harva",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "mitte kunagi",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "Teens end in -teist; tens in -kümmend.",
+    "columns": [
+      "Number",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "üksteist",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "kaksteist",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "kakskümmend",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "kolmkümmend",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "100",
+        "sada",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "esimene",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "teine",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "kolmas",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "viimane",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Estonian counts towards the next hour for the half.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "kell üks",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "kell seitse",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "pool kaheksa",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "veerand üle kaheksa",
+        "quarter past seven",
+        "las siete y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Months",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Month",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "jaanuar",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "märts",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "juuni",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "september",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "detsember",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Postpositions",
+    "description": "Postpositions follow the noun in the genitive.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "laua peal",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "laua all",
+        "under the table",
+        "bajo la mesa"
+      ],
+      [
+        "behind",
+        "metsa taga",
+        "behind the forest",
+        "detrás del bosque"
+      ],
+      [
+        "in front of",
+        "maja ees",
+        "in front of the house",
+        "delante de la casa"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather often uses impersonal forms.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "sajab vihma",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "on kuum",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "on külm",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "on päikeseline",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use the comitative -ga.",
+    "columns": [
+      "Means",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "bussiga",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "rongiga",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "lennukiga",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "jalgsi",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional adds -ks to the verb.",
+    "columns": [
+      "Person",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I would travel",
+        "ma reisiksin",
+        "I would travel",
+        "yo viajaría"
+      ],
+      [
+        "you would go",
+        "sa läheksid",
+        "you would go",
+        "tú irías"
+      ],
+      [
+        "he would do",
+        "ta teeks",
+        "he would do",
+        "él haría"
+      ],
+      [
+        "we would buy",
+        "me ostaksime",
+        "we would buy",
+        "nosotros compraríamos"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The impersonal",
+    "description": "The impersonal is used for general statements.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "ehitati",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "was read",
+        "loeti",
+        "was read",
+        "fue leído"
+      ],
+      [
+        "is done",
+        "tehakse",
+        "is done",
+        "se hace"
+      ],
+      [
+        "is spoken",
+        "räägitakse",
+        "is spoken",
+        "se habla"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "smiling",
+        "naeratav",
+        "smiling",
+        "sonriente"
+      ],
+      [
+        "written",
+        "kirjutatud",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "väsinud",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "suletud",
+        "closed",
+        "cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "The relative word changes with its role.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who (person)",
+        "kes",
+        "who",
+        "quien"
+      ],
+      [
+        "which (thing)",
+        "mis",
+        "which",
+        "que"
+      ],
+      [
+        "where",
+        "kus",
+        "where",
+        "donde"
+      ],
+      [
+        "whose",
+        "mille",
+        "whose",
+        "cuyo"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "et introduces a reported clause.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "et",
+        "that",
+        "que"
+      ],
+      [
+        "what",
+        "mida",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "kus",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "millal",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbal nouns end in -mine.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "lugemine",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "õppimine",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "decision",
+        "otsus",
+        "decision",
+        "decisión"
+      ],
+      [
+        "swimming",
+        "ujumine",
+        "swimming",
+        "natación"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb plus case",
+    "description": "Many verbs take a fixed case.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "answer",
+        "vastata küsimusele",
+        "to answer the question",
+        "responder a la pregunta"
+      ],
+      [
+        "love",
+        "armastada kohvi",
+        "to love coffee",
+        "amar el café"
+      ],
+      [
+        "trust",
+        "usaldada sind",
+        "to trust you",
+        "confiar en ti"
+      ],
+      [
+        "take part",
+        "osalema koosolekul",
+        "to take part in the meeting",
+        "participar en la reunión"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order",
+    "description": "Word order is flexible because cases mark the roles.",
+    "columns": [
+      "Type",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "basic",
+        "ma loen raamatut",
+        "I read a book",
+        "leo un libro"
+      ],
+      [
+        "emphatic",
+        "raamatut loen ma",
+        "it is the book I read",
+        "el libro lo leo yo"
+      ],
+      [
+        "question",
+        "kas sa loed?",
+        "do you read?",
+        "¿lees?"
+      ],
+      [
+        "negation",
+        "ma ei loe",
+        "I do not read",
+        "no leo"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "aga",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "sest",
+        "because",
+        "porque"
+      ],
+      [
+        "therefore",
+        "seetõttu",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "although",
+        "kuigi",
+        "although",
+        "aunque"
+      ],
+      [
+        "moreover",
+        "pealegi",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "ravi",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "sümptom",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "retsept",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "vaktsiin",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "kindlustus",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "koosolek",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "leping",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "palk",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kolleeg",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "tähtaeg",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "kool",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "ülikool",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "eksam",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "teadmised",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "oskus",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "saabumine",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "uurimine",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "koostöö",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "tootmine",
+        "production",
+        "producción"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metoodika",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "korrelatsioon",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "muutuja",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empiiriline",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "kvantitatiivne",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "inflatsioon",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "pankrot",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "toetus",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "tulu",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "investeering",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "põhiseadus",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlament",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "otsus",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "hageja",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "kostja",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "eetika",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "moraal",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "ausus",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "vastutus",
+        "responsibility",
+        "responsabilidad"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "teadvus",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "olemasolu",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identiteet",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradoks",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilemma",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnoos",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "teraapia",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "krooniline",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "infektsioon",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "immuunne",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekul",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "aatom",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "gravitatsioon",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "rakk",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "katse",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Estonian.",
+    "columns": [
+      "Connector",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "pealegi",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "siiski",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "seetõttu",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "esiteks",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "sellest hoolimata",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "otsust tegema",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "tähelepanu pöörama",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "rolli mängima",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "järeldust tegema",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "kaua kestma",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "parandama",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "taaskasutama",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "süsinikuheide",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "jätkusuutlik",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Estonian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retoorika",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskursus",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "mitmetähenduslikkus",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "konsensus",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "argument",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]

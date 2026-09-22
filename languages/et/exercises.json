@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ olen üliõpilane.",
+        "answer": "Ma",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ on õpetaja.",
+        "answer": "Ta",
+        "translation_en": "He is a teacher.",
+        "translation_es": "Él es profesor."
+      },
+      {
+        "sentence": "___ oleme sõbrad.",
+        "answer": "Me",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      },
+      {
+        "sentence": "___ olete õpilased.",
+        "answer": "Te",
+        "translation_en": "You are students.",
+        "translation_es": "Vosotros sois estudiantes."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to be' into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ üliõpilane.",
+        "answer": "olen",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "Sa ___ õpetaja.",
+        "answer": "oled",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "Ta ___ arst.",
+        "answer": "on",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "Me ___ sõbrad.",
+        "answer": "oleme",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct 'have' phrase into each gap.",
+    "items": [
+      {
+        "sentence": "___ raamat.",
+        "answer": "Minul on",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "___ koer.",
+        "answer": "Sinul on",
+        "translation_en": "You have a dog.",
+        "translation_es": "Tienes un perro."
+      },
+      {
+        "sentence": "___ auto.",
+        "answer": "Temal on",
+        "translation_en": "He has a car.",
+        "translation_es": "Él tiene un coche."
+      },
+      {
+        "sentence": "___ maja.",
+        "answer": "Meil on",
+        "translation_en": "We have a house.",
+        "translation_es": "Tenemos una casa."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "See on ___ maja.",
+        "answer": "suur",
+        "translation_en": "This is a big house.",
+        "translation_es": "Esta es una casa grande."
+      },
+      {
+        "sentence": "See on ___ raamat.",
+        "answer": "uus",
+        "translation_en": "This is a new book.",
+        "translation_es": "Este es un libro nuevo."
+      },
+      {
+        "sentence": "See on ___ auto.",
+        "answer": "kiire",
+        "translation_en": "This is a fast car.",
+        "translation_es": "Este es un coche rápido."
+      },
+      {
+        "sentence": "See on ___ lill.",
+        "answer": "ilus",
+        "translation_en": "This is a beautiful flower.",
+        "translation_es": "Esta es una flor bonita."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct partitive plural into each gap.",
+    "items": [
+      {
+        "sentence": "Kaks ___ on laual.",
+        "answer": "õuna",
+        "translation_en": "Two apples are on the table.",
+        "translation_es": "Hay dos manzanas sobre la mesa."
+      },
+      {
+        "sentence": "Kolm ___ on tänaval.",
+        "answer": "autot",
+        "translation_en": "Three cars are in the street.",
+        "translation_es": "Hay tres coches en la calle."
+      },
+      {
+        "sentence": "Viis ___ on klassis.",
+        "answer": "õpilast",
+        "translation_en": "Five students are in the class.",
+        "translation_es": "Hay cinco estudiantes en la clase."
+      },
+      {
+        "sentence": "Kaks ___ on toas.",
+        "answer": "raamatut",
+        "translation_en": "Two books are in the room.",
+        "translation_es": "Hay dos libros en la habitación."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "Mul on ___ venda.",
+        "answer": "kaks",
+        "translation_en": "I have two brothers.",
+        "translation_es": "Tengo dos hermanos."
+      },
+      {
+        "sentence": "Klassis on ___ õpilast.",
+        "answer": "viis",
+        "translation_en": "There are five students in the class.",
+        "translation_es": "Hay cinco estudiantes en la clase."
+      },
+      {
+        "sentence": "Nädalas on ___ päeva.",
+        "answer": "seitse",
+        "translation_en": "A week has seven days.",
+        "translation_es": "Una semana tiene siete días."
+      },
+      {
+        "sentence": "Mul on ___ sõrme.",
+        "answer": "kümme",
+        "translation_en": "I have ten fingers.",
+        "translation_es": "Tengo diez dedos."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense form of 'to speak' into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ eesti keelt.",
+        "answer": "räägin",
+        "translation_en": "I speak Estonian.",
+        "translation_es": "Hablo estonio."
+      },
+      {
+        "sentence": "Sa ___ inglise keelt.",
+        "answer": "räägid",
+        "translation_en": "You speak English.",
+        "translation_es": "Hablas inglés."
+      },
+      {
+        "sentence": "Ta ___ prantsuse keelt.",
+        "answer": "räägib",
+        "translation_en": "He speaks French.",
+        "translation_es": "Él habla francés."
+      },
+      {
+        "sentence": "Me ___ koos.",
+        "answer": "räägime",
+        "translation_en": "We speak together.",
+        "translation_es": "Hablamos juntos."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense form of 'to live' into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ Tallinnas.",
+        "answer": "elan",
+        "translation_en": "I live in Tallinn.",
+        "translation_es": "Vivo en Tallin."
+      },
+      {
+        "sentence": "Sa ___ Tartus.",
+        "answer": "elad",
+        "translation_en": "You live in Tartu.",
+        "translation_es": "Vives en Tartu."
+      },
+      {
+        "sentence": "Ta ___ Londonis.",
+        "answer": "elab",
+        "translation_en": "She lives in London.",
+        "translation_es": "Ella vive en Londres."
+      },
+      {
+        "sentence": "Me ___ majas.",
+        "answer": "elame",
+        "translation_en": "We live in a house.",
+        "translation_es": "Vivimos en una casa."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ räägi eesti keelt.",
+        "answer": "ei",
+        "translation_en": "I do not speak Estonian.",
+        "translation_es": "No hablo estonio."
+      },
+      {
+        "sentence": "Ma ei tule ___.",
+        "answer": "kunagi",
+        "translation_en": "I never come.",
+        "translation_es": "Nunca vengo."
+      },
+      {
+        "sentence": "Siin ei ole ___.",
+        "answer": "kedagi",
+        "translation_en": "There is nobody here.",
+        "translation_es": "No hay nadie aquí."
+      },
+      {
+        "sentence": "Mul ei ole ___.",
+        "answer": "midagi",
+        "translation_en": "I have nothing.",
+        "translation_es": "No tengo nada."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ on sinu nimi?",
+        "answer": "Mis",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ sa elad?",
+        "answer": "Kus",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ sa tuled?",
+        "answer": "Millal",
+        "translation_en": "When are you coming?",
+        "translation_es": "¿Cuándo vienes?"
+      },
+      {
+        "sentence": "___ see on?",
+        "answer": "Kes",
+        "translation_en": "Who is this?",
+        "translation_es": "¿Quién es este?"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct partitive object into each gap.",
+    "items": [
+      {
+        "sentence": "Ma armastan ___.",
+        "answer": "ema",
+        "translation_en": "I love my mother.",
+        "translation_es": "Amo a mi madre."
+      },
+      {
+        "sentence": "Ta ostab ___.",
+        "answer": "leiba",
+        "translation_en": "He buys bread.",
+        "translation_es": "Él compra pan."
+      },
+      {
+        "sentence": "Me joome ___.",
+        "answer": "kohvi",
+        "translation_en": "We drink coffee.",
+        "translation_es": "Bebemos café."
+      },
+      {
+        "sentence": "Ta loeb ___.",
+        "answer": "raamatut",
+        "translation_en": "She reads a book.",
+        "translation_es": "Ella lee un libro."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct genitive form into each gap.",
+    "items": [
+      {
+        "sentence": "See on ___ maja.",
+        "answer": "venna",
+        "translation_en": "This is my brother's house.",
+        "translation_es": "Esta es la casa de mi hermano."
+      },
+      {
+        "sentence": "See on ___ raamat.",
+        "answer": "õe",
+        "translation_en": "This is my sister's book.",
+        "translation_es": "Este es el libro de mi hermana."
+      },
+      {
+        "sentence": "See on ___ auto.",
+        "answer": "isa",
+        "translation_en": "This is my father's car.",
+        "translation_es": "Este es el coche de mi padre."
+      },
+      {
+        "sentence": "See on ___ lill.",
+        "answer": "ema",
+        "translation_en": "This is my mother's flower.",
+        "translation_es": "Esta es la flor de mi madre."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct location form into each gap.",
+    "items": [
+      {
+        "sentence": "Ma elan ___.",
+        "answer": "linnas",
+        "translation_en": "I live in the city.",
+        "translation_es": "Vivo en la ciudad."
+      },
+      {
+        "sentence": "Raamat on ___.",
+        "answer": "laual",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Me oleme ___.",
+        "answer": "koolis",
+        "translation_en": "We are at school.",
+        "translation_es": "Estamos en la escuela."
+      },
+      {
+        "sentence": "Ta töötab ___.",
+        "answer": "kontoris",
+        "translation_en": "He works in an office.",
+        "translation_es": "Él trabaja en una oficina."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "Vesi on ___.",
+        "answer": "külm",
+        "translation_en": "The water is cold.",
+        "translation_es": "El agua está fría."
+      },
+      {
+        "sentence": "Supp on ___.",
+        "answer": "kuum",
+        "translation_en": "The soup is hot.",
+        "translation_es": "La sopa está caliente."
+      },
+      {
+        "sentence": "Kook on ___.",
+        "answer": "magus",
+        "translation_en": "The cake is sweet.",
+        "translation_es": "El pastel es dulce."
+      },
+      {
+        "sentence": "Sidrun on ___.",
+        "answer": "hapu",
+        "translation_en": "The lemon is sour.",
+        "translation_es": "El limón es ácido."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "See on ___ raamat.",
+        "answer": "minu",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "See on ___ maja.",
+        "answer": "sinu",
+        "translation_en": "This is your house.",
+        "translation_es": "Esta es tu casa."
+      },
+      {
+        "sentence": "See on ___ auto.",
+        "answer": "tema",
+        "translation_en": "This is his car.",
+        "translation_es": "Este es su coche."
+      },
+      {
+        "sentence": "See on ___ lill.",
+        "answer": "meie",
+        "translation_en": "This is our flower.",
+        "translation_es": "Esta es nuestra flor."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct postposition into each gap.",
+    "items": [
+      {
+        "sentence": "Raamat on laua ___.",
+        "answer": "peal",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Kass on laua ___.",
+        "answer": "all",
+        "translation_en": "The cat is under the table.",
+        "translation_es": "El gato está bajo la mesa."
+      },
+      {
+        "sentence": "Maja on metsa ___.",
+        "answer": "taga",
+        "translation_en": "The house is behind the forest.",
+        "translation_es": "La casa está detrás del bosque."
+      },
+      {
+        "sentence": "Auto on maja ___.",
+        "answer": "ees",
+        "translation_en": "The car is in front of the house.",
+        "translation_es": "El coche está delante de la casa."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "Pärast esmaspäeva tuleb ___.",
+        "answer": "teisipäev",
+        "translation_en": "After Monday comes Tuesday.",
+        "translation_es": "Después del lunes viene el martes."
+      },
+      {
+        "sentence": "Pärast kolmapäeva tuleb ___.",
+        "answer": "neljapäev",
+        "translation_en": "After Wednesday comes Thursday.",
+        "translation_es": "Después del miércoles viene el jueves."
+      },
+      {
+        "sentence": "Pärast reedet tuleb ___.",
+        "answer": "laupäev",
+        "translation_en": "After Friday comes Saturday.",
+        "translation_es": "Después del viernes viene el sábado."
+      },
+      {
+        "sentence": "Pärast laupäeva tuleb ___.",
+        "answer": "pühapäev",
+        "translation_en": "After Saturday comes Sunday.",
+        "translation_es": "Después del sábado viene el domingo."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "Lumi on ___.",
+        "answer": "valge",
+        "translation_en": "Snow is white.",
+        "translation_es": "La nieve es blanca."
+      },
+      {
+        "sentence": "Muru on ___.",
+        "answer": "roheline",
+        "translation_en": "The grass is green.",
+        "translation_es": "La hierba es verde."
+      },
+      {
+        "sentence": "Taevas on ___.",
+        "answer": "sinine",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "Veri on ___.",
+        "answer": "punane",
+        "translation_en": "Blood is red.",
+        "translation_es": "La sangre es roja."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "Minu ___ nimi on Ona.",
+        "answer": "ema",
+        "translation_en": "My mother's name is Ona.",
+        "translation_es": "Mi madre se llama Ona."
+      },
+      {
+        "sentence": "Minu ___ nimi on Jonas.",
+        "answer": "isa",
+        "translation_en": "My father's name is Jonas.",
+        "translation_es": "Mi padre se llama Jonas."
+      },
+      {
+        "sentence": "Minu ___ on mu sõber.",
+        "answer": "vend",
+        "translation_en": "My brother is my friend.",
+        "translation_es": "Mi hermano es mi amigo."
+      },
+      {
+        "sentence": "Minu ___ on minust noorem.",
+        "answer": "õde",
+        "translation_en": "My sister is younger than me.",
+        "translation_es": "Mi hermana es menor que yo."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction form into each gap.",
+    "items": [
+      {
+        "sentence": "Ma lähen ___.",
+        "answer": "koju",
+        "translation_en": "I am going home.",
+        "translation_es": "Voy a casa."
+      },
+      {
+        "sentence": "Ta sõidab ___.",
+        "answer": "linna",
+        "translation_en": "He is travelling to the city.",
+        "translation_es": "Él viaja a la ciudad."
+      },
+      {
+        "sentence": "Me tuleme ___.",
+        "answer": "töölt",
+        "translation_en": "We are coming from work.",
+        "translation_es": "Venimos del trabajo."
+      },
+      {
+        "sentence": "Ta läheb ___.",
+        "answer": "kooli",
+        "translation_en": "She is going to school.",
+        "translation_es": "Ella va a la escuela."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct past form of 'to be' into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ eile kodus.",
+        "answer": "olin",
+        "translation_en": "I was at home yesterday.",
+        "translation_es": "Ayer estuve en casa."
+      },
+      {
+        "sentence": "Sa ___ koolis.",
+        "answer": "olid",
+        "translation_en": "You were at school.",
+        "translation_es": "Estuviste en la escuela."
+      },
+      {
+        "sentence": "Ta ___ mu sõber.",
+        "answer": "oli",
+        "translation_en": "He was my friend.",
+        "translation_es": "Él era mi amigo."
+      },
+      {
+        "sentence": "Me ___ koos.",
+        "answer": "olime",
+        "translation_en": "We were together.",
+        "translation_es": "Estuvimos juntos."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct past form of 'to work' into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ terve päeva.",
+        "answer": "töötasin",
+        "translation_en": "I worked all day.",
+        "translation_es": "Trabajé todo el día."
+      },
+      {
+        "sentence": "Sa ___ kontoris.",
+        "answer": "töötasid",
+        "translation_en": "You worked in an office.",
+        "translation_es": "Trabajaste en una oficina."
+      },
+      {
+        "sentence": "Ta ___ poes.",
+        "answer": "töötas",
+        "translation_en": "She worked in a shop.",
+        "translation_es": "Ella trabajó en una tienda."
+      },
+      {
+        "sentence": "Me ___ koos.",
+        "answer": "töötasime",
+        "translation_en": "We worked together.",
+        "translation_es": "Trabajamos juntos."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct form of 'to go' into each gap.",
+    "items": [
+      {
+        "sentence": "Homme ma ___ kooli.",
+        "answer": "lähen",
+        "translation_en": "Tomorrow I will go to school.",
+        "translation_es": "Mañana iré a la escuela."
+      },
+      {
+        "sentence": "Sa ___ parki.",
+        "answer": "lähed",
+        "translation_en": "You will go to the park.",
+        "translation_es": "Irás al parque."
+      },
+      {
+        "sentence": "Ta ___ tööle.",
+        "answer": "läheb",
+        "translation_en": "He will go to work.",
+        "translation_es": "Él irá al trabajo."
+      },
+      {
+        "sentence": "Me ___ kinno.",
+        "answer": "läheme",
+        "translation_en": "We will go to the cinema.",
+        "translation_es": "Iremos al cine."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct imperative into each gap.",
+    "items": [
+      {
+        "sentence": "___ mind!",
+        "answer": "Oota",
+        "translation_en": "Wait for me!",
+        "translation_es": "¡Espérame!"
+      },
+      {
+        "sentence": "___ uks!",
+        "answer": "Sulge",
+        "translation_en": "Close the door!",
+        "translation_es": "¡Cierra la puerta!"
+      },
+      {
+        "sentence": "___ raamatut!",
+        "answer": "Loe",
+        "translation_en": "Read the book!",
+        "translation_es": "¡Lee el libro!"
+      },
+      {
+        "sentence": "___ siia!",
+        "answer": "Tule",
+        "translation_en": "Come here!",
+        "translation_es": "¡Ven aquí!"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct illative form into each gap.",
+    "items": [
+      {
+        "sentence": "Ma lähen ___.",
+        "answer": "poodi",
+        "translation_en": "I am going to the shop.",
+        "translation_es": "Voy a la tienda."
+      },
+      {
+        "sentence": "Ta läheb ___.",
+        "answer": "kooli",
+        "translation_en": "He is going to school.",
+        "translation_es": "Él va a la escuela."
+      },
+      {
+        "sentence": "Me läheme ___.",
+        "answer": "parki",
+        "translation_en": "We are going to the park.",
+        "translation_es": "Vamos al parque."
+      },
+      {
+        "sentence": "Tuled sa ___?",
+        "answer": "koju",
+        "translation_en": "Are you coming home?",
+        "translation_es": "¿Vienes a casa?"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct elative form into each gap.",
+    "items": [
+      {
+        "sentence": "Ma tulen ___.",
+        "answer": "poest",
+        "translation_en": "I am coming from the shop.",
+        "translation_es": "Vengo de la tienda."
+      },
+      {
+        "sentence": "Ta tuleb ___.",
+        "answer": "koolist",
+        "translation_en": "He is coming from school.",
+        "translation_es": "Él viene de la escuela."
+      },
+      {
+        "sentence": "Me tuleme ___.",
+        "answer": "pargist",
+        "translation_en": "We are coming from the park.",
+        "translation_es": "Venimos del parque."
+      },
+      {
+        "sentence": "Ma tulen ___.",
+        "answer": "töölt",
+        "translation_en": "I am coming from work.",
+        "translation_es": "Vengo del trabajo."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "Ta on ___ kui mina.",
+        "answer": "pikem",
+        "translation_en": "He is taller than me.",
+        "translation_es": "Él es más alto que yo."
+      },
+      {
+        "sentence": "See maja on ___.",
+        "answer": "suurem",
+        "translation_en": "This house is bigger.",
+        "translation_es": "Esta casa es más grande."
+      },
+      {
+        "sentence": "Suvi on ___ kui kevad.",
+        "answer": "soojem",
+        "translation_en": "Summer is warmer than spring.",
+        "translation_es": "El verano es más cálido que la primavera."
+      },
+      {
+        "sentence": "See raamat on ___.",
+        "answer": "huvitavam",
+        "translation_en": "This book is more interesting.",
+        "translation_es": "Este libro es más interesante."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct superlative into each gap.",
+    "items": [
+      {
+        "sentence": "See on linna ___ maja.",
+        "answer": "suurim",
+        "translation_en": "This is the biggest house in the city.",
+        "translation_es": "Esta es la casa más grande de la ciudad."
+      },
+      {
+        "sentence": "Ta on klassi ___ õpilane.",
+        "answer": "parim",
+        "translation_en": "He is the best student in the class.",
+        "translation_es": "Él es el mejor estudiante de la clase."
+      },
+      {
+        "sentence": "See on ___ raamat.",
+        "answer": "kõige huvitavam",
+        "translation_en": "This is the most interesting book.",
+        "translation_es": "Este es el libro más interesante."
+      },
+      {
+        "sentence": "Ta on ___ vend.",
+        "answer": "vanim",
+        "translation_en": "He is the eldest brother.",
+        "translation_es": "Él es el hermano mayor."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct modal verb into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ eesti keelt rääkida.",
+        "answer": "oskan",
+        "translation_en": "I can speak Estonian.",
+        "translation_es": "Sé hablar estonio."
+      },
+      {
+        "sentence": "Sa ___ mind aidata.",
+        "answer": "pead",
+        "translation_en": "You must help me.",
+        "translation_es": "Debes ayudarme."
+      },
+      {
+        "sentence": "Ta ___ homme tulla.",
+        "answer": "tahab",
+        "translation_en": "He wants to come tomorrow.",
+        "translation_es": "Él quiere venir mañana."
+      },
+      {
+        "sentence": "Me ___ vara lahkuda.",
+        "answer": "saame",
+        "translation_en": "We can leave early.",
+        "translation_es": "Podemos salir temprano."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "Üksteist pluss üks on ___.",
+        "answer": "kaksteist",
+        "translation_en": "Eleven plus one is twelve.",
+        "translation_es": "Once más uno son doce."
+      },
+      {
+        "sentence": "Kakskümmend pluss viis on ___.",
+        "answer": "kakskümmend viis",
+        "translation_en": "Twenty plus five is twenty-five.",
+        "translation_es": "Veinte más cinco son veinticinco."
+      },
+      {
+        "sentence": "Kolmkümmend pluss kümme on ___.",
+        "answer": "nelikümmend",
+        "translation_en": "Thirty plus ten is forty.",
+        "translation_es": "Treinta más diez son cuarenta."
+      },
+      {
+        "sentence": "Viiskümmend pluss viiskümmend on ___.",
+        "answer": "sada",
+        "translation_en": "Fifty plus fifty is one hundred.",
+        "translation_es": "Cincuenta más cincuenta son cien."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal into each gap.",
+    "items": [
+      {
+        "sentence": "See on ___ peatükk.",
+        "answer": "esimene",
+        "translation_en": "This is the first chapter.",
+        "translation_es": "Este es el primer capítulo."
+      },
+      {
+        "sentence": "See on ___ tund.",
+        "answer": "teine",
+        "translation_en": "This is the second lesson.",
+        "translation_es": "Esta es la segunda lección."
+      },
+      {
+        "sentence": "See on ___ katse.",
+        "answer": "kolmas",
+        "translation_en": "This is the third attempt.",
+        "translation_es": "Este es el tercer intento."
+      },
+      {
+        "sentence": "See on ___ lehekülg.",
+        "answer": "viimane",
+        "translation_en": "This is the last page.",
+        "translation_es": "Esta es la última página."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct time word into each gap.",
+    "items": [
+      {
+        "sentence": "Kell on ___.",
+        "answer": "üks",
+        "translation_en": "It is one o'clock.",
+        "translation_es": "Es la una."
+      },
+      {
+        "sentence": "Kell on ___.",
+        "answer": "seitse",
+        "translation_en": "It is seven o'clock.",
+        "translation_es": "Son las siete."
+      },
+      {
+        "sentence": "Kell on pool ___.",
+        "answer": "kaheksa",
+        "translation_en": "It is half past seven.",
+        "translation_es": "Son las siete y media."
+      },
+      {
+        "sentence": "Kell on veerand ___ kaheksa.",
+        "answer": "üle",
+        "translation_en": "It is a quarter past seven.",
+        "translation_es": "Son las siete y cuarto."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct month into each gap.",
+    "items": [
+      {
+        "sentence": "___ on esimene kuu.",
+        "answer": "Jaanuar",
+        "translation_en": "January is the first month.",
+        "translation_es": "Enero es el primer mes."
+      },
+      {
+        "sentence": "___ on kolmas kuu.",
+        "answer": "Märts",
+        "translation_en": "March is the third month.",
+        "translation_es": "Marzo es el tercer mes."
+      },
+      {
+        "sentence": "___ on kuues kuu.",
+        "answer": "Juuni",
+        "translation_en": "June is the sixth month.",
+        "translation_es": "Junio es el sexto mes."
+      },
+      {
+        "sentence": "___ on kaheteistkümnes kuu.",
+        "answer": "Detsember",
+        "translation_en": "December is the twelfth month.",
+        "translation_es": "Diciembre es el duodécimo mes."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {
+        "sentence": "Täna on ___.",
+        "answer": "külm",
+        "translation_en": "Today it is cold.",
+        "translation_es": "Hoy hace frío."
+      },
+      {
+        "sentence": "Hommikul oli ___.",
+        "answer": "udu",
+        "translation_en": "In the morning there was fog.",
+        "translation_es": "Por la mañana había niebla."
+      },
+      {
+        "sentence": "Eile oli ___.",
+        "answer": "vihma",
+        "translation_en": "Yesterday there was rain.",
+        "translation_es": "Ayer hubo lluvia."
+      },
+      {
+        "sentence": "Suvel on ___.",
+        "answer": "kuum",
+        "translation_en": "In summer it is hot.",
+        "translation_es": "En verano hace calor."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "Kui palju see raamat ___?",
+        "answer": "maksab",
+        "translation_en": "How much does this book cost?",
+        "translation_es": "¿Cuánto cuesta este libro?"
+      },
+      {
+        "sentence": "Ma maksan ___.",
+        "answer": "kaardiga",
+        "translation_en": "I pay by card.",
+        "translation_es": "Pago con tarjeta."
+      },
+      {
+        "sentence": "Kas teil on ___?",
+        "answer": "allahindlust",
+        "translation_en": "Do you have a discount?",
+        "translation_es": "¿Tiene un descuento?"
+      },
+      {
+        "sentence": "Palun ___!",
+        "answer": "tšekki",
+        "translation_en": "A receipt, please!",
+        "translation_es": "¡El recibo, por favor!"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct travel word into each gap.",
+    "items": [
+      {
+        "sentence": "Rong väljub ___.",
+        "answer": "jaamast",
+        "translation_en": "The train leaves from the station.",
+        "translation_es": "El tren sale de la estación."
+      },
+      {
+        "sentence": "Me reisime ___.",
+        "answer": "rongiga",
+        "translation_en": "We travel by train.",
+        "translation_es": "Viajamos en tren."
+      },
+      {
+        "sentence": "Mul on ___.",
+        "answer": "pilet",
+        "translation_en": "I have a ticket.",
+        "translation_es": "Tengo un billete."
+      },
+      {
+        "sentence": "Kus on ___?",
+        "answer": "jaam",
+        "translation_en": "Where is the station?",
+        "translation_es": "¿Dónde está la estación?"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "Mul on ___ valus.",
+        "answer": "pea",
+        "translation_en": "I have a headache.",
+        "translation_es": "Me duele la cabeza."
+      },
+      {
+        "sentence": "Mul on ___.",
+        "answer": "palavik",
+        "translation_en": "I have a fever.",
+        "translation_es": "Tengo fiebre."
+      },
+      {
+        "sentence": "Ma lähen ___ juurde.",
+        "answer": "arsti",
+        "translation_en": "I am going to the doctor.",
+        "translation_es": "Voy al médico."
+      },
+      {
+        "sentence": "Ma võtan ___.",
+        "answer": "ravimit",
+        "translation_en": "I take medicine.",
+        "translation_es": "Tomo medicina."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "Mul on ___.",
+        "answer": "koosolek",
+        "translation_en": "I have a meeting.",
+        "translation_es": "Tengo una reunión."
+      },
+      {
+        "sentence": "Ta sai ___.",
+        "answer": "edutamise",
+        "translation_en": "He got a promotion.",
+        "translation_es": "Él recibió un ascenso."
+      },
+      {
+        "sentence": "Ma otsin ___.",
+        "answer": "tööd",
+        "translation_en": "I am looking for work.",
+        "translation_es": "Busco trabajo."
+      },
+      {
+        "sentence": "Tal on palju ___.",
+        "answer": "kogemusi",
+        "translation_en": "She has a lot of experience.",
+        "translation_es": "Ella tiene mucha experiencia."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "Mine ___.",
+        "answer": "vasakule",
+        "translation_en": "Go to the left.",
+        "translation_es": "Ve a la izquierda."
+      },
+      {
+        "sentence": "Mine ___.",
+        "answer": "paremale",
+        "translation_en": "Go to the right.",
+        "translation_es": "Ve a la derecha."
+      },
+      {
+        "sentence": "Sõida ___.",
+        "answer": "otse",
+        "translation_en": "Drive straight ahead.",
+        "translation_es": "Conduce recto."
+      },
+      {
+        "sentence": "Võta buss ___ linna.",
+        "answer": "läbi",
+        "translation_en": "Take the bus through the city.",
+        "translation_es": "Toma el autobús por la ciudad."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct food word into each gap.",
+    "items": [
+      {
+        "sentence": "Ma söön hommikuks ___.",
+        "answer": "leiba",
+        "translation_en": "I eat bread for breakfast.",
+        "translation_es": "Como pan en el desayuno."
+      },
+      {
+        "sentence": "Ma joon ___.",
+        "answer": "kohvi",
+        "translation_en": "I drink coffee.",
+        "translation_es": "Bebo café."
+      },
+      {
+        "sentence": "Mulle meeldib ___.",
+        "answer": "kala",
+        "translation_en": "I like fish.",
+        "translation_es": "Me gusta el pescado."
+      },
+      {
+        "sentence": "Ma ostan ___.",
+        "answer": "puuvilju",
+        "translation_en": "I buy fruit.",
+        "translation_es": "Compro fruta."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Kui mul oleks aega, ma ___.",
+        "answer": "reisiksin",
+        "translation_en": "If I had time, I would travel.",
+        "translation_es": "Si tuviera tiempo, viajaría."
+      },
+      {
+        "sentence": "Kui oleks soe, me ___.",
+        "answer": "läheksime",
+        "translation_en": "If it were warm, we would go.",
+        "translation_es": "Si hiciera calor, iríamos."
+      },
+      {
+        "sentence": "Kui saaksid, mida sa ___?",
+        "answer": "teeksid",
+        "translation_en": "If you could, what would you do?",
+        "translation_es": "Si pudieras, ¿qué harías?"
+      },
+      {
+        "sentence": "Ma ___, kui mul oleks raha.",
+        "answer": "ostaksin",
+        "translation_en": "I would buy it if I had money.",
+        "translation_es": "Lo compraría si tuviera dinero."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct impersonal past form into each gap.",
+    "items": [
+      {
+        "sentence": "Maja ___ 1990. aastal.",
+        "answer": "ehitati",
+        "translation_en": "The house was built in 1990.",
+        "translation_es": "La casa fue construida en 1990."
+      },
+      {
+        "sentence": "Raamat ___ eile.",
+        "answer": "loeti",
+        "translation_en": "The book was read yesterday.",
+        "translation_es": "El libro fue leído ayer."
+      },
+      {
+        "sentence": "Kiri ___ täna.",
+        "answer": "saadeti",
+        "translation_en": "The letter was sent today.",
+        "translation_es": "La carta fue enviada hoy."
+      },
+      {
+        "sentence": "Uksed ___ hommikul.",
+        "answer": "suleti",
+        "translation_en": "The doors were closed in the morning.",
+        "translation_es": "Las puertas fueron cerradas por la mañana."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "___ mees istub pingil.",
+        "answer": "Naeratav",
+        "translation_en": "A smiling man sits on the bench.",
+        "translation_es": "Un hombre sonriente se sienta en el banco."
+      },
+      {
+        "sentence": "See on ___ raamat.",
+        "answer": "kirjutatud",
+        "translation_en": "This is a written book.",
+        "translation_es": "Este es un libro escrito."
+      },
+      {
+        "sentence": "___ laps magas.",
+        "answer": "Väsinud",
+        "translation_en": "The tired child was sleeping.",
+        "translation_es": "El niño cansado dormía."
+      },
+      {
+        "sentence": "___ õpilased ootavad.",
+        "answer": "Õppivad",
+        "translation_en": "Studying students are waiting.",
+        "translation_es": "Los estudiantes que estudian esperan."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct relative word into each gap.",
+    "items": [
+      {
+        "sentence": "See on mees, ___ töötab minuga.",
+        "answer": "kes",
+        "translation_en": "This is the man who works with me.",
+        "translation_es": "Este es el hombre que trabaja conmigo."
+      },
+      {
+        "sentence": "See on raamat, ___ mulle meeldib.",
+        "answer": "mis",
+        "translation_en": "This is the book that I like.",
+        "translation_es": "Este es el libro que me gusta."
+      },
+      {
+        "sentence": "See on linn, ___ ma elan.",
+        "answer": "kus",
+        "translation_en": "This is the city where I live.",
+        "translation_es": "Esta es la ciudad donde vivo."
+      },
+      {
+        "sentence": "See on maja, ___ katus on punane.",
+        "answer": "mille",
+        "translation_en": "This is the house whose roof is red.",
+        "translation_es": "Esta es la casa cuyo tejado es rojo."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "Ta ütles, ___ ta tuleb homme.",
+        "answer": "et",
+        "translation_en": "He said that he is coming tomorrow.",
+        "translation_es": "Dijo que vendrá mañana."
+      },
+      {
+        "sentence": "Ta küsis, ___ ma tahan.",
+        "answer": "mida",
+        "translation_en": "He asked what I want.",
+        "translation_es": "Él preguntó qué quiero."
+      },
+      {
+        "sentence": "Ta küsis, ___ ma elan.",
+        "answer": "kus",
+        "translation_en": "He asked where I live.",
+        "translation_es": "Él preguntó dónde vivo."
+      },
+      {
+        "sentence": "Ta küsis, ___ ma tulen.",
+        "answer": "millal",
+        "translation_en": "He asked when I am coming.",
+        "translation_es": "Él preguntó cuándo vengo."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct verbal noun into each gap.",
+    "items": [
+      {
+        "sentence": "Mulle meeldib ___.",
+        "answer": "lugemine",
+        "translation_en": "I like reading.",
+        "translation_es": "Me gusta la lectura."
+      },
+      {
+        "sentence": "___ on tähtis.",
+        "answer": "Õppimine",
+        "translation_en": "Learning is important.",
+        "translation_es": "El aprendizaje es importante."
+      },
+      {
+        "sentence": "Tema ___ oli kiire.",
+        "answer": "otsus",
+        "translation_en": "His decision was quick.",
+        "translation_es": "Su decisión fue rápida."
+      },
+      {
+        "sentence": "___ on tervisele hea.",
+        "answer": "Ujumine",
+        "translation_en": "Swimming is good for your health.",
+        "translation_es": "La natación es buena para la salud."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct case form into each gap.",
+    "items": [
+      {
+        "sentence": "Ta vastas ___.",
+        "answer": "küsimusele",
+        "translation_en": "He answered the question.",
+        "translation_es": "Él respondió a la pregunta."
+      },
+      {
+        "sentence": "Ma armastan ___.",
+        "answer": "kohvi",
+        "translation_en": "I love coffee.",
+        "translation_es": "Me encanta el café."
+      },
+      {
+        "sentence": "Ta usaldab ___.",
+        "answer": "sind",
+        "translation_en": "He trusts you.",
+        "translation_es": "Él confía en ti."
+      },
+      {
+        "sentence": "Me osaleme ___.",
+        "answer": "koosolekul",
+        "translation_en": "We take part in the meeting.",
+        "translation_es": "Participamos en la reunión."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct particle into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___ tahan kohvi.",
+        "answer": "ka",
+        "translation_en": "I also want coffee.",
+        "translation_es": "Yo también quiero café."
+      },
+      {
+        "sentence": "___ tema teab tõde.",
+        "answer": "Ainult",
+        "translation_en": "Only he knows the truth.",
+        "translation_es": "Solo él sabe la verdad."
+      },
+      {
+        "sentence": "Ta ___ ei räägi vene keelt.",
+        "answer": "isegi",
+        "translation_en": "He does not even speak Russian.",
+        "translation_es": "Él ni siquiera habla ruso."
+      },
+      {
+        "sentence": "Me oleme ___ nõus.",
+        "answer": "täiesti",
+        "translation_en": "We completely agree.",
+        "translation_es": "Estamos totalmente de acuerdo."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Ta tahtis tulla, ___ tal polnud aega.",
+        "answer": "aga",
+        "translation_en": "He wanted to come, but he had no time.",
+        "translation_es": "Quería venir, pero no tenía tiempo."
+      },
+      {
+        "sentence": "___ sadas, me läksime välja.",
+        "answer": "Kuigi",
+        "translation_en": "Although it was raining, we went out.",
+        "translation_es": "Aunque llovía, salimos."
+      },
+      {
+        "sentence": "Jäin koju, ___ olin väsinud.",
+        "answer": "sest",
+        "translation_en": "I stayed at home because I was tired.",
+        "translation_es": "Me quedé en casa porque estaba cansado."
+      },
+      {
+        "sentence": "Ta õpib ___ töötab.",
+        "answer": "ja",
+        "translation_en": "She studies and works.",
+        "translation_es": "Ella estudia y trabaja."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct polite form into each gap.",
+    "items": [
+      {
+        "sentence": "Kas te saaksite mind ___?",
+        "answer": "aidata",
+        "translation_en": "Could you help me?",
+        "translation_es": "¿Podría ayudarme?"
+      },
+      {
+        "sentence": "___, kas ma võin sisse tulla?",
+        "answer": "Vabandust",
+        "translation_en": "Excuse me, may I come in?",
+        "translation_es": "Disculpe, ¿puedo pasar?"
+      },
+      {
+        "sentence": "Suur tänu ___ eest.",
+        "answer": "abi",
+        "translation_en": "Thank you very much for your help.",
+        "translation_es": "Muchas gracias por su ayuda."
+      },
+      {
+        "sentence": "Kas te oleksite nii kena ja ___?",
+        "answer": "ootaksite",
+        "translation_en": "Would you be so kind as to wait?",
+        "translation_es": "¿Sería tan amable de esperar?"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "Õhu ___ kasvab.",
+        "answer": "saastumine",
+        "translation_en": "Air pollution is increasing.",
+        "translation_es": "La contaminación del aire aumenta."
+      },
+      {
+        "sentence": "Me peame vähendama ___.",
+        "answer": "heidet",
+        "translation_en": "We must reduce emissions.",
+        "translation_es": "Hay que reducir las emisiones."
+      },
+      {
+        "sentence": "___ muutub.",
+        "answer": "Kliima",
+        "translation_en": "The climate is changing.",
+        "translation_es": "El clima está cambiando."
+      },
+      {
+        "sentence": "Me peame kaitsma ___.",
+        "answer": "loodust",
+        "translation_en": "We must protect nature.",
+        "translation_es": "Debemos proteger la naturaleza."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct education word into each gap.",
+    "items": [
+      {
+        "sentence": "Ta õpib ___.",
+        "answer": "ülikoolis",
+        "translation_en": "He studies at university.",
+        "translation_es": "Él estudia en la universidad."
+      },
+      {
+        "sentence": "Ma teen ___.",
+        "answer": "eksamit",
+        "translation_en": "I am taking an exam.",
+        "translation_es": "Estoy haciendo un examen."
+      },
+      {
+        "sentence": "Tal on palju ___.",
+        "answer": "teadmisi",
+        "translation_en": "She has a lot of knowledge.",
+        "translation_es": "Ella tiene muchos conocimientos."
+      },
+      {
+        "sentence": "Elukestev õpe on ___.",
+        "answer": "oluline",
+        "translation_en": "Lifelong learning is important.",
+        "translation_es": "El aprendizaje permanente es importante."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct technology word into each gap.",
+    "items": [
+      {
+        "sentence": "Minu telefonis on uus ___.",
+        "answer": "rakendus",
+        "translation_en": "My phone has a new app.",
+        "translation_es": "Mi teléfono tiene una nueva aplicación."
+      },
+      {
+        "sentence": "Andmebaas on ___.",
+        "answer": "turvaline",
+        "translation_en": "The database is secure.",
+        "translation_es": "La base de datos es segura."
+      },
+      {
+        "sentence": "On vaja tugevat ___.",
+        "answer": "parooli",
+        "translation_en": "A strong password is needed.",
+        "translation_es": "Se necesita una contraseña segura."
+      },
+      {
+        "sentence": "___ kaitseb meie andmeid.",
+        "answer": "Krüptimine",
+        "translation_en": "Encryption protects our data.",
+        "translation_es": "El cifrado protege nuestros datos."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct opinion word into each gap.",
+    "items": [
+      {
+        "sentence": "Minu ___ on, et see on hea.",
+        "answer": "arvates",
+        "translation_en": "In my opinion, this is good.",
+        "translation_es": "En mi opinión, esto es bueno."
+      },
+      {
+        "sentence": "Ma olen ___ .",
+        "answer": "nõus",
+        "translation_en": "I agree.",
+        "translation_es": "Estoy de acuerdo."
+      },
+      {
+        "sentence": "See on minu isiklik ___.",
+        "answer": "arvamus",
+        "translation_en": "It is my personal opinion.",
+        "translation_es": "Es mi opinión personal."
+      },
+      {
+        "sentence": "See on ___ raske.",
+        "answer": "üsna",
+        "translation_en": "This is quite difficult.",
+        "translation_es": "Esto es bastante difícil."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct time word into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ärkan kell ___.",
+        "answer": "seitse",
+        "translation_en": "I wake up at seven o'clock.",
+        "translation_es": "Me despierto a las siete."
+      },
+      {
+        "sentence": "Me kohtume pärast ___.",
+        "answer": "lõunat",
+        "translation_en": "We meet after lunch.",
+        "translation_es": "Nos encontramos después del almuerzo."
+      },
+      {
+        "sentence": "Töö algab ___ üheksast.",
+        "answer": "alates",
+        "translation_en": "Work starts from nine.",
+        "translation_es": "El trabajo empieza a partir de las nueve."
+      },
+      {
+        "sentence": "Ma tulen tagasi ___ viieni.",
+        "answer": "kuni",
+        "translation_en": "I will be back until five.",
+        "translation_es": "Vuelvo hasta las cinco."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "See on ___ kui see.",
+        "answer": "parem",
+        "translation_en": "This one is better than that one.",
+        "translation_es": "Este es mejor que ese."
+      },
+      {
+        "sentence": "Ta on ___ kui mina.",
+        "answer": "targem",
+        "translation_en": "He is smarter than me.",
+        "translation_es": "Él es más listo que yo."
+      },
+      {
+        "sentence": "See tee on ___.",
+        "answer": "lühem",
+        "translation_en": "This road is shorter.",
+        "translation_es": "Este camino es más corto."
+      },
+      {
+        "sentence": "See on ___ variant.",
+        "answer": "odavam",
+        "translation_en": "This is the cheaper option.",
+        "translation_es": "Esta es la opción más barata."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct subordinator into each gap.",
+    "items": [
+      {
+        "sentence": "___ ta oleks teadnud, oleks ta tulnud.",
+        "answer": "Kui",
+        "translation_en": "If he had known, he would have come.",
+        "translation_es": "Si lo hubiera sabido, habría venido."
+      },
+      {
+        "sentence": "Ta lahkus, ___ ta oli töö lõpetanud.",
+        "answer": "kui",
+        "translation_en": "He left when he had finished the work.",
+        "translation_es": "Se fue cuando hubo terminado el trabajo."
+      },
+      {
+        "sentence": "Ta räägib nii, ___ kõik mõistaksid.",
+        "answer": "et",
+        "translation_en": "She speaks so that everyone would understand.",
+        "translation_es": "Ella habla para que todos entiendan."
+      },
+      {
+        "sentence": "___ vihm lakkas, läksime välja.",
+        "answer": "Niipea kui",
+        "translation_en": "As soon as the rain stopped, we went out.",
+        "translation_es": "En cuanto paró la lluvia, salimos."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct nominalisation into each gap.",
+    "items": [
+      {
+        "sentence": "Tema ___ oli ootamatu.",
+        "answer": "saabumine",
+        "translation_en": "His arrival was unexpected.",
+        "translation_es": "Su llegada fue inesperada."
+      },
+      {
+        "sentence": "___ nõuab aega.",
+        "answer": "Uurimine",
+        "translation_en": "Research requires time.",
+        "translation_es": "La investigación requiere tiempo."
+      },
+      {
+        "sentence": "Meie koostöö on ___.",
+        "answer": "oluline",
+        "translation_en": "Our cooperation is important.",
+        "translation_es": "Nuestra cooperación es importante."
+      },
+      {
+        "sentence": "___ kasvab igal aastal.",
+        "answer": "Tootmine",
+        "translation_en": "Production grows every year.",
+        "translation_es": "La producción crece cada año."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct academic word into each gap.",
+    "items": [
+      {
+        "sentence": "Uurimuse ___ oli usaldusväärne.",
+        "answer": "meetod",
+        "translation_en": "The research method was reliable.",
+        "translation_es": "El método de investigación era fiable."
+      },
+      {
+        "sentence": "Tulemused on ___.",
+        "answer": "märkimisväärsed",
+        "translation_en": "The results are significant.",
+        "translation_es": "Los resultados son significativos."
+      },
+      {
+        "sentence": "Andmed olid ___.",
+        "answer": "kvantitatiivsed",
+        "translation_en": "The data were quantitative.",
+        "translation_es": "Los datos eran cuantitativos."
+      },
+      {
+        "sentence": "Järeldused on ___.",
+        "answer": "empiirilised",
+        "translation_en": "The conclusions are empirical.",
+        "translation_es": "Las conclusiones son empíricas."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "___ kasvab.",
+        "answer": "Inflatsioon",
+        "translation_en": "Inflation is rising.",
+        "translation_es": "La inflación está subiendo."
+      },
+      {
+        "sentence": "Ettevõte kuulutas välja ___.",
+        "answer": "pankroti",
+        "translation_en": "The company declared bankruptcy.",
+        "translation_es": "La empresa declaró la quiebra."
+      },
+      {
+        "sentence": "Valitsus andis ___.",
+        "answer": "toetust",
+        "translation_en": "The government granted a subsidy.",
+        "translation_es": "El gobierno concedió una subvención."
+      },
+      {
+        "sentence": "___ kasvavad.",
+        "answer": "Tulud",
+        "translation_en": "Revenue is increasing.",
+        "translation_es": "Los ingresos están aumentando."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "Kohus tegi ___.",
+        "answer": "otsuse",
+        "translation_en": "The court delivered a verdict.",
+        "translation_es": "El tribunal dictó un veredicto."
+      },
+      {
+        "sentence": "___ esitas hagi.",
+        "answer": "Hageja",
+        "translation_en": "The plaintiff filed a claim.",
+        "translation_es": "El demandante presentó una demanda."
+      },
+      {
+        "sentence": "Põhiseadus kaitseb ___.",
+        "answer": "õigusi",
+        "translation_en": "The constitution protects rights.",
+        "translation_es": "La constitución protege los derechos."
+      },
+      {
+        "sentence": "___ peavad seadust järgima.",
+        "answer": "Kodanikud",
+        "translation_en": "Citizens must obey the law.",
+        "translation_es": "Los ciudadanos deben obedecer la ley."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct ethics word into each gap.",
+    "items": [
+      {
+        "sentence": "See tekitab ___ küsimusi.",
+        "answer": "eetilisi",
+        "translation_en": "This raises ethical questions.",
+        "translation_es": "Esto plantea cuestiones éticas."
+      },
+      {
+        "sentence": "___ on teaduses oluline.",
+        "answer": "Ausus",
+        "translation_en": "Honesty is important in science.",
+        "translation_es": "La honestidad es importante en la ciencia."
+      },
+      {
+        "sentence": "Tal on tugev ___.",
+        "answer": "iseloom",
+        "translation_en": "He has a strong character.",
+        "translation_es": "Él tiene un carácter firme."
+      },
+      {
+        "sentence": "Moraal erineb ___.",
+        "answer": "kultuuriti",
+        "translation_en": "Morality differs between cultures.",
+        "translation_es": "La moral varía entre culturas."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct philosophy term into each gap.",
+    "items": [
+      {
+        "sentence": "___ on raske seletada.",
+        "answer": "Teadvus",
+        "translation_en": "Consciousness is hard to explain.",
+        "translation_es": "La conciencia es difícil de explicar."
+      },
+      {
+        "sentence": "See on filosoofiline ___.",
+        "answer": "dilemma",
+        "translation_en": "This is a philosophical dilemma.",
+        "translation_es": "Este es un dilema filosófico."
+      },
+      {
+        "sentence": "Tema ___ muutub.",
+        "answer": "identiteet",
+        "translation_en": "His identity is changing.",
+        "translation_es": "Su identidad está cambiando."
+      },
+      {
+        "sentence": "Elu ___ on tähendusrikas.",
+        "answer": "olemasolu",
+        "translation_en": "The existence of life is meaningful.",
+        "translation_es": "La existencia de la vida tiene sentido."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct medical term into each gap.",
+    "items": [
+      {
+        "sentence": "Arst tegi ___.",
+        "answer": "diagnoosi",
+        "translation_en": "The doctor made a diagnosis.",
+        "translation_es": "El médico hizo un diagnóstico."
+      },
+      {
+        "sentence": "Patsiendile määrati ___.",
+        "answer": "ravi",
+        "translation_en": "The patient was prescribed therapy.",
+        "translation_es": "Al paciente se le recetó terapia."
+      },
+      {
+        "sentence": "___ aitab gripi vastu.",
+        "answer": "Vaktsiin",
+        "translation_en": "The vaccine helps against the flu.",
+        "translation_es": "La vacuna ayuda contra la gripe."
+      },
+      {
+        "sentence": "See on ___ haigus.",
+        "answer": "krooniline",
+        "translation_en": "This is a chronic illness.",
+        "translation_es": "Esta es una enfermedad crónica."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct science term into each gap.",
+    "items": [
+      {
+        "sentence": "Teadlased tegid ___.",
+        "answer": "katse",
+        "translation_en": "The scientists carried out an experiment.",
+        "translation_es": "Los científicos realizaron un experimento."
+      },
+      {
+        "sentence": "___ kinnitavad teooriat.",
+        "answer": "Tõendid",
+        "translation_en": "The evidence confirms the theory.",
+        "translation_es": "Las pruebas confirman la teoría."
+      },
+      {
+        "sentence": "Ta uuris ___.",
+        "answer": "molekuli",
+        "translation_en": "He studied a molecule.",
+        "translation_es": "Él estudió una molécula."
+      },
+      {
+        "sentence": "___ mõjutab kõiki kehi.",
+        "answer": "Gravitatsioon",
+        "translation_en": "Gravity affects all bodies.",
+        "translation_es": "La gravedad afecta a todos los cuerpos."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct discourse marker into each gap.",
+    "items": [
+      {
+        "sentence": "___ tuleb märkida, et see on oluline.",
+        "answer": "Pealegi",
+        "translation_en": "Moreover, it must be mentioned that this is important.",
+        "translation_es": "Además, hay que mencionar que esto es importante."
+      },
+      {
+        "sentence": "___ olid tulemused positiivsed.",
+        "answer": "Siiski",
+        "translation_en": "However, the results were positive.",
+        "translation_es": "Sin embargo, los resultados fueron positivos."
+      },
+      {
+        "sentence": "___ võib teha järelduse.",
+        "answer": "Seetõttu",
+        "translation_en": "Therefore, a conclusion can be drawn.",
+        "translation_es": "Por lo tanto, se puede sacar una conclusión."
+      },
+      {
+        "sentence": "___ väidab autor vastupidist.",
+        "answer": "Esiteks",
+        "translation_en": "First of all, the author claims the opposite.",
+        "translation_es": "En primer lugar, el autor afirma lo contrario."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct nuanced verb into each gap.",
+    "items": [
+      {
+        "sentence": "Ta ___ aidata.",
+        "answer": "üritas",
+        "translation_en": "He tried to help.",
+        "translation_es": "Él intentó ayudar."
+      },
+      {
+        "sentence": "Ta ___ nõustuda.",
+        "answer": "keeldus",
+        "translation_en": "She refused to agree.",
+        "translation_es": "Ella se negó a estar de acuerdo."
+      },
+      {
+        "sentence": "Me ___ oodata.",
+        "answer": "otsustasime",
+        "translation_en": "We decided to wait.",
+        "translation_es": "Decidimos esperar."
+      },
+      {
+        "sentence": "Ta ___ eksinud olevat.",
+        "answer": "tunnistas",
+        "translation_en": "He admitted having been wrong.",
+        "translation_es": "Él admitió haberse equivocado."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct collocation into each gap.",
+    "items": [
+      {
+        "sentence": "Tuleb teha ___.",
+        "answer": "otsus",
+        "translation_en": "A decision must be made.",
+        "translation_es": "Hay que tomar una decisión."
+      },
+      {
+        "sentence": "On oluline ___ pöörata.",
+        "answer": "tähelepanu",
+        "translation_en": "It is important to pay attention.",
+        "translation_es": "Es importante prestar atención."
+      },
+      {
+        "sentence": "Tehnoloogia mängib suurt ___.",
+        "answer": "rolli",
+        "translation_en": "Technology plays a big role.",
+        "translation_es": "La tecnología desempeña un gran papel."
+      },
+      {
+        "sentence": "Võib teha ___.",
+        "answer": "järelduse",
+        "translation_en": "A conclusion can be drawn.",
+        "translation_es": "Se puede sacar una conclusión."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct formal connector into each gap.",
+    "items": [
+      {
+        "sentence": "___ sellele tuleb arvestada riskiga.",
+        "answer": "Lisaks",
+        "translation_en": "In addition to this, the risk must be considered.",
+        "translation_es": "Además de esto, hay que considerar el riesgo."
+      },
+      {
+        "sentence": "Samal ajal ___ olukord paraneb.",
+        "answer": "kui",
+        "translation_en": "At the same time as the situation improves.",
+        "translation_es": "Al mismo tiempo que la situación mejora."
+      },
+      {
+        "sentence": "___ sellest, et sadas, läksime välja.",
+        "answer": "Hoolimata",
+        "translation_en": "Despite the rain, we went out.",
+        "translation_es": "A pesar de la lluvia, salimos."
+      },
+      {
+        "sentence": "___ juhul me võidame.",
+        "answer": "Igal",
+        "translation_en": "In any case, we will win.",
+        "translation_es": "En cualquier caso, ganaremos."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct argumentative phrase into each gap.",
+    "items": [
+      {
+        "sentence": "Ühest küljest on see kasulik; ___ on see kallis.",
+        "answer": "teisest küljest",
+        "translation_en": "On the one hand it is useful; on the other hand it is expensive.",
+        "translation_es": "Por un lado es útil; por otro lado es caro."
+      },
+      {
+        "sentence": "___ on vaja rohkem uurimist.",
+        "answer": "Kokkuvõttes",
+        "translation_en": "In conclusion, more research is needed.",
+        "translation_es": "En conclusión, se necesita más investigación."
+      },
+      {
+        "sentence": "___ on see argument nõrk.",
+        "answer": "Minu arvates",
+        "translation_en": "In my opinion, this argument is weak.",
+        "translation_es": "En mi opinión, este argumento es débil."
+      },
+      {
+        "sentence": "___ ei saa andmeid eirata.",
+        "answer": "Sellest hoolimata",
+        "translation_en": "Nevertheless, the data cannot be ignored.",
+        "translation_es": "No obstante, los datos no pueden ignorarse."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct sustainability term into each gap.",
+    "items": [
+      {
+        "sentence": "Tuleb vähendada süsiniku___.",
+        "answer": "heidet",
+        "translation_en": "Carbon emissions must be reduced.",
+        "translation_es": "Hay que reducir las emisiones de carbono."
+      },
+      {
+        "sentence": "___ on oluline.",
+        "answer": "Elurikkus",
+        "translation_en": "Biodiversity is important.",
+        "translation_es": "La biodiversidad es importante."
+      },
+      {
+        "sentence": "Metsade ___ kasvab.",
+        "answer": "hävitamine",
+        "translation_en": "Deforestation is increasing.",
+        "translation_es": "La deforestación está aumentando."
+      },
+      {
+        "sentence": "Me peame kaitsma ___.",
+        "answer": "ökosüsteemi",
+        "translation_en": "We must protect the ecosystem.",
+        "translation_es": "Debemos proteger el ecosistema."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct rhetoric term into each gap.",
+    "items": [
+      {
+        "sentence": "Ta kasutab ___.",
+        "answer": "retoorikat",
+        "translation_en": "He uses rhetoric.",
+        "translation_es": "Él usa la retórica."
+      },
+      {
+        "sentence": "See on ainult ___.",
+        "answer": "diskursus",
+        "translation_en": "This is only discourse.",
+        "translation_es": "Esto es solo discurso."
+      },
+      {
+        "sentence": "Keele ___ võib eksitada.",
+        "answer": "mitmetähenduslikkus",
+        "translation_en": "Ambiguity of language can mislead.",
+        "translation_es": "La ambigüedad del lenguaje puede engañar."
+      },
+      {
+        "sentence": "Ta otsib ___.",
+        "answer": "konsensust",
+        "translation_en": "He is looking for consensus.",
+        "translation_es": "Él busca el consenso."
+      }
+    ]
+  }
+]
