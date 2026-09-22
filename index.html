@@ -188,6 +188,7 @@
     transition: transform 0.1s, box-shadow 0.1s;
   }
   button.pill:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.2); }
+  button.pill.on { background: var(--accent); color: #fff; }
 
   .block { background: var(--card); border-radius: 16px; padding: 18px 20px; margin-bottom: 14px; box-shadow: var(--shadow); }
   .block h3 { margin: 0 0 8px; font-size: 18px; }
@@ -397,6 +398,7 @@
       <div class="game-bar">
         <div class="game-score" id="dinoScore">Score 0 · Best 0</div>
         <div class="game-actions">
+          <button class="pill" id="dinoAuto" aria-pressed="false">Autoplay: off</button>
           <button class="pill" id="dinoJump">Jump</button>
           <button class="pill" id="dinoDuck">Duck</button>
         </div>
@@ -507,7 +509,7 @@
 
   function speak(text, code, btn) {
     if (!speechSupported() || !text) return;
-    const wasActive = currentSpeechBtn === btn;
+    const wasActive = !!btn && currentSpeechBtn === btn;
     stopSpeech();
     if (wasActive) return;
     const cfg = LANG_BY_CODE[code];
@@ -1031,9 +1033,13 @@
     speed: DINO_SPEED, distance: 0, score: 0, hi: 0,
     W: 600, H: DINO_H, groundY: DINO_H - 26,
     dino: { x: 34, y: 0, vy: 0, w: 34, h: 38, duck: false, onGround: true, phase: 0 },
-    obstacles: [], clouds: [], spawnTimer: 0.9, wordTimer: 0, pool: [],
+    obstacles: [], clouds: [], spawnTimer: 0.9, wordTimer: 0, pool: [], word: null,
   };
-  try { dinoGame.hi = parseInt(localStorage.getItem("pv_dino_hi") || "0", 10) || 0; } catch (err) {}
+  let dinoAutoplay = false;
+  try {
+    dinoGame.hi = parseInt(localStorage.getItem("pv_dino_hi") || "0", 10) || 0;
+    dinoAutoplay = localStorage.getItem("pv_dino_auto") === "1";
+  } catch (err) {}
 
   function dinoResize() {
     const w = dinoCanvas.clientWidth || 600;
@@ -1055,6 +1061,7 @@
     if (!dinoGame.pool.length) dinoGame.pool = shuffle(DATA.words.filter(w => level === "all" || w.level === level));
     const w = dinoGame.pool.pop();
     if (!w) return;
+    dinoGame.word = w;
     const pron = w.ipa ? `/${w.ipa}/` : (w.pinyin || w.romaji || w.translit || "");
     const target = dinoTarget();
     document.getElementById("dinoTrLabel").textContent = target ? target.label : "";
@@ -1065,6 +1072,23 @@
     document.getElementById("dinoTr").textContent = target ? (w[target.field] || "") : "";
     dinoHud.classList.add("swap");
     setTimeout(() => dinoHud.classList.remove("swap"), 200);
+    dinoSpeakWord(w);
+  }
+
+  function dinoSpeakWord(w) {
+    if (!dinoAutoplay || !speechSupported() || !w) return;
+    const term = w[lang.termField] || "";
+    if (term) speak(term, lang.code, null);
+  }
+
+  function dinoUpdateAutoBtn() {
+    const btn = document.getElementById("dinoAuto");
+    const ok = speechSupported();
+    btn.style.display = ok ? "" : "none";
+    btn.disabled = !ok;
+    btn.classList.toggle("on", dinoAutoplay);
+    btn.setAttribute("aria-pressed", dinoAutoplay ? "true" : "false");
+    btn.textContent = "Autoplay: " + (dinoAutoplay ? "on" : "off");
   }
 
   function dinoUpdateScore() {
@@ -1299,6 +1323,14 @@
   }
 
   document.getElementById("dinoJump").addEventListener("click", dinoJump);
+  document.getElementById("dinoAuto").addEventListener("click", () => {
+    dinoAutoplay = !dinoAutoplay;
+    try { localStorage.setItem("pv_dino_auto", dinoAutoplay ? "1" : "0"); } catch (err) {}
+    dinoUpdateAutoBtn();
+    if (dinoAutoplay) dinoSpeakWord(dinoGame.word);
+    else stopSpeech();
+  });
+  dinoUpdateAutoBtn();
   document.getElementById("dinoDuck").addEventListener("pointerdown", (e) => { e.preventDefault(); dinoSetDuck(true); });
   document.getElementById("dinoDuck").addEventListener("pointerup", () => dinoSetDuck(false));
   document.getElementById("dinoDuck").addEventListener("pointerleave", () => dinoSetDuck(false));
