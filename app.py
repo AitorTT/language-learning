@@ -94,6 +94,9 @@ COMPARE_PRON = {
     "ro": {"hello": "ˈbu.nə", "goodbye": "la re.veˈde.re", "good morning": "ˈbu.nə di.miˈne̯a.t͡sa",
            "good night": "ˈno̯ap.te ˈbu.nə", "thank you": "mul.t͡suˈmesk", "please": "te roɡ",
            "sorry": "ɨmʲ ˈpa.re rəw", "yes": "da", "no": "nu", "help": "a.ʒuˈtor"},
+    "lt": {"hello": "ˈlaːbɐs", "goodbye": "ˈvʲɪso ˈɡʲɛːro", "good morning": "ˈlaːbɐs ˈriːtɐs",
+           "good night": "lɐbɐˈnakt", "thank you": "ɐˈt͡ʃʲuː", "please": "prɐˈʃɐʊ",
+           "sorry": "ɐt͡sʲɪprɐˈʃɐʊ", "yes": "tɐɪp", "no": "nʲɛ", "help": "pɐˈɡɐlbɐ"},
 }
 
 _compare_cache = None

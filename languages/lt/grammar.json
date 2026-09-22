@@ -1,0 +1,2500 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Lithuanian alphabet",
+    "description": "Lithuanian uses the Latin alphabet with nine extra letters.",
+    "columns": [
+      "Feature",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ą, ę, į, ų",
+        "ką, tę, tį, tų",
+        "nasal vowels",
+        "vocales nasales"
+      ],
+      [
+        "ė",
+        "tėvas",
+        "a long e sound",
+        "un sonido de e larga"
+      ],
+      [
+        "č",
+        "čia",
+        "like 'ch' in church",
+        "como 'ch' en español"
+      ],
+      [
+        "š",
+        "šuo",
+        "like 'sh' in shoe",
+        "como 'sh' en inglés"
+      ],
+      [
+        "ž",
+        "žuvis",
+        "like 's' in measure",
+        "como la 'y' en mayo"
+      ],
+      [
+        "ū",
+        "sūnus",
+        "a long u",
+        "una u larga"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Lithuanian distinguishes masculine and feminine plurals.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "aš",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "tu",
+        "you",
+        "tú"
+      ],
+      [
+        "2nd polite",
+        "jūs",
+        "you (polite)",
+        "usted"
+      ],
+      [
+        "3rd sing. m.",
+        "jis",
+        "he",
+        "él"
+      ],
+      [
+        "3rd sing. f.",
+        "ji",
+        "she",
+        "ella"
+      ],
+      [
+        "1st plur.",
+        "mes",
+        "we",
+        "nosotros"
+      ],
+      [
+        "3rd plur. m.",
+        "jie",
+        "they",
+        "ellos"
+      ],
+      [
+        "3rd plur. f.",
+        "jos",
+        "they",
+        "ellas"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "būti (to be)",
+    "description": "This irregular verb is the base of many sentences.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "aš esu",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "you are",
+        "tu esi",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "he is",
+        "jis yra",
+        "he is",
+        "él es"
+      ],
+      [
+        "she is",
+        "ji yra",
+        "she is",
+        "ella es"
+      ],
+      [
+        "we are",
+        "mes esame",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "they are",
+        "jie yra",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "turėti (to have)",
+    "description": "'To have' is also irregular in the present.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "aš turiu",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "you have",
+        "tu turi",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "he has",
+        "jis turi",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "we have",
+        "mes turime",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "they have",
+        "jie turi",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Gender of nouns",
+    "description": "Every noun is masculine or feminine; there is no neuter.",
+    "columns": [
+      "Gender",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "namas",
+        "house",
+        "casa"
+      ],
+      [
+        "feminine",
+        "knyga",
+        "book",
+        "libro"
+      ],
+      [
+        "masculine",
+        "automobilis",
+        "car",
+        "coche"
+      ],
+      [
+        "feminine",
+        "gėlė",
+        "flower",
+        "flor"
+      ],
+      [
+        "masculine",
+        "vanduo",
+        "water",
+        "agua"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "The ending shows the gender of the plural noun.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -as to -ai",
+        "namas → namai",
+        "house → houses",
+        "casa → casas"
+      ],
+      [
+        "fem. -a to -os",
+        "knyga → knygos",
+        "book → books",
+        "libro → libros"
+      ],
+      [
+        "masc. -is to -iai",
+        "automobilis → automobiliai",
+        "car → cars",
+        "coche → coches"
+      ],
+      [
+        "fem. -ė to -ės",
+        "gėlė → gėlės",
+        "flower → flowers",
+        "flor → flores"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Adjectives agree with nouns",
+    "description": "The adjective usually comes before the noun.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. sing.",
+        "gražus namas",
+        "a beautiful house",
+        "una casa bonita"
+      ],
+      [
+        "fem. sing.",
+        "graži knyga",
+        "a beautiful book",
+        "un libro bonito"
+      ],
+      [
+        "masc. plur.",
+        "gražūs namai",
+        "beautiful houses",
+        "casas bonitas"
+      ],
+      [
+        "fem. plur.",
+        "gražios knygos",
+        "beautiful books",
+        "libros bonitos"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The third person has one form for he, she and they.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "aš dirbu",
+        "I work",
+        "yo trabajo"
+      ],
+      [
+        "you",
+        "tu dirbi",
+        "you work",
+        "tú trabajas"
+      ],
+      [
+        "he / she",
+        "jis dirba",
+        "he works",
+        "él trabaja"
+      ],
+      [
+        "we",
+        "mes dirbame",
+        "we work",
+        "nosotros trabajamos"
+      ],
+      [
+        "they",
+        "jie dirba",
+        "they work",
+        "ellos trabajan"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Negation",
+    "description": "ne- is added to the front of the verb.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "aš nekalbu",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "nieko nesakau",
+        "I say nothing",
+        "no digo nada"
+      ],
+      [
+        "never",
+        "niekada neveluoju",
+        "I am never late",
+        "nunca llego tarde"
+      ],
+      [
+        "not at all",
+        "visai nepatinka",
+        "I do not like it at all",
+        "no me gusta nada"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words normally stand at the start.",
+    "columns": [
+      "Word",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "kas",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "kas",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "kur",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "kada",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "kodėl",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "kaip",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers come before the noun and agree with it.",
+    "columns": [
+      "Number",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "vienas",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "du",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "trys",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "keturi",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "penki",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "šeši",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "septyni",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "aštuoni",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "devyni",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "dešimt",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are written with a small letter.",
+    "columns": [
+      "Day",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "sekmadienis",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "pirmadienis",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "antradienis",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "trečiadienis",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "ketvirtadienis",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "penktadienis",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "šeštadienis",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours are adjectives and agree with the noun.",
+    "columns": [
+      "Colour",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "raudonas",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "mėlynas",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "žalias",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "juodas",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "baltas",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "geltonas",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "The accusative case",
+    "description": "The accusative marks the direct object of a verb.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -as to -ą",
+        "namas → namą",
+        "house → house (object)",
+        "casa → casa (objeto)"
+      ],
+      [
+        "fem. -a to -ą",
+        "knyga → knygą",
+        "book → book (object)",
+        "libro → libro (objeto)"
+      ],
+      [
+        "masc. -is to -į",
+        "automobilis → automobilį",
+        "car → car (object)",
+        "coche → coche (objeto)"
+      ],
+      [
+        "fem. -ė to -ę",
+        "gėlė → gėlę",
+        "flower → flower (object)",
+        "flor → flor (objeto)"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "The genitive case",
+    "description": "The genitive shows possession and follows many prepositions.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -as to -o",
+        "namas → namo",
+        "of the house",
+        "de la casa"
+      ],
+      [
+        "fem. -a to -os",
+        "knyga → knygos",
+        "of the book",
+        "del libro"
+      ],
+      [
+        "masc. -is to -io",
+        "automobilis → automobilio",
+        "of the car",
+        "del coche"
+      ],
+      [
+        "fem. -ė to -ės",
+        "gėlė → gėlės",
+        "of the flower",
+        "de la flor"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "The locative case",
+    "description": "The locative means 'in' or 'at' a place.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -as to -e",
+        "namas → name",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "fem. -a to -oje",
+        "knyga → knygoje",
+        "in the book",
+        "en el libro"
+      ],
+      [
+        "masc. -is to -yje",
+        "automobilis → automobilyje",
+        "in the car",
+        "en el coche"
+      ],
+      [
+        "fem. -ė to -ėje",
+        "gėlė → gėlėje",
+        "in the flower",
+        "en la flor"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "Possessives do not change for the gender of the thing owned.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "mano",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "tavo",
+        "your",
+        "tu"
+      ],
+      [
+        "his",
+        "jo",
+        "his",
+        "su"
+      ],
+      [
+        "her",
+        "jos",
+        "her",
+        "su (de ella)"
+      ],
+      [
+        "our",
+        "mūsų",
+        "our",
+        "nuestro"
+      ],
+      [
+        "their",
+        "jų",
+        "their",
+        "su (de ellos)"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "motina",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "tėvas",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "brolis",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "sesuo",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "sūnus",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "dukra",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "The simple past is formed with the endings -au, -ai, -o.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I worked",
+        "aš dirbau",
+        "I worked",
+        "yo trabajé"
+      ],
+      [
+        "you worked",
+        "tu dirbai",
+        "you worked",
+        "tú trabajaste"
+      ],
+      [
+        "he worked",
+        "jis dirbo",
+        "he worked",
+        "él trabajó"
+      ],
+      [
+        "we worked",
+        "mes dirbome",
+        "we worked",
+        "nosotros trabajamos"
+      ],
+      [
+        "they worked",
+        "jie dirbo",
+        "they worked",
+        "ellos trabajaron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future tense",
+    "description": "The future adds -s- to the stem.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will be",
+        "aš būsiu",
+        "I will be",
+        "yo seré"
+      ],
+      [
+        "you will be",
+        "tu būsi",
+        "you will be",
+        "tú serás"
+      ],
+      [
+        "he will be",
+        "jis bus",
+        "he will be",
+        "él será"
+      ],
+      [
+        "we will be",
+        "mes būsime",
+        "we will be",
+        "nosotros seremos"
+      ],
+      [
+        "they will be",
+        "jie bus",
+        "they will be",
+        "ellos serán"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "Commands use special short forms.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait!",
+        "palauk",
+        "wait!",
+        "¡espera!"
+      ],
+      [
+        "listen!",
+        "klausyk",
+        "listen!",
+        "¡escucha!"
+      ],
+      [
+        "read!",
+        "skaityk",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "come!",
+        "ateik",
+        "come!",
+        "¡ven!"
+      ],
+      [
+        "polite",
+        "palaukite",
+        "please wait",
+        "espere, por favor"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "The suffix -esnis forms the comparative.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "didesnis",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "didesnis už",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "geresnis",
+        "better",
+        "mejor"
+      ],
+      [
+        "smaller",
+        "mažesnis",
+        "smaller",
+        "más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The superlative",
+    "description": "The suffix -iausias forms the superlative.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "didžiausias",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "geriausias",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the most beautiful",
+        "gražiausias",
+        "the most beautiful",
+        "el más bonito"
+      ],
+      [
+        "the smallest",
+        "mažiausias",
+        "the smallest",
+        "el más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "The dative case",
+    "description": "The dative marks the indirect object.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -as to -ui",
+        "draugas → draugui",
+        "friend → to a friend",
+        "amigo → a un amigo"
+      ],
+      [
+        "fem. -a to -ai",
+        "mama → mamai",
+        "mother → to mother",
+        "madre → a la madre"
+      ],
+      [
+        "masc. -is to -iui",
+        "tėvas → tėvui",
+        "father → to father",
+        "padre → al padre"
+      ],
+      [
+        "fem. -ė to -ei",
+        "sesė → sesei",
+        "sister → to sister",
+        "hermana → a la hermana"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "The instrumental case",
+    "description": "The instrumental means 'with' or 'by means of'.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -as to -u",
+        "autobusas → autobusu",
+        "bus → by bus",
+        "autobús → en autobús"
+      ],
+      [
+        "masc. -is to -iu",
+        "peilis → peiliu",
+        "knife → with a knife",
+        "cuchillo → con cuchillo"
+      ],
+      [
+        "masc. plur. -ai to -ais",
+        "autobusai → autobusais",
+        "buses → by buses",
+        "autobuses → en autobuses"
+      ],
+      [
+        "fem. plur. -os to -omis",
+        "rankos → rankomis",
+        "hands → with hands",
+        "manos → con las manos"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "Reflexive verbs add -si to the ending.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I get up",
+        "aš keliuosi",
+        "I get up",
+        "me levanto"
+      ],
+      [
+        "you get up",
+        "tu keliesi",
+        "you get up",
+        "te levantas"
+      ],
+      [
+        "he gets up",
+        "jis keliasi",
+        "he gets up",
+        "él se levanta"
+      ],
+      [
+        "we get up",
+        "mes keliamės",
+        "we get up",
+        "nosotros nos levantamos"
+      ],
+      [
+        "they get up",
+        "jie keliasi",
+        "they get up",
+        "ellos se levantan"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "visada",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "dažnai",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "kartais",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "retai",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "niekada",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "Tens end in -dešimt.",
+    "columns": [
+      "Number",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "vienuolika",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "dvylika",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "dvidešimt",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "trisdešimt",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "100",
+        "šimtas",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "pirmas",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "antras",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "trečias",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "paskutinis",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Time uses the ordinal form of the hour.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "pirma valanda",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "septintą valandą",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "septynios trisdešimt",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "septynios penkiolika",
+        "quarter past seven",
+        "las siete y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Months",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Month",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "sausis",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "kovas",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "birželis",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "rugsėjis",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "gruodis",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Prepositions",
+    "description": "Prepositions govern the genitive or accusative.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in",
+        "name",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "on",
+        "ant stalo",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "to",
+        "į mokyklą",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "from",
+        "iš darbo",
+        "from work",
+        "del trabajo"
+      ],
+      [
+        "with",
+        "su draugu",
+        "with a friend",
+        "con un amigo"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather often uses impersonal forms.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "lyja",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "yra karšta",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "yra šalta",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "yra saulėta",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use the instrumental case.",
+    "columns": [
+      "Means",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "autobusu",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "traukiniu",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "lėktuvu",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "pėsčiomis",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional is used in polite and unreal sentences.",
+    "columns": [
+      "Person",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I would travel",
+        "aš keliaučiau",
+        "I would travel",
+        "yo viajaría"
+      ],
+      [
+        "you would go",
+        "tu eitum",
+        "you would go",
+        "tú irías"
+      ],
+      [
+        "he would do",
+        "jis darytų",
+        "he would do",
+        "él haría"
+      ],
+      [
+        "we would buy",
+        "mes pirktume",
+        "we would buy",
+        "nosotros compraríamos"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive",
+    "description": "The passive uses a passive participle.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "pastatytas",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "was read",
+        "perskaityta",
+        "was read",
+        "fue leído"
+      ],
+      [
+        "was sent",
+        "išsiųstas",
+        "was sent",
+        "fue enviado"
+      ],
+      [
+        "were closed",
+        "uždarytos",
+        "were closed",
+        "fueron cerradas"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "smiling",
+        "besišypsantis",
+        "smiling",
+        "sonriente"
+      ],
+      [
+        "written",
+        "parašytas",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "pavargęs",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "uždarytas",
+        "closed",
+        "cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "The relative pronoun agrees in gender and number.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who (masc.)",
+        "kuris",
+        "who",
+        "quien"
+      ],
+      [
+        "who (fem.)",
+        "kuri",
+        "who",
+        "quien"
+      ],
+      [
+        "who (masc. pl.)",
+        "kurie",
+        "who",
+        "quienes"
+      ],
+      [
+        "who (fem. pl.)",
+        "kurios",
+        "who",
+        "quienes"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "kad and jog both introduce a reported clause.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "kad",
+        "that",
+        "que"
+      ],
+      [
+        "that (formal)",
+        "jog",
+        "that",
+        "que"
+      ],
+      [
+        "where",
+        "kur",
+        "where",
+        "dónde"
+      ],
+      [
+        "what",
+        "ko",
+        "what",
+        "qué"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbal nouns end in -imas or -ymas.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "skaitymas",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "mokymasis",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "decision",
+        "sprendimas",
+        "decision",
+        "decisión"
+      ],
+      [
+        "swimming",
+        "plaukimas",
+        "swimming",
+        "natación"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb prefixes",
+    "description": "Prefixes change the direction or aspect of a verb.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to arrive",
+        "ateiti",
+        "to come here",
+        "llegar"
+      ],
+      [
+        "to go out",
+        "išeiti",
+        "to go out",
+        "salir"
+      ],
+      [
+        "to read through",
+        "perskaityti",
+        "to finish reading",
+        "terminar de leer"
+      ],
+      [
+        "to write down",
+        "parašyti",
+        "to write completely",
+        "escribir del todo"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order",
+    "description": "Word order is flexible because cases mark the roles.",
+    "columns": [
+      "Type",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "basic",
+        "aš skaitau knygą",
+        "I read a book",
+        "leo un libro"
+      ],
+      [
+        "emphatic",
+        "knygą skaitau aš",
+        "it is I who read the book",
+        "el libro lo leo yo"
+      ],
+      [
+        "question",
+        "ar tu skaitai?",
+        "do you read?",
+        "¿lees?"
+      ],
+      [
+        "negation",
+        "aš neskaitau",
+        "I do not read",
+        "no leo"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "bet",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "nes",
+        "because",
+        "porque"
+      ],
+      [
+        "therefore",
+        "todėl",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "although",
+        "nors",
+        "although",
+        "aunque"
+      ],
+      [
+        "moreover",
+        "be to",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "gydymas",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "simptomas",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "receptas",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "vakcina",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "draudimas",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "susitikimas",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "sutartis",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "atlyginimas",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kolega",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "terminas",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "mokykla",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "universitetas",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "egzaminas",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "žinios",
+        "knowledge",
+        "conocimientos"
+      ],
+      [
+        "skill",
+        "įgūdis",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs and adjectives turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "atvykimas",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "tyrimas",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "bendradarbiavimas",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "gamyba",
+        "production",
+        "producción"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metodologija",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "koreliacija",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "kintamasis",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empirinis",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "kiekybinis",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "infliacija",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "bankrotas",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "subsidija",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "įplaukos",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "investicija",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "konstitucija",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlamentas",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "nuosprendis",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "ieškovas",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "atsakovas",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "etika",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "moralė",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "sąžiningumas",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "atsakomybė",
+        "responsibility",
+        "responsabilidad"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "sąmonė",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "egzistencija",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "tapatybė",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradoksas",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilema",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnozė",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "terapija",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "lėtinis",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "infekcija",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "imunitetas",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekulė",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atomas",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "gravitacija",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "ląstelė",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "eksperimentas",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Lithuanian.",
+    "columns": [
+      "Connector",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "be to",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "tačiau",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "todėl",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "visų pirma",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "vis dėlto",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "priimti sprendimą",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "kreipti dėmesį",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "vaidinti vaidmenį",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "daryti išvadą",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "tarnauti ilgai",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "taisyti",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "perdirbti",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "anglies emisijos",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "tvarius",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Lithuanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retorika",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskursas",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "dviprasmybė",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "konsensusas",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "argumentas",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]

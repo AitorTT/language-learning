@@ -246,5 +246,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "lt",
+    "name": "Lithuanian",
+    "flag": "🇱🇹",
+    "speech": "lt-LT",
+    "termLabel": "Lithuanian",
+    "termField": "lithuanian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
