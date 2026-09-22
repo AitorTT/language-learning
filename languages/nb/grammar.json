@@ -1,0 +1,2446 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Norwegian alphabet",
+    "description": "Bokmål adds three letters to the Latin alphabet.",
+    "columns": [
+      "Feature",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "æ",
+        "æple",
+        "like 'a' in cat",
+        "como la 'a' en casa"
+      ],
+      [
+        "ø",
+        "øye",
+        "like 'u' in fur",
+        "como la 'ö' alemana"
+      ],
+      [
+        "å",
+        "år",
+        "like 'o' in order",
+        "como la 'o' en hola"
+      ],
+      [
+        "tonelag",
+        "bønder / bønner",
+        "two word tones",
+        "dos tonos de palabra"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Norwegian has a polite De, now rarely used.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "jeg",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "du",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing.",
+        "han / hun",
+        "he / she",
+        "él / ella"
+      ],
+      [
+        "1st plur.",
+        "vi",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "dere",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "de",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "å være (to be)",
+    "description": "Norwegian verbs do not change for person.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "jeg er",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "you are",
+        "du er",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "he is",
+        "han er",
+        "he is",
+        "él es"
+      ],
+      [
+        "we are",
+        "vi er",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "they are",
+        "de er",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "å ha (to have)",
+    "description": "The present ends in -r for every person.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "jeg har",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "you have",
+        "du har",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "he has",
+        "han har",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "we have",
+        "vi har",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "they have",
+        "de har",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Noun gender",
+    "description": "Bokmål has masculine, feminine and neuter nouns.",
+    "columns": [
+      "Gender",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "en bil",
+        "a car",
+        "un coche"
+      ],
+      [
+        "feminine",
+        "ei bok",
+        "a book",
+        "un libro"
+      ],
+      [
+        "neuter",
+        "et hus",
+        "a house",
+        "una casa"
+      ],
+      [
+        "neuter",
+        "et eple",
+        "an apple",
+        "una manzana"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "Plurals end in -er, -e or take no ending.",
+    "columns": [
+      "Type",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-er",
+        "bil → biler",
+        "car → cars",
+        "coche → coches"
+      ],
+      [
+        "-er",
+        "bok → bøker",
+        "book → books",
+        "libro → libros"
+      ],
+      [
+        "-e",
+        "hus → hus",
+        "house → houses",
+        "casa → casas"
+      ],
+      [
+        "-er",
+        "eple → epler",
+        "apple → apples",
+        "manzana → manzanas"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective takes -t with neuter and -e with plural.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "common",
+        "en rød bil",
+        "a red car",
+        "un coche rojo"
+      ],
+      [
+        "neuter",
+        "et rødt hus",
+        "a red house",
+        "una casa roja"
+      ],
+      [
+        "plural",
+        "røde biler",
+        "red cars",
+        "coches rojos"
+      ],
+      [
+        "definite",
+        "den røde bilen",
+        "the red car",
+        "el coche rojo"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The present ends in -r for every person.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "jeg snakker",
+        "I speak",
+        "yo hablo"
+      ],
+      [
+        "you speak",
+        "du snakker",
+        "you speak",
+        "tú hablas"
+      ],
+      [
+        "he speaks",
+        "han snakker",
+        "he speaks",
+        "él habla"
+      ],
+      [
+        "we speak",
+        "vi snakker",
+        "we speak",
+        "nosotros hablamos"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Negation",
+    "description": "ikke follows the verb.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "jeg snakker ikke",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "jeg sier ingenting",
+        "I say nothing",
+        "no digo nada"
+      ],
+      [
+        "never",
+        "jeg kommer aldri",
+        "I never come",
+        "nunca vengo"
+      ],
+      [
+        "no one",
+        "jeg ser ingen",
+        "I see no one",
+        "no veo a nadie"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "hva",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "hvem",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "hvor",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "når",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "hvorfor",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "hvordan",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers come before the noun.",
+    "columns": [
+      "Number",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "en",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "to",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "tre",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "fire",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "fem",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "seks",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "sju",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "åtte",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "ni",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "ti",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are written with a small letter.",
+    "columns": [
+      "Day",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "søndag",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "mandag",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "tirsdag",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "onsdag",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "torsdag",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "fredag",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "lørdag",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Colour",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "rød",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "blå",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "grønn",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "svart",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "hvit",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "gul",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "The definite form",
+    "description": "The definite article is a suffix on the noun.",
+    "columns": [
+      "Type",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "bilen",
+        "the car",
+        "el coche"
+      ],
+      [
+        "feminine",
+        "boka",
+        "the book",
+        "el libro"
+      ],
+      [
+        "neuter",
+        "huset",
+        "the house",
+        "la casa"
+      ],
+      [
+        "plural",
+        "bilene",
+        "the cars",
+        "los coches"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "The form depends on the gender of the noun.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (masc.)",
+        "min bil",
+        "my car",
+        "mi coche"
+      ],
+      [
+        "my (fem.)",
+        "mi bok",
+        "my book",
+        "mi libro"
+      ],
+      [
+        "my (neuter)",
+        "mitt hus",
+        "my house",
+        "mi casa"
+      ],
+      [
+        "my (plural)",
+        "mine biler",
+        "my cars",
+        "mis coches"
+      ],
+      [
+        "our",
+        "vår bil",
+        "our car",
+        "nuestro coche"
+      ],
+      [
+        "their",
+        "deres bil",
+        "their car",
+        "su coche"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Object pronouns",
+    "description": "These are used as the object of a verb.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "me",
+        "meg",
+        "me",
+        "me"
+      ],
+      [
+        "you",
+        "deg",
+        "you",
+        "te"
+      ],
+      [
+        "him",
+        "ham",
+        "him",
+        "lo"
+      ],
+      [
+        "her",
+        "henne",
+        "her",
+        "la"
+      ],
+      [
+        "us",
+        "oss",
+        "us",
+        "nos"
+      ],
+      [
+        "them",
+        "dem",
+        "them",
+        "los"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "mor",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "far",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "bror",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "søster",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "sønn",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "datter",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Prepositions",
+    "description": "Common prepositions of place and direction.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in",
+        "i huset",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "on",
+        "på bordet",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "to",
+        "til skolen",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "from",
+        "fra jobben",
+        "from work",
+        "del trabajo"
+      ],
+      [
+        "with",
+        "med en venn",
+        "with a friend",
+        "con un amigo"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "Regular verbs add -et or -te.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I was",
+        "jeg var",
+        "I was",
+        "yo era"
+      ],
+      [
+        "I worked",
+        "jeg jobbet",
+        "I worked",
+        "yo trabajé"
+      ],
+      [
+        "I read",
+        "jeg leste",
+        "I read",
+        "yo leí"
+      ],
+      [
+        "I spoke",
+        "jeg snakket",
+        "I spoke",
+        "yo hablé"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future",
+    "description": "Norwegian uses vil, skal or the present tense.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "will",
+        "jeg vil reise",
+        "I will travel",
+        "viajaré"
+      ],
+      [
+        "going to",
+        "jeg skal reise",
+        "I am going to travel",
+        "voy a viajar"
+      ],
+      [
+        "present as future",
+        "jeg reiser i morgen",
+        "I travel tomorrow",
+        "viajo mañana"
+      ],
+      [
+        "future",
+        "vi kommer snart",
+        "we are coming soon",
+        "vendremos pronto"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative is the bare stem.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait!",
+        "vent",
+        "wait!",
+        "¡espera!"
+      ],
+      [
+        "close!",
+        "lukk",
+        "close!",
+        "¡cierra!"
+      ],
+      [
+        "read!",
+        "les",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "come!",
+        "kom",
+        "come!",
+        "¡ven!"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "The comparative usually ends in -ere.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "taller",
+        "høyere",
+        "taller",
+        "más alto"
+      ],
+      [
+        "bigger",
+        "større",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "better",
+        "bedre",
+        "better",
+        "mejor"
+      ],
+      [
+        "smaller",
+        "mindre",
+        "smaller",
+        "más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The superlative",
+    "description": "The superlative usually ends in -est.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "tallest",
+        "høyest",
+        "tallest",
+        "el más alto"
+      ],
+      [
+        "biggest",
+        "størst",
+        "biggest",
+        "el más grande"
+      ],
+      [
+        "best",
+        "best",
+        "best",
+        "el mejor"
+      ],
+      [
+        "smallest",
+        "minst",
+        "smallest",
+        "el más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Modal verbs",
+    "description": "These are followed by the bare infinitive.",
+    "columns": [
+      "Verb",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "can",
+        "kan",
+        "can",
+        "puede"
+      ],
+      [
+        "must",
+        "må",
+        "must",
+        "debe"
+      ],
+      [
+        "want",
+        "vil",
+        "want",
+        "quiere"
+      ],
+      [
+        "shall",
+        "skal",
+        "shall",
+        "deberá"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The reflexive pronoun changes with the person.",
+    "columns": [
+      "Person",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I wash myself",
+        "jeg vasker meg",
+        "I wash myself",
+        "me lavo"
+      ],
+      [
+        "you wash yourself",
+        "du vasker deg",
+        "you wash yourself",
+        "te lavas"
+      ],
+      [
+        "he washes himself",
+        "han vasker seg",
+        "he washes himself",
+        "él se lava"
+      ],
+      [
+        "we wash ourselves",
+        "vi vasker oss",
+        "we wash ourselves",
+        "nos lavamos"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "alltid",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "ofte",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "noen ganger",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "never",
+        "aldri",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "Teens end in -ten; tens in -ti.",
+    "columns": [
+      "Number",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "elleve",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "tolv",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "tjue",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "tretti",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "100",
+        "hundre",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "første",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "andre",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "tredje",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "siste",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Norwegian counts towards the next hour for the half.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "klokken ett",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "klokken sju",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "halv åtte",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "kvart over sju",
+        "quarter past seven",
+        "las siete y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Months",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Month",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "januar",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "mars",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "juni",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "september",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "desember",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Word order",
+    "description": "The verb always comes second in a main clause.",
+    "columns": [
+      "Type",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "jeg leser en bok",
+        "I read a book",
+        "leo un libro"
+      ],
+      [
+        "inversion",
+        "i dag leser jeg",
+        "today I read",
+        "hoy leo"
+      ],
+      [
+        "question",
+        "leser du?",
+        "do you read?",
+        "¿lees?"
+      ],
+      [
+        "negation",
+        "jeg leser ikke",
+        "I do not read",
+        "no leo"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather often uses det or impersonal forms.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "det regner",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "det er varmt",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "det er kaldt",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "det er solrikt",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use med or på.",
+    "columns": [
+      "Means",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "med buss",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "med tog",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "med fly",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "til fots",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Food and meals",
+    "description": "Vocabulary for meals and eating.",
+    "columns": [
+      "Word",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "breakfast",
+        "frokost",
+        "breakfast",
+        "desayuno"
+      ],
+      [
+        "lunch",
+        "lunsj",
+        "lunch",
+        "almuerzo"
+      ],
+      [
+        "dinner",
+        "middag",
+        "dinner",
+        "cena"
+      ],
+      [
+        "bread",
+        "brød",
+        "bread",
+        "pan"
+      ],
+      [
+        "water",
+        "vann",
+        "water",
+        "agua"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The past tense expresses an unreal condition.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "would travel",
+        "jeg reiste",
+        "I would travel",
+        "viajaría"
+      ],
+      [
+        "would go",
+        "vi gikk",
+        "we would go",
+        "iríamos"
+      ],
+      [
+        "would buy",
+        "jeg kjøpte",
+        "I would buy",
+        "compraría"
+      ],
+      [
+        "if clause",
+        "hvis jeg hadde tid",
+        "if I had time",
+        "si tuviera tiempo"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive",
+    "description": "The passive uses bli or the -s form.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "ble bygget",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "is read",
+        "blir lest",
+        "is read",
+        "es leído"
+      ],
+      [
+        "was sent",
+        "ble sendt",
+        "was sent",
+        "fue enviado"
+      ],
+      [
+        "s-passive",
+        "huset selges",
+        "the house is sold",
+        "la casa se vende"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives and in the passive.",
+    "columns": [
+      "Type",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "built",
+        "bygget",
+        "built",
+        "construido"
+      ],
+      [
+        "read",
+        "lest",
+        "read",
+        "leído"
+      ],
+      [
+        "written",
+        "skrevet",
+        "written",
+        "escrito"
+      ],
+      [
+        "closed",
+        "lukket",
+        "closed",
+        "cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "som and der introduce a relative clause.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who / that",
+        "som",
+        "who / that",
+        "que"
+      ],
+      [
+        "where",
+        "der",
+        "where",
+        "donde"
+      ],
+      [
+        "where (with a subject)",
+        "hvor",
+        "where",
+        "donde"
+      ],
+      [
+        "whose",
+        "hvis",
+        "whose",
+        "cuyo"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "at introduces a reported clause.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "at",
+        "that",
+        "que"
+      ],
+      [
+        "what",
+        "hva",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "hvor",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "når",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbs become nouns ending in -ing.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "lesing",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "læring",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "decision",
+        "beslutning",
+        "decision",
+        "decisión"
+      ],
+      [
+        "swimming",
+        "svømming",
+        "swimming",
+        "natación"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb plus preposition",
+    "description": "Many verbs take a fixed preposition.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait for",
+        "vente på",
+        "to wait for",
+        "esperar"
+      ],
+      [
+        "look forward to",
+        "glede seg til",
+        "to look forward to",
+        "esperar con ganas"
+      ],
+      [
+        "be interested in",
+        "være interessert i",
+        "to be interested in",
+        "interesarse por"
+      ],
+      [
+        "dream of",
+        "drømme om",
+        "to dream of",
+        "soñar con"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Inversion",
+    "description": "The subject follows the verb after a fronted element.",
+    "columns": [
+      "Type",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "after adverb",
+        "i dag er jeg hjemme",
+        "today I am at home",
+        "hoy estoy en casa"
+      ],
+      [
+        "after ikke",
+        "jeg kommer ikke i dag",
+        "I am not coming today",
+        "no vengo hoy"
+      ],
+      [
+        "question",
+        "er du hjemme?",
+        "are you at home?",
+        "¿estás en casa?"
+      ],
+      [
+        "subordinate",
+        "fordi jeg er trøtt",
+        "because I am tired",
+        "porque estoy cansado"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "men",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "fordi",
+        "because",
+        "porque"
+      ],
+      [
+        "therefore",
+        "derfor",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "although",
+        "selv om",
+        "although",
+        "aunque"
+      ],
+      [
+        "moreover",
+        "dessuten",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "behandling",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "symptom",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "resept",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "vaksine",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "forsikring",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "møte",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "kontrakt",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "lønn",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kollega",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "frist",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "skole",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "universitet",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "eksamen",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "kunnskap",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "ferdighet",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "ankomst",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "forskning",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "samarbeid",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "produksjon",
+        "production",
+        "producción"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metodologi",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "korrelasjon",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "variabel",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empirisk",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "kvantitativ",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "inflasjon",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "konkurs",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "subsidie",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "omsetning",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "investering",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "grunnlov",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlament",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "kjennelse",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "saksøker",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "saksøkte",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "etikk",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "moral",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "ærlighet",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "ansvar",
+        "responsibility",
+        "responsabilidad"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "bevissthet",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "eksistens",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identitet",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradoks",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilemma",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnose",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "terapi",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "kronisk",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "infeksjon",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "immun",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekyl",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atom",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "tyngdekraft",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "celle",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "eksperiment",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Norwegian.",
+    "columns": [
+      "Connector",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "dessuten",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "likevel",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "derfor",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "for det første",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "ikke desto mindre",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "ta en beslutning",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "være oppmerksom",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "spille en rolle",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "trekke en konklusjon",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "vare lenge",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "reparere",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "resirkulere",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "karbonutslipp",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "bærekraftig",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Norwegian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retorikk",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskurs",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "tvetydighet",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "konsensus",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "argument",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]
