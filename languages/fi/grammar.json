@@ -1,0 +1,2434 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Finnish alphabet",
+    "description": "Finnish is written with the Latin alphabet plus ä and ö.",
+    "columns": [
+      "Feature",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ä, ö",
+        "äiti, työ",
+        "front vowels",
+        "vocales anteriores"
+      ],
+      [
+        "y",
+        "yksi",
+        "a rounded i sound",
+        "una i redondeada"
+      ],
+      [
+        "vowel harmony",
+        "talo / työ",
+        "endings match the vowels",
+        "las terminaciones siguen las vocales"
+      ],
+      [
+        "double letters",
+        "kukka",
+        "length matters",
+        "la duración importa"
+      ],
+      [
+        "-nen",
+        "nainen",
+        "a very common noun ending",
+        "terminación muy común"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Finnish has no gender distinction in the third person.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "minä",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "sinä",
+        "you",
+        "tú"
+      ],
+      [
+        "2nd polite",
+        "te",
+        "you (polite)",
+        "usted"
+      ],
+      [
+        "3rd sing.",
+        "hän",
+        "he / she",
+        "él / ella"
+      ],
+      [
+        "1st plur.",
+        "me",
+        "we",
+        "nosotros"
+      ],
+      [
+        "3rd plur.",
+        "he",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "olla (to be)",
+    "description": "This irregular verb is the base of many sentences.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "minä olen",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "you are",
+        "sinä olet",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "he / she is",
+        "hän on",
+        "he is",
+        "él es"
+      ],
+      [
+        "we are",
+        "me olemme",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "they are",
+        "he ovat",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Possession: minulla on",
+    "description": "Finnish has no verb 'to have'; it uses 'at me is'.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "minulla on",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "you have",
+        "sinulla on",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "he / she has",
+        "hänellä on",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "we have",
+        "meillä on",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "they have",
+        "heillä on",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Vowel harmony",
+    "description": "Endings have a back and a front version.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "back vowels",
+        "talo, katu",
+        "a, o, u",
+        "a, o, u"
+      ],
+      [
+        "front vowels",
+        "työ, kylä",
+        "ä, ö, y",
+        "ä, ö, y"
+      ],
+      [
+        "back ending",
+        "talossa",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "front ending",
+        "työssä",
+        "at work",
+        "en el trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "The basic plural marker is -t.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-t plural",
+        "talo → talot",
+        "house → houses",
+        "casa → casas"
+      ],
+      [
+        "partitive plur.",
+        "talo → taloja",
+        "houses (partitive)",
+        "casas (partitivo)"
+      ],
+      [
+        "-i- plural",
+        "katu → kadut",
+        "street → streets",
+        "calle → calles"
+      ],
+      [
+        "genitive plur.",
+        "talo → talojen",
+        "of the houses",
+        "de las casas"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective comes before the noun and agrees with it.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "big",
+        "iso talo",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "small",
+        "pieni talo",
+        "a small house",
+        "una casa pequeña"
+      ],
+      [
+        "beautiful",
+        "kaunis kukka",
+        "a beautiful flower",
+        "una flor bonita"
+      ],
+      [
+        "new",
+        "uusi kirja",
+        "a new book",
+        "un libro nuevo"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The present tense also expresses the future.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "minä puhun",
+        "I speak",
+        "yo hablo"
+      ],
+      [
+        "you speak",
+        "sinä puhut",
+        "you speak",
+        "tú hablas"
+      ],
+      [
+        "he speaks",
+        "hän puhuu",
+        "he speaks",
+        "él habla"
+      ],
+      [
+        "we speak",
+        "me puhumme",
+        "we speak",
+        "nosotros hablamos"
+      ],
+      [
+        "they speak",
+        "he puhuvat",
+        "they speak",
+        "ellos hablan"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Negation",
+    "description": "The negative word is a verb that carries the person.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "minä en puhu",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "en sano mitään",
+        "I say nothing",
+        "no digo nada"
+      ],
+      [
+        "never",
+        "en koskaan myöhästy",
+        "I am never late",
+        "nunca llego tarde"
+      ],
+      [
+        "not at all",
+        "en pidä siitä lainkaan",
+        "I do not like it at all",
+        "no me gusta nada"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start of the sentence.",
+    "columns": [
+      "Word",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "mikä",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "kuka",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "missä",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "milloin",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "miksi",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "miten",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers take the partitive form of the noun.",
+    "columns": [
+      "Number",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "yksi",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "kaksi",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "kolme",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "neljä",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "viisi",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "kuusi",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "seitsemän",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "kahdeksan",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "yhdeksän",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "kymmenen",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are written with a small letter.",
+    "columns": [
+      "Day",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "sunnuntai",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "maanantai",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "tiistai",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "keskiviikko",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "torstai",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "perjantai",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "lauantai",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun in case and number.",
+    "columns": [
+      "Colour",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "punainen",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "sininen",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "vihreä",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "musta",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "valkoinen",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "keltainen",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "The partitive case",
+    "description": "The partitive marks an unfinished or indefinite quantity.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-a / -ä",
+        "talo → taloa",
+        "house (partitive)",
+        "casa (partitivo)"
+      ],
+      [
+        "-ta / -tä",
+        "katu → katua",
+        "street (partitive)",
+        "calle (partitivo)"
+      ],
+      [
+        "after numbers",
+        "kaksi taloa",
+        "two houses",
+        "dos casas"
+      ],
+      [
+        "with negation",
+        "en osta taloa",
+        "I do not buy a house",
+        "no compro una casa"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "The genitive case",
+    "description": "The genitive ends in -n and shows possession.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-n",
+        "talo → talon",
+        "of the house",
+        "de la casa"
+      ],
+      [
+        "-n",
+        "katu → kadun",
+        "of the street",
+        "de la calle"
+      ],
+      [
+        "-n",
+        "kirja → kirjan",
+        "of the book",
+        "del libro"
+      ],
+      [
+        "possession",
+        "Pekan auto",
+        "Pekka's car",
+        "el coche de Pekka"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "The inessive case",
+    "description": "The inessive means 'in' or 'at'.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-ssa",
+        "talo → talossa",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "-ssä",
+        "työ → työssä",
+        "at work",
+        "en el trabajo"
+      ],
+      [
+        "-ssa",
+        "koulu → koulussa",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "-ssa",
+        "kaupunki → kaupungissa",
+        "in the city",
+        "en la ciudad"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Possessive suffixes",
+    "description": "The suffix is added to the end of the noun.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "kirjani",
+        "my book",
+        "mi libro"
+      ],
+      [
+        "your",
+        "talosi",
+        "your house",
+        "tu casa"
+      ],
+      [
+        "his / her",
+        "autonsa",
+        "his car",
+        "su coche"
+      ],
+      [
+        "our",
+        "kukkamme",
+        "our flower",
+        "nuestra flor"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "äiti",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "isä",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "veli",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "sisko",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "poika",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "tytär",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "The past tense uses the marker -i-.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I was",
+        "minä olin",
+        "I was",
+        "yo era"
+      ],
+      [
+        "you were",
+        "sinä olit",
+        "you were",
+        "tú eras"
+      ],
+      [
+        "he was",
+        "hän oli",
+        "he was",
+        "él era"
+      ],
+      [
+        "we were",
+        "me olimme",
+        "we were",
+        "nosotros éramos"
+      ],
+      [
+        "they were",
+        "he olivat",
+        "they were",
+        "ellos eran"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future",
+    "description": "Finnish uses the present tense for future events.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will go",
+        "minä menen",
+        "I will go",
+        "iré"
+      ],
+      [
+        "you will go",
+        "sinä menet",
+        "you will go",
+        "irás"
+      ],
+      [
+        "he will go",
+        "hän menee",
+        "he will go",
+        "él irá"
+      ],
+      [
+        "we will go",
+        "me menemme",
+        "we will go",
+        "iremos"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative uses the short stem.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait!",
+        "odota",
+        "wait!",
+        "¡espera!"
+      ],
+      [
+        "read!",
+        "lue",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "come!",
+        "tule",
+        "come!",
+        "¡ven!"
+      ],
+      [
+        "polite",
+        "odottakaa",
+        "please wait",
+        "esperen, por favor"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "The suffix -mpi forms the comparative.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "suurempi",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "suurempi kuin",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "parempi",
+        "better",
+        "mejor"
+      ],
+      [
+        "smaller",
+        "pienempi",
+        "smaller",
+        "más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The superlative",
+    "description": "The suffix -in forms the superlative.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "suurin",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "paras",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the most beautiful",
+        "kaunein",
+        "the most beautiful",
+        "el más bonito"
+      ],
+      [
+        "the smallest",
+        "pienin",
+        "the smallest",
+        "el más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "The illative case",
+    "description": "The illative means 'into' or 'to'.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-Vn",
+        "talo → taloon",
+        "into the house",
+        "a la casa"
+      ],
+      [
+        "-Vn",
+        "koulu → kouluun",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "-hVn",
+        "tie → tiehen",
+        "into the road",
+        "a la carretera"
+      ],
+      [
+        "-seen",
+        "huone → huoneeseen",
+        "into the room",
+        "a la habitación"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "The elative case",
+    "description": "The elative means 'out of' or 'from'.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-sta",
+        "talo → talosta",
+        "from the house",
+        "de la casa"
+      ],
+      [
+        "-stä",
+        "työ → työstä",
+        "from work",
+        "del trabajo"
+      ],
+      [
+        "-sta",
+        "koulu → koulusta",
+        "from school",
+        "de la escuela"
+      ],
+      [
+        "-sta",
+        "kaupunki → kaupungista",
+        "from the city",
+        "de la ciudad"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "The adessive case",
+    "description": "The adessive means 'on' or 'by means of'.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-lla",
+        "pöytä → pöydällä",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "-llä",
+        "kylä → kylällä",
+        "in the village",
+        "en el pueblo"
+      ],
+      [
+        "with",
+        "veitsellä",
+        "with a knife",
+        "con un cuchillo"
+      ],
+      [
+        "by means",
+        "bussilla",
+        "by bus",
+        "en autobús"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "aina",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "usein",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "joskus",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "harvoin",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "ei koskaan",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "Teens end in -toista; tens in -kymmentä.",
+    "columns": [
+      "Number",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "yksitoista",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "kaksitoista",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "kaksikymmentä",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "kolmekymmentä",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "100",
+        "sata",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "ensimmäinen",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "toinen",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "kolmas",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "viimeinen",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Finnish counts towards the next hour for the half.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "kello yksi",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "kello seitsemän",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "puoli kahdeksan",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "varttia yli seitsemän",
+        "quarter past seven",
+        "las siete y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Months",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Month",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "tammikuu",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "maaliskuu",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "kesäkuu",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "syyskuu",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "joulukuu",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Postpositions",
+    "description": "Postpositions follow the noun in the genitive.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "pöydän päällä",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "pöydän alla",
+        "under the table",
+        "bajo la mesa"
+      ],
+      [
+        "next to",
+        "talon vieressä",
+        "next to the house",
+        "junto a la casa"
+      ],
+      [
+        "behind",
+        "metsän takana",
+        "behind the forest",
+        "detrás del bosque"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather uses impersonal forms.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "sataa",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "on kuuma",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "on kylmä",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "on aurinkoista",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use the adessive case.",
+    "columns": [
+      "Means",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "bussilla",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "junalla",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "lentokoneella",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "kävellen",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional uses the marker -isi-.",
+    "columns": [
+      "Person",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I would travel",
+        "matkustaisin",
+        "I would travel",
+        "yo viajaría"
+      ],
+      [
+        "you would go",
+        "menisit",
+        "you would go",
+        "tú irías"
+      ],
+      [
+        "he would do",
+        "tekisi",
+        "he would do",
+        "él haría"
+      ],
+      [
+        "we would buy",
+        "ostaisimme",
+        "we would buy",
+        "nosotros compraríamos"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive",
+    "description": "The passive is used for general statements and in the past.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "rakennettiin",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "was read",
+        "luettiin",
+        "was read",
+        "fue leído"
+      ],
+      [
+        "was sent",
+        "lähetettiin",
+        "was sent",
+        "fue enviado"
+      ],
+      [
+        "were closed",
+        "suljettiin",
+        "were closed",
+        "fueron cerradas"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "smiling",
+        "hymyilevä",
+        "smiling",
+        "sonriente"
+      ],
+      [
+        "written",
+        "kirjoitettu",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "väsynyt",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "suljettu",
+        "closed",
+        "cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "The relative pronoun joka changes with its role.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who (subject)",
+        "joka",
+        "who",
+        "quien"
+      ],
+      [
+        "whom (object)",
+        "jonka",
+        "whom",
+        "a quien"
+      ],
+      [
+        "from which",
+        "josta",
+        "from which",
+        "del que"
+      ],
+      [
+        "who (plural)",
+        "jotka",
+        "who",
+        "quienes"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "että introduces a reported clause.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "että",
+        "that",
+        "que"
+      ],
+      [
+        "what",
+        "mitä",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "missä",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "milloin",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbal nouns end in -minen.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "lukeminen",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "oppiminen",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "decision",
+        "päätös",
+        "decision",
+        "decisión"
+      ],
+      [
+        "swimming",
+        "uiminen",
+        "swimming",
+        "natación"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Participle constructions",
+    "description": "The -essa form expresses a simultaneous action.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "walking home",
+        "kävellessäni",
+        "while I walked",
+        "mientras caminaba"
+      ],
+      [
+        "while reading",
+        "lukiessaan",
+        "while he read",
+        "mientras leía"
+      ],
+      [
+        "knowing",
+        "tietäen",
+        "knowing",
+        "sabiendo"
+      ],
+      [
+        "considering",
+        "ajatellen",
+        "considering",
+        "considerando"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order",
+    "description": "Word order is flexible because cases mark the roles.",
+    "columns": [
+      "Type",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "basic",
+        "minä luen kirjaa",
+        "I read a book",
+        "leo un libro"
+      ],
+      [
+        "emphatic",
+        "kirjaa minä luen",
+        "it is the book I read",
+        "el libro lo leo yo"
+      ],
+      [
+        "question",
+        "luetko sinä?",
+        "do you read?",
+        "¿lees?"
+      ],
+      [
+        "negation",
+        "minä en lue",
+        "I do not read",
+        "no leo"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "mutta",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "koska",
+        "because",
+        "porque"
+      ],
+      [
+        "therefore",
+        "siksi",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "although",
+        "vaikka",
+        "although",
+        "aunque"
+      ],
+      [
+        "moreover",
+        "lisäksi",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "hoito",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "oire",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "resepti",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "rokote",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "vakuutus",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "kokous",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "sopimus",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "palkka",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kollega",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "määräaika",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "koulu",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "yliopisto",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "koe",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "tieto",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "taito",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "saapuminen",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "tutkimus",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "yhteistyö",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "tuotanto",
+        "production",
+        "producción"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metodologia",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "korrelaatio",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "muuttuja",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empiirinen",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "määrällinen",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "inflaatio",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "konkurssi",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "tuki",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "liikevaihto",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "sijoitus",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "perustuslaki",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlamentti",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "tuomio",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "kantaja",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "vastaaja",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "etiikka",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "moraali",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "rehellisyys",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "vastuu",
+        "responsibility",
+        "responsabilidad"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "tietoisuus",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "olemassaolo",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identiteetti",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradoksi",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilemma",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnoosi",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "terapia",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "krooninen",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "infektio",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "immuuni",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekyyli",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atomi",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "painovoima",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "solu",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "kokeilu",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Finnish.",
+    "columns": [
+      "Connector",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "lisäksi",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "kuitenkin",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "siksi",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "ensinnäkin",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "silti",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "tehdä päätös",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "kiinnittää huomiota",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "näytellä roolia",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "tehdä johtopäätös",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "kestää pitkään",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "korjata",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "kierrättää",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "hiilipäästöt",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "kestävä",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Finnish",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retoriikka",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskurssi",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "monitulkintaisuus",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "yksimielisyys",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "argumentti",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]
