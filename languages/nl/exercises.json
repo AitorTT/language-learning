@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ ben student.",
+        "answer": "Ik",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ is leraar.",
+        "answer": "Hij",
+        "translation_en": "He is a teacher.",
+        "translation_es": "Él es profesor."
+      },
+      {
+        "sentence": "___ is dokter.",
+        "answer": "Zij",
+        "translation_en": "She is a doctor.",
+        "translation_es": "Ella es médica."
+      },
+      {
+        "sentence": "___ zijn vrienden.",
+        "answer": "Wij",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "Dit is ___ boek.",
+        "answer": "mijn",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "Is dit ___ fiets?",
+        "answer": "jouw",
+        "translation_en": "Is this your bike?",
+        "translation_es": "¿Es esta tu bicicleta?"
+      },
+      {
+        "sentence": "Dat is ___ auto.",
+        "answer": "zijn",
+        "translation_en": "That is his car.",
+        "translation_es": "Ese es su coche."
+      },
+      {
+        "sentence": "Dit is ___ school.",
+        "answer": "ons",
+        "translation_en": "This is our school.",
+        "translation_es": "Esta es nuestra escuela."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to be' or 'to have' into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ___ moe.",
+        "answer": "ben",
+        "translation_en": "I am tired.",
+        "translation_es": "Estoy cansado."
+      },
+      {
+        "sentence": "Wij ___ studenten.",
+        "answer": "zijn",
+        "translation_en": "We are students.",
+        "translation_es": "Somos estudiantes."
+      },
+      {
+        "sentence": "Ik ___ een hond.",
+        "answer": "heb",
+        "translation_en": "I have a dog.",
+        "translation_es": "Tengo un perro."
+      },
+      {
+        "sentence": "Zij ___ een auto.",
+        "answer": "heeft",
+        "translation_en": "She has a car.",
+        "translation_es": "Ella tiene un coche."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct article into each gap.",
+    "items": [
+      {
+        "sentence": "___ man loopt.",
+        "answer": "De",
+        "translation_en": "The man walks.",
+        "translation_es": "El hombre camina."
+      },
+      {
+        "sentence": "___ huis is groot.",
+        "answer": "Het",
+        "translation_en": "The house is big.",
+        "translation_es": "La casa es grande."
+      },
+      {
+        "sentence": "Ik zie ___ vrouw.",
+        "answer": "een",
+        "translation_en": "I see a woman.",
+        "translation_es": "Veo a una mujer."
+      },
+      {
+        "sentence": "Het boek ligt op ___ tafel.",
+        "answer": "de",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct plural into each gap.",
+    "items": [
+      {
+        "sentence": "Twee ___ liggen op tafel.",
+        "answer": "boeken",
+        "translation_en": "Two books are on the table.",
+        "translation_es": "Hay dos libros sobre la mesa."
+      },
+      {
+        "sentence": "Drie ___ staan in de straat.",
+        "answer": "huizen",
+        "translation_en": "Three houses stand in the street.",
+        "translation_es": "Tres casas están en la calle."
+      },
+      {
+        "sentence": "Veel ___ spelen buiten.",
+        "answer": "kinderen",
+        "translation_en": "Many children play outside.",
+        "translation_es": "Muchos niños juegan fuera."
+      },
+      {
+        "sentence": "Twee ___ staan in de schuur.",
+        "answer": "fietsen",
+        "translation_en": "Two bicycles are in the shed.",
+        "translation_es": "Hay dos bicicletas en el cobertizo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "Ik heb ___ broers.",
+        "answer": "twee",
+        "translation_en": "I have two brothers.",
+        "translation_es": "Tengo dos hermanos."
+      },
+      {
+        "sentence": "In de klas zitten ___ leerlingen.",
+        "answer": "vijf",
+        "translation_en": "There are five students in the class.",
+        "translation_es": "Hay cinco estudiantes en la clase."
+      },
+      {
+        "sentence": "Een week heeft ___ dagen.",
+        "answer": "zeven",
+        "translation_en": "A week has seven days.",
+        "translation_es": "Una semana tiene siete días."
+      },
+      {
+        "sentence": "Ik heb ___ vingers.",
+        "answer": "tien",
+        "translation_en": "I have ten fingers.",
+        "translation_es": "Tengo diez dedos."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "De appel is ___ .",
+        "answer": "rood",
+        "translation_en": "The apple is red.",
+        "translation_es": "La manzana es roja."
+      },
+      {
+        "sentence": "De lucht is ___ .",
+        "answer": "blauw",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "Het gras is ___ .",
+        "answer": "groen",
+        "translation_en": "The grass is green.",
+        "translation_es": "La hierba es verde."
+      },
+      {
+        "sentence": "Mijn tas is ___ .",
+        "answer": "zwart",
+        "translation_en": "My bag is black.",
+        "translation_es": "Mi bolsa es negra."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ heet je?",
+        "answer": "Hoe",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ is dat?",
+        "answer": "Wie",
+        "translation_en": "Who is that?",
+        "translation_es": "¿Quién es ese?"
+      },
+      {
+        "sentence": "___ woon je?",
+        "answer": "Waar",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ ga je naar school?",
+        "answer": "Wanneer",
+        "translation_en": "When do you go to school?",
+        "translation_es": "¿Cuándo vas a la escuela?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ben ___ het huis.",
+        "answer": "in",
+        "translation_en": "I am in the house.",
+        "translation_es": "Estoy en la casa."
+      },
+      {
+        "sentence": "Het boek ligt ___ tafel.",
+        "answer": "op",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Ik ga ___ school.",
+        "answer": "naar",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Ik kom ___ Nederland.",
+        "answer": "uit",
+        "translation_en": "I come from the Netherlands.",
+        "translation_es": "Vengo de los Países Bajos."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ben ___ moe.",
+        "answer": "niet",
+        "translation_en": "I am not tired.",
+        "translation_es": "No estoy cansado."
+      },
+      {
+        "sentence": "Ik heb ___ geld.",
+        "answer": "geen",
+        "translation_en": "I have no money.",
+        "translation_es": "No tengo dinero."
+      },
+      {
+        "sentence": "Ik ben ___ te laat.",
+        "answer": "nooit",
+        "translation_en": "I am never late.",
+        "translation_es": "Nunca llego tarde."
+      },
+      {
+        "sentence": "Hij zei ___ .",
+        "answer": "niets",
+        "translation_en": "He said nothing.",
+        "translation_es": "Él no dijo nada."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense verb into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ___ Nederlands.",
+        "answer": "spreek",
+        "translation_en": "I speak Dutch.",
+        "translation_es": "Hablo neerlandés."
+      },
+      {
+        "sentence": "Hij ___ in een bank.",
+        "answer": "werkt",
+        "translation_en": "He works in a bank.",
+        "translation_es": "Él trabaja en un banco."
+      },
+      {
+        "sentence": "Wij ___ brood.",
+        "answer": "eten",
+        "translation_en": "We eat bread.",
+        "translation_es": "Comemos pan."
+      },
+      {
+        "sentence": "Zij ___ op school.",
+        "answer": "leren",
+        "translation_en": "They learn at school.",
+        "translation_es": "Ellos aprenden en la escuela."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct past-tense verb into each gap.",
+    "items": [
+      {
+        "sentence": "Gisteren ___ ik naar de winkel.",
+        "answer": "ging",
+        "translation_en": "Yesterday I went to the shop.",
+        "translation_es": "Ayer fui a la tienda."
+      },
+      {
+        "sentence": "We ___ een film.",
+        "answer": "keken",
+        "translation_en": "We watched a film.",
+        "translation_es": "Vimos una película."
+      },
+      {
+        "sentence": "Hij ___ een brief.",
+        "answer": "schreef",
+        "translation_en": "He wrote a letter.",
+        "translation_es": "Él escribió una carta."
+      },
+      {
+        "sentence": "Zij ___ het avondeten.",
+        "answer": "kookten",
+        "translation_en": "They cooked dinner.",
+        "translation_es": "Ellos cocinaron la cena."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {
+        "sentence": "___ ga ik naar school.",
+        "answer": "Vandaag",
+        "translation_en": "Today I go to school.",
+        "translation_es": "Hoy voy a la escuela."
+      },
+      {
+        "sentence": "___ woon ik in Amsterdam.",
+        "answer": "Nu",
+        "translation_en": "Now I live in Amsterdam.",
+        "translation_es": "Ahora vivo en Ámsterdam."
+      },
+      {
+        "sentence": "___ komt hij morgen.",
+        "answer": "Misschien",
+        "translation_en": "Maybe he comes tomorrow.",
+        "translation_es": "Quizá venga mañana."
+      },
+      {
+        "sentence": "___ eet ik brood.",
+        "answer": "'s Ochtends",
+        "translation_en": "In the morning I eat bread.",
+        "translation_es": "Por la mañana como pan."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct demonstrative into each gap.",
+    "items": [
+      {
+        "sentence": "___ boek is nieuw.",
+        "answer": "Dit",
+        "translation_en": "This book is new.",
+        "translation_es": "Este libro es nuevo."
+      },
+      {
+        "sentence": "___ huis is oud.",
+        "answer": "Dat",
+        "translation_en": "That house is old.",
+        "translation_es": "Esa casa es vieja."
+      },
+      {
+        "sentence": "___ boeken zijn duur.",
+        "answer": "Deze",
+        "translation_en": "These books are expensive.",
+        "translation_es": "Estos libros son caros."
+      },
+      {
+        "sentence": "___ man is mijn vader.",
+        "answer": "Die",
+        "translation_en": "That man is my father.",
+        "translation_es": "Ese hombre es mi padre."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct phrase into each gap.",
+    "items": [
+      {
+        "sentence": "___ ! Hoe gaat het?",
+        "answer": "Hallo",
+        "translation_en": "Hello! How are you?",
+        "translation_es": "¡Hola! ¿Cómo estás?"
+      },
+      {
+        "sentence": "___ voor je hulp.",
+        "answer": "Dank je",
+        "translation_en": "Thank you for your help.",
+        "translation_es": "Gracias por tu ayuda."
+      },
+      {
+        "sentence": "___ , ik ben te laat.",
+        "answer": "Sorry",
+        "translation_en": "Sorry, I am late.",
+        "translation_es": "Lo siento, llego tarde."
+      },
+      {
+        "sentence": "___ , kun je me helpen?",
+        "answer": "Alsjeblieft",
+        "translation_en": "Please, can you help me?",
+        "translation_es": "Por favor, ¿puedes ayudarme?"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "Dit is mijn ___ .",
+        "answer": "moeder",
+        "translation_en": "This is my mother.",
+        "translation_es": "Esta es mi madre."
+      },
+      {
+        "sentence": "Dit is mijn ___ .",
+        "answer": "vader",
+        "translation_en": "This is my father.",
+        "translation_es": "Este es mi padre."
+      },
+      {
+        "sentence": "Mijn ___ is tien jaar.",
+        "answer": "broer",
+        "translation_en": "My brother is ten years old.",
+        "translation_es": "Mi hermano tiene diez años."
+      },
+      {
+        "sentence": "Mijn ___ is jonger.",
+        "answer": "zus",
+        "translation_en": "My sister is younger.",
+        "translation_es": "Mi hermana es menor."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct body part into each gap.",
+    "items": [
+      {
+        "sentence": "Ik zie met mijn ___ .",
+        "answer": "ogen",
+        "translation_en": "I see with my eyes.",
+        "translation_es": "Veo con mis ojos."
+      },
+      {
+        "sentence": "Ik hoor met mijn ___ .",
+        "answer": "oren",
+        "translation_en": "I hear with my ears.",
+        "translation_es": "Oigo con mis oídos."
+      },
+      {
+        "sentence": "Ik schrijf met mijn ___ .",
+        "answer": "hand",
+        "translation_en": "I write with my hand.",
+        "translation_es": "Escribo con mi mano."
+      },
+      {
+        "sentence": "Ik loop met mijn ___ .",
+        "answer": "benen",
+        "translation_en": "I walk with my legs.",
+        "translation_es": "Camino con mis piernas."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct food word into each gap.",
+    "items": [
+      {
+        "sentence": "Ik drink ___ in de ochtend.",
+        "answer": "melk",
+        "translation_en": "I drink milk in the morning.",
+        "translation_es": "Bebo leche por la mañana."
+      },
+      {
+        "sentence": "Ik eet ___ bij het ontbijt.",
+        "answer": "brood",
+        "translation_en": "I eat bread for breakfast.",
+        "translation_es": "Como pan en el desayuno."
+      },
+      {
+        "sentence": "Ik hou van ___ .",
+        "answer": "appels",
+        "translation_en": "I like apples.",
+        "translation_es": "Me gustan las manzanas."
+      },
+      {
+        "sentence": "Na het eten drinken we ___ .",
+        "answer": "thee",
+        "translation_en": "After the meal we drink tea.",
+        "translation_es": "Después de comer bebemos té."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "Op ___ werk ik niet.",
+        "answer": "zondag",
+        "translation_en": "On Sunday I do not work.",
+        "translation_es": "El domingo no trabajo."
+      },
+      {
+        "sentence": "Op ___ voetballen we.",
+        "answer": "zaterdag",
+        "translation_en": "On Saturday we play football.",
+        "translation_es": "El sábado jugamos al fútbol."
+      },
+      {
+        "sentence": "Op ___ is de school dicht.",
+        "answer": "maandag",
+        "translation_en": "On Monday the school is closed.",
+        "translation_es": "El lunes la escuela está cerrada."
+      },
+      {
+        "sentence": "Op ___ ontmoeten we elkaar.",
+        "answer": "vrijdag",
+        "translation_en": "On Friday we meet.",
+        "translation_es": "El viernes nos encontramos."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "De winkel is ___ .",
+        "answer": "links",
+        "translation_en": "The shop is on the left.",
+        "translation_es": "La tienda está a la izquierda."
+      },
+      {
+        "sentence": "De bank is ___ .",
+        "answer": "rechts",
+        "translation_en": "The bank is on the right.",
+        "translation_es": "El banco está a la derecha."
+      },
+      {
+        "sentence": "De school is ___ .",
+        "answer": "dichtbij",
+        "translation_en": "The school is near.",
+        "translation_es": "La escuela está cerca."
+      },
+      {
+        "sentence": "Het vliegveld is ___ .",
+        "answer": "ver",
+        "translation_en": "The airport is far.",
+        "translation_es": "El aeropuerto está lejos."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "Ik heb een boek ___ .",
+        "answer": "gelezen",
+        "translation_en": "I have read a book.",
+        "translation_es": "He leído un libro."
+      },
+      {
+        "sentence": "Wij zijn naar huis ___ .",
+        "answer": "gegaan",
+        "translation_en": "We have gone home.",
+        "translation_es": "Hemos ido a casa."
+      },
+      {
+        "sentence": "Hij heeft een brief ___ .",
+        "answer": "geschreven",
+        "translation_en": "He has written a letter.",
+        "translation_es": "Él ha escrito una carta."
+      },
+      {
+        "sentence": "Zij hebben het eten ___ .",
+        "answer": "gekookt",
+        "translation_en": "They have cooked the food.",
+        "translation_es": "Ellos han cocinado la comida."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct modal verb into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ___ Nederlands spreken.",
+        "answer": "kan",
+        "translation_en": "I can speak Dutch.",
+        "translation_es": "Puedo hablar neerlandés."
+      },
+      {
+        "sentence": "Wij ___ naar huis gaan.",
+        "answer": "moeten",
+        "translation_en": "We must go home.",
+        "translation_es": "Debemos ir a casa."
+      },
+      {
+        "sentence": "Zij ___ een auto kopen.",
+        "answer": "wil",
+        "translation_en": "She wants to buy a car.",
+        "translation_es": "Ella quiere comprar un coche."
+      },
+      {
+        "sentence": "___ je me helpen?",
+        "answer": "Kun",
+        "translation_en": "Can you help me?",
+        "translation_es": "¿Puedes ayudarme?"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "Ahmed is ___ dan Ali.",
+        "answer": "langer",
+        "translation_en": "Ahmed is taller than Ali.",
+        "translation_es": "Ahmed es más alto que Ali."
+      },
+      {
+        "sentence": "Dit boek is ___ dan dat.",
+        "answer": "moeilijker",
+        "translation_en": "This book is more difficult than that one.",
+        "translation_es": "Este libro es más difícil que aquel."
+      },
+      {
+        "sentence": "Het vliegtuig is ___ dan de trein.",
+        "answer": "sneller",
+        "translation_en": "The plane is faster than the train.",
+        "translation_es": "El avión es más rápido que el tren."
+      },
+      {
+        "sentence": "Vandaag is ___ dan gisteren.",
+        "answer": "beter",
+        "translation_en": "Today is better than yesterday.",
+        "translation_es": "Hoy es mejor que ayer."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct superlative into each gap.",
+    "items": [
+      {
+        "sentence": "Hij is de ___ leerling van de klas.",
+        "answer": "beste",
+        "translation_en": "He is the best student in the class.",
+        "translation_es": "Es el mejor estudiante de la clase."
+      },
+      {
+        "sentence": "Dit is mijn ___ boek.",
+        "answer": "mooiste",
+        "translation_en": "This is my most beautiful book.",
+        "translation_es": "Este es mi libro más bonito."
+      },
+      {
+        "sentence": "Amsterdam is een van de ___ steden.",
+        "answer": "grootste",
+        "translation_en": "Amsterdam is one of the biggest cities.",
+        "translation_es": "Ámsterdam es una de las ciudades más grandes."
+      },
+      {
+        "sentence": "Het was de ___ dag van mijn leven.",
+        "answer": "gelukkigste",
+        "translation_en": "It was the happiest day of my life.",
+        "translation_es": "Fue el día más feliz de mi vida."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct relative word into each gap.",
+    "items": [
+      {
+        "sentence": "Dit is het boek ___ ik heb gelezen.",
+        "answer": "dat",
+        "translation_en": "This is the book that I have read.",
+        "translation_es": "Este es el libro que he leído."
+      },
+      {
+        "sentence": "Dit is de man ___ ik ken.",
+        "answer": "die",
+        "translation_en": "This is the man whom I know.",
+        "translation_es": "Este es el hombre que conozco."
+      },
+      {
+        "sentence": "Dit is het huis ___ ik woon.",
+        "answer": "waar",
+        "translation_en": "This is the house where I live.",
+        "translation_es": "Esta es la casa donde vivo."
+      },
+      {
+        "sentence": "Dit is de man ___ mij hielp.",
+        "answer": "wie",
+        "translation_en": "This is the man who helped me.",
+        "translation_es": "Este es el hombre que me ayudó."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct adverb into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ga ___ naar de club.",
+        "answer": "altijd",
+        "translation_en": "I always go to the club.",
+        "translation_es": "Siempre voy al club."
+      },
+      {
+        "sentence": "Ik drink ___ koffie.",
+        "answer": "soms",
+        "translation_en": "I sometimes drink coffee.",
+        "translation_es": "A veces bebo café."
+      },
+      {
+        "sentence": "Ik eet ___ in een restaurant.",
+        "answer": "zelden",
+        "translation_en": "I rarely eat in a restaurant.",
+        "translation_es": "Rara vez como en un restaurante."
+      },
+      {
+        "sentence": "Ik heb dit ___ gehoord.",
+        "answer": "nooit",
+        "translation_en": "I have never heard this.",
+        "translation_es": "Nunca he oído esto."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {
+        "sentence": "Vandaag is het ___ .",
+        "answer": "regenachtig",
+        "translation_en": "Today it is rainy.",
+        "translation_es": "Hoy está lluvioso."
+      },
+      {
+        "sentence": "In de zomer is het ___ .",
+        "answer": "heet",
+        "translation_en": "In summer it is hot.",
+        "translation_es": "En verano hace calor."
+      },
+      {
+        "sentence": "In de winter is het ___ .",
+        "answer": "koud",
+        "translation_en": "In winter it is cold.",
+        "translation_es": "En invierno hace frío."
+      },
+      {
+        "sentence": "De lucht is vandaag ___ .",
+        "answer": "bewolkt",
+        "translation_en": "The sky is cloudy today.",
+        "translation_es": "El cielo está nublado hoy."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {
+        "sentence": "Ik reis met de ___ .",
+        "answer": "trein",
+        "translation_en": "I travel by train.",
+        "translation_es": "Viajo en tren."
+      },
+      {
+        "sentence": "Ik ga met de ___ naar mijn werk.",
+        "answer": "bus",
+        "translation_en": "I go to work by bus.",
+        "translation_es": "Voy al trabajo en autobús."
+      },
+      {
+        "sentence": "Ik rijd op mijn ___ .",
+        "answer": "fiets",
+        "translation_en": "I ride my bicycle.",
+        "translation_es": "Monto en bicicleta."
+      },
+      {
+        "sentence": "Het ___ is het snelste vervoer.",
+        "answer": "vliegtuig",
+        "translation_en": "The plane is the fastest transport.",
+        "translation_es": "El avión es el transporte más rápido."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "Hoeveel ___ dit shirt?",
+        "answer": "kost",
+        "translation_en": "How much does this shirt cost?",
+        "translation_es": "¿Cuánto cuesta esta camisa?"
+      },
+      {
+        "sentence": "Ik betaal met ___ .",
+        "answer": "kaart",
+        "translation_en": "I pay by card.",
+        "translation_es": "Pago con tarjeta."
+      },
+      {
+        "sentence": "Er is tien procent ___ .",
+        "answer": "korting",
+        "translation_en": "There is a ten percent discount.",
+        "translation_es": "Hay un descuento del diez por ciento."
+      },
+      {
+        "sentence": "Ik heb een grotere ___ nodig.",
+        "answer": "maat",
+        "translation_en": "I need a bigger size.",
+        "translation_es": "Necesito una talla más grande."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct feeling into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ben vandaag ___ .",
+        "answer": "moe",
+        "translation_en": "I am tired today.",
+        "translation_es": "Estoy cansado hoy."
+      },
+      {
+        "sentence": "Zij is ___ over het examen.",
+        "answer": "bezorgd",
+        "translation_en": "She is worried about the exam.",
+        "translation_es": "Ella está preocupada por el examen."
+      },
+      {
+        "sentence": "Wij zijn heel ___ .",
+        "answer": "blij",
+        "translation_en": "We are very happy.",
+        "translation_es": "Estamos muy contentos."
+      },
+      {
+        "sentence": "Hij is ___ omdat de bus te laat was.",
+        "answer": "boos",
+        "translation_en": "He is angry because the bus was late.",
+        "translation_es": "Él está enfadado porque el autobús llegó tarde."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Ik word om zeven uur wakker en ___ op.",
+        "answer": "sta",
+        "translation_en": "I wake up at seven and get up.",
+        "translation_es": "Me despierto a las siete y me levanto."
+      },
+      {
+        "sentence": "Daarna ___ ik me aan.",
+        "answer": "kleed",
+        "translation_en": "Then I get dressed.",
+        "translation_es": "Luego me visto."
+      },
+      {
+        "sentence": "Ik ___ me na het werk.",
+        "answer": "rust",
+        "translation_en": "I rest after work.",
+        "translation_es": "Descanso después del trabajo."
+      },
+      {
+        "sentence": "Om elf uur ___ ik naar bed.",
+        "answer": "ga",
+        "translation_en": "At eleven I go to bed.",
+        "translation_es": "A las once me voy a la cama."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct hobby word into each gap.",
+    "items": [
+      {
+        "sentence": "Mijn hobby is ___ .",
+        "answer": "fotografie",
+        "translation_en": "My hobby is photography.",
+        "translation_es": "Mi afición es la fotografía."
+      },
+      {
+        "sentence": "We ___ elke avond schaken.",
+        "answer": "spelen",
+        "translation_en": "We play chess every evening.",
+        "translation_es": "Jugamos al ajedrez cada tarde."
+      },
+      {
+        "sentence": "Ik ga ___ in de bergen.",
+        "answer": "kamperen",
+        "translation_en": "I go camping in the mountains.",
+        "translation_es": "Voy de acampada a las montañas."
+      },
+      {
+        "sentence": "Mijn vader houdt van ___ .",
+        "answer": "vissen",
+        "translation_en": "My father likes fishing.",
+        "translation_es": "A mi padre le gusta pescar."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "Ik heb ___ .",
+        "answer": "hoofdpijn",
+        "translation_en": "I have a headache.",
+        "translation_es": "Tengo dolor de cabeza."
+      },
+      {
+        "sentence": "De dokter schreef me een ___ voor.",
+        "answer": "recept",
+        "translation_en": "The doctor wrote me a prescription.",
+        "translation_es": "El médico me recetó."
+      },
+      {
+        "sentence": "Ik heb ___ .",
+        "answer": "keelpijn",
+        "translation_en": "I have a sore throat.",
+        "translation_es": "Tengo dolor de garganta."
+      },
+      {
+        "sentence": "Ik ben verkouden, ik heb ___ .",
+        "answer": "een loopneus",
+        "translation_en": "I have a cold, I have a runny nose.",
+        "translation_es": "Estoy resfriado, tengo moqueo."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct linking word into each gap.",
+    "items": [
+      {
+        "sentence": "___ het slapen lees ik een boek.",
+        "answer": "Voor",
+        "translation_en": "Before sleeping I read a book.",
+        "translation_es": "Antes de dormir leo un libro."
+      },
+      {
+        "sentence": "___ het eten gaan we wandelen.",
+        "answer": "Na",
+        "translation_en": "After the meal we go for a walk.",
+        "translation_es": "Después de comer vamos de paseo."
+      },
+      {
+        "sentence": "___ ik thuiskom, rust ik uit.",
+        "answer": "Als",
+        "translation_en": "When I come home, I rest.",
+        "translation_es": "Cuando vuelvo a casa, descanso."
+      },
+      {
+        "sentence": "___ het regent, blijven we thuis.",
+        "answer": "Omdat",
+        "translation_en": "Because it is raining, we stay at home.",
+        "translation_es": "Como está lloviendo, nos quedamos en casa."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal number into each gap.",
+    "items": [
+      {
+        "sentence": "Ik woon op de ___ verdieping.",
+        "answer": "tweede",
+        "translation_en": "I live on the second floor.",
+        "translation_es": "Vivo en el segundo piso."
+      },
+      {
+        "sentence": "Dit is de ___ les.",
+        "answer": "derde",
+        "translation_en": "This is the third lesson.",
+        "translation_es": "Esta es la tercera lección."
+      },
+      {
+        "sentence": "Hij is de ___ leerling in de klas.",
+        "answer": "eerste",
+        "translation_en": "He is the first student in the class.",
+        "translation_es": "Él es el primer estudiante de la clase."
+      },
+      {
+        "sentence": "Dit is mijn ___ dag.",
+        "answer": "laatste",
+        "translation_en": "This is my last day.",
+        "translation_es": "Este es mi último día."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct place into each gap.",
+    "items": [
+      {
+        "sentence": "We gaan naar het ___ .",
+        "answer": "museum",
+        "translation_en": "We go to the museum.",
+        "translation_es": "Vamos al museo."
+      },
+      {
+        "sentence": "Ik leen boeken uit de ___ .",
+        "answer": "bibliotheek",
+        "translation_en": "I borrow books from the library.",
+        "translation_es": "Tomo libros de la biblioteca."
+      },
+      {
+        "sentence": "We zagen een toneelstuk in het ___ .",
+        "answer": "theater",
+        "translation_en": "We saw a play in the theatre.",
+        "translation_es": "Vimos una obra en el teatro."
+      },
+      {
+        "sentence": "Op zondag gaan we naar de ___ .",
+        "answer": "kerk",
+        "translation_en": "On Sunday we go to church.",
+        "translation_es": "El domingo vamos a la iglesia."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct cooking verb into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ___ rijst in water.",
+        "answer": "kook",
+        "translation_en": "I boil rice in water.",
+        "translation_es": "Hiervo el arroz en agua."
+      },
+      {
+        "sentence": "We ___ vis in olie.",
+        "answer": "frituren",
+        "translation_en": "We fry fish in oil.",
+        "translation_es": "Freímos el pescado en aceite."
+      },
+      {
+        "sentence": "Ik ___ brood in de oven.",
+        "answer": "bak",
+        "translation_en": "I bake bread in the oven.",
+        "translation_es": "Horneo el pan en el horno."
+      },
+      {
+        "sentence": "We ___ groenten met een scherp mes.",
+        "answer": "snijden",
+        "translation_en": "We cut vegetables with a sharp knife.",
+        "translation_es": "Cortamos las verduras con un cuchillo afilado."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct school subject into each gap.",
+    "items": [
+      {
+        "sentence": "Ik vind ___ leuk.",
+        "answer": "aardrijkskunde",
+        "translation_en": "I like geography.",
+        "translation_es": "Me gusta la geografía."
+      },
+      {
+        "sentence": "We studeren ___ in het laboratorium.",
+        "answer": "scheikunde",
+        "translation_en": "We study chemistry in the laboratory.",
+        "translation_es": "Estudiamos química en el laboratorio."
+      },
+      {
+        "sentence": "___ is makkelijk voor mij.",
+        "answer": "Wiskunde",
+        "translation_en": "Mathematics is easy for me.",
+        "translation_es": "Las matemáticas son fáciles para mí."
+      },
+      {
+        "sentence": "Ik lees veel over ___ .",
+        "answer": "geschiedenis",
+        "translation_en": "I read a lot about history.",
+        "translation_es": "Leo mucho sobre historia."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct diminutive into each gap.",
+    "items": [
+      {
+        "sentence": "Een klein huis is een ___ .",
+        "answer": "huisje",
+        "translation_en": "A small house is a little house.",
+        "translation_es": "Una casa pequeña es una casita."
+      },
+      {
+        "sentence": "Een klein boek is een ___ .",
+        "answer": "boekje",
+        "translation_en": "A small book is a little book.",
+        "translation_es": "Un libro pequeño es un librito."
+      },
+      {
+        "sentence": "Een klein meisje is een ___ .",
+        "answer": "meisje",
+        "translation_en": "A small girl is a little girl.",
+        "translation_es": "Una niña pequeña es una chiquilla."
+      },
+      {
+        "sentence": "Een klein brood is een ___ .",
+        "answer": "broodje",
+        "translation_en": "A small bread is a bread roll.",
+        "translation_es": "Un pan pequeño es un panecillo."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct future form into each gap.",
+    "items": [
+      {
+        "sentence": "Morgen ___ ik naar Amsterdam.",
+        "answer": "ga",
+        "translation_en": "Tomorrow I am going to Amsterdam.",
+        "translation_es": "Mañana voy a Ámsterdam."
+      },
+      {
+        "sentence": "We ___ samen studeren.",
+        "answer": "gaan",
+        "translation_en": "We are going to study together.",
+        "translation_es": "Vamos a estudiar juntos."
+      },
+      {
+        "sentence": "Zij ___ het avondeten koken.",
+        "answer": "zal",
+        "translation_en": "She will cook dinner.",
+        "translation_es": "Ella cocinará la cena."
+      },
+      {
+        "sentence": "Zij ___ morgen aankomen.",
+        "answer": "zullen",
+        "translation_en": "They will arrive tomorrow.",
+        "translation_es": "Ellos llegarán mañana."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct passive form into each gap.",
+    "items": [
+      {
+        "sentence": "Het boek is in 1980 ___ .",
+        "answer": "geschreven",
+        "translation_en": "The book was written in 1980.",
+        "translation_es": "El libro fue escrito en 1980."
+      },
+      {
+        "sentence": "De brug is honderd jaar geleden ___ .",
+        "answer": "gebouwd",
+        "translation_en": "The bridge was built a hundred years ago.",
+        "translation_es": "El puente fue construido hace cien años."
+      },
+      {
+        "sentence": "In het restaurant wordt eten ___ .",
+        "answer": "geserveerd",
+        "translation_en": "Food is served in the restaurant.",
+        "translation_es": "La comida se sirve en el restaurante."
+      },
+      {
+        "sentence": "De brief is gisteren ___ .",
+        "answer": "verzonden",
+        "translation_en": "The letter was sent yesterday.",
+        "translation_es": "La carta fue enviada ayer."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct expression of obligation into each gap.",
+    "items": [
+      {
+        "sentence": "Je ___ studeren.",
+        "answer": "moet",
+        "translation_en": "You must study.",
+        "translation_es": "Debes estudiar."
+      },
+      {
+        "sentence": "Ik ___ gisteren naar de vergadering gaan.",
+        "answer": "moest",
+        "translation_en": "I had to go to the meeting yesterday.",
+        "translation_es": "Tuve que ir a la reunión ayer."
+      },
+      {
+        "sentence": "We ___ elkaar helpen.",
+        "answer": "moeten",
+        "translation_en": "We should help each other.",
+        "translation_es": "Deberíamos ayudarnos unos a otros."
+      },
+      {
+        "sentence": "Op tijd komen is ___ .",
+        "answer": "noodzakelijk",
+        "translation_en": "Arriving on time is necessary.",
+        "translation_es": "Llegar a tiempo es necesario."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct conditional word into each gap.",
+    "items": [
+      {
+        "sentence": "___ je studeert, slaag je.",
+        "answer": "Als",
+        "translation_en": "If you study, you pass.",
+        "translation_es": "Si estudias, apruebas."
+      },
+      {
+        "sentence": "Als er tijd is, ___ we naar de film.",
+        "answer": "gaan",
+        "translation_en": "If there is time, we go to the cinema.",
+        "translation_es": "Si hay tiempo, vamos al cine."
+      },
+      {
+        "sentence": "___ ik tijd, zou ik reizen.",
+        "answer": "Had",
+        "translation_en": "If I had time, I would travel.",
+        "translation_es": "Si tuviera tiempo, viajaría."
+      },
+      {
+        "sentence": "___ jouw hulp was ik niet geslaagd.",
+        "answer": "Zonder",
+        "translation_en": "Without your help I would not have passed.",
+        "translation_es": "Sin tu ayuda no habría aprobado."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ging naar school, ___ ik moest studeren.",
+        "answer": "omdat",
+        "translation_en": "I went to school because I had to study.",
+        "translation_es": "Fui a la escuela porque tenía que estudiar."
+      },
+      {
+        "sentence": "Het regende, ___ bleven we thuis.",
+        "answer": "daarom",
+        "translation_en": "It was raining, therefore we stayed at home.",
+        "translation_es": "Estaba lloviendo, por eso nos quedamos en casa."
+      },
+      {
+        "sentence": "Ik studeerde ___ te slagen.",
+        "answer": "om",
+        "translation_en": "I studied in order to pass.",
+        "translation_es": "Estudié para aprobar."
+      },
+      {
+        "sentence": "Wacht ___ hij terugkomt.",
+        "answer": "tot",
+        "translation_en": "Wait until he returns.",
+        "translation_es": "Espera hasta que vuelva."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "Ik wacht ___ de bus.",
+        "answer": "op",
+        "translation_en": "I wait for the bus.",
+        "translation_es": "Espero el autobús."
+      },
+      {
+        "sentence": "Hij denkt ___ zijn werk.",
+        "answer": "aan",
+        "translation_en": "He thinks about his work.",
+        "translation_es": "Él piensa en su trabajo."
+      },
+      {
+        "sentence": "We praten ___ het weer.",
+        "answer": "over",
+        "translation_en": "We talk about the weather.",
+        "translation_es": "Hablamos del tiempo."
+      },
+      {
+        "sentence": "Zij houdt ___ muziek.",
+        "answer": "van",
+        "translation_en": "She loves music.",
+        "translation_es": "A ella le gusta la música."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct adverb of manner into each gap.",
+    "items": [
+      {
+        "sentence": "Hij spreekt heel ___ .",
+        "answer": "langzaam",
+        "translation_en": "He speaks very slowly.",
+        "translation_es": "Habla muy despacio."
+      },
+      {
+        "sentence": "Spreek alsjeblieft ___ .",
+        "answer": "hard",
+        "translation_en": "Please speak loudly.",
+        "translation_es": "Por favor, habla alto."
+      },
+      {
+        "sentence": "Hij deed het werk ___ .",
+        "answer": "snel",
+        "translation_en": "He did the work quickly.",
+        "translation_es": "Hizo el trabajo rápidamente."
+      },
+      {
+        "sentence": "Zij leest ___ .",
+        "answer": "aandachtig",
+        "translation_en": "She reads attentively.",
+        "translation_es": "Ella lee con atención."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "Ik solliciteerde en morgen heb ik een ___ .",
+        "answer": "sollicitatiegesprek",
+        "translation_en": "I applied and tomorrow I have an interview.",
+        "translation_es": "Me postulé y mañana tengo una entrevista."
+      },
+      {
+        "sentence": "Ik stuurde mijn ___ mee met de sollicitatie.",
+        "answer": "cv",
+        "translation_en": "I sent my CV with the application.",
+        "translation_es": "Envié mi currículum con la solicitud."
+      },
+      {
+        "sentence": "Na twee jaar kreeg ik ___ .",
+        "answer": "promotie",
+        "translation_en": "After two years I got a promotion.",
+        "translation_es": "Después de dos años conseguí un ascenso."
+      },
+      {
+        "sentence": "Ik werk met een goed ___ aan dit project.",
+        "answer": "team",
+        "translation_en": "I work with a good team on this project.",
+        "translation_es": "Trabajo con un buen equipo en este proyecto."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct money word into each gap.",
+    "items": [
+      {
+        "sentence": "Ik schrijf mijn maandelijkse ___ in een schrift.",
+        "answer": "budget",
+        "translation_en": "I write my monthly budget in a notebook.",
+        "translation_es": "Escribo mi presupuesto mensual en un cuaderno."
+      },
+      {
+        "sentence": "Ik probeer elke maand geld te ___ .",
+        "answer": "sparen",
+        "translation_en": "I try to save money every month.",
+        "translation_es": "Intento ahorrar dinero cada mes."
+      },
+      {
+        "sentence": "Ik heb een grote ___ bij de bank.",
+        "answer": "schuld",
+        "translation_en": "I have a big debt at the bank.",
+        "translation_es": "Tengo una gran deuda en el banco."
+      },
+      {
+        "sentence": "Ik betaal ___ over mijn inkomen.",
+        "answer": "belasting",
+        "translation_en": "I pay tax on my income.",
+        "translation_es": "Pago impuestos sobre mi renta."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "___ is een groot probleem in steden.",
+        "answer": "Vervuiling",
+        "translation_en": "Pollution is a big problem in cities.",
+        "translation_es": "La contaminación es un gran problema en las ciudades."
+      },
+      {
+        "sentence": "We moeten afval ___ .",
+        "answer": "recyclen",
+        "translation_en": "We must recycle waste.",
+        "translation_es": "Debemos reciclar los residuos."
+      },
+      {
+        "sentence": "We hebben hernieuwbare ___ nodig.",
+        "answer": "energie",
+        "translation_en": "We need renewable energy.",
+        "translation_es": "Necesitamos energía renovable."
+      },
+      {
+        "sentence": "Door houtkap verdwijnen ___ .",
+        "answer": "bossen",
+        "translation_en": "Forests are disappearing because of logging.",
+        "translation_es": "Los bosques están desapareciendo por la tala."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "Elke ___ heeft stemrecht.",
+        "answer": "burger",
+        "translation_en": "Every citizen has the right to vote.",
+        "translation_es": "Todo ciudadano tiene derecho a votar."
+      },
+      {
+        "sentence": "Het parlement maakte nieuwe ___ .",
+        "answer": "wetten",
+        "translation_en": "The parliament made new laws.",
+        "translation_es": "El parlamento hizo nuevas leyes."
+      },
+      {
+        "sentence": "In het voorjaar waren er ___ .",
+        "answer": "verkiezingen",
+        "translation_en": "In spring there were elections.",
+        "translation_es": "En primavera hubo elecciones."
+      },
+      {
+        "sentence": "Mensen uitten hun mening in een vreedzaam ___ .",
+        "answer": "protest",
+        "translation_en": "People expressed their opinion in a peaceful protest.",
+        "translation_es": "La gente expresó su opinión en una protesta pacífica."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct medical word into each gap.",
+    "items": [
+      {
+        "sentence": "De dokter schreef een ___ uit.",
+        "answer": "recept",
+        "translation_en": "The doctor wrote a prescription.",
+        "translation_es": "El médico escribió una receta."
+      },
+      {
+        "sentence": "Ik heb pijn in mijn ___ .",
+        "answer": "rug",
+        "translation_en": "I have pain in my back.",
+        "translation_es": "Tengo dolor de espalda."
+      },
+      {
+        "sentence": "De ___ duurde drie weken.",
+        "answer": "behandeling",
+        "translation_en": "The treatment lasted three weeks.",
+        "translation_es": "El tratamiento duró tres semanas."
+      },
+      {
+        "sentence": "De patiënt heeft een ziektekosten ___ nodig.",
+        "answer": "verzekering",
+        "translation_en": "The patient needs health insurance.",
+        "translation_es": "El paciente necesita un seguro médico."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {
+        "sentence": "We deden een ___ in het laboratorium.",
+        "answer": "experiment",
+        "translation_en": "We did an experiment in the laboratory.",
+        "translation_es": "Hicimos un experimento en el laboratorio."
+      },
+      {
+        "sentence": "De wetenschapper presenteerde een nieuwe ___ .",
+        "answer": "theorie",
+        "translation_en": "The scientist presented a new theory.",
+        "translation_es": "El científico presentó una nueva teoría."
+      },
+      {
+        "sentence": "Dit ___ ondersteunt onze hypothese.",
+        "answer": "bewijs",
+        "translation_en": "This evidence supports our hypothesis.",
+        "translation_es": "Esta prueba apoya nuestra hipótesis."
+      },
+      {
+        "sentence": "Nieuwe ___ kosten veel tijd.",
+        "answer": "ontdekkingen",
+        "translation_en": "New discoveries take a lot of time.",
+        "translation_es": "Los nuevos descubrimientos requieren mucho tiempo."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct technology word into each gap.",
+    "items": [
+      {
+        "sentence": "Ik ben mijn ___ kwijt.",
+        "answer": "wachtwoord",
+        "translation_en": "I lost my password.",
+        "translation_es": "Perdí mi contraseña."
+      },
+      {
+        "sentence": "Ik stuurde je gisteren een ___ .",
+        "answer": "bericht",
+        "translation_en": "I sent you a message yesterday.",
+        "translation_es": "Te envié un mensaje ayer."
+      },
+      {
+        "sentence": "Vandaag werkt de ___ niet.",
+        "answer": "website",
+        "translation_en": "The website is not working today.",
+        "translation_es": "El sitio web no funciona hoy."
+      },
+      {
+        "sentence": "Ik moet een bestand ___ .",
+        "answer": "downloaden",
+        "translation_en": "I need to download a file.",
+        "translation_es": "Necesito descargar un archivo."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct emotion word into each gap.",
+    "items": [
+      {
+        "sentence": "Na het succes voelde ik grote ___ .",
+        "answer": "trots",
+        "translation_en": "After the success I felt great pride.",
+        "translation_es": "Tras el éxito sentí un gran orgullo."
+      },
+      {
+        "sentence": "Toen hij het nieuws hoorde, vulde ___ zijn hart.",
+        "answer": "angst",
+        "translation_en": "When he heard the news, fear filled his heart.",
+        "translation_es": "Cuando oyó la noticia, el miedo llenó su corazón."
+      },
+      {
+        "sentence": "Ik voel grote ___ voor jou.",
+        "answer": "dankbaarheid",
+        "translation_en": "I feel great gratitude for you.",
+        "translation_es": "Siento una gran gratitud hacia ti."
+      },
+      {
+        "sentence": "Toen ik het cadeau zag, was er grote ___ .",
+        "answer": "vreugde",
+        "translation_en": "When I saw the gift, there was great joy.",
+        "translation_es": "Cuando vi el regalo, hubo una gran alegría."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct art word into each gap.",
+    "items": [
+      {
+        "sentence": "Deze maand las ik een prachtige ___ .",
+        "answer": "roman",
+        "translation_en": "This month I read a wonderful novel.",
+        "translation_es": "Este mes leí una novela maravillosa."
+      },
+      {
+        "sentence": "In de tentoonstelling zagen we een nieuw ___ .",
+        "answer": "schilderij",
+        "translation_en": "In the exhibition we saw a new painting.",
+        "translation_es": "En la exposición vimos un cuadro nuevo."
+      },
+      {
+        "sentence": "De dichter schreef een mooi ___ .",
+        "answer": "gedicht",
+        "translation_en": "The poet wrote a beautiful poem.",
+        "translation_es": "El poeta escribió un hermoso poema."
+      },
+      {
+        "sentence": "Het ___ was erg enthousiast.",
+        "answer": "publiek",
+        "translation_en": "The audience was very enthusiastic.",
+        "translation_es": "El público estaba muy entusiasmado."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct business word into each gap.",
+    "items": [
+      {
+        "sentence": "We stuurden de klant een ___ .",
+        "answer": "factuur",
+        "translation_en": "We sent the client an invoice.",
+        "translation_es": "Enviamos una factura al cliente."
+      },
+      {
+        "sentence": "Het bedrijf koopt bij een betrouwbare ___ .",
+        "answer": "leverancier",
+        "translation_en": "The company buys from a reliable supplier.",
+        "translation_es": "La empresa compra a un proveedor fiable."
+      },
+      {
+        "sentence": "Goede ___ helpt klanten te vinden.",
+        "answer": "marketing",
+        "translation_en": "Good marketing helps find customers.",
+        "translation_es": "Un buen marketing ayuda a encontrar clientes."
+      },
+      {
+        "sentence": "Na jaren werd hij ___ van het bedrijf.",
+        "answer": "aandeelhouder",
+        "translation_en": "After years he became a shareholder of the company.",
+        "translation_es": "Tras años se convirtió en accionista de la empresa."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct abstract noun into each gap.",
+    "items": [
+      {
+        "sentence": "Persoonlijke ___ is een complexe zaak.",
+        "answer": "identiteit",
+        "translation_en": "Personal identity is a complex matter.",
+        "translation_es": "La identidad personal es un asunto complejo."
+      },
+      {
+        "sentence": "De filosoof twijfelde aan het bestaan van ___ .",
+        "answer": "bewustzijn",
+        "translation_en": "The philosopher doubted the existence of consciousness.",
+        "translation_es": "El filósofo dudó de la existencia de la conciencia."
+      },
+      {
+        "sentence": "Niemand bezit de absolute ___ .",
+        "answer": "waarheid",
+        "translation_en": "No one possesses absolute truth.",
+        "translation_es": "Nadie posee la verdad absoluta."
+      },
+      {
+        "sentence": "Hij zat in een echt ___ tussen twee opties.",
+        "answer": "dilemma",
+        "translation_en": "He was in a real dilemma between two options.",
+        "translation_es": "Estaba en un verdadero dilema entre dos opciones."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "___ bereikte een recordniveau.",
+        "answer": "Inflatie",
+        "translation_en": "Inflation reached a record level.",
+        "translation_es": "La inflación alcanzó un nivel récord."
+      },
+      {
+        "sentence": "De twee bedrijven kondigden een grote ___ aan.",
+        "answer": "fusie",
+        "translation_en": "The two companies announced a big merger.",
+        "translation_es": "Las dos empresas anunciaron una gran fusión."
+      },
+      {
+        "sentence": "Slecht management leidde tot het ___ van het bedrijf.",
+        "answer": "faillissement",
+        "translation_en": "Bad management led to the bankruptcy of the company.",
+        "translation_es": "La mala gestión llevó a la quiebra de la empresa."
+      },
+      {
+        "sentence": "De staat legt ___ op import.",
+        "answer": "tarieven",
+        "translation_en": "The state imposes tariffs on imports.",
+        "translation_es": "El Estado impone aranceles a las importaciones."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "De rechtbank deed een definitieve ___ .",
+        "answer": "uitspraak",
+        "translation_en": "The court issued a final verdict.",
+        "translation_es": "El tribunal emitió un veredicto final."
+      },
+      {
+        "sentence": "De ___ spande een zaak aan tegen het bedrijf.",
+        "answer": "eiser",
+        "translation_en": "The plaintiff filed a lawsuit against the company.",
+        "translation_es": "El demandante presentó una demanda contra la empresa."
+      },
+      {
+        "sentence": "De ___ verdedigde zich voor de rechter.",
+        "answer": "gedaagde",
+        "translation_en": "The defendant defended himself before the judge.",
+        "translation_es": "El demandado se defendió ante el juez."
+      },
+      {
+        "sentence": "Bedrijven moeten zich aan de milieu ___ houden.",
+        "answer": "regelgeving",
+        "translation_en": "Companies must comply with environmental regulations.",
+        "translation_es": "Las empresas deben cumplir con la normativa medioambiental."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {
+        "sentence": "De onderzoeker gebruikte een kwantitatieve ___ .",
+        "answer": "methodologie",
+        "translation_en": "The researcher used a quantitative methodology.",
+        "translation_es": "El investigador utilizó una metodología cuantitativa."
+      },
+      {
+        "sentence": "We vonden een sterke ___ tussen twee variabelen.",
+        "answer": "correlatie",
+        "translation_en": "We found a strong correlation between two variables.",
+        "translation_es": "Encontramos una fuerte correlación entre dos variables."
+      },
+      {
+        "sentence": "De hypothese heeft ___ bewijs nodig.",
+        "answer": "empirisch",
+        "translation_en": "The hypothesis needs empirical evidence.",
+        "translation_es": "La hipótesis necesita pruebas empíricas."
+      },
+      {
+        "sentence": "Deze data zijn ___ , niet kwalitatief.",
+        "answer": "kwantitatief",
+        "translation_en": "This data is quantitative, not qualitative.",
+        "translation_es": "Estos datos son cuantitativos, no cualitativos."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct environmental term into each gap.",
+    "items": [
+      {
+        "sentence": "Vervuiling bedreigt de biologische ___ van de zee.",
+        "answer": "diversiteit",
+        "translation_en": "Pollution threatens marine biodiversity.",
+        "translation_es": "La contaminación amenaza la biodiversidad marina."
+      },
+      {
+        "sentence": "___ is een wereldwijd probleem.",
+        "answer": "Ontbossing",
+        "translation_en": "Deforestation is a global problem.",
+        "translation_es": "La deforestación es un problema mundial."
+      },
+      {
+        "sentence": "Elk dier heeft zijn eigen ___ .",
+        "answer": "leefgebied",
+        "translation_en": "Every animal has its own habitat.",
+        "translation_es": "Cada animal tiene su propio hábitat."
+      },
+      {
+        "sentence": "Zure regen veroorzaakte ___ van de bodem.",
+        "answer": "erosie",
+        "translation_en": "Acid rain caused soil erosion.",
+        "translation_es": "La lluvia ácida causó la erosión del suelo."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "De regering probeerde de economische crisis te ___ .",
+        "answer": "verzachten",
+        "translation_en": "The government tried to mitigate the economic crisis.",
+        "translation_es": "El gobierno intentó mitigar la crisis económica."
+      },
+      {
+        "sentence": "We moeten wetenschappelijk onderzoek ___ .",
+        "answer": "steunen",
+        "translation_en": "We must support scientific research.",
+        "translation_es": "Debemos apoyar la investigación científica."
+      },
+      {
+        "sentence": "Het bedrijf wilde zijn procedures ___ .",
+        "answer": "stroomlijnen",
+        "translation_en": "The company wanted to streamline its procedures.",
+        "translation_es": "La empresa quería simplificar sus procedimientos."
+      },
+      {
+        "sentence": "Uit deze gegevens kan men de resultaten ___ .",
+        "answer": "extrapoleren",
+        "translation_en": "One can extrapolate the results from this data.",
+        "translation_es": "Se pueden extrapolar los resultados de estos datos."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "De spreker gebruikte effectieve ___ .",
+        "answer": "retoriek",
+        "translation_en": "The speaker used effective rhetoric.",
+        "translation_es": "El orador usó una retórica eficaz."
+      },
+      {
+        "sentence": "Het analyseren van politiek ___ is belangrijk.",
+        "answer": "discours",
+        "translation_en": "Analysing political discourse is important.",
+        "translation_es": "Analizar el discurso político es importante."
+      },
+      {
+        "sentence": "Het is niet genoeg dat een idee juist is, het moet ___ zijn.",
+        "answer": "overtuigend",
+        "translation_en": "It is not enough for an idea to be right; it must be convincing.",
+        "translation_es": "No basta con que una idea sea correcta; debe ser convincente."
+      },
+      {
+        "sentence": "In wetenschappelijke teksten moet men ___ vermijden.",
+        "answer": "dubbelzinnigheid",
+        "translation_en": "In scientific texts one should avoid ambiguity.",
+        "translation_es": "En los textos científicos se debe evitar la ambigüedad."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct formal connector into each gap.",
+    "items": [
+      {
+        "sentence": "___ zijn de resultaten onvoldoende.",
+        "answer": "Bovendien",
+        "translation_en": "Moreover, the results are insufficient.",
+        "translation_es": "Además, los resultados son insuficientes."
+      },
+      {
+        "sentence": "___ de moeilijke omstandigheden voltooide hij het onderzoek.",
+        "answer": "Ondanks",
+        "translation_en": "Despite the difficult circumstances, he completed the research.",
+        "translation_es": "A pesar de las circunstancias difíciles, completó la investigación."
+      },
+      {
+        "sentence": "De kosten zijn hoog; ___ zijn de voordelen groter.",
+        "answer": "toch",
+        "translation_en": "The costs are high; nevertheless, the benefits are greater.",
+        "translation_es": "Los costes son altos; sin embargo, los beneficios son mayores."
+      },
+      {
+        "sentence": "___ de gegevens lijkt de trend duidelijk.",
+        "answer": "Gezien",
+        "translation_en": "Considering the data, the trend seems clear.",
+        "translation_es": "Considerando los datos, la tendencia parece clara."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "Algoritmes wekken zorgen over ___ .",
+        "answer": "privacy",
+        "translation_en": "Algorithms raise concerns about privacy.",
+        "translation_es": "Los algoritmos suscitan preocupación por la privacidad."
+      },
+      {
+        "sentence": "Het systeem heeft sterke ___ van de data nodig.",
+        "answer": "versleuteling",
+        "translation_en": "The system needs strong encryption of the data.",
+        "translation_es": "El sistema necesita un cifrado fuerte de los datos."
+      },
+      {
+        "sentence": "Bedrijven ___ gegevens van gebruikers.",
+        "answer": "verzamelen",
+        "translation_en": "Companies collect users' data.",
+        "translation_es": "Las empresas recopilan datos de los usuarios."
+      },
+      {
+        "sentence": "___ intelligentie verandert de arbeidsmarkt.",
+        "answer": "Kunstmatige",
+        "translation_en": "Artificial intelligence is changing the labour market.",
+        "translation_es": "La inteligencia artificial está cambiando el mercado laboral."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct philosophical term into each gap.",
+    "items": [
+      {
+        "sentence": "Bewustzijn blijft een ___ voor de moderne wetenschap.",
+        "answer": "paradox",
+        "translation_en": "Consciousness remains a paradox for modern science.",
+        "translation_es": "La conciencia sigue siendo una paradoja para la ciencia moderna."
+      },
+      {
+        "sentence": "Sommige filosofen verdedigen het ___ van de ziel.",
+        "answer": "bestaan",
+        "translation_en": "Some philosophers defend the existence of the soul.",
+        "translation_es": "Algunos filósofos defienden la existencia del alma."
+      },
+      {
+        "sentence": "Persoonlijke ___ verandert in de loop van de tijd.",
+        "answer": "identiteit",
+        "translation_en": "Personal identity changes over time.",
+        "translation_es": "La identidad personal cambia con el tiempo."
+      },
+      {
+        "sentence": "Eerlijk ___ is het kenmerk van serieus denken.",
+        "answer": "scepticisme",
+        "translation_en": "Honest scepticism is the mark of serious thinking.",
+        "translation_es": "El escepticismo honesto es señal de pensamiento serio."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Producten moeten lang ___ .",
+        "answer": "meegaan",
+        "translation_en": "Products should last long.",
+        "translation_es": "Los productos deben durar mucho."
+      },
+      {
+        "sentence": "Zo kan de koolstofuitstoot worden ___ .",
+        "answer": "verminderd",
+        "translation_en": "In this way carbon emissions can be reduced.",
+        "translation_es": "De este modo se pueden reducir las emisiones de carbono."
+      },
+      {
+        "sentence": "Zonder overheidssteun kan het idee een slogan ___ .",
+        "answer": "blijven",
+        "translation_en": "Without government support the idea may remain a slogan.",
+        "translation_es": "Sin apoyo gubernamental la idea puede quedarse en un mero eslogan."
+      },
+      {
+        "sentence": "De lineaire economie tast de ___ aan waarvan ze afhankelijk is.",
+        "answer": "ecosystemen",
+        "translation_en": "The linear economy damages the ecosystems it depends on.",
+        "translation_es": "La economía lineal daña los ecosistemas de los que depende."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Hij ___ zijn mening duidelijk.",
+        "answer": "verwoordde",
+        "translation_en": "He articulated his opinion clearly.",
+        "translation_es": "Articuló claramente su opinión."
+      },
+      {
+        "sentence": "Hij probeerde de regels te ___ .",
+        "answer": "omzeilen",
+        "translation_en": "He tried to circumvent the rules.",
+        "translation_es": "Intentó eludir las reglas."
+      },
+      {
+        "sentence": "Het bedrijf ___ zijn positie.",
+        "answer": "consolideerde",
+        "translation_en": "The company consolidated its position.",
+        "translation_es": "La empresa consolidó su posición."
+      },
+      {
+        "sentence": "De situatie ___ verder.",
+        "answer": "verslechterde",
+        "translation_en": "The situation deteriorated further.",
+        "translation_es": "La situación empeoró aún más."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct formal adjective into each gap.",
+    "items": [
+      {
+        "sentence": "Dit idee is vandaag heel ___ .",
+        "answer": "gangbaar",
+        "translation_en": "This idea is very prevalent today.",
+        "translation_es": "Esta idea está muy extendida hoy."
+      },
+      {
+        "sentence": "Deze stof is ___ voor de gezondheid.",
+        "answer": "schadelijk",
+        "translation_en": "This substance is detrimental to health.",
+        "translation_es": "Esta sustancia es perjudicial para la salud."
+      },
+      {
+        "sentence": "Dit doel is volledig ___ .",
+        "answer": "haalbaar",
+        "translation_en": "This goal is entirely feasible.",
+        "translation_es": "Este objetivo es totalmente factible."
+      },
+      {
+        "sentence": "Succes is ___ .",
+        "answer": "relatief",
+        "translation_en": "Success is relative.",
+        "translation_es": "El éxito es relativo."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "De ___ beschermt de grondrechten van burgers.",
+        "answer": "grondwet",
+        "translation_en": "The constitution protects the fundamental rights of citizens.",
+        "translation_es": "La constitución protege los derechos fundamentales de los ciudadanos."
+      },
+      {
+        "sentence": "Het ___ maakt nieuwe wetten.",
+        "answer": "parlement",
+        "translation_en": "The parliament makes new laws.",
+        "translation_es": "El parlamento aprueba nuevas leyes."
+      },
+      {
+        "sentence": "De minister is ___ voor de uitvoering van wetten.",
+        "answer": "verantwoordelijk",
+        "translation_en": "The minister is responsible for implementing laws.",
+        "translation_es": "El ministro es responsable de aplicar las leyes."
+      },
+      {
+        "sentence": "De rechter spreekt een ___ uit.",
+        "answer": "vonnis",
+        "translation_en": "The judge pronounces a verdict.",
+        "translation_es": "El juez emite un veredicto."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {
+        "sentence": "Sociale media kunnen valse informatie ___ .",
+        "answer": "verspreiden",
+        "translation_en": "Social media can spread false information.",
+        "translation_es": "Las redes sociales pueden difundir información falsa."
+      },
+      {
+        "sentence": "Gebruikers zien alleen meningen waar ze het mee ___ zijn.",
+        "answer": "eens",
+        "translation_en": "Users see only opinions they agree with.",
+        "translation_es": "Los usuarios solo ven las opiniones con las que están de acuerdo."
+      },
+      {
+        "sentence": "Dit vereist kritisch ___ .",
+        "answer": "denken",
+        "translation_en": "This requires critical thinking.",
+        "translation_es": "Esto requiere pensamiento crítico."
+      },
+      {
+        "sentence": "Een gezonde democratie hangt af van geverifieerde ___ .",
+        "answer": "feiten",
+        "translation_en": "A healthy democracy depends on verified facts.",
+        "translation_es": "Una democracia sana depende de hechos verificados."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Ik denk dat hij morgen ___ .",
+        "answer": "komt",
+        "translation_en": "I think that he comes tomorrow.",
+        "translation_es": "Creo que él viene mañana."
+      },
+      {
+        "sentence": "Ik weet dat zij in Amsterdam ___ .",
+        "answer": "woont",
+        "translation_en": "I know that she lives in Amsterdam.",
+        "translation_es": "Sé que ella vive en Ámsterdam."
+      },
+      {
+        "sentence": "Hij zei dat hij het boek ___ .",
+        "answer": "las",
+        "translation_en": "He said that he was reading the book.",
+        "translation_es": "Dijo que estaba leyendo el libro."
+      },
+      {
+        "sentence": "We hopen dat jullie ___ .",
+        "answer": "komen",
+        "translation_en": "We hope that you come.",
+        "translation_es": "Esperamos que vengáis."
+      }
+    ]
+  }
+]
