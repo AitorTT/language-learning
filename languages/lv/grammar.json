@@ -1,0 +1,2452 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Latvian alphabet",
+    "description": "Latvian uses the Latin alphabet with macrons and diacritics.",
+    "columns": [
+      "Feature",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ā, ē, ī, ū",
+        "māja, tēvs",
+        "long vowels",
+        "vocales largas"
+      ],
+      [
+        "č, š, ž",
+        "čaula, šeit, žurka",
+        "like 'ch', 'sh', 'zh'",
+        "como 'ch', 'sh', 'zh'"
+      ],
+      [
+        "ģ, ķ, ļ, ņ",
+        "ģimene, ķis",
+        "palatalised consonants",
+        "consonantes palatalizadas"
+      ],
+      [
+        "stress",
+        "pirmais syllable",
+        "stress is almost always first",
+        "el acento suele ser el primero"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "There is no polite form distinct from jūs.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "es",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "tu",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing. m.",
+        "viņš",
+        "he",
+        "él"
+      ],
+      [
+        "3rd sing. f.",
+        "viņa",
+        "she",
+        "ella"
+      ],
+      [
+        "1st plur.",
+        "mēs",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "jūs",
+        "you (also polite)",
+        "vosotros / usted"
+      ],
+      [
+        "3rd plur.",
+        "viņi / viņas",
+        "they",
+        "ellos / ellas"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "būt (to be)",
+    "description": "The verb changes for person.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "es esmu",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "you are",
+        "tu esi",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "he is",
+        "viņš ir",
+        "he is",
+        "él es"
+      ],
+      [
+        "we are",
+        "mēs esam",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "they are",
+        "viņi ir",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Possession: man ir",
+    "description": "Latvian has no verb 'to have'; it uses 'at me is'.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "man ir",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "you have",
+        "tev ir",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "he has",
+        "viņam ir",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "we have",
+        "mums ir",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "they have",
+        "viņiem ir",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Noun gender",
+    "description": "Nouns are masculine or feminine.",
+    "columns": [
+      "Gender",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "nams",
+        "house",
+        "casa"
+      ],
+      [
+        "feminine",
+        "māja",
+        "house",
+        "casa"
+      ],
+      [
+        "masculine",
+        "galds",
+        "table",
+        "mesa"
+      ],
+      [
+        "feminine",
+        "grāmata",
+        "book",
+        "libro"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "The ending shows gender in the plural too.",
+    "columns": [
+      "Type",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -s to -i",
+        "nams → nami",
+        "house → houses",
+        "casa → casas"
+      ],
+      [
+        "fem. -a to -as",
+        "māja → mājas",
+        "house → houses",
+        "casa → casas"
+      ],
+      [
+        "masc. -s to -i",
+        "galds → galdi",
+        "table → tables",
+        "mesa → mesas"
+      ],
+      [
+        "fem. -e to -es",
+        "puķe → puķes",
+        "flower → flowers",
+        "flor → flores"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective agrees with the noun in gender and number.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. sing.",
+        "liels nams",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "fem. sing.",
+        "liela māja",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "masc. plur.",
+        "lieli nami",
+        "big houses",
+        "casas grandes"
+      ],
+      [
+        "fem. plur.",
+        "lielas mājas",
+        "big houses",
+        "casas grandes"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The 3rd person has one form for singular and plural.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "es runāju",
+        "I speak",
+        "yo hablo"
+      ],
+      [
+        "you speak",
+        "tu runā",
+        "you speak",
+        "tú hablas"
+      ],
+      [
+        "he speaks",
+        "viņš runā",
+        "he speaks",
+        "él habla"
+      ],
+      [
+        "we speak",
+        "mēs runājam",
+        "we speak",
+        "nosotros hablamos"
+      ],
+      [
+        "they speak",
+        "viņi runā",
+        "they speak",
+        "ellos hablan"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Negation",
+    "description": "ne- is added to the front of the verb.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "es nerunāju",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "es neko nesaku",
+        "I say nothing",
+        "no digo nada"
+      ],
+      [
+        "never",
+        "es nekad nenāku",
+        "I never come",
+        "nunca vengo"
+      ],
+      [
+        "nobody",
+        "es nevienu neredzu",
+        "I see nobody",
+        "no veo a nadie"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "kas",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "kas",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "kur",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "kad",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "kāpēc",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "kā",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers agree with the noun.",
+    "columns": [
+      "Number",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "viens",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "divi",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "trīs",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "četri",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "pieci",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "seši",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "septiņi",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "astoņi",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "deviņi",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "desmit",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are written with a small letter.",
+    "columns": [
+      "Day",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "svētdiena",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "pirmdiena",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "otrdiena",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "trešdiena",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "ceturtdiena",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "piektdiena",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "sestdiena",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Colour",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "sarkans",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "zils",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "zaļš",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "melns",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "balts",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "dzeltens",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "The accusative case",
+    "description": "The accusative marks the direct object.",
+    "columns": [
+      "Type",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -s to -u",
+        "nams → namu",
+        "house (object)",
+        "casa (objeto)"
+      ],
+      [
+        "fem. -a to -u",
+        "māja → māju",
+        "house (object)",
+        "casa (objeto)"
+      ],
+      [
+        "masc. -s to -u",
+        "galds → galdu",
+        "table (object)",
+        "mesa (objeto)"
+      ],
+      [
+        "fem. -e to -i",
+        "puķe → puķi",
+        "flower (object)",
+        "flor (objeto)"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "The genitive case",
+    "description": "The genitive shows possession.",
+    "columns": [
+      "Type",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -s to -a",
+        "nams → nama",
+        "of the house",
+        "de la casa"
+      ],
+      [
+        "fem. -a to -as",
+        "māja → mājas",
+        "of the house",
+        "de la casa"
+      ],
+      [
+        "masc. -s to -a",
+        "galds → galda",
+        "of the table",
+        "de la mesa"
+      ],
+      [
+        "fem. -e to -es",
+        "puķe → puķes",
+        "of the flower",
+        "de la flor"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "The locative case",
+    "description": "The locative means 'in' or 'at'.",
+    "columns": [
+      "Type",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -s to -ā",
+        "nams → namā",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "fem. -a to -ā",
+        "māja → mājā",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "masc. -s to -ā",
+        "galds → galdā",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "fem. -e to -ē",
+        "puķe → puķē",
+        "in the flower",
+        "en la flor"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "These agree with the noun.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (masc.)",
+        "mans",
+        "my",
+        "mi"
+      ],
+      [
+        "my (fem.)",
+        "mana",
+        "my",
+        "mi"
+      ],
+      [
+        "your (masc.)",
+        "tavs",
+        "your",
+        "tu"
+      ],
+      [
+        "your (fem.)",
+        "tava",
+        "your",
+        "tu"
+      ],
+      [
+        "our",
+        "mūsu",
+        "our",
+        "nuestro"
+      ],
+      [
+        "their",
+        "viņu",
+        "their",
+        "su"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "māte",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "tēvs",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "brālis",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "māsa",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "dēls",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "meita",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "The past ends in -u, -i, -a for the persons.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I was",
+        "es biju",
+        "I was",
+        "yo era"
+      ],
+      [
+        "you were",
+        "tu biji",
+        "you were",
+        "tú eras"
+      ],
+      [
+        "he was",
+        "viņš bija",
+        "he was",
+        "él era"
+      ],
+      [
+        "we were",
+        "mēs bijām",
+        "we were",
+        "nosotros éramos"
+      ],
+      [
+        "they were",
+        "viņi bija",
+        "they were",
+        "ellos eran"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future tense",
+    "description": "The future adds -s- to the stem.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will be",
+        "es būšu",
+        "I will be",
+        "yo seré"
+      ],
+      [
+        "you will be",
+        "tu būsi",
+        "you will be",
+        "tú serás"
+      ],
+      [
+        "he will be",
+        "viņš būs",
+        "he will be",
+        "él será"
+      ],
+      [
+        "we will be",
+        "mēs būsim",
+        "we will be",
+        "nosotros seremos"
+      ],
+      [
+        "they will be",
+        "viņi būs",
+        "they will be",
+        "ellos serán"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "Commands use the bare stem or -i.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait!",
+        "pagaidi",
+        "wait!",
+        "¡espera!"
+      ],
+      [
+        "read!",
+        "lasi",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "come!",
+        "nāc",
+        "come!",
+        "¡ven!"
+      ],
+      [
+        "close!",
+        "aizver",
+        "close!",
+        "¡cierra!"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "The comparative adds -āk-.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "lielāks",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "lielāks par",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "labāks",
+        "better",
+        "mejor"
+      ],
+      [
+        "smaller",
+        "mazāks",
+        "smaller",
+        "más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The superlative",
+    "description": "The superlative adds vis- before the comparative.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "vislielākais",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "vislabākais",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the most interesting",
+        "visinteresantākais",
+        "the most interesting",
+        "el más interesante"
+      ],
+      [
+        "the smallest",
+        "vismazākais",
+        "the smallest",
+        "el más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "The dative case",
+    "description": "The dative marks the indirect object.",
+    "columns": [
+      "Type",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -s to -am",
+        "draugs → draugam",
+        "friend → to a friend",
+        "amigo → a un amigo"
+      ],
+      [
+        "fem. -a to -ai",
+        "māsa → māsai",
+        "sister → to sister",
+        "hermana → a la hermana"
+      ],
+      [
+        "masc. -s to -am",
+        "tēvs → tēvam",
+        "father → to father",
+        "padre → al padre"
+      ],
+      [
+        "fem. -e to -ei",
+        "māte → mātei",
+        "mother → to mother",
+        "madre → a la madre"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "The instrumental",
+    "description": "Latvian uses ar plus the accusative.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "with a knife",
+        "ar nazi",
+        "with a knife",
+        "con un cuchillo"
+      ],
+      [
+        "by bus",
+        "ar autobusu",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "with a spoon",
+        "ar karoti",
+        "with a spoon",
+        "con una cuchara"
+      ],
+      [
+        "with a friend",
+        "ar draugu",
+        "with a friend",
+        "con un amigo"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "Reflexive verbs end in -os or -ies.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I get up",
+        "es ceļos",
+        "I get up",
+        "me levanto"
+      ],
+      [
+        "you get up",
+        "tu ceļies",
+        "you get up",
+        "te levantas"
+      ],
+      [
+        "he gets up",
+        "viņš ceļas",
+        "he gets up",
+        "él se levanta"
+      ],
+      [
+        "we get up",
+        "mēs ceļamies",
+        "we get up",
+        "nosotros nos levantamos"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "vienmēr",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "bieži",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "dažreiz",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "reti",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "nekad",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "Teens end in -padsmit; tens in -desmit.",
+    "columns": [
+      "Number",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "vienpadsmit",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "divpadsmit",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "divdesmit",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "trīsdesmit",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "100",
+        "simts",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "pirmais",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "otrais",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "trešais",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "pēdējais",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Latvian counts towards the next hour for the half.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "pulkstenis viens",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "pulksten septiņi",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "pusastoņi",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "ceturtdaļa pāri septiņiem",
+        "quarter past seven",
+        "las siete y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Months",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Month",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "janvāris",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "marts",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "jūnijs",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "septembris",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "decembris",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Prepositions",
+    "description": "Prepositions govern the genitive or accusative.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "uz galda",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "zem galda",
+        "under the table",
+        "bajo la mesa"
+      ],
+      [
+        "behind",
+        "aiz mājas",
+        "behind the house",
+        "detrás de la casa"
+      ],
+      [
+        "by",
+        "pie mājas",
+        "by the house",
+        "junto a la casa"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather often uses impersonal forms.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "līst lietus",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "ir karsts",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "ir auksts",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "ir saulains",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use ar plus the accusative.",
+    "columns": [
+      "Means",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "ar autobusu",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "ar vilcienu",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "ar lidmašīnu",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "kājām",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional adds -tu to the stem.",
+    "columns": [
+      "Person",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I would travel",
+        "es ceļotu",
+        "I would travel",
+        "yo viajaría"
+      ],
+      [
+        "you would go",
+        "tu ietu",
+        "you would go",
+        "tú irías"
+      ],
+      [
+        "he would do",
+        "viņš darītu",
+        "he would do",
+        "él haría"
+      ],
+      [
+        "we would buy",
+        "mēs pirktu",
+        "we would buy",
+        "nosotros compraríamos"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive",
+    "description": "The passive uses tikt plus a participle.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "tika uzcelta",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "was read",
+        "tika lasīta",
+        "was read",
+        "fue leído"
+      ],
+      [
+        "was sent",
+        "tika nosūtīta",
+        "was sent",
+        "fue enviado"
+      ],
+      [
+        "were closed",
+        "tika aizvērtas",
+        "were closed",
+        "fueron cerradas"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "smiling",
+        "smaidošs",
+        "smiling",
+        "sonriente"
+      ],
+      [
+        "written",
+        "uzrakstīts",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "noguris",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "aizvērts",
+        "closed",
+        "cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "The relative word agrees with its noun.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who / that",
+        "kas",
+        "who / that",
+        "que"
+      ],
+      [
+        "which (fem.)",
+        "kura",
+        "which",
+        "que"
+      ],
+      [
+        "which (masc. plur.)",
+        "kuri",
+        "which",
+        "que"
+      ],
+      [
+        "where",
+        "kur",
+        "where",
+        "donde"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "ka introduces a reported clause.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "ka",
+        "that",
+        "que"
+      ],
+      [
+        "what",
+        "ko",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "kur",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "kad",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbal nouns end in -šana.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "lasīšana",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "mācīšanās",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "decision",
+        "lēmums",
+        "decision",
+        "decisión"
+      ],
+      [
+        "swimming",
+        "peldēšana",
+        "swimming",
+        "natación"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb prefixes",
+    "description": "Prefixes change the direction or aspect of a verb.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to enter",
+        "ienākt",
+        "to come in",
+        "entrar"
+      ],
+      [
+        "to leave",
+        "iziet",
+        "to go out",
+        "salir"
+      ],
+      [
+        "to read through",
+        "izlasīt",
+        "to read completely",
+        "leer del todo"
+      ],
+      [
+        "to write down",
+        "pierakstīt",
+        "to write down",
+        "anotar"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order",
+    "description": "Word order is flexible because cases mark the roles.",
+    "columns": [
+      "Type",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "basic",
+        "es lasu grāmatu",
+        "I read a book",
+        "leo un libro"
+      ],
+      [
+        "emphatic",
+        "grāmatu es lasu",
+        "it is the book I read",
+        "el libro lo leo yo"
+      ],
+      [
+        "question",
+        "vai tu lasi?",
+        "do you read?",
+        "¿lees?"
+      ],
+      [
+        "negation",
+        "es nelasu",
+        "I do not read",
+        "no leo"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "bet",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "jo",
+        "because",
+        "porque"
+      ],
+      [
+        "therefore",
+        "tāpēc",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "although",
+        "lai gan",
+        "although",
+        "aunque"
+      ],
+      [
+        "moreover",
+        "turklāt",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "ārstēšana",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "simptoms",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "recepte",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "vakcīna",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "apdrošināšana",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "sapulce",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "līgums",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "alga",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kolēģis",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "termiņš",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "skola",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "universitāte",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "eksāmens",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "zināšanas",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "prasme",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "ierašanās",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "pētniecība",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "sadarbība",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "ražošana",
+        "production",
+        "producción"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metodoloģija",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "korelācija",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "mainīgais",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empīrisks",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "kvantitatīvs",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "inflācija",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "bankrots",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "subsīdija",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "ieņēmumi",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "ieguldījums",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "konstitūcija",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlaments",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "spriedums",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "prasītājs",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "atbildētājs",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "ētika",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "morāle",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "godīgums",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "atbildība",
+        "responsibility",
+        "responsabilidad"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "apziņa",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "eksistence",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identitāte",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradokss",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilemma",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnoze",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "terapija",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "hronisks",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "infekcija",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "imūns",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekula",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atoms",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "gravitācija",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "šūna",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "eksperiments",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Latvian.",
+    "columns": [
+      "Connector",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "turklāt",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "tomēr",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "tāpēc",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "pirmkārt",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "neraugoties uz to",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "pieņemt lēmumu",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "pievērst uzmanību",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "spēlēt lomu",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "izdarīt secinājumu",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "kalpot ilgi",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "labot",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "pārstrādāt",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "oglekļa emisijas",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "ilgtspējīgs",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Latvian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retorika",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskurss",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "divdomība",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "vienprātība",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "arguments",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]

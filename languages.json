@@ -298,5 +298,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "lv",
+    "name": "Latvian",
+    "flag": "🇱🇻",
+    "speech": "lv-LV",
+    "termLabel": "Latvian",
+    "termField": "latvian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

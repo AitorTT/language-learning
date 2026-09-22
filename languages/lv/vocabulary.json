@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "latvian": "sveiki",
+    "english": "hello",
+    "spanish": "hola",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "latvian": "uz redzēšanos",
+    "english": "goodbye",
+    "spanish": "adiós",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "latvian": "labrīt",
+    "english": "good morning",
+    "spanish": "buenos días",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "latvian": "ar labu nakti",
+    "english": "good night",
+    "spanish": "buenas noches",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "latvian": "paldies",
+    "english": "thank you",
+    "spanish": "gracias",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "latvian": "lūdzu",
+    "english": "please",
+    "spanish": "por favor",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "latvian": "atvainojiet",
+    "english": "sorry",
+    "spanish": "lo siento / perdón",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "latvian": "jā",
+    "english": "yes",
+    "spanish": "sí",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "latvian": "nē",
+    "english": "no",
+    "spanish": "no",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "latvian": "kā jums klājas?",
+    "english": "how are you?",
+    "spanish": "¿cómo estás?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "latvian": "ūdens",
+    "english": "water",
+    "spanish": "agua",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "latvian": "maize",
+    "english": "bread",
+    "spanish": "pan",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "latvian": "piens",
+    "english": "milk",
+    "spanish": "leche",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "latvian": "kafija",
+    "english": "coffee",
+    "spanish": "café",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "latvian": "ābols",
+    "english": "apple",
+    "spanish": "manzana",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "latvian": "māja",
+    "english": "house",
+    "spanish": "casa",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "latvian": "kaķis",
+    "english": "cat",
+    "spanish": "gato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "latvian": "suns",
+    "english": "dog",
+    "spanish": "perro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "latvian": "māte",
+    "english": "mother",
+    "spanish": "madre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "latvian": "tēvs",
+    "english": "father",
+    "spanish": "padre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "latvian": "ģimene",
+    "english": "family",
+    "spanish": "familia",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "latvian": "draugs",
+    "english": "friend",
+    "spanish": "amigo",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "latvian": "būt",
+    "english": "to be",
+    "spanish": "ser / estar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "latvian": "piederēt",
+    "english": "to have",
+    "spanish": "tener",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "latvian": "iet",
+    "english": "to go",
+    "spanish": "ir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "latvian": "ēst",
+    "english": "to eat",
+    "spanish": "comer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "latvian": "dzert",
+    "english": "to drink",
+    "spanish": "beber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "latvian": "labs",
+    "english": "good",
+    "spanish": "bueno",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "latvian": "slikts",
+    "english": "bad",
+    "spanish": "malo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "latvian": "liels",
+    "english": "big",
+    "spanish": "grande",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "latvian": "mazs",
+    "english": "small",
+    "spanish": "pequeño",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "latvian": "dzīvot",
+    "english": "to live",
+    "spanish": "vivir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 33,
+    "latvian": "strādāt",
+    "english": "to work",
+    "spanish": "trabajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 34,
+    "latvian": "pirkt",
+    "english": "to buy",
+    "spanish": "comprar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 35,
+    "latvian": "ceļot",
+    "english": "to travel",
+    "spanish": "viajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 36,
+    "latvian": "gatavot ēst",
+    "english": "to cook",
+    "spanish": "cocinar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 37,
+    "latvian": "mācīties",
+    "english": "to learn",
+    "spanish": "aprender",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 38,
+    "latvian": "drēbes",
+    "english": "clothes",
+    "spanish": "ropa",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 39,
+    "latvian": "kurpes",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 40,
+    "latvian": "mētelis",
+    "english": "coat",
+    "spanish": "abrigo",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 41,
+    "latvian": "virtuve",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 42,
+    "latvian": "vannasistaba",
+    "english": "bathroom",
+    "spanish": "baño",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 43,
+    "latvian": "guļamistaba",
+    "english": "bedroom",
+    "spanish": "dormitorio",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 44,
+    "latvian": "iela",
+    "english": "street",
+    "spanish": "calle",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 45,
+    "latvian": "pilsēta",
+    "english": "city",
+    "spanish": "ciudad",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 46,
+    "latvian": "veikals",
+    "english": "shop",
+    "spanish": "tienda",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 47,
+    "latvian": "stacija",
+    "english": "station",
+    "spanish": "estación",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 48,
+    "latvian": "biļete",
+    "english": "ticket",
+    "spanish": "billete",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 49,
+    "latvian": "koferis",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 50,
+    "latvian": "mašīna",
+    "english": "car",
+    "spanish": "coche",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 51,
+    "latvian": "vilciens",
+    "english": "train",
+    "spanish": "tren",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 52,
+    "latvian": "šodien",
+    "english": "today",
+    "spanish": "hoy",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 53,
+    "latvian": "rīt",
+    "english": "tomorrow",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 54,
+    "latvian": "vakar",
+    "english": "yesterday",
+    "spanish": "ayer",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 55,
+    "latvian": "vienmēr",
+    "english": "always",
+    "spanish": "siempre",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 56,
+    "latvian": "bieži",
+    "english": "often",
+    "spanish": "a menudo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 57,
+    "latvian": "nekad",
+    "english": "never",
+    "spanish": "nunca",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 58,
+    "latvian": "laiks",
+    "english": "weather",
+    "spanish": "tiempo (clima)",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 59,
+    "latvian": "lietus",
+    "english": "rain",
+    "spanish": "lluvia",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 60,
+    "latvian": "saule",
+    "english": "sun",
+    "spanish": "sol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 61,
+    "latvian": "laimīgs",
+    "english": "happy",
+    "spanish": "feliz",
+    "category": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": 62,
+    "latvian": "pieredze",
+    "english": "experience",
+    "spanish": "experiencia",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 63,
+    "latvian": "profesija",
+    "english": "profession",
+    "spanish": "profesión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 64,
+    "latvian": "priekšnieks",
+    "english": "boss",
+    "spanish": "jefe",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 65,
+    "latvian": "sapulce",
+    "english": "meeting",
+    "spanish": "reunión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 66,
+    "latvian": "līgums",
+    "english": "contract",
+    "spanish": "contrato",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 67,
+    "latvian": "alga",
+    "english": "salary",
+    "spanish": "salario",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 68,
+    "latvian": "izglītība",
+    "english": "education",
+    "spanish": "educación",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 69,
+    "latvian": "zināšanas",
+    "english": "knowledge",
+    "spanish": "conocimiento",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 70,
+    "latvian": "prasme",
+    "english": "skill",
+    "spanish": "habilidad",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 71,
+    "latvian": "eksāmens",
+    "english": "exam",
+    "spanish": "examen",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 72,
+    "latvian": "veselība",
+    "english": "health",
+    "spanish": "salud",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 73,
+    "latvian": "slimība",
+    "english": "illness",
+    "spanish": "enfermedad",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 74,
+    "latvian": "ārsts",
+    "english": "doctor",
+    "spanish": "médico",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 75,
+    "latvian": "laime",
+    "english": "happiness",
+    "spanish": "felicidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 76,
+    "latvian": "bailes",
+    "english": "fear",
+    "spanish": "miedo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 77,
+    "latvian": "cerība",
+    "english": "hope",
+    "spanish": "esperanza",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 78,
+    "latvian": "mīlestība",
+    "english": "love",
+    "spanish": "amor",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 79,
+    "latvian": "greizsirdība",
+    "english": "jealousy",
+    "spanish": "celos",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 80,
+    "latvian": "izlemt",
+    "english": "to decide",
+    "spanish": "decidir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 81,
+    "latvian": "izvēlēties",
+    "english": "to choose",
+    "spanish": "elegir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 82,
+    "latvian": "izskaidrot",
+    "english": "to explain",
+    "spanish": "explicar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 83,
+    "latvian": "salīdzināt",
+    "english": "to compare",
+    "spanish": "comparar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 84,
+    "latvian": "sasniegt",
+    "english": "to achieve",
+    "spanish": "lograr",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 85,
+    "latvian": "ieteikt",
+    "english": "to recommend",
+    "spanish": "recomendar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 86,
+    "latvian": "patiesībā",
+    "english": "actually",
+    "spanish": "en realidad",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 87,
+    "latvian": "nekavējoties",
+    "english": "immediately",
+    "spanish": "inmediatamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 88,
+    "latvian": "diemžēl",
+    "english": "unfortunately",
+    "spanish": "desafortunadamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 89,
+    "latvian": "vide",
+    "english": "environment",
+    "spanish": "medio ambiente",
+    "category": "nature",
+    "level": "B1"
+  },
+  {
+    "id": 90,
+    "latvian": "sabiedrība",
+    "english": "society",
+    "spanish": "sociedad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 91,
+    "latvian": "izvēle",
+    "english": "choice",
+    "spanish": "elección",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 92,
+    "latvian": "pārliecība",
+    "english": "belief",
+    "spanish": "convicción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 93,
+    "latvian": "šaubas",
+    "english": "doubt",
+    "spanish": "duda",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "latvian": "parādība",
+    "english": "phenomenon",
+    "spanish": "fenómeno",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "latvian": "risinājums",
+    "english": "solution",
+    "spanish": "solución",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "latvian": "pētniecība",
+    "english": "research",
+    "spanish": "investigación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "latvian": "ietekme",
+    "english": "influence",
+    "spanish": "influencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "latvian": "draudi",
+    "english": "threat",
+    "spanish": "amenaza",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "latvian": "apziņa",
+    "english": "awareness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "latvian": "attīstība",
+    "english": "development",
+    "spanish": "desarrollo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 101,
+    "latvian": "progress",
+    "english": "progress",
+    "spanish": "progreso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 102,
+    "latvian": "sekas",
+    "english": "consequence",
+    "spanish": "consecuencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 103,
+    "latvian": "paredzēt",
+    "english": "to predict",
+    "spanish": "predecir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 104,
+    "latvian": "pieņemt",
+    "english": "to assume",
+    "spanish": "asumir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 105,
+    "latvian": "pierādīt",
+    "english": "to prove",
+    "spanish": "demostrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 106,
+    "latvian": "šaubīties",
+    "english": "to doubt",
+    "spanish": "dudar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 107,
+    "latvian": "risināt sarunas",
+    "english": "to negotiate",
+    "spanish": "negociar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 108,
+    "latvian": "analizēt",
+    "english": "to analyze",
+    "spanish": "analizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 109,
+    "latvian": "novērtēt",
+    "english": "to assess",
+    "spanish": "evaluar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 110,
+    "latvian": "pietiekams",
+    "english": "sufficient",
+    "spanish": "suficiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 111,
+    "latvian": "acīmredzams",
+    "english": "obvious",
+    "spanish": "obvio",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 112,
+    "latvian": "sarežģīts",
+    "english": "complex",
+    "spanish": "complejo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 113,
+    "latvian": "relatīvs",
+    "english": "relative",
+    "spanish": "relativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 114,
+    "latvian": "neatkarīgs",
+    "english": "independent",
+    "spanish": "independiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 115,
+    "latvian": "ilgtspējīgs",
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 116,
+    "latvian": "lai gan",
+    "english": "even though",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 117,
+    "latvian": "tomēr",
+    "english": "however",
+    "spanish": "sin embargo",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 118,
+    "latvian": "turpretim",
+    "english": "whereas",
+    "spanish": "en cambio",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 119,
+    "latvian": "turklāt",
+    "english": "moreover",
+    "spanish": "además",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 120,
+    "latvian": "brīvība",
+    "english": "freedom",
+    "spanish": "libertad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 121,
+    "latvian": "viens",
+    "english": "one",
+    "spanish": "uno",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "latvian": "divi",
+    "english": "two",
+    "spanish": "dos",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "latvian": "trīs",
+    "english": "three",
+    "spanish": "tres",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "latvian": "četri",
+    "english": "four",
+    "spanish": "cuatro",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "latvian": "pieci",
+    "english": "five",
+    "spanish": "cinco",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "latvian": "seši",
+    "english": "six",
+    "spanish": "seis",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "latvian": "septiņi",
+    "english": "seven",
+    "spanish": "siete",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "latvian": "astoņi",
+    "english": "eight",
+    "spanish": "ocho",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "latvian": "deviņi",
+    "english": "nine",
+    "spanish": "nueve",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "latvian": "desmit",
+    "english": "ten",
+    "spanish": "diez",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "latvian": "sarkans",
+    "english": "red",
+    "spanish": "rojo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "latvian": "zils",
+    "english": "blue",
+    "spanish": "azul",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "latvian": "zaļš",
+    "english": "green",
+    "spanish": "verde",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "latvian": "melns",
+    "english": "black",
+    "spanish": "negro",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "latvian": "balts",
+    "english": "white",
+    "spanish": "blanco",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "latvian": "dzeltens",
+    "english": "yellow",
+    "spanish": "amarillo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "latvian": "saulains",
+    "english": "sunny",
+    "spanish": "soleado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "latvian": "lietains",
+    "english": "rainy",
+    "spanish": "lluvioso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "latvian": "mākoņains",
+    "english": "cloudy",
+    "spanish": "nublado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "latvian": "auksts",
+    "english": "cold",
+    "spanish": "frío",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "latvian": "karsts",
+    "english": "hot",
+    "spanish": "caluroso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "latvian": "brālis",
+    "english": "brother",
+    "spanish": "hermano",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "latvian": "māsa",
+    "english": "sister",
+    "spanish": "hermana",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "latvian": "dēls",
+    "english": "son",
+    "spanish": "hijo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "latvian": "meita",
+    "english": "daughter",
+    "spanish": "hija",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "latvian": "skola",
+    "english": "school",
+    "spanish": "escuela",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "latvian": "parks",
+    "english": "park",
+    "spanish": "parque",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "latvian": "pa kreisi",
+    "english": "left",
+    "spanish": "izquierda",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "latvian": "pa labi",
+    "english": "right",
+    "spanish": "derecha",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "latvian": "palīdzība",
+    "english": "help",
+    "spanish": "ayuda",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "latvian": "dārzs",
+    "english": "garden",
+    "spanish": "jardín",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 152,
+    "latvian": "logs",
+    "english": "window",
+    "spanish": "ventana",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 153,
+    "latvian": "durvis",
+    "english": "door",
+    "spanish": "puerta",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 154,
+    "latvian": "krēsls",
+    "english": "chair",
+    "spanish": "silla",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 155,
+    "latvian": "galds",
+    "english": "table",
+    "spanish": "mesa",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 156,
+    "latvian": "grāmata",
+    "english": "book",
+    "spanish": "libro",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 157,
+    "latvian": "pildspalva",
+    "english": "pen",
+    "spanish": "bolígrafo",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 158,
+    "latvian": "lasīt",
+    "english": "to read",
+    "spanish": "leer",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 159,
+    "latvian": "rakstīt",
+    "english": "to write",
+    "spanish": "escribir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 160,
+    "latvian": "runāt",
+    "english": "to speak",
+    "spanish": "hablar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 161,
+    "latvian": "klausīties",
+    "english": "to listen",
+    "spanish": "escuchar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 162,
+    "latvian": "atvērt",
+    "english": "to open",
+    "spanish": "abrir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 163,
+    "latvian": "aizvērt",
+    "english": "to close",
+    "spanish": "cerrar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 164,
+    "latvian": "gulēt",
+    "english": "to sleep",
+    "spanish": "dormir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 165,
+    "latvian": "skriet",
+    "english": "to run",
+    "spanish": "correr",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 166,
+    "latvian": "peldēt",
+    "english": "to swim",
+    "spanish": "nadar",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 167,
+    "latvian": "futbols",
+    "english": "football",
+    "spanish": "fútbol",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 168,
+    "latvian": "mūzika",
+    "english": "music",
+    "spanish": "música",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 169,
+    "latvian": "dziesma",
+    "english": "song",
+    "spanish": "canción",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 170,
+    "latvian": "dziedāt",
+    "english": "to sing",
+    "spanish": "cantar",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 171,
+    "latvian": "ballīte",
+    "english": "party",
+    "spanish": "fiesta",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 172,
+    "latvian": "pludmale",
+    "english": "beach",
+    "spanish": "playa",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 173,
+    "latvian": "kalns",
+    "english": "mountain",
+    "spanish": "montaña",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 174,
+    "latvian": "upe",
+    "english": "river",
+    "spanish": "río",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 175,
+    "latvian": "koks",
+    "english": "tree",
+    "spanish": "árbol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 176,
+    "latvian": "puķe",
+    "english": "flower",
+    "spanish": "flor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 177,
+    "latvian": "debesis",
+    "english": "sky",
+    "spanish": "cielo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 178,
+    "latvian": "noguris",
+    "english": "tired",
+    "spanish": "cansado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 179,
+    "latvian": "dusmīgs",
+    "english": "angry",
+    "spanish": "enfadado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 180,
+    "latvian": "noraizējies",
+    "english": "worried",
+    "spanish": "preocupado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 181,
+    "latvian": "ienākumi",
+    "english": "income",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 182,
+    "latvian": "krāt",
+    "english": "to save",
+    "spanish": "ahorrar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 183,
+    "latvian": "tērēt",
+    "english": "to spend",
+    "spanish": "gastar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 184,
+    "latvian": "parāds",
+    "english": "debt",
+    "spanish": "deuda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 185,
+    "latvian": "cena",
+    "english": "price",
+    "spanish": "precio",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 186,
+    "latvian": "banka",
+    "english": "bank",
+    "spanish": "banco",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 187,
+    "latvian": "nolīgt",
+    "english": "to hire",
+    "spanish": "contratar",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 188,
+    "latvian": "kolēģis",
+    "english": "colleague",
+    "spanish": "colega",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 189,
+    "latvian": "termiņš",
+    "english": "deadline",
+    "spanish": "fecha límite",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 190,
+    "latvian": "karjera",
+    "english": "career",
+    "spanish": "carrera",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 191,
+    "latvian": "uzlabot",
+    "english": "to improve",
+    "spanish": "mejorar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 192,
+    "latvian": "ierosināt",
+    "english": "to suggest",
+    "spanish": "sugerir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 193,
+    "latvian": "izvairīties",
+    "english": "to avoid",
+    "spanish": "evitar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 194,
+    "latvian": "attīstīt",
+    "english": "to develop",
+    "spanish": "desarrollar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 195,
+    "latvian": "atbalstīt",
+    "english": "to support",
+    "spanish": "apoyar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 196,
+    "latvian": "piesārņojums",
+    "english": "pollution",
+    "spanish": "contaminación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 197,
+    "latvian": "klimats",
+    "english": "climate",
+    "spanish": "clima",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 198,
+    "latvian": "pārstrādāt",
+    "english": "to recycle",
+    "spanish": "reciclar",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 199,
+    "latvian": "enerģija",
+    "english": "energy",
+    "spanish": "energía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 200,
+    "latvian": "valdība",
+    "english": "government",
+    "spanish": "gobierno",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 201,
+    "latvian": "likums",
+    "english": "law",
+    "spanish": "ley",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 202,
+    "latvian": "vēlēšanas",
+    "english": "election",
+    "spanish": "elección",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 203,
+    "latvian": "pilsonis",
+    "english": "citizen",
+    "spanish": "ciudadano",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 204,
+    "latvian": "kultūra",
+    "english": "culture",
+    "spanish": "cultura",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 205,
+    "latvian": "zinātne",
+    "english": "science",
+    "spanish": "ciencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 206,
+    "latvian": "eksperiments",
+    "english": "experiment",
+    "spanish": "experimento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 207,
+    "latvian": "pierādījumi",
+    "english": "evidence",
+    "spanish": "evidencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 208,
+    "latvian": "teorija",
+    "english": "theory",
+    "spanish": "teoría",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 209,
+    "latvian": "atklājums",
+    "english": "discovery",
+    "spanish": "descubrimiento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 210,
+    "latvian": "varbūt",
+    "english": "perhaps",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 211,
+    "latvian": "pieņēmums",
+    "english": "assumption",
+    "spanish": "suposición",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 212,
+    "latvian": "strīds",
+    "english": "controversy",
+    "spanish": "controversia",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 213,
+    "latvian": "nevienlīdzība",
+    "english": "inequality",
+    "spanish": "desigualdad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 214,
+    "latvian": "ilgtspēja",
+    "english": "sustainability",
+    "spanish": "sostenibilidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 215,
+    "latvian": "perspektīva",
+    "english": "perspective",
+    "spanish": "perspectiva",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 216,
+    "latvian": "implikācija",
+    "english": "implication",
+    "spanish": "implicación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 217,
+    "latvian": "ierobežojums",
+    "english": "constraint",
+    "spanish": "restricción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 218,
+    "latvian": "stimuls",
+    "english": "incentive",
+    "spanish": "incentivo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 219,
+    "latvian": "ieņēmumi",
+    "english": "revenue",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 220,
+    "latvian": "ieguldījums",
+    "english": "investment",
+    "spanish": "inversión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 221,
+    "latvian": "sarunas",
+    "english": "negotiation",
+    "spanish": "negociación",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 222,
+    "latvian": "efektivitāte",
+    "english": "efficiency",
+    "spanish": "eficiencia",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 223,
+    "latvian": "inovācija",
+    "english": "innovation",
+    "spanish": "innovación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 224,
+    "latvian": "algoritms",
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 225,
+    "latvian": "privātums",
+    "english": "privacy",
+    "spanish": "privacidad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 226,
+    "latvian": "mākslīgais intelekts",
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 227,
+    "latvian": "dati",
+    "english": "data",
+    "spanish": "datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 228,
+    "latvian": "kiberdrošība",
+    "english": "cybersecurity",
+    "spanish": "ciberseguridad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 229,
+    "latvian": "graut",
+    "english": "to undermine",
+    "spanish": "socavar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 230,
+    "latvian": "stiprināt",
+    "english": "to reinforce",
+    "spanish": "reforzar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 231,
+    "latvian": "mazināt",
+    "english": "to mitigate",
+    "spanish": "mitigar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 232,
+    "latvian": "atvieglot",
+    "english": "to facilitate",
+    "spanish": "facilitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 233,
+    "latvian": "atzīt",
+    "english": "to acknowledge",
+    "spanish": "reconocer",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 234,
+    "latvian": "divdomīgs",
+    "english": "ambiguous",
+    "spanish": "ambiguo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 235,
+    "latvian": "īstenojams",
+    "english": "feasible",
+    "spanish": "factible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 236,
+    "latvian": "neizbēgams",
+    "english": "inevitable",
+    "spanish": "inevitable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 237,
+    "latvian": "visaptverošs",
+    "english": "comprehensive",
+    "spanish": "integral",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 238,
+    "latvian": "pārliecinošs",
+    "english": "compelling",
+    "spanish": "convincente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 239,
+    "latvian": "izplatīts",
+    "english": "prevalent",
+    "spanish": "predominante",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 240,
+    "latvian": "kaitīgs",
+    "english": "detrimental",
+    "spanish": "perjudicial",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 241,
+    "latvian": "galva",
+    "english": "head",
+    "spanish": "cabeza",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "latvian": "plauksta",
+    "english": "hand",
+    "spanish": "mano",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "latvian": "pēda",
+    "english": "foot",
+    "spanish": "pie",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "latvian": "acs",
+    "english": "eye",
+    "spanish": "ojo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "latvian": "auss",
+    "english": "ear",
+    "spanish": "oreja",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "latvian": "mute",
+    "english": "mouth",
+    "spanish": "boca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "latvian": "deguns",
+    "english": "nose",
+    "spanish": "nariz",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "latvian": "mati",
+    "english": "hair",
+    "spanish": "pelo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "latvian": "roka",
+    "english": "arm",
+    "spanish": "brazo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "latvian": "kāja",
+    "english": "leg",
+    "spanish": "pierna",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "latvian": "gulta",
+    "english": "bed",
+    "spanish": "cama",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "latvian": "lampa",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "latvian": "atslēga",
+    "english": "key",
+    "spanish": "llave",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "latvian": "siena",
+    "english": "wall",
+    "spanish": "pared",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "latvian": "grīda",
+    "english": "floor",
+    "spanish": "suelo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "latvian": "jumts",
+    "english": "roof",
+    "spanish": "tejado",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "latvian": "ola",
+    "english": "egg",
+    "spanish": "huevo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "latvian": "siers",
+    "english": "cheese",
+    "spanish": "queso",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "latvian": "zivs",
+    "english": "fish",
+    "spanish": "pescado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "latvian": "gaļa",
+    "english": "meat",
+    "spanish": "carne",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "latvian": "zupa",
+    "english": "soup",
+    "spanish": "sopa",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "latvian": "salāti",
+    "english": "salad",
+    "spanish": "ensalada",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "latvian": "cukurs",
+    "english": "sugar",
+    "spanish": "azúcar",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "latvian": "sāls",
+    "english": "salt",
+    "spanish": "sal",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "latvian": "jauns",
+    "english": "new",
+    "spanish": "nuevo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "latvian": "vecs",
+    "english": "old",
+    "spanish": "viejo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "latvian": "jauns",
+    "english": "young",
+    "spanish": "joven",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "latvian": "garš",
+    "english": "long",
+    "spanish": "largo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "latvian": "īss",
+    "english": "short",
+    "spanish": "corto",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "latvian": "lēns",
+    "english": "slow",
+    "spanish": "lento",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "latvian": "pamosties",
+    "english": "to wake up",
+    "spanish": "despertarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "latvian": "piecelties",
+    "english": "to get up",
+    "spanish": "levantarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "latvian": "mazgāt",
+    "english": "to wash",
+    "spanish": "lavarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "latvian": "ģērbties",
+    "english": "to dress",
+    "spanish": "vestirse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "latvian": "atpūsties",
+    "english": "to rest",
+    "spanish": "descansar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "latvian": "sākt",
+    "english": "to start",
+    "spanish": "empezar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "latvian": "pabeigt",
+    "english": "to finish",
+    "spanish": "terminar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "latvian": "mēģināt",
+    "english": "to try",
+    "spanish": "intentar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "latvian": "autobuss",
+    "english": "bus",
+    "spanish": "autobús",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "latvian": "velosipēds",
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "latvian": "lidmašīna",
+    "english": "plane",
+    "spanish": "avión",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "latvian": "laiva",
+    "english": "boat",
+    "spanish": "barco",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "latvian": "lidosta",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "latvian": "ceļš",
+    "english": "road",
+    "spanish": "carretera",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "latvian": "pase",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "latvian": "tūrists",
+    "english": "tourist",
+    "spanish": "turista",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "latvian": "gids",
+    "english": "guide",
+    "spanish": "guía",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "latvian": "atvaļinājums",
+    "english": "holiday",
+    "spanish": "vacaciones",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "latvian": "garlaikots",
+    "english": "bored",
+    "spanish": "aburrido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "latvian": "satraukts",
+    "english": "excited",
+    "spanish": "emocionado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "latvian": "pārsteigts",
+    "english": "surprised",
+    "spanish": "sorprendido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "latvian": "nervozs",
+    "english": "nervous",
+    "spanish": "nervioso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "latvian": "lepns",
+    "english": "proud",
+    "spanish": "orgulloso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "latvian": "mierīgs",
+    "english": "calm",
+    "spanish": "tranquilo",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "latvian": "tirgus",
+    "english": "market",
+    "spanish": "mercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "latvian": "lielveikals",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "latvian": "karte",
+    "english": "card",
+    "spanish": "tarjeta",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "latvian": "skaidra nauda",
+    "english": "cash",
+    "spanish": "efectivo",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "latvian": "atlaide",
+    "english": "discount",
+    "spanish": "descuento",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "latvian": "izmērs",
+    "english": "size",
+    "spanish": "talla",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "latvian": "darbinieks",
+    "english": "employee",
+    "spanish": "empleado",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 302,
+    "latvian": "darba devējs",
+    "english": "employer",
+    "spanish": "empleador",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 303,
+    "latvian": "intervija",
+    "english": "interview",
+    "spanish": "entrevista",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "latvian": "CV",
+    "english": "resume",
+    "spanish": "currículum",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "latvian": "paaugstinājums",
+    "english": "promotion",
+    "spanish": "ascenso",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "latvian": "uzdevums",
+    "english": "task",
+    "spanish": "tarea",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "latvian": "projekts",
+    "english": "project",
+    "spanish": "proyecto",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "latvian": "komanda",
+    "english": "team",
+    "spanish": "equipo",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "latvian": "vadītājs",
+    "english": "manager",
+    "spanish": "gerente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "latvian": "apmācība",
+    "english": "training",
+    "spanish": "formación",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "latvian": "tradīcija",
+    "english": "tradition",
+    "spanish": "tradición",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "latvian": "reliģija",
+    "english": "religion",
+    "spanish": "religión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "latvian": "mediji",
+    "english": "media",
+    "spanish": "medios de comunicación",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "latvian": "ziņas",
+    "english": "news",
+    "spanish": "noticias",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "latvian": "žurnālists",
+    "english": "journalist",
+    "spanish": "periodista",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "latvian": "viedoklis",
+    "english": "opinion",
+    "spanish": "opinión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "latvian": "protests",
+    "english": "protest",
+    "spanish": "protesta",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "latvian": "balss",
+    "english": "vote",
+    "spanish": "voto",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "latvian": "atkritumi",
+    "english": "waste",
+    "spanish": "residuos",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "latvian": "mežs",
+    "english": "forest",
+    "spanish": "bosque",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "latvian": "okeāns",
+    "english": "ocean",
+    "spanish": "océano",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "latvian": "plūdi",
+    "english": "flood",
+    "spanish": "inundación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "latvian": "sausums",
+    "english": "drought",
+    "spanish": "sequía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "latvian": "suga",
+    "english": "species",
+    "spanish": "especie",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "latvian": "ārstēšana",
+    "english": "treatment",
+    "spanish": "tratamiento",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "latvian": "simptoms",
+    "english": "symptom",
+    "spanish": "síntoma",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "latvian": "recepte",
+    "english": "prescription",
+    "spanish": "receta médica",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "latvian": "apdrošināšana",
+    "english": "insurance",
+    "spanish": "seguro",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 329,
+    "latvian": "diēta",
+    "english": "diet",
+    "spanish": "dieta",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 330,
+    "latvian": "stress",
+    "english": "stress",
+    "spanish": "estrés",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 331,
+    "latvian": "programmatūra",
+    "english": "software",
+    "spanish": "software",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "latvian": "aparatūra",
+    "english": "hardware",
+    "spanish": "hardware",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "latvian": "tīkls",
+    "english": "network",
+    "spanish": "red",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "latvian": "serveris",
+    "english": "server",
+    "spanish": "servidor",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "latvian": "datubāze",
+    "english": "database",
+    "spanish": "base de datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "latvian": "šifrēšana",
+    "english": "encryption",
+    "spanish": "cifrado",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "latvian": "ierīce",
+    "english": "device",
+    "spanish": "dispositivo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "latvian": "lietotne",
+    "english": "application",
+    "spanish": "aplicación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "latvian": "platforma",
+    "english": "platform",
+    "spanish": "plataforma",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "latvian": "virtuāls",
+    "english": "virtual",
+    "spanish": "virtual",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "latvian": "peļņa",
+    "english": "profit",
+    "spanish": "beneficio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "latvian": "budžets",
+    "english": "budget",
+    "spanish": "presupuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "latvian": "nodoklis",
+    "english": "tax",
+    "spanish": "impuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "latvian": "inflācija",
+    "english": "inflation",
+    "spanish": "inflación",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "latvian": "tirdzniecība",
+    "english": "trade",
+    "spanish": "comercio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "latvian": "valūta",
+    "english": "currency",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "latvian": "piedāvājums",
+    "english": "supply",
+    "spanish": "oferta",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "latvian": "ietvars",
+    "english": "framework",
+    "spanish": "marco",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "latvian": "kritērijs",
+    "english": "criterion",
+    "spanish": "criterio",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "latvian": "paradigma",
+    "english": "paradigm",
+    "spanish": "paradigma",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "latvian": "jēdziens",
+    "english": "notion",
+    "spanish": "noción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "latvian": "hipotēze",
+    "english": "hypothesis",
+    "spanish": "hipótesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "latvian": "vienprātība",
+    "english": "consensus",
+    "spanish": "consenso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "latvian": "divdomība",
+    "english": "ambiguity",
+    "spanish": "ambigüedad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "latvian": "piešķirt",
+    "english": "to allocate",
+    "spanish": "asignar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "latvian": "īstenot",
+    "english": "to implement",
+    "spanish": "implementar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "latvian": "integrēt",
+    "english": "to integrate",
+    "spanish": "integrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "latvian": "optimizēt",
+    "english": "to optimize",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "latvian": "noteikt prioritātes",
+    "english": "to prioritize",
+    "spanish": "priorizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "latvian": "apstiprināt",
+    "english": "to validate",
+    "spanish": "validar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "latvian": "putns",
+    "english": "bird",
+    "spanish": "pájaro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "latvian": "zirgs",
+    "english": "horse",
+    "spanish": "caballo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "latvian": "govs",
+    "english": "cow",
+    "spanish": "vaca",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "latvian": "cūka",
+    "english": "pig",
+    "spanish": "cerdo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "latvian": "vista",
+    "english": "chicken",
+    "spanish": "pollo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "latvian": "pele",
+    "english": "mouse",
+    "spanish": "ratón",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "latvian": "trusis",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "latvian": "aita",
+    "english": "sheep",
+    "spanish": "oveja",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "latvian": "pīle",
+    "english": "duck",
+    "spanish": "pato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "latvian": "lauva",
+    "english": "lion",
+    "spanish": "león",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "latvian": "mēness",
+    "english": "moon",
+    "spanish": "luna",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "latvian": "zvaigzne",
+    "english": "star",
+    "spanish": "estrella",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "latvian": "mākonis",
+    "english": "cloud",
+    "spanish": "nube",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "latvian": "vējš",
+    "english": "wind",
+    "spanish": "viento",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "latvian": "sniegs",
+    "english": "snow",
+    "spanish": "nieve",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "latvian": "ledus",
+    "english": "ice",
+    "spanish": "hielo",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "latvian": "uguns",
+    "english": "fire",
+    "spanish": "fuego",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "latvian": "akmens",
+    "english": "stone",
+    "spanish": "piedra",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "latvian": "pirmais",
+    "english": "first",
+    "spanish": "primero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "latvian": "otrais",
+    "english": "second",
+    "spanish": "segundo",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "latvian": "trešais",
+    "english": "third",
+    "spanish": "tercero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "latvian": "pēdējais",
+    "english": "last",
+    "spanish": "último",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "latvian": "nākamais",
+    "english": "next",
+    "spanish": "siguiente",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "latvian": "atkal",
+    "english": "again",
+    "spanish": "otra vez",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "latvian": "redzēt",
+    "english": "to see",
+    "spanish": "ver",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "latvian": "dzirdēt",
+    "english": "to hear",
+    "spanish": "oír",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "latvian": "zināt",
+    "english": "to know",
+    "spanish": "saber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "latvian": "domāt",
+    "english": "to think",
+    "spanish": "pensar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "latvian": "dot",
+    "english": "to give",
+    "spanish": "dar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "latvian": "ņemt",
+    "english": "to take",
+    "spanish": "tomar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "latvian": "skolotājs",
+    "english": "teacher",
+    "spanish": "profesor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 392,
+    "latvian": "inženieris",
+    "english": "engineer",
+    "spanish": "ingeniero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 393,
+    "latvian": "medmāsa",
+    "english": "nurse",
+    "spanish": "enfermero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 394,
+    "latvian": "jurists",
+    "english": "lawyer",
+    "spanish": "abogado",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 395,
+    "latvian": "šefpavārs",
+    "english": "chef",
+    "spanish": "chef",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 396,
+    "latvian": "šoferis",
+    "english": "driver",
+    "spanish": "conductor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 397,
+    "latvian": "zemnieks",
+    "english": "farmer",
+    "spanish": "granjero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 398,
+    "latvian": "policists",
+    "english": "police officer",
+    "spanish": "policía",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 399,
+    "latvian": "viesmīlis",
+    "english": "waiter",
+    "spanish": "camarero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 400,
+    "latvian": "mākslinieks",
+    "english": "artist",
+    "spanish": "artista",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 401,
+    "latvian": "baznīca",
+    "english": "church",
+    "spanish": "iglesia",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 402,
+    "latvian": "muzejs",
+    "english": "museum",
+    "spanish": "museo",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 403,
+    "latvian": "bibliotēka",
+    "english": "library",
+    "spanish": "biblioteca",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 404,
+    "latvian": "teātris",
+    "english": "theatre",
+    "spanish": "teatro",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 405,
+    "latvian": "tilts",
+    "english": "bridge",
+    "spanish": "puente",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 406,
+    "latvian": "laukums",
+    "english": "square",
+    "spanish": "plaza",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 407,
+    "latvian": "rūpnīca",
+    "english": "factory",
+    "spanish": "fábrica",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 408,
+    "latvian": "birojs",
+    "english": "office",
+    "spanish": "oficina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 409,
+    "latvian": "vārīt",
+    "english": "to boil",
+    "spanish": "hervir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 410,
+    "latvian": "cept",
+    "english": "to fry",
+    "spanish": "freír",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 411,
+    "latvian": "cept cepeškrāsnī",
+    "english": "to bake",
+    "spanish": "hornear",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 412,
+    "latvian": "nazis",
+    "english": "knife",
+    "spanish": "cuchillo",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 413,
+    "latvian": "karote",
+    "english": "spoon",
+    "spanish": "cuchara",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 414,
+    "latvian": "dakša",
+    "english": "fork",
+    "spanish": "tenedor",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 415,
+    "latvian": "gleznot",
+    "english": "to paint",
+    "spanish": "pintar",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 416,
+    "latvian": "fotogrāfija",
+    "english": "photography",
+    "spanish": "fotografía",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 417,
+    "latvian": "šahs",
+    "english": "chess",
+    "spanish": "ajedrez",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 418,
+    "latvian": "kempings",
+    "english": "camping",
+    "spanish": "acampada",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 419,
+    "latvian": "makšķerēšana",
+    "english": "fishing",
+    "spanish": "pesca",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 420,
+    "latvian": "dārzkopība",
+    "english": "gardening",
+    "spanish": "jardinería",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 421,
+    "latvian": "drosme",
+    "english": "courage",
+    "spanish": "valor",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 422,
+    "latvian": "pacietība",
+    "english": "patience",
+    "spanish": "paciencia",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 423,
+    "latvian": "godīgums",
+    "english": "honesty",
+    "spanish": "honestidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 424,
+    "latvian": "gudrība",
+    "english": "wisdom",
+    "spanish": "sabiduría",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 425,
+    "latvian": "laipnība",
+    "english": "kindness",
+    "spanish": "amabilidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 426,
+    "latvian": "cieņa",
+    "english": "respect",
+    "spanish": "respeto",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 427,
+    "latvian": "uzticība",
+    "english": "trust",
+    "spanish": "confianza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 428,
+    "latvian": "lepnums",
+    "english": "pride",
+    "spanish": "orgullo",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 429,
+    "latvian": "kauns",
+    "english": "shame",
+    "spanish": "vergüenza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 430,
+    "latvian": "dusmas",
+    "english": "anger",
+    "spanish": "ira",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 431,
+    "latvian": "klients",
+    "english": "customer",
+    "spanish": "cliente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 432,
+    "latvian": "piegādātājs",
+    "english": "supplier",
+    "spanish": "proveedor",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 433,
+    "latvian": "zīmols",
+    "english": "brand",
+    "spanish": "marca",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 434,
+    "latvian": "mārketings",
+    "english": "marketing",
+    "spanish": "marketing",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 435,
+    "latvian": "rēķins",
+    "english": "invoice",
+    "spanish": "factura",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 436,
+    "latvian": "noliktava",
+    "english": "warehouse",
+    "spanish": "almacén",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 437,
+    "latvian": "mazumtirdzniecība",
+    "english": "retail",
+    "spanish": "comercio minorista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 438,
+    "latvian": "akcionārs",
+    "english": "shareholder",
+    "spanish": "accionista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 439,
+    "latvian": "konstitūcija",
+    "english": "constitution",
+    "spanish": "constitución",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 440,
+    "latvian": "parlaments",
+    "english": "parliament",
+    "spanish": "parlamento",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 441,
+    "latvian": "ministrs",
+    "english": "minister",
+    "spanish": "ministro",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 442,
+    "latvian": "tiesa",
+    "english": "court",
+    "spanish": "tribunal",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 443,
+    "latvian": "tiesnesis",
+    "english": "judge",
+    "spanish": "juez",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 444,
+    "latvian": "spriedums",
+    "english": "sentence",
+    "spanish": "sentencia",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 445,
+    "latvian": "molekula",
+    "english": "molecule",
+    "spanish": "molécula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 446,
+    "latvian": "atoms",
+    "english": "atom",
+    "spanish": "átomo",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 447,
+    "latvian": "gravitācija",
+    "english": "gravity",
+    "spanish": "gravedad",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 448,
+    "latvian": "šūna",
+    "english": "cell",
+    "spanish": "célula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 449,
+    "latvian": "laboratorija",
+    "english": "laboratory",
+    "spanish": "laboratorio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 450,
+    "latvian": "mikroskops",
+    "english": "microscope",
+    "spanish": "microscopio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 451,
+    "latvian": "sintēze",
+    "english": "synthesis",
+    "spanish": "síntesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "latvian": "metodoloģija",
+    "english": "methodology",
+    "spanish": "metodología",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "latvian": "korelācija",
+    "english": "correlation",
+    "spanish": "correlación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "latvian": "mainīgais",
+    "english": "variable",
+    "spanish": "variable",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "latvian": "empīrisks",
+    "english": "empirical",
+    "spanish": "empírico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "latvian": "kvantitatīvs",
+    "english": "quantitative",
+    "spanish": "cuantitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "latvian": "kvalitatīvs",
+    "english": "qualitative",
+    "spanish": "cualitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "latvian": "hierarhija",
+    "english": "hierarchy",
+    "spanish": "jerarquía",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 459,
+    "latvian": "diskurss",
+    "english": "discourse",
+    "spanish": "discurso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 460,
+    "latvian": "retorika",
+    "english": "rhetoric",
+    "spanish": "retórica",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "latvian": "likumdošana",
+    "english": "legislation",
+    "spanish": "legislación",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "latvian": "verdikts",
+    "english": "verdict",
+    "spanish": "veredicto",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "latvian": "prasītājs",
+    "english": "plaintiff",
+    "spanish": "demandante",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "latvian": "atbildētājs",
+    "english": "defendant",
+    "spanish": "demandado",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 465,
+    "latvian": "regulējums",
+    "english": "regulation",
+    "spanish": "reglamento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 466,
+    "latvian": "atbilstība",
+    "english": "compliance",
+    "spanish": "cumplimiento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "latvian": "atbildība",
+    "english": "liability",
+    "spanish": "responsabilidad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "latvian": "diagnoze",
+    "english": "diagnosis",
+    "spanish": "diagnóstico",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "latvian": "terapija",
+    "english": "therapy",
+    "spanish": "terapia",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 470,
+    "latvian": "vakcīna",
+    "english": "vaccine",
+    "spanish": "vacuna",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 471,
+    "latvian": "hronisks",
+    "english": "chronic",
+    "spanish": "crónico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "latvian": "infekcija",
+    "english": "infection",
+    "spanish": "infección",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "latvian": "imūns",
+    "english": "immune",
+    "spanish": "inmune",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 474,
+    "latvian": "ķirurgs",
+    "english": "surgeon",
+    "spanish": "cirujano",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "latvian": "pamatot",
+    "english": "to substantiate",
+    "spanish": "fundamentar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "latvian": "norobežot",
+    "english": "to delineate",
+    "spanish": "delimitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 477,
+    "latvian": "ekstrapolēt",
+    "english": "to extrapolate",
+    "spanish": "extrapolar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 478,
+    "latvian": "izlīgt",
+    "english": "to reconcile",
+    "spanish": "reconciliar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 479,
+    "latvian": "pārbaudīt",
+    "english": "to scrutinize",
+    "spanish": "escudriñar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 480,
+    "latvian": "racionalizēt",
+    "english": "to streamline",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 481,
+    "latvian": "krekls",
+    "english": "shirt",
+    "spanish": "camisa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "latvian": "bikses",
+    "english": "trousers",
+    "spanish": "pantalones",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "latvian": "kleita",
+    "english": "dress",
+    "spanish": "vestido",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 484,
+    "latvian": "svārki",
+    "english": "skirt",
+    "spanish": "falda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 485,
+    "latvian": "cepure",
+    "english": "hat",
+    "spanish": "sombrero",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "latvian": "šalle",
+    "english": "scarf",
+    "spanish": "bufanda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "latvian": "cimdi",
+    "english": "gloves",
+    "spanish": "guantes",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "latvian": "zeķes",
+    "english": "socks",
+    "spanish": "calcetines",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "latvian": "jaka",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "latvian": "zābaks",
+    "english": "boot",
+    "spanish": "bota",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 491,
+    "latvian": "sula",
+    "english": "juice",
+    "spanish": "zumo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "latvian": "vīns",
+    "english": "wine",
+    "spanish": "vino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "latvian": "alus",
+    "english": "beer",
+    "spanish": "cerveza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "latvian": "kūka",
+    "english": "cake",
+    "spanish": "pastel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "latvian": "šokolāde",
+    "english": "chocolate",
+    "spanish": "chocolate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "latvian": "saldējums",
+    "english": "ice cream",
+    "spanish": "helado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "latvian": "rīsi",
+    "english": "rice",
+    "spanish": "arroz",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "latvian": "banāns",
+    "english": "banana",
+    "spanish": "plátano",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "latvian": "apelsīns",
+    "english": "orange",
+    "spanish": "naranja",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "latvian": "medus",
+    "english": "honey",
+    "spanish": "miel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "latvian": "spēlēt",
+    "english": "to play",
+    "spanish": "jugar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "latvian": "pārdot",
+    "english": "to sell",
+    "spanish": "vender",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "latvian": "mīlēt",
+    "english": "to love",
+    "spanish": "amar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "latvian": "dejot",
+    "english": "to dance",
+    "spanish": "bailar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "latvian": "lēkt",
+    "english": "to jump",
+    "spanish": "saltar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "latvian": "uzvarēt",
+    "english": "to win",
+    "spanish": "ganar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "latvian": "ciets",
+    "english": "hard",
+    "spanish": "duro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "latvian": "mīksts",
+    "english": "soft",
+    "spanish": "blando",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "latvian": "smags",
+    "english": "heavy",
+    "spanish": "pesado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "latvian": "viegls",
+    "english": "light",
+    "spanish": "ligero",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "latvian": "matemātika",
+    "english": "mathematics",
+    "spanish": "matemáticas",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 512,
+    "latvian": "vēsture",
+    "english": "history",
+    "spanish": "historia",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 513,
+    "latvian": "ģeogrāfija",
+    "english": "geography",
+    "spanish": "geografía",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 514,
+    "latvian": "bioloģija",
+    "english": "biology",
+    "spanish": "biología",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 515,
+    "latvian": "ķīmija",
+    "english": "chemistry",
+    "spanish": "química",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 516,
+    "latvian": "fizika",
+    "english": "physics",
+    "spanish": "física",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 517,
+    "latvian": "literatūra",
+    "english": "literature",
+    "spanish": "literatura",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 518,
+    "latvian": "māksla",
+    "english": "art",
+    "spanish": "arte",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 519,
+    "latvian": "mugura",
+    "english": "back",
+    "spanish": "espalda",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 520,
+    "latvian": "plecs",
+    "english": "shoulder",
+    "spanish": "hombro",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 521,
+    "latvian": "celis",
+    "english": "knee",
+    "spanish": "rodilla",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 522,
+    "latvian": "pirksts",
+    "english": "finger",
+    "spanish": "dedo",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 523,
+    "latvian": "zobs",
+    "english": "tooth",
+    "spanish": "diente",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 524,
+    "latvian": "vēders",
+    "english": "stomach",
+    "spanish": "estómago",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 525,
+    "latvian": "sirds",
+    "english": "heart",
+    "spanish": "corazón",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 526,
+    "latvian": "asinis",
+    "english": "blood",
+    "spanish": "sangre",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 527,
+    "latvian": "vētra",
+    "english": "storm",
+    "spanish": "tormenta",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 528,
+    "latvian": "pērkons",
+    "english": "thunder",
+    "spanish": "trueno",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 529,
+    "latvian": "zibens",
+    "english": "lightning",
+    "spanish": "rayo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 530,
+    "latvian": "varavīksne",
+    "english": "rainbow",
+    "spanish": "arcoíris",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 531,
+    "latvian": "migla",
+    "english": "fog",
+    "spanish": "niebla",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 532,
+    "latvian": "karstums",
+    "english": "heat",
+    "spanish": "calor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 533,
+    "latvian": "ēna",
+    "english": "shadow",
+    "spanish": "sombra",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 534,
+    "latvian": "ieleja",
+    "english": "valley",
+    "spanish": "valle",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 535,
+    "latvian": "metro",
+    "english": "metro",
+    "spanish": "metro",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 536,
+    "latvian": "luksofors",
+    "english": "traffic light",
+    "spanish": "semáforo",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 537,
+    "latvian": "autostāvvieta",
+    "english": "parking",
+    "spanish": "aparcamiento",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 538,
+    "latvian": "stūris",
+    "english": "corner",
+    "spanish": "esquina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 539,
+    "latvian": "gājēju pāreja",
+    "english": "crossing",
+    "spanish": "paso de peatones",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 540,
+    "latvian": "ietve",
+    "english": "pavement",
+    "spanish": "acera",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 541,
+    "latvian": "romāns",
+    "english": "novel",
+    "spanish": "novela",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 542,
+    "latvian": "dzejolis",
+    "english": "poem",
+    "spanish": "poema",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 543,
+    "latvian": "glezna",
+    "english": "painting",
+    "spanish": "cuadro",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 544,
+    "latvian": "skulptūra",
+    "english": "sculpture",
+    "spanish": "escultura",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 545,
+    "latvian": "koncerts",
+    "english": "concert",
+    "spanish": "concierto",
+    "category": "music",
+    "level": "B1"
+  },
+  {
+    "id": 546,
+    "latvian": "izstāde",
+    "english": "exhibition",
+    "spanish": "exposición",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 547,
+    "latvian": "publika",
+    "english": "audience",
+    "spanish": "público",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 548,
+    "latvian": "skatuve",
+    "english": "stage",
+    "spanish": "escenario",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 549,
+    "latvian": "aktieris",
+    "english": "actor",
+    "spanish": "actor",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 550,
+    "latvian": "režisors",
+    "english": "director",
+    "spanish": "director",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 551,
+    "latvian": "parole",
+    "english": "password",
+    "spanish": "contraseña",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 552,
+    "latvian": "lejupielāde",
+    "english": "download",
+    "spanish": "descarga",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 553,
+    "latvian": "augšupielāde",
+    "english": "upload",
+    "spanish": "subida",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 554,
+    "latvian": "vietne",
+    "english": "website",
+    "spanish": "sitio web",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 555,
+    "latvian": "e-pasts",
+    "english": "email",
+    "spanish": "correo electrónico",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 556,
+    "latvian": "ziņa",
+    "english": "message",
+    "spanish": "mensaje",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 557,
+    "latvian": "ekrāns",
+    "english": "screen",
+    "spanish": "pantalla",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 558,
+    "latvian": "klaviatūra",
+    "english": "keyboard",
+    "spanish": "teclado",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 559,
+    "latvian": "aizdevums",
+    "english": "loan",
+    "spanish": "préstamo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 560,
+    "latvian": "uzkrājumi",
+    "english": "savings",
+    "spanish": "ahorros",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 561,
+    "latvian": "maks",
+    "english": "wallet",
+    "spanish": "cartera",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 562,
+    "latvian": "kvīts",
+    "english": "receipt",
+    "spanish": "recibo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 563,
+    "latvian": "sīknauda",
+    "english": "change",
+    "spanish": "cambio (dinero)",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 564,
+    "latvian": "monēta",
+    "english": "coin",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 565,
+    "latvian": "atvieglojums",
+    "english": "relief",
+    "spanish": "alivio",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 566,
+    "latvian": "pateicība",
+    "english": "gratitude",
+    "spanish": "gratitud",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 567,
+    "latvian": "skaudība",
+    "english": "envy",
+    "spanish": "envidia",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 568,
+    "latvian": "vainas apziņa",
+    "english": "guilt",
+    "spanish": "culpa",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 569,
+    "latvian": "zinātkāre",
+    "english": "curiosity",
+    "spanish": "curiosidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 570,
+    "latvian": "entuziasms",
+    "english": "enthusiasm",
+    "spanish": "entusiasmo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 571,
+    "latvian": "ētika",
+    "english": "ethics",
+    "spanish": "ética",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 572,
+    "latvian": "morāle",
+    "english": "morality",
+    "spanish": "moralidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 573,
+    "latvian": "identitāte",
+    "english": "identity",
+    "spanish": "identidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 574,
+    "latvian": "samaņa",
+    "english": "consciousness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 575,
+    "latvian": "eksistence",
+    "english": "existence",
+    "spanish": "existencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 576,
+    "latvian": "patiesība",
+    "english": "truth",
+    "spanish": "verdad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 577,
+    "latvian": "tikums",
+    "english": "virtue",
+    "spanish": "virtud",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 578,
+    "latvian": "paradokss",
+    "english": "paradox",
+    "spanish": "paradoja",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 579,
+    "latvian": "dilemma",
+    "english": "dilemma",
+    "spanish": "dilema",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 580,
+    "latvian": "skeptiķisms",
+    "english": "scepticism",
+    "spanish": "escepticismo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 581,
+    "latvian": "apvienošanās",
+    "english": "merger",
+    "spanish": "fusión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 582,
+    "latvian": "bankrots",
+    "english": "bankruptcy",
+    "spanish": "quiebra",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 583,
+    "latvian": "monopols",
+    "english": "monopoly",
+    "spanish": "monopolio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 584,
+    "latvian": "subsīdija",
+    "english": "subsidy",
+    "spanish": "subvención",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 585,
+    "latvian": "tarifs",
+    "english": "tariff",
+    "spanish": "arancel",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 586,
+    "latvian": "kvota",
+    "english": "quota",
+    "spanish": "cupo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 587,
+    "latvian": "uzņēmējs",
+    "english": "entrepreneur",
+    "spanish": "empresario",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 588,
+    "latvian": "emisija",
+    "english": "emission",
+    "spanish": "emisión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 589,
+    "latvian": "ogleklis",
+    "english": "carbon",
+    "spanish": "carbono",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 590,
+    "latvian": "bioloģiskā daudzveidība",
+    "english": "biodiversity",
+    "spanish": "biodiversidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 591,
+    "latvian": "mežu izciršana",
+    "english": "deforestation",
+    "spanish": "deforestación",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 592,
+    "latvian": "ekosistēma",
+    "english": "ecosystem",
+    "spanish": "ecosistema",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "latvian": "dzīvotne",
+    "english": "habitat",
+    "spanish": "hábitat",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 594,
+    "latvian": "erozija",
+    "english": "erosion",
+    "spanish": "erosión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 595,
+    "latvian": "formulēt",
+    "english": "to articulate",
+    "spanish": "articular",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 596,
+    "latvian": "apiet",
+    "english": "to circumvent",
+    "spanish": "eludir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 597,
+    "latvian": "konsolidēt",
+    "english": "to consolidate",
+    "spanish": "consolidar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 598,
+    "latvian": "pasliktināties",
+    "english": "to deteriorate",
+    "spanish": "deteriorarse",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 599,
+    "latvian": "saasināt",
+    "english": "to exacerbate",
+    "spanish": "agravar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 600,
+    "latvian": "kavēt",
+    "english": "to hinder",
+    "spanish": "obstaculizar",
+    "category": "verbs",
+    "level": "B2"
+  }
+]
