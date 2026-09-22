@@ -268,8 +268,10 @@
   .cmp-lang { display: flex; flex-direction: column; align-items: center; gap: 2px; width: 62px; flex: none; }
   .cmp-lang .flag { font-size: 20px; line-height: 1; }
   .cmp-lang .name { font-size: 10px; font-weight: 600; color: var(--muted); text-align: center; line-height: 1.1; }
-  .cmp-term { flex: 1; font-size: 16px; font-weight: 700; word-break: break-word; }
+  .cmp-term { font-size: 16px; font-weight: 700; word-break: break-word; }
   .cmp-term.missing { color: var(--muted); font-weight: 400; }
+  .cmp-termwrap { flex: 1; min-width: 0; }
+  .cmp-pron { font-size: 12px; color: var(--muted); margin-top: 2px; word-break: break-word; }
   .cmp-tile button.speak { width: 30px; height: 30px; }
   .cmp-tile button.speak svg { width: 14px; height: 14px; }
 </style>
@@ -903,15 +905,24 @@
   /* ---------- Compare ---------- */
   let COMPARE = null;
 
-  function compareTile(l, term) {
+  function compareTile(l, cell) {
+    const data = cell || {};
+    const term = data.term;
     const has = term !== undefined && term !== null && term !== "";
+    const pron = data.pron || "";
     const active = lang && l.code === lang.code ? " active" : "";
     const btn = speechSupported()
       ? `<button class="speak" type="button" title="Listen" aria-label="Listen" data-cmp-code="${l.code}" data-cmp-text="${has ? escapeHtml(term) : ""}">${ICON_SPEAK}</button>`
       : "";
+    const pronHtml = pron
+      ? `<div class="cmp-pron" dir="auto">${data.kind === "ipa" ? `/${escapeHtml(pron)}/` : escapeHtml(pron)}</div>`
+      : "";
     return `<div class="cmp-tile${active}">
         <div class="cmp-lang"><span class="flag">${l.flag || ""}</span><span class="name">${l.name}</span></div>
-        <div class="cmp-term${has ? "" : " missing"}" dir="auto">${has ? escapeHtml(term) : "—"}</div>
+        <div class="cmp-termwrap">
+          <div class="cmp-term${has ? "" : " missing"}" dir="auto">${has ? escapeHtml(term) : "—"}</div>
+          ${pronHtml}
+        </div>
         ${btn}
       </div>`;
   }

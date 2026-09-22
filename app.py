@@ -59,12 +59,58 @@ COMPARE_WORDS = [
     "please", "sorry", "yes", "no", "help",
 ]
 
+# Broad IPA for the languages whose vocabulary packs carry no pronunciation field.
+COMPARE_PRON = {
+    "pl": {"hello": "t͡ʂɛɕt͡ɕ", "goodbye": "dɔ viˈd͡zɛɲa", "good morning": "d͡ʑɛɲ ˈdɔbrɨ",
+           "good night": "dɔˈbranɔt͡s", "thank you": "d͡ʑɛŋˈkujɛ", "please": "ˈprɔʂɛ",
+           "sorry": "pʂɛˈpraʂam", "yes": "tak", "no": "ɲɛ", "help": "ˈpɔmɔt͡s"},
+    "en": {"hello": "həˈləʊ", "goodbye": "ɡʊdˈbaɪ", "good morning": "ɡʊd ˈmɔːnɪŋ",
+           "good night": "ɡʊd naɪt", "thank you": "ˈθæŋk juː", "please": "pliːz",
+           "sorry": "ˈsɒri", "yes": "jɛs", "no": "nəʊ", "help": "hɛlp"},
+    "de": {"hello": "ˈhaloː", "goodbye": "aʊf ˈviːdɐzeːən", "good morning": "ˈɡuːtn̩ ˈmɔʁɡn̩",
+           "good night": "ˈɡuːtə naxt", "thank you": "ˈdaŋkə", "please": "ˈbɪtə",
+           "sorry": "ɛntˈʃʊldɪɡʊŋ", "yes": "jaː", "no": "naɪn", "help": "diː ˈhɪlfə"},
+    "it": {"hello": "ˈtʃaːo", "goodbye": "arriveˈdertʃi", "good morning": "bwɔnˈdʒorno",
+           "good night": "bwɔnaˈnɔtte", "thank you": "ˈɡrattsje", "please": "ˈprɛːɡo",
+           "sorry": "ˈskuːza", "yes": "si", "no": "nɔ", "help": "laˈjuːto"},
+    "pt": {"hello": "oˈla", "goodbye": "ˈtʃaw", "good morning": "bõ ˈdʒiɐ",
+           "good night": "ˈboɐ ˈnojti", "thank you": "obɾiˈɡadu", "please": "poʁ faˈvoʁ",
+           "sorry": "desˈkuwpi", "yes": "sĩ", "no": "nɐ̃w̃", "help": "a aˈʒudɐ"},
+    "eu": {"hello": "ˈkai̯ʃo", "goodbye": "aɡur", "good morning": "eɡun on",
+           "good night": "ɡau̯ on", "thank you": "es̺kerik as̺ko", "please": "mes̺edes̻",
+           "sorry": "barkatu", "yes": "bai̯", "no": "es̻", "help": "laɡunt͡s̻a"},
+    "fr": {"hello": "bɔ̃ˈʒuʁ", "goodbye": "o ʁəˈvwaʁ", "good morning": "bɔ̃ˈʒuʁ",
+           "good night": "bɔn nɥi", "thank you": "mɛʁˈsi", "please": "sil vu plɛ",
+           "sorry": "dezoˈle", "yes": "wi", "no": "nɔ̃", "help": "ɛd"},
+    "tr": {"hello": "meɾhaˈba", "goodbye": "ˈhoʃtʃa kal", "good morning": "ɡynajˈdɯn",
+           "good night": "iji ɟedʒeˈleɾ", "thank you": "teʃecˈcyɾ edeˈɾim", "please": "ˈlytfen",
+           "sorry": "øˈzyɾ edeˈɾim", "yes": "eˈvet", "no": "haˈjɯɾ", "help": "jaɾˈdɯm"},
+    "uk": {"hello": "prɪˈʋit", "goodbye": "dɔ pɔˈbat͡ʃenʲːɐ", "good morning": "ˈdɔbrɔɦɔ ˈrankʊ",
+           "good night": "na dɔˈbranʲit͡ʃ", "thank you": "ˈdʲakujʊ", "please": "budʲ ˈlaskɐ",
+           "sorry": "ˈʋɪbat͡ʃte", "yes": "tak", "no": "nʲi", "help": "dɔpɔˈmɔɦɐ"},
+    "nl": {"hello": "ɦɑˈloː", "goodbye": "tɔt ˈzins", "good morning": "ˌɣudəˈmɔrɣə(n)",
+           "good night": "ˌɣudəˈnɑxt", "thank you": "ˈdɑŋk jə", "please": "ˌɑlsjəˈblift",
+           "sorry": "ˈsɔri", "yes": "jaː", "no": "neː", "help": "ɦʏlp"},
+    "ro": {"hello": "ˈbu.nə", "goodbye": "la re.veˈde.re", "good morning": "ˈbu.nə di.miˈne̯a.t͡sa",
+           "good night": "ˈno̯ap.te ˈbu.nə", "thank you": "mul.t͡suˈmesk", "please": "te roɡ",
+           "sorry": "ɨmʲ ˈpa.re rəw", "yes": "da", "no": "nu", "help": "a.ʒuˈtor"},
+}
+
 _compare_cache = None
 
 
 def _english_alternatives(value):
     text = str(value).strip().lower().rstrip("?").strip()
     return [p.strip() for p in text.split("/") if p.strip()]
+
+
+def _pronunciation(code, concept, entry):
+    if not entry:
+        return "", ""
+    for key in ("ipa", "pinyin", "romaji", "translit"):
+        if entry.get(key):
+            return entry[key], key
+    return COMPARE_PRON.get(code, {}).get(concept, ""), "ipa"
 
 
 def _build_compare():
@@ -78,6 +124,7 @@ def _build_compare():
             "flag": lang.get("flag", ""),
             "speech": lang.get("speech", ""),
             "termLabel": lang.get("termLabel", ""),
+            "hasIpa": bool(lang.get("ipa")),
         }
         for lang in LANGUAGES
     ]
@@ -87,10 +134,14 @@ def _build_compare():
         for lang in LANGUAGES:
             code = lang["code"]
             field = lang["termField"]
-            for entry in PACKS[code].get("vocabulary", []):
-                if concept in _english_alternatives(entry.get("english", "")):
-                    terms[code] = entry.get(field, "")
-                    break
+            entry = next((e for e in PACKS[code].get("vocabulary", [])
+                          if concept in _english_alternatives(e.get("english", ""))), None)
+            pron, kind = _pronunciation(code, concept, entry)
+            terms[code] = {
+                "term": entry.get(field, "") if entry else "",
+                "pron": pron,
+                "kind": kind,
+            }
         words.append({"concept": concept, "terms": terms})
     _compare_cache = {"languages": languages, "words": words}
     return _compare_cache
