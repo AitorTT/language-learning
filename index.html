@@ -513,8 +513,10 @@
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>
       <div class="hint">${lang.termLabel}</div>
       <div class="word" dir="auto">${w[lang.termField]}</div>
-      ${w.ipa ? `<div class="ipa">/${w.ipa}/</div>` : ""}
-      ${w.pinyin || w.romaji || w.translit ? `<div class="ipa pinyin">${w.pinyin || w.romaji || w.translit}</div>` : ""}
+      ${w.ipa
+        ? `<div class="ipa">/${w.ipa}/</div>`
+        : (w.pinyin || w.romaji || w.translit
+            ? `<div class="ipa pinyin">${w.pinyin || w.romaji || w.translit}</div>` : "")}
       <button class="speak" type="button" title="Listen" aria-label="Listen" data-fc-speak>${ICON_SPEAK}</button>`;
     back.innerHTML = `
       <span class="badge" style="background:${colorFor(w.category)}">${w.category} · ${w.level}</span>

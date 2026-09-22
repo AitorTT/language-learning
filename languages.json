@@ -126,6 +126,7 @@
     "speech": "ru-RU",
     "termLabel": "Russian",
     "termField": "russian",
+    "ipa": true,
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
       {"code": "es", "field": "spanish", "label": "Español"}
@@ -181,6 +182,7 @@
     "speech": "ar-SA",
     "termLabel": "Arabic",
     "termField": "arabic",
+    "ipa": true,
     "script": "arabic",
     "translit": true,
     "targets": [

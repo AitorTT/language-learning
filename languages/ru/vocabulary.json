@@ -2,6 +2,7 @@
   {
     "id": 1,
     "russian": "приве́т",
+    "ipa": "prʲɪˈvʲɛt",
     "english": "hello",
     "spanish": "hola",
     "category": "greetings",
@@ -10,6 +11,7 @@
   {
     "id": 2,
     "russian": "до свида́ния",
+    "ipa": "do svʲɪˈdanʲɪjə",
     "english": "goodbye",
     "spanish": "adiós",
     "category": "greetings",
@@ -18,6 +20,7 @@
   {
     "id": 3,
     "russian": "до́брое у́тро",
+    "ipa": "ˈdobrəjə ˈutrə",
     "english": "good morning",
     "spanish": "buenos días",
     "category": "greetings",
@@ -26,6 +29,7 @@
   {
     "id": 4,
     "russian": "добро́й но́чи",
+    "ipa": "dɐˈbroj ˈnotɕɪ",
     "english": "good night",
     "spanish": "buenas noches",
     "category": "greetings",
@@ -34,6 +38,7 @@
   {
     "id": 5,
     "russian": "спаси́бо",
+    "ipa": "spɐˈsʲibə",
     "english": "thank you",
     "spanish": "gracias",
     "category": "phrases",
@@ -42,6 +47,7 @@
   {
     "id": 6,
     "russian": "пожа́луйста",
+    "ipa": "pɐˈʐaɫʊjstə",
     "english": "please",
     "spanish": "por favor",
     "category": "phrases",
@@ -50,6 +56,7 @@
   {
     "id": 7,
     "russian": "извини́те",
+    "ipa": "ɪzvʲɪˈnʲitʲɪ",
     "english": "sorry",
     "spanish": "lo siento / perdón",
     "category": "phrases",
@@ -58,6 +65,7 @@
   {
     "id": 8,
     "russian": "да",
+    "ipa": "da",
     "english": "yes",
     "spanish": "sí",
     "category": "phrases",
@@ -66,6 +74,7 @@
   {
     "id": 9,
     "russian": "нет",
+    "ipa": "nʲɛt",
     "english": "no",
     "spanish": "no",
     "category": "phrases",
@@ -74,6 +83,7 @@
   {
     "id": 10,
     "russian": "как дела́?",
+    "ipa": "kak dʲɪˈɫa?",
     "english": "how are you?",
     "spanish": "¿cómo estás?",
     "category": "phrases",
@@ -82,6 +92,7 @@
   {
     "id": 11,
     "russian": "вода́",
+    "ipa": "vɐˈda",
     "english": "water",
     "spanish": "agua",
     "category": "food",
@@ -90,6 +101,7 @@
   {
     "id": 12,
     "russian": "хлеб",
+    "ipa": "xlʲɛp",
     "english": "bread",
     "spanish": "pan",
     "category": "food",
@@ -98,6 +110,7 @@
   {
     "id": 13,
     "russian": "молоко́",
+    "ipa": "məɫɐˈko",
     "english": "milk",
     "spanish": "leche",
     "category": "food",
@@ -106,6 +119,7 @@
   {
     "id": 14,
     "russian": "ко́фе",
+    "ipa": "ˈkofʲɪ",
     "english": "coffee",
     "spanish": "café",
     "category": "food",
@@ -114,6 +128,7 @@
   {
     "id": 15,
     "russian": "я́блоко",
+    "ipa": "ˈjabɫəkə",
     "english": "apple",
     "spanish": "manzana",
     "category": "food",
@@ -122,6 +137,7 @@
   {
     "id": 16,
     "russian": "дом",
+    "ipa": "dom",
     "english": "house",
     "spanish": "casa",
     "category": "nouns",
@@ -130,6 +146,7 @@
   {
     "id": 17,
     "russian": "ко́шка",
+    "ipa": "ˈkoʂkə",
     "english": "cat",
     "spanish": "gato",
     "category": "animals",
@@ -138,6 +155,7 @@
   {
     "id": 18,
     "russian": "соба́ка",
+    "ipa": "sɐˈbakə",
     "english": "dog",
     "spanish": "perro",
     "category": "animals",
@@ -146,6 +164,7 @@
   {
     "id": 19,
     "russian": "мать",
+    "ipa": "matʲ",
     "english": "mother",
     "spanish": "madre",
     "category": "family",
@@ -154,6 +173,7 @@
   {
     "id": 20,
     "russian": "оте́ц",
+    "ipa": "ɐˈtʲɛts",
     "english": "father",
     "spanish": "padre",
     "category": "family",
@@ -162,6 +182,7 @@
   {
     "id": 21,
     "russian": "семья́",
+    "ipa": "sʲɪˈmʲja",
     "english": "family",
     "spanish": "familia",
     "category": "family",
@@ -170,6 +191,7 @@
   {
     "id": 22,
     "russian": "друг",
+    "ipa": "druk",
     "english": "friend",
     "spanish": "amigo",
     "category": "nouns",
@@ -178,6 +200,7 @@
   {
     "id": 23,
     "russian": "быть",
+    "ipa": "bɨtʲ",
     "english": "to be",
     "spanish": "ser / estar",
     "category": "verbs",
@@ -186,6 +209,7 @@
   {
     "id": 24,
     "russian": "име́ть",
+    "ipa": "ɪˈmʲɛtʲ",
     "english": "to have",
     "spanish": "tener",
     "category": "verbs",
@@ -194,6 +218,7 @@
   {
     "id": 25,
     "russian": "идти́",
+    "ipa": "ɪˈttʲi",
     "english": "to go",
     "spanish": "ir",
     "category": "verbs",
@@ -202,6 +227,7 @@
   {
     "id": 26,
     "russian": "есть",
+    "ipa": "jɛstʲ",
     "english": "to eat",
     "spanish": "comer",
     "category": "verbs",
@@ -210,6 +236,7 @@
   {
     "id": 27,
     "russian": "пить",
+    "ipa": "pʲitʲ",
     "english": "to drink",
     "spanish": "beber",
     "category": "verbs",
@@ -218,6 +245,7 @@
   {
     "id": 28,
     "russian": "хоро́ший",
+    "ipa": "xɐˈroʂɨj",
     "english": "good",
     "spanish": "bueno",
     "category": "adjectives",
@@ -226,6 +254,7 @@
   {
     "id": 29,
     "russian": "плохо́й",
+    "ipa": "pɫɐˈxoj",
     "english": "bad",
     "spanish": "malo",
     "category": "adjectives",
@@ -234,6 +263,7 @@
   {
     "id": 30,
     "russian": "большо́й",
+    "ipa": "bɐˈlʲʂoj",
     "english": "big",
     "spanish": "grande",
     "category": "adjectives",
@@ -242,6 +272,7 @@
   {
     "id": 31,
     "russian": "ма́ленький",
+    "ipa": "ˈmalʲɪnʲkʲɪj",
     "english": "small",
     "spanish": "pequeño",
     "category": "adjectives",
@@ -250,6 +281,7 @@
   {
     "id": 32,
     "russian": "жить",
+    "ipa": "ʐɨtʲ",
     "english": "to live",
     "spanish": "vivir",
     "category": "verbs",
@@ -258,6 +290,7 @@
   {
     "id": 33,
     "russian": "рабо́тать",
+    "ipa": "rɐˈbotətʲ",
     "english": "to work",
     "spanish": "trabajar",
     "category": "verbs",
@@ -266,6 +299,7 @@
   {
     "id": 34,
     "russian": "покупа́ть",
+    "ipa": "pəkʊˈpatʲ",
     "english": "to buy",
     "spanish": "comprar",
     "category": "verbs",
@@ -274,6 +308,7 @@
   {
     "id": 35,
     "russian": "путеше́ствовать",
+    "ipa": "pʊtʲɪˈʂɛstvəvətʲ",
     "english": "to travel",
     "spanish": "viajar",
     "category": "verbs",
@@ -282,6 +317,7 @@
   {
     "id": 36,
     "russian": "гото́вить",
+    "ipa": "ɡɐˈtovʲɪtʲ",
     "english": "to cook",
     "spanish": "cocinar",
     "category": "verbs",
@@ -290,6 +326,7 @@
   {
     "id": 37,
     "russian": "учи́ться",
+    "ipa": "ʊˈtɕitsə",
     "english": "to learn",
     "spanish": "aprender",
     "category": "verbs",
@@ -298,6 +335,7 @@
   {
     "id": 38,
     "russian": "оде́жда",
+    "ipa": "ɐˈdʲɛʐdə",
     "english": "clothes",
     "spanish": "ropa",
     "category": "clothes",
@@ -306,6 +344,7 @@
   {
     "id": 39,
     "russian": "о́бувь",
+    "ipa": "ˈobʊfʲ",
     "english": "shoes",
     "spanish": "zapatos",
     "category": "clothes",
@@ -314,6 +353,7 @@
   {
     "id": 40,
     "russian": "пальто́",
+    "ipa": "pɐˈlʲto",
     "english": "coat",
     "spanish": "abrigo",
     "category": "clothes",
@@ -322,6 +362,7 @@
   {
     "id": 41,
     "russian": "ку́хня",
+    "ipa": "ˈkuxnʲə",
     "english": "kitchen",
     "spanish": "cocina",
     "category": "house",
@@ -330,6 +371,7 @@
   {
     "id": 42,
     "russian": "ва́нная",
+    "ipa": "ˈvannəjə",
     "english": "bathroom",
     "spanish": "baño",
     "category": "house",
@@ -338,6 +380,7 @@
   {
     "id": 43,
     "russian": "спа́льня",
+    "ipa": "ˈspalʲnʲə",
     "english": "bedroom",
     "spanish": "dormitorio",
     "category": "house",
@@ -346,6 +389,7 @@
   {
     "id": 44,
     "russian": "у́лица",
+    "ipa": "ˈulʲɪtsə",
     "english": "street",
     "spanish": "calle",
     "category": "city",
@@ -354,6 +398,7 @@
   {
     "id": 45,
     "russian": "го́род",
+    "ipa": "ˈɡorət",
     "english": "city",
     "spanish": "ciudad",
     "category": "city",
@@ -362,6 +407,7 @@
   {
     "id": 46,
     "russian": "магази́н",
+    "ipa": "məɡɐˈzʲin",
     "english": "shop",
     "spanish": "tienda",
     "category": "city",
@@ -370,6 +416,7 @@
   {
     "id": 47,
     "russian": "ста́нция",
+    "ipa": "ˈstantsɨjə",
     "english": "station",
     "spanish": "estación",
     "category": "travel",
@@ -378,6 +425,7 @@
   {
     "id": 48,
     "russian": "биле́т",
+    "ipa": "bʲɪˈlʲɛt",
     "english": "ticket",
     "spanish": "billete",
     "category": "travel",
@@ -386,6 +434,7 @@
   {
     "id": 49,
     "russian": "чемода́н",
+    "ipa": "tɕɪmɐˈdan",
     "english": "suitcase",
     "spanish": "maleta",
     "category": "travel",
@@ -394,6 +443,7 @@
   {
     "id": 50,
     "russian": "маши́на",
+    "ipa": "mɐˈʂɨnə",
     "english": "car",
     "spanish": "coche",
     "category": "travel",
@@ -402,6 +452,7 @@
   {
     "id": 51,
     "russian": "по́езд",
+    "ipa": "ˈpojəst",
     "english": "train",
     "spanish": "tren",
     "category": "travel",
@@ -410,6 +461,7 @@
   {
     "id": 52,
     "russian": "сего́дня",
+    "ipa": "sʲɪˈvodnʲə",
     "english": "today",
     "spanish": "hoy",
     "category": "time",
@@ -418,6 +470,7 @@
   {
     "id": 53,
     "russian": "за́втра",
+    "ipa": "ˈzaftrə",
     "english": "tomorrow",
     "spanish": "mañana",
     "category": "time",
@@ -426,6 +479,7 @@
   {
     "id": 54,
     "russian": "вчера́",
+    "ipa": "ftɕɪˈra",
     "english": "yesterday",
     "spanish": "ayer",
     "category": "time",
@@ -434,6 +488,7 @@
   {
     "id": 55,
     "russian": "всегда́",
+    "ipa": "fsʲɪˈɡda",
     "english": "always",
     "spanish": "siempre",
     "category": "adverbs",
@@ -442,6 +497,7 @@
   {
     "id": 56,
     "russian": "ча́сто",
+    "ipa": "ˈtɕastə",
     "english": "often",
     "spanish": "a menudo",
     "category": "adverbs",
@@ -450,6 +506,7 @@
   {
     "id": 57,
     "russian": "никогда́",
+    "ipa": "nʲɪkɐˈɡda",
     "english": "never",
     "spanish": "nunca",
     "category": "adverbs",
@@ -458,6 +515,7 @@
   {
     "id": 58,
     "russian": "пого́да",
+    "ipa": "pɐˈɡodə",
     "english": "weather",
     "spanish": "tiempo (clima)",
     "category": "nature",
@@ -466,6 +524,7 @@
   {
     "id": 59,
     "russian": "дождь",
+    "ipa": "doʂtʲ",
     "english": "rain",
     "spanish": "lluvia",
     "category": "nature",
@@ -474,6 +533,7 @@
   {
     "id": 60,
     "russian": "со́лнце",
+    "ipa": "ˈsontsə",
     "english": "sun",
     "spanish": "sol",
     "category": "nature",
@@ -482,6 +542,7 @@
   {
     "id": 61,
     "russian": "счастли́вый",
+    "ipa": "ɕːɪˈslʲivɨj",
     "english": "happy",
     "spanish": "feliz",
     "category": "adjectives",
@@ -490,6 +551,7 @@
   {
     "id": 62,
     "russian": "о́пыт",
+    "ipa": "ˈopɨt",
     "english": "experience",
     "spanish": "experiencia",
     "category": "work",
@@ -498,6 +560,7 @@
   {
     "id": 63,
     "russian": "профе́ссия",
+    "ipa": "prɐˈfʲɛssʲɪjə",
     "english": "profession",
     "spanish": "profesión",
     "category": "work",
@@ -506,6 +569,7 @@
   {
     "id": 64,
     "russian": "нача́льник",
+    "ipa": "nɐˈtɕalʲnʲɪk",
     "english": "boss",
     "spanish": "jefe",
     "category": "work",
@@ -514,6 +578,7 @@
   {
     "id": 65,
     "russian": "встре́ча",
+    "ipa": "ˈfstrʲɛtɕə",
     "english": "meeting",
     "spanish": "reunión",
     "category": "work",
@@ -522,6 +587,7 @@
   {
     "id": 66,
     "russian": "догово́р",
+    "ipa": "dəɡɐˈvor",
     "english": "contract",
     "spanish": "contrato",
     "category": "work",
@@ -530,6 +596,7 @@
   {
     "id": 67,
     "russian": "за́рплата",
+    "ipa": "ˈzarpɫətə",
     "english": "salary",
     "spanish": "salario",
     "category": "work",
@@ -538,6 +605,7 @@
   {
     "id": 68,
     "russian": "образова́ние",
+    "ipa": "əbrəzɐˈvanʲɪjə",
     "english": "education",
     "spanish": "educación",
     "category": "education",
@@ -546,6 +614,7 @@
   {
     "id": 69,
     "russian": "зна́ние",
+    "ipa": "ˈznanʲɪjə",
     "english": "knowledge",
     "spanish": "conocimiento",
     "category": "education",
@@ -554,6 +623,7 @@
   {
     "id": 70,
     "russian": "на́вык",
+    "ipa": "ˈnavɨk",
     "english": "skill",
     "spanish": "habilidad",
     "category": "education",
@@ -562,6 +632,7 @@
   {
     "id": 71,
     "russian": "экза́мен",
+    "ipa": "ɪˈɡzamʲɪn",
     "english": "exam",
     "spanish": "examen",
     "category": "education",
@@ -570,6 +641,7 @@
   {
     "id": 72,
     "russian": "здоро́вье",
+    "ipa": "zdɐˈrovʲjə",
     "english": "health",
     "spanish": "salud",
     "category": "body",
@@ -578,6 +650,7 @@
   {
     "id": 73,
     "russian": "боле́знь",
+    "ipa": "bɐˈlʲɛsnʲ",
     "english": "illness",
     "spanish": "enfermedad",
     "category": "body",
@@ -586,6 +659,7 @@
   {
     "id": 74,
     "russian": "врач",
+    "ipa": "vratɕ",
     "english": "doctor",
     "spanish": "médico",
     "category": "body",
@@ -594,6 +668,7 @@
   {
     "id": 75,
     "russian": "сча́стье",
+    "ipa": "ˈɕːastʲjə",
     "english": "happiness",
     "spanish": "felicidad",
     "category": "emotions",
@@ -602,6 +677,7 @@
   {
     "id": 76,
     "russian": "страх",
+    "ipa": "strax",
     "english": "fear",
     "spanish": "miedo",
     "category": "emotions",
@@ -610,6 +686,7 @@
   {
     "id": 77,
     "russian": "наде́жда",
+    "ipa": "nɐˈdʲɛʐdə",
     "english": "hope",
     "spanish": "esperanza",
     "category": "emotions",
@@ -618,6 +695,7 @@
   {
     "id": 78,
     "russian": "любо́вь",
+    "ipa": "lʲʊˈbofʲ",
     "english": "love",
     "spanish": "amor",
     "category": "emotions",
@@ -626,6 +704,7 @@
   {
     "id": 79,
     "russian": "ре́вность",
+    "ipa": "ˈrʲɛvnəstʲ",
     "english": "jealousy",
     "spanish": "celos",
     "category": "emotions",
@@ -634,6 +713,7 @@
   {
     "id": 80,
     "russian": "реши́ть",
+    "ipa": "rʲɪˈʂɨtʲ",
     "english": "to decide",
     "spanish": "decidir",
     "category": "verbs",
@@ -642,6 +722,7 @@
   {
     "id": 81,
     "russian": "вы́брать",
+    "ipa": "ˈvɨbrətʲ",
     "english": "to choose",
     "spanish": "elegir",
     "category": "verbs",
@@ -650,6 +731,7 @@
   {
     "id": 82,
     "russian": "объясни́ть",
+    "ipa": "əbjɪˈsnʲitʲ",
     "english": "to explain",
     "spanish": "explicar",
     "category": "verbs",
@@ -658,6 +740,7 @@
   {
     "id": 83,
     "russian": "сравни́ть",
+    "ipa": "srɐˈvnʲitʲ",
     "english": "to compare",
     "spanish": "comparar",
     "category": "verbs",
@@ -666,6 +749,7 @@
   {
     "id": 84,
     "russian": "дости́чь",
+    "ipa": "dɐˈstʲitɕ",
     "english": "to achieve",
     "spanish": "lograr",
     "category": "verbs",
@@ -674,6 +758,7 @@
   {
     "id": 85,
     "russian": "рекомендова́ть",
+    "ipa": "rʲɪkəmʲɪndɐˈvatʲ",
     "english": "to recommend",
     "spanish": "recomendar",
     "category": "verbs",
@@ -682,6 +767,7 @@
   {
     "id": 86,
     "russian": "на са́мом де́ле",
+    "ipa": "na ˈsaməm ˈdʲɛlʲɪ",
     "english": "actually",
     "spanish": "en realidad",
     "category": "adverbs",
@@ -690,6 +776,7 @@
   {
     "id": 87,
     "russian": "неме́дленно",
+    "ipa": "nʲɪˈmʲɛdlʲɪnnə",
     "english": "immediately",
     "spanish": "inmediatamente",
     "category": "adverbs",
@@ -698,6 +785,7 @@
   {
     "id": 88,
     "russian": "к сожале́нию",
+    "ipa": "k səʐɐˈlʲɛnʲɪjʊ",
     "english": "unfortunately",
     "spanish": "desafortunadamente",
     "category": "adverbs",
@@ -706,6 +794,7 @@
   {
     "id": 89,
     "russian": "окружа́ющая среда́",
+    "ipa": "əkrʊˈʐajʊɕːəjə srʲɪˈda",
     "english": "environment",
     "spanish": "medio ambiente",
     "category": "nature",
@@ -714,6 +803,7 @@
   {
     "id": 90,
     "russian": "о́бщество",
+    "ipa": "ˈopɕːɪstvə",
     "english": "society",
     "spanish": "sociedad",
     "category": "nouns",
@@ -722,6 +812,7 @@
   {
     "id": 91,
     "russian": "вы́бор",
+    "ipa": "ˈvɨbər",
     "english": "choice",
     "spanish": "elección",
     "category": "nouns",
@@ -730,6 +821,7 @@
   {
     "id": 92,
     "russian": "убежде́ние",
+    "ipa": "ʊbʲɪˈʐdʲɛnʲɪjə",
     "english": "belief",
     "spanish": "convicción",
     "category": "nouns",
@@ -738,6 +830,7 @@
   {
     "id": 93,
     "russian": "сомне́ние",
+    "ipa": "sɐˈmnʲɛnʲɪjə",
     "english": "doubt",
     "spanish": "duda",
     "category": "nouns",
@@ -746,6 +839,7 @@
   {
     "id": 94,
     "russian": "явле́ние",
+    "ipa": "jɪˈvlʲɛnʲɪjə",
     "english": "phenomenon",
     "spanish": "fenómeno",
     "category": "nouns",
@@ -754,6 +848,7 @@
   {
     "id": 95,
     "russian": "реше́ние",
+    "ipa": "rʲɪˈʂɛnʲɪjə",
     "english": "solution",
     "spanish": "solución",
     "category": "nouns",
@@ -762,6 +857,7 @@
   {
     "id": 96,
     "russian": "иссле́дование",
+    "ipa": "ɪˈsslʲɛdəvənʲɪjə",
     "english": "research",
     "spanish": "investigación",
     "category": "nouns",
@@ -770,6 +866,7 @@
   {
     "id": 97,
     "russian": "влия́ние",
+    "ipa": "vlʲɪˈjanʲɪjə",
     "english": "influence",
     "spanish": "influencia",
     "category": "nouns",
@@ -778,6 +875,7 @@
   {
     "id": 98,
     "russian": "угро́за",
+    "ipa": "ʊˈɡrozə",
     "english": "threat",
     "spanish": "amenaza",
     "category": "nouns",
@@ -786,6 +884,7 @@
   {
     "id": 99,
     "russian": "осозна́ние",
+    "ipa": "əsɐˈznanʲɪjə",
     "english": "awareness",
     "spanish": "conciencia",
     "category": "nouns",
@@ -794,6 +893,7 @@
   {
     "id": 100,
     "russian": "разви́тие",
+    "ipa": "rɐˈzvʲitʲɪjə",
     "english": "development",
     "spanish": "desarrollo",
     "category": "nouns",
@@ -802,6 +902,7 @@
   {
     "id": 101,
     "russian": "прогре́сс",
+    "ipa": "prɐˈɡrʲɛss",
     "english": "progress",
     "spanish": "progreso",
     "category": "nouns",
@@ -810,6 +911,7 @@
   {
     "id": 102,
     "russian": "после́дствие",
+    "ipa": "pɐˈslʲɛtstvʲɪjə",
     "english": "consequence",
     "spanish": "consecuencia",
     "category": "nouns",
@@ -818,6 +920,7 @@
   {
     "id": 103,
     "russian": "предсказа́ть",
+    "ipa": "prʲɪtskɐˈzatʲ",
     "english": "to predict",
     "spanish": "predecir",
     "category": "verbs",
@@ -826,6 +929,7 @@
   {
     "id": 104,
     "russian": "предполага́ть",
+    "ipa": "prʲɪtpəɫɐˈɡatʲ",
     "english": "to assume",
     "spanish": "asumir",
     "category": "verbs",
@@ -834,6 +938,7 @@
   {
     "id": 105,
     "russian": "доказа́ть",
+    "ipa": "dəkɐˈzatʲ",
     "english": "to prove",
     "spanish": "demostrar",
     "category": "verbs",
@@ -842,6 +947,7 @@
   {
     "id": 106,
     "russian": "сомнева́ться",
+    "ipa": "səmnʲɪˈvatsə",
     "english": "to doubt",
     "spanish": "dudar",
     "category": "verbs",
@@ -850,6 +956,7 @@
   {
     "id": 107,
     "russian": "вести́ перегово́ры",
+    "ipa": "vʲɪˈstʲi pʲɪrʲɪɡɐˈvorɨ",
     "english": "to negotiate",
     "spanish": "negociar",
     "category": "verbs",
@@ -858,6 +965,7 @@
   {
     "id": 108,
     "russian": "анализи́ровать",
+    "ipa": "ənəlʲɪˈzʲirəvətʲ",
     "english": "to analyze",
     "spanish": "analizar",
     "category": "verbs",
@@ -866,6 +974,7 @@
   {
     "id": 109,
     "russian": "оце́нивать",
+    "ipa": "ɐˈtsɛnʲɪvətʲ",
     "english": "to assess",
     "spanish": "evaluar",
     "category": "verbs",
@@ -874,6 +983,7 @@
   {
     "id": 110,
     "russian": "доста́точный",
+    "ipa": "dɐˈstatətɕnɨj",
     "english": "sufficient",
     "spanish": "suficiente",
     "category": "adjectives",
@@ -882,6 +992,7 @@
   {
     "id": 111,
     "russian": "очеви́дный",
+    "ipa": "ətɕɪˈvʲidnɨj",
     "english": "obvious",
     "spanish": "obvio",
     "category": "adjectives",
@@ -890,6 +1001,7 @@
   {
     "id": 112,
     "russian": "сло́жный",
+    "ipa": "ˈsɫoʐnɨj",
     "english": "complex",
     "spanish": "complejo",
     "category": "adjectives",
@@ -898,6 +1010,7 @@
   {
     "id": 113,
     "russian": "относи́тельный",
+    "ipa": "ətnɐˈsʲitʲɪlʲnɨj",
     "english": "relative",
     "spanish": "relativo",
     "category": "adjectives",
@@ -906,6 +1019,7 @@
   {
     "id": 114,
     "russian": "незави́симый",
+    "ipa": "nʲɪzɐˈvʲisʲɪmɨj",
     "english": "independent",
     "spanish": "independiente",
     "category": "adjectives",
@@ -914,6 +1028,7 @@
   {
     "id": 115,
     "russian": "усто́йчивый",
+    "ipa": "ʊˈstojtɕɪvɨj",
     "english": "sustainable",
     "spanish": "sostenible",
     "category": "adjectives",
@@ -922,6 +1037,7 @@
   {
     "id": 116,
     "russian": "хотя́",
+    "ipa": "xɐˈtʲa",
     "english": "even though",
     "spanish": "aunque",
     "category": "conjunctions",
@@ -930,6 +1046,7 @@
   {
     "id": 117,
     "russian": "одна́ко",
+    "ipa": "ɐˈdnakə",
     "english": "however",
     "spanish": "sin embargo",
     "category": "conjunctions",
@@ -938,6 +1055,7 @@
   {
     "id": 118,
     "russian": "тогда́ как",
+    "ipa": "tɐˈɡda kak",
     "english": "whereas",
     "spanish": "en cambio",
     "category": "conjunctions",
@@ -946,6 +1064,7 @@
   {
     "id": 119,
     "russian": "кро́ме того́",
+    "ipa": "ˈkromʲɪ tɐˈvo",
     "english": "moreover",
     "spanish": "además",
     "category": "conjunctions",
@@ -954,6 +1073,7 @@
   {
     "id": 120,
     "russian": "свобо́да",
+    "ipa": "svɐˈbodə",
     "english": "freedom",
     "spanish": "libertad",
     "category": "nouns",
@@ -962,6 +1082,7 @@
   {
     "id": 121,
     "russian": "оди́н",
+    "ipa": "ɐˈdʲin",
     "english": "one",
     "spanish": "uno",
     "category": "numbers",
@@ -970,6 +1091,7 @@
   {
     "id": 122,
     "russian": "два",
+    "ipa": "dva",
     "english": "two",
     "spanish": "dos",
     "category": "numbers",
@@ -978,6 +1100,7 @@
   {
     "id": 123,
     "russian": "три",
+    "ipa": "trʲi",
     "english": "three",
     "spanish": "tres",
     "category": "numbers",
@@ -986,6 +1109,7 @@
   {
     "id": 124,
     "russian": "четы́ре",
+    "ipa": "tɕɪˈtɨrʲɪ",
     "english": "four",
     "spanish": "cuatro",
     "category": "numbers",
@@ -994,6 +1118,7 @@
   {
     "id": 125,
     "russian": "пять",
+    "ipa": "pʲatʲ",
     "english": "five",
     "spanish": "cinco",
     "category": "numbers",
@@ -1002,6 +1127,7 @@
   {
     "id": 126,
     "russian": "шесть",
+    "ipa": "ʂɛstʲ",
     "english": "six",
     "spanish": "seis",
     "category": "numbers",
@@ -1010,6 +1136,7 @@
   {
     "id": 127,
     "russian": "семь",
+    "ipa": "sʲɛmʲ",
     "english": "seven",
     "spanish": "siete",
     "category": "numbers",
@@ -1018,6 +1145,7 @@
   {
     "id": 128,
     "russian": "во́семь",
+    "ipa": "ˈvosʲɪmʲ",
     "english": "eight",
     "spanish": "ocho",
     "category": "numbers",
@@ -1026,6 +1154,7 @@
   {
     "id": 129,
     "russian": "де́вять",
+    "ipa": "ˈdʲɛvʲətʲ",
     "english": "nine",
     "spanish": "nueve",
     "category": "numbers",
@@ -1034,6 +1163,7 @@
   {
     "id": 130,
     "russian": "де́сять",
+    "ipa": "ˈdʲɛsʲətʲ",
     "english": "ten",
     "spanish": "diez",
     "category": "numbers",
@@ -1042,6 +1172,7 @@
   {
     "id": 131,
     "russian": "кра́сный",
+    "ipa": "ˈkrasnɨj",
     "english": "red",
     "spanish": "rojo",
     "category": "colors",
@@ -1050,6 +1181,7 @@
   {
     "id": 132,
     "russian": "си́ний",
+    "ipa": "ˈsʲinʲɪj",
     "english": "blue",
     "spanish": "azul",
     "category": "colors",
@@ -1058,6 +1190,7 @@
   {
     "id": 133,
     "russian": "зелёный",
+    "ipa": "zʲɪˈlʲonɨj",
     "english": "green",
     "spanish": "verde",
     "category": "colors",
@@ -1066,6 +1199,7 @@
   {
     "id": 134,
     "russian": "чёрный",
+    "ipa": "ˈtɕornɨj",
     "english": "black",
     "spanish": "negro",
     "category": "colors",
@@ -1074,6 +1208,7 @@
   {
     "id": 135,
     "russian": "бе́лый",
+    "ipa": "ˈbʲɛɫɨj",
     "english": "white",
     "spanish": "blanco",
     "category": "colors",
@@ -1082,6 +1217,7 @@
   {
     "id": 136,
     "russian": "жёлтый",
+    "ipa": "ˈʐoɫtɨj",
     "english": "yellow",
     "spanish": "amarillo",
     "category": "colors",
@@ -1090,6 +1226,7 @@
   {
     "id": 137,
     "russian": "со́лнечный",
+    "ipa": "ˈsoɫnʲɪtɕnɨj",
     "english": "sunny",
     "spanish": "soleado",
     "category": "weather",
@@ -1098,6 +1235,7 @@
   {
     "id": 138,
     "russian": "дождли́вый",
+    "ipa": "dɐˈʐdlʲivɨj",
     "english": "rainy",
     "spanish": "lluvioso",
     "category": "weather",
@@ -1106,6 +1244,7 @@
   {
     "id": 139,
     "russian": "о́блачный",
+    "ipa": "ˈobɫətɕnɨj",
     "english": "cloudy",
     "spanish": "nublado",
     "category": "weather",
@@ -1114,6 +1253,7 @@
   {
     "id": 140,
     "russian": "холо́дный",
+    "ipa": "xɐˈɫodnɨj",
     "english": "cold",
     "spanish": "frío",
     "category": "weather",
@@ -1122,6 +1262,7 @@
   {
     "id": 141,
     "russian": "горя́чий",
+    "ipa": "ɡɐˈrʲatɕɪj",
     "english": "hot",
     "spanish": "caluroso",
     "category": "weather",
@@ -1130,6 +1271,7 @@
   {
     "id": 142,
     "russian": "брат",
+    "ipa": "brat",
     "english": "brother",
     "spanish": "hermano",
     "category": "family",
@@ -1138,6 +1280,7 @@
   {
     "id": 143,
     "russian": "сестра́",
+    "ipa": "sʲɪˈstra",
     "english": "sister",
     "spanish": "hermana",
     "category": "family",
@@ -1146,6 +1289,7 @@
   {
     "id": 144,
     "russian": "сын",
+    "ipa": "sɨn",
     "english": "son",
     "spanish": "hijo",
     "category": "family",
@@ -1154,6 +1298,7 @@
   {
     "id": 145,
     "russian": "дочь",
+    "ipa": "dotɕ",
     "english": "daughter",
     "spanish": "hija",
     "category": "family",
@@ -1162,6 +1307,7 @@
   {
     "id": 146,
     "russian": "шко́ла",
+    "ipa": "ˈʂkoɫə",
     "english": "school",
     "spanish": "escuela",
     "category": "city",
@@ -1170,6 +1316,7 @@
   {
     "id": 147,
     "russian": "парк",
+    "ipa": "park",
     "english": "park",
     "spanish": "parque",
     "category": "city",
@@ -1178,6 +1325,7 @@
   {
     "id": 148,
     "russian": "ле́вый",
+    "ipa": "ˈlʲɛvɨj",
     "english": "left",
     "spanish": "izquierda",
     "category": "directions",
@@ -1186,6 +1334,7 @@
   {
     "id": 149,
     "russian": "пра́вый",
+    "ipa": "ˈpravɨj",
     "english": "right",
     "spanish": "derecha",
     "category": "directions",
@@ -1194,6 +1343,7 @@
   {
     "id": 150,
     "russian": "по́мощь",
+    "ipa": "ˈpoməɕː",
     "english": "help",
     "spanish": "ayuda",
     "category": "phrases",
@@ -1202,6 +1352,7 @@
   {
     "id": 151,
     "russian": "сад",
+    "ipa": "sat",
     "english": "garden",
     "spanish": "jardín",
     "category": "house",
@@ -1210,6 +1361,7 @@
   {
     "id": 152,
     "russian": "окно́",
+    "ipa": "ɐˈkno",
     "english": "window",
     "spanish": "ventana",
     "category": "house",
@@ -1218,6 +1370,7 @@
   {
     "id": 153,
     "russian": "дверь",
+    "ipa": "dvʲɛrʲ",
     "english": "door",
     "spanish": "puerta",
     "category": "house",
@@ -1226,6 +1379,7 @@
   {
     "id": 154,
     "russian": "стул",
+    "ipa": "stuɫ",
     "english": "chair",
     "spanish": "silla",
     "category": "house",
@@ -1234,6 +1388,7 @@
   {
     "id": 155,
     "russian": "стол",
+    "ipa": "stoɫ",
     "english": "table",
     "spanish": "mesa",
     "category": "house",
@@ -1242,6 +1397,7 @@
   {
     "id": 156,
     "russian": "кни́га",
+    "ipa": "ˈknʲiɡə",
     "english": "book",
     "spanish": "libro",
     "category": "education",
@@ -1250,6 +1406,7 @@
   {
     "id": 157,
     "russian": "ру́чка",
+    "ipa": "ˈrutɕkə",
     "english": "pen",
     "spanish": "bolígrafo",
     "category": "education",
@@ -1258,6 +1415,7 @@
   {
     "id": 158,
     "russian": "чита́ть",
+    "ipa": "tɕɪˈtatʲ",
     "english": "to read",
     "spanish": "leer",
     "category": "verbs",
@@ -1266,6 +1424,7 @@
   {
     "id": 159,
     "russian": "писа́ть",
+    "ipa": "pʲɪˈsatʲ",
     "english": "to write",
     "spanish": "escribir",
     "category": "verbs",
@@ -1274,6 +1433,7 @@
   {
     "id": 160,
     "russian": "говори́ть",
+    "ipa": "ɡəvɐˈrʲitʲ",
     "english": "to speak",
     "spanish": "hablar",
     "category": "verbs",
@@ -1282,6 +1442,7 @@
   {
     "id": 161,
     "russian": "слу́шать",
+    "ipa": "ˈsɫuʂətʲ",
     "english": "to listen",
     "spanish": "escuchar",
     "category": "verbs",
@@ -1290,6 +1451,7 @@
   {
     "id": 162,
     "russian": "откры́ть",
+    "ipa": "ɐˈtkrɨtʲ",
     "english": "to open",
     "spanish": "abrir",
     "category": "verbs",
@@ -1298,6 +1460,7 @@
   {
     "id": 163,
     "russian": "закры́ть",
+    "ipa": "zɐˈkrɨtʲ",
     "english": "to close",
     "spanish": "cerrar",
     "category": "verbs",
@@ -1306,6 +1469,7 @@
   {
     "id": 164,
     "russian": "спать",
+    "ipa": "spatʲ",
     "english": "to sleep",
     "spanish": "dormir",
     "category": "verbs",
@@ -1314,6 +1478,7 @@
   {
     "id": 165,
     "russian": "бе́гать",
+    "ipa": "ˈbʲɛɡətʲ",
     "english": "to run",
     "spanish": "correr",
     "category": "sports",
@@ -1322,6 +1487,7 @@
   {
     "id": 166,
     "russian": "пла́вать",
+    "ipa": "ˈpɫavətʲ",
     "english": "to swim",
     "spanish": "nadar",
     "category": "sports",
@@ -1330,6 +1496,7 @@
   {
     "id": 167,
     "russian": "футбо́л",
+    "ipa": "fʊˈdboɫ",
     "english": "football",
     "spanish": "fútbol",
     "category": "sports",
@@ -1338,6 +1505,7 @@
   {
     "id": 168,
     "russian": "му́зыка",
+    "ipa": "ˈmuzɨkə",
     "english": "music",
     "spanish": "música",
     "category": "music",
@@ -1346,6 +1514,7 @@
   {
     "id": 169,
     "russian": "пе́сня",
+    "ipa": "ˈpʲɛsnʲə",
     "english": "song",
     "spanish": "canción",
     "category": "music",
@@ -1354,6 +1523,7 @@
   {
     "id": 170,
     "russian": "петь",
+    "ipa": "pʲɛtʲ",
     "english": "to sing",
     "spanish": "cantar",
     "category": "music",
@@ -1362,6 +1532,7 @@
   {
     "id": 171,
     "russian": "вечери́нка",
+    "ipa": "vʲɪtɕɪˈrʲinkə",
     "english": "party",
     "spanish": "fiesta",
     "category": "city",
@@ -1370,6 +1541,7 @@
   {
     "id": 172,
     "russian": "пляж",
+    "ipa": "plʲaʂ",
     "english": "beach",
     "spanish": "playa",
     "category": "nature",
@@ -1378,6 +1550,7 @@
   {
     "id": 173,
     "russian": "гора́",
+    "ipa": "ɡɐˈra",
     "english": "mountain",
     "spanish": "montaña",
     "category": "nature",
@@ -1386,6 +1559,7 @@
   {
     "id": 174,
     "russian": "река́",
+    "ipa": "rʲɪˈka",
     "english": "river",
     "spanish": "río",
     "category": "nature",
@@ -1394,6 +1568,7 @@
   {
     "id": 175,
     "russian": "де́рево",
+    "ipa": "ˈdʲɛrʲɪvə",
     "english": "tree",
     "spanish": "árbol",
     "category": "nature",
@@ -1402,6 +1577,7 @@
   {
     "id": 176,
     "russian": "цвето́к",
+    "ipa": "tsvʲɪˈtok",
     "english": "flower",
     "spanish": "flor",
     "category": "nature",
@@ -1410,6 +1586,7 @@
   {
     "id": 177,
     "russian": "не́бо",
+    "ipa": "ˈnʲɛbə",
     "english": "sky",
     "spanish": "cielo",
     "category": "nature",
@@ -1418,6 +1595,7 @@
   {
     "id": 178,
     "russian": "уста́лый",
+    "ipa": "ʊˈstaɫɨj",
     "english": "tired",
     "spanish": "cansado",
     "category": "emotions",
@@ -1426,6 +1604,7 @@
   {
     "id": 179,
     "russian": "серди́тый",
+    "ipa": "sʲɪˈrdʲitɨj",
     "english": "angry",
     "spanish": "enfadado",
     "category": "emotions",
@@ -1434,6 +1613,7 @@
   {
     "id": 180,
     "russian": "обеспоко́енный",
+    "ipa": "əbʲɪspɐˈkojənnɨj",
     "english": "worried",
     "spanish": "preocupado",
     "category": "emotions",
@@ -1442,6 +1622,7 @@
   {
     "id": 181,
     "russian": "дохо́д",
+    "ipa": "dɐˈxot",
     "english": "income",
     "spanish": "ingresos",
     "category": "money",
@@ -1450,6 +1631,7 @@
   {
     "id": 182,
     "russian": "копи́ть",
+    "ipa": "kɐˈpʲitʲ",
     "english": "to save",
     "spanish": "ahorrar",
     "category": "money",
@@ -1458,6 +1640,7 @@
   {
     "id": 183,
     "russian": "тра́тить",
+    "ipa": "ˈtratʲɪtʲ",
     "english": "to spend",
     "spanish": "gastar",
     "category": "money",
@@ -1466,6 +1649,7 @@
   {
     "id": 184,
     "russian": "долг",
+    "ipa": "doɫk",
     "english": "debt",
     "spanish": "deuda",
     "category": "money",
@@ -1474,6 +1658,7 @@
   {
     "id": 185,
     "russian": "цена́",
+    "ipa": "tsɪˈna",
     "english": "price",
     "spanish": "precio",
     "category": "money",
@@ -1482,6 +1667,7 @@
   {
     "id": 186,
     "russian": "банк",
+    "ipa": "bank",
     "english": "bank",
     "spanish": "banco",
     "category": "money",
@@ -1490,6 +1676,7 @@
   {
     "id": 187,
     "russian": "наня́ть",
+    "ipa": "nɐˈnʲatʲ",
     "english": "to hire",
     "spanish": "contratar",
     "category": "work",
@@ -1498,6 +1685,7 @@
   {
     "id": 188,
     "russian": "колле́га",
+    "ipa": "kɐˈɫlʲɛɡə",
     "english": "colleague",
     "spanish": "colega",
     "category": "work",
@@ -1506,6 +1694,7 @@
   {
     "id": 189,
     "russian": "срок",
+    "ipa": "srok",
     "english": "deadline",
     "spanish": "fecha límite",
     "category": "work",
@@ -1514,6 +1703,7 @@
   {
     "id": 190,
     "russian": "карье́ра",
+    "ipa": "kɐˈrʲjɛrə",
     "english": "career",
     "spanish": "carrera",
     "category": "work",
@@ -1522,6 +1712,7 @@
   {
     "id": 191,
     "russian": "улучша́ть",
+    "ipa": "ʊɫʊˈtɕʂatʲ",
     "english": "to improve",
     "spanish": "mejorar",
     "category": "verbs",
@@ -1530,6 +1721,7 @@
   {
     "id": 192,
     "russian": "предлага́ть",
+    "ipa": "prʲɪdɫɐˈɡatʲ",
     "english": "to suggest",
     "spanish": "sugerir",
     "category": "verbs",
@@ -1538,6 +1730,7 @@
   {
     "id": 193,
     "russian": "избега́ть",
+    "ipa": "ɪzbʲɪˈɡatʲ",
     "english": "to avoid",
     "spanish": "evitar",
     "category": "verbs",
@@ -1546,6 +1739,7 @@
   {
     "id": 194,
     "russian": "развива́ть",
+    "ipa": "rəzvʲɪˈvatʲ",
     "english": "to develop",
     "spanish": "desarrollar",
     "category": "verbs",
@@ -1554,6 +1748,7 @@
   {
     "id": 195,
     "russian": "подде́рживать",
+    "ipa": "pɐˈddʲɛrʐɨvətʲ",
     "english": "to support",
     "spanish": "apoyar",
     "category": "verbs",
@@ -1562,6 +1757,7 @@
   {
     "id": 196,
     "russian": "загрязне́ние",
+    "ipa": "zəɡrʲɪˈznʲɛnʲɪjə",
     "english": "pollution",
     "spanish": "contaminación",
     "category": "environment",
@@ -1570,6 +1766,7 @@
   {
     "id": 197,
     "russian": "кли́мат",
+    "ipa": "ˈklʲimət",
     "english": "climate",
     "spanish": "clima",
     "category": "environment",
@@ -1578,6 +1775,7 @@
   {
     "id": 198,
     "russian": "перераба́тывать",
+    "ipa": "pʲɪrʲɪrɐˈbatɨvətʲ",
     "english": "to recycle",
     "spanish": "reciclar",
     "category": "environment",
@@ -1586,6 +1784,7 @@
   {
     "id": 199,
     "russian": "эне́ргия",
+    "ipa": "ɪˈnʲɛrɡʲɪjə",
     "english": "energy",
     "spanish": "energía",
     "category": "environment",
@@ -1594,6 +1793,7 @@
   {
     "id": 200,
     "russian": "прави́тельство",
+    "ipa": "prɐˈvʲitʲɪlʲstvə",
     "english": "government",
     "spanish": "gobierno",
     "category": "society",
@@ -1602,6 +1802,7 @@
   {
     "id": 201,
     "russian": "зако́н",
+    "ipa": "zɐˈkon",
     "english": "law",
     "spanish": "ley",
     "category": "society",
@@ -1610,6 +1811,7 @@
   {
     "id": 202,
     "russian": "вы́боры",
+    "ipa": "ˈvɨbərɨ",
     "english": "election",
     "spanish": "elección",
     "category": "society",
@@ -1618,6 +1820,7 @@
   {
     "id": 203,
     "russian": "граждани́н",
+    "ipa": "ɡrəʐdɐˈnʲin",
     "english": "citizen",
     "spanish": "ciudadano",
     "category": "society",
@@ -1626,6 +1829,7 @@
   {
     "id": 204,
     "russian": "культу́ра",
+    "ipa": "kʊˈlʲturə",
     "english": "culture",
     "spanish": "cultura",
     "category": "society",
@@ -1634,6 +1838,7 @@
   {
     "id": 205,
     "russian": "нау́ка",
+    "ipa": "nɐˈukə",
     "english": "science",
     "spanish": "ciencia",
     "category": "science",
@@ -1642,6 +1847,7 @@
   {
     "id": 206,
     "russian": "экспериме́нт",
+    "ipa": "ɪkspʲɪrʲɪˈmʲɛnt",
     "english": "experiment",
     "spanish": "experimento",
     "category": "science",
@@ -1650,6 +1856,7 @@
   {
     "id": 207,
     "russian": "доказа́тельство",
+    "ipa": "dəkɐˈzatʲɪlʲstvə",
     "english": "evidence",
     "spanish": "evidencia",
     "category": "science",
@@ -1658,6 +1865,7 @@
   {
     "id": 208,
     "russian": "тео́рия",
+    "ipa": "tʲɪˈorʲɪjə",
     "english": "theory",
     "spanish": "teoría",
     "category": "science",
@@ -1666,6 +1874,7 @@
   {
     "id": 209,
     "russian": "откры́тие",
+    "ipa": "ɐˈtkrɨtʲɪjə",
     "english": "discovery",
     "spanish": "descubrimiento",
     "category": "science",
@@ -1674,6 +1883,7 @@
   {
     "id": 210,
     "russian": "возмо́жно",
+    "ipa": "vɐˈzmoʐnə",
     "english": "perhaps",
     "spanish": "quizás",
     "category": "adverbs",
@@ -1682,6 +1892,7 @@
   {
     "id": 211,
     "russian": "предположе́ние",
+    "ipa": "prʲɪtpəɫɐˈʐɛnʲɪjə",
     "english": "assumption",
     "spanish": "suposición",
     "category": "nouns",
@@ -1690,6 +1901,7 @@
   {
     "id": 212,
     "russian": "спо́р",
+    "ipa": "spor",
     "english": "controversy",
     "spanish": "controversia",
     "category": "society",
@@ -1698,6 +1910,7 @@
   {
     "id": 213,
     "russian": "нера́венство",
+    "ipa": "nʲɪˈravʲɪnstvə",
     "english": "inequality",
     "spanish": "desigualdad",
     "category": "society",
@@ -1706,6 +1919,7 @@
   {
     "id": 214,
     "russian": "усто́йчивость",
+    "ipa": "ʊˈstojtɕɪvəstʲ",
     "english": "sustainability",
     "spanish": "sostenibilidad",
     "category": "environment",
@@ -1714,6 +1928,7 @@
   {
     "id": 215,
     "russian": "то́чка зре́ния",
+    "ipa": "ˈtotɕkə ˈzrʲɛnʲɪjə",
     "english": "perspective",
     "spanish": "perspectiva",
     "category": "nouns",
@@ -1722,6 +1937,7 @@
   {
     "id": 216,
     "russian": "скры́тый смысл",
+    "ipa": "ˈskrɨtɨj smɨsɫ",
     "english": "implication",
     "spanish": "implicación",
     "category": "nouns",
@@ -1730,6 +1946,7 @@
   {
     "id": 217,
     "russian": "ограниче́ние",
+    "ipa": "əɡrənʲɪˈtɕɛnʲɪjə",
     "english": "constraint",
     "spanish": "restricción",
     "category": "nouns",
@@ -1738,6 +1955,7 @@
   {
     "id": 218,
     "russian": "сти́мул",
+    "ipa": "ˈstʲimʊɫ",
     "english": "incentive",
     "spanish": "incentivo",
     "category": "money",
@@ -1746,6 +1964,7 @@
   {
     "id": 219,
     "russian": "вы́ручка",
+    "ipa": "ˈvɨrʊtɕkə",
     "english": "revenue",
     "spanish": "ingresos",
     "category": "money",
@@ -1754,6 +1973,7 @@
   {
     "id": 220,
     "russian": "инвести́ция",
+    "ipa": "ɪnvʲɪˈstʲitsɨjə",
     "english": "investment",
     "spanish": "inversión",
     "category": "money",
@@ -1762,6 +1982,7 @@
   {
     "id": 221,
     "russian": "перегово́ры",
+    "ipa": "pʲɪrʲɪɡɐˈvorɨ",
     "english": "negotiation",
     "spanish": "negociación",
     "category": "work",
@@ -1770,6 +1991,7 @@
   {
     "id": 222,
     "russian": "эффекти́вность",
+    "ipa": "ɪffʲɪˈktʲivnəstʲ",
     "english": "efficiency",
     "spanish": "eficiencia",
     "category": "work",
@@ -1778,6 +2000,7 @@
   {
     "id": 223,
     "russian": "иннова́ция",
+    "ipa": "ɪnnɐˈvatsɨjə",
     "english": "innovation",
     "spanish": "innovación",
     "category": "technology",
@@ -1786,6 +2009,7 @@
   {
     "id": 224,
     "russian": "алгори́тм",
+    "ipa": "əɫɡɐˈrʲitm",
     "english": "algorithm",
     "spanish": "algoritmo",
     "category": "technology",
@@ -1794,6 +2018,7 @@
   {
     "id": 225,
     "russian": "конфиденциа́льность",
+    "ipa": "kənfʲɪdʲɪntsɨˈalʲnəstʲ",
     "english": "privacy",
     "spanish": "privacidad",
     "category": "technology",
@@ -1802,6 +2027,7 @@
   {
     "id": 226,
     "russian": "иску́сственный интелле́кт",
+    "ipa": "ɪˈskusstvʲɪnnɨj ɪntʲɪˈɫlʲɛkt",
     "english": "artificial intelligence",
     "spanish": "inteligencia artificial",
     "category": "technology",
@@ -1810,6 +2036,7 @@
   {
     "id": 227,
     "russian": "да́нные",
+    "ipa": "ˈdannɨjə",
     "english": "data",
     "spanish": "datos",
     "category": "technology",
@@ -1818,6 +2045,7 @@
   {
     "id": 228,
     "russian": "кибербезопа́сность",
+    "ipa": "kʲɪbʲɪrbʲɪzɐˈpasnəstʲ",
     "english": "cybersecurity",
     "spanish": "ciberseguridad",
     "category": "technology",
@@ -1826,6 +2054,7 @@
   {
     "id": 229,
     "russian": "подрыва́ть",
+    "ipa": "pədrɨˈvatʲ",
     "english": "to undermine",
     "spanish": "socavar",
     "category": "verbs",
@@ -1834,6 +2063,7 @@
   {
     "id": 230,
     "russian": "укрепля́ть",
+    "ipa": "ʊkrʲɪˈplʲatʲ",
     "english": "to reinforce",
     "spanish": "reforzar",
     "category": "verbs",
@@ -1842,6 +2072,7 @@
   {
     "id": 231,
     "russian": "смягча́ть",
+    "ipa": "smʲɪˈktɕatʲ",
     "english": "to mitigate",
     "spanish": "mitigar",
     "category": "verbs",
@@ -1850,6 +2081,7 @@
   {
     "id": 232,
     "russian": "облегча́ть",
+    "ipa": "əblʲɪˈktɕatʲ",
     "english": "to facilitate",
     "spanish": "facilitar",
     "category": "verbs",
@@ -1858,6 +2090,7 @@
   {
     "id": 233,
     "russian": "признава́ть",
+    "ipa": "prʲɪznɐˈvatʲ",
     "english": "to acknowledge",
     "spanish": "reconocer",
     "category": "verbs",
@@ -1866,6 +2099,7 @@
   {
     "id": 234,
     "russian": "неоднозна́чный",
+    "ipa": "nʲɪədnɐˈznatɕnɨj",
     "english": "ambiguous",
     "spanish": "ambiguo",
     "category": "adjectives",
@@ -1874,6 +2108,7 @@
   {
     "id": 235,
     "russian": "осуществи́мый",
+    "ipa": "əsʊɕːɪˈstvʲimɨj",
     "english": "feasible",
     "spanish": "factible",
     "category": "adjectives",
@@ -1882,6 +2117,7 @@
   {
     "id": 236,
     "russian": "неизбе́жный",
+    "ipa": "nʲɪɪˈzbʲɛʐnɨj",
     "english": "inevitable",
     "spanish": "inevitable",
     "category": "adjectives",
@@ -1890,6 +2126,7 @@
   {
     "id": 237,
     "russian": "всесторо́нний",
+    "ipa": "fsʲɪstɐˈronnʲɪj",
     "english": "comprehensive",
     "spanish": "integral",
     "category": "adjectives",
@@ -1898,6 +2135,7 @@
   {
     "id": 238,
     "russian": "убеди́тельный",
+    "ipa": "ʊbʲɪˈdʲitʲɪlʲnɨj",
     "english": "compelling",
     "spanish": "convincente",
     "category": "adjectives",
@@ -1906,6 +2144,7 @@
   {
     "id": 239,
     "russian": "распростра́нённый",
+    "ipa": "rəsprəstrɐˈnʲonnɨj",
     "english": "prevalent",
     "spanish": "predominante",
     "category": "adjectives",
@@ -1914,6 +2153,7 @@
   {
     "id": 240,
     "russian": "вре́дный",
+    "ipa": "ˈvrʲɛdnɨj",
     "english": "detrimental",
     "spanish": "perjudicial",
     "category": "adjectives",
@@ -1922,6 +2162,7 @@
   {
     "id": 241,
     "russian": "голова́",
+    "ipa": "ɡəɫɐˈva",
     "english": "head",
     "spanish": "cabeza",
     "category": "body",
@@ -1930,6 +2171,7 @@
   {
     "id": 242,
     "russian": "рука́",
+    "ipa": "rʊˈka",
     "english": "hand",
     "spanish": "mano",
     "category": "body",
@@ -1938,6 +2180,7 @@
   {
     "id": 243,
     "russian": "нога́",
+    "ipa": "nɐˈɡa",
     "english": "foot",
     "spanish": "pie",
     "category": "body",
@@ -1946,6 +2189,7 @@
   {
     "id": 244,
     "russian": "глаз",
+    "ipa": "ɡɫas",
     "english": "eye",
     "spanish": "ojo",
     "category": "body",
@@ -1954,6 +2198,7 @@
   {
     "id": 245,
     "russian": "у́хо",
+    "ipa": "ˈuxə",
     "english": "ear",
     "spanish": "oreja",
     "category": "body",
@@ -1962,6 +2207,7 @@
   {
     "id": 246,
     "russian": "рот",
+    "ipa": "rot",
     "english": "mouth",
     "spanish": "boca",
     "category": "body",
@@ -1970,6 +2216,7 @@
   {
     "id": 247,
     "russian": "нос",
+    "ipa": "nos",
     "english": "nose",
     "spanish": "nariz",
     "category": "body",
@@ -1978,6 +2225,7 @@
   {
     "id": 248,
     "russian": "во́лосы",
+    "ipa": "ˈvoɫəsɨ",
     "english": "hair",
     "spanish": "pelo",
     "category": "body",
@@ -1986,6 +2234,7 @@
   {
     "id": 249,
     "russian": "рука́",
+    "ipa": "rʊˈka",
     "english": "arm",
     "spanish": "brazo",
     "category": "body",
@@ -1994,6 +2243,7 @@
   {
     "id": 250,
     "russian": "нога́",
+    "ipa": "nɐˈɡa",
     "english": "leg",
     "spanish": "pierna",
     "category": "body",
@@ -2002,6 +2252,7 @@
   {
     "id": 251,
     "russian": "крова́ть",
+    "ipa": "krɐˈvatʲ",
     "english": "bed",
     "spanish": "cama",
     "category": "house",
@@ -2010,6 +2261,7 @@
   {
     "id": 252,
     "russian": "ла́мпа",
+    "ipa": "ˈɫampə",
     "english": "lamp",
     "spanish": "lámpara",
     "category": "house",
@@ -2018,6 +2270,7 @@
   {
     "id": 253,
     "russian": "ключ",
+    "ipa": "klʲutɕ",
     "english": "key",
     "spanish": "llave",
     "category": "house",
@@ -2026,6 +2279,7 @@
   {
     "id": 254,
     "russian": "стена́",
+    "ipa": "stʲɪˈna",
     "english": "wall",
     "spanish": "pared",
     "category": "house",
@@ -2034,6 +2288,7 @@
   {
     "id": 255,
     "russian": "пол",
+    "ipa": "poɫ",
     "english": "floor",
     "spanish": "suelo",
     "category": "house",
@@ -2042,6 +2297,7 @@
   {
     "id": 256,
     "russian": "кры́ша",
+    "ipa": "ˈkrɨʂə",
     "english": "roof",
     "spanish": "tejado",
     "category": "house",
@@ -2050,6 +2306,7 @@
   {
     "id": 257,
     "russian": "яйцо́",
+    "ipa": "jɪˈjtso",
     "english": "egg",
     "spanish": "huevo",
     "category": "food",
@@ -2058,6 +2315,7 @@
   {
     "id": 258,
     "russian": "сыр",
+    "ipa": "sɨr",
     "english": "cheese",
     "spanish": "queso",
     "category": "food",
@@ -2066,6 +2324,7 @@
   {
     "id": 259,
     "russian": "ры́ба",
+    "ipa": "ˈrɨbə",
     "english": "fish",
     "spanish": "pescado",
     "category": "food",
@@ -2074,6 +2333,7 @@
   {
     "id": 260,
     "russian": "мя́со",
+    "ipa": "ˈmʲasə",
     "english": "meat",
     "spanish": "carne",
     "category": "food",
@@ -2082,6 +2342,7 @@
   {
     "id": 261,
     "russian": "суп",
+    "ipa": "sup",
     "english": "soup",
     "spanish": "sopa",
     "category": "food",
@@ -2090,6 +2351,7 @@
   {
     "id": 262,
     "russian": "сала́т",
+    "ipa": "sɐˈɫat",
     "english": "salad",
     "spanish": "ensalada",
     "category": "food",
@@ -2098,6 +2360,7 @@
   {
     "id": 263,
     "russian": "са́хар",
+    "ipa": "ˈsaxər",
     "english": "sugar",
     "spanish": "azúcar",
     "category": "food",
@@ -2106,6 +2369,7 @@
   {
     "id": 264,
     "russian": "соль",
+    "ipa": "solʲ",
     "english": "salt",
     "spanish": "sal",
     "category": "food",
@@ -2114,6 +2378,7 @@
   {
     "id": 265,
     "russian": "но́вый",
+    "ipa": "ˈnovɨj",
     "english": "new",
     "spanish": "nuevo",
     "category": "adjectives",
@@ -2122,6 +2387,7 @@
   {
     "id": 266,
     "russian": "ста́рый",
+    "ipa": "ˈstarɨj",
     "english": "old",
     "spanish": "viejo",
     "category": "adjectives",
@@ -2130,6 +2396,7 @@
   {
     "id": 267,
     "russian": "молодо́й",
+    "ipa": "məɫɐˈdoj",
     "english": "young",
     "spanish": "joven",
     "category": "adjectives",
@@ -2138,6 +2405,7 @@
   {
     "id": 268,
     "russian": "дли́нный",
+    "ipa": "ˈdlʲinnɨj",
     "english": "long",
     "spanish": "largo",
     "category": "adjectives",
@@ -2146,6 +2414,7 @@
   {
     "id": 269,
     "russian": "коро́ткий",
+    "ipa": "kɐˈrotkʲɪj",
     "english": "short",
     "spanish": "corto",
     "category": "adjectives",
@@ -2154,6 +2423,7 @@
   {
     "id": 270,
     "russian": "ме́дленный",
+    "ipa": "ˈmʲɛdlʲɪnnɨj",
     "english": "slow",
     "spanish": "lento",
     "category": "adjectives",
@@ -2162,6 +2432,7 @@
   {
     "id": 271,
     "russian": "просыпа́ться",
+    "ipa": "prəsɨˈpatsə",
     "english": "to wake up",
     "spanish": "despertarse",
     "category": "verbs",
@@ -2170,6 +2441,7 @@
   {
     "id": 272,
     "russian": "встава́ть",
+    "ipa": "fstɐˈvatʲ",
     "english": "to get up",
     "spanish": "levantarse",
     "category": "verbs",
@@ -2178,6 +2450,7 @@
   {
     "id": 273,
     "russian": "мыть",
+    "ipa": "mɨtʲ",
     "english": "to wash",
     "spanish": "lavarse",
     "category": "verbs",
@@ -2186,6 +2459,7 @@
   {
     "id": 274,
     "russian": "одева́ться",
+    "ipa": "ədʲɪˈvatsə",
     "english": "to dress",
     "spanish": "vestirse",
     "category": "verbs",
@@ -2194,6 +2468,7 @@
   {
     "id": 275,
     "russian": "отдыха́ть",
+    "ipa": "əddɨˈxatʲ",
     "english": "to rest",
     "spanish": "descansar",
     "category": "verbs",
@@ -2202,6 +2477,7 @@
   {
     "id": 276,
     "russian": "начина́ть",
+    "ipa": "nətɕɪˈnatʲ",
     "english": "to start",
     "spanish": "empezar",
     "category": "verbs",
@@ -2210,6 +2486,7 @@
   {
     "id": 277,
     "russian": "зака́нчивать",
+    "ipa": "zɐˈkantɕɪvətʲ",
     "english": "to finish",
     "spanish": "terminar",
     "category": "verbs",
@@ -2218,6 +2495,7 @@
   {
     "id": 278,
     "russian": "пыта́ться",
+    "ipa": "pɨˈtatsə",
     "english": "to try",
     "spanish": "intentar",
     "category": "verbs",
@@ -2226,6 +2504,7 @@
   {
     "id": 279,
     "russian": "авто́бус",
+    "ipa": "ɐˈftobʊs",
     "english": "bus",
     "spanish": "autobús",
     "category": "transport",
@@ -2234,6 +2513,7 @@
   {
     "id": 280,
     "russian": "велосипе́д",
+    "ipa": "vʲɪɫəsʲɪˈpʲɛt",
     "english": "bicycle",
     "spanish": "bicicleta",
     "category": "transport",
@@ -2242,6 +2522,7 @@
   {
     "id": 281,
     "russian": "самолёт",
+    "ipa": "səmɐˈlʲot",
     "english": "plane",
     "spanish": "avión",
     "category": "transport",
@@ -2250,6 +2531,7 @@
   {
     "id": 282,
     "russian": "ло́дка",
+    "ipa": "ˈɫotkə",
     "english": "boat",
     "spanish": "barco",
     "category": "transport",
@@ -2258,6 +2540,7 @@
   {
     "id": 283,
     "russian": "аэропо́рт",
+    "ipa": "əɪrɐˈport",
     "english": "airport",
     "spanish": "aeropuerto",
     "category": "transport",
@@ -2266,6 +2549,7 @@
   {
     "id": 284,
     "russian": "доро́га",
+    "ipa": "dɐˈroɡə",
     "english": "road",
     "spanish": "carretera",
     "category": "transport",
@@ -2274,6 +2558,7 @@
   {
     "id": 285,
     "russian": "па́спорт",
+    "ipa": "ˈpaspərt",
     "english": "passport",
     "spanish": "pasaporte",
     "category": "travel",
@@ -2282,6 +2567,7 @@
   {
     "id": 286,
     "russian": "тури́ст",
+    "ipa": "tʊˈrʲist",
     "english": "tourist",
     "spanish": "turista",
     "category": "travel",
@@ -2290,6 +2576,7 @@
   {
     "id": 287,
     "russian": "гид",
+    "ipa": "ɡʲit",
     "english": "guide",
     "spanish": "guía",
     "category": "travel",
@@ -2298,6 +2585,7 @@
   {
     "id": 288,
     "russian": "о́тпуск",
+    "ipa": "ˈotpʊsk",
     "english": "holiday",
     "spanish": "vacaciones",
     "category": "travel",
@@ -2306,6 +2594,7 @@
   {
     "id": 289,
     "russian": "скуча́ющий",
+    "ipa": "skʊˈtɕajʊɕːɪj",
     "english": "bored",
     "spanish": "aburrido",
     "category": "emotions",
@@ -2314,6 +2603,7 @@
   {
     "id": 290,
     "russian": "взволно́ванный",
+    "ipa": "vzvɐˈɫnovənnɨj",
     "english": "excited",
     "spanish": "emocionado",
     "category": "emotions",
@@ -2322,6 +2612,7 @@
   {
     "id": 291,
     "russian": "удивлённый",
+    "ipa": "ʊdʲɪˈvlʲonnɨj",
     "english": "surprised",
     "spanish": "sorprendido",
     "category": "emotions",
@@ -2330,6 +2621,7 @@
   {
     "id": 292,
     "russian": "не́рвный",
+    "ipa": "ˈnʲɛrvnɨj",
     "english": "nervous",
     "spanish": "nervioso",
     "category": "emotions",
@@ -2338,6 +2630,7 @@
   {
     "id": 293,
     "russian": "го́рдый",
+    "ipa": "ˈɡordɨj",
     "english": "proud",
     "spanish": "orgulloso",
     "category": "emotions",
@@ -2346,6 +2639,7 @@
   {
     "id": 294,
     "russian": "споко́йный",
+    "ipa": "spɐˈkojnɨj",
     "english": "calm",
     "spanish": "tranquilo",
     "category": "emotions",
@@ -2354,6 +2648,7 @@
   {
     "id": 295,
     "russian": "ры́нок",
+    "ipa": "ˈrɨnək",
     "english": "market",
     "spanish": "mercado",
     "category": "shopping",
@@ -2362,6 +2657,7 @@
   {
     "id": 296,
     "russian": "суперма́ркет",
+    "ipa": "sʊpʲɪˈrmarkʲɪt",
     "english": "supermarket",
     "spanish": "supermercado",
     "category": "shopping",
@@ -2370,6 +2666,7 @@
   {
     "id": 297,
     "russian": "ка́рта",
+    "ipa": "ˈkartə",
     "english": "card",
     "spanish": "tarjeta",
     "category": "shopping",
@@ -2378,6 +2675,7 @@
   {
     "id": 298,
     "russian": "нали́чные",
+    "ipa": "nɐˈlʲitɕnɨjə",
     "english": "cash",
     "spanish": "efectivo",
     "category": "shopping",
@@ -2386,6 +2684,7 @@
   {
     "id": 299,
     "russian": "ски́дка",
+    "ipa": "ˈskʲitkə",
     "english": "discount",
     "spanish": "descuento",
     "category": "shopping",
@@ -2394,6 +2693,7 @@
   {
     "id": 300,
     "russian": "разме́р",
+    "ipa": "rɐˈzmʲɛr",
     "english": "size",
     "spanish": "talla",
     "category": "shopping",
@@ -2402,6 +2702,7 @@
   {
     "id": 301,
     "russian": "рабо́тник",
+    "ipa": "rɐˈbotnʲɪk",
     "english": "employee",
     "spanish": "empleado",
     "category": "work",
@@ -2410,6 +2711,7 @@
   {
     "id": 302,
     "russian": "работо́датель",
+    "ipa": "rəbɐˈtodətʲɪlʲ",
     "english": "employer",
     "spanish": "empleador",
     "category": "work",
@@ -2418,6 +2720,7 @@
   {
     "id": 303,
     "russian": "собесе́дование",
+    "ipa": "səbʲɪˈsʲɛdəvənʲɪjə",
     "english": "interview",
     "spanish": "entrevista",
     "category": "work",
@@ -2426,6 +2729,7 @@
   {
     "id": 304,
     "russian": "резюме́",
+    "ipa": "rʲɪzʲʊˈmʲɛ",
     "english": "resume",
     "spanish": "currículum",
     "category": "work",
@@ -2434,6 +2738,7 @@
   {
     "id": 305,
     "russian": "повыше́ние",
+    "ipa": "pəvɨˈʂɛnʲɪjə",
     "english": "promotion",
     "spanish": "ascenso",
     "category": "work",
@@ -2442,6 +2747,7 @@
   {
     "id": 306,
     "russian": "зада́ча",
+    "ipa": "zɐˈdatɕə",
     "english": "task",
     "spanish": "tarea",
     "category": "work",
@@ -2450,6 +2756,7 @@
   {
     "id": 307,
     "russian": "прое́кт",
+    "ipa": "prɐˈjɛkt",
     "english": "project",
     "spanish": "proyecto",
     "category": "work",
@@ -2458,6 +2765,7 @@
   {
     "id": 308,
     "russian": "кома́нда",
+    "ipa": "kɐˈmandə",
     "english": "team",
     "spanish": "equipo",
     "category": "work",
@@ -2466,6 +2774,7 @@
   {
     "id": 309,
     "russian": "ме́неджер",
+    "ipa": "ˈmʲɛnʲɪdʐər",
     "english": "manager",
     "spanish": "gerente",
     "category": "work",
@@ -2474,6 +2783,7 @@
   {
     "id": 310,
     "russian": "обуче́ние",
+    "ipa": "əbʊˈtɕɛnʲɪjə",
     "english": "training",
     "spanish": "formación",
     "category": "work",
@@ -2482,6 +2792,7 @@
   {
     "id": 311,
     "russian": "тради́ция",
+    "ipa": "trɐˈdʲitsɨjə",
     "english": "tradition",
     "spanish": "tradición",
     "category": "society",
@@ -2490,6 +2801,7 @@
   {
     "id": 312,
     "russian": "рели́гия",
+    "ipa": "rʲɪˈlʲiɡʲɪjə",
     "english": "religion",
     "spanish": "religión",
     "category": "society",
@@ -2498,6 +2810,7 @@
   {
     "id": 313,
     "russian": "СМИ",
+    "ipa": "smʲi",
     "english": "media",
     "spanish": "medios de comunicación",
     "category": "society",
@@ -2506,6 +2819,7 @@
   {
     "id": 314,
     "russian": "но́вости",
+    "ipa": "ˈnovəstʲɪ",
     "english": "news",
     "spanish": "noticias",
     "category": "society",
@@ -2514,6 +2828,7 @@
   {
     "id": 315,
     "russian": "журнали́ст",
+    "ipa": "ʐʊrnɐˈlʲist",
     "english": "journalist",
     "spanish": "periodista",
     "category": "society",
@@ -2522,6 +2837,7 @@
   {
     "id": 316,
     "russian": "мне́ние",
+    "ipa": "ˈmnʲɛnʲɪjə",
     "english": "opinion",
     "spanish": "opinión",
     "category": "society",
@@ -2530,6 +2846,7 @@
   {
     "id": 317,
     "russian": "проте́ст",
+    "ipa": "prɐˈtʲɛst",
     "english": "protest",
     "spanish": "protesta",
     "category": "society",
@@ -2538,6 +2855,7 @@
   {
     "id": 318,
     "russian": "го́лос",
+    "ipa": "ˈɡoɫəs",
     "english": "vote",
     "spanish": "voto",
     "category": "society",
@@ -2546,6 +2864,7 @@
   {
     "id": 319,
     "russian": "отхо́ды",
+    "ipa": "ɐˈtxodɨ",
     "english": "waste",
     "spanish": "residuos",
     "category": "environment",
@@ -2554,6 +2873,7 @@
   {
     "id": 320,
     "russian": "лес",
+    "ipa": "lʲɛs",
     "english": "forest",
     "spanish": "bosque",
     "category": "environment",
@@ -2562,6 +2882,7 @@
   {
     "id": 321,
     "russian": "океа́н",
+    "ipa": "əkʲɪˈan",
     "english": "ocean",
     "spanish": "océano",
     "category": "environment",
@@ -2570,6 +2891,7 @@
   {
     "id": 322,
     "russian": "наводне́ние",
+    "ipa": "nəvɐˈdnʲɛnʲɪjə",
     "english": "flood",
     "spanish": "inundación",
     "category": "environment",
@@ -2578,6 +2900,7 @@
   {
     "id": 323,
     "russian": "за́суха",
+    "ipa": "ˈzasʊxə",
     "english": "drought",
     "spanish": "sequía",
     "category": "environment",
@@ -2586,6 +2909,7 @@
   {
     "id": 324,
     "russian": "вид",
+    "ipa": "vʲit",
     "english": "species",
     "spanish": "especie",
     "category": "environment",
@@ -2594,6 +2918,7 @@
   {
     "id": 325,
     "russian": "лече́ние",
+    "ipa": "lʲɪˈtɕɛnʲɪjə",
     "english": "treatment",
     "spanish": "tratamiento",
     "category": "health",
@@ -2602,6 +2927,7 @@
   {
     "id": 326,
     "russian": "симпто́м",
+    "ipa": "sʲɪˈmptom",
     "english": "symptom",
     "spanish": "síntoma",
     "category": "health",
@@ -2610,6 +2936,7 @@
   {
     "id": 327,
     "russian": "реце́пт",
+    "ipa": "rʲɪˈtsɛpt",
     "english": "prescription",
     "spanish": "receta médica",
     "category": "health",
@@ -2618,6 +2945,7 @@
   {
     "id": 328,
     "russian": "страхо́вка",
+    "ipa": "strɐˈxofkə",
     "english": "insurance",
     "spanish": "seguro",
     "category": "health",
@@ -2626,6 +2954,7 @@
   {
     "id": 329,
     "russian": "дие́та",
+    "ipa": "dʲɪˈjɛtə",
     "english": "diet",
     "spanish": "dieta",
     "category": "health",
@@ -2634,6 +2963,7 @@
   {
     "id": 330,
     "russian": "стресс",
+    "ipa": "strʲɛss",
     "english": "stress",
     "spanish": "estrés",
     "category": "health",
@@ -2642,6 +2972,7 @@
   {
     "id": 331,
     "russian": "програ́ммное обеспече́ние",
+    "ipa": "prɐˈɡrammnəjə əbʲɪspʲɪˈtɕɛnʲɪjə",
     "english": "software",
     "spanish": "software",
     "category": "technology",
@@ -2650,6 +2981,7 @@
   {
     "id": 332,
     "russian": "аппара́тное обеспече́ние",
+    "ipa": "əppɐˈratnəjə əbʲɪspʲɪˈtɕɛnʲɪjə",
     "english": "hardware",
     "spanish": "hardware",
     "category": "technology",
@@ -2658,6 +2990,7 @@
   {
     "id": 333,
     "russian": "сеть",
+    "ipa": "sʲɛtʲ",
     "english": "network",
     "spanish": "red",
     "category": "technology",
@@ -2666,6 +2999,7 @@
   {
     "id": 334,
     "russian": "се́рвер",
+    "ipa": "ˈsʲɛrvʲɪr",
     "english": "server",
     "spanish": "servidor",
     "category": "technology",
@@ -2674,6 +3008,7 @@
   {
     "id": 335,
     "russian": "ба́за да́нных",
+    "ipa": "ˈbazə ˈdannɨx",
     "english": "database",
     "spanish": "base de datos",
     "category": "technology",
@@ -2682,6 +3017,7 @@
   {
     "id": 336,
     "russian": "шифрова́ние",
+    "ipa": "ʂɨfrɐˈvanʲɪjə",
     "english": "encryption",
     "spanish": "cifrado",
     "category": "technology",
@@ -2690,6 +3026,7 @@
   {
     "id": 337,
     "russian": "устро́йство",
+    "ipa": "ʊˈstrojstvə",
     "english": "device",
     "spanish": "dispositivo",
     "category": "technology",
@@ -2698,6 +3035,7 @@
   {
     "id": 338,
     "russian": "приложе́ние",
+    "ipa": "prʲɪɫɐˈʐɛnʲɪjə",
     "english": "application",
     "spanish": "aplicación",
     "category": "technology",
@@ -2706,6 +3044,7 @@
   {
     "id": 339,
     "russian": "платфо́рма",
+    "ipa": "pɫɐˈtformə",
     "english": "platform",
     "spanish": "plataforma",
     "category": "technology",
@@ -2714,6 +3053,7 @@
   {
     "id": 340,
     "russian": "виртуа́льный",
+    "ipa": "vʲɪrtʊˈalʲnɨj",
     "english": "virtual",
     "spanish": "virtual",
     "category": "technology",
@@ -2722,6 +3062,7 @@
   {
     "id": 341,
     "russian": "при́быль",
+    "ipa": "ˈprʲibɨlʲ",
     "english": "profit",
     "spanish": "beneficio",
     "category": "money",
@@ -2730,6 +3071,7 @@
   {
     "id": 342,
     "russian": "бюдже́т",
+    "ipa": "bʲʊˈdʐɛt",
     "english": "budget",
     "spanish": "presupuesto",
     "category": "money",
@@ -2738,6 +3080,7 @@
   {
     "id": 343,
     "russian": "нало́г",
+    "ipa": "nɐˈɫok",
     "english": "tax",
     "spanish": "impuesto",
     "category": "money",
@@ -2746,6 +3089,7 @@
   {
     "id": 344,
     "russian": "инфля́ция",
+    "ipa": "ɪˈnflʲatsɨjə",
     "english": "inflation",
     "spanish": "inflación",
     "category": "money",
@@ -2754,6 +3098,7 @@
   {
     "id": 345,
     "russian": "торго́вля",
+    "ipa": "tɐˈrɡovlʲə",
     "english": "trade",
     "spanish": "comercio",
     "category": "money",
@@ -2762,6 +3107,7 @@
   {
     "id": 346,
     "russian": "валю́та",
+    "ipa": "vɐˈlʲutə",
     "english": "currency",
     "spanish": "moneda",
     "category": "money",
@@ -2770,6 +3116,7 @@
   {
     "id": 347,
     "russian": "предложе́ние",
+    "ipa": "prʲɪdɫɐˈʐɛnʲɪjə",
     "english": "supply",
     "spanish": "oferta",
     "category": "money",
@@ -2778,6 +3125,7 @@
   {
     "id": 348,
     "russian": "ра́мки",
+    "ipa": "ˈramkʲɪ",
     "english": "framework",
     "spanish": "marco",
     "category": "nouns",
@@ -2786,6 +3134,7 @@
   {
     "id": 349,
     "russian": "крите́рий",
+    "ipa": "krʲɪˈtʲɛrʲɪj",
     "english": "criterion",
     "spanish": "criterio",
     "category": "nouns",
@@ -2794,6 +3143,7 @@
   {
     "id": 350,
     "russian": "паради́гма",
+    "ipa": "pərɐˈdʲiɡmə",
     "english": "paradigm",
     "spanish": "paradigma",
     "category": "nouns",
@@ -2802,6 +3152,7 @@
   {
     "id": 351,
     "russian": "поня́тие",
+    "ipa": "pɐˈnʲatʲɪjə",
     "english": "notion",
     "spanish": "noción",
     "category": "nouns",
@@ -2810,6 +3161,7 @@
   {
     "id": 352,
     "russian": "гипо́теза",
+    "ipa": "ɡʲɪˈpotʲɪzə",
     "english": "hypothesis",
     "spanish": "hipótesis",
     "category": "nouns",
@@ -2818,6 +3170,7 @@
   {
     "id": 353,
     "russian": "консе́нсус",
+    "ipa": "kɐˈnsʲɛnsʊs",
     "english": "consensus",
     "spanish": "consenso",
     "category": "nouns",
@@ -2826,6 +3179,7 @@
   {
     "id": 354,
     "russian": "неоднозна́чность",
+    "ipa": "nʲɪədnɐˈznatɕnəstʲ",
     "english": "ambiguity",
     "spanish": "ambigüedad",
     "category": "nouns",
@@ -2834,6 +3188,7 @@
   {
     "id": 355,
     "russian": "распределя́ть",
+    "ipa": "rəsprʲɪdʲɪˈlʲatʲ",
     "english": "to allocate",
     "spanish": "asignar",
     "category": "verbs",
@@ -2842,6 +3197,7 @@
   {
     "id": 356,
     "russian": "внедря́ть",
+    "ipa": "vnʲɪˈdrʲatʲ",
     "english": "to implement",
     "spanish": "implementar",
     "category": "verbs",
@@ -2850,6 +3206,7 @@
   {
     "id": 357,
     "russian": "интегри́ровать",
+    "ipa": "ɪntʲɪˈɡrʲirəvətʲ",
     "english": "to integrate",
     "spanish": "integrar",
     "category": "verbs",
@@ -2858,6 +3215,7 @@
   {
     "id": 358,
     "russian": "оптимизи́ровать",
+    "ipa": "əptʲɪmʲɪˈzʲirəvətʲ",
     "english": "to optimize",
     "spanish": "optimizar",
     "category": "verbs",
@@ -2866,6 +3224,7 @@
   {
     "id": 359,
     "russian": "приоритези́ровать",
+    "ipa": "prʲɪərʲɪtʲɪˈzʲirəvətʲ",
     "english": "to prioritize",
     "spanish": "priorizar",
     "category": "verbs",
@@ -2874,6 +3233,7 @@
   {
     "id": 360,
     "russian": "проверя́ть",
+    "ipa": "prəvʲɪˈrʲatʲ",
     "english": "to validate",
     "spanish": "validar",
     "category": "verbs",
@@ -2882,6 +3242,7 @@
   {
     "id": 361,
     "russian": "пти́ца",
+    "ipa": "ˈptʲitsə",
     "english": "bird",
     "spanish": "pájaro",
     "category": "animals",
@@ -2890,6 +3251,7 @@
   {
     "id": 362,
     "russian": "ло́шадь",
+    "ipa": "ˈɫoʂətʲ",
     "english": "horse",
     "spanish": "caballo",
     "category": "animals",
@@ -2898,6 +3260,7 @@
   {
     "id": 363,
     "russian": "коро́ва",
+    "ipa": "kɐˈrovə",
     "english": "cow",
     "spanish": "vaca",
     "category": "animals",
@@ -2906,6 +3269,7 @@
   {
     "id": 364,
     "russian": "свинья́",
+    "ipa": "svʲɪˈnʲja",
     "english": "pig",
     "spanish": "cerdo",
     "category": "animals",
@@ -2914,6 +3278,7 @@
   {
     "id": 365,
     "russian": "ку́рица",
+    "ipa": "ˈkurʲɪtsə",
     "english": "chicken",
     "spanish": "pollo",
     "category": "animals",
@@ -2922,6 +3287,7 @@
   {
     "id": 366,
     "russian": "мышь",
+    "ipa": "mɨʂ",
     "english": "mouse",
     "spanish": "ratón",
     "category": "animals",
@@ -2930,6 +3296,7 @@
   {
     "id": 367,
     "russian": "кро́лик",
+    "ipa": "ˈkrolʲɪk",
     "english": "rabbit",
     "spanish": "conejo",
     "category": "animals",
@@ -2938,6 +3305,7 @@
   {
     "id": 368,
     "russian": "овца́",
+    "ipa": "ɐˈftsa",
     "english": "sheep",
     "spanish": "oveja",
     "category": "animals",
@@ -2946,6 +3314,7 @@
   {
     "id": 369,
     "russian": "у́тка",
+    "ipa": "ˈutkə",
     "english": "duck",
     "spanish": "pato",
     "category": "animals",
@@ -2954,6 +3323,7 @@
   {
     "id": 370,
     "russian": "лев",
+    "ipa": "lʲɛf",
     "english": "lion",
     "spanish": "león",
     "category": "animals",
@@ -2962,6 +3332,7 @@
   {
     "id": 371,
     "russian": "луна́",
+    "ipa": "ɫʊˈna",
     "english": "moon",
     "spanish": "luna",
     "category": "nature",
@@ -2970,6 +3341,7 @@
   {
     "id": 372,
     "russian": "звезда́",
+    "ipa": "zvʲɪˈzda",
     "english": "star",
     "spanish": "estrella",
     "category": "nature",
@@ -2978,6 +3350,7 @@
   {
     "id": 373,
     "russian": "о́блако",
+    "ipa": "ˈobɫəkə",
     "english": "cloud",
     "spanish": "nube",
     "category": "nature",
@@ -2986,6 +3359,7 @@
   {
     "id": 374,
     "russian": "ве́тер",
+    "ipa": "ˈvʲɛtʲɪr",
     "english": "wind",
     "spanish": "viento",
     "category": "nature",
@@ -2994,6 +3368,7 @@
   {
     "id": 375,
     "russian": "снег",
+    "ipa": "snʲɛk",
     "english": "snow",
     "spanish": "nieve",
     "category": "nature",
@@ -3002,6 +3377,7 @@
   {
     "id": 376,
     "russian": "лёд",
+    "ipa": "lʲot",
     "english": "ice",
     "spanish": "hielo",
     "category": "nature",
@@ -3010,6 +3386,7 @@
   {
     "id": 377,
     "russian": "ого́нь",
+    "ipa": "ɐˈɡonʲ",
     "english": "fire",
     "spanish": "fuego",
     "category": "nature",
@@ -3018,6 +3395,7 @@
   {
     "id": 378,
     "russian": "ка́мень",
+    "ipa": "ˈkamʲɪnʲ",
     "english": "stone",
     "spanish": "piedra",
     "category": "nature",
@@ -3026,6 +3404,7 @@
   {
     "id": 379,
     "russian": "пе́рвый",
+    "ipa": "ˈpʲɛrvɨj",
     "english": "first",
     "spanish": "primero",
     "category": "numbers",
@@ -3034,6 +3413,7 @@
   {
     "id": 380,
     "russian": "второ́й",
+    "ipa": "ftɐˈroj",
     "english": "second",
     "spanish": "segundo",
     "category": "numbers",
@@ -3042,6 +3422,7 @@
   {
     "id": 381,
     "russian": "тре́тий",
+    "ipa": "ˈtrʲɛtʲɪj",
     "english": "third",
     "spanish": "tercero",
     "category": "numbers",
@@ -3050,6 +3431,7 @@
   {
     "id": 382,
     "russian": "после́дний",
+    "ipa": "pɐˈslʲɛdnʲɪj",
     "english": "last",
     "spanish": "último",
     "category": "adverbs",
@@ -3058,6 +3440,7 @@
   {
     "id": 383,
     "russian": "сле́дующий",
+    "ipa": "ˈslʲɛdʊjʊɕːɪj",
     "english": "next",
     "spanish": "siguiente",
     "category": "adverbs",
@@ -3066,6 +3449,7 @@
   {
     "id": 384,
     "russian": "сно́ва",
+    "ipa": "ˈsnovə",
     "english": "again",
     "spanish": "otra vez",
     "category": "adverbs",
@@ -3074,6 +3458,7 @@
   {
     "id": 385,
     "russian": "ви́деть",
+    "ipa": "ˈvʲidʲɪtʲ",
     "english": "to see",
     "spanish": "ver",
     "category": "verbs",
@@ -3082,6 +3467,7 @@
   {
     "id": 386,
     "russian": "слы́шать",
+    "ipa": "ˈsɫɨʂətʲ",
     "english": "to hear",
     "spanish": "oír",
     "category": "verbs",
@@ -3090,6 +3476,7 @@
   {
     "id": 387,
     "russian": "знать",
+    "ipa": "znatʲ",
     "english": "to know",
     "spanish": "saber",
     "category": "verbs",
@@ -3098,6 +3485,7 @@
   {
     "id": 388,
     "russian": "ду́мать",
+    "ipa": "ˈdumətʲ",
     "english": "to think",
     "spanish": "pensar",
     "category": "verbs",
@@ -3106,6 +3494,7 @@
   {
     "id": 389,
     "russian": "дава́ть",
+    "ipa": "dɐˈvatʲ",
     "english": "to give",
     "spanish": "dar",
     "category": "verbs",
@@ -3114,6 +3503,7 @@
   {
     "id": 390,
     "russian": "брать",
+    "ipa": "bratʲ",
     "english": "to take",
     "spanish": "tomar",
     "category": "verbs",
@@ -3122,6 +3512,7 @@
   {
     "id": 391,
     "russian": "учи́тель",
+    "ipa": "ʊˈtɕitʲɪlʲ",
     "english": "teacher",
     "spanish": "profesor",
     "category": "work",
@@ -3130,6 +3521,7 @@
   {
     "id": 392,
     "russian": "инжене́р",
+    "ipa": "ɪnʐɪˈnʲɛr",
     "english": "engineer",
     "spanish": "ingeniero",
     "category": "work",
@@ -3138,6 +3530,7 @@
   {
     "id": 393,
     "russian": "медсестра́",
+    "ipa": "mʲɪtsʲɪˈstra",
     "english": "nurse",
     "spanish": "enfermero",
     "category": "work",
@@ -3146,6 +3539,7 @@
   {
     "id": 394,
     "russian": "адвока́т",
+    "ipa": "ədvɐˈkat",
     "english": "lawyer",
     "spanish": "abogado",
     "category": "work",
@@ -3154,6 +3548,7 @@
   {
     "id": 395,
     "russian": "шеф-по́вар",
+    "ipa": "ʂɪf-ˈpovər",
     "english": "chef",
     "spanish": "chef",
     "category": "work",
@@ -3162,6 +3557,7 @@
   {
     "id": 396,
     "russian": "води́тель",
+    "ipa": "vɐˈdʲitʲɪlʲ",
     "english": "driver",
     "spanish": "conductor",
     "category": "work",
@@ -3170,6 +3566,7 @@
   {
     "id": 397,
     "russian": "фе́рмер",
+    "ipa": "ˈfʲɛrmʲɪr",
     "english": "farmer",
     "spanish": "granjero",
     "category": "work",
@@ -3178,6 +3575,7 @@
   {
     "id": 398,
     "russian": "полице́йский",
+    "ipa": "pəlʲɪˈtsɛjskʲɪj",
     "english": "police officer",
     "spanish": "policía",
     "category": "work",
@@ -3186,6 +3584,7 @@
   {
     "id": 399,
     "russian": "официа́нт",
+    "ipa": "əfʲɪtsɨˈant",
     "english": "waiter",
     "spanish": "camarero",
     "category": "work",
@@ -3194,6 +3593,7 @@
   {
     "id": 400,
     "russian": "худо́жник",
+    "ipa": "xʊˈdoʐnʲɪk",
     "english": "artist",
     "spanish": "artista",
     "category": "work",
@@ -3202,6 +3602,7 @@
   {
     "id": 401,
     "russian": "це́рковь",
+    "ipa": "ˈtsɛrkəfʲ",
     "english": "church",
     "spanish": "iglesia",
     "category": "city",
@@ -3210,6 +3611,7 @@
   {
     "id": 402,
     "russian": "музе́й",
+    "ipa": "mʊˈzʲɛj",
     "english": "museum",
     "spanish": "museo",
     "category": "city",
@@ -3218,6 +3620,7 @@
   {
     "id": 403,
     "russian": "библиоте́ка",
+    "ipa": "bʲɪblʲɪɐˈtʲɛkə",
     "english": "library",
     "spanish": "biblioteca",
     "category": "city",
@@ -3226,6 +3629,7 @@
   {
     "id": 404,
     "russian": "теа́тр",
+    "ipa": "tʲɪˈatr",
     "english": "theatre",
     "spanish": "teatro",
     "category": "city",
@@ -3234,6 +3638,7 @@
   {
     "id": 405,
     "russian": "мост",
+    "ipa": "most",
     "english": "bridge",
     "spanish": "puente",
     "category": "city",
@@ -3242,6 +3647,7 @@
   {
     "id": 406,
     "russian": "пло́щадь",
+    "ipa": "ˈpɫoɕːətʲ",
     "english": "square",
     "spanish": "plaza",
     "category": "city",
@@ -3250,6 +3656,7 @@
   {
     "id": 407,
     "russian": "фа́брика",
+    "ipa": "ˈfabrʲɪkə",
     "english": "factory",
     "spanish": "fábrica",
     "category": "city",
@@ -3258,6 +3665,7 @@
   {
     "id": 408,
     "russian": "о́фис",
+    "ipa": "ˈofʲɪs",
     "english": "office",
     "spanish": "oficina",
     "category": "city",
@@ -3266,6 +3674,7 @@
   {
     "id": 409,
     "russian": "вари́ть",
+    "ipa": "vɐˈrʲitʲ",
     "english": "to boil",
     "spanish": "hervir",
     "category": "verbs",
@@ -3274,6 +3683,7 @@
   {
     "id": 410,
     "russian": "жа́рить",
+    "ipa": "ˈʐarʲɪtʲ",
     "english": "to fry",
     "spanish": "freír",
     "category": "verbs",
@@ -3282,6 +3692,7 @@
   {
     "id": 411,
     "russian": "печь",
+    "ipa": "pʲɛtɕ",
     "english": "to bake",
     "spanish": "hornear",
     "category": "verbs",
@@ -3290,6 +3701,7 @@
   {
     "id": 412,
     "russian": "нож",
+    "ipa": "noʂ",
     "english": "knife",
     "spanish": "cuchillo",
     "category": "house",
@@ -3298,6 +3710,7 @@
   {
     "id": 413,
     "russian": "ло́жка",
+    "ipa": "ˈɫoʂkə",
     "english": "spoon",
     "spanish": "cuchara",
     "category": "house",
@@ -3306,6 +3719,7 @@
   {
     "id": 414,
     "russian": "ви́лка",
+    "ipa": "ˈvʲiɫkə",
     "english": "fork",
     "spanish": "tenedor",
     "category": "house",
@@ -3314,6 +3728,7 @@
   {
     "id": 415,
     "russian": "рисова́ть",
+    "ipa": "rʲɪsɐˈvatʲ",
     "english": "to paint",
     "spanish": "pintar",
     "category": "hobbies",
@@ -3322,6 +3737,7 @@
   {
     "id": 416,
     "russian": "фотогра́фия",
+    "ipa": "fətɐˈɡrafʲɪjə",
     "english": "photography",
     "spanish": "fotografía",
     "category": "hobbies",
@@ -3330,6 +3746,7 @@
   {
     "id": 417,
     "russian": "ша́хматы",
+    "ipa": "ˈʂaxmətɨ",
     "english": "chess",
     "spanish": "ajedrez",
     "category": "hobbies",
@@ -3338,6 +3755,7 @@
   {
     "id": 418,
     "russian": "похо́д",
+    "ipa": "pɐˈxot",
     "english": "camping",
     "spanish": "acampada",
     "category": "hobbies",
@@ -3346,6 +3764,7 @@
   {
     "id": 419,
     "russian": "рыба́лка",
+    "ipa": "rɨˈbaɫkə",
     "english": "fishing",
     "spanish": "pesca",
     "category": "hobbies",
@@ -3354,6 +3773,7 @@
   {
     "id": 420,
     "russian": "садово́дство",
+    "ipa": "sədɐˈvotstvə",
     "english": "gardening",
     "spanish": "jardinería",
     "category": "hobbies",
@@ -3362,6 +3782,7 @@
   {
     "id": 421,
     "russian": "сме́лость",
+    "ipa": "ˈsmʲɛɫəstʲ",
     "english": "courage",
     "spanish": "valor",
     "category": "nouns",
@@ -3370,6 +3791,7 @@
   {
     "id": 422,
     "russian": "терпе́ние",
+    "ipa": "tʲɪˈrpʲɛnʲɪjə",
     "english": "patience",
     "spanish": "paciencia",
     "category": "nouns",
@@ -3378,6 +3800,7 @@
   {
     "id": 423,
     "russian": "че́стность",
+    "ipa": "ˈtɕɛstnəstʲ",
     "english": "honesty",
     "spanish": "honestidad",
     "category": "nouns",
@@ -3386,6 +3809,7 @@
   {
     "id": 424,
     "russian": "му́дрость",
+    "ipa": "ˈmudrəstʲ",
     "english": "wisdom",
     "spanish": "sabiduría",
     "category": "nouns",
@@ -3394,6 +3818,7 @@
   {
     "id": 425,
     "russian": "до́брота",
+    "ipa": "ˈdobrətə",
     "english": "kindness",
     "spanish": "amabilidad",
     "category": "nouns",
@@ -3402,6 +3827,7 @@
   {
     "id": 426,
     "russian": "уваже́ние",
+    "ipa": "ʊvɐˈʐɛnʲɪjə",
     "english": "respect",
     "spanish": "respeto",
     "category": "nouns",
@@ -3410,6 +3836,7 @@
   {
     "id": 427,
     "russian": "дове́рие",
+    "ipa": "dɐˈvʲɛrʲɪjə",
     "english": "trust",
     "spanish": "confianza",
     "category": "nouns",
@@ -3418,6 +3845,7 @@
   {
     "id": 428,
     "russian": "го́рдость",
+    "ipa": "ˈɡordəstʲ",
     "english": "pride",
     "spanish": "orgullo",
     "category": "nouns",
@@ -3426,6 +3854,7 @@
   {
     "id": 429,
     "russian": "стыд",
+    "ipa": "stɨt",
     "english": "shame",
     "spanish": "vergüenza",
     "category": "nouns",
@@ -3434,6 +3863,7 @@
   {
     "id": 430,
     "russian": "гнев",
+    "ipa": "ɡnʲɛf",
     "english": "anger",
     "spanish": "ira",
     "category": "emotions",
@@ -3442,6 +3872,7 @@
   {
     "id": 431,
     "russian": "клие́нт",
+    "ipa": "klʲɪˈjɛnt",
     "english": "customer",
     "spanish": "cliente",
     "category": "work",
@@ -3450,6 +3881,7 @@
   {
     "id": 432,
     "russian": "поста́вщик",
+    "ipa": "pɐˈstafɕːɪk",
     "english": "supplier",
     "spanish": "proveedor",
     "category": "work",
@@ -3458,6 +3890,7 @@
   {
     "id": 433,
     "russian": "бренд",
+    "ipa": "brʲɛnt",
     "english": "brand",
     "spanish": "marca",
     "category": "work",
@@ -3466,6 +3899,7 @@
   {
     "id": 434,
     "russian": "марке́тинг",
+    "ipa": "mɐˈrkʲɛtʲɪnk",
     "english": "marketing",
     "spanish": "marketing",
     "category": "work",
@@ -3474,6 +3908,7 @@
   {
     "id": 435,
     "russian": "счёт",
+    "ipa": "ɕːot",
     "english": "invoice",
     "spanish": "factura",
     "category": "work",
@@ -3482,6 +3917,7 @@
   {
     "id": 436,
     "russian": "склад",
+    "ipa": "skɫat",
     "english": "warehouse",
     "spanish": "almacén",
     "category": "work",
@@ -3490,6 +3926,7 @@
   {
     "id": 437,
     "russian": "ро́зничная торго́вля",
+    "ipa": "ˈroznʲɪtɕnəjə tɐˈrɡovlʲə",
     "english": "retail",
     "spanish": "comercio minorista",
     "category": "money",
@@ -3498,6 +3935,7 @@
   {
     "id": 438,
     "russian": "акционе́р",
+    "ipa": "əktsɨɐˈnʲɛr",
     "english": "shareholder",
     "spanish": "accionista",
     "category": "money",
@@ -3506,6 +3944,7 @@
   {
     "id": 439,
     "russian": "конститу́ция",
+    "ipa": "kənstʲɪˈtutsɨjə",
     "english": "constitution",
     "spanish": "constitución",
     "category": "society",
@@ -3514,6 +3953,7 @@
   {
     "id": 440,
     "russian": "парла́мент",
+    "ipa": "pɐˈrɫamʲɪnt",
     "english": "parliament",
     "spanish": "parlamento",
     "category": "society",
@@ -3522,6 +3962,7 @@
   {
     "id": 441,
     "russian": "мини́стр",
+    "ipa": "mʲɪˈnʲistr",
     "english": "minister",
     "spanish": "ministro",
     "category": "society",
@@ -3530,6 +3971,7 @@
   {
     "id": 442,
     "russian": "суд",
+    "ipa": "sut",
     "english": "court",
     "spanish": "tribunal",
     "category": "society",
@@ -3538,6 +3980,7 @@
   {
     "id": 443,
     "russian": "судья́",
+    "ipa": "sʊˈdʲja",
     "english": "judge",
     "spanish": "juez",
     "category": "society",
@@ -3546,6 +3989,7 @@
   {
     "id": 444,
     "russian": "пригово́р",
+    "ipa": "prʲɪɡɐˈvor",
     "english": "sentence",
     "spanish": "sentencia",
     "category": "society",
@@ -3554,6 +3998,7 @@
   {
     "id": 445,
     "russian": "моле́кула",
+    "ipa": "mɐˈlʲɛkʊɫə",
     "english": "molecule",
     "spanish": "molécula",
     "category": "science",
@@ -3562,6 +4007,7 @@
   {
     "id": 446,
     "russian": "а́том",
+    "ipa": "ˈatəm",
     "english": "atom",
     "spanish": "átomo",
     "category": "science",
@@ -3570,6 +4016,7 @@
   {
     "id": 447,
     "russian": "гравита́ция",
+    "ipa": "ɡrəvʲɪˈtatsɨjə",
     "english": "gravity",
     "spanish": "gravedad",
     "category": "science",
@@ -3578,6 +4025,7 @@
   {
     "id": 448,
     "russian": "кле́тка",
+    "ipa": "ˈklʲɛtkə",
     "english": "cell",
     "spanish": "célula",
     "category": "science",
@@ -3586,6 +4034,7 @@
   {
     "id": 449,
     "russian": "лаборато́рия",
+    "ipa": "ɫəbərɐˈtorʲɪjə",
     "english": "laboratory",
     "spanish": "laboratorio",
     "category": "science",
@@ -3594,6 +4043,7 @@
   {
     "id": 450,
     "russian": "микроско́п",
+    "ipa": "mʲɪkrɐˈskop",
     "english": "microscope",
     "spanish": "microscopio",
     "category": "science",
@@ -3602,6 +4052,7 @@
   {
     "id": 451,
     "russian": "си́нтез",
+    "ipa": "ˈsʲintʲɪs",
     "english": "synthesis",
     "spanish": "síntesis",
     "category": "nouns",
@@ -3610,6 +4061,7 @@
   {
     "id": 452,
     "russian": "методоло́гия",
+    "ipa": "mʲɪtədɐˈɫoɡʲɪjə",
     "english": "methodology",
     "spanish": "metodología",
     "category": "nouns",
@@ -3618,6 +4070,7 @@
   {
     "id": 453,
     "russian": "корреля́ция",
+    "ipa": "kərrʲɪˈlʲatsɨjə",
     "english": "correlation",
     "spanish": "correlación",
     "category": "nouns",
@@ -3626,6 +4079,7 @@
   {
     "id": 454,
     "russian": "переме́нная",
+    "ipa": "pʲɪrʲɪˈmʲɛnnəjə",
     "english": "variable",
     "spanish": "variable",
     "category": "nouns",
@@ -3634,6 +4088,7 @@
   {
     "id": 455,
     "russian": "эмпири́ческий",
+    "ipa": "ɪmpʲɪˈrʲitɕɪskʲɪj",
     "english": "empirical",
     "spanish": "empírico",
     "category": "adjectives",
@@ -3642,6 +4097,7 @@
   {
     "id": 456,
     "russian": "коли́чественный",
+    "ipa": "kɐˈlʲitɕɪstvʲɪnnɨj",
     "english": "quantitative",
     "spanish": "cuantitativo",
     "category": "adjectives",
@@ -3650,6 +4106,7 @@
   {
     "id": 457,
     "russian": "ка́чественный",
+    "ipa": "ˈkatɕɪstvʲɪnnɨj",
     "english": "qualitative",
     "spanish": "cualitativo",
     "category": "adjectives",
@@ -3658,6 +4115,7 @@
   {
     "id": 458,
     "russian": "иера́рхия",
+    "ipa": "ɪjɪˈrarxʲɪjə",
     "english": "hierarchy",
     "spanish": "jerarquía",
     "category": "nouns",
@@ -3666,6 +4124,7 @@
   {
     "id": 459,
     "russian": "ди́скурс",
+    "ipa": "ˈdʲiskʊrs",
     "english": "discourse",
     "spanish": "discurso",
     "category": "nouns",
@@ -3674,6 +4133,7 @@
   {
     "id": 460,
     "russian": "рито́рика",
+    "ipa": "rʲɪˈtorʲɪkə",
     "english": "rhetoric",
     "spanish": "retórica",
     "category": "nouns",
@@ -3682,6 +4142,7 @@
   {
     "id": 461,
     "russian": "законода́тельство",
+    "ipa": "zəkənɐˈdatʲɪlʲstvə",
     "english": "legislation",
     "spanish": "legislación",
     "category": "society",
@@ -3690,6 +4151,7 @@
   {
     "id": 462,
     "russian": "верди́кт",
+    "ipa": "vʲɪˈrdʲikt",
     "english": "verdict",
     "spanish": "veredicto",
     "category": "society",
@@ -3698,6 +4160,7 @@
   {
     "id": 463,
     "russian": "исте́ц",
+    "ipa": "ɪˈstʲɛts",
     "english": "plaintiff",
     "spanish": "demandante",
     "category": "society",
@@ -3706,6 +4169,7 @@
   {
     "id": 464,
     "russian": "отве́тчик",
+    "ipa": "ɐˈtvʲɛttɕɪk",
     "english": "defendant",
     "spanish": "demandado",
     "category": "society",
@@ -3714,6 +4178,7 @@
   {
     "id": 465,
     "russian": "регули́рование",
+    "ipa": "rʲɪɡʊˈlʲirəvənʲɪjə",
     "english": "regulation",
     "spanish": "reglamento",
     "category": "society",
@@ -3722,6 +4187,7 @@
   {
     "id": 466,
     "russian": "соотве́тствие",
+    "ipa": "səɐˈtvʲɛtstvʲɪjə",
     "english": "compliance",
     "spanish": "cumplimiento",
     "category": "society",
@@ -3730,6 +4196,7 @@
   {
     "id": 467,
     "russian": "отве́тственность",
+    "ipa": "ɐˈtvʲɛtstvʲɪnnəstʲ",
     "english": "liability",
     "spanish": "responsabilidad",
     "category": "society",
@@ -3738,6 +4205,7 @@
   {
     "id": 468,
     "russian": "диагно́з",
+    "ipa": "dʲɪɐˈɡnos",
     "english": "diagnosis",
     "spanish": "diagnóstico",
     "category": "health",
@@ -3746,6 +4214,7 @@
   {
     "id": 469,
     "russian": "терапи́я",
+    "ipa": "tʲɪrɐˈpʲijə",
     "english": "therapy",
     "spanish": "terapia",
     "category": "health",
@@ -3754,6 +4223,7 @@
   {
     "id": 470,
     "russian": "вакци́на",
+    "ipa": "vɐˈktsɨnə",
     "english": "vaccine",
     "spanish": "vacuna",
     "category": "health",
@@ -3762,6 +4232,7 @@
   {
     "id": 471,
     "russian": "хрони́ческий",
+    "ipa": "xrɐˈnʲitɕɪskʲɪj",
     "english": "chronic",
     "spanish": "crónico",
     "category": "adjectives",
@@ -3770,6 +4241,7 @@
   {
     "id": 472,
     "russian": "инфе́кция",
+    "ipa": "ɪˈnfʲɛktsɨjə",
     "english": "infection",
     "spanish": "infección",
     "category": "health",
@@ -3778,6 +4250,7 @@
   {
     "id": 473,
     "russian": "имму́нный",
+    "ipa": "ɪˈmmunnɨj",
     "english": "immune",
     "spanish": "inmune",
     "category": "adjectives",
@@ -3786,6 +4259,7 @@
   {
     "id": 474,
     "russian": "хиру́рг",
+    "ipa": "xʲɪˈrurk",
     "english": "surgeon",
     "spanish": "cirujano",
     "category": "health",
@@ -3794,6 +4268,7 @@
   {
     "id": 475,
     "russian": "обоснова́ть",
+    "ipa": "əbəsnɐˈvatʲ",
     "english": "to substantiate",
     "spanish": "fundamentar",
     "category": "verbs",
@@ -3802,6 +4277,7 @@
   {
     "id": 476,
     "russian": "разграни́чить",
+    "ipa": "rəzɡrɐˈnʲitɕɪtʲ",
     "english": "to delineate",
     "spanish": "delimitar",
     "category": "verbs",
@@ -3810,6 +4286,7 @@
   {
     "id": 477,
     "russian": "экстраполи́ровать",
+    "ipa": "ɪkstrəpɐˈlʲirəvətʲ",
     "english": "to extrapolate",
     "spanish": "extrapolar",
     "category": "verbs",
@@ -3818,6 +4295,7 @@
   {
     "id": 478,
     "russian": "примири́ть",
+    "ipa": "prʲɪmʲɪˈrʲitʲ",
     "english": "to reconcile",
     "spanish": "reconciliar",
     "category": "verbs",
@@ -3826,6 +4304,7 @@
   {
     "id": 479,
     "russian": "тща́тельно изуча́ть",
+    "ipa": "ˈtɕːatʲɪlʲnə ɪzʊˈtɕatʲ",
     "english": "to scrutinize",
     "spanish": "escudriñar",
     "category": "verbs",
@@ -3834,6 +4313,7 @@
   {
     "id": 480,
     "russian": "оптимизи́ровать",
+    "ipa": "əptʲɪmʲɪˈzʲirəvətʲ",
     "english": "to streamline",
     "spanish": "optimizar",
     "category": "verbs",
@@ -3842,6 +4322,7 @@
   {
     "id": 481,
     "russian": "руба́шка",
+    "ipa": "rʊˈbaʂkə",
     "english": "shirt",
     "spanish": "camisa",
     "category": "clothes",
@@ -3850,6 +4331,7 @@
   {
     "id": 482,
     "russian": "брю́ки",
+    "ipa": "ˈbrʲukʲɪ",
     "english": "trousers",
     "spanish": "pantalones",
     "category": "clothes",
@@ -3858,6 +4340,7 @@
   {
     "id": 483,
     "russian": "пла́тье",
+    "ipa": "ˈpɫatʲjə",
     "english": "dress",
     "spanish": "vestido",
     "category": "clothes",
@@ -3866,6 +4349,7 @@
   {
     "id": 484,
     "russian": "ю́бка",
+    "ipa": "ˈjupkə",
     "english": "skirt",
     "spanish": "falda",
     "category": "clothes",
@@ -3874,6 +4358,7 @@
   {
     "id": 485,
     "russian": "шля́па",
+    "ipa": "ˈʂlʲapə",
     "english": "hat",
     "spanish": "sombrero",
     "category": "clothes",
@@ -3882,6 +4367,7 @@
   {
     "id": 486,
     "russian": "шарф",
+    "ipa": "ʂarf",
     "english": "scarf",
     "spanish": "bufanda",
     "category": "clothes",
@@ -3890,6 +4376,7 @@
   {
     "id": 487,
     "russian": "перча́тки",
+    "ipa": "pʲɪˈrtɕatkʲɪ",
     "english": "gloves",
     "spanish": "guantes",
     "category": "clothes",
@@ -3898,6 +4385,7 @@
   {
     "id": 488,
     "russian": "носки́",
+    "ipa": "nɐˈskʲi",
     "english": "socks",
     "spanish": "calcetines",
     "category": "clothes",
@@ -3906,6 +4394,7 @@
   {
     "id": 489,
     "russian": "ку́ртка",
+    "ipa": "ˈkurtkə",
     "english": "jacket",
     "spanish": "chaqueta",
     "category": "clothes",
@@ -3914,6 +4403,7 @@
   {
     "id": 490,
     "russian": "сапо́г",
+    "ipa": "sɐˈpok",
     "english": "boot",
     "spanish": "bota",
     "category": "clothes",
@@ -3922,6 +4412,7 @@
   {
     "id": 491,
     "russian": "сок",
+    "ipa": "sok",
     "english": "juice",
     "spanish": "zumo",
     "category": "food",
@@ -3930,6 +4421,7 @@
   {
     "id": 492,
     "russian": "вино́",
+    "ipa": "vʲɪˈno",
     "english": "wine",
     "spanish": "vino",
     "category": "food",
@@ -3938,6 +4430,7 @@
   {
     "id": 493,
     "russian": "пи́во",
+    "ipa": "ˈpʲivə",
     "english": "beer",
     "spanish": "cerveza",
     "category": "food",
@@ -3946,6 +4439,7 @@
   {
     "id": 494,
     "russian": "торт",
+    "ipa": "tort",
     "english": "cake",
     "spanish": "pastel",
     "category": "food",
@@ -3954,6 +4448,7 @@
   {
     "id": 495,
     "russian": "шокола́д",
+    "ipa": "ʂəkɐˈɫat",
     "english": "chocolate",
     "spanish": "chocolate",
     "category": "food",
@@ -3962,6 +4457,7 @@
   {
     "id": 496,
     "russian": "моро́женое",
+    "ipa": "mɐˈroʐənəjə",
     "english": "ice cream",
     "spanish": "helado",
     "category": "food",
@@ -3970,6 +4466,7 @@
   {
     "id": 497,
     "russian": "рис",
+    "ipa": "rʲis",
     "english": "rice",
     "spanish": "arroz",
     "category": "food",
@@ -3978,6 +4475,7 @@
   {
     "id": 498,
     "russian": "бана́н",
+    "ipa": "bɐˈnan",
     "english": "banana",
     "spanish": "plátano",
     "category": "food",
@@ -3986,6 +4484,7 @@
   {
     "id": 499,
     "russian": "апельси́н",
+    "ipa": "əpʲɪˈlʲsʲin",
     "english": "orange",
     "spanish": "naranja",
     "category": "food",
@@ -3994,6 +4493,7 @@
   {
     "id": 500,
     "russian": "мёд",
+    "ipa": "mʲot",
     "english": "honey",
     "spanish": "miel",
     "category": "food",
@@ -4002,6 +4502,7 @@
   {
     "id": 501,
     "russian": "игра́ть",
+    "ipa": "ɪˈɡratʲ",
     "english": "to play",
     "spanish": "jugar",
     "category": "verbs",
@@ -4010,6 +4511,7 @@
   {
     "id": 502,
     "russian": "продава́ть",
+    "ipa": "prədɐˈvatʲ",
     "english": "to sell",
     "spanish": "vender",
     "category": "verbs",
@@ -4018,6 +4520,7 @@
   {
     "id": 503,
     "russian": "люби́ть",
+    "ipa": "lʲʊˈbʲitʲ",
     "english": "to love",
     "spanish": "amar",
     "category": "verbs",
@@ -4026,6 +4529,7 @@
   {
     "id": 504,
     "russian": "танцева́ть",
+    "ipa": "təntsɪˈvatʲ",
     "english": "to dance",
     "spanish": "bailar",
     "category": "verbs",
@@ -4034,6 +4538,7 @@
   {
     "id": 505,
     "russian": "пры́гать",
+    "ipa": "ˈprɨɡətʲ",
     "english": "to jump",
     "spanish": "saltar",
     "category": "verbs",
@@ -4042,6 +4547,7 @@
   {
     "id": 506,
     "russian": "побежда́ть",
+    "ipa": "pəbʲɪˈʐdatʲ",
     "english": "to win",
     "spanish": "ganar",
     "category": "verbs",
@@ -4050,6 +4556,7 @@
   {
     "id": 507,
     "russian": "твёрдый",
+    "ipa": "ˈtvʲordɨj",
     "english": "hard",
     "spanish": "duro",
     "category": "adjectives",
@@ -4058,6 +4565,7 @@
   {
     "id": 508,
     "russian": "мя́гкий",
+    "ipa": "ˈmʲaxkʲɪj",
     "english": "soft",
     "spanish": "blando",
     "category": "adjectives",
@@ -4066,6 +4574,7 @@
   {
     "id": 509,
     "russian": "тяжёлый",
+    "ipa": "tʲɪˈʐoɫɨj",
     "english": "heavy",
     "spanish": "pesado",
     "category": "adjectives",
@@ -4074,6 +4583,7 @@
   {
     "id": 510,
     "russian": "лёгкий",
+    "ipa": "ˈlʲoxkʲɪj",
     "english": "light",
     "spanish": "ligero",
     "category": "adjectives",
@@ -4082,6 +4592,7 @@
   {
     "id": 511,
     "russian": "матема́тика",
+    "ipa": "mətʲɪˈmatʲɪkə",
     "english": "mathematics",
     "spanish": "matemáticas",
     "category": "education",
@@ -4090,6 +4601,7 @@
   {
     "id": 512,
     "russian": "исто́рия",
+    "ipa": "ɪˈstorʲɪjə",
     "english": "history",
     "spanish": "historia",
     "category": "education",
@@ -4098,6 +4610,7 @@
   {
     "id": 513,
     "russian": "геогра́фия",
+    "ipa": "ɡʲɪɐˈɡrafʲɪjə",
     "english": "geography",
     "spanish": "geografía",
     "category": "education",
@@ -4106,6 +4619,7 @@
   {
     "id": 514,
     "russian": "биоло́гия",
+    "ipa": "bʲɪɐˈɫoɡʲɪjə",
     "english": "biology",
     "spanish": "biología",
     "category": "education",
@@ -4114,6 +4628,7 @@
   {
     "id": 515,
     "russian": "хи́мия",
+    "ipa": "ˈxʲimʲɪjə",
     "english": "chemistry",
     "spanish": "química",
     "category": "education",
@@ -4122,6 +4637,7 @@
   {
     "id": 516,
     "russian": "фи́зика",
+    "ipa": "ˈfʲizʲɪkə",
     "english": "physics",
     "spanish": "física",
     "category": "education",
@@ -4130,6 +4646,7 @@
   {
     "id": 517,
     "russian": "литерату́ра",
+    "ipa": "lʲɪtʲɪrɐˈturə",
     "english": "literature",
     "spanish": "literatura",
     "category": "education",
@@ -4138,6 +4655,7 @@
   {
     "id": 518,
     "russian": "иску́сство",
+    "ipa": "ɪˈskusstvə",
     "english": "art",
     "spanish": "arte",
     "category": "education",
@@ -4146,6 +4664,7 @@
   {
     "id": 519,
     "russian": "спина́",
+    "ipa": "spʲɪˈna",
     "english": "back",
     "spanish": "espalda",
     "category": "body",
@@ -4154,6 +4673,7 @@
   {
     "id": 520,
     "russian": "плечо́",
+    "ipa": "plʲɪˈtɕo",
     "english": "shoulder",
     "spanish": "hombro",
     "category": "body",
@@ -4162,6 +4682,7 @@
   {
     "id": 521,
     "russian": "коле́но",
+    "ipa": "kɐˈlʲɛnə",
     "english": "knee",
     "spanish": "rodilla",
     "category": "body",
@@ -4170,6 +4691,7 @@
   {
     "id": 522,
     "russian": "па́лец",
+    "ipa": "ˈpalʲɪts",
     "english": "finger",
     "spanish": "dedo",
     "category": "body",
@@ -4178,6 +4700,7 @@
   {
     "id": 523,
     "russian": "зуб",
+    "ipa": "zup",
     "english": "tooth",
     "spanish": "diente",
     "category": "body",
@@ -4186,6 +4709,7 @@
   {
     "id": 524,
     "russian": "живо́т",
+    "ipa": "ʐɨˈvot",
     "english": "stomach",
     "spanish": "estómago",
     "category": "body",
@@ -4194,6 +4718,7 @@
   {
     "id": 525,
     "russian": "се́рдце",
+    "ipa": "ˈsʲertsə",
     "english": "heart",
     "spanish": "corazón",
     "category": "body",
@@ -4202,6 +4727,7 @@
   {
     "id": 526,
     "russian": "кровь",
+    "ipa": "krofʲ",
     "english": "blood",
     "spanish": "sangre",
     "category": "body",
@@ -4210,6 +4736,7 @@
   {
     "id": 527,
     "russian": "бу́ря",
+    "ipa": "ˈburʲə",
     "english": "storm",
     "spanish": "tormenta",
     "category": "nature",
@@ -4218,6 +4745,7 @@
   {
     "id": 528,
     "russian": "гром",
+    "ipa": "ɡrom",
     "english": "thunder",
     "spanish": "trueno",
     "category": "nature",
@@ -4226,6 +4754,7 @@
   {
     "id": 529,
     "russian": "мо́лния",
+    "ipa": "ˈmoɫnʲɪjə",
     "english": "lightning",
     "spanish": "rayo",
     "category": "nature",
@@ -4234,6 +4763,7 @@
   {
     "id": 530,
     "russian": "ра́дуга",
+    "ipa": "ˈradʊɡə",
     "english": "rainbow",
     "spanish": "arcoíris",
     "category": "nature",
@@ -4242,6 +4772,7 @@
   {
     "id": 531,
     "russian": "тума́н",
+    "ipa": "tʊˈman",
     "english": "fog",
     "spanish": "niebla",
     "category": "nature",
@@ -4250,6 +4781,7 @@
   {
     "id": 532,
     "russian": "жара́",
+    "ipa": "ʐɐˈra",
     "english": "heat",
     "spanish": "calor",
     "category": "nature",
@@ -4258,6 +4790,7 @@
   {
     "id": 533,
     "russian": "тень",
+    "ipa": "tʲɛnʲ",
     "english": "shadow",
     "spanish": "sombra",
     "category": "nature",
@@ -4266,6 +4799,7 @@
   {
     "id": 534,
     "russian": "доли́на",
+    "ipa": "dɐˈlʲinə",
     "english": "valley",
     "spanish": "valle",
     "category": "nature",
@@ -4274,6 +4808,7 @@
   {
     "id": 535,
     "russian": "метро́",
+    "ipa": "mʲɪˈtro",
     "english": "metro",
     "spanish": "metro",
     "category": "transport",
@@ -4282,6 +4817,7 @@
   {
     "id": 536,
     "russian": "светофо́р",
+    "ipa": "svʲɪtɐˈfor",
     "english": "traffic light",
     "spanish": "semáforo",
     "category": "transport",
@@ -4290,6 +4826,7 @@
   {
     "id": 537,
     "russian": "парко́вка",
+    "ipa": "pɐˈrkofkə",
     "english": "parking",
     "spanish": "aparcamiento",
     "category": "transport",
@@ -4298,6 +4835,7 @@
   {
     "id": 538,
     "russian": "у́гол",
+    "ipa": "ˈuɡəɫ",
     "english": "corner",
     "spanish": "esquina",
     "category": "city",
@@ -4306,6 +4844,7 @@
   {
     "id": 539,
     "russian": "пешехо́дный перехо́д",
+    "ipa": "pʲɪʂɪˈxodnɨj pʲɪrʲɪˈxot",
     "english": "crossing",
     "spanish": "paso de peatones",
     "category": "city",
@@ -4314,6 +4853,7 @@
   {
     "id": 540,
     "russian": "тротуа́р",
+    "ipa": "trətʊˈar",
     "english": "pavement",
     "spanish": "acera",
     "category": "city",
@@ -4322,6 +4862,7 @@
   {
     "id": 541,
     "russian": "рома́н",
+    "ipa": "rɐˈman",
     "english": "novel",
     "spanish": "novela",
     "category": "arts",
@@ -4330,6 +4871,7 @@
   {
     "id": 542,
     "russian": "стихотворе́ние",
+    "ipa": "stʲɪxətvɐˈrʲɛnʲɪjə",
     "english": "poem",
     "spanish": "poema",
     "category": "arts",
@@ -4338,6 +4880,7 @@
   {
     "id": 543,
     "russian": "карти́на",
+    "ipa": "kɐˈrtʲinə",
     "english": "painting",
     "spanish": "cuadro",
     "category": "arts",
@@ -4346,6 +4889,7 @@
   {
     "id": 544,
     "russian": "скульпту́ра",
+    "ipa": "skʊˈlʲpturə",
     "english": "sculpture",
     "spanish": "escultura",
     "category": "arts",
@@ -4354,6 +4898,7 @@
   {
     "id": 545,
     "russian": "конце́рт",
+    "ipa": "kɐˈntsɛrt",
     "english": "concert",
     "spanish": "concierto",
     "category": "music",
@@ -4362,6 +4907,7 @@
   {
     "id": 546,
     "russian": "вы́ставка",
+    "ipa": "ˈvɨstəfkə",
     "english": "exhibition",
     "spanish": "exposición",
     "category": "arts",
@@ -4370,6 +4916,7 @@
   {
     "id": 547,
     "russian": "пу́блика",
+    "ipa": "ˈpublʲɪkə",
     "english": "audience",
     "spanish": "público",
     "category": "arts",
@@ -4378,6 +4925,7 @@
   {
     "id": 548,
     "russian": "сце́на",
+    "ipa": "ˈstsɛnə",
     "english": "stage",
     "spanish": "escenario",
     "category": "arts",
@@ -4386,6 +4934,7 @@
   {
     "id": 549,
     "russian": "актёр",
+    "ipa": "ɐˈktʲor",
     "english": "actor",
     "spanish": "actor",
     "category": "arts",
@@ -4394,6 +4943,7 @@
   {
     "id": 550,
     "russian": "режиссёр",
+    "ipa": "rʲɪʐɨˈssʲor",
     "english": "director",
     "spanish": "director",
     "category": "arts",
@@ -4402,6 +4952,7 @@
   {
     "id": 551,
     "russian": "паро́ль",
+    "ipa": "pɐˈrolʲ",
     "english": "password",
     "spanish": "contraseña",
     "category": "technology",
@@ -4410,6 +4961,7 @@
   {
     "id": 552,
     "russian": "загру́зка",
+    "ipa": "zɐˈɡruskə",
     "english": "download",
     "spanish": "descarga",
     "category": "technology",
@@ -4418,6 +4970,7 @@
   {
     "id": 553,
     "russian": "вы́грузка",
+    "ipa": "ˈvɨɡrʊskə",
     "english": "upload",
     "spanish": "subida",
     "category": "technology",
@@ -4426,6 +4979,7 @@
   {
     "id": 554,
     "russian": "сайт",
+    "ipa": "sajt",
     "english": "website",
     "spanish": "sitio web",
     "category": "technology",
@@ -4434,6 +4988,7 @@
   {
     "id": 555,
     "russian": "электро́нная по́чта",
+    "ipa": "ɪlʲɪˈktronnəjə ˈpotɕtə",
     "english": "email",
     "spanish": "correo electrónico",
     "category": "technology",
@@ -4442,6 +4997,7 @@
   {
     "id": 556,
     "russian": "сообще́ние",
+    "ipa": "səɐˈpɕːɛnʲɪjə",
     "english": "message",
     "spanish": "mensaje",
     "category": "technology",
@@ -4450,6 +5006,7 @@
   {
     "id": 557,
     "russian": "экра́н",
+    "ipa": "ɪˈkran",
     "english": "screen",
     "spanish": "pantalla",
     "category": "technology",
@@ -4458,6 +5015,7 @@
   {
     "id": 558,
     "russian": "клавиату́ра",
+    "ipa": "kɫəvʲɪɐˈturə",
     "english": "keyboard",
     "spanish": "teclado",
     "category": "technology",
@@ -4466,6 +5024,7 @@
   {
     "id": 559,
     "russian": "заём",
+    "ipa": "zɐˈjom",
     "english": "loan",
     "spanish": "préstamo",
     "category": "money",
@@ -4474,6 +5033,7 @@
   {
     "id": 560,
     "russian": "сбереже́ния",
+    "ipa": "zbʲɪrʲɪˈʐɛnʲɪjə",
     "english": "savings",
     "spanish": "ahorros",
     "category": "money",
@@ -4482,6 +5042,7 @@
   {
     "id": 561,
     "russian": "кошелёк",
+    "ipa": "kəʂɪˈlʲok",
     "english": "wallet",
     "spanish": "cartera",
     "category": "money",
@@ -4490,6 +5051,7 @@
   {
     "id": 562,
     "russian": "чек",
+    "ipa": "tɕɛk",
     "english": "receipt",
     "spanish": "recibo",
     "category": "money",
@@ -4498,6 +5060,7 @@
   {
     "id": 563,
     "russian": "сда́ча",
+    "ipa": "ˈzdatɕə",
     "english": "change",
     "spanish": "cambio (dinero)",
     "category": "money",
@@ -4506,6 +5069,7 @@
   {
     "id": 564,
     "russian": "моне́та",
+    "ipa": "mɐˈnʲɛtə",
     "english": "coin",
     "spanish": "moneda",
     "category": "money",
@@ -4514,6 +5078,7 @@
   {
     "id": 565,
     "russian": "облегче́ние",
+    "ipa": "əblʲɪˈktɕɛnʲɪjə",
     "english": "relief",
     "spanish": "alivio",
     "category": "emotions",
@@ -4522,6 +5087,7 @@
   {
     "id": 566,
     "russian": "благода́рность",
+    "ipa": "bɫəɡɐˈdarnəstʲ",
     "english": "gratitude",
     "spanish": "gratitud",
     "category": "emotions",
@@ -4530,6 +5096,7 @@
   {
     "id": 567,
     "russian": "за́висть",
+    "ipa": "ˈzavʲɪstʲ",
     "english": "envy",
     "spanish": "envidia",
     "category": "emotions",
@@ -4538,6 +5105,7 @@
   {
     "id": 568,
     "russian": "вина́",
+    "ipa": "vʲɪˈna",
     "english": "guilt",
     "spanish": "culpa",
     "category": "emotions",
@@ -4546,6 +5114,7 @@
   {
     "id": 569,
     "russian": "любопы́тство",
+    "ipa": "lʲʊbɐˈpɨtstvə",
     "english": "curiosity",
     "spanish": "curiosidad",
     "category": "emotions",
@@ -4554,6 +5123,7 @@
   {
     "id": 570,
     "russian": "энтузиа́зм",
+    "ipa": "ɪntʊzʲɪˈasm",
     "english": "enthusiasm",
     "spanish": "entusiasmo",
     "category": "emotions",
@@ -4562,6 +5132,7 @@
   {
     "id": 571,
     "russian": "э́тика",
+    "ipa": "ˈɛtʲɪkə",
     "english": "ethics",
     "spanish": "ética",
     "category": "nouns",
@@ -4570,6 +5141,7 @@
   {
     "id": 572,
     "russian": "мора́ль",
+    "ipa": "mɐˈralʲ",
     "english": "morality",
     "spanish": "moralidad",
     "category": "nouns",
@@ -4578,6 +5150,7 @@
   {
     "id": 573,
     "russian": "иденти́чность",
+    "ipa": "ɪdʲɪˈntʲitɕnəstʲ",
     "english": "identity",
     "spanish": "identidad",
     "category": "nouns",
@@ -4586,6 +5159,7 @@
   {
     "id": 574,
     "russian": "созна́ние",
+    "ipa": "sɐˈznanʲɪjə",
     "english": "consciousness",
     "spanish": "conciencia",
     "category": "nouns",
@@ -4594,6 +5168,7 @@
   {
     "id": 575,
     "russian": "существова́ние",
+    "ipa": "sʊɕːɪstvɐˈvanʲɪjə",
     "english": "existence",
     "spanish": "existencia",
     "category": "nouns",
@@ -4602,6 +5177,7 @@
   {
     "id": 576,
     "russian": "и́стина",
+    "ipa": "ˈistʲɪnə",
     "english": "truth",
     "spanish": "verdad",
     "category": "nouns",
@@ -4610,6 +5186,7 @@
   {
     "id": 577,
     "russian": "доброде́тель",
+    "ipa": "dəbrɐˈdʲɛtʲɪlʲ",
     "english": "virtue",
     "spanish": "virtud",
     "category": "nouns",
@@ -4618,6 +5195,7 @@
   {
     "id": 578,
     "russian": "парадо́кс",
+    "ipa": "pərɐˈdoks",
     "english": "paradox",
     "spanish": "paradoja",
     "category": "nouns",
@@ -4626,6 +5204,7 @@
   {
     "id": 579,
     "russian": "диле́мма",
+    "ipa": "dʲɪˈlʲɛmmə",
     "english": "dilemma",
     "spanish": "dilema",
     "category": "nouns",
@@ -4634,6 +5213,7 @@
   {
     "id": 580,
     "russian": "скептици́зм",
+    "ipa": "skʲɪptʲɪˈtsɨsm",
     "english": "scepticism",
     "spanish": "escepticismo",
     "category": "nouns",
@@ -4642,6 +5222,7 @@
   {
     "id": 581,
     "russian": "слия́ние",
+    "ipa": "slʲɪˈjanʲɪjə",
     "english": "merger",
     "spanish": "fusión",
     "category": "money",
@@ -4650,6 +5231,7 @@
   {
     "id": 582,
     "russian": "банкро́тство",
+    "ipa": "bɐˈnkrotstvə",
     "english": "bankruptcy",
     "spanish": "quiebra",
     "category": "money",
@@ -4658,6 +5240,7 @@
   {
     "id": 583,
     "russian": "монопо́лия",
+    "ipa": "mənɐˈpolʲɪjə",
     "english": "monopoly",
     "spanish": "monopolio",
     "category": "money",
@@ -4666,6 +5249,7 @@
   {
     "id": 584,
     "russian": "субси́дия",
+    "ipa": "sʊˈpsʲidʲɪjə",
     "english": "subsidy",
     "spanish": "subvención",
     "category": "money",
@@ -4674,6 +5258,7 @@
   {
     "id": 585,
     "russian": "тари́ф",
+    "ipa": "tɐˈrʲif",
     "english": "tariff",
     "spanish": "arancel",
     "category": "money",
@@ -4682,6 +5267,7 @@
   {
     "id": 586,
     "russian": "кво́та",
+    "ipa": "ˈkvotə",
     "english": "quota",
     "spanish": "cupo",
     "category": "money",
@@ -4690,6 +5276,7 @@
   {
     "id": 587,
     "russian": "предпринима́тель",
+    "ipa": "prʲɪtprʲɪnʲɪˈmatʲɪlʲ",
     "english": "entrepreneur",
     "spanish": "empresario",
     "category": "work",
@@ -4698,6 +5285,7 @@
   {
     "id": 588,
     "russian": "вы́брос",
+    "ipa": "ˈvɨbrəs",
     "english": "emission",
     "spanish": "emisión",
     "category": "environment",
@@ -4706,6 +5294,7 @@
   {
     "id": 589,
     "russian": "углеро́д",
+    "ipa": "ʊɡlʲɪˈrot",
     "english": "carbon",
     "spanish": "carbono",
     "category": "environment",
@@ -4714,6 +5303,7 @@
   {
     "id": 590,
     "russian": "биоразнообра́зие",
+    "ipa": "bʲɪərəznəɐˈbrazʲɪjə",
     "english": "biodiversity",
     "spanish": "biodiversidad",
     "category": "environment",
@@ -4722,6 +5312,7 @@
   {
     "id": 591,
     "russian": "вы́рубка ле́са",
+    "ipa": "ˈvɨrʊpkə ˈlʲɛsə",
     "english": "deforestation",
     "spanish": "deforestación",
     "category": "environment",
@@ -4730,6 +5321,7 @@
   {
     "id": 592,
     "russian": "экосисте́ма",
+    "ipa": "ɪkəsʲɪˈstʲɛmə",
     "english": "ecosystem",
     "spanish": "ecosistema",
     "category": "environment",
@@ -4738,6 +5330,7 @@
   {
     "id": 593,
     "russian": "среда́ обита́ния",
+    "ipa": "srʲɪˈda əbʲɪˈtanʲɪjə",
     "english": "habitat",
     "spanish": "hábitat",
     "category": "environment",
@@ -4746,6 +5339,7 @@
   {
     "id": 594,
     "russian": "эро́зия",
+    "ipa": "ɪˈrozʲɪjə",
     "english": "erosion",
     "spanish": "erosión",
     "category": "environment",
@@ -4754,6 +5348,7 @@
   {
     "id": 595,
     "russian": "формули́ровать",
+    "ipa": "fərmʊˈlʲirəvətʲ",
     "english": "to articulate",
     "spanish": "articular",
     "category": "verbs",
@@ -4762,6 +5357,7 @@
   {
     "id": 596,
     "russian": "обходи́ть",
+    "ipa": "əbxɐˈdʲitʲ",
     "english": "to circumvent",
     "spanish": "eludir",
     "category": "verbs",
@@ -4770,6 +5366,7 @@
   {
     "id": 597,
     "russian": "консолиди́ровать",
+    "ipa": "kənsəlʲɪˈdʲirəvətʲ",
     "english": "to consolidate",
     "spanish": "consolidar",
     "category": "verbs",
@@ -4778,6 +5375,7 @@
   {
     "id": 598,
     "russian": "ухудша́ться",
+    "ipa": "ʊxʊˈtʂatsə",
     "english": "to deteriorate",
     "spanish": "deteriorarse",
     "category": "verbs",
@@ -4786,6 +5384,7 @@
   {
     "id": 599,
     "russian": "усугубля́ть",
+    "ipa": "ʊsʊɡʊˈblʲatʲ",
     "english": "to exacerbate",
     "spanish": "agravar",
     "category": "verbs",
@@ -4794,6 +5393,7 @@
   {
     "id": 600,
     "russian": "препя́тствовать",
+    "ipa": "prʲɪˈpʲatstvəvətʲ",
     "english": "to hinder",
     "spanish": "obstaculizar",
     "category": "verbs",
