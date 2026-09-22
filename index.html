@@ -441,12 +441,20 @@
     const japanese = lang && lang.script === "japanese";
     const arabic = lang && lang.script === "arabic";
     const devanagari = lang && lang.script === "devanagari";
+    const cyrillic = lang && lang.script === "cyrillic";
     const skip = new Set(SPANISH_HEADERS);
     if (target !== "en") skip.add("english");
     const parts = [];
     g.columns.forEach((c, i) => {
       const v = row[i];
       if (v === undefined || v === null || v === "" || v === "—" || v === "-") return;
+      if (cyrillic) {
+        String(v).split(/[→←]/).forEach(seg => {
+          const cy = seg.replace(/[^\u0400-\u04ff\u0500-\u052f\u2de0-\u2dff\ua640-\ua69f\s]/g, "").replace(/\s+/g, " ").trim();
+          if (cy) parts.push(cy);
+        });
+        return;
+      }
       if (devanagari) {
         String(v).split(/[→←]/).forEach(seg => {
           const hi = seg.replace(/[^\u0900-\u097f\ua8e0-\ua8ff\s]/g, "").replace(/\s+/g, " ").trim();

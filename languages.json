@@ -127,6 +127,7 @@
     "termLabel": "Russian",
     "termField": "russian",
     "ipa": true,
+    "script": "cyrillic",
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
       {"code": "es", "field": "spanish", "label": "Español"}
@@ -200,6 +201,20 @@
     "termField": "hindi",
     "script": "devanagari",
     "translit": true,
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "uk",
+    "name": "Ukrainian",
+    "flag": "🇺🇦",
+    "speech": "uk-UA",
+    "termLabel": "Ukrainian",
+    "termField": "ukrainian",
+    "script": "cyrillic",
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
       {"code": "es", "field": "spanish", "label": "Español"}

@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ студент.",
+        "answer": "Я",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ учитель.",
+        "answer": "Він",
+        "translation_en": "He is a teacher.",
+        "translation_es": "Él es profesor."
+      },
+      {
+        "sentence": "___ лікарка.",
+        "answer": "Вона",
+        "translation_en": "She is a doctor.",
+        "translation_es": "Ella es médica."
+      },
+      {
+        "sentence": "___ друзі.",
+        "answer": "Ми",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct demonstrative into each gap.",
+    "items": [
+      {
+        "sentence": "___ книга.",
+        "answer": "Це",
+        "translation_en": "This is a book.",
+        "translation_es": "Este es un libro."
+      },
+      {
+        "sentence": "___ машина.",
+        "answer": "Ця",
+        "translation_en": "This is a car.",
+        "translation_es": "Este es un coche."
+      },
+      {
+        "sentence": "___ студенти.",
+        "answer": "Ці",
+        "translation_en": "These are students.",
+        "translation_es": "Estos son estudiantes."
+      },
+      {
+        "sentence": "___ дім далеко.",
+        "answer": "Той",
+        "translation_en": "That house is far.",
+        "translation_es": "Esa casa está lejos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "Це ___ книга.",
+        "answer": "моя",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "Це ___ дім.",
+        "answer": "мій",
+        "translation_en": "This is my house.",
+        "translation_es": "Esta es mi casa."
+      },
+      {
+        "sentence": "Це ___ брат.",
+        "answer": "його",
+        "translation_en": "This is his brother.",
+        "translation_es": "Este es su hermano."
+      },
+      {
+        "sentence": "Це ___ школа.",
+        "answer": "наша",
+        "translation_en": "This is our school.",
+        "translation_es": "Esta es nuestra escuela."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "___ стіл",
+        "answer": "новий",
+        "translation_en": "a new table",
+        "translation_es": "una mesa nueva"
+      },
+      {
+        "sentence": "___ книга",
+        "answer": "нова",
+        "translation_en": "a new book",
+        "translation_es": "un libro nuevo"
+      },
+      {
+        "sentence": "___ вікно",
+        "answer": "нове",
+        "translation_en": "a new window",
+        "translation_es": "una ventana nueva"
+      },
+      {
+        "sentence": "___ стільці",
+        "answer": "нові",
+        "translation_en": "new chairs",
+        "translation_es": "sillas nuevas"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct plural into each gap.",
+    "items": [
+      {
+        "sentence": "Це ___ .",
+        "answer": "книги",
+        "translation_en": "These are books.",
+        "translation_es": "Estos son libros."
+      },
+      {
+        "sentence": "У мене є два ___ .",
+        "answer": "брати",
+        "translation_en": "I have two brothers.",
+        "translation_es": "Tengo dos hermanos."
+      },
+      {
+        "sentence": "Це великі ___ .",
+        "answer": "міста",
+        "translation_en": "These are big cities.",
+        "translation_es": "Estas son ciudades grandes."
+      },
+      {
+        "sentence": "У саду ростуть ___ .",
+        "answer": "дерева",
+        "translation_en": "Trees grow in the garden.",
+        "translation_es": "Los árboles crecen en el jardín."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "У мене ___ брати.",
+        "answer": "два",
+        "translation_en": "I have two brothers.",
+        "translation_es": "Tengo dos hermanos."
+      },
+      {
+        "sentence": "У класі ___ учнів.",
+        "answer": "п'ять",
+        "translation_en": "There are five students in the class.",
+        "translation_es": "Hay cinco estudiantes en la clase."
+      },
+      {
+        "sentence": "У тижні ___ днів.",
+        "answer": "сім",
+        "translation_en": "There are seven days in a week.",
+        "translation_es": "Hay siete días en una semana."
+      },
+      {
+        "sentence": "У мене ___ пальців.",
+        "answer": "десять",
+        "translation_en": "I have ten fingers.",
+        "translation_es": "Tengo diez dedos."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "Яблуко ___ .",
+        "answer": "червоне",
+        "translation_en": "The apple is red.",
+        "translation_es": "La manzana es roja."
+      },
+      {
+        "sentence": "Небо ___ .",
+        "answer": "синє",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "Трава ___ .",
+        "answer": "зелена",
+        "translation_en": "The grass is green.",
+        "translation_es": "La hierba es verde."
+      },
+      {
+        "sentence": "Мій рюкзак ___ .",
+        "answer": "чорний",
+        "translation_en": "My backpack is black.",
+        "translation_es": "Mi mochila es negra."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ тебе звати?",
+        "answer": "Як",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ це?",
+        "answer": "Хто",
+        "translation_en": "Who is this?",
+        "translation_es": "¿Quién es este?"
+      },
+      {
+        "sentence": "___ ти живеш?",
+        "answer": "Де",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ ти йдеш до школи?",
+        "answer": "Коли",
+        "translation_en": "When do you go to school?",
+        "translation_es": "¿Cuándo vas a la escuela?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ домі.",
+        "answer": "в",
+        "translation_en": "I am at home.",
+        "translation_es": "Estoy en casa."
+      },
+      {
+        "sentence": "Книга ___ столі.",
+        "answer": "на",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Я йду ___ школи.",
+        "answer": "до",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Я ___ України.",
+        "answer": "з",
+        "translation_en": "I am from Ukraine.",
+        "translation_es": "Soy de Ucrania."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ студент.",
+        "answer": "не",
+        "translation_en": "I am not a student.",
+        "translation_es": "No soy estudiante."
+      },
+      {
+        "sentence": "У мене ___ часу.",
+        "answer": "немає",
+        "translation_en": "I have no time.",
+        "translation_es": "No tengo tiempo."
+      },
+      {
+        "sentence": "Я ___ не запізнююся.",
+        "answer": "ніколи",
+        "translation_en": "I am never late.",
+        "translation_es": "Nunca llego tarde."
+      },
+      {
+        "sentence": "Він ___ не сказав.",
+        "answer": "нічого",
+        "translation_en": "He said nothing.",
+        "translation_es": "Él no dijo nada."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense verb into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ українською.",
+        "answer": "розмовляю",
+        "translation_en": "I speak Ukrainian.",
+        "translation_es": "Hablo ucraniano."
+      },
+      {
+        "sentence": "Він ___ у банку.",
+        "answer": "працює",
+        "translation_en": "He works in a bank.",
+        "translation_es": "Él trabaja en un banco."
+      },
+      {
+        "sentence": "Ми ___ хліб.",
+        "answer": "їмо",
+        "translation_en": "We eat bread.",
+        "translation_es": "Comemos pan."
+      },
+      {
+        "sentence": "Вони ___ у школі.",
+        "answer": "навчаються",
+        "translation_en": "They study at school.",
+        "translation_es": "Ellos estudian en la escuela."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct past-tense verb into each gap.",
+    "items": [
+      {
+        "sentence": "Учора я ___ до магазину.",
+        "answer": "ходив",
+        "translation_en": "Yesterday I went to the shop.",
+        "translation_es": "Ayer fui a la tienda."
+      },
+      {
+        "sentence": "Ми ___ фільм.",
+        "answer": "дивилися",
+        "translation_en": "We watched a film.",
+        "translation_es": "Vimos una película."
+      },
+      {
+        "sentence": "Він ___ листа.",
+        "answer": "написав",
+        "translation_en": "He wrote a letter.",
+        "translation_es": "Él escribió una carta."
+      },
+      {
+        "sentence": "Вони ___ вечерю.",
+        "answer": "приготували",
+        "translation_en": "They cooked dinner.",
+        "translation_es": "Ellos cocinaron la cena."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct future form into each gap.",
+    "items": [
+      {
+        "sentence": "Завтра я ___ до Києва.",
+        "answer": "поїду",
+        "translation_en": "Tomorrow I will go to Kyiv.",
+        "translation_es": "Mañana iré a Kyiv."
+      },
+      {
+        "sentence": "Ми ___ разом.",
+        "answer": "навчатимемося",
+        "translation_en": "We will study together.",
+        "translation_es": "Estudiaremos juntos."
+      },
+      {
+        "sentence": "Вона ___ вечерю.",
+        "answer": "приготує",
+        "translation_en": "She will cook dinner.",
+        "translation_es": "Ella cocinará la cena."
+      },
+      {
+        "sentence": "Вони ___ скоро.",
+        "answer": "приїдуть",
+        "translation_en": "They will arrive soon.",
+        "translation_es": "Ellos llegarán pronto."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {
+        "sentence": "У мене ___ книга.",
+        "answer": "є",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "У нас ___ друзів.",
+        "answer": "багато",
+        "translation_en": "We have many friends.",
+        "translation_es": "Tenemos muchos amigos."
+      },
+      {
+        "sentence": "У нього ___ грошей.",
+        "answer": "немає",
+        "translation_en": "He has no money.",
+        "translation_es": "Él no tiene dinero."
+      },
+      {
+        "sentence": "Мені ___ часу.",
+        "answer": "бракує",
+        "translation_en": "I lack time.",
+        "translation_es": "Me falta tiempo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct phrase into each gap.",
+    "items": [
+      {
+        "sentence": "___ ! Як справи?",
+        "answer": "Привіт",
+        "translation_en": "Hello! How are you?",
+        "translation_es": "¡Hola! ¿Cómo estás?"
+      },
+      {
+        "sentence": "___ за допомогу.",
+        "answer": "Дякую",
+        "translation_en": "Thank you for the help.",
+        "translation_es": "Gracias por la ayuda."
+      },
+      {
+        "sentence": "___ , я запізнився.",
+        "answer": "Вибачте",
+        "translation_en": "Sorry, I am late.",
+        "translation_es": "Lo siento, llego tarde."
+      },
+      {
+        "sentence": "___ , допоможіть мені.",
+        "answer": "Будь ласка",
+        "translation_en": "Please, help me.",
+        "translation_es": "Por favor, ayúdame."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "Це моя ___ .",
+        "answer": "мама",
+        "translation_en": "This is my mother.",
+        "translation_es": "Esta es mi madre."
+      },
+      {
+        "sentence": "Це мій ___ .",
+        "answer": "тато",
+        "translation_en": "This is my father.",
+        "translation_es": "Este es mi padre."
+      },
+      {
+        "sentence": "Мій ___ має десять років.",
+        "answer": "брат",
+        "translation_en": "My brother is ten years old.",
+        "translation_es": "Mi hermano tiene diez años."
+      },
+      {
+        "sentence": "Моя ___ молодша.",
+        "answer": "сестра",
+        "translation_en": "My sister is younger.",
+        "translation_es": "Mi hermana es menor."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct body part into each gap.",
+    "items": [
+      {
+        "sentence": "Я бачу ___ .",
+        "answer": "очима",
+        "translation_en": "I see with my eyes.",
+        "translation_es": "Veo con mis ojos."
+      },
+      {
+        "sentence": "Я чую ___ .",
+        "answer": "вухами",
+        "translation_en": "I hear with my ears.",
+        "translation_es": "Oigo con mis oídos."
+      },
+      {
+        "sentence": "Я пишу ___ .",
+        "answer": "рукою",
+        "translation_en": "I write with my hand.",
+        "translation_es": "Escribo con mi mano."
+      },
+      {
+        "sentence": "Я ходжу ___ .",
+        "answer": "ногами",
+        "translation_en": "I walk with my legs.",
+        "translation_es": "Camino con mis piernas."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct food word into each gap.",
+    "items": [
+      {
+        "sentence": "Уранці я п'ю ___ .",
+        "answer": "молоко",
+        "translation_en": "In the morning I drink milk.",
+        "translation_es": "Por la mañana bebo leche."
+      },
+      {
+        "sentence": "На сніданок я їм ___ .",
+        "answer": "хліб",
+        "translation_en": "For breakfast I eat bread.",
+        "translation_es": "En el desayuno como pan."
+      },
+      {
+        "sentence": "Я люблю ___ .",
+        "answer": "яблука",
+        "translation_en": "I like apples.",
+        "translation_es": "Me gustan las manzanas."
+      },
+      {
+        "sentence": "Після обіду ми п'ємо ___ .",
+        "answer": "чай",
+        "translation_en": "After lunch we drink tea.",
+        "translation_es": "Después del almuerzo bebemos té."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "У ___ я не працюю.",
+        "answer": "неділю",
+        "translation_en": "On Sunday I do not work.",
+        "translation_es": "El domingo no trabajo."
+      },
+      {
+        "sentence": "У ___ ми граємо у футбол.",
+        "answer": "суботу",
+        "translation_en": "On Saturday we play football.",
+        "translation_es": "El sábado jugamos al fútbol."
+      },
+      {
+        "sentence": "У ___ школа зачинена.",
+        "answer": "понеділок",
+        "translation_en": "On Monday school is closed.",
+        "translation_es": "El lunes la escuela está cerrada."
+      },
+      {
+        "sentence": "У ___ ми зустрічаємося.",
+        "answer": "п'ятницю",
+        "translation_en": "On Friday we meet.",
+        "translation_es": "El viernes nos encontramos."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "Магазин ___ .",
+        "answer": "ліворуч",
+        "translation_en": "The shop is on the left.",
+        "translation_es": "La tienda está a la izquierda."
+      },
+      {
+        "sentence": "Банк ___ .",
+        "answer": "праворуч",
+        "translation_en": "The bank is on the right.",
+        "translation_es": "El banco está a la derecha."
+      },
+      {
+        "sentence": "Школа ___ .",
+        "answer": "близько",
+        "translation_en": "The school is near.",
+        "translation_es": "La escuela está cerca."
+      },
+      {
+        "sentence": "Аеропорт ___ .",
+        "answer": "далеко",
+        "translation_en": "The airport is far.",
+        "translation_es": "El aeropuerto está lejos."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct locative form into each gap.",
+    "items": [
+      {
+        "sentence": "Я живу в ___ .",
+        "answer": "Києві",
+        "translation_en": "I live in Kyiv.",
+        "translation_es": "Vivo en Kyiv."
+      },
+      {
+        "sentence": "Книга на ___ .",
+        "answer": "столі",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Ми вчимося в ___ .",
+        "answer": "школі",
+        "translation_en": "We study at school.",
+        "translation_es": "Estudiamos en la escuela."
+      },
+      {
+        "sentence": "Він працює в ___ .",
+        "answer": "банку",
+        "translation_en": "He works in a bank.",
+        "translation_es": "Él trabaja en un banco."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct accusative form into each gap.",
+    "items": [
+      {
+        "sentence": "Я читаю ___ .",
+        "answer": "книгу",
+        "translation_en": "I am reading a book.",
+        "translation_es": "Estoy leyendo un libro."
+      },
+      {
+        "sentence": "Ми бачимо ___ .",
+        "answer": "друга",
+        "translation_en": "We see a friend.",
+        "translation_es": "Vemos a un amigo."
+      },
+      {
+        "sentence": "Вона купує ___ .",
+        "answer": "хліб",
+        "translation_en": "She buys bread.",
+        "translation_es": "Ella compra pan."
+      },
+      {
+        "sentence": "Я люблю ___ .",
+        "answer": "музику",
+        "translation_en": "I love music.",
+        "translation_es": "Me encanta la música."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct genitive form into each gap.",
+    "items": [
+      {
+        "sentence": "У мене немає ___ .",
+        "answer": "часу",
+        "translation_en": "I have no time.",
+        "translation_es": "No tengo tiempo."
+      },
+      {
+        "sentence": "Це книга ___ .",
+        "answer": "брата",
+        "translation_en": "This is my brother's book.",
+        "translation_es": "Este es el libro de mi hermano."
+      },
+      {
+        "sentence": "Я йду з ___ .",
+        "answer": "роботи",
+        "translation_en": "I am coming from work.",
+        "translation_es": "Vengo del trabajo."
+      },
+      {
+        "sentence": "Це центр ___ .",
+        "answer": "міста",
+        "translation_en": "This is the city centre.",
+        "translation_es": "Este es el centro de la ciudad."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct instrumental form into each gap.",
+    "items": [
+      {
+        "sentence": "Я пишу ___ .",
+        "answer": "ручкою",
+        "translation_en": "I write with a pen.",
+        "translation_es": "Escribo con un bolígrafo."
+      },
+      {
+        "sentence": "Ми йдемо з ___ .",
+        "answer": "друзями",
+        "translation_en": "We are going with friends.",
+        "translation_es": "Vamos con amigos."
+      },
+      {
+        "sentence": "Вона цікавиться ___ .",
+        "answer": "музикою",
+        "translation_en": "She is interested in music.",
+        "translation_es": "Ella se interesa por la música."
+      },
+      {
+        "sentence": "Чай з ___ .",
+        "answer": "медом",
+        "translation_en": "Tea with honey.",
+        "translation_es": "Té con miel."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "Андрій ___ за Олега.",
+        "answer": "вищий",
+        "translation_en": "Andriy is taller than Oleh.",
+        "translation_es": "Andriy es más alto que Oleh."
+      },
+      {
+        "sentence": "Ця книга ___ за ту.",
+        "answer": "складніша",
+        "translation_en": "This book is more difficult than that one.",
+        "translation_es": "Este libro es más difícil que aquel."
+      },
+      {
+        "sentence": "Літак ___ за потяг.",
+        "answer": "швидший",
+        "translation_en": "The plane is faster than the train.",
+        "translation_es": "El avión es más rápido que el tren."
+      },
+      {
+        "sentence": "Сьогодні ___ , ніж учора.",
+        "answer": "краще",
+        "translation_en": "Today is better than yesterday.",
+        "translation_es": "Hoy es mejor que ayer."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct relative pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "Це книга, ___ я читав.",
+        "answer": "яку",
+        "translation_en": "This is the book that I read.",
+        "translation_es": "Este es el libro que leí."
+      },
+      {
+        "sentence": "Це хлопець, ___ я знаю.",
+        "answer": "якого",
+        "translation_en": "This is the boy whom I know.",
+        "translation_es": "Este es el chico que conozco."
+      },
+      {
+        "sentence": "Це дівчина, ___ навчається зі мною.",
+        "answer": "яка",
+        "translation_en": "This is the girl who studies with me.",
+        "translation_es": "Esta es la chica que estudia conmigo."
+      },
+      {
+        "sentence": "Це люди, ___ допомогли.",
+        "answer": "які",
+        "translation_en": "These are the people who helped.",
+        "translation_es": "Estas son las personas que ayudaron."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct adverb into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ ходжу до клубу.",
+        "answer": "завжди",
+        "translation_en": "I always go to the club.",
+        "translation_es": "Siempre voy al club."
+      },
+      {
+        "sentence": "Я ___ п'ю каву.",
+        "answer": "іноді",
+        "translation_en": "I sometimes drink coffee.",
+        "translation_es": "A veces bebo café."
+      },
+      {
+        "sentence": "Я ___ їм у ресторані.",
+        "answer": "рідко",
+        "translation_en": "I rarely eat in a restaurant.",
+        "translation_es": "Rara vez como en un restaurante."
+      },
+      {
+        "sentence": "Я ___ не чув цього.",
+        "answer": "ніколи",
+        "translation_en": "I have never heard this.",
+        "translation_es": "Nunca he oído esto."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {
+        "sentence": "Сьогодні погода ___ .",
+        "answer": "дощова",
+        "translation_en": "Today the weather is rainy.",
+        "translation_es": "Hoy el tiempo es lluvioso."
+      },
+      {
+        "sentence": "Улітку погода ___ .",
+        "answer": "спекотна",
+        "translation_en": "In summer the weather is hot.",
+        "translation_es": "En verano el tiempo es caluroso."
+      },
+      {
+        "sentence": "Узимку погода ___ .",
+        "answer": "холодна",
+        "translation_en": "In winter the weather is cold.",
+        "translation_es": "En invierno el tiempo es frío."
+      },
+      {
+        "sentence": "Небо сьогодні ___ .",
+        "answer": "похмуре",
+        "translation_en": "The sky is cloudy today.",
+        "translation_es": "El cielo está nublado hoy."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {
+        "sentence": "Я подорожую ___ .",
+        "answer": "потягом",
+        "translation_en": "I travel by train.",
+        "translation_es": "Viajo en tren."
+      },
+      {
+        "sentence": "Я їду на роботу ___ .",
+        "answer": "автобусом",
+        "translation_en": "I go to work by bus.",
+        "translation_es": "Voy al trabajo en autobús."
+      },
+      {
+        "sentence": "Я катаюся на ___ .",
+        "answer": "велосипеді",
+        "translation_en": "I ride a bicycle.",
+        "translation_es": "Monto en bicicleta."
+      },
+      {
+        "sentence": "___ — найшвидший транспорт.",
+        "answer": "Літак",
+        "translation_en": "The plane is the fastest transport.",
+        "translation_es": "El avión es el transporte más rápido."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "Скільки ___ ця сорочка?",
+        "answer": "коштує",
+        "translation_en": "How much does this shirt cost?",
+        "translation_es": "¿Cuánto cuesta esta camisa?"
+      },
+      {
+        "sentence": "Я плачу ___ .",
+        "answer": "карткою",
+        "translation_en": "I pay by card.",
+        "translation_es": "Pago con tarjeta."
+      },
+      {
+        "sentence": "Є ___ десять відсотків.",
+        "answer": "знижка",
+        "translation_en": "There is a ten percent discount.",
+        "translation_es": "Hay un descuento del diez por ciento."
+      },
+      {
+        "sentence": "Мені потрібен більший ___ .",
+        "answer": "розмір",
+        "translation_en": "I need a bigger size.",
+        "translation_es": "Necesito una talla más grande."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct feeling into each gap.",
+    "items": [
+      {
+        "sentence": "Я сьогодні ___ .",
+        "answer": "втомлений",
+        "translation_en": "I am tired today.",
+        "translation_es": "Estoy cansado hoy."
+      },
+      {
+        "sentence": "Вона ___ через іспит.",
+        "answer": "стурбована",
+        "translation_en": "She is worried about the exam.",
+        "translation_es": "Ella está preocupada por el examen."
+      },
+      {
+        "sentence": "Ми дуже ___ .",
+        "answer": "щасливі",
+        "translation_en": "We are very happy.",
+        "translation_es": "Estamos muy contentos."
+      },
+      {
+        "sentence": "Він ___ , бо автобус запізнився.",
+        "answer": "сердитий",
+        "translation_en": "He is angry because the bus was late.",
+        "translation_es": "Él está enfadado porque el autobús llegó tarde."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct daily routine verb into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ о сьомій.",
+        "answer": "прокидаюся",
+        "translation_en": "I wake up at seven.",
+        "translation_es": "Me despierto a las siete."
+      },
+      {
+        "sentence": "Спочатку я ___ .",
+        "answer": "вмиваюся",
+        "translation_en": "First I wash myself.",
+        "translation_es": "Primero me lavo."
+      },
+      {
+        "sentence": "Я швидко ___ .",
+        "answer": "одягаюся",
+        "translation_en": "I get dressed quickly.",
+        "translation_es": "Me visto rápido."
+      },
+      {
+        "sentence": "Я ___ об одинадцятій.",
+        "answer": "засинаю",
+        "translation_en": "I fall asleep at eleven.",
+        "translation_es": "Me duermo a las once."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct hobby word into each gap.",
+    "items": [
+      {
+        "sentence": "Моє хобі — ___ .",
+        "answer": "фотографія",
+        "translation_en": "My hobby is photography.",
+        "translation_es": "Mi afición es la fotografía."
+      },
+      {
+        "sentence": "Ми граємо в ___ щовечора.",
+        "answer": "шахи",
+        "translation_en": "We play chess every evening.",
+        "translation_es": "Jugamos al ajedrez cada tarde."
+      },
+      {
+        "sentence": "Я ходжу в ___ у гори.",
+        "answer": "похід",
+        "translation_en": "I go hiking in the mountains.",
+        "translation_es": "Voy de excursión a las montañas."
+      },
+      {
+        "sentence": "Мій тато любить ___ .",
+        "answer": "риболовлю",
+        "translation_en": "My father likes fishing.",
+        "translation_es": "A mi padre le gusta pescar."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "У мене болить ___ .",
+        "answer": "голова",
+        "translation_en": "I have a headache.",
+        "translation_es": "Me duele la cabeza."
+      },
+      {
+        "sentence": "Лікар виписав мені ___ .",
+        "answer": "рецепт",
+        "translation_en": "The doctor wrote me a prescription.",
+        "translation_es": "El médico me recetó."
+      },
+      {
+        "sentence": "У мене болить ___ .",
+        "answer": "горло",
+        "translation_en": "I have a sore throat.",
+        "translation_es": "Me duele la garganta."
+      },
+      {
+        "sentence": "Я застудився, у мене ___ .",
+        "answer": "нежить",
+        "translation_en": "I caught a cold, I have a runny nose.",
+        "translation_es": "Me resfrié, tengo moqueo."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct linking word into each gap.",
+    "items": [
+      {
+        "sentence": "___ сну я читаю книгу.",
+        "answer": "Перед",
+        "translation_en": "Before sleeping I read a book.",
+        "translation_es": "Antes de dormir leo un libro."
+      },
+      {
+        "sentence": "___ обіду ми йдемо на прогулянку.",
+        "answer": "Після",
+        "translation_en": "After lunch we go for a walk.",
+        "translation_es": "Después del almuerzo vamos de paseo."
+      },
+      {
+        "sentence": "___ я повертаюся додому, я відпочиваю.",
+        "answer": "Коли",
+        "translation_en": "When I return home, I rest.",
+        "translation_es": "Cuando vuelvo a casa, descanso."
+      },
+      {
+        "sentence": "___ йде дощ, ми залишаємося вдома.",
+        "answer": "Тому що",
+        "translation_en": "Because it is raining, we stay at home.",
+        "translation_es": "Como está lloviendo, nos quedamos en casa."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal number into each gap.",
+    "items": [
+      {
+        "sentence": "Я живу на ___ поверсі.",
+        "answer": "другому",
+        "translation_en": "I live on the second floor.",
+        "translation_es": "Vivo en el segundo piso."
+      },
+      {
+        "sentence": "Це ___ урок.",
+        "answer": "третій",
+        "translation_en": "This is the third lesson.",
+        "translation_es": "Esta es la tercera lección."
+      },
+      {
+        "sentence": "Він ___ учень у класі.",
+        "answer": "перший",
+        "translation_en": "He is the first student in the class.",
+        "translation_es": "Él es el primer estudiante de la clase."
+      },
+      {
+        "sentence": "Це мій ___ день.",
+        "answer": "останній",
+        "translation_en": "This is my last day.",
+        "translation_es": "Este es mi último día."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct place into each gap.",
+    "items": [
+      {
+        "sentence": "Ми йдемо до ___ .",
+        "answer": "музею",
+        "translation_en": "We go to the museum.",
+        "translation_es": "Vamos al museo."
+      },
+      {
+        "sentence": "Я беру книги з ___ .",
+        "answer": "бібліотеки",
+        "translation_en": "I borrow books from the library.",
+        "translation_es": "Tomo libros de la biblioteca."
+      },
+      {
+        "sentence": "Ми бачили виставу в ___ .",
+        "answer": "театрі",
+        "translation_en": "We saw a play in the theatre.",
+        "translation_es": "Vimos una obra en el teatro."
+      },
+      {
+        "sentence": "У неділю ми йдемо до ___ .",
+        "answer": "церкви",
+        "translation_en": "On Sunday we go to church.",
+        "translation_es": "El domingo vamos a la iglesia."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct cooking verb into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ рис у воді.",
+        "answer": "варю",
+        "translation_en": "I boil rice in water.",
+        "translation_es": "Hiervo el arroz en agua."
+      },
+      {
+        "sentence": "Ми ___ рибу в олії.",
+        "answer": "смажимо",
+        "translation_en": "We fry fish in oil.",
+        "translation_es": "Freímos el pescado en aceite."
+      },
+      {
+        "sentence": "Я ___ хліб у печі.",
+        "answer": "печу",
+        "translation_en": "I bake bread in the oven.",
+        "translation_es": "Horneo el pan en el horno."
+      },
+      {
+        "sentence": "Ми ___ овочі гострим ножем.",
+        "answer": "ріжемо",
+        "translation_en": "We cut vegetables with a sharp knife.",
+        "translation_es": "Cortamos las verduras con un cuchillo afilado."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct school subject into each gap.",
+    "items": [
+      {
+        "sentence": "Мені подобається ___ .",
+        "answer": "географія",
+        "translation_en": "I like geography.",
+        "translation_es": "Me gusta la geografía."
+      },
+      {
+        "sentence": "Ми вивчаємо ___ у лабораторії.",
+        "answer": "хімію",
+        "translation_en": "We study chemistry in the laboratory.",
+        "translation_es": "Estudiamos química en el laboratorio."
+      },
+      {
+        "sentence": "___ для мене легка.",
+        "answer": "Математика",
+        "translation_en": "Mathematics is easy for me.",
+        "translation_es": "Las matemáticas son fáciles para mí."
+      },
+      {
+        "sentence": "Я багато читаю з ___ .",
+        "answer": "історії",
+        "translation_en": "I read a lot in history.",
+        "translation_es": "Leo mucho en historia."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct form of 'can' into each gap.",
+    "items": [
+      {
+        "sentence": "Я ___ розмовляти українською.",
+        "answer": "можу",
+        "translation_en": "I can speak Ukrainian.",
+        "translation_es": "Puedo hablar ucraniano."
+      },
+      {
+        "sentence": "Вона ___ плавати.",
+        "answer": "може",
+        "translation_en": "She can swim.",
+        "translation_es": "Ella puede nadar."
+      },
+      {
+        "sentence": "Ми ___ прийти рано.",
+        "answer": "можемо",
+        "translation_en": "We can come early.",
+        "translation_es": "Podemos llegar temprano."
+      },
+      {
+        "sentence": "Вони ___ співати.",
+        "answer": "можуть",
+        "translation_en": "They can sing.",
+        "translation_es": "Ellos pueden cantar."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct passive form into each gap.",
+    "items": [
+      {
+        "sentence": "Книга була ___ у 1980 році.",
+        "answer": "написана",
+        "translation_en": "The book was written in 1980.",
+        "translation_es": "El libro fue escrito en 1980."
+      },
+      {
+        "sentence": "Міст був ___ сто років тому.",
+        "answer": "збудований",
+        "translation_en": "The bridge was built a hundred years ago.",
+        "translation_es": "El puente fue construido hace cien años."
+      },
+      {
+        "sentence": "У ресторані подають ___ .",
+        "answer": "їжу",
+        "translation_en": "Food is served in the restaurant.",
+        "translation_es": "La comida se sirve en el restaurante."
+      },
+      {
+        "sentence": "Лист був ___ учора.",
+        "answer": "надісланий",
+        "translation_en": "The letter was sent yesterday.",
+        "translation_es": "La carta fue enviada ayer."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct expression of obligation into each gap.",
+    "items": [
+      {
+        "sentence": "Ти ___ вчитися.",
+        "answer": "повинен",
+        "translation_en": "You must study.",
+        "translation_es": "Debes estudiar."
+      },
+      {
+        "sentence": "Мені ___ піти на зустріч учора.",
+        "answer": "довелося",
+        "translation_en": "I had to go to the meeting yesterday.",
+        "translation_es": "Tuve que ir a la reunión ayer."
+      },
+      {
+        "sentence": "Нам ___ допомагати одне одному.",
+        "answer": "слід",
+        "translation_en": "We should help each other.",
+        "translation_es": "Deberíamos ayudarnos unos a otros."
+      },
+      {
+        "sentence": "Приходити вчасно ___ .",
+        "answer": "необхідно",
+        "translation_en": "Arriving on time is necessary.",
+        "translation_es": "Llegar a tiempo es necesario."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct conditional word into each gap.",
+    "items": [
+      {
+        "sentence": "___ ти вчитимешся, то складеш іспит.",
+        "answer": "Якщо",
+        "translation_en": "If you study, you will pass the exam.",
+        "translation_es": "Si estudias, aprobarás el examen."
+      },
+      {
+        "sentence": "Якщо буде час, ___ ми підемо в кіно.",
+        "answer": "то",
+        "translation_en": "If there is time, we will go to the cinema.",
+        "translation_es": "Si hay tiempo, iremos al cine."
+      },
+      {
+        "sentence": "___ я мав час, я б подорожував.",
+        "answer": "Якби",
+        "translation_en": "If I had time, I would travel.",
+        "translation_es": "Si tuviera tiempo, viajaría."
+      },
+      {
+        "sentence": "___ твоєї допомоги я б не впорався.",
+        "answer": "Без",
+        "translation_en": "Without your help I would not have managed.",
+        "translation_es": "Sin tu ayuda no lo habría logrado."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Я пішов до школи, ___ мав вчитися.",
+        "answer": "бо",
+        "translation_en": "I went to school because I had to study.",
+        "translation_es": "Fui a la escuela porque tenía que estudiar."
+      },
+      {
+        "sentence": "Йшов дощ, ___ ми залишилися вдома.",
+        "answer": "тому",
+        "translation_en": "It was raining, therefore we stayed at home.",
+        "translation_es": "Estaba lloviendo, por eso nos quedamos en casa."
+      },
+      {
+        "sentence": "Я вчився, ___ скласти іспит.",
+        "answer": "щоб",
+        "translation_en": "I studied so that I could pass the exam.",
+        "translation_es": "Estudié para poder aprobar el examen."
+      },
+      {
+        "sentence": "Зачекай, ___ він повернеться.",
+        "answer": "поки",
+        "translation_en": "Wait until he returns.",
+        "translation_es": "Espera hasta que vuelva."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct contrast word into each gap.",
+    "items": [
+      {
+        "sentence": "Я люблю чай, ___ не люблю каву.",
+        "answer": "але",
+        "translation_en": "I like tea, but I do not like coffee.",
+        "translation_es": "Me gusta el té, pero no me gusta el café."
+      },
+      {
+        "sentence": "___ було холодно, ми пішли гуляти.",
+        "answer": "Хоча",
+        "translation_en": "Although it was cold, we went for a walk.",
+        "translation_es": "Aunque hacía frío, salimos a pasear."
+      },
+      {
+        "sentence": "Він багато працював, ___ не досяг успіху.",
+        "answer": "проте",
+        "translation_en": "He worked a lot, yet he did not succeed.",
+        "translation_es": "Trabajó mucho, sin embargo no tuvo éxito."
+      },
+      {
+        "sentence": "Це дорого; ___ , воно того варте.",
+        "answer": "більше того",
+        "translation_en": "It is expensive; moreover, it is worth it.",
+        "translation_es": "Es caro; además, vale la pena."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct adverb of manner into each gap.",
+    "items": [
+      {
+        "sentence": "Він говорить дуже ___ .",
+        "answer": "повільно",
+        "translation_en": "He speaks very slowly.",
+        "translation_es": "Habla muy despacio."
+      },
+      {
+        "sentence": "Будь ласка, говоріть ___ .",
+        "answer": "голосно",
+        "translation_en": "Please speak loudly.",
+        "translation_es": "Por favor, hable alto."
+      },
+      {
+        "sentence": "Він зробив роботу ___ .",
+        "answer": "швидко",
+        "translation_en": "He did the work quickly.",
+        "translation_es": "Hizo el trabajo rápidamente."
+      },
+      {
+        "sentence": "Вона читає ___ .",
+        "answer": "уважно",
+        "translation_en": "She reads carefully.",
+        "translation_es": "Ella lee con atención."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "Я подав заявку на нову роботу, завтра в мене ___ .",
+        "answer": "співбесіда",
+        "translation_en": "I applied for a new job; tomorrow I have an interview.",
+        "translation_es": "Solicité un nuevo trabajo; mañana tengo una entrevista."
+      },
+      {
+        "sentence": "Я надіслав своє ___ разом із заявкою.",
+        "answer": "резюме",
+        "translation_en": "I sent my CV with the application.",
+        "translation_es": "Envié mi currículum con la solicitud."
+      },
+      {
+        "sentence": "Через два роки я отримав ___ .",
+        "answer": "підвищення",
+        "translation_en": "After two years I got a promotion.",
+        "translation_es": "Después de dos años conseguí un ascenso."
+      },
+      {
+        "sentence": "Я працюю з хорошою ___ над цим проєктом.",
+        "answer": "командою",
+        "translation_en": "I work with a good team on this project.",
+        "translation_es": "Trabajo con un buen equipo en este proyecto."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct money word into each gap.",
+    "items": [
+      {
+        "sentence": "Я записую свій місячний ___ у блокнот.",
+        "answer": "бюджет",
+        "translation_en": "I write my monthly budget in a notebook.",
+        "translation_es": "Escribo mi presupuesto mensual en un cuaderno."
+      },
+      {
+        "sentence": "Я намагаюся ___ гроші щомісяця.",
+        "answer": "заощаджувати",
+        "translation_en": "I try to save money every month.",
+        "translation_es": "Intento ahorrar dinero cada mes."
+      },
+      {
+        "sentence": "У мене великий ___ у банку.",
+        "answer": "борг",
+        "translation_en": "I have a big debt at the bank.",
+        "translation_es": "Tengo una gran deuda en el banco."
+      },
+      {
+        "sentence": "Я плачу ___ з доходу.",
+        "answer": "податок",
+        "translation_en": "I pay tax on income.",
+        "translation_es": "Pago impuestos sobre la renta."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "___ повітря — велика проблема в містах.",
+        "answer": "Забруднення",
+        "translation_en": "Air pollution is a big problem in cities.",
+        "translation_es": "La contaminación del aire es un gran problema en las ciudades."
+      },
+      {
+        "sentence": "Ми повинні переробляти ___ .",
+        "answer": "відходи",
+        "translation_en": "We must recycle waste.",
+        "translation_es": "Debemos reciclar los residuos."
+      },
+      {
+        "sentence": "Нам потрібна відновлювана ___ .",
+        "answer": "енергія",
+        "translation_en": "We need renewable energy.",
+        "translation_es": "Necesitamos energía renovable."
+      },
+      {
+        "sentence": "Через вирубування зникають ___ .",
+        "answer": "ліси",
+        "translation_en": "Forests are disappearing because of logging.",
+        "translation_es": "Los bosques están desapareciendo por la tala."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "Кожен ___ має право голосу.",
+        "answer": "громадянин",
+        "translation_en": "Every citizen has the right to vote.",
+        "translation_es": "Todo ciudadano tiene derecho a votar."
+      },
+      {
+        "sentence": "Парламент ухвалив нові ___ .",
+        "answer": "закони",
+        "translation_en": "The parliament passed new laws.",
+        "translation_es": "El parlamento aprobó nuevas leyes."
+      },
+      {
+        "sentence": "Навесні відбулися ___ .",
+        "answer": "вибори",
+        "translation_en": "The elections took place in spring.",
+        "translation_es": "Las elecciones se celebraron en primavera."
+      },
+      {
+        "sentence": "Люди висловили свою думку на мирному ___ .",
+        "answer": "протесті",
+        "translation_en": "People expressed their opinion at a peaceful protest.",
+        "translation_es": "La gente expresó su opinión en una protesta pacífica."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct medical word into each gap.",
+    "items": [
+      {
+        "sentence": "Лікар виписав ___ на нові ліки.",
+        "answer": "рецепт",
+        "translation_en": "The doctor wrote a prescription for new medicine.",
+        "translation_es": "El médico escribió una receta para un medicamento nuevo."
+      },
+      {
+        "sentence": "У мене болить ___ .",
+        "answer": "спина",
+        "translation_en": "I have back pain.",
+        "translation_es": "Me duele la espalda."
+      },
+      {
+        "sentence": "Лікування тривало три тижні, поки не минула ___ .",
+        "answer": "хвороба",
+        "translation_en": "The treatment lasted three weeks until the illness passed.",
+        "translation_es": "El tratamiento duró tres semanas hasta que pasó la enfermedad."
+      },
+      {
+        "sentence": "Пацієнту потрібне медичне ___ .",
+        "answer": "страхування",
+        "translation_en": "The patient needs health insurance.",
+        "translation_es": "El paciente necesita un seguro médico."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {
+        "sentence": "Ми провели ___ у лабораторії.",
+        "answer": "експеримент",
+        "translation_en": "We conducted an experiment in the laboratory.",
+        "translation_es": "Realizamos un experimento en el laboratorio."
+      },
+      {
+        "sentence": "Науковець представив нову ___ .",
+        "answer": "теорію",
+        "translation_en": "The scientist presented a new theory.",
+        "translation_es": "El científico presentó una nueva teoría."
+      },
+      {
+        "sentence": "Ці ___ підтверджують нашу гіпотезу.",
+        "answer": "докази",
+        "translation_en": "This evidence supports our hypothesis.",
+        "translation_es": "Estas pruebas apoyan nuestra hipótesis."
+      },
+      {
+        "sentence": "Нові ___ вимагають багато часу.",
+        "answer": "відкриття",
+        "translation_en": "New discoveries require a lot of time.",
+        "translation_es": "Los nuevos descubrimientos requieren mucho tiempo."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct technology word into each gap.",
+    "items": [
+      {
+        "sentence": "Я забув ___ від акаунта.",
+        "answer": "пароль",
+        "translation_en": "I forgot my account password.",
+        "translation_es": "Olvidé la contraseña de mi cuenta."
+      },
+      {
+        "sentence": "Я надіслав тобі ___ учора.",
+        "answer": "повідомлення",
+        "translation_en": "I sent you a message yesterday.",
+        "translation_es": "Te envié un mensaje ayer."
+      },
+      {
+        "sentence": "Сьогодні ___ не працює.",
+        "answer": "вебсайт",
+        "translation_en": "The website is not working today.",
+        "translation_es": "El sitio web no funciona hoy."
+      },
+      {
+        "sentence": "Мені потрібно ___ файл з інтернету.",
+        "answer": "завантажити",
+        "translation_en": "I need to download the file from the internet.",
+        "translation_es": "Necesito descargar el archivo de internet."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct emotion word into each gap.",
+    "items": [
+      {
+        "sentence": "Після успіху я відчув велику ___ .",
+        "answer": "гордість",
+        "translation_en": "After the success I felt great pride.",
+        "translation_es": "Tras el éxito sentí un gran orgullo."
+      },
+      {
+        "sentence": "Коли він почув новину, його серце наповнив ___ .",
+        "answer": "страх",
+        "translation_en": "When he heard the news, fear filled his heart.",
+        "translation_es": "Cuando oyó la noticia, el miedo llenó su corazón."
+      },
+      {
+        "sentence": "Я відчуваю до тебе велику ___ .",
+        "answer": "вдячність",
+        "translation_en": "I feel great gratitude towards you.",
+        "translation_es": "Siento una gran gratitud hacia ti."
+      },
+      {
+        "sentence": "Коли я побачив подарунок, була велика ___ .",
+        "answer": "радість",
+        "translation_en": "When I saw the gift, there was great joy.",
+        "translation_es": "Cuando vi el regalo, hubo una gran alegría."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct art word into each gap.",
+    "items": [
+      {
+        "sentence": "Цього місяця я прочитав чудовий ___ .",
+        "answer": "роман",
+        "translation_en": "This month I read a wonderful novel.",
+        "translation_es": "Este mes leí una novela maravillosa."
+      },
+      {
+        "sentence": "На виставці ми побачили нову ___ .",
+        "answer": "картину",
+        "translation_en": "At the exhibition we saw a new painting.",
+        "translation_es": "En la exposición vimos un cuadro nuevo."
+      },
+      {
+        "sentence": "Поет написав гарний ___ .",
+        "answer": "вірш",
+        "translation_en": "The poet wrote a beautiful poem.",
+        "translation_es": "El poeta escribió un hermoso poema."
+      },
+      {
+        "sentence": "___ була дуже схвильована.",
+        "answer": "Публіка",
+        "translation_en": "The audience was very excited.",
+        "translation_es": "El público estaba muy emocionado."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct business word into each gap.",
+    "items": [
+      {
+        "sentence": "Ми надіслали клієнту ___ .",
+        "answer": "рахунок",
+        "translation_en": "We sent the client an invoice.",
+        "translation_es": "Enviamos una factura al cliente."
+      },
+      {
+        "sentence": "Компанія купує у надійного ___ .",
+        "answer": "постачальника",
+        "translation_en": "The company buys from a reliable supplier.",
+        "translation_es": "La empresa compra a un proveedor fiable."
+      },
+      {
+        "sentence": "Хороший ___ допомагає знайти клієнтів.",
+        "answer": "маркетинг",
+        "translation_en": "Good marketing helps find customers.",
+        "translation_es": "Un buen marketing ayuda a encontrar clientes."
+      },
+      {
+        "sentence": "Через роки він став ___ компанії.",
+        "answer": "акціонером",
+        "translation_en": "After years he became a shareholder of the company.",
+        "translation_es": "Tras años se convirtió en accionista de la empresa."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct abstract noun into each gap.",
+    "items": [
+      {
+        "sentence": "Особиста ___ — складне питання.",
+        "answer": "ідентичність",
+        "translation_en": "Personal identity is a complex matter.",
+        "translation_es": "La identidad personal es un asunto complejo."
+      },
+      {
+        "sentence": "Філософ сумнівався в існуванні ___ .",
+        "answer": "свідомості",
+        "translation_en": "The philosopher doubted the existence of consciousness.",
+        "translation_es": "El filósofo dudó de la existencia de la conciencia."
+      },
+      {
+        "sentence": "Ніхто не володіє абсолютною ___ .",
+        "answer": "істиною",
+        "translation_en": "No one possesses absolute truth.",
+        "translation_es": "Nadie posee la verdad absoluta."
+      },
+      {
+        "sentence": "Він був у справжній ___ між двома варіантами.",
+        "answer": "дилемі",
+        "translation_en": "He was in a real dilemma between two options.",
+        "translation_es": "Estaba en un verdadero dilema entre dos opciones."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "___ досягла рекордного рівня.",
+        "answer": "Інфляція",
+        "translation_en": "Inflation reached a record level.",
+        "translation_es": "La inflación alcanzó un nivel récord."
+      },
+      {
+        "sentence": "Дві компанії оголосили про велике ___ .",
+        "answer": "злиття",
+        "translation_en": "The two companies announced a big merger.",
+        "translation_es": "Las dos empresas anunciaron una gran fusión."
+      },
+      {
+        "sentence": "Погане управління призвело до ___ компанії.",
+        "answer": "банкрутства",
+        "translation_en": "Bad management led to the company's bankruptcy.",
+        "translation_es": "La mala gestión llevó a la quiebra de la empresa."
+      },
+      {
+        "sentence": "Держава запроваджує ___ на імпорт.",
+        "answer": "тарифи",
+        "translation_en": "The state imposes tariffs on imports.",
+        "translation_es": "El Estado impone aranceles a las importaciones."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "Суд ухвалив остаточний ___ .",
+        "answer": "вирок",
+        "translation_en": "The court issued a final verdict.",
+        "translation_es": "El tribunal emitió un veredicto final."
+      },
+      {
+        "sentence": "___ подав позов проти компанії.",
+        "answer": "Позивач",
+        "translation_en": "The plaintiff filed a lawsuit against the company.",
+        "translation_es": "El demandante presentó una demanda contra la empresa."
+      },
+      {
+        "sentence": "___ захищався перед суддею.",
+        "answer": "Відповідач",
+        "translation_en": "The defendant defended himself before the judge.",
+        "translation_es": "El demandado se defendió ante el juez."
+      },
+      {
+        "sentence": "Компанії повинні дотримуватися екологічних ___ .",
+        "answer": "норм",
+        "translation_en": "Companies must comply with environmental regulations.",
+        "translation_es": "Las empresas deben cumplir con las normas ambientales."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {
+        "sentence": "Дослідник використав кількісну ___ .",
+        "answer": "методологію",
+        "translation_en": "The researcher used a quantitative methodology.",
+        "translation_es": "El investigador utilizó una metodología cuantitativa."
+      },
+      {
+        "sentence": "Ми виявили сильну ___ між двома змінними.",
+        "answer": "кореляцію",
+        "translation_en": "We found a strong correlation between two variables.",
+        "translation_es": "Encontramos una fuerte correlación entre dos variables."
+      },
+      {
+        "sentence": "Гіпотеза потребує ___ доказів.",
+        "answer": "емпіричних",
+        "translation_en": "The hypothesis needs empirical evidence.",
+        "translation_es": "La hipótesis necesita pruebas empíricas."
+      },
+      {
+        "sentence": "Ці дані ___ , а не якісні.",
+        "answer": "кількісні",
+        "translation_en": "This data is quantitative, not qualitative.",
+        "translation_es": "Estos datos son cuantitativos, no cualitativos."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct environmental term into each gap.",
+    "items": [
+      {
+        "sentence": "Забруднення загрожує біологічному ___ моря.",
+        "answer": "різноманіттю",
+        "translation_en": "Pollution threatens marine biodiversity.",
+        "translation_es": "La contaminación amenaza la biodiversidad marina."
+      },
+      {
+        "sentence": "___ лісів — глобальна проблема.",
+        "answer": "Вирубування",
+        "translation_en": "Deforestation is a global problem.",
+        "translation_es": "La deforestación es un problema mundial."
+      },
+      {
+        "sentence": "Кожна істота має власне ___ існування.",
+        "answer": "середовище",
+        "translation_en": "Every creature has its own habitat.",
+        "translation_es": "Cada criatura tiene su propio hábitat."
+      },
+      {
+        "sentence": "Кислотні дощі спричинили ___ ґрунту.",
+        "answer": "ерозію",
+        "translation_en": "Acid rain caused soil erosion.",
+        "translation_es": "La lluvia ácida causó la erosión del suelo."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Уряд намагався ___ економічну кризу.",
+        "answer": "пом'якшити",
+        "translation_en": "The government tried to mitigate the economic crisis.",
+        "translation_es": "El gobierno intentó mitigar la crisis económica."
+      },
+      {
+        "sentence": "Ми повинні ___ наукові дослідження.",
+        "answer": "підтримувати",
+        "translation_en": "We must support scientific research.",
+        "translation_es": "Debemos apoyar la investigación científica."
+      },
+      {
+        "sentence": "Компанія прагнула ___ свої процедури.",
+        "answer": "оптимізувати",
+        "translation_en": "The company sought to streamline its procedures.",
+        "translation_es": "La empresa buscó optimizar sus procedimientos."
+      },
+      {
+        "sentence": "З цих даних можна ___ результати.",
+        "answer": "екстраполювати",
+        "translation_en": "One can extrapolate the results from this data.",
+        "translation_es": "Se pueden extrapolar los resultados de estos datos."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "Промовець використав ефективну ___ .",
+        "answer": "риторику",
+        "translation_en": "The speaker used effective rhetoric.",
+        "translation_es": "El orador usó una retórica eficaz."
+      },
+      {
+        "sentence": "Аналіз політичного ___ важливий для розуміння суспільства.",
+        "answer": "дискурсу",
+        "translation_en": "Analysing political discourse is important for understanding society.",
+        "translation_es": "Analizar el discurso político es importante para entender la sociedad."
+      },
+      {
+        "sentence": "Недостатньо, щоб ідея була правильною, вона має бути ___ .",
+        "answer": "переконливою",
+        "translation_en": "It is not enough for an idea to be right; it must be convincing.",
+        "translation_es": "No basta con que una idea sea correcta; debe ser convincente."
+      },
+      {
+        "sentence": "У наукових текстах слід уникати ___ .",
+        "answer": "неоднозначності",
+        "translation_en": "In scientific texts one should avoid ambiguity.",
+        "translation_es": "En los textos científicos se debe evitar la ambigüedad."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {
+        "sentence": "___ я мав час, то поїхав би з тобою.",
+        "answer": "Якби",
+        "translation_en": "If I had time, I would go with you.",
+        "translation_es": "Si tuviera tiempo, iría contigo."
+      },
+      {
+        "sentence": "Якби я знав, ___ я б допоміг.",
+        "answer": "то",
+        "translation_en": "If I had known, I would have helped.",
+        "translation_es": "Si lo hubiera sabido, habría ayudado."
+      },
+      {
+        "sentence": "___ , що я не прийшов!",
+        "answer": "Шкода",
+        "translation_en": "It is a pity that I did not come!",
+        "translation_es": "¡Qué lástima que no vine!"
+      },
+      {
+        "sentence": "Якби він більше вчився, він би ___ успіх.",
+        "answer": "мав",
+        "translation_en": "If he had studied more, he would have had success.",
+        "translation_es": "Si hubiera estudiado más, habría tenido éxito."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct formal connector into each gap.",
+    "items": [
+      {
+        "sentence": "___ , результати недостатні.",
+        "answer": "Більше того",
+        "translation_en": "Moreover, the results are insufficient.",
+        "translation_es": "Además, los resultados son insuficientes."
+      },
+      {
+        "sentence": "___ складних обставин він завершив дослідження.",
+        "answer": "Незважаючи на",
+        "translation_en": "Despite the difficult circumstances, he completed the research.",
+        "translation_es": "A pesar de las circunstancias difíciles, completó la investigación."
+      },
+      {
+        "sentence": "Витрати високі; ___ вигоди більші.",
+        "answer": "проте",
+        "translation_en": "The costs are high; however, the benefits are greater.",
+        "translation_es": "Los costes son altos; sin embargo, los beneficios son mayores."
+      },
+      {
+        "sentence": "___ дані, тенденція здається ясною.",
+        "answer": "З огляду на",
+        "translation_en": "Considering the data, the trend seems clear.",
+        "translation_es": "Considerando los datos, la tendencia parece clara."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "Алгоритми викликають занепокоєння щодо ___ .",
+        "answer": "приватності",
+        "translation_en": "Algorithms raise concerns about privacy.",
+        "translation_es": "Los algoritmos suscitan preocupación por la privacidad."
+      },
+      {
+        "sentence": "Система потребує надійного ___ даних.",
+        "answer": "шифрування",
+        "translation_en": "The system needs strong data encryption.",
+        "translation_es": "El sistema necesita un cifrado de datos fuerte."
+      },
+      {
+        "sentence": "Компанії ___ дані користувачів.",
+        "answer": "збирають",
+        "translation_en": "Companies collect users' data.",
+        "translation_es": "Las empresas recopilan datos de los usuarios."
+      },
+      {
+        "sentence": "___ інтелект змінює ринок праці.",
+        "answer": "Штучний",
+        "translation_en": "Artificial intelligence is changing the labour market.",
+        "translation_es": "La inteligencia artificial está cambiando el mercado laboral."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct philosophical term into each gap.",
+    "items": [
+      {
+        "sentence": "Свідомість досі залишається ___ для сучасної науки.",
+        "answer": "парадоксом",
+        "translation_en": "Consciousness remains a paradox for modern science.",
+        "translation_es": "La conciencia sigue siendo una paradoja para la ciencia moderna."
+      },
+      {
+        "sentence": "Деякі філософи обстоюють ___ душі.",
+        "answer": "існування",
+        "translation_en": "Some philosophers defend the existence of the soul.",
+        "translation_es": "Algunos filósofos defienden la existencia del alma."
+      },
+      {
+        "sentence": "Особиста ___ змінюється з часом.",
+        "answer": "ідентичність",
+        "translation_en": "Personal identity changes over time.",
+        "translation_es": "La identidad personal cambia con el tiempo."
+      },
+      {
+        "sentence": "Чесний ___ — ознака серйозного мислення.",
+        "answer": "скептицизм",
+        "translation_en": "Honest scepticism is a mark of serious thinking.",
+        "translation_es": "El escepticismo honesto es señal de pensamiento serio."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Товари мають ___ довго.",
+        "answer": "служити",
+        "translation_en": "Products should last long.",
+        "translation_es": "Los productos deben durar mucho."
+      },
+      {
+        "sentence": "У такий спосіб можна ___ викиди вуглецю.",
+        "answer": "зменшити",
+        "translation_en": "In this way carbon emissions can be reduced.",
+        "translation_es": "De este modo se pueden reducir las emisiones de carbono."
+      },
+      {
+        "sentence": "Без державної підтримки ідея може ___ лише гаслом.",
+        "answer": "залишитися",
+        "translation_en": "Without state support the idea may remain a mere slogan.",
+        "translation_es": "Sin apoyo estatal la idea puede quedarse en un mero eslogan."
+      },
+      {
+        "sentence": "Лінійна економіка руйнує ___ , від яких залежить.",
+        "answer": "екосистеми",
+        "translation_en": "The linear economy destroys the ecosystems it depends on.",
+        "translation_es": "La economía lineal destruye los ecosistemas de los que depende."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Він чітко ___ свою думку.",
+        "answer": "сформулював",
+        "translation_en": "He clearly articulated his opinion.",
+        "translation_es": "Articuló claramente su opinión."
+      },
+      {
+        "sentence": "Він намагався ___ правила.",
+        "answer": "обійти",
+        "translation_en": "He tried to circumvent the rules.",
+        "translation_es": "Intentó eludir las reglas."
+      },
+      {
+        "sentence": "Компанія ___ свою позицію.",
+        "answer": "консолідувала",
+        "translation_en": "The company consolidated its position.",
+        "translation_es": "La empresa consolidó su posición."
+      },
+      {
+        "sentence": "Ситуація ще більше ___ .",
+        "answer": "погіршилася",
+        "translation_en": "The situation deteriorated further.",
+        "translation_es": "La situación empeoró aún más."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct formal adjective into each gap.",
+    "items": [
+      {
+        "sentence": "Ця ідея сьогодні дуже ___ .",
+        "answer": "поширена",
+        "translation_en": "This idea is very prevalent today.",
+        "translation_es": "Esta idea está muy extendida hoy."
+      },
+      {
+        "sentence": "Ця речовина ___ для здоров'я.",
+        "answer": "шкідлива",
+        "translation_en": "This substance is detrimental to health.",
+        "translation_es": "Esta sustancia es perjudicial para la salud."
+      },
+      {
+        "sentence": "Ця мета цілком ___ .",
+        "answer": "здійсненна",
+        "translation_en": "This goal is entirely feasible.",
+        "translation_es": "Este objetivo es totalmente factible."
+      },
+      {
+        "sentence": "Успіх ___ .",
+        "answer": "відносний",
+        "translation_en": "Success is relative.",
+        "translation_es": "El éxito es relativo."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "___ захищає основні права громадян.",
+        "answer": "Конституція",
+        "translation_en": "The constitution protects the fundamental rights of citizens.",
+        "translation_es": "La constitución protege los derechos fundamentales de los ciudadanos."
+      },
+      {
+        "sentence": "___ ухвалює нові закони.",
+        "answer": "Парламент",
+        "translation_en": "The parliament passes new laws.",
+        "translation_es": "El parlamento aprueba nuevas leyes."
+      },
+      {
+        "sentence": "Міністр ___ за впровадження законів.",
+        "answer": "відповідає",
+        "translation_en": "The minister is responsible for implementing laws.",
+        "translation_es": "El ministro es responsable de aplicar las leyes."
+      },
+      {
+        "sentence": "Суддя ухвалює ___ .",
+        "answer": "вирок",
+        "translation_en": "The judge issues a verdict.",
+        "translation_es": "El juez emite un veredicto."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {
+        "sentence": "Соціальні мережі можуть ___ неправдиву інформацію.",
+        "answer": "поширювати",
+        "translation_en": "Social media can spread false information.",
+        "translation_es": "Las redes sociales pueden difundir información falsa."
+      },
+      {
+        "sentence": "Користувачі бачать лише думки, з якими ___ .",
+        "answer": "згодні",
+        "translation_en": "Users see only the opinions they agree with.",
+        "translation_es": "Los usuarios ven solo las opiniones con las que están de acuerdo."
+      },
+      {
+        "sentence": "Для цього потрібне критичне ___ .",
+        "answer": "мислення",
+        "translation_en": "This requires critical thinking.",
+        "translation_es": "Esto requiere pensamiento crítico."
+      },
+      {
+        "sentence": "Здорова демократія залежить від перевірених ___ .",
+        "answer": "фактів",
+        "translation_en": "A healthy democracy depends on verified facts.",
+        "translation_es": "Una democracia sana depende de hechos verificados."
+      }
+    ]
+  }
+]
