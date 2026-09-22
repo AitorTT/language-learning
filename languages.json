@@ -139,6 +139,7 @@
     "speech": "ka-GE",
     "termLabel": "Georgian",
     "termField": "georgian",
+    "ipa": true,
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
       {"code": "es", "field": "spanish", "label": "Español"}
