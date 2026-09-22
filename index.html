@@ -274,6 +274,33 @@
   .cmp-pron { font-size: 12px; color: var(--muted); margin-top: 2px; word-break: break-word; }
   .cmp-tile button.speak { width: 30px; height: 30px; }
   .cmp-tile button.speak svg { width: 14px; height: 14px; }
+
+  /* ---------- Dinosaur game ---------- */
+  .game-wrap { background: var(--card); border-radius: 16px; padding: 14px 16px 16px; box-shadow: var(--shadow); }
+  .dino-hud {
+    display: flex; align-items: center; justify-content: center; gap: 16px;
+    min-height: 58px; margin-bottom: 12px; transition: opacity 0.18s;
+  }
+  .dino-hud.swap { opacity: 0.12; }
+  .dino-side { display: flex; flex-direction: column; align-items: center; min-width: 0; max-width: 45%; }
+  .dino-term { font-size: 24px; font-weight: 800; line-height: 1.1; text-align: center; word-break: break-word; }
+  .dino-ipa { font-size: 13px; color: var(--muted); margin-top: 3px; text-align: center; word-break: break-word; }
+  .dino-tr { font-size: 19px; font-weight: 700; color: var(--accent); text-align: center; word-break: break-word; }
+  .dino-tr-label { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-bottom: 3px; }
+  .dino-sep { font-size: 22px; color: var(--muted); flex: none; }
+  .game-stage { position: relative; }
+  #dinoCanvas { display: block; width: 100%; height: 220px; border-radius: 12px; touch-action: none; cursor: pointer; }
+  .game-over {
+    position: absolute; inset: 0; display: none; flex-direction: column; align-items: center;
+    justify-content: center; gap: 6px; padding: 12px; text-align: center;
+    background: rgba(255, 255, 255, 0.86); border-radius: 12px;
+  }
+  .game-over.show { display: flex; }
+  .game-over h3 { margin: 0; font-size: 20px; }
+  .game-over p { margin: 0; color: var(--muted); font-size: 13px; }
+  .game-bar { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 12px; flex-wrap: wrap; }
+  .game-score { color: var(--muted); font-size: 14px; font-weight: 600; }
+  .game-actions { display: flex; gap: 8px; }
 </style>
 </head>
 <body>
@@ -306,6 +333,7 @@
     <button data-tab="exercises">Exercises</button>
     <button data-tab="grammar">Grammar</button>
     <button data-tab="compare">Compare</button>
+    <button data-tab="game">Game</button>
     <button data-tab="writing">Writing</button>
   </div>
 
@@ -344,6 +372,37 @@
   <section class="panel" id="panel-grammar"></section>
 
   <section class="panel" id="panel-compare"></section>
+
+  <section class="panel" id="panel-game">
+    <div class="game-wrap">
+      <div class="dino-hud" id="dinoHud">
+        <div class="dino-side">
+          <div class="dino-term" id="dinoTerm" dir="auto"></div>
+          <div class="dino-ipa" id="dinoIpa" dir="auto"></div>
+        </div>
+        <div class="dino-sep">→</div>
+        <div class="dino-side">
+          <div class="dino-tr-label" id="dinoTrLabel">English</div>
+          <div class="dino-tr" id="dinoTr" dir="auto"></div>
+        </div>
+      </div>
+      <div class="game-stage">
+        <canvas id="dinoCanvas"></canvas>
+        <div class="game-over" id="dinoOver">
+          <h3>Game over</h3>
+          <p id="dinoOverText"></p>
+          <p>Press Space, tap the canvas, or hit Jump to play again.</p>
+        </div>
+      </div>
+      <div class="game-bar">
+        <div class="game-score" id="dinoScore">Score 0 · Best 0</div>
+        <div class="game-actions">
+          <button class="pill" id="dinoJump">Jump</button>
+          <button class="pill" id="dinoDuck">Duck</button>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <section class="panel" id="panel-writing">
     <div id="writeLocked" class="block" style="text-align:center">
@@ -880,6 +939,7 @@
   /* ---------- Tabs & levels ---------- */
   function setTab(t) {
     stopSpeech();
+    if (tab === "game" && t !== "game") dinoStop();
     tab = t;
     document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("active", b.dataset.tab === t));
     document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
@@ -892,6 +952,7 @@
     document.querySelectorAll("#levels button").forEach(b => b.classList.toggle("active", b.dataset.level === l));
     applyFilters();
     render();
+    if (tab === "game") dinoStart();
   }
   function render() {
     if (tab === "flashcards") renderFlashcards();
@@ -899,6 +960,7 @@
     else if (tab === "exercises") renderExercises();
     else if (tab === "grammar") renderGrammar();
     else if (tab === "compare") renderCompare();
+    else if (tab === "game") renderGame();
     else if (tab === "writing") renderWriting();
   }
 
@@ -954,6 +1016,322 @@
     if (btn) speak(btn.dataset.cmpText, btn.dataset.cmpCode, btn);
   });
 
+  /* ---------- Dinosaur game ---------- */
+  const dinoCanvas = document.getElementById("dinoCanvas");
+  const dinoCtx = dinoCanvas.getContext("2d");
+  const dinoHud = document.getElementById("dinoHud");
+  const DINO_H = 220;
+  const DINO_GRAVITY = 2600;
+  const DINO_JUMP_V = -820;
+  const DINO_WORD_SECONDS = 5;
+
+  const dinoGame = {
+    raf: null, last: 0, running: false, paused: false, over: false,
+    speed: 260, distance: 0, score: 0, hi: 0,
+    W: 600, H: DINO_H, groundY: DINO_H - 26,
+    dino: { x: 34, y: 0, vy: 0, w: 34, h: 38, duck: false, onGround: true, phase: 0 },
+    obstacles: [], clouds: [], spawnTimer: 0.9, wordTimer: 0, pool: [],
+  };
+  try { dinoGame.hi = parseInt(localStorage.getItem("pv_dino_hi") || "0", 10) || 0; } catch (err) {}
+
+  function dinoResize() {
+    const w = dinoCanvas.clientWidth || 600;
+    const dpr = window.devicePixelRatio || 1;
+    dinoCanvas.width = Math.round(w * dpr);
+    dinoCanvas.height = Math.round(DINO_H * dpr);
+    dinoCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    dinoGame.W = w;
+    dinoGame.groundY = DINO_H - 26;
+    const d = dinoGame.dino;
+    if (d.onGround) d.y = dinoGame.groundY - d.h;
+  }
+
+  function dinoTarget() {
+    return (lang.targets || []).find(x => x.code === "en") || (lang.targets || [])[0] || null;
+  }
+
+  function dinoNextWord() {
+    if (!dinoGame.pool.length) dinoGame.pool = shuffle(DATA.words.filter(w => level === "all" || w.level === level));
+    const w = dinoGame.pool.pop();
+    if (!w) return;
+    const pron = w.ipa ? `/${w.ipa}/` : (w.pinyin || w.romaji || w.translit || "");
+    const target = dinoTarget();
+    document.getElementById("dinoTrLabel").textContent = target ? target.label : "";
+    document.getElementById("dinoTerm").textContent = w[lang.termField] || "";
+    const ipaEl = document.getElementById("dinoIpa");
+    ipaEl.textContent = pron;
+    ipaEl.style.display = pron ? "" : "none";
+    document.getElementById("dinoTr").textContent = target ? (w[target.field] || "") : "";
+    dinoHud.classList.add("swap");
+    setTimeout(() => dinoHud.classList.remove("swap"), 200);
+  }
+
+  function dinoUpdateScore() {
+    document.getElementById("dinoScore").textContent =
+      `Score ${Math.floor(dinoGame.score)} · Best ${dinoGame.hi}`;
+  }
+
+  function dinoReset() {
+    const g = dinoGame;
+    g.over = false;
+    g.speed = 260;
+    g.distance = 0;
+    g.score = 0;
+    g.obstacles = [];
+    g.spawnTimer = 0.9;
+    g.wordTimer = 0;
+    g.clouds = [{ x: 120, y: 44, s: 12 }, { x: 430, y: 78, s: 9 }];
+    const d = g.dino;
+    d.w = 34; d.h = 38; d.duck = false; d.vy = 0; d.onGround = true; d.phase = 0;
+    d.y = g.groundY - d.h;
+    g.pool = shuffle(DATA.words.filter(w => level === "all" || w.level === level));
+    dinoNextWord();
+    document.getElementById("dinoOver").classList.remove("show");
+    dinoUpdateScore();
+  }
+
+  function dinoStart() {
+    dinoResize();
+    dinoReset();
+    dinoGame.running = true;
+    dinoGame.paused = false;
+    dinoGame.last = performance.now();
+    cancelAnimationFrame(dinoGame.raf);
+    dinoGame.raf = requestAnimationFrame(dinoLoop);
+  }
+
+  function dinoStop() {
+    dinoGame.running = false;
+    cancelAnimationFrame(dinoGame.raf);
+    dinoGame.raf = null;
+  }
+
+  function dinoLoop(now) {
+    if (!dinoGame.running) return;
+    let dt = (now - dinoGame.last) / 1000;
+    dinoGame.last = now;
+    if (!(dt > 0)) dt = 0.016;
+    if (dt > 0.05) dt = 0.05;
+    dinoUpdate(dt);
+    dinoDraw();
+    dinoGame.raf = requestAnimationFrame(dinoLoop);
+  }
+
+  function dinoSetDuck(on) {
+    const d = dinoGame.dino;
+    if (d.duck === on || !d.onGround) return;
+    d.duck = on;
+    d.w = on ? 46 : 34;
+    d.h = on ? 22 : 38;
+    d.y = dinoGame.groundY - d.h;
+  }
+
+  function dinoJump() {
+    if (dinoGame.over) { dinoStart(); return; }
+    const d = dinoGame.dino;
+    if (!d.onGround) return;
+    dinoSetDuck(false);
+    d.vy = DINO_JUMP_V;
+    d.onGround = false;
+  }
+
+  function dinoSpawn() {
+    const g = dinoGame;
+    if (g.score > 120 && Math.random() < 0.3) {
+      g.obstacles.push({ kind: "bird", x: g.W + 20, y: g.groundY - 58, w: 34, h: 22, flap: 0 });
+    } else {
+      const h = 34 + Math.round(Math.random() * 16);
+      const w = 20 + Math.round(Math.random() * 10);
+      g.obstacles.push({ kind: "cactus", x: g.W + 20, y: g.groundY - h, w, h });
+    }
+  }
+
+  function dinoUpdate(dt) {
+    const g = dinoGame;
+    const d = g.dino;
+    g.speed = Math.min(260 + g.distance * 0.06, 640);
+    const move = g.speed * dt;
+    g.distance += move;
+    g.score = g.distance / 10;
+
+    g.wordTimer -= dt;
+    if (g.wordTimer <= 0) { dinoNextWord(); g.wordTimer = DINO_WORD_SECONDS; }
+
+    if (!d.onGround) {
+      d.vy += DINO_GRAVITY * dt;
+      d.y += d.vy * dt;
+      const floor = g.groundY - d.h;
+      if (d.y >= floor) { d.y = floor; d.vy = 0; d.onGround = true; }
+    } else {
+      d.phase += dt * (6 + g.speed / 60);
+      d.y = g.groundY - d.h;
+    }
+
+    g.spawnTimer -= dt;
+    if (g.spawnTimer <= 0) {
+      dinoSpawn();
+      g.spawnTimer = (280 + Math.random() * 140 + g.speed * 0.35) / g.speed;
+    }
+
+    for (const o of g.obstacles) {
+      o.x -= move;
+      if (o.kind === "bird") o.flap += dt * 10;
+    }
+    g.obstacles = g.obstacles.filter(o => o.x + o.w > -12);
+
+    for (const c of g.clouds) {
+      c.x -= dt * 14 * c.s;
+      if (c.x < -60) { c.x = g.W + 40 + Math.random() * 140; c.y = 26 + Math.random() * 60; }
+    }
+
+    const db = { x: d.x + 5, y: d.y + 3, w: d.w - 10, h: d.h - 6 };
+    for (const o of g.obstacles) {
+      const ob = { x: o.x + 4, y: o.y + 3, w: o.w - 8, h: o.h - 6 };
+      if (db.x < ob.x + ob.w && db.x + db.w > ob.x && db.y < ob.y + ob.h && db.y + db.h > ob.y) {
+        dinoGameOver();
+        return;
+      }
+    }
+    dinoUpdateScore();
+  }
+
+  function dinoGameOver() {
+    const g = dinoGame;
+    g.over = true;
+    g.running = false;
+    cancelAnimationFrame(g.raf);
+    const sc = Math.floor(g.score);
+    if (sc > g.hi) {
+      g.hi = sc;
+      try { localStorage.setItem("pv_dino_hi", String(sc)); } catch (err) {}
+    }
+    document.getElementById("dinoOverText").textContent = `Score ${sc} · Best ${g.hi}`;
+    document.getElementById("dinoOver").classList.add("show");
+    dinoUpdateScore();
+    dinoDraw();
+  }
+
+  function dinoDrawCactus(o) {
+    dinoCtx.fillStyle = "#3f8f5a";
+    dinoCtx.fillRect(o.x + o.w / 2 - 4, o.y, 8, o.h);
+    dinoCtx.fillRect(o.x, o.y + o.h * 0.32, 7, 7);
+    dinoCtx.fillRect(o.x, o.y + o.h * 0.32, 6, o.h * 0.36);
+    dinoCtx.fillRect(o.x + o.w - 7, o.y + o.h * 0.22, 7, 7);
+    dinoCtx.fillRect(o.x + o.w - 6, o.y + o.h * 0.22, 6, o.h * 0.4);
+  }
+
+  function dinoDrawBird(o) {
+    const up = Math.floor(o.flap) % 2 === 0;
+    dinoCtx.fillStyle = "#2f3542";
+    dinoCtx.fillRect(o.x + 6, o.y + 8, 20, 6);
+    dinoCtx.fillRect(o.x + 24, o.y + 5, 9, 5);
+    if (up) {
+      dinoCtx.fillRect(o.x, o.y, 12, 6);
+      dinoCtx.fillRect(o.x + 20, o.y, 14, 6);
+    } else {
+      dinoCtx.fillRect(o.x, o.y + 11, 12, 6);
+      dinoCtx.fillRect(o.x + 20, o.y + 11, 14, 6);
+    }
+  }
+
+  function dinoDrawDino(d) {
+    const ctx = dinoCtx;
+    ctx.fillStyle = "#2f3542";
+    const x = d.x, y = d.y;
+    const left = Math.floor(d.phase) % 2 === 0;
+    if (d.duck) {
+      ctx.fillRect(x - 6, y + 8, 10, 6);
+      ctx.fillRect(x, y + 5, 28, 15);
+      ctx.fillRect(x + 26, y, 16, 12);
+      ctx.fillStyle = "#fff";
+      ctx.fillRect(x + 34, y + 4, 3, 3);
+      ctx.fillStyle = "#2f3542";
+      ctx.fillRect(x + 6, y + 18, 6, left ? 4 : 2);
+      ctx.fillRect(x + 18, y + 18, 6, left ? 2 : 4);
+    } else {
+      ctx.fillRect(x - 6, y + 12, 8, 6);
+      ctx.fillRect(x, y + 10, 22, 18);
+      ctx.fillRect(x + 18, y, 16, 14);
+      ctx.fillRect(x + 29, y + 7, 7, 4);
+      ctx.fillStyle = "#fff";
+      ctx.fillRect(x + 27, y + 4, 3, 3);
+      ctx.fillStyle = "#2f3542";
+      ctx.fillRect(x + 4, y + 28, 6, left ? 10 : 6);
+      ctx.fillRect(x + 14, y + 28, 6, left ? 6 : 10);
+    }
+  }
+
+  function dinoDraw() {
+    const g = dinoGame;
+    const ctx = dinoCtx;
+    ctx.clearRect(0, 0, g.W, g.H);
+    ctx.fillStyle = "#f7f8fc";
+    ctx.fillRect(0, 0, g.W, g.H);
+    ctx.fillStyle = "#e4e7f3";
+    for (const c of g.clouds) {
+      ctx.beginPath();
+      ctx.arc(c.x, c.y, 8, 0, Math.PI * 2);
+      ctx.arc(c.x + 10, c.y + 2, 6, 0, Math.PI * 2);
+      ctx.arc(c.x - 10, c.y + 2, 6, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    ctx.strokeStyle = "#c9cede";
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(0, g.groundY + 1);
+    ctx.lineTo(g.W, g.groundY + 1);
+    ctx.stroke();
+    ctx.fillStyle = "#dfe3ee";
+    const off = g.distance % 40;
+    for (let px = -off; px < g.W; px += 40) ctx.fillRect(px, g.groundY + 7, 12, 2);
+    for (const o of g.obstacles) (o.kind === "bird" ? dinoDrawBird : dinoDrawCactus)(o);
+    dinoDrawDino(g.dino);
+    ctx.fillStyle = "#8a90a6";
+    ctx.font = "600 13px system-ui, -apple-system, sans-serif";
+    ctx.textAlign = "right";
+    ctx.fillText(String(Math.floor(g.score)).padStart(5, "0"), g.W - 12, 22);
+  }
+
+  function renderGame() {
+    dinoResize();
+    if (!dinoGame.running && !dinoGame.over) dinoStart();
+    else dinoDraw();
+  }
+
+  document.getElementById("dinoJump").addEventListener("click", dinoJump);
+  document.getElementById("dinoDuck").addEventListener("pointerdown", (e) => { e.preventDefault(); dinoSetDuck(true); });
+  document.getElementById("dinoDuck").addEventListener("pointerup", () => dinoSetDuck(false));
+  document.getElementById("dinoDuck").addEventListener("pointerleave", () => dinoSetDuck(false));
+  dinoCanvas.addEventListener("pointerdown", (e) => { e.preventDefault(); dinoJump(); });
+  document.getElementById("dinoOver").addEventListener("pointerdown", (e) => { e.preventDefault(); dinoJump(); });
+
+  document.addEventListener("keydown", (e) => {
+    if (tab !== "game" || e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
+    if (e.key === " " || e.key === "ArrowUp" || e.key === "Enter" || e.key === "w" || e.key === "W") {
+      e.preventDefault();
+      dinoJump();
+    } else if (e.key === "ArrowDown" || e.key === "s" || e.key === "S") {
+      e.preventDefault();
+      dinoSetDuck(true);
+    }
+  });
+  document.addEventListener("keyup", (e) => {
+    if (tab !== "game") return;
+    if (e.key === "ArrowDown" || e.key === "s" || e.key === "S") dinoSetDuck(false);
+  });
+  window.addEventListener("resize", () => { if (tab === "game") dinoResize(); });
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) {
+      if (dinoGame.running) { dinoStop(); dinoGame.paused = true; }
+    } else if (tab === "game" && dinoGame.paused) {
+      dinoGame.paused = false;
+      dinoGame.running = true;
+      dinoGame.last = performance.now();
+      cancelAnimationFrame(dinoGame.raf);
+      dinoGame.raf = requestAnimationFrame(dinoLoop);
+    }
+  });
+
   /* ---------- Events ---------- */
   document.querySelectorAll("#tabs button").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
   document.querySelectorAll("#levels button").forEach(b => b.addEventListener("click", () => setLevel(b.dataset.level)));
@@ -1007,7 +1385,7 @@
   });
 
   /* ---------- Languages ---------- */
-  const TAB_SECTION = { flashcards: "vocabulary", texts: "texts", exercises: "exercises", grammar: "grammar", compare: null, writing: null };
+  const TAB_SECTION = { flashcards: "vocabulary", texts: "texts", exercises: "exercises", grammar: "grammar", compare: null, game: null, writing: null };
 
   const langpick = document.getElementById("langpick");
   const langBtn = document.getElementById("langBtn");
@@ -1036,7 +1414,7 @@
   function updateTabs() {
     document.querySelectorAll("#tabs button").forEach(b => {
       const sec = TAB_SECTION[b.dataset.tab];
-      const always = b.dataset.tab === "writing" || b.dataset.tab === "compare";
+      const always = b.dataset.tab === "writing" || b.dataset.tab === "compare" || b.dataset.tab === "game";
       b.style.display = (always || lang.sections.includes(sec)) ? "" : "none";
     });
   }
@@ -1069,7 +1447,7 @@
     document.getElementById("noteContent").placeholder = `Write in ${lang.name} here…`;
     updateTabs();
     loadData(code).then(() => {
-      const keep = tab === "writing" || tab === "compare" || lang.sections.includes(TAB_SECTION[tab]);
+      const keep = tab === "writing" || tab === "compare" || tab === "game" || lang.sections.includes(TAB_SECTION[tab]);
       if (!keep) tab = "flashcards";
       applyFilters();
       setTab(tab);
