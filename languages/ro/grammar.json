@@ -1,0 +1,2512 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Romanian alphabet",
+    "description": "Romanian uses the Latin alphabet with five special letters.",
+    "columns": [
+      "Feature",
+      "Example",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ă",
+        "casă",
+        "a schwa sound",
+        "un sonido schwa"
+      ],
+      [
+        "â / î",
+        "râu, în",
+        "a sound like Russian ы",
+        "un sonido como la ы rusa"
+      ],
+      [
+        "ș",
+        "școală",
+        "like 'sh' in English",
+        "como 'sh' en inglés"
+      ],
+      [
+        "ț",
+        "preț",
+        "like 'ts' in English",
+        "como 'ts' en alemán"
+      ],
+      [
+        "no capitals issue",
+        "România",
+        "names are capitalised as in English",
+        "los nombres se escriben con mayúscula"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "The pronouns have stressed and unstressed forms.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "eu",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "tu",
+        "you",
+        "tú"
+      ],
+      [
+        "2nd polite",
+        "dumneavoastră",
+        "you (polite)",
+        "usted"
+      ],
+      [
+        "3rd sing. m.",
+        "el",
+        "he",
+        "él"
+      ],
+      [
+        "3rd sing. f.",
+        "ea",
+        "she",
+        "ella"
+      ],
+      [
+        "1st plur.",
+        "noi",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "voi",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "ei / ele",
+        "they",
+        "ellos / ellas"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "a fi (to be)",
+    "description": "This irregular verb is the base of many sentences.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "eu sunt",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "you are",
+        "tu ești",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "he is",
+        "el este",
+        "he is",
+        "él es"
+      ],
+      [
+        "she is",
+        "ea este",
+        "she is",
+        "ella es"
+      ],
+      [
+        "we are",
+        "noi suntem",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "they are",
+        "ei sunt",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "a avea (to have)",
+    "description": "The verb 'to have' is also irregular.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "eu am",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "you have",
+        "tu ai",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "he has",
+        "el are",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "we have",
+        "noi avem",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "they have",
+        "ei au",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Gender of nouns",
+    "description": "Romanian nouns are masculine, feminine or neuter.",
+    "columns": [
+      "Gender",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "băiat",
+        "boy",
+        "chico"
+      ],
+      [
+        "feminine",
+        "fată",
+        "girl",
+        "chica"
+      ],
+      [
+        "neuter",
+        "scaun",
+        "chair",
+        "silla"
+      ],
+      [
+        "feminine",
+        "carte",
+        "book",
+        "libro"
+      ],
+      [
+        "neuter",
+        "tren",
+        "train",
+        "tren"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "The indefinite article",
+    "description": "The indefinite article goes before the noun.",
+    "columns": [
+      "Form",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "un băiat",
+        "a boy",
+        "un chico"
+      ],
+      [
+        "feminine",
+        "o fată",
+        "a girl",
+        "una chica"
+      ],
+      [
+        "neuter",
+        "un scaun",
+        "a chair",
+        "una silla"
+      ],
+      [
+        "feminine",
+        "o carte",
+        "a book",
+        "un libro"
+      ],
+      [
+        "plural",
+        "niște copii",
+        "some children",
+        "unos niños"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "The definite article",
+    "description": "The definite article is attached to the end of the noun.",
+    "columns": [
+      "Form",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "băiatul",
+        "the boy",
+        "el chico"
+      ],
+      [
+        "feminine",
+        "fata",
+        "the girl",
+        "la chica"
+      ],
+      [
+        "neuter",
+        "scaunul",
+        "the chair",
+        "la silla"
+      ],
+      [
+        "feminine",
+        "cartea",
+        "the book",
+        "el libro"
+      ],
+      [
+        "plural",
+        "copiii",
+        "the children",
+        "los niños"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "Plurals change the ending and sometimes the stem.",
+    "columns": [
+      "Type",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -u to -i",
+        "băiat → băieți",
+        "boy → boys",
+        "chico → chicos"
+      ],
+      [
+        "fem. -ă to -e",
+        "fată → fete",
+        "girl → girls",
+        "chica → chicas"
+      ],
+      [
+        "fem. -e to -i",
+        "carte → cărți",
+        "book → books",
+        "libro → libros"
+      ],
+      [
+        "neut. -u to -e",
+        "scaun → scaune",
+        "chair → chairs",
+        "silla → sillas"
+      ],
+      [
+        "neut. -u to -uri",
+        "tren → trenuri",
+        "train → trains",
+        "tren → trenes"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Adjectives agree with nouns",
+    "description": "The adjective follows the noun and agrees with it.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "un băiat bun",
+        "a good boy",
+        "un chico bueno"
+      ],
+      [
+        "feminine",
+        "o fată bună",
+        "a good girl",
+        "una chica buena"
+      ],
+      [
+        "masculine plur.",
+        "băieți buni",
+        "good boys",
+        "chicos buenos"
+      ],
+      [
+        "feminine plur.",
+        "fete bune",
+        "good girls",
+        "chicas buenas"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Possessives",
+    "description": "Possessives agree with the thing owned.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "meu / mea",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "tău / ta",
+        "your",
+        "tu"
+      ],
+      [
+        "his",
+        "său / sa",
+        "his",
+        "su"
+      ],
+      [
+        "her",
+        "ei",
+        "her",
+        "su (de ella)"
+      ],
+      [
+        "our",
+        "nostru / noastră",
+        "our",
+        "nuestro"
+      ],
+      [
+        "their",
+        "lor",
+        "their",
+        "su (de ellos)"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Prepositions",
+    "description": "Prepositions are followed by a noun in a particular case.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in",
+        "în casă",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "on",
+        "pe masă",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "to",
+        "la școală",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "from",
+        "din România",
+        "from Romania",
+        "de Rumanía"
+      ],
+      [
+        "with",
+        "cu un prieten",
+        "with a friend",
+        "con un amigo"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "Verbs are grouped into four conjugation classes.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "eu citesc",
+        "I read",
+        "yo leo"
+      ],
+      [
+        "you",
+        "tu citești",
+        "you read",
+        "tú lees"
+      ],
+      [
+        "he",
+        "el citește",
+        "he reads",
+        "él lee"
+      ],
+      [
+        "we",
+        "noi citim",
+        "we read",
+        "nosotros leemos"
+      ],
+      [
+        "they",
+        "ei citesc",
+        "they read",
+        "ellos leen"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Negation",
+    "description": "nu comes before the verb.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "Eu nu citesc.",
+        "I do not read.",
+        "No leo."
+      ],
+      [
+        "nothing",
+        "Nu am spus nimic.",
+        "I said nothing.",
+        "No dije nada."
+      ],
+      [
+        "never",
+        "Nu vin niciodată.",
+        "I never come.",
+        "Nunca vengo."
+      ],
+      [
+        "not at all",
+        "Nu-mi place deloc.",
+        "I do not like it at all.",
+        "No me gusta nada."
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Past tense",
+    "description": "The compound past uses the auxiliary am, ai, a, am, ați, au and a participle.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I read",
+        "am citit",
+        "I read",
+        "yo leí"
+      ],
+      [
+        "you read",
+        "ai citit",
+        "you read",
+        "tú leíste"
+      ],
+      [
+        "he read",
+        "a citit",
+        "he read",
+        "él leyó"
+      ],
+      [
+        "we read",
+        "am citit",
+        "we read",
+        "nosotros leímos"
+      ],
+      [
+        "they read",
+        "au citit",
+        "they read",
+        "ellos leyeron"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words normally stand at the start.",
+    "columns": [
+      "Word",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "ce",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "cine",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "unde",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "când",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "de ce",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "cum",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers come before the noun.",
+    "columns": [
+      "Number",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "unu",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "doi",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "trei",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "patru",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "cinci",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "șase",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "șapte",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "opt",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "nouă",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "zece",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are used with the preposition în or pe.",
+    "columns": [
+      "Day",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "duminică",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "luni",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "marți",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "miercuri",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "joi",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "vineri",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "sâmbătă",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours are adjectives and agree with the noun.",
+    "columns": [
+      "Colour",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "roșu",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "albastru",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "verde",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "negru",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "alb",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "galben",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The future",
+    "description": "The future uses voi, vei, va, vom, veți, vor plus the infinitive.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will read",
+        "voi citi",
+        "I will read",
+        "leeré"
+      ],
+      [
+        "you will read",
+        "vei citi",
+        "you will read",
+        "leerás"
+      ],
+      [
+        "he will read",
+        "va citi",
+        "he will read",
+        "él leerá"
+      ],
+      [
+        "we will read",
+        "vom citi",
+        "we will read",
+        "leeremos"
+      ],
+      [
+        "colloquial",
+        "o să citesc",
+        "I am going to read",
+        "voy a leer"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The imperfect",
+    "description": "The imperfect describes past habits and background actions.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I used to read",
+        "eu citeam",
+        "I used to read",
+        "yo solía leer"
+      ],
+      [
+        "you used to read",
+        "tu citeai",
+        "you used to read",
+        "tú solías leer"
+      ],
+      [
+        "he used to read",
+        "el citea",
+        "he used to read",
+        "él solía leer"
+      ],
+      [
+        "we used to read",
+        "noi citeam",
+        "we used to read",
+        "solíamos leer"
+      ],
+      [
+        "they used to read",
+        "ei citeau",
+        "they used to read",
+        "ellos solían leer"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative gives commands; the polite form adds -ți.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "read!",
+        "citește",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "listen!",
+        "ascultă",
+        "listen!",
+        "¡escucha!"
+      ],
+      [
+        "go!",
+        "du-te",
+        "go!",
+        "¡ve!"
+      ],
+      [
+        "polite",
+        "citiți",
+        "please read",
+        "lea, por favor"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "mai plus the adjective plus decât forms the comparative.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "mai mare",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "mai mare decât",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "mai bun",
+        "better",
+        "mejor"
+      ],
+      [
+        "less",
+        "mai puțin",
+        "less",
+        "menos"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The superlative",
+    "description": "cel / cea mai plus the adjective forms the superlative.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the best",
+        "cel mai bun",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the biggest",
+        "cel mai mare",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the most beautiful",
+        "cea mai frumoasă",
+        "the most beautiful",
+        "el más bonito"
+      ],
+      [
+        "one of the",
+        "unul dintre cei mai mari",
+        "one of the biggest",
+        "uno de los más grandes"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Relative clauses",
+    "description": "care links a clause to a noun and changes with its role.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "subject",
+        "omul care vorbește",
+        "the man who speaks",
+        "el hombre que habla"
+      ],
+      [
+        "object",
+        "cartea pe care am citit-o",
+        "the book that I read",
+        "el libro que leí"
+      ],
+      [
+        "dative",
+        "persoana căreia i-am scris",
+        "the person to whom I wrote",
+        "la persona a quien escribí"
+      ],
+      [
+        "place",
+        "orașul unde locuiesc",
+        "the city where I live",
+        "la ciudad donde vivo"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Adverbs of time and place",
+    "description": "These words often stand at the start of a sentence.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "here",
+        "aici",
+        "here",
+        "aquí"
+      ],
+      [
+        "there",
+        "acolo",
+        "there",
+        "allí"
+      ],
+      [
+        "today",
+        "astăzi",
+        "today",
+        "hoy"
+      ],
+      [
+        "yesterday",
+        "ieri",
+        "yesterday",
+        "ayer"
+      ],
+      [
+        "tomorrow",
+        "mâine",
+        "tomorrow",
+        "mañana"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Yes/no questions",
+    "description": "Intonation alone can turn a statement into a question.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "question",
+        "Ești student?",
+        "Are you a student?",
+        "¿Eres estudiante?"
+      ],
+      [
+        "question",
+        "Ai timp?",
+        "Do you have time?",
+        "¿Tienes tiempo?"
+      ],
+      [
+        "yes",
+        "da",
+        "yes",
+        "sí"
+      ],
+      [
+        "no",
+        "nu",
+        "no",
+        "no"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Numbers 11–20",
+    "description": "The teens are formed with -sprezece.",
+    "columns": [
+      "Number",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "unsprezece",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "doisprezece",
+        "twelve",
+        "doce"
+      ],
+      [
+        "13",
+        "treisprezece",
+        "thirteen",
+        "trece"
+      ],
+      [
+        "15",
+        "cincisprezece",
+        "fifteen",
+        "quince"
+      ],
+      [
+        "20",
+        "douăzeci",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals use the article al / a plus -lea / -a.",
+    "columns": [
+      "Ordinal",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "primul",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "al doilea",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "al treilea",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "ultimul",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Time uses ora and the number.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "ora unu",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "la ora șapte",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "șapte și jumătate",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "șapte și un sfert",
+        "quarter past seven",
+        "las siete y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Months",
+    "description": "Month names are not capitalised in Romanian.",
+    "columns": [
+      "Month",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "ianuarie",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "martie",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "iunie",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "septembrie",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "decembrie",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Places in the city",
+    "description": "These nouns combine with la, în and de la.",
+    "columns": [
+      "Place",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "museum",
+        "muzeu",
+        "museum",
+        "museo"
+      ],
+      [
+        "library",
+        "bibliotecă",
+        "library",
+        "biblioteca"
+      ],
+      [
+        "market",
+        "piață",
+        "market",
+        "mercado"
+      ],
+      [
+        "station",
+        "gară",
+        "station",
+        "estación"
+      ],
+      [
+        "square",
+        "piață",
+        "square",
+        "plaza"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use cu plus the noun.",
+    "columns": [
+      "Means",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "cu autobuzul",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "cu trenul",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "cu avionul",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "pe jos",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather often uses este or face.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "plouă",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "este cald",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "este frig",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "este însorit",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "Reflexive verbs use the pronouns mă, te, se, ne, vă, se.",
+    "columns": [
+      "Person",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I wake up",
+        "mă trezesc",
+        "I wake up",
+        "me despierto"
+      ],
+      [
+        "you wake up",
+        "te trezești",
+        "you wake up",
+        "te despiertas"
+      ],
+      [
+        "he wakes up",
+        "se trezește",
+        "he wakes up",
+        "él se despierta"
+      ],
+      [
+        "we wake up",
+        "ne trezim",
+        "we wake up",
+        "nos despertamos"
+      ],
+      [
+        "they wake up",
+        "se trezesc",
+        "they wake up",
+        "ellos se despiertan"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The passive",
+    "description": "The passive uses a fi plus a participle or the reflexive se.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was written",
+        "Cartea a fost scrisă.",
+        "The book was written.",
+        "El libro fue escrito."
+      ],
+      [
+        "was built",
+        "Podul a fost construit.",
+        "The bridge was built.",
+        "El puente fue construido."
+      ],
+      [
+        "is served",
+        "Se servește mâncare.",
+        "Food is served.",
+        "La comida se sirve."
+      ],
+      [
+        "was sent",
+        "Scrisoarea a fost trimisă.",
+        "The letter was sent.",
+        "La carta fue enviada."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Obligation",
+    "description": "trebuie plus the subjunctive expresses obligation.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "must",
+        "Trebuie să înveți.",
+        "You must study.",
+        "Debes estudiar."
+      ],
+      [
+        "had to",
+        "A trebuit să merg.",
+        "I had to go.",
+        "Tuve que ir."
+      ],
+      [
+        "should",
+        "Ar trebui să te odihnești.",
+        "You should rest.",
+        "Deberías descansar."
+      ],
+      [
+        "need not",
+        "Nu trebuie să vii.",
+        "You do not need to come.",
+        "No necesitas venir."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Conditionals",
+    "description": "dacă introduces the condition; the main clause uses the conditional.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "real",
+        "Dacă înveți, vei trece.",
+        "If you study, you will pass.",
+        "Si estudias, aprobarás."
+      ],
+      [
+        "real",
+        "Dacă plouă, rămânem acasă.",
+        "If it rains, we stay at home.",
+        "Si llueve, nos quedamos en casa."
+      ],
+      [
+        "unreal",
+        "Dacă aș avea timp, aș călători.",
+        "If I had time, I would travel.",
+        "Si tuviera tiempo, viajaría."
+      ],
+      [
+        "unreal",
+        "Dacă aș fi știut, te-aș fi ajutat.",
+        "If I had known, I would have helped you.",
+        "Si lo hubiera sabido, te habría ayudado."
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "dar",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "pentru că",
+        "because",
+        "porque"
+      ],
+      [
+        "therefore",
+        "așa că",
+        "therefore",
+        "por eso"
+      ],
+      [
+        "although",
+        "deși",
+        "although",
+        "aunque"
+      ],
+      [
+        "moreover",
+        "în plus",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "The subjunctive",
+    "description": "The subjunctive uses să plus the verb form.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "want",
+        "Vreau să învăț.",
+        "I want to study.",
+        "Quiero estudiar."
+      ],
+      [
+        "purpose",
+        "Învăț ca să trec.",
+        "I study in order to pass.",
+        "Estudio para aprobar."
+      ],
+      [
+        "without",
+        "Pleacă fără să spună nimic.",
+        "He leaves without saying anything.",
+        "Se va sin decir nada."
+      ],
+      [
+        "must",
+        "Trebuie să plecăm.",
+        "We must leave.",
+        "Debemos irnos."
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "mereu",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "des",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "uneori",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "rar",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "niciodată",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "The infinitive with -re forms the noun of an action.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "citire",
+        "reading",
+        "lectura"
+      ],
+      [
+        "writing",
+        "scriere",
+        "writing",
+        "escritura"
+      ],
+      [
+        "speaking",
+        "vorbire",
+        "speaking",
+        "habla"
+      ],
+      [
+        "working",
+        "lucrare",
+        "working",
+        "trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order",
+    "description": "Romanian word order is flexible because cases mark the roles.",
+    "columns": [
+      "Type",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "basic",
+        "Eu citesc o carte.",
+        "I read a book.",
+        "Leo un libro."
+      ],
+      [
+        "emphatic",
+        "Cartea o citesc eu.",
+        "It is I who read the book.",
+        "El libro lo leo yo."
+      ],
+      [
+        "question",
+        "Citești?",
+        "Do you read?",
+        "¿Lees?"
+      ],
+      [
+        "negation",
+        "Nu citesc.",
+        "I do not read.",
+        "No leo."
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "tratament",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "simptom",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "rețetă",
+        "prescription",
+        "receta médica"
+      ],
+      [
+        "vaccine",
+        "vaccin",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "asigurare",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Numbers 21–100",
+    "description": "Tens are formed with -zeci.",
+    "columns": [
+      "Number",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "21",
+        "douăzeci și unu",
+        "twenty-one",
+        "veintiuno"
+      ],
+      [
+        "30",
+        "treizeci",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "50",
+        "cincizeci",
+        "fifty",
+        "cincuenta"
+      ],
+      [
+        "75",
+        "șaptezeci și cinci",
+        "seventy-five",
+        "setenta y cinco"
+      ],
+      [
+        "100",
+        "o sută",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "The vocative",
+    "description": "Romanian has special forms for addressing people.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "name",
+        "Anno!",
+        "Anna!",
+        "¡Anna!"
+      ],
+      [
+        "sir",
+        "domnule!",
+        "sir!",
+        "¡señor!"
+      ],
+      [
+        "madam",
+        "doamnă!",
+        "madam!",
+        "¡señora!"
+      ],
+      [
+        "friend",
+        "prietene!",
+        "friend!",
+        "¡amigo!"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Diminutives",
+    "description": "Suffixes like -el, -iță and -uț express affection.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "boy",
+        "băiat → băiețel",
+        "boy → little boy",
+        "chico → chiquitillo"
+      ],
+      [
+        "girl",
+        "fată → fetiță",
+        "girl → little girl",
+        "chica → chiquitilla"
+      ],
+      [
+        "house",
+        "casă → căsuță",
+        "house → little house",
+        "casa → casita"
+      ],
+      [
+        "sun",
+        "soare → soarele",
+        "sun → dear sun",
+        "sol → solecito"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Participles",
+    "description": "Participles are used in the passive and as adjectives.",
+    "columns": [
+      "Type",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "regular",
+        "lucrat",
+        "worked",
+        "trabajado"
+      ],
+      [
+        "irregular",
+        "scris",
+        "written",
+        "escrito"
+      ],
+      [
+        "adjective",
+        "ușa închisă",
+        "the closed door",
+        "la puerta cerrada"
+      ],
+      [
+        "adjective",
+        "fereastra deschisă",
+        "the open window",
+        "la ventana abierta"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "The gerund",
+    "description": "The gerund ends in -ând or -ind and expresses a simultaneous action.",
+    "columns": [
+      "Use",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "simultaneous",
+        "Citind, ascult muzică.",
+        "While reading, I listen to music.",
+        "Mientras leo, escucho música."
+      ],
+      [
+        "manner",
+        "A intrat zâmbind.",
+        "He entered smiling.",
+        "Entró sonriendo."
+      ],
+      [
+        "cause",
+        "Fiind bolnav, a rămas acasă.",
+        "Being ill, he stayed at home.",
+        "Estando enfermo, se quedó en casa."
+      ],
+      [
+        "negative",
+        "Fără să știe, a plecat.",
+        "Without knowing, he left.",
+        "Sin saberlo, se fue."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "inflație",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "merger",
+        "fuziune",
+        "merger",
+        "fusión"
+      ],
+      [
+        "bankruptcy",
+        "faliment",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "subvenție",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "tariff",
+        "tarif",
+        "tariff",
+        "arancel"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "constituție",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlament",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "verdict",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "reclamant",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "pârât",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Academic writing",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metodologie",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "corelație",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "variabilă",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empiric",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "cantitativ",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Environment and climate",
+    "description": "Vocabulary of ecology and climate change.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "biodiversity",
+        "biodiversitate",
+        "biodiversity",
+        "biodiversidad"
+      ],
+      [
+        "deforestation",
+        "defrișare",
+        "deforestation",
+        "deforestación"
+      ],
+      [
+        "habitat",
+        "habitat",
+        "habitat",
+        "hábitat"
+      ],
+      [
+        "emission",
+        "emisie",
+        "emission",
+        "emisión"
+      ],
+      [
+        "erosion",
+        "eroziune",
+        "erosion",
+        "erosión"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Verbs of change",
+    "description": "Verbs that describe weakening, strengthening or worsening.",
+    "columns": [
+      "Verb",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to mitigate",
+        "a atenua",
+        "to mitigate",
+        "mitigar"
+      ],
+      [
+        "to reinforce",
+        "a întări",
+        "to reinforce",
+        "reforzar"
+      ],
+      [
+        "to undermine",
+        "a submina",
+        "to undermine",
+        "socavar"
+      ],
+      [
+        "to deteriorate",
+        "a se deteriora",
+        "to deteriorate",
+        "deteriorarse"
+      ],
+      [
+        "to exacerbate",
+        "a agrava",
+        "to exacerbate",
+        "agravar"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Rhetoric and discourse",
+    "description": "Vocabulary for argument, bias and style.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retorică",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "discurs",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "ambiguitate",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "bias",
+        "părtinire",
+        "bias",
+        "sesgo"
+      ],
+      [
+        "argument",
+        "argument",
+        "argument",
+        "argumento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "conștiință",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "existență",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identitate",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradox",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilemă",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Technology and ethics",
+    "description": "Vocabulary of digital life and its risks.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "privacy",
+        "confidențialitate",
+        "privacy",
+        "privacidad"
+      ],
+      [
+        "encryption",
+        "criptare",
+        "encryption",
+        "cifrado"
+      ],
+      [
+        "algorithm",
+        "algoritm",
+        "algorithm",
+        "algoritmo"
+      ],
+      [
+        "artificial intelligence",
+        "inteligență artificială",
+        "artificial intelligence",
+        "inteligencia artificial"
+      ],
+      [
+        "cybersecurity",
+        "securitate cibernetică",
+        "cybersecurity",
+        "ciberseguridad"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last",
+        "a dura",
+        "to last",
+        "durar"
+      ],
+      [
+        "to repair",
+        "a repara",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "a recicla",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "emisii de carbon",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "durabil",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Formal connectors",
+    "description": "Linkers typical of formal written Romanian.",
+    "columns": [
+      "Connector",
+      "Romanian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "regarding",
+        "în ceea ce privește",
+        "regarding",
+        "en cuanto a"
+      ],
+      [
+        "despite",
+        "în ciuda",
+        "despite",
+        "a pesar de"
+      ],
+      [
+        "nevertheless",
+        "totuși",
+        "nevertheless",
+        "sin embargo"
+      ],
+      [
+        "considering",
+        "având în vedere",
+        "considering",
+        "considerando"
+      ],
+      [
+        "therefore",
+        "prin urmare",
+        "therefore",
+        "por lo tanto"
+      ]
+    ]
+  }
+]

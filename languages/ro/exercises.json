@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ sunt student.",
+        "answer": "Eu",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ este profesor.",
+        "answer": "El",
+        "translation_en": "He is a teacher.",
+        "translation_es": "Él es profesor."
+      },
+      {
+        "sentence": "___ este doctoriță.",
+        "answer": "Ea",
+        "translation_en": "She is a doctor.",
+        "translation_es": "Ella es médica."
+      },
+      {
+        "sentence": "___ suntem prieteni.",
+        "answer": "Noi",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to be' into each gap.",
+    "items": [
+      {
+        "sentence": "Eu ___ student.",
+        "answer": "sunt",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "Tu ___ profesor.",
+        "answer": "ești",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "El ___ doctor.",
+        "answer": "este",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "Noi ___ prieteni.",
+        "answer": "suntem",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to have' into each gap.",
+    "items": [
+      {
+        "sentence": "Eu ___ o carte.",
+        "answer": "am",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Tu ___ un câine.",
+        "answer": "ai",
+        "translation_en": "You have a dog.",
+        "translation_es": "Tienes un perro."
+      },
+      {
+        "sentence": "El ___ o mașină.",
+        "answer": "are",
+        "translation_en": "He has a car.",
+        "translation_es": "Él tiene un coche."
+      },
+      {
+        "sentence": "Noi ___ o casă.",
+        "answer": "avem",
+        "translation_en": "We have a house.",
+        "translation_es": "Tenemos una casa."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct definite form into each gap.",
+    "items": [
+      {
+        "sentence": "Am o carte. ___ este nouă.",
+        "answer": "Cartea",
+        "translation_en": "I have a book. The book is new.",
+        "translation_es": "Tengo un libro. El libro es nuevo."
+      },
+      {
+        "sentence": "Am un câine. ___ este mare.",
+        "answer": "Câinele",
+        "translation_en": "I have a dog. The dog is big.",
+        "translation_es": "Tengo un perro. El perro es grande."
+      },
+      {
+        "sentence": "Am un măr. ___ este roșu.",
+        "answer": "Mărul",
+        "translation_en": "I have an apple. The apple is red.",
+        "translation_es": "Tengo una manzana. La manzana es roja."
+      },
+      {
+        "sentence": "Am două cărți. ___ sunt noi.",
+        "answer": "Cărțile",
+        "translation_en": "I have two books. The books are new.",
+        "translation_es": "Tengo dos libros. Los libros son nuevos."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct plural into each gap.",
+    "items": [
+      {
+        "sentence": "Două ___ sunt pe masă.",
+        "answer": "cărți",
+        "translation_en": "Two books are on the table.",
+        "translation_es": "Hay dos libros sobre la mesa."
+      },
+      {
+        "sentence": "Trei ___ sunt pe stradă.",
+        "answer": "case",
+        "translation_en": "Three houses are in the street.",
+        "translation_es": "Hay tres casas en la calle."
+      },
+      {
+        "sentence": "Mulți ___ se joacă afară.",
+        "answer": "copii",
+        "translation_en": "Many children play outside.",
+        "translation_es": "Muchos niños juegan fuera."
+      },
+      {
+        "sentence": "Două ___ sunt în cameră.",
+        "answer": "mese",
+        "translation_en": "Two tables are in the room.",
+        "translation_es": "Hay dos mesas en la habitación."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "Am ___ frați.",
+        "answer": "doi",
+        "translation_en": "I have two brothers.",
+        "translation_es": "Tengo dos hermanos."
+      },
+      {
+        "sentence": "În clasă sunt ___ elevi.",
+        "answer": "cinci",
+        "translation_en": "There are five students in the class.",
+        "translation_es": "Hay cinco estudiantes en la clase."
+      },
+      {
+        "sentence": "O săptămână are ___ zile.",
+        "answer": "șapte",
+        "translation_en": "A week has seven days.",
+        "translation_es": "Una semana tiene siete días."
+      },
+      {
+        "sentence": "Am ___ degete.",
+        "answer": "zece",
+        "translation_en": "I have ten fingers.",
+        "translation_es": "Tengo diez dedos."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "Mărul este ___ .",
+        "answer": "roșu",
+        "translation_en": "The apple is red.",
+        "translation_es": "La manzana es roja."
+      },
+      {
+        "sentence": "Cerul este ___ .",
+        "answer": "albastru",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "Iarba este ___ .",
+        "answer": "verde",
+        "translation_en": "The grass is green.",
+        "translation_es": "La hierba es verde."
+      },
+      {
+        "sentence": "Geanta mea este ___ .",
+        "answer": "neagră",
+        "translation_en": "My bag is black.",
+        "translation_es": "Mi bolsa es negra."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ te numești?",
+        "answer": "Cum",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ este acesta?",
+        "answer": "Cine",
+        "translation_en": "Who is this?",
+        "translation_es": "¿Quién es este?"
+      },
+      {
+        "sentence": "___ locuiești?",
+        "answer": "Unde",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ mergi la școală?",
+        "answer": "Când",
+        "translation_en": "When do you go to school?",
+        "translation_es": "¿Cuándo vas a la escuela?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "Sunt ___ casă.",
+        "answer": "în",
+        "translation_en": "I am in the house.",
+        "translation_es": "Estoy en la casa."
+      },
+      {
+        "sentence": "Cartea este ___ masă.",
+        "answer": "pe",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Merg ___ școală.",
+        "answer": "la",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Vin ___ România.",
+        "answer": "din",
+        "translation_en": "I come from Romania.",
+        "translation_es": "Vengo de Rumanía."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "Eu ___ sunt student.",
+        "answer": "nu",
+        "translation_en": "I am not a student.",
+        "translation_es": "No soy estudiante."
+      },
+      {
+        "sentence": "Nu-mi place ___ .",
+        "answer": "deloc",
+        "translation_en": "I do not like it at all.",
+        "translation_es": "No me gusta nada."
+      },
+      {
+        "sentence": "Nu vin ___ .",
+        "answer": "niciodată",
+        "translation_en": "I never come.",
+        "translation_es": "Nunca vengo."
+      },
+      {
+        "sentence": "Nu am spus ___ .",
+        "answer": "nimic",
+        "translation_en": "I said nothing.",
+        "translation_es": "No dije nada."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense verb into each gap.",
+    "items": [
+      {
+        "sentence": "Eu ___ românește.",
+        "answer": "vorbesc",
+        "translation_en": "I speak Romanian.",
+        "translation_es": "Hablo rumano."
+      },
+      {
+        "sentence": "El ___ la o bancă.",
+        "answer": "lucrează",
+        "translation_en": "He works at a bank.",
+        "translation_es": "Él trabaja en un banco."
+      },
+      {
+        "sentence": "Noi ___ pâine.",
+        "answer": "mâncăm",
+        "translation_en": "We eat bread.",
+        "translation_es": "Comemos pan."
+      },
+      {
+        "sentence": "Ei ___ la școală.",
+        "answer": "învață",
+        "translation_en": "They learn at school.",
+        "translation_es": "Ellos aprenden en la escuela."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "Ieri am ___ la magazin.",
+        "answer": "mers",
+        "translation_en": "Yesterday I went to the shop.",
+        "translation_es": "Ayer fui a la tienda."
+      },
+      {
+        "sentence": "Am ___ un film.",
+        "answer": "văzut",
+        "translation_en": "We watched a film.",
+        "translation_es": "Vimos una película."
+      },
+      {
+        "sentence": "El a ___ o scrisoare.",
+        "answer": "scris",
+        "translation_en": "He wrote a letter.",
+        "translation_es": "Él escribió una carta."
+      },
+      {
+        "sentence": "Ei au ___ cina.",
+        "answer": "gătit",
+        "translation_en": "They cooked dinner.",
+        "translation_es": "Ellos cocinaron la cena."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "Acesta este fratele ___ .",
+        "answer": "meu",
+        "translation_en": "This is my brother.",
+        "translation_es": "Este es mi hermano."
+      },
+      {
+        "sentence": "Aceasta este sora ___ .",
+        "answer": "mea",
+        "translation_en": "This is my sister.",
+        "translation_es": "Esta es mi hermana."
+      },
+      {
+        "sentence": "Este casa ___ ?",
+        "answer": "ta",
+        "translation_en": "Is it your house?",
+        "translation_es": "¿Es tu casa?"
+      },
+      {
+        "sentence": "Aceasta este școala ___ .",
+        "answer": "noastră",
+        "translation_en": "This is our school.",
+        "translation_es": "Esta es nuestra escuela."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct demonstrative into each gap.",
+    "items": [
+      {
+        "sentence": "___ băiat este prietenul meu.",
+        "answer": "Acest",
+        "translation_en": "This boy is my friend.",
+        "translation_es": "Este chico es mi amigo."
+      },
+      {
+        "sentence": "___ carte este nouă.",
+        "answer": "Această",
+        "translation_en": "This book is new.",
+        "translation_es": "Este libro es nuevo."
+      },
+      {
+        "sentence": "___ copii sunt prietenii mei.",
+        "answer": "Acești",
+        "translation_en": "These children are my friends.",
+        "translation_es": "Estos niños son mis amigos."
+      },
+      {
+        "sentence": "___ case sunt mari.",
+        "answer": "Aceste",
+        "translation_en": "These houses are big.",
+        "translation_es": "Estas casas son grandes."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct phrase into each gap.",
+    "items": [
+      {
+        "sentence": "___ ! Ce faci?",
+        "answer": "Bună",
+        "translation_en": "Hello! How are you?",
+        "translation_es": "¡Hola! ¿Cómo estás?"
+      },
+      {
+        "sentence": "___ pentru ajutor.",
+        "answer": "Mulțumesc",
+        "translation_en": "Thank you for the help.",
+        "translation_es": "Gracias por la ayuda."
+      },
+      {
+        "sentence": "___ , am întârziat.",
+        "answer": "Îmi pare rău",
+        "translation_en": "Sorry, I am late.",
+        "translation_es": "Lo siento, llego tarde."
+      },
+      {
+        "sentence": "___ , mă poți ajuta?",
+        "answer": "Te rog",
+        "translation_en": "Please, can you help me?",
+        "translation_es": "Por favor, ¿puedes ayudarme?"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "Aceasta este ___ mea.",
+        "answer": "mama",
+        "translation_en": "This is my mother.",
+        "translation_es": "Esta es mi madre."
+      },
+      {
+        "sentence": "Acesta este ___ meu.",
+        "answer": "tatăl",
+        "translation_en": "This is my father.",
+        "translation_es": "Este es mi padre."
+      },
+      {
+        "sentence": "___ meu are zece ani.",
+        "answer": "Fratele",
+        "translation_en": "My brother is ten years old.",
+        "translation_es": "Mi hermano tiene diez años."
+      },
+      {
+        "sentence": "___ mea este mai mică.",
+        "answer": "Sora",
+        "translation_en": "My sister is smaller.",
+        "translation_es": "Mi hermana es menor."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct body part into each gap.",
+    "items": [
+      {
+        "sentence": "Văd cu ___ .",
+        "answer": "ochii",
+        "translation_en": "I see with my eyes.",
+        "translation_es": "Veo con mis ojos."
+      },
+      {
+        "sentence": "Aud cu ___ .",
+        "answer": "urechile",
+        "translation_en": "I hear with my ears.",
+        "translation_es": "Oigo con mis oídos."
+      },
+      {
+        "sentence": "Scriu cu ___ .",
+        "answer": "mâna",
+        "translation_en": "I write with my hand.",
+        "translation_es": "Escribo con mi mano."
+      },
+      {
+        "sentence": "Merg cu ___ .",
+        "answer": "picioarele",
+        "translation_en": "I walk with my legs.",
+        "translation_es": "Camino con mis piernas."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct food word into each gap.",
+    "items": [
+      {
+        "sentence": "Beau ___ dimineața.",
+        "answer": "lapte",
+        "translation_en": "I drink milk in the morning.",
+        "translation_es": "Bebo leche por la mañana."
+      },
+      {
+        "sentence": "Mănânc ___ la micul dejun.",
+        "answer": "pâine",
+        "translation_en": "I eat bread for breakfast.",
+        "translation_es": "Como pan en el desayuno."
+      },
+      {
+        "sentence": "Îmi plac ___ .",
+        "answer": "merele",
+        "translation_en": "I like apples.",
+        "translation_es": "Me gustan las manzanas."
+      },
+      {
+        "sentence": "După masă bem ___ .",
+        "answer": "ceai",
+        "translation_en": "After the meal we drink tea.",
+        "translation_es": "Después de comer bebemos té."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "___ nu lucrez.",
+        "answer": "Duminică",
+        "translation_en": "On Sunday I do not work.",
+        "translation_es": "El domingo no trabajo."
+      },
+      {
+        "sentence": "___ jucăm fotbal.",
+        "answer": "Sâmbătă",
+        "translation_en": "On Saturday we play football.",
+        "translation_es": "El sábado jugamos al fútbol."
+      },
+      {
+        "sentence": "___ școala este închisă.",
+        "answer": "Luni",
+        "translation_en": "On Monday school is closed.",
+        "translation_es": "El lunes la escuela está cerrada."
+      },
+      {
+        "sentence": "___ ne întâlnim.",
+        "answer": "Vineri",
+        "translation_en": "On Friday we meet.",
+        "translation_es": "El viernes nos encontramos."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "Magazinul este la ___ .",
+        "answer": "stânga",
+        "translation_en": "The shop is on the left.",
+        "translation_es": "La tienda está a la izquierda."
+      },
+      {
+        "sentence": "Banca este la ___ .",
+        "answer": "dreapta",
+        "translation_en": "The bank is on the right.",
+        "translation_es": "El banco está a la derecha."
+      },
+      {
+        "sentence": "Școala este ___ .",
+        "answer": "aproape",
+        "translation_en": "The school is near.",
+        "translation_es": "La escuela está cerca."
+      },
+      {
+        "sentence": "Aeroportul este ___ .",
+        "answer": "departe",
+        "translation_en": "The airport is far.",
+        "translation_es": "El aeropuerto está lejos."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct future form into each gap.",
+    "items": [
+      {
+        "sentence": "Mâine ___ să merg la București.",
+        "answer": "voi",
+        "translation_en": "Tomorrow I will go to Bucharest.",
+        "translation_es": "Mañana iré a Bucarest."
+      },
+      {
+        "sentence": "Vom ___ împreună.",
+        "answer": "învăța",
+        "translation_en": "We will study together.",
+        "translation_es": "Estudiaremos juntos."
+      },
+      {
+        "sentence": "Ea ___ găti cina.",
+        "answer": "va",
+        "translation_en": "She will cook dinner.",
+        "translation_es": "Ella cocinará la cena."
+      },
+      {
+        "sentence": "Ei vor ___ curând.",
+        "answer": "sosi",
+        "translation_en": "They will arrive soon.",
+        "translation_es": "Ellos llegarán pronto."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct imperfect form into each gap.",
+    "items": [
+      {
+        "sentence": "Când eram mic, ___ mult.",
+        "answer": "citeam",
+        "translation_en": "When I was little, I read a lot.",
+        "translation_es": "Cuando era pequeño, leía mucho."
+      },
+      {
+        "sentence": "El ___ în parc.",
+        "answer": "juca",
+        "translation_en": "He used to play in the park.",
+        "translation_es": "Él jugaba en el parque."
+      },
+      {
+        "sentence": "Noi ___ la mare.",
+        "answer": "mergeam",
+        "translation_en": "We used to go to the sea.",
+        "translation_es": "Solíamos ir al mar."
+      },
+      {
+        "sentence": "Ei ___ la școală.",
+        "answer": "învățau",
+        "translation_en": "They used to study at school.",
+        "translation_es": "Ellos estudiaban en la escuela."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "Ahmed este mai ___ decât Ali.",
+        "answer": "înalt",
+        "translation_en": "Ahmed is taller than Ali.",
+        "translation_es": "Ahmed es más alto que Ali."
+      },
+      {
+        "sentence": "Această carte este mai ___ decât aceea.",
+        "answer": "dificilă",
+        "translation_en": "This book is more difficult than that one.",
+        "translation_es": "Este libro es más difícil que aquel."
+      },
+      {
+        "sentence": "Avionul este mai ___ decât trenul.",
+        "answer": "rapid",
+        "translation_en": "The plane is faster than the train.",
+        "translation_es": "El avión es más rápido que el tren."
+      },
+      {
+        "sentence": "Astăzi este mai ___ decât ieri.",
+        "answer": "bine",
+        "translation_en": "Today is better than yesterday.",
+        "translation_es": "Hoy es mejor que ayer."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct superlative into each gap.",
+    "items": [
+      {
+        "sentence": "El este cel mai ___ elev din clasă.",
+        "answer": "bun",
+        "translation_en": "He is the best student in the class.",
+        "translation_es": "Es el mejor estudiante de la clase."
+      },
+      {
+        "sentence": "Aceasta este cea mai ___ carte a mea.",
+        "answer": "frumoasă",
+        "translation_en": "This is my most beautiful book.",
+        "translation_es": "Este es mi libro más bonito."
+      },
+      {
+        "sentence": "Bucureștiul este unul dintre cele mai ___ orașe.",
+        "answer": "mari",
+        "translation_en": "Bucharest is one of the biggest cities.",
+        "translation_es": "Bucarest es una de las ciudades más grandes."
+      },
+      {
+        "sentence": "A fost cea mai ___ zi din viața mea.",
+        "answer": "fericită",
+        "translation_en": "It was the happiest day of my life.",
+        "translation_es": "Fue el día más feliz de mi vida."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct relative word into each gap.",
+    "items": [
+      {
+        "sentence": "Aceasta este cartea ___ am citit-o.",
+        "answer": "pe care",
+        "translation_en": "This is the book that I read.",
+        "translation_es": "Este es el libro que leí."
+      },
+      {
+        "sentence": "Acesta este omul ___ m-a ajutat.",
+        "answer": "care",
+        "translation_en": "This is the man who helped me.",
+        "translation_es": "Este es el hombre que me ayudó."
+      },
+      {
+        "sentence": "Este persoana ___ i-am dat cartea.",
+        "answer": "cui",
+        "translation_en": "This is the person to whom I gave the book.",
+        "translation_es": "Esta es la persona a quien le di el libro."
+      },
+      {
+        "sentence": "Acesta este orașul ___ locuiesc.",
+        "answer": "unde",
+        "translation_en": "This is the city where I live.",
+        "translation_es": "Esta es la ciudad donde vivo."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct adverb into each gap.",
+    "items": [
+      {
+        "sentence": "Merg ___ la club.",
+        "answer": "mereu",
+        "translation_en": "I always go to the club.",
+        "translation_es": "Siempre voy al club."
+      },
+      {
+        "sentence": "Beau ___ cafea.",
+        "answer": "uneori",
+        "translation_en": "I sometimes drink coffee.",
+        "translation_es": "A veces bebo café."
+      },
+      {
+        "sentence": "Mănânc ___ la restaurant.",
+        "answer": "rar",
+        "translation_en": "I rarely eat in a restaurant.",
+        "translation_es": "Rara vez como en un restaurante."
+      },
+      {
+        "sentence": "Nu am auzit ___ asta.",
+        "answer": "niciodată",
+        "translation_en": "I have never heard this.",
+        "translation_es": "Nunca he oído esto."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {
+        "sentence": "Astăzi este ___ .",
+        "answer": "ploios",
+        "translation_en": "Today it is rainy.",
+        "translation_es": "Hoy está lluvioso."
+      },
+      {
+        "sentence": "Vara este ___ .",
+        "answer": "cald",
+        "translation_en": "In summer it is hot.",
+        "translation_es": "En verano hace calor."
+      },
+      {
+        "sentence": "Iarna este ___ .",
+        "answer": "frig",
+        "translation_en": "In winter it is cold.",
+        "translation_es": "En invierno hace frío."
+      },
+      {
+        "sentence": "Cerul este ___ astăzi.",
+        "answer": "înnorat",
+        "translation_en": "The sky is cloudy today.",
+        "translation_es": "El cielo está nublado hoy."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {
+        "sentence": "Călătoresc cu ___ .",
+        "answer": "trenul",
+        "translation_en": "I travel by train.",
+        "translation_es": "Viajo en tren."
+      },
+      {
+        "sentence": "Merg la muncă cu ___ .",
+        "answer": "autobuzul",
+        "translation_en": "I go to work by bus.",
+        "translation_es": "Voy al trabajo en autobús."
+      },
+      {
+        "sentence": "Merg cu ___ .",
+        "answer": "bicicleta",
+        "translation_en": "I ride the bicycle.",
+        "translation_es": "Monto en bicicleta."
+      },
+      {
+        "sentence": "___ este cel mai rapid mijloc.",
+        "answer": "Avionul",
+        "translation_en": "The plane is the fastest means.",
+        "translation_es": "El avión es el medio más rápido."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "Cât ___ această cămașă?",
+        "answer": "costă",
+        "translation_en": "How much does this shirt cost?",
+        "translation_es": "¿Cuánto cuesta esta camisa?"
+      },
+      {
+        "sentence": "Plătesc cu ___ .",
+        "answer": "cardul",
+        "translation_en": "I pay by card.",
+        "translation_es": "Pago con tarjeta."
+      },
+      {
+        "sentence": "Există o ___ de zece procente.",
+        "answer": "reducere",
+        "translation_en": "There is a ten percent discount.",
+        "translation_es": "Hay un descuento del diez por ciento."
+      },
+      {
+        "sentence": "Am nevoie de o ___ mai mare.",
+        "answer": "mărime",
+        "translation_en": "I need a bigger size.",
+        "translation_es": "Necesito una talla más grande."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct feeling into each gap.",
+    "items": [
+      {
+        "sentence": "Astăzi sunt ___ .",
+        "answer": "obosit",
+        "translation_en": "I am tired today.",
+        "translation_es": "Estoy cansado hoy."
+      },
+      {
+        "sentence": "Ea este ___ din cauza examenului.",
+        "answer": "îngrijorată",
+        "translation_en": "She is worried about the exam.",
+        "translation_es": "Ella está preocupada por el examen."
+      },
+      {
+        "sentence": "Suntem foarte ___ .",
+        "answer": "fericiți",
+        "translation_en": "We are very happy.",
+        "translation_es": "Estamos muy contentos."
+      },
+      {
+        "sentence": "El este ___ pentru că autobuzul a întârziat.",
+        "answer": "supărat",
+        "translation_en": "He is angry because the bus was late.",
+        "translation_es": "Él está enfadado porque el autobús llegó tarde."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct reflexive verb into each gap.",
+    "items": [
+      {
+        "sentence": "Mă ___ la ora șapte.",
+        "answer": "trezesc",
+        "translation_en": "I wake up at seven.",
+        "translation_es": "Me despierto a las siete."
+      },
+      {
+        "sentence": "Mă ___ repede.",
+        "answer": "îmbrac",
+        "translation_en": "I get dressed quickly.",
+        "translation_es": "Me visto rápido."
+      },
+      {
+        "sentence": "Ne ___ după muncă.",
+        "answer": "odihnim",
+        "translation_en": "We rest after work.",
+        "translation_es": "Descansamos después del trabajo."
+      },
+      {
+        "sentence": "Mă ___ la ora unsprezece.",
+        "answer": "culc",
+        "translation_en": "I go to bed at eleven.",
+        "translation_es": "Me acuesto a las once."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct hobby word into each gap.",
+    "items": [
+      {
+        "sentence": "Hobby-ul meu este ___ .",
+        "answer": "fotografia",
+        "translation_en": "My hobby is photography.",
+        "translation_es": "Mi afición es la fotografía."
+      },
+      {
+        "sentence": "Jucăm ___ în fiecare seară.",
+        "answer": "șah",
+        "translation_en": "We play chess every evening.",
+        "translation_es": "Jugamos al ajedrez cada tarde."
+      },
+      {
+        "sentence": "Merg la ___ la munte.",
+        "answer": "camping",
+        "translation_en": "I go camping in the mountains.",
+        "translation_es": "Voy de acampada a las montañas."
+      },
+      {
+        "sentence": "Tatăl meu iubește ___ .",
+        "answer": "pescuitul",
+        "translation_en": "My father loves fishing.",
+        "translation_es": "A mi padre le encanta pescar."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "Mă doare ___ .",
+        "answer": "capul",
+        "translation_en": "I have a headache.",
+        "translation_es": "Me duele la cabeza."
+      },
+      {
+        "sentence": "Doctorul mi-a scris o ___ .",
+        "answer": "rețetă",
+        "translation_en": "The doctor wrote me a prescription.",
+        "translation_es": "El médico me escribió una receta."
+      },
+      {
+        "sentence": "Mă doare ___ .",
+        "answer": "gâtul",
+        "translation_en": "I have a sore throat.",
+        "translation_es": "Me duele la garganta."
+      },
+      {
+        "sentence": "Am ___ .",
+        "answer": "răceală",
+        "translation_en": "I have a cold.",
+        "translation_es": "Estoy resfriado."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct linking word into each gap.",
+    "items": [
+      {
+        "sentence": "___ culcare citesc o carte.",
+        "answer": "Înainte de",
+        "translation_en": "Before sleeping I read a book.",
+        "translation_es": "Antes de dormir leo un libro."
+      },
+      {
+        "sentence": "___ masă mergem la plimbare.",
+        "answer": "După",
+        "translation_en": "After the meal we go for a walk.",
+        "translation_es": "Después de comer vamos de paseo."
+      },
+      {
+        "sentence": "___ ajung acasă, mă odihnesc.",
+        "answer": "Când",
+        "translation_en": "When I arrive home, I rest.",
+        "translation_es": "Cuando llego a casa, descanso."
+      },
+      {
+        "sentence": "___ plouă, rămânem acasă.",
+        "answer": "Fiindcă",
+        "translation_en": "Because it is raining, we stay at home.",
+        "translation_es": "Como está lloviendo, nos quedamos en casa."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal into each gap.",
+    "items": [
+      {
+        "sentence": "Locuiesc la etajul ___ .",
+        "answer": "al doilea",
+        "translation_en": "I live on the second floor.",
+        "translation_es": "Vivo en el segundo piso."
+      },
+      {
+        "sentence": "Aceasta este ___ lecție.",
+        "answer": "a treia",
+        "translation_en": "This is the third lesson.",
+        "translation_es": "Esta es la tercera lección."
+      },
+      {
+        "sentence": "El este ___ elev din clasă.",
+        "answer": "primul",
+        "translation_en": "He is the first student in the class.",
+        "translation_es": "Él es el primer estudiante de la clase."
+      },
+      {
+        "sentence": "Este ___ mea zi.",
+        "answer": "ultima",
+        "translation_en": "It is my last day.",
+        "translation_es": "Es mi último día."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct place into each gap.",
+    "items": [
+      {
+        "sentence": "Mergem la ___ .",
+        "answer": "muzeu",
+        "translation_en": "We go to the museum.",
+        "translation_es": "Vamos al museo."
+      },
+      {
+        "sentence": "Împrumut cărți de la ___ .",
+        "answer": "bibliotecă",
+        "translation_en": "I borrow books from the library.",
+        "translation_es": "Tomo libros de la biblioteca."
+      },
+      {
+        "sentence": "Am văzut o piesă la ___ .",
+        "answer": "teatru",
+        "translation_en": "We saw a play at the theatre.",
+        "translation_es": "Vimos una obra en el teatro."
+      },
+      {
+        "sentence": "Duminică mergem la ___ .",
+        "answer": "biserică",
+        "translation_en": "On Sunday we go to church.",
+        "translation_es": "El domingo vamos a la iglesia."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct cooking verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ orezul în apă.",
+        "answer": "Fierb",
+        "translation_en": "I boil the rice in water.",
+        "translation_es": "Hiervo el arroz en agua."
+      },
+      {
+        "sentence": "___ peștele în ulei.",
+        "answer": "Prăjim",
+        "translation_en": "We fry the fish in oil.",
+        "translation_es": "Freímos el pescado en aceite."
+      },
+      {
+        "sentence": "___ pâinea în cuptor.",
+        "answer": "Coc",
+        "translation_en": "I bake the bread in the oven.",
+        "translation_es": "Horneo el pan en el horno."
+      },
+      {
+        "sentence": "___ legumele cu un cuțit ascuțit.",
+        "answer": "Tăiem",
+        "translation_en": "We cut the vegetables with a sharp knife.",
+        "translation_es": "Cortamos las verduras con un cuchillo afilado."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct school subject into each gap.",
+    "items": [
+      {
+        "sentence": "Îmi place ___ .",
+        "answer": "geografia",
+        "translation_en": "I like geography.",
+        "translation_es": "Me gusta la geografía."
+      },
+      {
+        "sentence": "Studiem ___ în laborator.",
+        "answer": "chimia",
+        "translation_en": "We study chemistry in the laboratory.",
+        "translation_es": "Estudiamos química en el laboratorio."
+      },
+      {
+        "sentence": "___ este ușoară pentru mine.",
+        "answer": "Matematica",
+        "translation_en": "Mathematics is easy for me.",
+        "translation_es": "Las matemáticas son fáciles para mí."
+      },
+      {
+        "sentence": "Citesc mult despre ___ .",
+        "answer": "istorie",
+        "translation_en": "I read a lot about history.",
+        "translation_es": "Leo mucho sobre historia."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Dacă aș avea timp, ___ călători.",
+        "answer": "aș",
+        "translation_en": "If I had time, I would travel.",
+        "translation_es": "Si tuviera tiempo, viajaría."
+      },
+      {
+        "sentence": "Ce ___ face dacă ai câștiga?",
+        "answer": "ai",
+        "translation_en": "What would you do if you won?",
+        "translation_es": "¿Qué harías si ganaras?"
+      },
+      {
+        "sentence": "El ___ veni dacă ar putea.",
+        "answer": "ar",
+        "translation_en": "He would come if he could.",
+        "translation_es": "Él vendría si pudiera."
+      },
+      {
+        "sentence": "Noi ___ merge dacă am avea bani.",
+        "answer": "am",
+        "translation_en": "We would go if we had money.",
+        "translation_es": "Iríamos si tuviéramos dinero."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct conjunction into each gap.",
+    "items": [
+      {
+        "sentence": "Îmi place ceaiul, ___ nu-mi place cafeaua.",
+        "answer": "dar",
+        "translation_en": "I like tea, but I do not like coffee.",
+        "translation_es": "Me gusta el té, pero no me gusta el café."
+      },
+      {
+        "sentence": "Nu merg la școală ___ sunt bolnav.",
+        "answer": "pentru că",
+        "translation_en": "I do not go to school because I am ill.",
+        "translation_es": "No voy a la escuela porque estoy enfermo."
+      },
+      {
+        "sentence": "Învăț ___ să trec examenul.",
+        "answer": "ca",
+        "translation_en": "I study in order to pass the exam.",
+        "translation_es": "Estudio para aprobar el examen."
+      },
+      {
+        "sentence": "Aștept ___ vine.",
+        "answer": "până",
+        "translation_en": "I wait until he comes.",
+        "translation_es": "Espero hasta que venga."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct passive form into each gap.",
+    "items": [
+      {
+        "sentence": "Cartea a fost ___ în 1980.",
+        "answer": "scrisă",
+        "translation_en": "The book was written in 1980.",
+        "translation_es": "El libro fue escrito en 1980."
+      },
+      {
+        "sentence": "Podul a fost ___ acum o sută de ani.",
+        "answer": "construit",
+        "translation_en": "The bridge was built a hundred years ago.",
+        "translation_es": "El puente fue construido hace cien años."
+      },
+      {
+        "sentence": "În restaurant se ___ mâncare.",
+        "answer": "servește",
+        "translation_en": "Food is served in the restaurant.",
+        "translation_es": "La comida se sirve en el restaurante."
+      },
+      {
+        "sentence": "Scrisoarea a fost ___ ieri.",
+        "answer": "trimisă",
+        "translation_en": "The letter was sent yesterday.",
+        "translation_es": "La carta fue enviada ayer."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct expression of obligation into each gap.",
+    "items": [
+      {
+        "sentence": "Trebuie să ___ .",
+        "answer": "înveți",
+        "translation_en": "You must study.",
+        "translation_es": "Debes estudiar."
+      },
+      {
+        "sentence": "A trebuit să ___ la ședință ieri.",
+        "answer": "merg",
+        "translation_en": "I had to go to the meeting yesterday.",
+        "translation_es": "Tuve que ir a la reunión ayer."
+      },
+      {
+        "sentence": "Ar trebui să ne ___ unii pe alții.",
+        "answer": "ajutăm",
+        "translation_en": "We should help each other.",
+        "translation_es": "Deberíamos ayudarnos unos a otros."
+      },
+      {
+        "sentence": "Este ___ să ajungi la timp.",
+        "answer": "necesar",
+        "translation_en": "It is necessary to arrive on time.",
+        "translation_es": "Es necesario llegar a tiempo."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct conditional word into each gap.",
+    "items": [
+      {
+        "sentence": "___ înveți, vei trece.",
+        "answer": "Dacă",
+        "translation_en": "If you study, you will pass.",
+        "translation_es": "Si estudias, aprobarás."
+      },
+      {
+        "sentence": "Dacă va fi timp, ___ la film.",
+        "answer": "mergem",
+        "translation_en": "If there is time, we go to the cinema.",
+        "translation_es": "Si hay tiempo, vamos al cine."
+      },
+      {
+        "sentence": "___ ajutorul tău nu aș fi reușit.",
+        "answer": "Fără",
+        "translation_en": "Without your help I would not have succeeded.",
+        "translation_es": "Sin tu ayuda no lo habría logrado."
+      },
+      {
+        "sentence": "___ fi avut timp, aș fi călătorit.",
+        "answer": "Aș",
+        "translation_en": "Had I had time, I would have travelled.",
+        "translation_es": "Si hubiera tenido tiempo, habría viajado."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Merg la școală ___ trebuie să învăț.",
+        "answer": "fiindcă",
+        "translation_en": "I go to school because I must study.",
+        "translation_es": "Voy a la escuela porque debo estudiar."
+      },
+      {
+        "sentence": "Ploua, ___ am rămas acasă.",
+        "answer": "așa că",
+        "translation_en": "It was raining, so we stayed at home.",
+        "translation_es": "Estaba lloviendo, así que nos quedamos en casa."
+      },
+      {
+        "sentence": "Am învățat ___ să trec.",
+        "answer": "ca",
+        "translation_en": "I studied in order to pass.",
+        "translation_es": "Estudié para aprobar."
+      },
+      {
+        "sentence": "Aștept ___ se întoarce.",
+        "answer": "până",
+        "translation_en": "I wait until he returns.",
+        "translation_es": "Espero hasta que vuelva."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct subjunctive form into each gap.",
+    "items": [
+      {
+        "sentence": "Vreau ___ învăț.",
+        "answer": "să",
+        "translation_en": "I want to study.",
+        "translation_es": "Quiero estudiar."
+      },
+      {
+        "sentence": "Învăț ___ trec examenul.",
+        "answer": "ca să",
+        "translation_en": "I study in order to pass the exam.",
+        "translation_es": "Estudio para aprobar el examen."
+      },
+      {
+        "sentence": "Pleacă ___ spune nimic.",
+        "answer": "fără să",
+        "translation_en": "He leaves without saying anything.",
+        "translation_es": "Se va sin decir nada."
+      },
+      {
+        "sentence": "___ vină mâine.",
+        "answer": "O să",
+        "translation_en": "He will come tomorrow.",
+        "translation_es": "Él vendrá mañana."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct adverb of manner into each gap.",
+    "items": [
+      {
+        "sentence": "Vorbește foarte ___ .",
+        "answer": "încet",
+        "translation_en": "He speaks very slowly.",
+        "translation_es": "Habla muy despacio."
+      },
+      {
+        "sentence": "Vă rog, vorbiți ___ .",
+        "answer": "tare",
+        "translation_en": "Please speak loudly.",
+        "translation_es": "Por favor, hable alto."
+      },
+      {
+        "sentence": "A făcut treaba ___ .",
+        "answer": "repede",
+        "translation_en": "He did the work quickly.",
+        "translation_es": "Hizo el trabajo rápidamente."
+      },
+      {
+        "sentence": "Citește ___ .",
+        "answer": "atent",
+        "translation_en": "She reads attentively.",
+        "translation_es": "Ella lee con atención."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "Am aplicat și mâine am un ___ .",
+        "answer": "interviu",
+        "translation_en": "I applied and tomorrow I have an interview.",
+        "translation_es": "Me postulé y mañana tengo una entrevista."
+      },
+      {
+        "sentence": "Am trimis ___ meu cu cererea.",
+        "answer": "CV-ul",
+        "translation_en": "I sent my CV with the application.",
+        "translation_es": "Envié mi currículum con la solicitud."
+      },
+      {
+        "sentence": "După doi ani am primit o ___ .",
+        "answer": "promovare",
+        "translation_en": "After two years I got a promotion.",
+        "translation_es": "Después de dos años conseguí un ascenso."
+      },
+      {
+        "sentence": "Lucrez cu o ___ bună la acest proiect.",
+        "answer": "echipă",
+        "translation_en": "I work with a good team on this project.",
+        "translation_es": "Trabajo con un buen equipo en este proyecto."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct money word into each gap.",
+    "items": [
+      {
+        "sentence": "Îmi scriu ___ lunar într-un caiet.",
+        "answer": "bugetul",
+        "translation_en": "I write my monthly budget in a notebook.",
+        "translation_es": "Escribo mi presupuesto mensual en un cuaderno."
+      },
+      {
+        "sentence": "Încerc să ___ bani în fiecare lună.",
+        "answer": "economisesc",
+        "translation_en": "I try to save money every month.",
+        "translation_es": "Intento ahorrar dinero cada mes."
+      },
+      {
+        "sentence": "Am o ___ mare la bancă.",
+        "answer": "datorie",
+        "translation_en": "I have a big debt at the bank.",
+        "translation_es": "Tengo una gran deuda en el banco."
+      },
+      {
+        "sentence": "Plătesc ___ pe venit.",
+        "answer": "impozit",
+        "translation_en": "I pay tax on income.",
+        "translation_es": "Pago impuestos sobre la renta."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "___ aerului este o problemă mare în orașe.",
+        "answer": "Poluarea",
+        "translation_en": "Air pollution is a big problem in cities.",
+        "translation_es": "La contaminación del aire es un gran problema en las ciudades."
+      },
+      {
+        "sentence": "Trebuie să ___ deșeurile.",
+        "answer": "reciclăm",
+        "translation_en": "We must recycle waste.",
+        "translation_es": "Debemos reciclar los residuos."
+      },
+      {
+        "sentence": "Avem nevoie de energie ___ .",
+        "answer": "regenerabilă",
+        "translation_en": "We need renewable energy.",
+        "translation_es": "Necesitamos energía renovable."
+      },
+      {
+        "sentence": "Din cauza defrișării dispar ___ .",
+        "answer": "pădurile",
+        "translation_en": "Forests are disappearing because of deforestation.",
+        "translation_es": "Los bosques están desapareciendo por la deforestación."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "Fiecare ___ are dreptul la vot.",
+        "answer": "cetățean",
+        "translation_en": "Every citizen has the right to vote.",
+        "translation_es": "Todo ciudadano tiene derecho a votar."
+      },
+      {
+        "sentence": "Parlamentul a făcut legi ___ .",
+        "answer": "noi",
+        "translation_en": "The parliament made new laws.",
+        "translation_es": "El parlamento hizo nuevas leyes."
+      },
+      {
+        "sentence": "În primăvară au fost ___ .",
+        "answer": "alegeri",
+        "translation_en": "In spring there were elections.",
+        "translation_es": "En primavera hubo elecciones."
+      },
+      {
+        "sentence": "Oamenii și-au exprimat opinia într-un ___ pașnic.",
+        "answer": "protest",
+        "translation_en": "People expressed their opinion in a peaceful protest.",
+        "translation_es": "La gente expresó su opinión en una protesta pacífica."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct medical word into each gap.",
+    "items": [
+      {
+        "sentence": "Doctorul a scris o ___ nouă.",
+        "answer": "rețetă",
+        "translation_en": "The doctor wrote a new prescription.",
+        "translation_es": "El médico escribió una nueva receta."
+      },
+      {
+        "sentence": "Am dureri de ___ .",
+        "answer": "spate",
+        "translation_en": "I have back pain.",
+        "translation_es": "Tengo dolor de espalda."
+      },
+      {
+        "sentence": "___ a durat trei săptămâni.",
+        "answer": "Tratamentul",
+        "translation_en": "The treatment lasted three weeks.",
+        "translation_es": "El tratamiento duró tres semanas."
+      },
+      {
+        "sentence": "Pacientul are nevoie de o ___ medicală.",
+        "answer": "asigurare",
+        "translation_en": "The patient needs health insurance.",
+        "translation_es": "El paciente necesita un seguro médico."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {
+        "sentence": "Am făcut un ___ în laborator.",
+        "answer": "experiment",
+        "translation_en": "We did an experiment in the laboratory.",
+        "translation_es": "Hicimos un experimento en el laboratorio."
+      },
+      {
+        "sentence": "Cercetătorul a prezentat o nouă ___ .",
+        "answer": "teorie",
+        "translation_en": "The researcher presented a new theory.",
+        "translation_es": "El investigador presentó una nueva teoría."
+      },
+      {
+        "sentence": "Aceste ___ susțin ipoteza noastră.",
+        "answer": "dovezi",
+        "translation_en": "This evidence supports our hypothesis.",
+        "translation_es": "Estas pruebas apoyan nuestra hipótesis."
+      },
+      {
+        "sentence": "Noi ___ cer mult timp.",
+        "answer": "descoperiri",
+        "translation_en": "New discoveries take a lot of time.",
+        "translation_es": "Los nuevos descubrimientos requieren mucho tiempo."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct technology word into each gap.",
+    "items": [
+      {
+        "sentence": "Am uitat ___ contului.",
+        "answer": "parola",
+        "translation_en": "I forgot my account password.",
+        "translation_es": "Olvidé la contraseña de mi cuenta."
+      },
+      {
+        "sentence": "Ți-am trimis un ___ ieri.",
+        "answer": "mesaj",
+        "translation_en": "I sent you a message yesterday.",
+        "translation_es": "Te envié un mensaje ayer."
+      },
+      {
+        "sentence": "Astăzi nu funcționează ___ .",
+        "answer": "site-ul",
+        "translation_en": "The website is not working today.",
+        "translation_es": "El sitio web no funciona hoy."
+      },
+      {
+        "sentence": "Trebuie să ___ un fișier.",
+        "answer": "descarc",
+        "translation_en": "I need to download a file.",
+        "translation_es": "Necesito descargar un archivo."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct emotion word into each gap.",
+    "items": [
+      {
+        "sentence": "După succes am simțit o mare ___ .",
+        "answer": "mândrie",
+        "translation_en": "After the success I felt great pride.",
+        "translation_es": "Tras el éxito sentí un gran orgullo."
+      },
+      {
+        "sentence": "Când a auzit vestea, frica i-a umplut ___ .",
+        "answer": "inima",
+        "translation_en": "When he heard the news, fear filled his heart.",
+        "translation_es": "Cuando oyó la noticia, el miedo llenó su corazón."
+      },
+      {
+        "sentence": "Simt o mare ___ pentru tine.",
+        "answer": "recunoștință",
+        "translation_en": "I feel great gratitude for you.",
+        "translation_es": "Siento una gran gratitud hacia ti."
+      },
+      {
+        "sentence": "Când am văzut cadoul, a fost o mare ___ .",
+        "answer": "bucurie",
+        "translation_en": "When I saw the gift, there was great joy.",
+        "translation_es": "Cuando vi el regalo, hubo una gran alegría."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct art word into each gap.",
+    "items": [
+      {
+        "sentence": "Luna aceasta am citit un ___ minunat.",
+        "answer": "roman",
+        "translation_en": "This month I read a wonderful novel.",
+        "translation_es": "Este mes leí una novela maravillosa."
+      },
+      {
+        "sentence": "La expoziție am văzut un ___ nou.",
+        "answer": "tablou",
+        "translation_en": "At the exhibition we saw a new painting.",
+        "translation_es": "En la exposición vimos un cuadro nuevo."
+      },
+      {
+        "sentence": "Poetul a scris un ___ frumos.",
+        "answer": "poem",
+        "translation_en": "The poet wrote a beautiful poem.",
+        "translation_es": "El poeta escribió un hermoso poema."
+      },
+      {
+        "sentence": "___ a fost foarte entuziasmat.",
+        "answer": "Publicul",
+        "translation_en": "The audience was very enthusiastic.",
+        "translation_es": "El público estaba muy entusiasmado."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct business word into each gap.",
+    "items": [
+      {
+        "sentence": "Am trimis clientului o ___ .",
+        "answer": "factură",
+        "translation_en": "We sent the client an invoice.",
+        "translation_es": "Enviamos una factura al cliente."
+      },
+      {
+        "sentence": "Compania cumpără de la un ___ de încredere.",
+        "answer": "furnizor",
+        "translation_en": "The company buys from a reliable supplier.",
+        "translation_es": "La empresa compra a un proveedor fiable."
+      },
+      {
+        "sentence": "Un ___ bun ajută să găsești clienți.",
+        "answer": "marketing",
+        "translation_en": "Good marketing helps find customers.",
+        "translation_es": "Un buen marketing ayuda a encontrar clientes."
+      },
+      {
+        "sentence": "După ani a devenit ___ al companiei.",
+        "answer": "acționar",
+        "translation_en": "After years he became a shareholder of the company.",
+        "translation_es": "Tras años se convirtió en accionista de la empresa."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct abstract noun into each gap.",
+    "items": [
+      {
+        "sentence": "___ personală este o chestiune complexă.",
+        "answer": "Identitatea",
+        "translation_en": "Personal identity is a complex matter.",
+        "translation_es": "La identidad personal es un asunto complejo."
+      },
+      {
+        "sentence": "Filosoful s-a îndoit de existența ___ .",
+        "answer": "conștiinței",
+        "translation_en": "The philosopher doubted the existence of consciousness.",
+        "translation_es": "El filósofo dudó de la existencia de la conciencia."
+      },
+      {
+        "sentence": "Nimeni nu posedă adevărul ___ .",
+        "answer": "absolut",
+        "translation_en": "No one possesses absolute truth.",
+        "translation_es": "Nadie posee la verdad absoluta."
+      },
+      {
+        "sentence": "Era într-o adevărată ___ între două opțiuni.",
+        "answer": "dilemă",
+        "translation_en": "He was in a real dilemma between two options.",
+        "translation_es": "Estaba en un verdadero dilema entre dos opciones."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "___ a atins un nivel record.",
+        "answer": "Inflația",
+        "translation_en": "Inflation reached a record level.",
+        "translation_es": "La inflación alcanzó un nivel récord."
+      },
+      {
+        "sentence": "Cele două companii au anunțat o mare ___ .",
+        "answer": "fuziune",
+        "translation_en": "The two companies announced a big merger.",
+        "translation_es": "Las dos empresas anunciaron una gran fusión."
+      },
+      {
+        "sentence": "Managementul slab a dus la ___ companiei.",
+        "answer": "falimentul",
+        "translation_en": "Bad management led to the bankruptcy of the company.",
+        "translation_es": "La mala gestión llevó a la quiebra de la empresa."
+      },
+      {
+        "sentence": "Statul impune ___ la importuri.",
+        "answer": "tarife",
+        "translation_en": "The state imposes tariffs on imports.",
+        "translation_es": "El Estado impone aranceles a las importaciones."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "Instanța a dat o ___ definitivă.",
+        "answer": "sentință",
+        "translation_en": "The court gave a final verdict.",
+        "translation_es": "El tribunal emitió un veredicto final."
+      },
+      {
+        "sentence": "___ a depus o plângere împotriva companiei.",
+        "answer": "Reclamantul",
+        "translation_en": "The plaintiff filed a lawsuit against the company.",
+        "translation_es": "El demandante presentó una demanda contra la empresa."
+      },
+      {
+        "sentence": "___ s-a apărat în fața judecătorului.",
+        "answer": "Pârâtul",
+        "translation_en": "The defendant defended himself before the judge.",
+        "translation_es": "El demandado se defendió ante el juez."
+      },
+      {
+        "sentence": "Companiile trebuie să respecte ___ de mediu.",
+        "answer": "reglementările",
+        "translation_en": "Companies must comply with environmental regulations.",
+        "translation_es": "Las empresas deben cumplir con la normativa medioambiental."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {
+        "sentence": "Cercetătorul a folosit o ___ cantitativă.",
+        "answer": "metodologie",
+        "translation_en": "The researcher used a quantitative methodology.",
+        "translation_es": "El investigador utilizó una metodología cuantitativa."
+      },
+      {
+        "sentence": "Am găsit o ___ puternică între două variabile.",
+        "answer": "corelație",
+        "translation_en": "We found a strong correlation between two variables.",
+        "translation_es": "Encontramos una fuerte correlación entre dos variables."
+      },
+      {
+        "sentence": "Ipoteza are nevoie de dovezi ___ .",
+        "answer": "empirice",
+        "translation_en": "The hypothesis needs empirical evidence.",
+        "translation_es": "La hipótesis necesita pruebas empíricas."
+      },
+      {
+        "sentence": "Aceste date sunt ___ , nu calitative.",
+        "answer": "cantitative",
+        "translation_en": "This data is quantitative, not qualitative.",
+        "translation_es": "Estos datos son cuantitativos, no cualitativos."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct environmental term into each gap.",
+    "items": [
+      {
+        "sentence": "Poluarea amenință ___ biologică a mării.",
+        "answer": "diversitatea",
+        "translation_en": "Pollution threatens marine biodiversity.",
+        "translation_es": "La contaminación amenaza la biodiversidad marina."
+      },
+      {
+        "sentence": "___ este o problemă globală.",
+        "answer": "Defrișarea",
+        "translation_en": "Deforestation is a global problem.",
+        "translation_es": "La deforestación es un problema mundial."
+      },
+      {
+        "sentence": "Fiecare viețuitoare are propriul ___ .",
+        "answer": "habitat",
+        "translation_en": "Every creature has its own habitat.",
+        "translation_es": "Cada criatura tiene su propio hábitat."
+      },
+      {
+        "sentence": "Ploaia acidă a provocat ___ solului.",
+        "answer": "eroziunea",
+        "translation_en": "Acid rain caused soil erosion.",
+        "translation_es": "La lluvia ácida causó la erosión del suelo."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Guvernul a încercat să ___ criza economică.",
+        "answer": "atenueze",
+        "translation_en": "The government tried to mitigate the economic crisis.",
+        "translation_es": "El gobierno intentó mitigar la crisis económica."
+      },
+      {
+        "sentence": "Trebuie să ___ cercetarea științifică.",
+        "answer": "sprijinim",
+        "translation_en": "We must support scientific research.",
+        "translation_es": "Debemos apoyar la investigación científica."
+      },
+      {
+        "sentence": "Compania a vrut să-și ___ procedurile.",
+        "answer": "eficientizeze",
+        "translation_en": "The company wanted to streamline its procedures.",
+        "translation_es": "La empresa quería simplificar sus procedimientos."
+      },
+      {
+        "sentence": "Din aceste date se pot ___ rezultatele.",
+        "answer": "extrapola",
+        "translation_en": "One can extrapolate the results from this data.",
+        "translation_es": "Se pueden extrapolar los resultados de estos datos."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "Vorbitorul a folosit o ___ eficientă.",
+        "answer": "retorică",
+        "translation_en": "The speaker used effective rhetoric.",
+        "translation_es": "El orador usó una retórica eficaz."
+      },
+      {
+        "sentence": "Analiza ___ politic este importantă.",
+        "answer": "discursului",
+        "translation_en": "Analysing political discourse is important.",
+        "translation_es": "Analizar el discurso político es importante."
+      },
+      {
+        "sentence": "Nu este suficient ca o idee să fie corectă, ea trebuie să fie ___ .",
+        "answer": "convingătoare",
+        "translation_en": "It is not enough for an idea to be right; it must be convincing.",
+        "translation_es": "No basta con que una idea sea correcta; debe ser convincente."
+      },
+      {
+        "sentence": "În textele științifice trebuie evitată ___ .",
+        "answer": "ambiguitatea",
+        "translation_en": "In scientific texts one must avoid ambiguity.",
+        "translation_es": "En los textos científicos se debe evitar la ambigüedad."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct formal connector into each gap.",
+    "items": [
+      {
+        "sentence": "___ , rezultatele sunt insuficiente.",
+        "answer": "În plus",
+        "translation_en": "Moreover, the results are insufficient.",
+        "translation_es": "Además, los resultados son insuficientes."
+      },
+      {
+        "sentence": "___ circumstanțele dificile, a terminat cercetarea.",
+        "answer": "În ciuda",
+        "translation_en": "Despite the difficult circumstances, he completed the research.",
+        "translation_es": "A pesar de las circunstancias difíciles, completó la investigación."
+      },
+      {
+        "sentence": "Costurile sunt mari; ___ beneficiile sunt mai mari.",
+        "answer": "totuși",
+        "translation_en": "The costs are high; nevertheless, the benefits are greater.",
+        "translation_es": "Los costes son altos; sin embargo, los beneficios son mayores."
+      },
+      {
+        "sentence": "___ datele, tendința pare clară.",
+        "answer": "Având în vedere",
+        "translation_en": "Considering the data, the trend seems clear.",
+        "translation_es": "Considerando los datos, la tendencia parece clara."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct term into each gap.",
+    "items": [
+      {
+        "sentence": "Algoritmii ridică îngrijorări privind ___ .",
+        "answer": "confidențialitatea",
+        "translation_en": "Algorithms raise concerns about privacy.",
+        "translation_es": "Los algoritmos suscitan preocupación por la privacidad."
+      },
+      {
+        "sentence": "Sistemul are nevoie de o ___ puternică a datelor.",
+        "answer": "criptare",
+        "translation_en": "The system needs strong encryption of the data.",
+        "translation_es": "El sistema necesita un cifrado fuerte de los datos."
+      },
+      {
+        "sentence": "Companiile ___ datele utilizatorilor.",
+        "answer": "colectează",
+        "translation_en": "Companies collect users' data.",
+        "translation_es": "Las empresas recopilan datos de los usuarios."
+      },
+      {
+        "sentence": "___ artificială schimbă piața muncii.",
+        "answer": "Inteligența",
+        "translation_en": "Artificial intelligence is changing the labour market.",
+        "translation_es": "La inteligencia artificial está cambiando el mercado laboral."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct philosophical term into each gap.",
+    "items": [
+      {
+        "sentence": "Conștiința rămâne o ___ pentru știința modernă.",
+        "answer": "enigmă",
+        "translation_en": "Consciousness remains a paradox for modern science.",
+        "translation_es": "La conciencia sigue siendo una paradoja para la ciencia moderna."
+      },
+      {
+        "sentence": "Unii filosofi apără ___ sufletului.",
+        "answer": "existența",
+        "translation_en": "Some philosophers defend the existence of the soul.",
+        "translation_es": "Algunos filósofos defienden la existencia del alma."
+      },
+      {
+        "sentence": "___ personală se schimbă în timp.",
+        "answer": "Identitatea",
+        "translation_en": "Personal identity changes over time.",
+        "translation_es": "La identidad personal cambia con el tiempo."
+      },
+      {
+        "sentence": "___ onest este semnul gândirii serioase.",
+        "answer": "Scepticismul",
+        "translation_en": "Honest scepticism is the mark of serious thinking.",
+        "translation_es": "El escepticismo honesto es señal de pensamiento serio."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Produsele trebuie să ___ mult.",
+        "answer": "dureze",
+        "translation_en": "Products should last a long time.",
+        "translation_es": "Los productos deben durar mucho."
+      },
+      {
+        "sentence": "Astfel pot fi ___ emisiile de carbon.",
+        "answer": "reduse",
+        "translation_en": "In this way carbon emissions can be reduced.",
+        "translation_es": "De este modo se pueden reducir las emisiones de carbono."
+      },
+      {
+        "sentence": "Fără sprijin guvernamental, ideea poate ___ un slogan.",
+        "answer": "rămâne",
+        "translation_en": "Without government support the idea may remain a slogan.",
+        "translation_es": "Sin apoyo gubernamental la idea puede quedarse en un mero eslogan."
+      },
+      {
+        "sentence": "Economia liniară deteriorează ___ de care depinde.",
+        "answer": "ecosistemele",
+        "translation_en": "The linear economy deteriorates the ecosystems it depends on.",
+        "translation_es": "La economía lineal deteriora los ecosistemas de los que depende."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "Și-a ___ clar părerea.",
+        "answer": "articulat",
+        "translation_en": "He articulated his opinion clearly.",
+        "translation_es": "Articuló claramente su opinión."
+      },
+      {
+        "sentence": "A încercat să ___ regulile.",
+        "answer": "ocolească",
+        "translation_en": "He tried to circumvent the rules.",
+        "translation_es": "Intentó eludir las reglas."
+      },
+      {
+        "sentence": "Compania și-a ___ poziția.",
+        "answer": "consolidat",
+        "translation_en": "The company consolidated its position.",
+        "translation_es": "La empresa consolidó su posición."
+      },
+      {
+        "sentence": "Situația s-a ___ și mai mult.",
+        "answer": "deteriorat",
+        "translation_en": "The situation deteriorated further.",
+        "translation_es": "La situación empeoró aún más."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct formal adjective into each gap.",
+    "items": [
+      {
+        "sentence": "Această idee este astăzi foarte ___ .",
+        "answer": "răspândită",
+        "translation_en": "This idea is very prevalent today.",
+        "translation_es": "Esta idea está muy extendida hoy."
+      },
+      {
+        "sentence": "Această substanță este ___ pentru sănătate.",
+        "answer": "dăunătoare",
+        "translation_en": "This substance is detrimental to health.",
+        "translation_es": "Esta sustancia es perjudicial para la salud."
+      },
+      {
+        "sentence": "Acest obiectiv este complet ___ .",
+        "answer": "fezabil",
+        "translation_en": "This goal is entirely feasible.",
+        "translation_es": "Este objetivo es totalmente factible."
+      },
+      {
+        "sentence": "Succesul este ___ .",
+        "answer": "relativ",
+        "translation_en": "Success is relative.",
+        "translation_es": "El éxito es relativo."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "___ protejează drepturile fundamentale ale cetățenilor.",
+        "answer": "Constituția",
+        "translation_en": "The constitution protects the fundamental rights of citizens.",
+        "translation_es": "La constitución protege los derechos fundamentales de los ciudadanos."
+      },
+      {
+        "sentence": "___ adoptă legi noi.",
+        "answer": "Parlamentul",
+        "translation_en": "The parliament passes new laws.",
+        "translation_es": "El parlamento aprueba nuevas leyes."
+      },
+      {
+        "sentence": "Ministrul este ___ pentru aplicarea legilor.",
+        "answer": "responsabil",
+        "translation_en": "The minister is responsible for implementing laws.",
+        "translation_es": "El ministro es responsable de aplicar las leyes."
+      },
+      {
+        "sentence": "Judecătorul dă o ___ .",
+        "answer": "sentință",
+        "translation_en": "The judge issues a verdict.",
+        "translation_es": "El juez emite un veredicto."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct word into each gap.",
+    "items": [
+      {
+        "sentence": "Rețelele sociale pot ___ informații false.",
+        "answer": "răspândi",
+        "translation_en": "Social media can spread false information.",
+        "translation_es": "Las redes sociales pueden difundir información falsa."
+      },
+      {
+        "sentence": "Utilizatorii văd doar opiniile cu care sunt ___ .",
+        "answer": "de acord",
+        "translation_en": "Users see only the opinions they agree with.",
+        "translation_es": "Los usuarios solo ven las opiniones con las que están de acuerdo."
+      },
+      {
+        "sentence": "Aceasta cere gândire ___ .",
+        "answer": "critică",
+        "translation_en": "This requires critical thinking.",
+        "translation_es": "Esto requiere pensamiento crítico."
+      },
+      {
+        "sentence": "O democrație sănătoasă depinde de fapte ___ .",
+        "answer": "verificate",
+        "translation_en": "A healthy democracy depends on verified facts.",
+        "translation_es": "Una democracia sana depende de hechos verificados."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct gerund into each gap.",
+    "items": [
+      {
+        "sentence": "___ cartea, a adormit.",
+        "answer": "Citind",
+        "translation_en": "Reading the book, he fell asleep.",
+        "translation_es": "Leyendo el libro, se durmió."
+      },
+      {
+        "sentence": "___ , ascult muzică.",
+        "answer": "Mâncând",
+        "translation_en": "While eating, I listen to music.",
+        "translation_es": "Mientras como, escucho música."
+      },
+      {
+        "sentence": "A plecat fără să ___ nimic.",
+        "answer": "spună",
+        "translation_en": "He left without saying anything.",
+        "translation_es": "Se fue sin decir nada."
+      },
+      {
+        "sentence": "___ la universitate, a învățat multe.",
+        "answer": "Studiind",
+        "translation_en": "Studying at university, he learned a lot.",
+        "translation_es": "Estudiando en la universidad, aprendió mucho."
+      }
+    ]
+  }
+]

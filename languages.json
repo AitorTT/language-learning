@@ -233,5 +233,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "ro",
+    "name": "Romanian",
+    "flag": "🇷🇴",
+    "speech": "ro-RO",
+    "termLabel": "Romanian",
+    "termField": "romanian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
