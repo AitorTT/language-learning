@@ -388,5 +388,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "sk",
+    "name": "Slovak",
+    "flag": "🇸🇰",
+    "speech": "sk-SK",
+    "termLabel": "Slovak",
+    "termField": "slovak",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]

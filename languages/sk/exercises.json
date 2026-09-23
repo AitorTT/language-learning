@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ som študent.",
+        "answer": "Ja",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ si učiteľ.",
+        "answer": "Ty",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "___ je lekár.",
+        "answer": "On",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "___ sme priatelia.",
+        "answer": "My",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to be' into each gap.",
+    "items": [
+      {
+        "sentence": "Ja ___ študent.",
+        "answer": "som",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "Ty ___ učiteľ.",
+        "answer": "si",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "On ___ lekár.",
+        "answer": "je",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "My ___ priatelia.",
+        "answer": "sme",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to have' into each gap.",
+    "items": [
+      {
+        "sentence": "Ja ___ knihu.",
+        "answer": "mám",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Ty ___ psa.",
+        "answer": "máš",
+        "translation_en": "You have a dog.",
+        "translation_es": "Tienes un perro."
+      },
+      {
+        "sentence": "On ___ dom.",
+        "answer": "má",
+        "translation_en": "He has a house.",
+        "translation_es": "Él tiene una casa."
+      },
+      {
+        "sentence": "My ___ čas.",
+        "answer": "máme",
+        "translation_en": "We have time.",
+        "translation_es": "Tenemos tiempo."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct demonstrative into each gap.",
+    "items": [
+      {
+        "sentence": "___ muž je tu.",
+        "answer": "Ten",
+        "translation_en": "This man is here.",
+        "translation_es": "Este hombre está aquí."
+      },
+      {
+        "sentence": "___ žena je tu.",
+        "answer": "Tá",
+        "translation_en": "This woman is here.",
+        "translation_es": "Esta mujer está aquí."
+      },
+      {
+        "sentence": "___ dieťa je tu.",
+        "answer": "To",
+        "translation_en": "This child is here.",
+        "translation_es": "Este niño está aquí."
+      },
+      {
+        "sentence": "___ muži sú tu.",
+        "answer": "Tí",
+        "translation_en": "These men are here.",
+        "translation_es": "Estos hombres están aquí."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct plural into each gap.",
+    "items": [
+      {
+        "sentence": "Jeden dom, dva ___.",
+        "answer": "domy",
+        "translation_en": "One house, two houses.",
+        "translation_es": "Una casa, dos casas."
+      },
+      {
+        "sentence": "Jedna kniha, dve ___.",
+        "answer": "knihy",
+        "translation_en": "One book, two books.",
+        "translation_es": "Un libro, dos libros."
+      },
+      {
+        "sentence": "Jedno mesto, dve ___.",
+        "answer": "mestá",
+        "translation_en": "One town, two towns.",
+        "translation_es": "Una ciudad, dos ciudades."
+      },
+      {
+        "sentence": "Jeden muž, dvaja ___.",
+        "answer": "muži",
+        "translation_en": "One man, two men.",
+        "translation_es": "Un hombre, dos hombres."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct accusative form into each gap.",
+    "items": [
+      {
+        "sentence": "Mám rád ___.",
+        "answer": "hudbu",
+        "translation_en": "I like music.",
+        "translation_es": "Me gusta la música."
+      },
+      {
+        "sentence": "Kupujem ___.",
+        "answer": "chlieb",
+        "translation_en": "I buy bread.",
+        "translation_es": "Compro pan."
+      },
+      {
+        "sentence": "Vidím ___.",
+        "answer": "mačku",
+        "translation_en": "I see the cat.",
+        "translation_es": "Veo al gato."
+      },
+      {
+        "sentence": "Pijem ___.",
+        "answer": "vodu",
+        "translation_en": "I drink water.",
+        "translation_es": "Bebo agua."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct adjective form into each gap.",
+    "items": [
+      {
+        "sentence": "___ muž.",
+        "answer": "dobrý",
+        "translation_en": "A good man.",
+        "translation_es": "Un buen hombre."
+      },
+      {
+        "sentence": "___ žena.",
+        "answer": "dobrá",
+        "translation_en": "A good woman.",
+        "translation_es": "Una buena mujer."
+      },
+      {
+        "sentence": "___ dieťa.",
+        "answer": "dobré",
+        "translation_en": "A good child.",
+        "translation_es": "Un buen niño."
+      },
+      {
+        "sentence": "___ muži.",
+        "answer": "dobrí",
+        "translation_en": "Good men.",
+        "translation_es": "Buenos hombres."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense form of 'to speak' into each gap.",
+    "items": [
+      {
+        "sentence": "Ja ___ po slovensky.",
+        "answer": "hovorím",
+        "translation_en": "I speak Slovak.",
+        "translation_es": "Hablo eslovaco."
+      },
+      {
+        "sentence": "Ty ___ po anglicky.",
+        "answer": "hovoríš",
+        "translation_en": "You speak English.",
+        "translation_es": "Hablas inglés."
+      },
+      {
+        "sentence": "On ___ po nemecky.",
+        "answer": "hovorí",
+        "translation_en": "He speaks German.",
+        "translation_es": "Él habla alemán."
+      },
+      {
+        "sentence": "My ___ spolu.",
+        "answer": "hovoríme",
+        "translation_en": "We speak together.",
+        "translation_es": "Hablamos juntos."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "Ja ___ hovorím po slovensky.",
+        "answer": "nie",
+        "translation_en": "I do not speak Slovak.",
+        "translation_es": "No hablo eslovaco."
+      },
+      {
+        "sentence": "___ nemám.",
+        "answer": "Nič",
+        "translation_en": "I have nothing.",
+        "translation_es": "No tengo nada."
+      },
+      {
+        "sentence": "___ tu nie je.",
+        "answer": "Nikto",
+        "translation_en": "Nobody is here.",
+        "translation_es": "No hay nadie aquí."
+      },
+      {
+        "sentence": "___ nechodím neskoro.",
+        "answer": "Nikdy",
+        "translation_en": "I never come late.",
+        "translation_es": "Nunca llego tarde."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ sa voláš?",
+        "answer": "Ako",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ bývaš?",
+        "answer": "Kde",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ prídeš?",
+        "answer": "Kedy",
+        "translation_en": "When are you coming?",
+        "translation_es": "¿Cuándo vienes?"
+      },
+      {
+        "sentence": "___ je to?",
+        "answer": "Kto",
+        "translation_en": "Who is this?",
+        "translation_es": "¿Quién es este?"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "Tri + štyri = ___.",
+        "answer": "sedem",
+        "translation_en": "Three plus four is seven.",
+        "translation_es": "Tres más cuatro son siete."
+      },
+      {
+        "sentence": "Päť + päť = ___.",
+        "answer": "desať",
+        "translation_en": "Five plus five is ten.",
+        "translation_es": "Cinco más cinco son diez."
+      },
+      {
+        "sentence": "Dva + dva = ___.",
+        "answer": "štyri",
+        "translation_en": "Two plus two is four.",
+        "translation_es": "Dos más dos son cuatro."
+      },
+      {
+        "sentence": "Šesť + tri = ___.",
+        "answer": "deväť",
+        "translation_en": "Six plus three is nine.",
+        "translation_es": "Seis más tres son nueve."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "Po pondelku prichádza ___.",
+        "answer": "utorok",
+        "translation_en": "After Monday comes Tuesday.",
+        "translation_es": "Después del lunes viene el martes."
+      },
+      {
+        "sentence": "Po strede prichádza ___.",
+        "answer": "štvrtok",
+        "translation_en": "After Wednesday comes Thursday.",
+        "translation_es": "Después del miércoles viene el jueves."
+      },
+      {
+        "sentence": "Po piatku prichádza ___.",
+        "answer": "sobota",
+        "translation_en": "After Friday comes Saturday.",
+        "translation_es": "Después del viernes viene el sábado."
+      },
+      {
+        "sentence": "Po sobote prichádza ___.",
+        "answer": "nedeľa",
+        "translation_en": "After Saturday comes Sunday.",
+        "translation_es": "Después del sábado viene el domingo."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "Sneh je ___.",
+        "answer": "biely",
+        "translation_en": "Snow is white.",
+        "translation_es": "La nieve es blanca."
+      },
+      {
+        "sentence": "Tráva je ___.",
+        "answer": "zelená",
+        "translation_en": "Grass is green.",
+        "translation_es": "La hierba es verde."
+      },
+      {
+        "sentence": "Obloha je ___.",
+        "answer": "modrá",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "Krv je ___.",
+        "answer": "červená",
+        "translation_en": "Blood is red.",
+        "translation_es": "La sangre es roja."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "___ sa volá Anna.",
+        "answer": "Moja matka",
+        "translation_en": "My mother's name is Anna.",
+        "translation_es": "Mi madre se llama Anna."
+      },
+      {
+        "sentence": "___ sa volá Ján.",
+        "answer": "Môj otec",
+        "translation_en": "My father's name is Ján.",
+        "translation_es": "Mi padre se llama Ján."
+      },
+      {
+        "sentence": "___ je môj priateľ.",
+        "answer": "Môj brat",
+        "translation_en": "My brother is my friend.",
+        "translation_es": "Mi hermano es mi amigo."
+      },
+      {
+        "sentence": "___ je mladšia ako ja.",
+        "answer": "Moja sestra",
+        "translation_en": "My sister is younger than me.",
+        "translation_es": "Mi hermana es menor que yo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "Toto je ___ kniha.",
+        "answer": "moja",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "Toto je ___ dom.",
+        "answer": "tvoj",
+        "translation_en": "This is your house.",
+        "translation_es": "Esta es tu casa."
+      },
+      {
+        "sentence": "Toto je ___ auto.",
+        "answer": "jeho",
+        "translation_en": "This is his car.",
+        "translation_es": "Este es su coche."
+      },
+      {
+        "sentence": "Toto je ___ škola.",
+        "answer": "naša",
+        "translation_en": "This is our school.",
+        "translation_es": "Esta es nuestra escuela."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "Kniha je ___ stole.",
+        "answer": "na",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Mačka je ___ stolom.",
+        "answer": "pod",
+        "translation_en": "The cat is under the table.",
+        "translation_es": "El gato está bajo la mesa."
+      },
+      {
+        "sentence": "Dom je ___ lesom.",
+        "answer": "za",
+        "translation_en": "The house is behind the forest.",
+        "translation_es": "La casa está detrás del bosque."
+      },
+      {
+        "sentence": "Auto je ___ domom.",
+        "answer": "pred",
+        "translation_en": "The car is in front of the house.",
+        "translation_es": "El coche está delante de la casa."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct locative form into each gap.",
+    "items": [
+      {
+        "sentence": "Bývam v ___ .",
+        "answer": "Bratislave",
+        "translation_en": "I live in Bratislava.",
+        "translation_es": "Vivo en Bratislava."
+      },
+      {
+        "sentence": "Som v ___ .",
+        "answer": "škole",
+        "translation_en": "I am at school.",
+        "translation_es": "Estoy en la escuela."
+      },
+      {
+        "sentence": "Pracujem v ___ .",
+        "answer": "kancelárii",
+        "translation_en": "I work in an office.",
+        "translation_es": "Trabajo en una oficina."
+      },
+      {
+        "sentence": "Kniha je na ___ .",
+        "answer": "stole",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct dative form into each gap.",
+    "items": [
+      {
+        "sentence": "Pomáham ___ .",
+        "answer": "bratovi",
+        "translation_en": "I help my brother.",
+        "translation_es": "Ayudo a mi hermano."
+      },
+      {
+        "sentence": "Volám ___ .",
+        "answer": "sestre",
+        "translation_en": "I call my sister.",
+        "translation_es": "Llamo a mi hermana."
+      },
+      {
+        "sentence": "Rozumiem ___ .",
+        "answer": "matke",
+        "translation_en": "I understand my mother.",
+        "translation_es": "Entiendo a mi madre."
+      },
+      {
+        "sentence": "Ďakujem ___ .",
+        "answer": "otcovi",
+        "translation_en": "I thank my father.",
+        "translation_es": "Doy gracias a mi padre."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct object pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ vidí. (mňa)",
+        "answer": "Mňa",
+        "translation_en": "He sees me.",
+        "translation_es": "Él me ve."
+      },
+      {
+        "sentence": "___ vidí. (teba)",
+        "answer": "Teba",
+        "translation_en": "He sees you.",
+        "translation_es": "Él te ve."
+      },
+      {
+        "sentence": "___ vidí. (nás)",
+        "answer": "Nás",
+        "translation_en": "He sees us.",
+        "translation_es": "Él nos ve."
+      },
+      {
+        "sentence": "___ vidí. (vás)",
+        "answer": "Vás",
+        "translation_en": "He sees you all.",
+        "translation_es": "Él os ve."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "Choď stále ___ .",
+        "answer": "rovno",
+        "translation_en": "Go straight ahead.",
+        "translation_es": "Ve todo recto."
+      },
+      {
+        "sentence": "Odboč ___ .",
+        "answer": "vľavo",
+        "translation_en": "Turn left.",
+        "translation_es": "Gira a la izquierda."
+      },
+      {
+        "sentence": "Obchod je ___ .",
+        "answer": "vpravo",
+        "translation_en": "The shop is on the right.",
+        "translation_es": "La tienda está a la derecha."
+      },
+      {
+        "sentence": "Vráť sa ___ .",
+        "answer": "späť",
+        "translation_en": "Come back.",
+        "translation_es": "Vuelve atrás."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct past-tense form into each gap.",
+    "items": [
+      {
+        "sentence": "Včera som ___ domov.",
+        "answer": "šiel",
+        "translation_en": "Yesterday I went home.",
+        "translation_es": "Ayer fui a casa."
+      },
+      {
+        "sentence": "Vlani som ___ do Bratislavy.",
+        "answer": "cestoval",
+        "translation_en": "Last year I travelled to Bratislava.",
+        "translation_es": "El año pasado viajé a Bratislava."
+      },
+      {
+        "sentence": "Včera večer som ___ knihu.",
+        "answer": "čítal",
+        "translation_en": "Last night I read a book.",
+        "translation_es": "Anoche leí un libro."
+      },
+      {
+        "sentence": "Včera som ___ .",
+        "answer": "pracoval",
+        "translation_en": "Yesterday I worked.",
+        "translation_es": "Ayer trabajé."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct future form into each gap.",
+    "items": [
+      {
+        "sentence": "Zajtra ___ do práce.",
+        "answer": "pôjdem",
+        "translation_en": "Tomorrow I will go to work.",
+        "translation_es": "Mañana iré al trabajo."
+      },
+      {
+        "sentence": "V nedeľu ___ doma.",
+        "answer": "zostanem",
+        "translation_en": "On Sunday I will stay at home.",
+        "translation_es": "El domingo me quedaré en casa."
+      },
+      {
+        "sentence": "Dnes večer ___ film.",
+        "answer": "uvidím",
+        "translation_en": "Tonight I will see a film.",
+        "translation_es": "Esta noche veré una película."
+      },
+      {
+        "sentence": "Večer ___ von.",
+        "answer": "pôjdeme",
+        "translation_en": "In the evening we will go out.",
+        "translation_es": "Por la noche saldremos."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct imperative into each gap.",
+    "items": [
+      {
+        "sentence": "___ chvíľu!",
+        "answer": "Počkaj",
+        "translation_en": "Wait a moment!",
+        "translation_es": "¡Espera un momento!"
+      },
+      {
+        "sentence": "___ dvere!",
+        "answer": "Zavri",
+        "translation_en": "Close the door!",
+        "translation_es": "¡Cierra la puerta!"
+      },
+      {
+        "sentence": "___ tú knihu!",
+        "answer": "Prečítaj",
+        "translation_en": "Read that book!",
+        "translation_es": "¡Lee ese libro!"
+      },
+      {
+        "sentence": "___ sem!",
+        "answer": "Poď",
+        "translation_en": "Come here!",
+        "translation_es": "¡Ven aquí!"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "Ján je ___ ako Peter.",
+        "answer": "vyšší",
+        "translation_en": "Ján is taller than Peter.",
+        "translation_es": "Ján es más alto que Peter."
+      },
+      {
+        "sentence": "Dom je ___ ako byt.",
+        "answer": "väčší",
+        "translation_en": "The house is bigger than the flat.",
+        "translation_es": "La casa es más grande que el piso."
+      },
+      {
+        "sentence": "Táto kniha je ___ ako tamtá.",
+        "answer": "zaujímavejšia",
+        "translation_en": "This book is more interesting than that one.",
+        "translation_es": "Este libro es más interesante que aquel."
+      },
+      {
+        "sentence": "More je ___ ako jazero.",
+        "answer": "hlbšie",
+        "translation_en": "The sea is deeper than the lake.",
+        "translation_es": "El mar es más profundo que el lago."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct superlative into each gap.",
+    "items": [
+      {
+        "sentence": "Je to ___ žiak v triede.",
+        "answer": "najlepší",
+        "translation_en": "He is the best student in the class.",
+        "translation_es": "Es el mejor estudiante de la clase."
+      },
+      {
+        "sentence": "Je to ___ budova v meste.",
+        "answer": "najvyššia",
+        "translation_en": "It is the tallest building in the city.",
+        "translation_es": "Es el edificio más alto de la ciudad."
+      },
+      {
+        "sentence": "Je to ___ film, ktorý som videl.",
+        "answer": "najkrajší",
+        "translation_en": "It is the nicest film I have seen.",
+        "translation_es": "Es la película más bonita que he visto."
+      },
+      {
+        "sentence": "Je to ___ jedlo na svete.",
+        "answer": "najchutnejšie",
+        "translation_en": "It is the tastiest food in the world.",
+        "translation_es": "Es la comida más rica del mundo."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct verb form into each gap.",
+    "items": [
+      {
+        "sentence": "Každý deň ___ knihu.",
+        "answer": "čítam",
+        "translation_en": "Every day I read a book.",
+        "translation_es": "Cada día leo un libro."
+      },
+      {
+        "sentence": "Včera som ___ tú knihu.",
+        "answer": "prečítal",
+        "translation_en": "Yesterday I finished reading that book.",
+        "translation_es": "Ayer terminé de leer ese libro."
+      },
+      {
+        "sentence": "Každý deň ___ list.",
+        "answer": "píšem",
+        "translation_en": "Every day I write a letter.",
+        "translation_es": "Cada día escribo una carta."
+      },
+      {
+        "sentence": "Včera som ___ ten list.",
+        "answer": "napísal",
+        "translation_en": "Yesterday I wrote that letter.",
+        "translation_es": "Ayer escribí esa carta."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Keby som mal čas, ___ na pláž.",
+        "answer": "šiel by som",
+        "translation_en": "If I had time, I would go to the beach.",
+        "translation_es": "Si tuviera tiempo, iría a la playa."
+      },
+      {
+        "sentence": "Keby som bol bohatý, ___ dom.",
+        "answer": "kúpil by som",
+        "translation_en": "If I were rich, I would buy a house.",
+        "translation_es": "Si fuera rico, compraría una casa."
+      },
+      {
+        "sentence": "Keby som mohol, ___ teraz.",
+        "answer": "prišiel by som",
+        "translation_en": "If I could, I would come now.",
+        "translation_es": "Si pudiera, vendría ahora."
+      },
+      {
+        "sentence": "Keby si vedel, ___ mi to.",
+        "answer": "povedal by si",
+        "translation_en": "If you knew, you would tell me.",
+        "translation_es": "Si lo supieras, me lo dirías."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct adverb of frequency into each gap.",
+    "items": [
+      {
+        "sentence": "___ chodím do posilňovne.",
+        "answer": "Vždy",
+        "translation_en": "I always go to the gym.",
+        "translation_es": "Siempre voy al gimnasio."
+      },
+      {
+        "sentence": "___ pijem kávu ráno.",
+        "answer": "Často",
+        "translation_en": "I often drink coffee in the morning.",
+        "translation_es": "A menudo tomo café por la mañana."
+      },
+      {
+        "sentence": "___ chodím neskoro.",
+        "answer": "Nikdy",
+        "translation_en": "I never arrive late.",
+        "translation_es": "Nunca llego tarde."
+      },
+      {
+        "sentence": "___ si čítam pred spaním.",
+        "answer": "Niekedy",
+        "translation_en": "Sometimes I read before sleeping.",
+        "translation_es": "A veces leo antes de dormir."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "jedenásť + deväť = ___",
+        "answer": "dvadsať",
+        "translation_en": "Eleven plus nine is twenty.",
+        "translation_es": "Once más nueve son veinte."
+      },
+      {
+        "sentence": "dvadsaťpäť + dvadsaťpäť = ___",
+        "answer": "päťdesiat",
+        "translation_en": "Twenty-five plus twenty-five is fifty.",
+        "translation_es": "Veinticinco más veinticinco son cincuenta."
+      },
+      {
+        "sentence": "päťdesiat + päťdesiat = ___",
+        "answer": "sto",
+        "translation_en": "Fifty plus fifty is one hundred.",
+        "translation_es": "Cincuenta más cincuenta son cien."
+      },
+      {
+        "sentence": "desať + jedna = ___",
+        "answer": "jedenásť",
+        "translation_en": "Ten plus one is eleven.",
+        "translation_es": "Diez más uno son once."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal into each gap.",
+    "items": [
+      {
+        "sentence": "___ mesiac je január.",
+        "answer": "Prvý",
+        "translation_en": "The first month is January.",
+        "translation_es": "El primer mes es enero."
+      },
+      {
+        "sentence": "___ mesiac je február.",
+        "answer": "Druhý",
+        "translation_en": "The second month is February.",
+        "translation_es": "El segundo mes es febrero."
+      },
+      {
+        "sentence": "___ mesiac je marec.",
+        "answer": "Tretí",
+        "translation_en": "The third month is March.",
+        "translation_es": "El tercer mes es marzo."
+      },
+      {
+        "sentence": "___ mesiac je december.",
+        "answer": "Posledný",
+        "translation_en": "The last month is December.",
+        "translation_es": "El último mes es diciembre."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct time expression into each gap.",
+    "items": [
+      {
+        "sentence": "Koľko je hodín? Je ___ .",
+        "answer": "jedna",
+        "translation_en": "What time is it? It is one o'clock.",
+        "translation_es": "¿Qué hora es? Es la una."
+      },
+      {
+        "sentence": "Je ___ . (7:00)",
+        "answer": "sedem",
+        "translation_en": "It is seven o'clock.",
+        "translation_es": "Son las siete."
+      },
+      {
+        "sentence": "Je ___ osem. (8:30)",
+        "answer": "pol",
+        "translation_en": "It is half past eight.",
+        "translation_es": "Son las ocho y media."
+      },
+      {
+        "sentence": "Je štvrť na ___ . (9:15)",
+        "answer": "deväť",
+        "translation_en": "It is a quarter past nine.",
+        "translation_es": "Son las nueve y cuarto."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct month into each gap.",
+    "items": [
+      {
+        "sentence": "Prvý mesiac roka je ___.",
+        "answer": "január",
+        "translation_en": "The first month of the year is January.",
+        "translation_es": "El primer mes del año es enero."
+      },
+      {
+        "sentence": "Tretí mesiac je ___.",
+        "answer": "marec",
+        "translation_en": "The third month is March.",
+        "translation_es": "El tercer mes es marzo."
+      },
+      {
+        "sentence": "Šiesty mesiac je ___.",
+        "answer": "jún",
+        "translation_en": "The sixth month is June.",
+        "translation_es": "El sexto mes es junio."
+      },
+      {
+        "sentence": "Posledný mesiac je ___.",
+        "answer": "december",
+        "translation_en": "The last month is December.",
+        "translation_es": "El último mes es diciembre."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {
+        "sentence": "Dnes ___ . (it is raining)",
+        "answer": "prší",
+        "translation_en": "Today it is raining.",
+        "translation_es": "Hoy llueve."
+      },
+      {
+        "sentence": "Dnes ___ . (it is snowing)",
+        "answer": "sneží",
+        "translation_en": "Today it is snowing.",
+        "translation_es": "Hoy nieva."
+      },
+      {
+        "sentence": "Dnes je ___ . (it is hot)",
+        "answer": "horúco",
+        "translation_en": "Today it is hot.",
+        "translation_es": "Hoy hace calor."
+      },
+      {
+        "sentence": "Dnes je ___ . (it is cold)",
+        "answer": "chladno",
+        "translation_en": "Today it is cold.",
+        "translation_es": "Hoy hace frío."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {
+        "sentence": "___ letí po oblohe.",
+        "answer": "Lietadlo",
+        "translation_en": "The plane flies in the sky.",
+        "translation_es": "El avión vuela en el cielo."
+      },
+      {
+        "sentence": "___ pláva po mori.",
+        "answer": "Loď",
+        "translation_en": "The ship sails on the sea.",
+        "translation_es": "El barco navega por el mar."
+      },
+      {
+        "sentence": "___ má dve kolesá.",
+        "answer": "Bicykel",
+        "translation_en": "The bicycle has two wheels.",
+        "translation_es": "La bicicleta tiene dos ruedas."
+      },
+      {
+        "sentence": "Do práce chodím ___ .",
+        "answer": "autobusom",
+        "translation_en": "I go to work by bus.",
+        "translation_es": "Voy al trabajo en autobús."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct genitive form into each gap.",
+    "items": [
+      {
+        "sentence": "To je dom môjho ___ .",
+        "answer": "brata",
+        "translation_en": "This is my brother's house.",
+        "translation_es": "Esta es la casa de mi hermano."
+      },
+      {
+        "sentence": "To je kniha mojej ___ .",
+        "answer": "sestry",
+        "translation_en": "This is my sister's book.",
+        "translation_es": "Este es el libro de mi hermana."
+      },
+      {
+        "sentence": "To je auto môjho ___ .",
+        "answer": "otca",
+        "translation_en": "This is my father's car.",
+        "translation_es": "Este es el coche de mi padre."
+      },
+      {
+        "sentence": "To je kvet mojej ___ .",
+        "answer": "matky",
+        "translation_en": "This is my mother's flower.",
+        "translation_es": "Esta es la flor de mi madre."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct instrumental form into each gap.",
+    "items": [
+      {
+        "sentence": "Idem ___ .",
+        "answer": "vlakom",
+        "translation_en": "I travel by train.",
+        "translation_es": "Viajo en tren."
+      },
+      {
+        "sentence": "Píšem ___ .",
+        "answer": "perom",
+        "translation_en": "I write with a pen.",
+        "translation_es": "Escribo con bolígrafo."
+      },
+      {
+        "sentence": "Jem ___ .",
+        "answer": "lyžicou",
+        "translation_en": "I eat with a spoon.",
+        "translation_es": "Como con cuchara."
+      },
+      {
+        "sentence": "Hrám sa s ___ .",
+        "answer": "loptou",
+        "translation_en": "I play with a ball.",
+        "translation_es": "Juego con una pelota."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ na priateľa.",
+        "answer": "Čakám",
+        "translation_en": "I wait for my friend.",
+        "translation_es": "Espero a mi amigo."
+      },
+      {
+        "sentence": "___ sa o zdravie.",
+        "answer": "Starám",
+        "translation_en": "I take care of my health.",
+        "translation_es": "Cuido mi salud."
+      },
+      {
+        "sentence": "___ na rozhodnutí.",
+        "answer": "Záleží",
+        "translation_en": "It depends on the decision.",
+        "translation_es": "Depende de la decisión."
+      },
+      {
+        "sentence": "___ na otázku.",
+        "answer": "Odpovedám",
+        "translation_en": "I answer the question.",
+        "translation_es": "Respondo a la pregunta."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "V ___ chodím do práce.",
+        "answer": "pondelok",
+        "translation_en": "On Monday I go to work.",
+        "translation_es": "El lunes voy al trabajo."
+      },
+      {
+        "sentence": "V ___ zostávam doma.",
+        "answer": "sobotu",
+        "translation_en": "On Saturday I stay at home.",
+        "translation_es": "El sábado me quedo en casa."
+      },
+      {
+        "sentence": "V ___ mám hodinu.",
+        "answer": "stredu",
+        "translation_en": "On Wednesday I have class.",
+        "translation_es": "El miércoles tengo clase."
+      },
+      {
+        "sentence": "V ___ chodím do kostola.",
+        "answer": "nedeľu",
+        "translation_en": "On Sunday I go to church.",
+        "translation_es": "El domingo voy a la iglesia."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "Koľko to ___ ?",
+        "answer": "stojí",
+        "translation_en": "How much does this cost?",
+        "translation_es": "¿Cuánto cuesta esto?"
+      },
+      {
+        "sentence": "Chcem ___ kartou.",
+        "answer": "platiť",
+        "translation_en": "I want to pay by card.",
+        "translation_es": "Quiero pagar con tarjeta."
+      },
+      {
+        "sentence": "Máte ___ ?",
+        "answer": "zľavu",
+        "translation_en": "Do you have a discount?",
+        "translation_es": "¿Tienen descuento?"
+      },
+      {
+        "sentence": "Kde je ___ ?",
+        "answer": "pokladňa",
+        "translation_en": "Where is the checkout?",
+        "translation_es": "¿Dónde está la caja?"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct reflexive verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ sa každé ráno.",
+        "answer": "Umývam",
+        "translation_en": "I wash myself every morning.",
+        "translation_es": "Me lavo cada mañana."
+      },
+      {
+        "sentence": "___ sa rýchlo.",
+        "answer": "Obliekam",
+        "translation_en": "I get dressed quickly.",
+        "translation_es": "Me visto rápido."
+      },
+      {
+        "sentence": "___ sa o siedmej.",
+        "answer": "Budím",
+        "translation_en": "I wake up at seven.",
+        "translation_es": "Me despierto a las siete."
+      },
+      {
+        "sentence": "___ sa po práci.",
+        "answer": "Odpočívam",
+        "translation_en": "I rest after work.",
+        "translation_es": "Descanso después del trabajo."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Keby som to vedel, ___ ti to.",
+        "answer": "povedal by som",
+        "translation_en": "If I knew it, I would tell you.",
+        "translation_es": "Si lo supiera, te lo diría."
+      },
+      {
+        "sentence": "Keby pršalo, ___ doma.",
+        "answer": "zostali by sme",
+        "translation_en": "If it rained, we would stay at home.",
+        "translation_es": "Si lloviera, nos quedaríamos en casa."
+      },
+      {
+        "sentence": "Keby som bol tebou, ___ to.",
+        "answer": "urobil by som",
+        "translation_en": "If I were you, I would do it.",
+        "translation_es": "Si yo fuera tú, lo haría."
+      },
+      {
+        "sentence": "Keby mal peniaze, ___ auto.",
+        "answer": "kúpil by",
+        "translation_en": "If he had money, he would buy a car.",
+        "translation_es": "Si tuviera dinero, compraría un coche."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct passive participle into each gap.",
+    "items": [
+      {
+        "sentence": "Dom bol ___ v roku 1950.",
+        "answer": "postavený",
+        "translation_en": "The house was built in 1950.",
+        "translation_es": "La casa fue construida en 1950."
+      },
+      {
+        "sentence": "Kniha bola ___ mnohými ľuďmi.",
+        "answer": "čítaná",
+        "translation_en": "The book was read by many people.",
+        "translation_es": "El libro fue leído por muchas personas."
+      },
+      {
+        "sentence": "List bol ___ včera.",
+        "answer": "poslaný",
+        "translation_en": "The letter was sent yesterday.",
+        "translation_es": "La carta fue enviada ayer."
+      },
+      {
+        "sentence": "Dvere boli ___ večer.",
+        "answer": "zavreté",
+        "translation_en": "The doors were closed in the evening.",
+        "translation_es": "Las puertas fueron cerradas por la noche."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "___ list je na stole.",
+        "answer": "Napísaný",
+        "translation_en": "The written letter is on the table.",
+        "translation_es": "La carta escrita está sobre la mesa."
+      },
+      {
+        "sentence": "___ muž spí.",
+        "answer": "Unavený",
+        "translation_en": "The tired man is sleeping.",
+        "translation_es": "El hombre cansado duerme."
+      },
+      {
+        "sentence": "___ dvere sú bezpečné.",
+        "answer": "Zavreté",
+        "translation_en": "The closed doors are safe.",
+        "translation_es": "Las puertas cerradas son seguras."
+      },
+      {
+        "sentence": "___ deti sa hrajú.",
+        "answer": "Šťastné",
+        "translation_en": "The happy children are playing.",
+        "translation_es": "Los niños felices juegan."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct relative pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "Muž, ___ hovorí, je môj otec.",
+        "answer": "ktorý",
+        "translation_en": "The man who is speaking is my father.",
+        "translation_es": "El hombre que habla es mi padre."
+      },
+      {
+        "sentence": "Kniha, ___ som čítal, bola dobrá.",
+        "answer": "ktorú",
+        "translation_en": "The book which I read was good.",
+        "translation_es": "El libro que leí era bueno."
+      },
+      {
+        "sentence": "Žena, ___ spieva, je moja sestra.",
+        "answer": "ktorá",
+        "translation_en": "The woman who is singing is my sister.",
+        "translation_es": "La mujer que canta es mi hermana."
+      },
+      {
+        "sentence": "Chlapec, ___ otec je lekár, je môj priateľ.",
+        "answer": "ktorého",
+        "translation_en": "The boy whose father is a doctor is my friend.",
+        "translation_es": "El chico cuyo padre es médico es mi amigo."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct word into each reported clause.",
+    "items": [
+      {
+        "sentence": "Povedal, ___ príde zajtra.",
+        "answer": "že",
+        "translation_en": "He said that he is coming tomorrow.",
+        "translation_es": "Dijo que vendrá mañana."
+      },
+      {
+        "sentence": "Neviem, ___ je.",
+        "answer": "kde",
+        "translation_en": "I do not know where he is.",
+        "translation_es": "No sé dónde está."
+      },
+      {
+        "sentence": "Nepamätám sa, ___ prišiel.",
+        "answer": "kedy",
+        "translation_en": "I do not remember when he came.",
+        "translation_es": "No recuerdo cuándo vino."
+      },
+      {
+        "sentence": "Spýtal sa, ___ prídem.",
+        "answer": "či",
+        "translation_en": "He asked whether I am coming.",
+        "translation_es": "Preguntó si vengo."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct verbal noun into each gap.",
+    "items": [
+      {
+        "sentence": "___ kníh je užitočné.",
+        "answer": "Čítanie",
+        "translation_en": "Reading books is useful.",
+        "translation_es": "Leer libros es útil."
+      },
+      {
+        "sentence": "___ je dôležité.",
+        "answer": "Učenie",
+        "translation_en": "Learning is important.",
+        "translation_es": "El aprendizaje es importante."
+      },
+      {
+        "sentence": "___ je dobrá pre zdravie.",
+        "answer": "Chôdza",
+        "translation_en": "Walking is good for health.",
+        "translation_es": "Caminar es bueno para la salud."
+      },
+      {
+        "sentence": "___ živí svet.",
+        "answer": "Práca",
+        "translation_en": "Work sustains the world.",
+        "translation_es": "El trabajo sostiene el mundo."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ o tom.",
+        "answer": "Myslím",
+        "translation_en": "I think about it.",
+        "translation_es": "Pienso en ello."
+      },
+      {
+        "sentence": "___ sa na teba.",
+        "answer": "Teším",
+        "translation_en": "I look forward to seeing you.",
+        "translation_es": "Espero con ganas verte."
+      },
+      {
+        "sentence": "___ na výsledok.",
+        "answer": "Čakám",
+        "translation_en": "I wait for the result.",
+        "translation_es": "Espero el resultado."
+      },
+      {
+        "sentence": "___ sa po anglicky.",
+        "answer": "Učím",
+        "translation_en": "I learn English.",
+        "translation_es": "Aprendo inglés."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct word order form into each gap.",
+    "items": [
+      {
+        "sentence": "Dnes ___ knihu.",
+        "answer": "čítam",
+        "translation_en": "Today I read a book.",
+        "translation_es": "Hoy leo un libro."
+      },
+      {
+        "sentence": "Dnes ___ čítal knihu.",
+        "answer": "som",
+        "translation_en": "Today I read a book.",
+        "translation_es": "Hoy leí un libro."
+      },
+      {
+        "sentence": "Čo ___ ?",
+        "answer": "čítaš",
+        "translation_en": "What are you reading?",
+        "translation_es": "¿Qué lees?"
+      },
+      {
+        "sentence": "___ nečítam.",
+        "answer": "Dnes",
+        "translation_en": "Today I am not reading.",
+        "translation_es": "Hoy no leo."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Neprišiel som, ___ pršalo.",
+        "answer": "pretože",
+        "translation_en": "I did not come, because it was raining.",
+        "translation_es": "No vine, porque llovía."
+      },
+      {
+        "sentence": "Je chytrý, ___ lenivý.",
+        "answer": "ale",
+        "translation_en": "He is smart, but lazy.",
+        "translation_es": "Es listo, pero perezoso."
+      },
+      {
+        "sentence": "Veľa som sa učil, ___ som prešiel.",
+        "answer": "preto",
+        "translation_en": "I studied a lot, so I passed.",
+        "translation_es": "Estudié mucho, por eso aprobé."
+      },
+      {
+        "sentence": "___ mám hlad, nebudem jesť.",
+        "answer": "Hoci",
+        "translation_en": "Although I am hungry, I will not eat.",
+        "translation_es": "Aunque tengo hambre, no comeré."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "Lekár mi napísal ___ .",
+        "answer": "predpis",
+        "translation_en": "The doctor wrote me a prescription.",
+        "translation_es": "El médico me recetó."
+      },
+      {
+        "sentence": "Mám ___ . (symptoms)",
+        "answer": "príznaky",
+        "translation_en": "I have symptoms.",
+        "translation_es": "Tengo síntomas."
+      },
+      {
+        "sentence": "___ je dôležitá.",
+        "answer": "Vakcína",
+        "translation_en": "The vaccine is important.",
+        "translation_es": "La vacuna es importante."
+      },
+      {
+        "sentence": "Potrebujem ___ .",
+        "answer": "liečbu",
+        "translation_en": "I need treatment.",
+        "translation_es": "Necesito tratamiento."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "Zajtra mám ___ .",
+        "answer": "stretnutie",
+        "translation_en": "I have a meeting tomorrow.",
+        "translation_es": "Tengo una reunión mañana."
+      },
+      {
+        "sentence": "Podpísal som ___ .",
+        "answer": "zmluvu",
+        "translation_en": "I signed the contract.",
+        "translation_es": "Firmé el contrato."
+      },
+      {
+        "sentence": "Môj ___ je dobrý.",
+        "answer": "šéf",
+        "translation_en": "My boss is good.",
+        "translation_es": "Mi jefe es bueno."
+      },
+      {
+        "sentence": "Dostal som ___ .",
+        "answer": "povýšenie",
+        "translation_en": "I received a promotion.",
+        "translation_es": "Recibí un ascenso."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct education word into each gap.",
+    "items": [
+      {
+        "sentence": "Študujem na ___ .",
+        "answer": "univerzite",
+        "translation_en": "I study at university.",
+        "translation_es": "Estudio en la universidad."
+      },
+      {
+        "sentence": "Budem robiť ___ .",
+        "answer": "skúšku",
+        "translation_en": "I will take an exam.",
+        "translation_es": "Voy a hacer un examen."
+      },
+      {
+        "sentence": "___ je moc.",
+        "answer": "Znalosť",
+        "translation_en": "Knowledge is power.",
+        "translation_es": "El conocimiento es poder."
+      },
+      {
+        "sentence": "Získal som novú ___ .",
+        "answer": "zručnosť",
+        "translation_en": "I acquired a new skill.",
+        "translation_es": "Adquirí una nueva habilidad."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "___ rastie.",
+        "answer": "Znečistenie",
+        "translation_en": "Pollution is increasing.",
+        "translation_es": "La contaminación aumenta."
+      },
+      {
+        "sentence": "Musíme ___ odpad.",
+        "answer": "recyklovať",
+        "translation_en": "We must recycle the waste.",
+        "translation_es": "Debemos reciclar la basura."
+      },
+      {
+        "sentence": "___ sa mení.",
+        "answer": "Klíma",
+        "translation_en": "The climate is changing.",
+        "translation_es": "El clima está cambiando."
+      },
+      {
+        "sentence": "Používame ___ energiu.",
+        "answer": "obnoviteľnú",
+        "translation_en": "We use renewable energy.",
+        "translation_es": "Usamos energía renovable."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "___ prijíma zákony.",
+        "answer": "Parlament",
+        "translation_en": "Parliament passes laws.",
+        "translation_es": "El parlamento aprueba leyes."
+      },
+      {
+        "sentence": "___ rozhoduje.",
+        "answer": "Vláda",
+        "translation_en": "The government makes decisions.",
+        "translation_es": "El gobierno toma decisiones."
+      },
+      {
+        "sentence": "___ uplatňuje zákon.",
+        "answer": "Sudca",
+        "translation_en": "The judge applies the law.",
+        "translation_es": "El juez aplica la ley."
+      },
+      {
+        "sentence": "Každý ___ má práva.",
+        "answer": "občan",
+        "translation_en": "Every citizen has rights.",
+        "translation_es": "Cada ciudadano tiene derechos."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {
+        "sentence": "Robíme ___ v laboratóriu.",
+        "answer": "pokus",
+        "translation_en": "We do an experiment in the laboratory.",
+        "translation_es": "Hacemos un experimento en el laboratorio."
+      },
+      {
+        "sentence": "___ vysvetľuje jav.",
+        "answer": "Teória",
+        "translation_en": "The theory explains the phenomenon.",
+        "translation_es": "La teoría explica el fenómeno."
+      },
+      {
+        "sentence": "Existuje na to ___ .",
+        "answer": "dôkaz",
+        "translation_en": "There is evidence for this.",
+        "translation_es": "Hay evidencia de esto."
+      },
+      {
+        "sentence": "Bol urobený veľký ___ .",
+        "answer": "objav",
+        "translation_en": "A great discovery was made.",
+        "translation_es": "Se hizo un gran descubrimiento."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct emotion word into each gap.",
+    "items": [
+      {
+        "sentence": "Cítil som veľkú ___ .",
+        "answer": "úľavu",
+        "translation_en": "I felt great relief.",
+        "translation_es": "Sentí un gran alivio."
+      },
+      {
+        "sentence": "___ sa ho zmocnil.",
+        "answer": "Strach",
+        "translation_en": "Fear took hold of him.",
+        "translation_es": "El miedo se apoderó de él."
+      },
+      {
+        "sentence": "Mám v teba ___ .",
+        "answer": "dôveru",
+        "translation_en": "I have trust in you.",
+        "translation_es": "Tengo confianza en ti."
+      },
+      {
+        "sentence": "Cítim ___ .",
+        "answer": "vďačnosť",
+        "translation_en": "I feel gratitude.",
+        "translation_es": "Siento gratitud."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct past conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Keby som to bol vedel, ___ by som.",
+        "answer": "šiel",
+        "translation_en": "If I had known, I would have gone.",
+        "translation_es": "Si lo hubiera sabido, habría ido."
+      },
+      {
+        "sentence": "Keby som bol mal peniaze, ___ by som dom.",
+        "answer": "kúpil",
+        "translation_en": "If I had had money, I would have bought a house.",
+        "translation_es": "Si hubiera tenido dinero, habría comprado una casa."
+      },
+      {
+        "sentence": "Keby si sa bol ponáhľal, ___ by si včas.",
+        "answer": "prišiel",
+        "translation_en": "If you had hurried, you would have arrived on time.",
+        "translation_es": "Si te hubieras dado prisa, habrías llegado a tiempo."
+      },
+      {
+        "sentence": "Keby sme sa boli učili, ___ by sme skúšku.",
+        "answer": "zložili",
+        "translation_en": "If we had studied, we would have passed the exam.",
+        "translation_es": "Si hubiéramos estudiado, habríamos aprobado el examen."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct nominalisation into each gap.",
+    "items": [
+      {
+        "sentence": "___ výskumu trvalo roky.",
+        "answer": "Vykonávanie",
+        "translation_en": "The conduct of the research took years.",
+        "translation_es": "La realización de la investigación llevó años."
+      },
+      {
+        "sentence": "___ výsledkov je dôležitá.",
+        "answer": "Analýza",
+        "translation_en": "The analysis of the results is important.",
+        "translation_es": "El análisis de los resultados es importante."
+      },
+      {
+        "sentence": "___ problému vyžaduje čas.",
+        "answer": "Riešenie",
+        "translation_en": "The solution of the problem requires time.",
+        "translation_es": "La solución del problema requiere tiempo."
+      },
+      {
+        "sentence": "___ znalostí je nepretržité.",
+        "answer": "Odovzdávanie",
+        "translation_en": "The transmission of knowledge is continuous.",
+        "translation_es": "La transmisión del conocimiento es continua."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {
+        "sentence": "___ štúdie je prísna.",
+        "answer": "Metodológia",
+        "translation_en": "The methodology of the study is rigorous.",
+        "translation_es": "La metodología del estudio es rigurosa."
+      },
+      {
+        "sentence": "Medzi oboma premennými je ___ .",
+        "answer": "korelácia",
+        "translation_en": "There is a correlation between the two variables.",
+        "translation_es": "Hay una correlación entre las dos variables."
+      },
+      {
+        "sentence": "___ je nezávislá.",
+        "answer": "Premenná",
+        "translation_en": "The variable is independent.",
+        "translation_es": "La variable es independiente."
+      },
+      {
+        "sentence": "___ dáta sú spoľahlivé.",
+        "answer": "Empirické",
+        "translation_en": "The empirical data are reliable.",
+        "translation_es": "Los datos empíricos son fiables."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "___ tento rok vzrástla.",
+        "answer": "Inflácia",
+        "translation_en": "Inflation rose this year.",
+        "translation_es": "La inflación subió este año."
+      },
+      {
+        "sentence": "Firma vyhlásila ___ .",
+        "answer": "bankrot",
+        "translation_en": "The company declared bankruptcy.",
+        "translation_es": "La empresa se declaró en quiebra."
+      },
+      {
+        "sentence": "Dostali sme štátnu ___ .",
+        "answer": "dotáciu",
+        "translation_en": "We received a state subsidy.",
+        "translation_es": "Recibimos una subvención estatal."
+      },
+      {
+        "sentence": "___ vzrástli.",
+        "answer": "Výnosy",
+        "translation_en": "The revenues increased.",
+        "translation_es": "Los ingresos aumentaron."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "___ zaručuje práva.",
+        "answer": "Ústava",
+        "translation_en": "The constitution guarantees rights.",
+        "translation_es": "La constitución garantiza los derechos."
+      },
+      {
+        "sentence": "___ schválil zákon.",
+        "answer": "Parlament",
+        "translation_en": "Parliament passed the law.",
+        "translation_es": "El parlamento aprobó la ley."
+      },
+      {
+        "sentence": "___ oznámil verdikt.",
+        "answer": "Sudca",
+        "translation_en": "The judge announced the verdict.",
+        "translation_es": "El juez anunció el veredicto."
+      },
+      {
+        "sentence": "___ podal žalobu.",
+        "answer": "Žalobca",
+        "translation_en": "The plaintiff filed a lawsuit.",
+        "translation_es": "El demandante presentó una demanda."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct ethics term into each gap.",
+    "items": [
+      {
+        "sentence": "___ skúma dobro a zlo.",
+        "answer": "Etika",
+        "translation_en": "Ethics examines right and wrong.",
+        "translation_es": "La ética examina el bien y el mal."
+      },
+      {
+        "sentence": "___ je dôležitá.",
+        "answer": "Čestnosť",
+        "translation_en": "Honesty is important.",
+        "translation_es": "La honestidad es importante."
+      },
+      {
+        "sentence": "Nesie veľkú ___ .",
+        "answer": "zodpovednosť",
+        "translation_en": "He bears great responsibility.",
+        "translation_es": "Carga con una gran responsabilidad."
+      },
+      {
+        "sentence": "Jeho ___ je pochybná.",
+        "answer": "morálka",
+        "translation_en": "His morality is doubtful.",
+        "translation_es": "Su moralidad es dudosa."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct philosophy term into each gap.",
+    "items": [
+      {
+        "sentence": "___ je záhada.",
+        "answer": "Vedomie",
+        "translation_en": "Consciousness is a riddle.",
+        "translation_es": "La conciencia es un enigma."
+      },
+      {
+        "sentence": "Ľudská ___ je zložitá.",
+        "answer": "existencia",
+        "translation_en": "Human existence is complex.",
+        "translation_es": "La existencia humana es compleja."
+      },
+      {
+        "sentence": "Naša ___ sa tvorí z pamäti.",
+        "answer": "identita",
+        "translation_en": "Our identity is shaped by memory.",
+        "translation_es": "Nuestra identidad se forma por la memoria."
+      },
+      {
+        "sentence": "To je ___ .",
+        "answer": "dilema",
+        "translation_en": "This is a dilemma.",
+        "translation_es": "Esto es un dilema."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct medical term into each gap.",
+    "items": [
+      {
+        "sentence": "___ bola vykonaná včas.",
+        "answer": "Diagnóza",
+        "translation_en": "The diagnosis was made in time.",
+        "translation_es": "El diagnóstico se hizo a tiempo."
+      },
+      {
+        "sentence": "___ trvala mesiace.",
+        "answer": "Liečba",
+        "translation_en": "The treatment lasted months.",
+        "translation_es": "El tratamiento duró meses."
+      },
+      {
+        "sentence": "___ predchádza chorobe.",
+        "answer": "Vakcína",
+        "translation_en": "The vaccine prevents the disease.",
+        "translation_es": "La vacuna previene la enfermedad."
+      },
+      {
+        "sentence": "___ sa rýchlo šírila.",
+        "answer": "Infekcia",
+        "translation_en": "The infection spread quickly.",
+        "translation_es": "La infección se propagó rápidamente."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct technology term into each gap.",
+    "items": [
+      {
+        "sentence": "___ rieši problém.",
+        "answer": "Algoritmus",
+        "translation_en": "The algorithm solves the problem.",
+        "translation_es": "El algoritmo resuelve el problema."
+      },
+      {
+        "sentence": "___ chráni dáta.",
+        "answer": "Šifrovanie",
+        "translation_en": "Encryption protects the data.",
+        "translation_es": "El cifrado protege los datos."
+      },
+      {
+        "sentence": "___ spracúva dáta.",
+        "answer": "Softvér",
+        "translation_en": "The software processes the data.",
+        "translation_es": "El software procesa los datos."
+      },
+      {
+        "sentence": "___ hostí webovú stránku.",
+        "answer": "Server",
+        "translation_en": "The server hosts the website.",
+        "translation_es": "El servidor aloja el sitio web."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct discourse marker into each gap.",
+    "items": [
+      {
+        "sentence": "___ , musíme vziať do úvahy náklady.",
+        "answer": "Navyše",
+        "translation_en": "Moreover, we must take the cost into account.",
+        "translation_es": "Además, debemos tener en cuenta el coste."
+      },
+      {
+        "sentence": "___ , výsledky boli pozitívne.",
+        "answer": "Avšak",
+        "translation_en": "However, the results were positive.",
+        "translation_es": "Sin embargo, los resultados fueron positivos."
+      },
+      {
+        "sentence": "Neprišiel; ___ zmeškal termín.",
+        "answer": "preto",
+        "translation_en": "He did not come; therefore, he missed the deadline.",
+        "translation_es": "No vino; por lo tanto, perdió el plazo."
+      },
+      {
+        "sentence": "___ , preskúmame príčiny.",
+        "answer": "Po prvé",
+        "translation_en": "First of all, we will examine the causes.",
+        "translation_es": "En primer lugar, examinaremos las causas."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each collocation.",
+    "items": [
+      {
+        "sentence": "___ rozhodnutie.",
+        "answer": "Urobiť",
+        "translation_en": "To make a decision.",
+        "translation_es": "Tomar una decisión."
+      },
+      {
+        "sentence": "___ pozornosť.",
+        "answer": "Venovať",
+        "translation_en": "To pay attention.",
+        "translation_es": "Prestar atención."
+      },
+      {
+        "sentence": "___ dôležitú úlohu.",
+        "answer": "Hrať",
+        "translation_en": "To play an important role.",
+        "translation_es": "Desempeñar un papel importante."
+      },
+      {
+        "sentence": "___ záver.",
+        "answer": "Vyvodiť",
+        "translation_en": "To draw a conclusion.",
+        "translation_es": "Sacar una conclusión."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct sustainability term into each gap.",
+    "items": [
+      {
+        "sentence": "Musíme znížiť ___ uhlíka.",
+        "answer": "emisie",
+        "translation_en": "We must reduce carbon emissions.",
+        "translation_es": "Debemos reducir las emisiones de carbono."
+      },
+      {
+        "sentence": "___ je ohrozená.",
+        "answer": "Biodiverzita",
+        "translation_en": "Biodiversity is at risk.",
+        "translation_es": "La biodiversidad está en peligro."
+      },
+      {
+        "sentence": "___ je problém.",
+        "answer": "Odlesňovanie",
+        "translation_en": "Deforestation is a problem.",
+        "translation_es": "La deforestación es un problema."
+      },
+      {
+        "sentence": "Chránime ___ .",
+        "answer": "ekosystém",
+        "translation_en": "We protect the ecosystem.",
+        "translation_es": "Protegemos el ecosistema."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct rhetoric term into each gap.",
+    "items": [
+      {
+        "sentence": "___ rečníka bola presvedčivá.",
+        "answer": "Rétorika",
+        "translation_en": "The speaker's rhetoric was persuasive.",
+        "translation_es": "La retórica del orador fue persuasiva."
+      },
+      {
+        "sentence": "___ bol jasný.",
+        "answer": "Diskurz",
+        "translation_en": "The discourse was clear.",
+        "translation_es": "El discurso fue claro."
+      },
+      {
+        "sentence": "Vo vete je ___ .",
+        "answer": "nejednoznačnosť",
+        "translation_en": "There is ambiguity in the sentence.",
+        "translation_es": "Hay ambigüedad en la frase."
+      },
+      {
+        "sentence": "Dosiahli sme ___ .",
+        "answer": "konsenzus",
+        "translation_en": "We reached a consensus.",
+        "translation_es": "Alcanzamos un consenso."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct formal verb into each gap.",
+    "items": [
+      {
+        "sentence": "Musíme ___ návrh.",
+        "answer": "formulovať",
+        "translation_en": "We must formulate the proposal.",
+        "translation_es": "Debemos formular la propuesta."
+      },
+      {
+        "sentence": "Musíme sa ___ riziku.",
+        "answer": "vyhnúť",
+        "translation_en": "We must circumvent the risk.",
+        "translation_es": "Debemos eludir el riesgo."
+      },
+      {
+        "sentence": "Chceme ___ svoju pozíciu.",
+        "answer": "upevniť",
+        "translation_en": "We want to consolidate our position.",
+        "translation_es": "Queremos consolidar nuestra posición."
+      },
+      {
+        "sentence": "Musíme ___ situáciu.",
+        "answer": "zlepšiť",
+        "translation_en": "We must improve the situation.",
+        "translation_es": "Debemos mejorar la situación."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct impersonal form into each gap.",
+    "items": [
+      {
+        "sentence": "___ sa, že ekonomika ožije.",
+        "answer": "Hovorí",
+        "translation_en": "It is said that the economy will recover.",
+        "translation_es": "Se dice que la economía se recuperará."
+      },
+      {
+        "sentence": "___ sa za to, že rozhodnutie bolo správne.",
+        "answer": "Má",
+        "translation_en": "It is considered that the decision was right.",
+        "translation_es": "Se considera que la decisión fue correcta."
+      },
+      {
+        "sentence": "___ sa veľký nárast cien.",
+        "answer": "Pozoruje",
+        "translation_en": "A large increase in prices is observed.",
+        "translation_es": "Se observa un gran aumento de los precios."
+      },
+      {
+        "sentence": "___ sa pravidlá prísne.",
+        "answer": "Dodržiavajú",
+        "translation_en": "The rules are strictly observed.",
+        "translation_es": "Las reglas se cumplen estrictamente."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Neprišiel, ___ sme naňho čakali.",
+        "answer": "hoci",
+        "translation_en": "He did not come, although we were waiting for him.",
+        "translation_es": "No vino, aunque lo esperábamos."
+      },
+      {
+        "sentence": "Urobil to, ___ nepoznal následky.",
+        "answer": "pretože",
+        "translation_en": "He did it because he did not know the consequences.",
+        "translation_es": "Lo hizo porque no conocía las consecuencias."
+      },
+      {
+        "sentence": "Bude to schválené, ___ splní kritériá.",
+        "answer": "pokiaľ",
+        "translation_en": "It will be approved provided that it meets the criteria.",
+        "translation_es": "Se aprobará siempre que cumpla los criterios."
+      },
+      {
+        "sentence": "Zrušil to, ___ to začul.",
+        "answer": "len čo",
+        "translation_en": "He cancelled it as soon as he heard it.",
+        "translation_es": "Lo canceló en cuanto lo oyó."
+      }
+    ]
+  }
+]

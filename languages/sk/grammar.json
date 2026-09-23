@@ -1,0 +1,2536 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Slovak alphabet and diacritics",
+    "description": "Slovak adds ľ, ô and ä to the Latin letters.",
+    "columns": [
+      "Letter",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "č",
+        "čaj",
+        "ch as in church",
+        "ch"
+      ],
+      [
+        "š",
+        "škola",
+        "sh as in shop",
+        "sh"
+      ],
+      [
+        "ž",
+        "žena",
+        "zh as in measure",
+        "y"
+      ],
+      [
+        "ľ",
+        "ľud",
+        "ly as in million",
+        "ll"
+      ],
+      [
+        "ď",
+        "ďakujem",
+        "dy as in duty",
+        "dy"
+      ],
+      [
+        "ť",
+        "ťažký",
+        "ty as in tutor",
+        "ty"
+      ],
+      [
+        "ň",
+        "kôň",
+        "ny as in canyon",
+        "ñ"
+      ],
+      [
+        "ô",
+        "stôl",
+        "uo as in quartz",
+        "uo"
+      ],
+      [
+        "ä",
+        "mäso",
+        "e as in bed",
+        "e"
+      ],
+      [
+        "á, í, ý",
+        "dáma, víno, sýr",
+        "long vowels",
+        "vocales largas"
+      ],
+      [
+        "ĺ, ŕ",
+        "vĺča, vŕba",
+        "syllabic l and r",
+        "l y r silábicas"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "The pronoun is often left out of the sentence.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "ja",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "ty",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing.",
+        "on / ona / ono",
+        "he / she / it",
+        "él / ella"
+      ],
+      [
+        "1st plur.",
+        "my",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "vy",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "oni",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "The verb byť (to be)",
+    "description": "The verb is irregular.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "som",
+        "I am",
+        "soy / estoy"
+      ],
+      [
+        "you are",
+        "si",
+        "you are",
+        "eres / estás"
+      ],
+      [
+        "he is",
+        "je",
+        "he is",
+        "es / está"
+      ],
+      [
+        "we are",
+        "sme",
+        "we are",
+        "somos / estamos"
+      ],
+      [
+        "they are",
+        "sú",
+        "they are",
+        "son / están"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "The verb mať (to have)",
+    "description": "The verb is irregular in the present.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "mám",
+        "I have",
+        "tengo"
+      ],
+      [
+        "you have",
+        "máš",
+        "you have",
+        "tienes"
+      ],
+      [
+        "he has",
+        "má",
+        "he has",
+        "tiene"
+      ],
+      [
+        "we have",
+        "máme",
+        "we have",
+        "tenemos"
+      ],
+      [
+        "they have",
+        "majú",
+        "they have",
+        "tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Noun gender",
+    "description": "Every noun is masculine, feminine or neuter.",
+    "columns": [
+      "Gender",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "ten muž",
+        "the man",
+        "el hombre"
+      ],
+      [
+        "feminine",
+        "tá žena",
+        "the woman",
+        "la mujer"
+      ],
+      [
+        "neuter",
+        "to mesto",
+        "the town",
+        "la ciudad"
+      ],
+      [
+        "masc. inanimate",
+        "ten dom",
+        "the house",
+        "la casa"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural of nouns",
+    "description": "The plural ending depends on the gender.",
+    "columns": [
+      "Type",
+      "Singular",
+      "Plural",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -a",
+        "dom",
+        "domy",
+        "casa → casas"
+      ],
+      [
+        "fem. -a",
+        "kniha",
+        "knihy",
+        "libro → libros"
+      ],
+      [
+        "neut. -o",
+        "mesto",
+        "mestá",
+        "ciudad → ciudades"
+      ],
+      [
+        "masc. person",
+        "muž",
+        "muži",
+        "hombre → hombres"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective agrees in gender and number.",
+    "columns": [
+      "Form",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc.",
+        "dobrý",
+        "good",
+        "bueno"
+      ],
+      [
+        "fem.",
+        "dobrá",
+        "good",
+        "buena"
+      ],
+      [
+        "neut.",
+        "dobré",
+        "good",
+        "bueno (n.)"
+      ],
+      [
+        "masc. plur.",
+        "dobrí",
+        "good",
+        "buenos"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The endings are -ím, -íš, -í, -íme, -ia.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "hovorím",
+        "I speak",
+        "hablo"
+      ],
+      [
+        "you speak",
+        "hovoríš",
+        "you speak",
+        "hablas"
+      ],
+      [
+        "he speaks",
+        "hovorí",
+        "he speaks",
+        "habla"
+      ],
+      [
+        "we speak",
+        "hovoríme",
+        "we speak",
+        "hablamos"
+      ],
+      [
+        "they speak",
+        "hovoria",
+        "they speak",
+        "hablan"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Negation",
+    "description": "ne- is added to the front of the verb.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "nehovorím",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "nič",
+        "nothing",
+        "nada"
+      ],
+      [
+        "nobody",
+        "nikto",
+        "nobody",
+        "nadie"
+      ],
+      [
+        "never",
+        "nikdy",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "čo",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "kto",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "kde",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "kedy",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "prečo",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "ako",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "The number one has three gender forms.",
+    "columns": [
+      "Number",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "jeden",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "dva",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "tri",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "štyri",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "päť",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "šesť",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "sedem",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "osem",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "deväť",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "desať",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "The days are not capitalised.",
+    "columns": [
+      "Day",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "pondelok",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "utorok",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "streda",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "štvrtok",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "piatok",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "sobota",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "nedeľa",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Colour",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "červená",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "modrá",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "zelená",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "čierna",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "biela",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "žltá",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "The accusative case",
+    "description": "The accusative marks the direct object.",
+    "columns": [
+      "Type",
+      "Nominative",
+      "Accusative",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. inanimate",
+        "dom",
+        "dom",
+        "casa"
+      ],
+      [
+        "masc. animate",
+        "muž",
+        "muža",
+        "hombre"
+      ],
+      [
+        "fem. -a",
+        "kniha",
+        "knihu",
+        "libro"
+      ],
+      [
+        "neuter -o",
+        "mesto",
+        "mesto",
+        "ciudad"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "matka",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "otec",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "brat",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "sestra",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "syn",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "dcéra",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "These agree with the noun.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (masc.)",
+        "môj",
+        "my",
+        "mi"
+      ],
+      [
+        "my (fem.)",
+        "moja",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "tvoj",
+        "your",
+        "tu"
+      ],
+      [
+        "his",
+        "jeho",
+        "his",
+        "su"
+      ],
+      [
+        "our",
+        "náš",
+        "our",
+        "nuestro"
+      ],
+      [
+        "their",
+        "ich",
+        "their",
+        "su"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "The locative case",
+    "description": "The locative is used after v and na.",
+    "columns": [
+      "Type",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "v + -e",
+        "v Bratislave",
+        "in Bratislava",
+        "en Bratislava"
+      ],
+      [
+        "v + -e",
+        "v škole",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "v + -i",
+        "v kancelárii",
+        "in an office",
+        "en una oficina"
+      ],
+      [
+        "na + -e",
+        "na stole",
+        "on the table",
+        "sobre la mesa"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "The dative case",
+    "description": "The dative marks the indirect object.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to my brother",
+        "bratovi",
+        "to my brother",
+        "a mi hermano"
+      ],
+      [
+        "to my sister",
+        "sestre",
+        "to my sister",
+        "a mi hermana"
+      ],
+      [
+        "to my mother",
+        "matke",
+        "to my mother",
+        "a mi madre"
+      ],
+      [
+        "to my father",
+        "otcovi",
+        "to my father",
+        "a mi padre"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "The past uses the -l participle plus som.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I went",
+        "šiel som",
+        "I went",
+        "fui"
+      ],
+      [
+        "you went",
+        "šiel si",
+        "you went",
+        "fuiste"
+      ],
+      [
+        "he went",
+        "šiel",
+        "he went",
+        "fue"
+      ],
+      [
+        "we went",
+        "šli sme",
+        "we went",
+        "fuimos"
+      ],
+      [
+        "they went",
+        "šli",
+        "they went",
+        "fueron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future",
+    "description": "The future uses budem or a perfective verb.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will go",
+        "pôjdem",
+        "I will go",
+        "iré"
+      ],
+      [
+        "I will read",
+        "budem čítať",
+        "I will read",
+        "leeré"
+      ],
+      [
+        "you will go",
+        "pôjdeš",
+        "you will go",
+        "irás"
+      ],
+      [
+        "we will go",
+        "pôjdeme",
+        "we will go",
+        "iremos"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative gives commands.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "write!",
+        "píš",
+        "write!",
+        "¡escribe!"
+      ],
+      [
+        "read!",
+        "čítaj",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "come!",
+        "poď",
+        "come!",
+        "¡ven!"
+      ],
+      [
+        "wait!",
+        "počkaj",
+        "wait!",
+        "¡espera!"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "The comparative adds -ší, -ejší or -í.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "väčší",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "väčší ako",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "lepší",
+        "better",
+        "mejor"
+      ],
+      [
+        "worse",
+        "horší",
+        "worse",
+        "peor"
+      ],
+      [
+        "more",
+        "viac",
+        "more",
+        "más"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "The superlative prefixes naj- to the comparative.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "najväčší",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "najlepší",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the worst",
+        "najhorší",
+        "the worst",
+        "el peor"
+      ],
+      [
+        "very",
+        "veľmi",
+        "very",
+        "muy"
+      ],
+      [
+        "the most",
+        "najviac",
+        "the most",
+        "el más"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Verb aspect",
+    "description": "Most verbs come in imperfective and perfective pairs.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "imperfective",
+        "písať",
+        "to write (ongoing)",
+        "escribir"
+      ],
+      [
+        "perfective",
+        "napísať",
+        "to write (to completion)",
+        "escribir del todo"
+      ],
+      [
+        "imperfective",
+        "čítať",
+        "to read (ongoing)",
+        "leer"
+      ],
+      [
+        "perfective",
+        "prečítať",
+        "to read (to completion)",
+        "leer del todo"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The pronoun sa matches the subject.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I wash myself",
+        "umývam sa",
+        "I wash myself",
+        "me lavo"
+      ],
+      [
+        "you wash yourself",
+        "umývaš sa",
+        "you wash yourself",
+        "te lavas"
+      ],
+      [
+        "he washes himself",
+        "umýva sa",
+        "he washes himself",
+        "se lava"
+      ],
+      [
+        "we wash ourselves",
+        "umývame sa",
+        "we wash ourselves",
+        "nos lavamos"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "vždy",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "často",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "niekedy",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "zriedka",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "nikdy",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "The tens are formed with -ásť or -dsať.",
+    "columns": [
+      "Number",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "jedenásť",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "dvanásť",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "dvadsať",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "tridsať",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "50",
+        "päťdesiat",
+        "fifty",
+        "cincuenta"
+      ],
+      [
+        "100",
+        "sto",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "prvý",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "druhý",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "tretí",
+        "third",
+        "tercero"
+      ],
+      [
+        "fourth",
+        "štvrtý",
+        "fourth",
+        "cuarto"
+      ],
+      [
+        "last",
+        "posledný",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "The half hour counts towards the next hour.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "jedna hodina",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "seven o'clock",
+        "sedem hodín",
+        "seven o'clock",
+        "las siete"
+      ],
+      [
+        "half past seven",
+        "pol ôsmej",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past seven",
+        "štvrť na osem",
+        "quarter past seven",
+        "las siete y cuarto"
+      ],
+      [
+        "quarter to eight",
+        "tri štvrte na osem",
+        "quarter to eight",
+        "las ocho menos cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Months and seasons",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Word",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "január",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "marec",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "jún",
+        "June",
+        "junio"
+      ],
+      [
+        "December",
+        "december",
+        "December",
+        "diciembre"
+      ],
+      [
+        "summer",
+        "leto",
+        "summer",
+        "verano"
+      ],
+      [
+        "winter",
+        "zima",
+        "winter",
+        "invierno"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "The genitive case",
+    "description": "The genitive shows possession.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "of my brother",
+        "brata",
+        "of my brother",
+        "de mi hermano"
+      ],
+      [
+        "of my sister",
+        "sestry",
+        "of my sister",
+        "de mi hermana"
+      ],
+      [
+        "of my father",
+        "otca",
+        "of my father",
+        "de mi padre"
+      ],
+      [
+        "of my mother",
+        "matky",
+        "of my mother",
+        "de mi madre"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "The instrumental case",
+    "description": "The instrumental marks the means or tool.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by train",
+        "vlakom",
+        "by train",
+        "en tren"
+      ],
+      [
+        "with a pen",
+        "perom",
+        "with a pen",
+        "con bolígrafo"
+      ],
+      [
+        "with a spoon",
+        "lyžicou",
+        "with a spoon",
+        "con cuchara"
+      ],
+      [
+        "with a ball",
+        "loptou",
+        "with a ball",
+        "con una pelota"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Prepositions",
+    "description": "Prepositions govern a fixed case.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "na stole",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "pod stolom",
+        "under the table",
+        "bajo la mesa"
+      ],
+      [
+        "behind",
+        "za domom",
+        "behind the house",
+        "detrás de la casa"
+      ],
+      [
+        "in front of",
+        "pred domom",
+        "in front of the house",
+        "delante de la casa"
+      ],
+      [
+        "next to",
+        "vedľa domu",
+        "next to the house",
+        "junto a la casa"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "The rhythmic law",
+    "description": "Two long vowels cannot follow in adjacent syllables.",
+    "columns": [
+      "Pattern",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "long + long",
+        "múdry → múdri",
+        "the ý shortens to i",
+        "la ý se acorta a i"
+      ],
+      [
+        "long + long",
+        "píšem (not píším)",
+        "the í shortens to e",
+        "la í se acorta a e"
+      ],
+      [
+        "long + long",
+        "krásny → krásni",
+        "the ý shortens to i",
+        "la ý se acorta a i"
+      ],
+      [
+        "exception",
+        "dvojhlásky ia, ie, iu, ô",
+        "diphthongs count as short",
+        "los diptongos no cuentan"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional uses by with the past participle.",
+    "columns": [
+      "Person",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I would go",
+        "šiel by som",
+        "I would go",
+        "iría"
+      ],
+      [
+        "you would go",
+        "šiel by si",
+        "you would go",
+        "irías"
+      ],
+      [
+        "he would go",
+        "šiel by",
+        "he would go",
+        "iría"
+      ],
+      [
+        "we would go",
+        "šli by sme",
+        "we would go",
+        "iríamos"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive voice",
+    "description": "The passive uses byť plus a participle.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "bol postavený",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "was written",
+        "bol napísaný",
+        "was written",
+        "fue escrito"
+      ],
+      [
+        "is done",
+        "je robené",
+        "is done",
+        "se hace"
+      ],
+      [
+        "are sold",
+        "sú predávané",
+        "are sold",
+        "se venden"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "written",
+        "napísaný",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "unavený",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "zavretý",
+        "closed",
+        "cerrado"
+      ],
+      [
+        "smiling",
+        "usmievavý",
+        "smiling",
+        "sonriente"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "The relative pronoun agrees with its antecedent.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who (masc.)",
+        "ktorý",
+        "who (m.)",
+        "quien"
+      ],
+      [
+        "who (fem.)",
+        "ktorá",
+        "who (f.)",
+        "quien"
+      ],
+      [
+        "which (masc.)",
+        "ktorý",
+        "which",
+        "el cual"
+      ],
+      [
+        "whose",
+        "ktorého",
+        "whose",
+        "cuyo"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "že and či introduce reported clauses.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "že",
+        "that",
+        "que"
+      ],
+      [
+        "whether",
+        "či",
+        "whether",
+        "si"
+      ],
+      [
+        "where",
+        "kde",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "kedy",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbs become nouns ending in -nie or -tie.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "čítanie",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "učenie",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "walking",
+        "chôdza",
+        "walking",
+        "caminata"
+      ],
+      [
+        "work",
+        "práca",
+        "work",
+        "trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb plus case",
+    "description": "Many verbs take a fixed preposition and case.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait for",
+        "čakať na",
+        "to wait for",
+        "esperar"
+      ],
+      [
+        "care about",
+        "starať sa o",
+        "to care about",
+        "cuidar de"
+      ],
+      [
+        "depend on",
+        "záležať na",
+        "to depend on",
+        "depender de"
+      ],
+      [
+        "think about",
+        "myslieť na",
+        "to think about",
+        "pensar en"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order",
+    "description": "The clitic comes in the second position.",
+    "columns": [
+      "Type",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "Dnes čítam knihu.",
+        "Today I read a book.",
+        "Hoy leo un libro."
+      ],
+      [
+        "clitic second",
+        "Dnes som čítal knihu.",
+        "Today I read a book.",
+        "Hoy leí un libro."
+      ],
+      [
+        "question",
+        "Čo čítaš?",
+        "What are you reading?",
+        "¿Qué lees?"
+      ],
+      [
+        "negation",
+        "Nečítam.",
+        "I do not read.",
+        "No leo."
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "and",
+        "a",
+        "and",
+        "y"
+      ],
+      [
+        "but",
+        "ale",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "pretože",
+        "because",
+        "porque"
+      ],
+      [
+        "so",
+        "preto",
+        "so",
+        "por eso"
+      ],
+      [
+        "although",
+        "hoci",
+        "although",
+        "aunque"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "liečba",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "príznak",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "predpis",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "vakcína",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "poistenie",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "stretnutie",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "zmluva",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "plat",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kolega",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "termín",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "škola",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "univerzita",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "skúška",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "znalosť",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "zručnosť",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "príchod",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "výskum",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "spolupráca",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "výroba",
+        "production",
+        "producción"
+      ],
+      [
+        "analysis",
+        "analýza",
+        "analysis",
+        "análisis"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metodológia",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "korelácia",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "premenná",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empirický",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "kvantitatívny",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "inflácia",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "bankrot",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "dotácia",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "výnos",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "investícia",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "ústava",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlament",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "verdikt",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "žalobca",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "žalovaný",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "etika",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "morálka",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "čestnosť",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "zodpovednosť",
+        "responsibility",
+        "responsabilidad"
+      ],
+      [
+        "virtue",
+        "cnosť",
+        "virtue",
+        "virtud"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "vedomie",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "existencia",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identita",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradox",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilema",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnóza",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "terapia",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "chronický",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "infekcia",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "imunitný",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekula",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atóm",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "gravitácia",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "bunka",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "pokus",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Slovak.",
+    "columns": [
+      "Connector",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "navyše",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "avšak",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "preto",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "po prvé",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "napriek tomu",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "urobiť rozhodnutie",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "venovať pozornosť",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "hrať úlohu",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "vyvodiť záver",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "dlho vydržať",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "opraviť",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "recyklovať",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "emisie uhlíka",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "udržateľný",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Slovak",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "rétorika",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskurz",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "nejednoznačnosť",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "konsenzus",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "argument",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]
