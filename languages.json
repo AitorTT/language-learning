@@ -441,5 +441,32 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "hr",
+    "name": "Croatian",
+    "flag": "🇭🇷",
+    "speech": "hr-HR",
+    "termLabel": "Croatian",
+    "termField": "croatian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "sr",
+    "name": "Serbian",
+    "flag": "🇷🇸",
+    "speech": "sr-RS",
+    "termLabel": "Serbian",
+    "termField": "serbian",
+    "script": "cyrillic",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
