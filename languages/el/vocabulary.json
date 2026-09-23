@@ -5998,5 +5998,405 @@
     "spanish": "triángulo",
     "category": "shapes",
     "level": "A1"
+  },
+  {
+    "id": 751,
+    "greek": "σκάλα",
+    "english": "stairs",
+    "spanish": "escaleras",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 752,
+    "greek": "ταβάνι",
+    "english": "ceiling",
+    "spanish": "techo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 753,
+    "greek": "γκαράζ",
+    "english": "garage",
+    "spanish": "garaje",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 754,
+    "greek": "πύλη",
+    "english": "gate",
+    "spanish": "portón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 755,
+    "greek": "φράχτης",
+    "english": "fence",
+    "spanish": "valla",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 756,
+    "greek": "καμινάδα",
+    "english": "chimney",
+    "spanish": "chimenea",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 757,
+    "greek": "υπόγειο",
+    "english": "basement",
+    "spanish": "sótano",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 758,
+    "greek": "μπαλκόνι",
+    "english": "balcony",
+    "spanish": "balcón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 759,
+    "greek": "κουρτίνα",
+    "english": "curtain",
+    "spanish": "cortina",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 760,
+    "greek": "συρτάρι",
+    "english": "drawer",
+    "spanish": "cajón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 761,
+    "greek": "ντουλάπι",
+    "english": "cupboard",
+    "spanish": "armario",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 762,
+    "greek": "νεροχύτης",
+    "english": "sink",
+    "spanish": "fregadero",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 763,
+    "greek": "τουαλέτα",
+    "english": "toilet",
+    "spanish": "inodoro",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 764,
+    "greek": "σαπούνι",
+    "english": "soap",
+    "spanish": "jabón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 765,
+    "greek": "κουβάς",
+    "english": "bucket",
+    "spanish": "cubo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 766,
+    "greek": "πουλόβερ",
+    "english": "sweater",
+    "spanish": "jersey",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 767,
+    "greek": "σορτς",
+    "english": "shorts",
+    "spanish": "pantalones cortos",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 768,
+    "greek": "γραβάτα",
+    "english": "tie",
+    "spanish": "corbata",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 769,
+    "greek": "ζώνη",
+    "english": "belt",
+    "spanish": "cinturón",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 770,
+    "greek": "τσέπη",
+    "english": "pocket",
+    "spanish": "bolsillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 771,
+    "greek": "σανδάλια",
+    "english": "sandals",
+    "spanish": "sandalias",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 772,
+    "greek": "κασκέτο",
+    "english": "cap",
+    "spanish": "gorra",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 773,
+    "greek": "ομπρέλα",
+    "english": "umbrella",
+    "spanish": "paraguas",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 774,
+    "greek": "τσάντα",
+    "english": "bag",
+    "spanish": "bolsa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 775,
+    "greek": "δαχτυλίδι",
+    "english": "ring",
+    "spanish": "anillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 776,
+    "greek": "λαιμός",
+    "english": "neck",
+    "spanish": "cuello",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 777,
+    "greek": "στήθος",
+    "english": "chest",
+    "spanish": "pecho",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 778,
+    "greek": "αγκώνας",
+    "english": "elbow",
+    "spanish": "codo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 779,
+    "greek": "καρπός",
+    "english": "wrist",
+    "spanish": "muñeca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 780,
+    "greek": "αστράγαλος",
+    "english": "ankle",
+    "spanish": "tobillo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 781,
+    "greek": "δέρμα",
+    "english": "skin",
+    "spanish": "piel",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 782,
+    "greek": "κόκαλο",
+    "english": "bone",
+    "spanish": "hueso",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 783,
+    "greek": "εγκέφαλος",
+    "english": "brain",
+    "spanish": "cerebro",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 784,
+    "greek": "πρόσωπο",
+    "english": "face",
+    "spanish": "cara",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 785,
+    "greek": "γλώσσα",
+    "english": "tongue",
+    "spanish": "lengua",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 786,
+    "greek": "αντίχειρας",
+    "english": "thumb",
+    "spanish": "pulgar",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 787,
+    "greek": "φάρμακο",
+    "english": "medicine",
+    "spanish": "medicina",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 788,
+    "greek": "πόνος",
+    "english": "pain",
+    "spanish": "dolor",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 789,
+    "greek": "πυρετός",
+    "english": "fever",
+    "spanish": "fiebre",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 790,
+    "greek": "βήχας",
+    "english": "cough",
+    "spanish": "tos",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 791,
+    "greek": "ανανάς",
+    "english": "pineapple",
+    "spanish": "piña",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 792,
+    "greek": "κεράσι",
+    "english": "cherry",
+    "spanish": "cereza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 793,
+    "greek": "δαμάσκηνο",
+    "english": "plum",
+    "spanish": "ciruela",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 794,
+    "greek": "πεπόνι",
+    "english": "melon",
+    "spanish": "melón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 795,
+    "greek": "λάχανο",
+    "english": "cabbage",
+    "spanish": "col",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 796,
+    "greek": "αγγούρι",
+    "english": "cucumber",
+    "spanish": "pepino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 797,
+    "greek": "λάδι",
+    "english": "oil",
+    "spanish": "aceite",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 798,
+    "greek": "ξίδι",
+    "english": "vinegar",
+    "spanish": "vinagre",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 799,
+    "greek": "αλεύρι",
+    "english": "flour",
+    "spanish": "harina",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 800,
+    "greek": "ζυμαρικά",
+    "english": "pasta",
+    "spanish": "pasta",
+    "category": "food",
+    "level": "A1"
   }
 ]

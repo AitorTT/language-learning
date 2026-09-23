@@ -5998,5 +5998,405 @@
     "spanish": "triángulo",
     "category": "shapes",
     "level": "A1"
+  },
+  {
+    "id": 751,
+    "slovenian": "stopnice",
+    "english": "stairs",
+    "spanish": "escaleras",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 752,
+    "slovenian": "strop",
+    "english": "ceiling",
+    "spanish": "techo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 753,
+    "slovenian": "garaža",
+    "english": "garage",
+    "spanish": "garaje",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 754,
+    "slovenian": "vrata",
+    "english": "gate",
+    "spanish": "portón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 755,
+    "slovenian": "ograja",
+    "english": "fence",
+    "spanish": "valla",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 756,
+    "slovenian": "dimnik",
+    "english": "chimney",
+    "spanish": "chimenea",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 757,
+    "slovenian": "klet",
+    "english": "basement",
+    "spanish": "sótano",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 758,
+    "slovenian": "balkon",
+    "english": "balcony",
+    "spanish": "balcón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 759,
+    "slovenian": "zavesa",
+    "english": "curtain",
+    "spanish": "cortina",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 760,
+    "slovenian": "predal",
+    "english": "drawer",
+    "spanish": "cajón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 761,
+    "slovenian": "omara",
+    "english": "cupboard",
+    "spanish": "armario",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 762,
+    "slovenian": "umivalnik",
+    "english": "sink",
+    "spanish": "fregadero",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 763,
+    "slovenian": "straniščna školjka",
+    "english": "toilet",
+    "spanish": "inodoro",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 764,
+    "slovenian": "milo",
+    "english": "soap",
+    "spanish": "jabón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 765,
+    "slovenian": "vedro",
+    "english": "bucket",
+    "spanish": "cubo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 766,
+    "slovenian": "pulover",
+    "english": "sweater",
+    "spanish": "jersey",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 767,
+    "slovenian": "kratke hlače",
+    "english": "shorts",
+    "spanish": "pantalones cortos",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 768,
+    "slovenian": "kravata",
+    "english": "tie",
+    "spanish": "corbata",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 769,
+    "slovenian": "pas",
+    "english": "belt",
+    "spanish": "cinturón",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 770,
+    "slovenian": "žep",
+    "english": "pocket",
+    "spanish": "bolsillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 771,
+    "slovenian": "sandali",
+    "english": "sandals",
+    "spanish": "sandalias",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 772,
+    "slovenian": "kapa",
+    "english": "cap",
+    "spanish": "gorra",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 773,
+    "slovenian": "dežnik",
+    "english": "umbrella",
+    "spanish": "paraguas",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 774,
+    "slovenian": "torba",
+    "english": "bag",
+    "spanish": "bolsa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 775,
+    "slovenian": "prstan",
+    "english": "ring",
+    "spanish": "anillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 776,
+    "slovenian": "vrat",
+    "english": "neck",
+    "spanish": "cuello",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 777,
+    "slovenian": "prsi",
+    "english": "chest",
+    "spanish": "pecho",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 778,
+    "slovenian": "komolec",
+    "english": "elbow",
+    "spanish": "codo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 779,
+    "slovenian": "zapestje",
+    "english": "wrist",
+    "spanish": "muñeca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 780,
+    "slovenian": "gleženj",
+    "english": "ankle",
+    "spanish": "tobillo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 781,
+    "slovenian": "koža",
+    "english": "skin",
+    "spanish": "piel",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 782,
+    "slovenian": "kost",
+    "english": "bone",
+    "spanish": "hueso",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 783,
+    "slovenian": "možgani",
+    "english": "brain",
+    "spanish": "cerebro",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 784,
+    "slovenian": "obraz",
+    "english": "face",
+    "spanish": "cara",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 785,
+    "slovenian": "jezik",
+    "english": "tongue",
+    "spanish": "lengua",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 786,
+    "slovenian": "palec",
+    "english": "thumb",
+    "spanish": "pulgar",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 787,
+    "slovenian": "zdravilo",
+    "english": "medicine",
+    "spanish": "medicina",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 788,
+    "slovenian": "bolečina",
+    "english": "pain",
+    "spanish": "dolor",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 789,
+    "slovenian": "vročina",
+    "english": "fever",
+    "spanish": "fiebre",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 790,
+    "slovenian": "kašelj",
+    "english": "cough",
+    "spanish": "tos",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 791,
+    "slovenian": "ananas",
+    "english": "pineapple",
+    "spanish": "piña",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 792,
+    "slovenian": "češnja",
+    "english": "cherry",
+    "spanish": "cereza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 793,
+    "slovenian": "sliva",
+    "english": "plum",
+    "spanish": "ciruela",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 794,
+    "slovenian": "melona",
+    "english": "melon",
+    "spanish": "melón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 795,
+    "slovenian": "zelje",
+    "english": "cabbage",
+    "spanish": "col",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 796,
+    "slovenian": "kumara",
+    "english": "cucumber",
+    "spanish": "pepino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 797,
+    "slovenian": "olje",
+    "english": "oil",
+    "spanish": "aceite",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 798,
+    "slovenian": "kis",
+    "english": "vinegar",
+    "spanish": "vinagre",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 799,
+    "slovenian": "moka",
+    "english": "flour",
+    "spanish": "harina",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 800,
+    "slovenian": "testenine",
+    "english": "pasta",
+    "spanish": "pasta",
+    "category": "food",
+    "level": "A1"
   }
 ]

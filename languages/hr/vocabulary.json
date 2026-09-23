@@ -5998,5 +5998,405 @@
     "spanish": "triángulo",
     "category": "shapes",
     "level": "A1"
+  },
+  {
+    "id": 751,
+    "croatian": "stepenice",
+    "english": "stairs",
+    "spanish": "escaleras",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 752,
+    "croatian": "strop",
+    "english": "ceiling",
+    "spanish": "techo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 753,
+    "croatian": "garaža",
+    "english": "garage",
+    "spanish": "garaje",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 754,
+    "croatian": "vrata",
+    "english": "gate",
+    "spanish": "portón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 755,
+    "croatian": "ograda",
+    "english": "fence",
+    "spanish": "valla",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 756,
+    "croatian": "dimnjak",
+    "english": "chimney",
+    "spanish": "chimenea",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 757,
+    "croatian": "podrum",
+    "english": "basement",
+    "spanish": "sótano",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 758,
+    "croatian": "balkon",
+    "english": "balcony",
+    "spanish": "balcón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 759,
+    "croatian": "zavjesa",
+    "english": "curtain",
+    "spanish": "cortina",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 760,
+    "croatian": "ladica",
+    "english": "drawer",
+    "spanish": "cajón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 761,
+    "croatian": "ormar",
+    "english": "cupboard",
+    "spanish": "armario",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 762,
+    "croatian": "umivaonik",
+    "english": "sink",
+    "spanish": "fregadero",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 763,
+    "croatian": "WC školjka",
+    "english": "toilet",
+    "spanish": "inodoro",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 764,
+    "croatian": "sapun",
+    "english": "soap",
+    "spanish": "jabón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 765,
+    "croatian": "kanta",
+    "english": "bucket",
+    "spanish": "cubo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 766,
+    "croatian": "džemper",
+    "english": "sweater",
+    "spanish": "jersey",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 767,
+    "croatian": "kratke hlače",
+    "english": "shorts",
+    "spanish": "pantalones cortos",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 768,
+    "croatian": "kravata",
+    "english": "tie",
+    "spanish": "corbata",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 769,
+    "croatian": "pojas",
+    "english": "belt",
+    "spanish": "cinturón",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 770,
+    "croatian": "džep",
+    "english": "pocket",
+    "spanish": "bolsillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 771,
+    "croatian": "sandale",
+    "english": "sandals",
+    "spanish": "sandalias",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 772,
+    "croatian": "kapa",
+    "english": "cap",
+    "spanish": "gorra",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 773,
+    "croatian": "kišobran",
+    "english": "umbrella",
+    "spanish": "paraguas",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 774,
+    "croatian": "torba",
+    "english": "bag",
+    "spanish": "bolsa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 775,
+    "croatian": "prsten",
+    "english": "ring",
+    "spanish": "anillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 776,
+    "croatian": "vrat",
+    "english": "neck",
+    "spanish": "cuello",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 777,
+    "croatian": "prsa",
+    "english": "chest",
+    "spanish": "pecho",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 778,
+    "croatian": "lakat",
+    "english": "elbow",
+    "spanish": "codo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 779,
+    "croatian": "zglob",
+    "english": "wrist",
+    "spanish": "muñeca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 780,
+    "croatian": "gležanj",
+    "english": "ankle",
+    "spanish": "tobillo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 781,
+    "croatian": "koža",
+    "english": "skin",
+    "spanish": "piel",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 782,
+    "croatian": "kost",
+    "english": "bone",
+    "spanish": "hueso",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 783,
+    "croatian": "mozak",
+    "english": "brain",
+    "spanish": "cerebro",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 784,
+    "croatian": "lice",
+    "english": "face",
+    "spanish": "cara",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 785,
+    "croatian": "jezik",
+    "english": "tongue",
+    "spanish": "lengua",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 786,
+    "croatian": "palac",
+    "english": "thumb",
+    "spanish": "pulgar",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 787,
+    "croatian": "lijek",
+    "english": "medicine",
+    "spanish": "medicina",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 788,
+    "croatian": "bol",
+    "english": "pain",
+    "spanish": "dolor",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 789,
+    "croatian": "vrućica",
+    "english": "fever",
+    "spanish": "fiebre",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 790,
+    "croatian": "kašalj",
+    "english": "cough",
+    "spanish": "tos",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 791,
+    "croatian": "ananas",
+    "english": "pineapple",
+    "spanish": "piña",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 792,
+    "croatian": "trešnja",
+    "english": "cherry",
+    "spanish": "cereza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 793,
+    "croatian": "šljiva",
+    "english": "plum",
+    "spanish": "ciruela",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 794,
+    "croatian": "dinja",
+    "english": "melon",
+    "spanish": "melón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 795,
+    "croatian": "kupus",
+    "english": "cabbage",
+    "spanish": "col",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 796,
+    "croatian": "krastavac",
+    "english": "cucumber",
+    "spanish": "pepino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 797,
+    "croatian": "ulje",
+    "english": "oil",
+    "spanish": "aceite",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 798,
+    "croatian": "ocat",
+    "english": "vinegar",
+    "spanish": "vinagre",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 799,
+    "croatian": "brašno",
+    "english": "flour",
+    "spanish": "harina",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 800,
+    "croatian": "tjestenina",
+    "english": "pasta",
+    "spanish": "pasta",
+    "category": "food",
+    "level": "A1"
   }
 ]

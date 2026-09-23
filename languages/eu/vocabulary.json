@@ -5998,5 +5998,405 @@
     "spanish": "triángulo",
     "category": "shapes",
     "level": "A1"
+  },
+  {
+    "id": 751,
+    "basque": "eskailera",
+    "english": "stairs",
+    "spanish": "escaleras",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 752,
+    "basque": "sabai",
+    "english": "ceiling",
+    "spanish": "techo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 753,
+    "basque": "garaje",
+    "english": "garage",
+    "spanish": "garaje",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 754,
+    "basque": "ate",
+    "english": "gate",
+    "spanish": "portón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 755,
+    "basque": "hesia",
+    "english": "fence",
+    "spanish": "valla",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 756,
+    "basque": "tximinia",
+    "english": "chimney",
+    "spanish": "chimenea",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 757,
+    "basque": "soto",
+    "english": "basement",
+    "spanish": "sótano",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 758,
+    "basque": "balkoi",
+    "english": "balcony",
+    "spanish": "balcón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 759,
+    "basque": "gortina",
+    "english": "curtain",
+    "spanish": "cortina",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 760,
+    "basque": "tiradera",
+    "english": "drawer",
+    "spanish": "cajón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 761,
+    "basque": "armairu",
+    "english": "cupboard",
+    "spanish": "armario",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 762,
+    "basque": "harraska",
+    "english": "sink",
+    "spanish": "fregadero",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 763,
+    "basque": "komun",
+    "english": "toilet",
+    "spanish": "inodoro",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 764,
+    "basque": "xaboi",
+    "english": "soap",
+    "spanish": "jabón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 765,
+    "basque": "balde",
+    "english": "bucket",
+    "spanish": "cubo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 766,
+    "basque": "jertse",
+    "english": "sweater",
+    "spanish": "jersey",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 767,
+    "basque": "galtza motzak",
+    "english": "shorts",
+    "spanish": "pantalones cortos",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 768,
+    "basque": "gorbata",
+    "english": "tie",
+    "spanish": "corbata",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 769,
+    "basque": "gerrikoa",
+    "english": "belt",
+    "spanish": "cinturón",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 770,
+    "basque": "sakela",
+    "english": "pocket",
+    "spanish": "bolsillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 771,
+    "basque": "sandalia",
+    "english": "sandals",
+    "spanish": "sandalias",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 772,
+    "basque": "txapela",
+    "english": "cap",
+    "spanish": "gorra",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 773,
+    "basque": "aterki",
+    "english": "umbrella",
+    "spanish": "paraguas",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 774,
+    "basque": "zorro",
+    "english": "bag",
+    "spanish": "bolsa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 775,
+    "basque": "eraztun",
+    "english": "ring",
+    "spanish": "anillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 776,
+    "basque": "lepo",
+    "english": "neck",
+    "spanish": "cuello",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 777,
+    "basque": "bular",
+    "english": "chest",
+    "spanish": "pecho",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 778,
+    "basque": "ukondo",
+    "english": "elbow",
+    "spanish": "codo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 779,
+    "basque": "eskumutur",
+    "english": "wrist",
+    "spanish": "muñeca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 780,
+    "basque": "orkatila",
+    "english": "ankle",
+    "spanish": "tobillo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 781,
+    "basque": "azal",
+    "english": "skin",
+    "spanish": "piel",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 782,
+    "basque": "hezur",
+    "english": "bone",
+    "spanish": "hueso",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 783,
+    "basque": "garun",
+    "english": "brain",
+    "spanish": "cerebro",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 784,
+    "basque": "aurpegi",
+    "english": "face",
+    "spanish": "cara",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 785,
+    "basque": "mihi",
+    "english": "tongue",
+    "spanish": "lengua",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 786,
+    "basque": "hatz lodi",
+    "english": "thumb",
+    "spanish": "pulgar",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 787,
+    "basque": "sendagai",
+    "english": "medicine",
+    "spanish": "medicina",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 788,
+    "basque": "min",
+    "english": "pain",
+    "spanish": "dolor",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 789,
+    "basque": "sukar",
+    "english": "fever",
+    "spanish": "fiebre",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 790,
+    "basque": "eztul",
+    "english": "cough",
+    "spanish": "tos",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 791,
+    "basque": "anana",
+    "english": "pineapple",
+    "spanish": "piña",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 792,
+    "basque": "gerezi",
+    "english": "cherry",
+    "spanish": "cereza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 793,
+    "basque": "aran",
+    "english": "plum",
+    "spanish": "ciruela",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 794,
+    "basque": "meloi",
+    "english": "melon",
+    "spanish": "melón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 795,
+    "basque": "aza",
+    "english": "cabbage",
+    "spanish": "col",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 796,
+    "basque": "pepino",
+    "english": "cucumber",
+    "spanish": "pepino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 797,
+    "basque": "olio",
+    "english": "oil",
+    "spanish": "aceite",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 798,
+    "basque": "ozpin",
+    "english": "vinegar",
+    "spanish": "vinagre",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 799,
+    "basque": "irin",
+    "english": "flour",
+    "spanish": "harina",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 800,
+    "basque": "pasta",
+    "english": "pasta",
+    "spanish": "pasta",
+    "category": "food",
+    "level": "A1"
   }
 ]
