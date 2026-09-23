@@ -133,6 +133,9 @@ COMPARE_PRON = {
     "bg": {"hello": "zdraˈvɛj", "goodbye": "doˈviʒdənɛ", "good morning": "doˈbrɔ ˈutro",
            "good night": "ˈlɛkə nɔʃt", "thank you": "bləgoˈdarʲə", "please": "ˈmɔʎə",
            "sorry": "izviˈnɛtɛ", "yes": "da", "no": "nɛ", "help": "ˈpɔmɔʃt"},
+    "sq": {"hello": "pəɾʃənˈdɛtjɛ", "goodbye": "miɾupaˈfʃim", "good morning": "miɾəmənˈɟɛs",
+           "good night": "ˈnatən ɛ ˈmiɾə", "thank you": "falɛmindɛˈɾit", "please": "ju ˈlutɛm",
+           "sorry": "mə ˈfalni", "yes": "pɔ", "no": "jɔ", "help": "ndihˈmə"},
 }
 
 _compare_cache = None

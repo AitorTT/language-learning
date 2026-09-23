@@ -415,5 +415,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "sq",
+    "name": "Albanian",
+    "flag": "🇦🇱",
+    "speech": "sq-AL",
+    "termLabel": "Albanian",
+    "termField": "albanian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
