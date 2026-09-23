@@ -7198,5 +7198,397 @@
     "spanish": "jamón",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 901,
+    "finnish": "hyvää iltapäivää",
+    "english": "good afternoon",
+    "spanish": "buenas tardes",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 902,
+    "finnish": "tervetuloa",
+    "english": "welcome",
+    "spanish": "bienvenido",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 903,
+    "finnish": "anteeksi",
+    "english": "excuse me",
+    "spanish": "disculpe",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 904,
+    "finnish": "ole hyvä",
+    "english": "you're welcome",
+    "spanish": "de nada",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 905,
+    "finnish": "hauska tutustua",
+    "english": "nice to meet you",
+    "spanish": "mucho gusto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 906,
+    "finnish": "nähdään myöhemmin",
+    "english": "see you later",
+    "spanish": "hasta luego",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 907,
+    "finnish": "tietenkin",
+    "english": "of course",
+    "spanish": "por supuesto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 908,
+    "finnish": "en tiedä",
+    "english": "I don't know",
+    "spanish": "no sé",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 909,
+    "finnish": "en ymmärrä",
+    "english": "I don't understand",
+    "spanish": "no entiendo",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 910,
+    "finnish": "paljonko se maksaa?",
+    "english": "how much is it?",
+    "spanish": "¿cuánto cuesta?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 911,
+    "finnish": "missä on vessa?",
+    "english": "where is the toilet?",
+    "spanish": "¿dónde está el baño?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 912,
+    "finnish": "rakastan sinua",
+    "english": "I love you",
+    "spanish": "te quiero",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 913,
+    "finnish": "onneksi olkoon",
+    "english": "congratulations",
+    "spanish": "felicidades",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 914,
+    "finnish": "onnea",
+    "english": "good luck",
+    "spanish": "buena suerte",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 915,
+    "finnish": "maanantai",
+    "english": "Monday",
+    "spanish": "lunes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 916,
+    "finnish": "tiistai",
+    "english": "Tuesday",
+    "spanish": "martes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 917,
+    "finnish": "keskiviikko",
+    "english": "Wednesday",
+    "spanish": "miércoles",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 918,
+    "finnish": "torstai",
+    "english": "Thursday",
+    "spanish": "jueves",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 919,
+    "finnish": "perjantai",
+    "english": "Friday",
+    "spanish": "viernes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 920,
+    "finnish": "lauantai",
+    "english": "Saturday",
+    "spanish": "sábado",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 921,
+    "finnish": "sunnuntai",
+    "english": "Sunday",
+    "spanish": "domingo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 922,
+    "finnish": "tammikuu",
+    "english": "January",
+    "spanish": "enero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 923,
+    "finnish": "helmikuu",
+    "english": "February",
+    "spanish": "febrero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 924,
+    "finnish": "maaliskuu",
+    "english": "March",
+    "spanish": "marzo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 925,
+    "finnish": "huhtikuu",
+    "english": "April",
+    "spanish": "abril",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 926,
+    "finnish": "toukokuu",
+    "english": "May",
+    "spanish": "mayo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 927,
+    "finnish": "kesäkuu",
+    "english": "June",
+    "spanish": "junio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 928,
+    "finnish": "heinäkuu",
+    "english": "July",
+    "spanish": "julio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 929,
+    "finnish": "elokuu",
+    "english": "August",
+    "spanish": "agosto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 930,
+    "finnish": "syyskuu",
+    "english": "September",
+    "spanish": "septiembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 931,
+    "finnish": "lokakuu",
+    "english": "October",
+    "spanish": "octubre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 932,
+    "finnish": "marraskuu",
+    "english": "November",
+    "spanish": "noviembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 933,
+    "finnish": "joulukuu",
+    "english": "December",
+    "spanish": "diciembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 934,
+    "finnish": "aamu",
+    "english": "morning",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 935,
+    "finnish": "iltapäivä",
+    "english": "afternoon",
+    "spanish": "tarde",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 936,
+    "finnish": "yö",
+    "english": "night",
+    "spanish": "noche",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 937,
+    "finnish": "tunti",
+    "english": "hour",
+    "spanish": "hora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 938,
+    "finnish": "minuutti",
+    "english": "minute",
+    "spanish": "minuto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 939,
+    "finnish": "viikko",
+    "english": "week",
+    "spanish": "semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 940,
+    "finnish": "kuukausi",
+    "english": "month",
+    "spanish": "mes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 941,
+    "finnish": "vuosi",
+    "english": "year",
+    "spanish": "año",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 942,
+    "finnish": "viikonloppu",
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 943,
+    "finnish": "nyt",
+    "english": "now",
+    "spanish": "ahora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 944,
+    "finnish": "päivä",
+    "english": "day",
+    "spanish": "día",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 945,
+    "finnish": "liitutaulu",
+    "english": "blackboard",
+    "spanish": "pizarra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 946,
+    "finnish": "sivu",
+    "english": "page",
+    "spanish": "página",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 947,
+    "finnish": "sana",
+    "english": "word",
+    "spanish": "palabra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 948,
+    "finnish": "kysymys",
+    "english": "question",
+    "spanish": "pregunta",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 949,
+    "finnish": "sanakirja",
+    "english": "dictionary",
+    "spanish": "diccionario",
+    "category": "education",
+    "level": "A1"
   }
 ]

@@ -8098,5 +8098,446 @@
     "spanish": "jamón",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 901,
+    "japanese": "こんにちは",
+    "romaji": "konnichiwa",
+    "english": "good afternoon",
+    "spanish": "buenas tardes",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 902,
+    "japanese": "ようこそ",
+    "romaji": "yōkoso",
+    "english": "welcome",
+    "spanish": "bienvenido",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 903,
+    "japanese": "すみません",
+    "romaji": "sumimasen",
+    "english": "excuse me",
+    "spanish": "disculpe",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 904,
+    "japanese": "どういたしまして",
+    "romaji": "dō itashimashite",
+    "english": "you're welcome",
+    "spanish": "de nada",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 905,
+    "japanese": "はじめまして",
+    "romaji": "hajimemashite",
+    "english": "nice to meet you",
+    "spanish": "mucho gusto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 906,
+    "japanese": "またね",
+    "romaji": "mata ne",
+    "english": "see you later",
+    "spanish": "hasta luego",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 907,
+    "japanese": "もちろん",
+    "romaji": "mochiron",
+    "english": "of course",
+    "spanish": "por supuesto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 908,
+    "japanese": "知りません",
+    "romaji": "shirimasen",
+    "english": "I don't know",
+    "spanish": "no sé",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 909,
+    "japanese": "わかりません",
+    "romaji": "wakarimasen",
+    "english": "I don't understand",
+    "spanish": "no entiendo",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 910,
+    "japanese": "いくらですか",
+    "romaji": "ikura desu ka",
+    "english": "how much is it?",
+    "spanish": "¿cuánto cuesta?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 911,
+    "japanese": "トイレはどこですか",
+    "romaji": "toire wa doko desu ka",
+    "english": "where is the toilet?",
+    "spanish": "¿dónde está el baño?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 912,
+    "japanese": "愛してる",
+    "romaji": "aishiteru",
+    "english": "I love you",
+    "spanish": "te quiero",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 913,
+    "japanese": "おめでとう",
+    "romaji": "omedetō",
+    "english": "congratulations",
+    "spanish": "felicidades",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 914,
+    "japanese": "頑張って",
+    "romaji": "ganbatte",
+    "english": "good luck",
+    "spanish": "buena suerte",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 915,
+    "japanese": "月曜日",
+    "romaji": "getsuyōbi",
+    "english": "Monday",
+    "spanish": "lunes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 916,
+    "japanese": "火曜日",
+    "romaji": "kayōbi",
+    "english": "Tuesday",
+    "spanish": "martes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 917,
+    "japanese": "水曜日",
+    "romaji": "suiyōbi",
+    "english": "Wednesday",
+    "spanish": "miércoles",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 918,
+    "japanese": "木曜日",
+    "romaji": "mokuyōbi",
+    "english": "Thursday",
+    "spanish": "jueves",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 919,
+    "japanese": "金曜日",
+    "romaji": "kin'yōbi",
+    "english": "Friday",
+    "spanish": "viernes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 920,
+    "japanese": "土曜日",
+    "romaji": "doyōbi",
+    "english": "Saturday",
+    "spanish": "sábado",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 921,
+    "japanese": "日曜日",
+    "romaji": "nichiyōbi",
+    "english": "Sunday",
+    "spanish": "domingo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 922,
+    "japanese": "一月",
+    "romaji": "ichigatsu",
+    "english": "January",
+    "spanish": "enero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 923,
+    "japanese": "二月",
+    "romaji": "nigatsu",
+    "english": "February",
+    "spanish": "febrero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 924,
+    "japanese": "三月",
+    "romaji": "sangatsu",
+    "english": "March",
+    "spanish": "marzo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 925,
+    "japanese": "四月",
+    "romaji": "shigatsu",
+    "english": "April",
+    "spanish": "abril",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 926,
+    "japanese": "五月",
+    "romaji": "gogatsu",
+    "english": "May",
+    "spanish": "mayo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 927,
+    "japanese": "六月",
+    "romaji": "rokugatsu",
+    "english": "June",
+    "spanish": "junio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 928,
+    "japanese": "七月",
+    "romaji": "shichigatsu",
+    "english": "July",
+    "spanish": "julio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 929,
+    "japanese": "八月",
+    "romaji": "hachigatsu",
+    "english": "August",
+    "spanish": "agosto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 930,
+    "japanese": "九月",
+    "romaji": "kugatsu",
+    "english": "September",
+    "spanish": "septiembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 931,
+    "japanese": "十月",
+    "romaji": "jūgatsu",
+    "english": "October",
+    "spanish": "octubre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 932,
+    "japanese": "十一月",
+    "romaji": "jūichigatsu",
+    "english": "November",
+    "spanish": "noviembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 933,
+    "japanese": "十二月",
+    "romaji": "jūnigatsu",
+    "english": "December",
+    "spanish": "diciembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 934,
+    "japanese": "朝",
+    "romaji": "asa",
+    "english": "morning",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 935,
+    "japanese": "午後",
+    "romaji": "gogo",
+    "english": "afternoon",
+    "spanish": "tarde",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 936,
+    "japanese": "夜",
+    "romaji": "yoru",
+    "english": "night",
+    "spanish": "noche",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 937,
+    "japanese": "時間",
+    "romaji": "jikan",
+    "english": "hour",
+    "spanish": "hora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 938,
+    "japanese": "分",
+    "romaji": "fun",
+    "english": "minute",
+    "spanish": "minuto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 939,
+    "japanese": "週",
+    "romaji": "shū",
+    "english": "week",
+    "spanish": "semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 940,
+    "japanese": "月",
+    "romaji": "tsuki",
+    "english": "month",
+    "spanish": "mes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 941,
+    "japanese": "年",
+    "romaji": "toshi",
+    "english": "year",
+    "spanish": "año",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 942,
+    "japanese": "週末",
+    "romaji": "shūmatsu",
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 943,
+    "japanese": "今",
+    "romaji": "ima",
+    "english": "now",
+    "spanish": "ahora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 944,
+    "japanese": "日",
+    "romaji": "hi",
+    "english": "day",
+    "spanish": "día",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 945,
+    "japanese": "黒板",
+    "romaji": "kokuban",
+    "english": "blackboard",
+    "spanish": "pizarra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 946,
+    "japanese": "ページ",
+    "romaji": "pēji",
+    "english": "page",
+    "spanish": "página",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 947,
+    "japanese": "単語",
+    "romaji": "tango",
+    "english": "word",
+    "spanish": "palabra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 948,
+    "japanese": "質問",
+    "romaji": "shitsumon",
+    "english": "question",
+    "spanish": "pregunta",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 949,
+    "japanese": "辞書",
+    "romaji": "jisho",
+    "english": "dictionary",
+    "spanish": "diccionario",
+    "category": "education",
+    "level": "A1"
   }
 ]

@@ -8098,5 +8098,446 @@
     "spanish": "jamón",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 901,
+    "chinese": "下午好",
+    "pinyin": "xiàwǔ hǎo",
+    "english": "good afternoon",
+    "spanish": "buenas tardes",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 902,
+    "chinese": "欢迎",
+    "pinyin": "huānyíng",
+    "english": "welcome",
+    "spanish": "bienvenido",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 903,
+    "chinese": "不好意思",
+    "pinyin": "bù hǎoyìsi",
+    "english": "excuse me",
+    "spanish": "disculpe",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 904,
+    "chinese": "不客气",
+    "pinyin": "bù kèqi",
+    "english": "you're welcome",
+    "spanish": "de nada",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 905,
+    "chinese": "很高兴认识你",
+    "pinyin": "hěn gāoxìng rènshi nǐ",
+    "english": "nice to meet you",
+    "spanish": "mucho gusto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 906,
+    "chinese": "回头见",
+    "pinyin": "huítóu jiàn",
+    "english": "see you later",
+    "spanish": "hasta luego",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 907,
+    "chinese": "当然",
+    "pinyin": "dāngrán",
+    "english": "of course",
+    "spanish": "por supuesto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 908,
+    "chinese": "我不知道",
+    "pinyin": "wǒ bù zhīdào",
+    "english": "I don't know",
+    "spanish": "no sé",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 909,
+    "chinese": "我不懂",
+    "pinyin": "wǒ bù dǒng",
+    "english": "I don't understand",
+    "spanish": "no entiendo",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 910,
+    "chinese": "多少钱",
+    "pinyin": "duōshǎo qián",
+    "english": "how much is it?",
+    "spanish": "¿cuánto cuesta?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 911,
+    "chinese": "厕所在哪里",
+    "pinyin": "cèsuǒ zài nǎlǐ",
+    "english": "where is the toilet?",
+    "spanish": "¿dónde está el baño?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 912,
+    "chinese": "我爱你",
+    "pinyin": "wǒ ài nǐ",
+    "english": "I love you",
+    "spanish": "te quiero",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 913,
+    "chinese": "恭喜",
+    "pinyin": "gōngxǐ",
+    "english": "congratulations",
+    "spanish": "felicidades",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 914,
+    "chinese": "祝你好运",
+    "pinyin": "zhù nǐ hǎoyùn",
+    "english": "good luck",
+    "spanish": "buena suerte",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 915,
+    "chinese": "星期一",
+    "pinyin": "xīngqīyī",
+    "english": "Monday",
+    "spanish": "lunes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 916,
+    "chinese": "星期二",
+    "pinyin": "xīngqī'èr",
+    "english": "Tuesday",
+    "spanish": "martes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 917,
+    "chinese": "星期三",
+    "pinyin": "xīngqīsān",
+    "english": "Wednesday",
+    "spanish": "miércoles",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 918,
+    "chinese": "星期四",
+    "pinyin": "xīngqīsì",
+    "english": "Thursday",
+    "spanish": "jueves",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 919,
+    "chinese": "星期五",
+    "pinyin": "xīngqīwǔ",
+    "english": "Friday",
+    "spanish": "viernes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 920,
+    "chinese": "星期六",
+    "pinyin": "xīngqīliù",
+    "english": "Saturday",
+    "spanish": "sábado",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 921,
+    "chinese": "星期日",
+    "pinyin": "xīngqīrì",
+    "english": "Sunday",
+    "spanish": "domingo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 922,
+    "chinese": "一月",
+    "pinyin": "yīyuè",
+    "english": "January",
+    "spanish": "enero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 923,
+    "chinese": "二月",
+    "pinyin": "èryuè",
+    "english": "February",
+    "spanish": "febrero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 924,
+    "chinese": "三月",
+    "pinyin": "sānyuè",
+    "english": "March",
+    "spanish": "marzo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 925,
+    "chinese": "四月",
+    "pinyin": "sìyuè",
+    "english": "April",
+    "spanish": "abril",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 926,
+    "chinese": "五月",
+    "pinyin": "wǔyuè",
+    "english": "May",
+    "spanish": "mayo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 927,
+    "chinese": "六月",
+    "pinyin": "liùyuè",
+    "english": "June",
+    "spanish": "junio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 928,
+    "chinese": "七月",
+    "pinyin": "qīyuè",
+    "english": "July",
+    "spanish": "julio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 929,
+    "chinese": "八月",
+    "pinyin": "bāyuè",
+    "english": "August",
+    "spanish": "agosto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 930,
+    "chinese": "九月",
+    "pinyin": "jiǔyuè",
+    "english": "September",
+    "spanish": "septiembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 931,
+    "chinese": "十月",
+    "pinyin": "shíyuè",
+    "english": "October",
+    "spanish": "octubre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 932,
+    "chinese": "十一月",
+    "pinyin": "shíyīyuè",
+    "english": "November",
+    "spanish": "noviembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 933,
+    "chinese": "十二月",
+    "pinyin": "shí'èryuè",
+    "english": "December",
+    "spanish": "diciembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 934,
+    "chinese": "早上",
+    "pinyin": "zǎoshang",
+    "english": "morning",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 935,
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "english": "afternoon",
+    "spanish": "tarde",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 936,
+    "chinese": "晚上",
+    "pinyin": "wǎnshang",
+    "english": "night",
+    "spanish": "noche",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 937,
+    "chinese": "小时",
+    "pinyin": "xiǎoshí",
+    "english": "hour",
+    "spanish": "hora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 938,
+    "chinese": "分钟",
+    "pinyin": "fēnzhōng",
+    "english": "minute",
+    "spanish": "minuto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 939,
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "english": "week",
+    "spanish": "semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 940,
+    "chinese": "月",
+    "pinyin": "yuè",
+    "english": "month",
+    "spanish": "mes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 941,
+    "chinese": "年",
+    "pinyin": "nián",
+    "english": "year",
+    "spanish": "año",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 942,
+    "chinese": "周末",
+    "pinyin": "zhōumò",
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 943,
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "english": "now",
+    "spanish": "ahora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 944,
+    "chinese": "天",
+    "pinyin": "tiān",
+    "english": "day",
+    "spanish": "día",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 945,
+    "chinese": "黑板",
+    "pinyin": "hēibǎn",
+    "english": "blackboard",
+    "spanish": "pizarra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 946,
+    "chinese": "页",
+    "pinyin": "yè",
+    "english": "page",
+    "spanish": "página",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 947,
+    "chinese": "单词",
+    "pinyin": "dāncí",
+    "english": "word",
+    "spanish": "palabra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 948,
+    "chinese": "问题",
+    "pinyin": "wèntí",
+    "english": "question",
+    "spanish": "pregunta",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 949,
+    "chinese": "词典",
+    "pinyin": "cídiǎn",
+    "english": "dictionary",
+    "spanish": "diccionario",
+    "category": "education",
+    "level": "A1"
   }
 ]

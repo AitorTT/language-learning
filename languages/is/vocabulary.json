@@ -7198,5 +7198,397 @@
     "spanish": "jamón",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 901,
+    "icelandic": "góðan daginn",
+    "english": "good afternoon",
+    "spanish": "buenas tardes",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 902,
+    "icelandic": "velkominn",
+    "english": "welcome",
+    "spanish": "bienvenido",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 903,
+    "icelandic": "fyrirgefðu",
+    "english": "excuse me",
+    "spanish": "disculpe",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 904,
+    "icelandic": "ekkert að þakka",
+    "english": "you're welcome",
+    "spanish": "de nada",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 905,
+    "icelandic": "gaman að kynnast þér",
+    "english": "nice to meet you",
+    "spanish": "mucho gusto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 906,
+    "icelandic": "sé þig seinna",
+    "english": "see you later",
+    "spanish": "hasta luego",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 907,
+    "icelandic": "auðvitað",
+    "english": "of course",
+    "spanish": "por supuesto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 908,
+    "icelandic": "ég veit ekki",
+    "english": "I don't know",
+    "spanish": "no sé",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 909,
+    "icelandic": "ég skil ekki",
+    "english": "I don't understand",
+    "spanish": "no entiendo",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 910,
+    "icelandic": "hvað kostar það?",
+    "english": "how much is it?",
+    "spanish": "¿cuánto cuesta?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 911,
+    "icelandic": "hvar er baðherbergið?",
+    "english": "where is the toilet?",
+    "spanish": "¿dónde está el baño?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 912,
+    "icelandic": "ég elska þig",
+    "english": "I love you",
+    "spanish": "te quiero",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 913,
+    "icelandic": "til hamingju",
+    "english": "congratulations",
+    "spanish": "felicidades",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 914,
+    "icelandic": "gangi þér vel",
+    "english": "good luck",
+    "spanish": "buena suerte",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 915,
+    "icelandic": "mánudagur",
+    "english": "Monday",
+    "spanish": "lunes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 916,
+    "icelandic": "þriðjudagur",
+    "english": "Tuesday",
+    "spanish": "martes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 917,
+    "icelandic": "miðvikudagur",
+    "english": "Wednesday",
+    "spanish": "miércoles",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 918,
+    "icelandic": "fimmtudagur",
+    "english": "Thursday",
+    "spanish": "jueves",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 919,
+    "icelandic": "föstudagur",
+    "english": "Friday",
+    "spanish": "viernes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 920,
+    "icelandic": "laugardagur",
+    "english": "Saturday",
+    "spanish": "sábado",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 921,
+    "icelandic": "sunnudagur",
+    "english": "Sunday",
+    "spanish": "domingo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 922,
+    "icelandic": "janúar",
+    "english": "January",
+    "spanish": "enero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 923,
+    "icelandic": "febrúar",
+    "english": "February",
+    "spanish": "febrero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 924,
+    "icelandic": "mars",
+    "english": "March",
+    "spanish": "marzo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 925,
+    "icelandic": "apríl",
+    "english": "April",
+    "spanish": "abril",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 926,
+    "icelandic": "maí",
+    "english": "May",
+    "spanish": "mayo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 927,
+    "icelandic": "júní",
+    "english": "June",
+    "spanish": "junio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 928,
+    "icelandic": "júlí",
+    "english": "July",
+    "spanish": "julio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 929,
+    "icelandic": "ágúst",
+    "english": "August",
+    "spanish": "agosto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 930,
+    "icelandic": "september",
+    "english": "September",
+    "spanish": "septiembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 931,
+    "icelandic": "október",
+    "english": "October",
+    "spanish": "octubre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 932,
+    "icelandic": "nóvember",
+    "english": "November",
+    "spanish": "noviembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 933,
+    "icelandic": "desember",
+    "english": "December",
+    "spanish": "diciembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 934,
+    "icelandic": "morgunn",
+    "english": "morning",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 935,
+    "icelandic": "síðdegi",
+    "english": "afternoon",
+    "spanish": "tarde",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 936,
+    "icelandic": "nótt",
+    "english": "night",
+    "spanish": "noche",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 937,
+    "icelandic": "klukkustund",
+    "english": "hour",
+    "spanish": "hora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 938,
+    "icelandic": "mínúta",
+    "english": "minute",
+    "spanish": "minuto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 939,
+    "icelandic": "vika",
+    "english": "week",
+    "spanish": "semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 940,
+    "icelandic": "mánuður",
+    "english": "month",
+    "spanish": "mes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 941,
+    "icelandic": "ár",
+    "english": "year",
+    "spanish": "año",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 942,
+    "icelandic": "helgi",
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 943,
+    "icelandic": "núna",
+    "english": "now",
+    "spanish": "ahora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 944,
+    "icelandic": "dagur",
+    "english": "day",
+    "spanish": "día",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 945,
+    "icelandic": "skólatafla",
+    "english": "blackboard",
+    "spanish": "pizarra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 946,
+    "icelandic": "síða",
+    "english": "page",
+    "spanish": "página",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 947,
+    "icelandic": "orð",
+    "english": "word",
+    "spanish": "palabra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 948,
+    "icelandic": "spurning",
+    "english": "question",
+    "spanish": "pregunta",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 949,
+    "icelandic": "orðabók",
+    "english": "dictionary",
+    "spanish": "diccionario",
+    "category": "education",
+    "level": "A1"
   }
 ]

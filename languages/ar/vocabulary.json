@@ -8998,5 +8998,495 @@
     "spanish": "jamón",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 901,
+    "arabic": "مساء الخير",
+    "translit": "masāʾ al-khayr",
+    "ipa": "masaːʔ al-xajr",
+    "english": "good afternoon",
+    "spanish": "buenas tardes",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 902,
+    "arabic": "أهلاً وسهلاً",
+    "translit": "ahlan wa sahlan",
+    "ipa": "ahlan wa sahlan",
+    "english": "welcome",
+    "spanish": "bienvenido",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 903,
+    "arabic": "عذراً",
+    "translit": "ʿadhran",
+    "ipa": "ʕadˤran",
+    "english": "excuse me",
+    "spanish": "disculpe",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 904,
+    "arabic": "عفواً",
+    "translit": "ʿafwan",
+    "ipa": "ʕafwan",
+    "english": "you're welcome",
+    "spanish": "de nada",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 905,
+    "arabic": "تشرفنا",
+    "translit": "tasharrafnā",
+    "ipa": "taʃarrafnaː",
+    "english": "nice to meet you",
+    "spanish": "mucho gusto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 906,
+    "arabic": "أراك لاحقاً",
+    "translit": "arāka lāḥiqan",
+    "ipa": "araːka laːħiqan",
+    "english": "see you later",
+    "spanish": "hasta luego",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 907,
+    "arabic": "طبعاً",
+    "translit": "ṭabʿan",
+    "ipa": "tˤabʕan",
+    "english": "of course",
+    "spanish": "por supuesto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 908,
+    "arabic": "لا أعرف",
+    "translit": "lā aʿrif",
+    "ipa": "laː aʕrif",
+    "english": "I don't know",
+    "spanish": "no sé",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 909,
+    "arabic": "لا أفهم",
+    "translit": "lā afham",
+    "ipa": "laː afham",
+    "english": "I don't understand",
+    "spanish": "no entiendo",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 910,
+    "arabic": "كم سعره",
+    "translit": "kam siʿruhu",
+    "ipa": "kam siʕruhu",
+    "english": "how much is it?",
+    "spanish": "¿cuánto cuesta?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 911,
+    "arabic": "أين الحمام",
+    "translit": "ayna al-ḥammām",
+    "ipa": "ajna l-ħammaːm",
+    "english": "where is the toilet?",
+    "spanish": "¿dónde está el baño?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 912,
+    "arabic": "أحبك",
+    "translit": "uḥibbuka",
+    "ipa": "uħibbuka",
+    "english": "I love you",
+    "spanish": "te quiero",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 913,
+    "arabic": "مبروك",
+    "translit": "mabrūk",
+    "ipa": "mabruːk",
+    "english": "congratulations",
+    "spanish": "felicidades",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 914,
+    "arabic": "بالتوفيق",
+    "translit": "bit-tawfīq",
+    "ipa": "bittawfiːq",
+    "english": "good luck",
+    "spanish": "buena suerte",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 915,
+    "arabic": "الاثنين",
+    "translit": "al-ithnayn",
+    "ipa": "al-iθnajn",
+    "english": "Monday",
+    "spanish": "lunes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 916,
+    "arabic": "الثلاثاء",
+    "translit": "ath-thulāthāʾ",
+    "ipa": "aθ-θulaːθaːʔ",
+    "english": "Tuesday",
+    "spanish": "martes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 917,
+    "arabic": "الأربعاء",
+    "translit": "al-arbiʿāʾ",
+    "ipa": "al-arbiʕaːʔ",
+    "english": "Wednesday",
+    "spanish": "miércoles",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 918,
+    "arabic": "الخميس",
+    "translit": "al-khamīs",
+    "ipa": "al-xamiːs",
+    "english": "Thursday",
+    "spanish": "jueves",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 919,
+    "arabic": "الجمعة",
+    "translit": "al-jumʿa",
+    "ipa": "al-dʒumʕa",
+    "english": "Friday",
+    "spanish": "viernes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 920,
+    "arabic": "السبت",
+    "translit": "as-sabt",
+    "ipa": "as-sabt",
+    "english": "Saturday",
+    "spanish": "sábado",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 921,
+    "arabic": "الأحد",
+    "translit": "al-aḥad",
+    "ipa": "al-aħad",
+    "english": "Sunday",
+    "spanish": "domingo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 922,
+    "arabic": "يناير",
+    "translit": "yanāyir",
+    "ipa": "janaːjir",
+    "english": "January",
+    "spanish": "enero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 923,
+    "arabic": "فبراير",
+    "translit": "fibrāyir",
+    "ipa": "fibraːjir",
+    "english": "February",
+    "spanish": "febrero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 924,
+    "arabic": "مارس",
+    "translit": "māris",
+    "ipa": "maːris",
+    "english": "March",
+    "spanish": "marzo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 925,
+    "arabic": "أبريل",
+    "translit": "abrīl",
+    "ipa": "abriːl",
+    "english": "April",
+    "spanish": "abril",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 926,
+    "arabic": "مايو",
+    "translit": "māyū",
+    "ipa": "maːjuː",
+    "english": "May",
+    "spanish": "mayo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 927,
+    "arabic": "يونيو",
+    "translit": "yūnyū",
+    "ipa": "juːnjuː",
+    "english": "June",
+    "spanish": "junio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 928,
+    "arabic": "يوليو",
+    "translit": "yūlyū",
+    "ipa": "juːljuː",
+    "english": "July",
+    "spanish": "julio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 929,
+    "arabic": "أغسطس",
+    "translit": "aghusṭus",
+    "ipa": "aɣustˤus",
+    "english": "August",
+    "spanish": "agosto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 930,
+    "arabic": "سبتمبر",
+    "translit": "sibtambir",
+    "ipa": "sibtambir",
+    "english": "September",
+    "spanish": "septiembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 931,
+    "arabic": "أكتوبر",
+    "translit": "uktūbir",
+    "ipa": "uktuːbir",
+    "english": "October",
+    "spanish": "octubre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 932,
+    "arabic": "نوفمبر",
+    "translit": "nūfambir",
+    "ipa": "nuːfambir",
+    "english": "November",
+    "spanish": "noviembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 933,
+    "arabic": "ديسمبر",
+    "translit": "dīsambir",
+    "ipa": "diːsambir",
+    "english": "December",
+    "spanish": "diciembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 934,
+    "arabic": "صباح",
+    "translit": "ṣabāḥ",
+    "ipa": "sˤabaːħ",
+    "english": "morning",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 935,
+    "arabic": "بعد الظهر",
+    "translit": "baʿda aẓ-ẓuhr",
+    "ipa": "baʕda aðˤ-ðˤuhr",
+    "english": "afternoon",
+    "spanish": "tarde",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 936,
+    "arabic": "ليل",
+    "translit": "layl",
+    "ipa": "lajl",
+    "english": "night",
+    "spanish": "noche",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 937,
+    "arabic": "ساعة",
+    "translit": "sāʿa",
+    "ipa": "saːʕa",
+    "english": "hour",
+    "spanish": "hora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 938,
+    "arabic": "دقيقة",
+    "translit": "daqīqa",
+    "ipa": "daqiːqa",
+    "english": "minute",
+    "spanish": "minuto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 939,
+    "arabic": "أسبوع",
+    "translit": "usbūʿ",
+    "ipa": "usbuːʕ",
+    "english": "week",
+    "spanish": "semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 940,
+    "arabic": "شهر",
+    "translit": "shahr",
+    "ipa": "ʃahr",
+    "english": "month",
+    "spanish": "mes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 941,
+    "arabic": "سنة",
+    "translit": "sana",
+    "ipa": "sana",
+    "english": "year",
+    "spanish": "año",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 942,
+    "arabic": "نهاية الأسبوع",
+    "translit": "nihāyat al-usbūʿ",
+    "ipa": "nihaːjat al-usbuːʕ",
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 943,
+    "arabic": "الآن",
+    "translit": "al-ān",
+    "ipa": "al-aːn",
+    "english": "now",
+    "spanish": "ahora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 944,
+    "arabic": "يوم",
+    "translit": "yawm",
+    "ipa": "jawm",
+    "english": "day",
+    "spanish": "día",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 945,
+    "arabic": "سبورة",
+    "translit": "sabbūra",
+    "ipa": "sabbuːra",
+    "english": "blackboard",
+    "spanish": "pizarra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 946,
+    "arabic": "صفحة",
+    "translit": "ṣafḥa",
+    "ipa": "sˤafħa",
+    "english": "page",
+    "spanish": "página",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 947,
+    "arabic": "كلمة",
+    "translit": "kalima",
+    "ipa": "kalima",
+    "english": "word",
+    "spanish": "palabra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 948,
+    "arabic": "سؤال",
+    "translit": "suʾāl",
+    "ipa": "suʔaːl",
+    "english": "question",
+    "spanish": "pregunta",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 949,
+    "arabic": "قاموس",
+    "translit": "qāmūs",
+    "ipa": "qaːmuːs",
+    "english": "dictionary",
+    "spanish": "diccionario",
+    "category": "education",
+    "level": "A1"
   }
 ]
