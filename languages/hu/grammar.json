@@ -1,0 +1,2554 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Hungarian alphabet",
+    "description": "Hungarian uses digraphs that count as single letters.",
+    "columns": [
+      "Letter",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "cs",
+        "csak",
+        "ch as in church",
+        "ch"
+      ],
+      [
+        "sz",
+        "szép",
+        "s as in sun",
+        "s"
+      ],
+      [
+        "zs",
+        "zsemle",
+        "zh as in measure",
+        "y"
+      ],
+      [
+        "gy",
+        "gyerek",
+        "dy as in duke",
+        "dy"
+      ],
+      [
+        "ny",
+        "nyár",
+        "ny as in canyon",
+        "ñ"
+      ],
+      [
+        "ty",
+        "tyúk",
+        "t plus y",
+        "ty"
+      ],
+      [
+        "s",
+        "sok",
+        "sh as in shop",
+        "sh"
+      ],
+      [
+        "á",
+        "ház",
+        "long a",
+        "a larga"
+      ],
+      [
+        "é",
+        "tér",
+        "long e",
+        "e larga"
+      ],
+      [
+        "ö",
+        "kör",
+        "ö as in German",
+        "ö"
+      ],
+      [
+        "ő",
+        "sző",
+        "long ö",
+        "ö larga"
+      ],
+      [
+        "ü",
+        "hülye",
+        "ü as in German",
+        "ü"
+      ],
+      [
+        "ű",
+        "tűz",
+        "long ü",
+        "ü larga"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Vowel harmony",
+    "description": "Suffixes change their vowel to match the word.",
+    "columns": [
+      "Type",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "back vowels",
+        "a, á, o, ó, u, ú",
+        "take back suffixes",
+        "toman sufijos posteriores"
+      ],
+      [
+        "front vowels",
+        "e, é, i, í, ö, ő, ü, ű",
+        "take front suffixes",
+        "toman sufijos anteriores"
+      ],
+      [
+        "back example",
+        "házban",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "front example",
+        "kertben",
+        "in the garden",
+        "en el jardín"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "The pronoun is often left out of the sentence.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "én",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "te",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing.",
+        "ő",
+        "he / she",
+        "él / ella"
+      ],
+      [
+        "1st plur.",
+        "mi",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "ti",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "ők",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "The verb lenni (to be)",
+    "description": "The third person uses van for location and state.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "vagyok",
+        "I am",
+        "soy / estoy"
+      ],
+      [
+        "you are",
+        "vagy",
+        "you are",
+        "eres / estás"
+      ],
+      [
+        "he is",
+        "van",
+        "he is",
+        "es / está"
+      ],
+      [
+        "we are",
+        "vagyunk",
+        "we are",
+        "somos / estamos"
+      ],
+      [
+        "they are",
+        "vannak",
+        "they are",
+        "son / están"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Possession with van and nincs",
+    "description": "Hungarian has no verb 'to have'.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "nekem van",
+        "I have",
+        "tengo"
+      ],
+      [
+        "you have",
+        "neked van",
+        "you have",
+        "tienes"
+      ],
+      [
+        "he has",
+        "neki van",
+        "he has",
+        "tiene"
+      ],
+      [
+        "I have no",
+        "nekem nincs",
+        "I have no",
+        "no tengo"
+      ],
+      [
+        "he has no",
+        "neki nincs",
+        "he has no",
+        "no tiene"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "The article",
+    "description": "a is used before consonants, az before vowels.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "before consonant",
+        "a ház",
+        "the house",
+        "la casa"
+      ],
+      [
+        "before vowel",
+        "az ablak",
+        "the window",
+        "la ventana"
+      ],
+      [
+        "indefinite",
+        "egy ház",
+        "a house",
+        "una casa"
+      ],
+      [
+        "indefinite",
+        "egy alma",
+        "an apple",
+        "una manzana"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Plural of nouns",
+    "description": "The plural marker is -k, with a linking vowel.",
+    "columns": [
+      "Type",
+      "Singular",
+      "Plural",
+      "Español"
+    ],
+    "rows": [
+      [
+        "general",
+        "ház",
+        "házak",
+        "casa → casas"
+      ],
+      [
+        "linking vowel",
+        "könyv",
+        "könyvek",
+        "libro → libros"
+      ],
+      [
+        "after ú",
+        "fiú",
+        "fiúk",
+        "chico → chicos"
+      ],
+      [
+        "after consonant",
+        "gyerek",
+        "gyerekek",
+        "niño → niños"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "The accusative (-t)",
+    "description": "The accusative marks the direct object.",
+    "columns": [
+      "Type",
+      "Nominative",
+      "Accusative",
+      "Español"
+    ],
+    "rows": [
+      [
+        "general",
+        "ház",
+        "házat",
+        "casa"
+      ],
+      [
+        "linking vowel",
+        "könyv",
+        "könyvet",
+        "libro"
+      ],
+      [
+        "long vowel",
+        "alma",
+        "almát",
+        "manzana"
+      ],
+      [
+        "after ú",
+        "fiú",
+        "fiút",
+        "chico"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "Adjectives never agree with the noun.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "singular",
+        "nagy ház",
+        "a big house",
+        "una casa grande"
+      ],
+      [
+        "plural",
+        "nagy házak",
+        "big houses",
+        "casas grandes"
+      ],
+      [
+        "before noun",
+        "szép lány",
+        "a beautiful girl",
+        "una chica guapa"
+      ],
+      [
+        "predicate",
+        "A ház nagy.",
+        "The house is big.",
+        "La casa es grande."
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Present tense (indefinite)",
+    "description": "The indefinite conjugation is used with intransitive verbs.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "beszélek",
+        "I speak",
+        "hablo"
+      ],
+      [
+        "you speak",
+        "beszélsz",
+        "you speak",
+        "hablas"
+      ],
+      [
+        "he speaks",
+        "beszél",
+        "he speaks",
+        "habla"
+      ],
+      [
+        "we speak",
+        "beszélünk",
+        "we speak",
+        "hablamos"
+      ],
+      [
+        "they speak",
+        "beszélnek",
+        "they speak",
+        "hablan"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Present tense (definite)",
+    "description": "The definite conjugation is used with a definite object.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I read it",
+        "olvasom",
+        "I read it",
+        "lo leo"
+      ],
+      [
+        "you read it",
+        "olvasod",
+        "you read it",
+        "lo lees"
+      ],
+      [
+        "he reads it",
+        "olvassa",
+        "he reads it",
+        "lo lee"
+      ],
+      [
+        "we read it",
+        "olvassuk",
+        "we read it",
+        "lo leemos"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Negation",
+    "description": "nem stands before the verb; nincs replaces van.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "nem beszélek",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "nem mondok semmit",
+        "I say nothing",
+        "no digo nada"
+      ],
+      [
+        "nobody",
+        "nincs senki",
+        "there is nobody",
+        "no hay nadie"
+      ],
+      [
+        "never",
+        "soha nem",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "mi",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "ki",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "hol",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "mikor",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "miért",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "hogyan",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "The number two has a special form before nouns.",
+    "columns": [
+      "Number",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "egy",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "kettő",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "három",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "négy",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "öt",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "hat",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "hét",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "nyolc",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "kilenc",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "tíz",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "The days are not capitalised.",
+    "columns": [
+      "Day",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "hétfő",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "kedd",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "szerda",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "csütörtök",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "péntek",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "szombat",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "vasárnap",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours are adjectives and never change.",
+    "columns": [
+      "Colour",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "piros",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "kék",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "zöld",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "fekete",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "fehér",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "sárga",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "anya",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "apa",
+        "father",
+        "padre"
+      ],
+      [
+        "older brother",
+        "báty",
+        "older brother",
+        "hermano mayor"
+      ],
+      [
+        "older sister",
+        "nővér",
+        "older sister",
+        "hermana mayor"
+      ],
+      [
+        "son",
+        "fiú",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "lány",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "The inessive and superessive",
+    "description": "The commonest place suffixes.",
+    "columns": [
+      "Case",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inessive",
+        "házban",
+        "in the house",
+        "en la casa"
+      ],
+      [
+        "superessive",
+        "asztalon",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "adessive",
+        "háznál",
+        "at the house",
+        "junto a la casa"
+      ],
+      [
+        "terminative",
+        "házig",
+        "as far as the house",
+        "hasta la casa"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense (indefinite)",
+    "description": "The past tense is marked by -t plus a personal ending.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I went",
+        "mentem",
+        "I went",
+        "fui"
+      ],
+      [
+        "you went",
+        "mentél",
+        "you went",
+        "fuiste"
+      ],
+      [
+        "he went",
+        "ment",
+        "he went",
+        "fue"
+      ],
+      [
+        "we went",
+        "mentünk",
+        "we went",
+        "fuimos"
+      ],
+      [
+        "they went",
+        "mentek",
+        "they went",
+        "fueron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The past tense (definite)",
+    "description": "The definite past is used with a definite object.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I saw it",
+        "láttam",
+        "I saw it",
+        "lo vi"
+      ],
+      [
+        "you saw it",
+        "láttad",
+        "you saw it",
+        "lo viste"
+      ],
+      [
+        "he saw it",
+        "látta",
+        "he saw it",
+        "lo vio"
+      ],
+      [
+        "we saw it",
+        "láttuk",
+        "we saw it",
+        "lo vimos"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The future",
+    "description": "The future uses fog plus the infinitive.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will go",
+        "menni fogok",
+        "I will go",
+        "iré"
+      ],
+      [
+        "you will go",
+        "menni fogsz",
+        "you will go",
+        "irás"
+      ],
+      [
+        "he will go",
+        "menni fog",
+        "he will go",
+        "irá"
+      ],
+      [
+        "we will go",
+        "menni fogunk",
+        "we will go",
+        "iremos"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative gives commands.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "write!",
+        "írj",
+        "write!",
+        "¡escribe!"
+      ],
+      [
+        "close!",
+        "csukd be",
+        "close!",
+        "¡cierra!"
+      ],
+      [
+        "come!",
+        "gyere",
+        "come!",
+        "¡ven!"
+      ],
+      [
+        "wait!",
+        "várj",
+        "wait!",
+        "¡espera!"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "The comparative adds -bb to the adjective.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "nagyobb",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "nagyobb mint",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "jobb",
+        "better",
+        "mejor"
+      ],
+      [
+        "worse",
+        "rosszabb",
+        "worse",
+        "peor"
+      ],
+      [
+        "more",
+        "több",
+        "more",
+        "más"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "The superlative prefixes leg- to the comparative.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "a legnagyobb",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "a legjobb",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the worst",
+        "a legrosszabb",
+        "the worst",
+        "el peor"
+      ],
+      [
+        "very",
+        "nagyon",
+        "very",
+        "muy"
+      ],
+      [
+        "the most",
+        "a legtöbb",
+        "the most",
+        "el más"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Verb prefixes",
+    "description": "Prefixes change the meaning and direction of a verb.",
+    "columns": [
+      "Prefix",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meg-",
+        "megvesz",
+        "to buy (completely)",
+        "comprar"
+      ],
+      [
+        "el-",
+        "elmegy",
+        "to go away",
+        "irse"
+      ],
+      [
+        "be-",
+        "bemegy",
+        "to go in",
+        "entrar"
+      ],
+      [
+        "ki-",
+        "kimegy",
+        "to go out",
+        "salir"
+      ],
+      [
+        "fel-",
+        "felmegy",
+        "to go up",
+        "subir"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Possessive suffixes",
+    "description": "Possession is marked on the noun itself.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my",
+        "házam",
+        "my house",
+        "mi casa"
+      ],
+      [
+        "your",
+        "házad",
+        "your house",
+        "tu casa"
+      ],
+      [
+        "his",
+        "háza",
+        "his house",
+        "su casa"
+      ],
+      [
+        "our",
+        "házunk",
+        "our house",
+        "nuestra casa"
+      ],
+      [
+        "your (pl.)",
+        "házatok",
+        "your house",
+        "vuestra casa"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "mindig",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "gyakran",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "néha",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "ritkán",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "soha",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "The tens are formed with -van or -ven.",
+    "columns": [
+      "Number",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "tizenegy",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "tizenkettő",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "húsz",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "harminc",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "50",
+        "ötven",
+        "fifty",
+        "cincuenta"
+      ],
+      [
+        "100",
+        "száz",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals are formed with -dik.",
+    "columns": [
+      "Ordinal",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "első",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "második",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "harmadik",
+        "third",
+        "tercero"
+      ],
+      [
+        "fourth",
+        "negyedik",
+        "fourth",
+        "cuarto"
+      ],
+      [
+        "last",
+        "utolsó",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "The half hour counts towards the next hour.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "egy óra",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "seven o'clock",
+        "hét óra",
+        "seven o'clock",
+        "las siete"
+      ],
+      [
+        "half past",
+        "fél kilenc",
+        "half past eight",
+        "las ocho y media"
+      ],
+      [
+        "quarter past",
+        "negyed tíz",
+        "quarter past nine",
+        "las nueve y cuarto"
+      ],
+      [
+        "quarter to",
+        "háromnegyed tíz",
+        "quarter to ten",
+        "las diez menos cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Months and seasons",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Word",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "január",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "március",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "június",
+        "June",
+        "junio"
+      ],
+      [
+        "December",
+        "december",
+        "December",
+        "diciembre"
+      ],
+      [
+        "summer",
+        "nyár",
+        "summer",
+        "verano"
+      ],
+      [
+        "winter",
+        "tél",
+        "winter",
+        "invierno"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "The dative (-nak/-nek)",
+    "description": "The dative marks the indirect object.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to the boy",
+        "a fiúnak",
+        "to the boy",
+        "al chico"
+      ],
+      [
+        "to the girl",
+        "a lánynak",
+        "to the girl",
+        "a la chica"
+      ],
+      [
+        "to the woman",
+        "a nőnek",
+        "to the woman",
+        "a la mujer"
+      ],
+      [
+        "to the teacher",
+        "a tanárnak",
+        "to the teacher",
+        "al profesor"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Illative and elative",
+    "description": "Movement into and out of a place.",
+    "columns": [
+      "Case",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "illative",
+        "házba",
+        "into the house",
+        "a la casa"
+      ],
+      [
+        "elative",
+        "házból",
+        "out of the house",
+        "de la casa"
+      ],
+      [
+        "illative",
+        "iskolába",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "elative",
+        "iskolából",
+        "from school",
+        "de la escuela"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Postpositions",
+    "description": "Hungarian uses postpositions instead of prepositions.",
+    "columns": [
+      "Postposition",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "under",
+        "alatt",
+        "under",
+        "debajo de"
+      ],
+      [
+        "above",
+        "fölött",
+        "above",
+        "encima de"
+      ],
+      [
+        "next to",
+        "mellett",
+        "next to",
+        "junto a"
+      ],
+      [
+        "in front of",
+        "előtt",
+        "in front of",
+        "delante de"
+      ],
+      [
+        "behind",
+        "mögött",
+        "behind",
+        "detrás de"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional adds -na/-ne to the verb.",
+    "columns": [
+      "Person",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I would go",
+        "mennék",
+        "I would go",
+        "iría"
+      ],
+      [
+        "you would go",
+        "mennél",
+        "you would go",
+        "irías"
+      ],
+      [
+        "he would go",
+        "menne",
+        "he would go",
+        "iría"
+      ],
+      [
+        "we would go",
+        "mennénk",
+        "we would go",
+        "iríamos"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The subjunctive",
+    "description": "hogy introduces a wish, need or purpose.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I want you to go",
+        "azt akarom, hogy menj",
+        "I want you to go",
+        "quiero que vayas"
+      ],
+      [
+        "it is important",
+        "fontos, hogy beszélj",
+        "it is important that you speak",
+        "es importante que hables"
+      ],
+      [
+        "I hope",
+        "remélem, hogy jön",
+        "I hope he comes",
+        "espero que venga"
+      ],
+      [
+        "better",
+        "jobb lenne, ha menne",
+        "it would be better if he went",
+        "sería mejor que fuera"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "past participle",
+        "megírt levél",
+        "written letter",
+        "carta escrita"
+      ],
+      [
+        "present participle",
+        "író ember",
+        "writing person",
+        "persona que escribe"
+      ],
+      [
+        "adjectival",
+        "fáradt",
+        "tired",
+        "cansado"
+      ],
+      [
+        "adjectival",
+        "zárt",
+        "closed",
+        "cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "Relative pronouns agree with the antecedent.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who (person)",
+        "aki",
+        "who",
+        "quien"
+      ],
+      [
+        "which (thing)",
+        "ami",
+        "which",
+        "lo que"
+      ],
+      [
+        "which (specific)",
+        "amely",
+        "which",
+        "el cual"
+      ],
+      [
+        "whose",
+        "akinek",
+        "whose",
+        "cuyo"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "hogy introduces a reported clause.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "hogy",
+        "that",
+        "que"
+      ],
+      [
+        "where",
+        "hol",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "mikor",
+        "when",
+        "cuándo"
+      ],
+      [
+        "whether",
+        "vajon",
+        "whether",
+        "si"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbs become nouns ending in -ás or -és.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "olvasás",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "tanulás",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "walking",
+        "sétálás",
+        "walking",
+        "caminata"
+      ],
+      [
+        "work",
+        "munka",
+        "work",
+        "trabajo"
+      ],
+      [
+        "writing",
+        "írás",
+        "writing",
+        "escritura"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb plus case suffix",
+    "description": "Many verbs take a fixed case suffix.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait for",
+        "várni valakire",
+        "to wait for",
+        "esperar a"
+      ],
+      [
+        "take care of",
+        "vigyázni valamire",
+        "to take care of",
+        "cuidar de"
+      ],
+      [
+        "depend on",
+        "függeni valamitől",
+        "to depend on",
+        "depender de"
+      ],
+      [
+        "answer",
+        "válaszolni valamire",
+        "to answer",
+        "responder a"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order and focus",
+    "description": "The focused element stands before the verb.",
+    "columns": [
+      "Type",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "neutral",
+        "Olvasok egy könyvet.",
+        "I read a book.",
+        "Leo un libro."
+      ],
+      [
+        "focus",
+        "Egy könyvet olvasok.",
+        "It is a book that I read.",
+        "Lo que leo es un libro."
+      ],
+      [
+        "question",
+        "Mit olvasol?",
+        "What are you reading?",
+        "¿Qué lees?"
+      ],
+      [
+        "negation",
+        "Nem olvasok.",
+        "I do not read.",
+        "No leo."
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "and",
+        "és",
+        "and",
+        "y"
+      ],
+      [
+        "but",
+        "de",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "mert",
+        "because",
+        "porque"
+      ],
+      [
+        "so",
+        "ezért",
+        "so",
+        "por eso"
+      ],
+      [
+        "although",
+        "bár",
+        "although",
+        "aunque"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "kezelés",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "tünet",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "recept",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "vakcina",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "biztosítás",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "találkozó",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "szerződés",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "fizetés",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kolléga",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "határidő",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "iskola",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "egyetem",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "vizsga",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "tudás",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "készség",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "érkezés",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "kutatás",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "együttműködés",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "termelés",
+        "production",
+        "producción"
+      ],
+      [
+        "analysis",
+        "elemzés",
+        "analysis",
+        "análisis"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "módszertan",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "korreláció",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "változó",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "tapasztalati",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "mennyiségi",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "infláció",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "csőd",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "támogatás",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "bevétel",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "befektetés",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "alkotmány",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlament",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "ítélet",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "felperes",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "vádlott",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "etika",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "erkölcs",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "őszinteség",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "felelősség",
+        "responsibility",
+        "responsabilidad"
+      ],
+      [
+        "virtue",
+        "erény",
+        "virtue",
+        "virtud"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "tudat",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "létezés",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identitás",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradoxon",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilemma",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnózis",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "terápia",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "krónikus",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "fertőzés",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "immunis",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekula",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atom",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "gravitáció",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "sejt",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "kísérlet",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Hungarian.",
+    "columns": [
+      "Connector",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "sőt",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "azonban",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "ezért",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "először is",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "mindazonáltal",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "döntést hozni",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "figyelmet felhívni",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "szerepet játszani",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "következtetést levonni",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "sokáig tartani",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "javítani",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "újrahasznosítani",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "szén-dioxid-kibocsátás",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "fenntartható",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Hungarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retorika",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskurzus",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "kétértelműség",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "konszenzus",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "érv",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ diák vagyok.",
+        "answer": "Én",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ tanár vagy.",
+        "answer": "Te",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "___ orvos.",
+        "answer": "Ő",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "___ barátok vagyunk.",
+        "answer": "Mi",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to be' into each gap.",
+    "items": [
+      {
+        "sentence": "Én diák ___.",
+        "answer": "vagyok",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "Te tanár ___.",
+        "answer": "vagy",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "Mi barátok ___.",
+        "answer": "vagyunk",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      },
+      {
+        "sentence": "Ti diákok ___.",
+        "answer": "vagtok",
+        "translation_en": "You all are students.",
+        "translation_es": "Vosotros sois estudiantes."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct accusative form into each gap.",
+    "items": [
+      {
+        "sentence": "Ez a ház. Látom a ___.",
+        "answer": "házat",
+        "translation_en": "This is the house. I see the house.",
+        "translation_es": "Esta es la casa. Veo la casa."
+      },
+      {
+        "sentence": "Ez a könyv. Olvasom a ___.",
+        "answer": "könyvet",
+        "translation_en": "This is the book. I read the book.",
+        "translation_es": "Este es el libro. Leo el libro."
+      },
+      {
+        "sentence": "Ez az alma. Eszem az ___.",
+        "answer": "almát",
+        "translation_en": "This is the apple. I eat the apple.",
+        "translation_es": "Esta es la manzana. Como la manzana."
+      },
+      {
+        "sentence": "Ez a fiú. Látom a ___.",
+        "answer": "fiút",
+        "translation_en": "This is the boy. I see the boy.",
+        "translation_es": "Este es el chico. Veo al chico."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct case suffix into each gap.",
+    "items": [
+      {
+        "sentence": "A ház___ vagyok.",
+        "answer": "ban",
+        "translation_en": "I am in the house.",
+        "translation_es": "Estoy en la casa."
+      },
+      {
+        "sentence": "Az asztal___ van a könyv.",
+        "answer": "on",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Az iskolá___ megyek.",
+        "answer": "ba",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "A ház___ jövök.",
+        "answer": "ból",
+        "translation_en": "I come from the house.",
+        "translation_es": "Vengo de la casa."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct plural form into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ az asztalon vannak.",
+        "answer": "könyvek",
+        "translation_en": "The books are on the table.",
+        "translation_es": "Los libros están sobre la mesa."
+      },
+      {
+        "sentence": "A ___ az udvaron játszanak.",
+        "answer": "gyerekek",
+        "translation_en": "The children play in the yard.",
+        "translation_es": "Los niños juegan en el patio."
+      },
+      {
+        "sentence": "Az ___ pirosak.",
+        "answer": "almák",
+        "translation_en": "The apples are red.",
+        "translation_es": "Las manzanas son rojas."
+      },
+      {
+        "sentence": "A ___ magasak.",
+        "answer": "házak",
+        "translation_en": "The houses are tall.",
+        "translation_es": "Las casas son altas."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "Három + négy = ___.",
+        "answer": "hét",
+        "translation_en": "Three plus four is seven.",
+        "translation_es": "Tres más cuatro son siete."
+      },
+      {
+        "sentence": "Öt + öt = ___.",
+        "answer": "tíz",
+        "translation_en": "Five plus five is ten.",
+        "translation_es": "Cinco más cinco son diez."
+      },
+      {
+        "sentence": "Kettő + kettő = ___.",
+        "answer": "négy",
+        "translation_en": "Two plus two is four.",
+        "translation_es": "Dos más dos son cuatro."
+      },
+      {
+        "sentence": "Hat + három = ___.",
+        "answer": "kilenc",
+        "translation_en": "Six plus three is nine.",
+        "translation_es": "Seis más tres son nueve."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct adjective into each gap.",
+    "items": [
+      {
+        "sentence": "Egy ___ ház.",
+        "answer": "nagy",
+        "translation_en": "A big house.",
+        "translation_es": "Una casa grande."
+      },
+      {
+        "sentence": "Egy ___ könyv.",
+        "answer": "jó",
+        "translation_en": "A good book.",
+        "translation_es": "Un buen libro."
+      },
+      {
+        "sentence": "Egy ___ alma.",
+        "answer": "piros",
+        "translation_en": "A red apple.",
+        "translation_es": "Una manzana roja."
+      },
+      {
+        "sentence": "Egy ___ lány.",
+        "answer": "szép",
+        "translation_en": "A beautiful girl.",
+        "translation_es": "Una chica guapa."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense form of 'to speak' into each gap.",
+    "items": [
+      {
+        "sentence": "Én magyarul ___.",
+        "answer": "beszélek",
+        "translation_en": "I speak Hungarian.",
+        "translation_es": "Hablo húngaro."
+      },
+      {
+        "sentence": "Te angolul ___.",
+        "answer": "beszélsz",
+        "translation_en": "You speak English.",
+        "translation_es": "Hablas inglés."
+      },
+      {
+        "sentence": "Ő németül ___.",
+        "answer": "beszél",
+        "translation_en": "He speaks German.",
+        "translation_es": "Él habla alemán."
+      },
+      {
+        "sentence": "Mi együtt ___.",
+        "answer": "beszélünk",
+        "translation_en": "We speak together.",
+        "translation_es": "Hablamos juntos."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "Én ___ beszélek magyarul.",
+        "answer": "nem",
+        "translation_en": "I do not speak Hungarian.",
+        "translation_es": "No hablo húngaro."
+      },
+      {
+        "sentence": "Nincs ___ a házban.",
+        "answer": "senki",
+        "translation_en": "There is nobody in the house.",
+        "translation_es": "No hay nadie en la casa."
+      },
+      {
+        "sentence": "Nem mondok ___.",
+        "answer": "semmit",
+        "translation_en": "I say nothing.",
+        "translation_es": "No digo nada."
+      },
+      {
+        "sentence": "___ nem kések.",
+        "answer": "Soha",
+        "translation_en": "I never arrive late.",
+        "translation_es": "Nunca llego tarde."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ hívnak?",
+        "answer": "Hogy",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ laksz?",
+        "answer": "Hol",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ jössz?",
+        "answer": "Mikor",
+        "translation_en": "When are you coming?",
+        "translation_es": "¿Cuándo vienes?"
+      },
+      {
+        "sentence": "___ ez?",
+        "answer": "Ki",
+        "translation_en": "Who is this?",
+        "translation_es": "¿Quién es este?"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "Hétfő után ___ jön.",
+        "answer": "kedd",
+        "translation_en": "After Monday comes Tuesday.",
+        "translation_es": "Después del lunes viene el martes."
+      },
+      {
+        "sentence": "Szerda után ___ jön.",
+        "answer": "csütörtök",
+        "translation_en": "After Wednesday comes Thursday.",
+        "translation_es": "Después del miércoles viene el jueves."
+      },
+      {
+        "sentence": "Péntek után ___ jön.",
+        "answer": "szombat",
+        "translation_en": "After Friday comes Saturday.",
+        "translation_es": "Después del viernes viene el sábado."
+      },
+      {
+        "sentence": "Szombat után ___ jön.",
+        "answer": "vasárnap",
+        "translation_en": "After Saturday comes Sunday.",
+        "translation_es": "Después del sábado viene el domingo."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "A hó ___.",
+        "answer": "fehér",
+        "translation_en": "Snow is white.",
+        "translation_es": "La nieve es blanca."
+      },
+      {
+        "sentence": "A fű ___.",
+        "answer": "zöld",
+        "translation_en": "Grass is green.",
+        "translation_es": "La hierba es verde."
+      },
+      {
+        "sentence": "Az ég ___.",
+        "answer": "kék",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "A vér ___.",
+        "answer": "piros",
+        "translation_en": "Blood is red.",
+        "translation_es": "La sangre es roja."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "___ neve Anna.",
+        "answer": "Anyám",
+        "translation_en": "My mother's name is Anna.",
+        "translation_es": "Mi madre se llama Anna."
+      },
+      {
+        "sentence": "___ neve János.",
+        "answer": "Apám",
+        "translation_en": "My father's name is János.",
+        "translation_es": "Mi padre se llama János."
+      },
+      {
+        "sentence": "___ a barátom.",
+        "answer": "A bátyám",
+        "translation_en": "My older brother is my friend.",
+        "translation_es": "Mi hermano mayor es mi amigo."
+      },
+      {
+        "sentence": "___ fiatalabb nálam.",
+        "answer": "A húgom",
+        "translation_en": "My younger sister is younger than me.",
+        "translation_es": "Mi hermana menor es menor que yo."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct possessive suffix into each gap.",
+    "items": [
+      {
+        "sentence": "Ez az én könyv___.",
+        "answer": "em",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "Ez a te könyv___.",
+        "answer": "ed",
+        "translation_en": "This is your book.",
+        "translation_es": "Este es tu libro."
+      },
+      {
+        "sentence": "Ez az ő könyv___.",
+        "answer": "e",
+        "translation_en": "This is his book.",
+        "translation_es": "Este es su libro."
+      },
+      {
+        "sentence": "Ez a mi könyv___.",
+        "answer": "ünk",
+        "translation_en": "This is our book.",
+        "translation_es": "Este es nuestro libro."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct postposition into each gap.",
+    "items": [
+      {
+        "sentence": "A könyv az asztal ___ van.",
+        "answer": "alatt",
+        "translation_en": "The book is under the table.",
+        "translation_es": "El libro está bajo la mesa."
+      },
+      {
+        "sentence": "A lámpa az asztal ___ van.",
+        "answer": "fölött",
+        "translation_en": "The lamp is above the table.",
+        "translation_es": "La lámpara está sobre la mesa."
+      },
+      {
+        "sentence": "A szék az asztal ___ van.",
+        "answer": "mellett",
+        "translation_en": "The chair is next to the table.",
+        "translation_es": "La silla está junto a la mesa."
+      },
+      {
+        "sentence": "A ház a fák ___ van.",
+        "answer": "előtt",
+        "translation_en": "The house is in front of the trees.",
+        "translation_es": "La casa está delante de los árboles."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to go' into each gap.",
+    "items": [
+      {
+        "sentence": "Én a boltba ___.",
+        "answer": "megyek",
+        "translation_en": "I go to the shop.",
+        "translation_es": "Voy a la tienda."
+      },
+      {
+        "sentence": "Te a boltba ___.",
+        "answer": "mész",
+        "translation_en": "You go to the shop.",
+        "translation_es": "Vas a la tienda."
+      },
+      {
+        "sentence": "Ő a boltba ___.",
+        "answer": "megy",
+        "translation_en": "He goes to the shop.",
+        "translation_es": "Él va a la tienda."
+      },
+      {
+        "sentence": "Mi a boltba ___.",
+        "answer": "megyünk",
+        "translation_en": "We go to the shop.",
+        "translation_es": "Vamos a la tienda."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to live' into each gap.",
+    "items": [
+      {
+        "sentence": "Én Budapesten ___.",
+        "answer": "lakom",
+        "translation_en": "I live in Budapest.",
+        "translation_es": "Vivo en Budapest."
+      },
+      {
+        "sentence": "Te Budapesten ___.",
+        "answer": "laksz",
+        "translation_en": "You live in Budapest.",
+        "translation_es": "Vives en Budapest."
+      },
+      {
+        "sentence": "Ő Budapesten ___.",
+        "answer": "lakik",
+        "translation_en": "He lives in Budapest.",
+        "translation_es": "Él vive en Budapest."
+      },
+      {
+        "sentence": "Mi Budapesten ___.",
+        "answer": "lakunk",
+        "translation_en": "We live in Budapest.",
+        "translation_es": "Vivimos en Budapest."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct form with the right case suffix into each gap.",
+    "items": [
+      {
+        "sentence": "Bemegyek a ___.",
+        "answer": "házba",
+        "translation_en": "I go into the house.",
+        "translation_es": "Entro en la casa."
+      },
+      {
+        "sentence": "Kijövök a ___.",
+        "answer": "házból",
+        "translation_en": "I come out of the house.",
+        "translation_es": "Salgo de la casa."
+      },
+      {
+        "sentence": "Elmegyek az ___.",
+        "answer": "iskolába",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Hazajövök az ___.",
+        "answer": "iskolából",
+        "translation_en": "I come home from school.",
+        "translation_es": "Vuelvo a casa de la escuela."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct object pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ lát. (engem)",
+        "answer": "Engem",
+        "translation_en": "He sees me.",
+        "translation_es": "Él me ve."
+      },
+      {
+        "sentence": "___ lát. (téged)",
+        "answer": "Téged",
+        "translation_en": "He sees you.",
+        "translation_es": "Él te ve."
+      },
+      {
+        "sentence": "___ lát. (minket)",
+        "answer": "Minket",
+        "translation_en": "He sees us.",
+        "translation_es": "Él nos ve."
+      },
+      {
+        "sentence": "___ lát. (titeket)",
+        "answer": "Titeket",
+        "translation_en": "He sees you all.",
+        "translation_es": "Él os ve."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "Menj ___.",
+        "answer": "egyenesen",
+        "translation_en": "Go straight ahead.",
+        "translation_es": "Ve todo recto."
+      },
+      {
+        "sentence": "Fordulj ___.",
+        "answer": "balra",
+        "translation_en": "Turn left.",
+        "translation_es": "Gira a la izquierda."
+      },
+      {
+        "sentence": "A bolt ___ van.",
+        "answer": "jobbra",
+        "translation_en": "The shop is on the right.",
+        "translation_es": "La tienda está a la derecha."
+      },
+      {
+        "sentence": "Menj ___.",
+        "answer": "vissza",
+        "translation_en": "Go back.",
+        "translation_es": "Vuelve atrás."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct past-tense form into each gap.",
+    "items": [
+      {
+        "sentence": "Tegnap haza___.",
+        "answer": "mentem",
+        "translation_en": "Yesterday I went home.",
+        "translation_es": "Ayer fui a casa."
+      },
+      {
+        "sentence": "Tavaly Magyarországra ___.",
+        "answer": "utaztam",
+        "translation_en": "Last year I travelled to Hungary.",
+        "translation_es": "El año pasado viajé a Hungría."
+      },
+      {
+        "sentence": "Tegnap este ___.",
+        "answer": "olvastam",
+        "translation_en": "Last night I read.",
+        "translation_es": "Anoche leí."
+      },
+      {
+        "sentence": "Tegnap sokat ___.",
+        "answer": "dolgoztam",
+        "translation_en": "Yesterday I worked a lot.",
+        "translation_es": "Ayer trabajé mucho."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct past definite form into each gap.",
+    "items": [
+      {
+        "sentence": "Tegnap ___ a filmet.",
+        "answer": "láttam",
+        "translation_en": "Yesterday I saw the film.",
+        "translation_es": "Ayer vi la película."
+      },
+      {
+        "sentence": "Tegnap ___ a levelet.",
+        "answer": "írtam",
+        "translation_en": "Yesterday I wrote the letter.",
+        "translation_es": "Ayer escribí la carta."
+      },
+      {
+        "sentence": "Tegnap ___ a kenyeret.",
+        "answer": "megvettem",
+        "translation_en": "Yesterday I bought the bread.",
+        "translation_es": "Ayer compré el pan."
+      },
+      {
+        "sentence": "Tegnap ___ a levest.",
+        "answer": "megfőztem",
+        "translation_en": "Yesterday I cooked the soup.",
+        "translation_es": "Ayer cociné la sopa."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct future form into each gap.",
+    "items": [
+      {
+        "sentence": "Holnap ___ dolgozni.",
+        "answer": "fogok",
+        "translation_en": "Tomorrow I will work.",
+        "translation_es": "Mañana trabajaré."
+      },
+      {
+        "sentence": "Jövő héten ___ utazni.",
+        "answer": "fogunk",
+        "translation_en": "Next week we will travel.",
+        "translation_es": "La semana que viene viajaremos."
+      },
+      {
+        "sentence": "Este ___ tévét nézni.",
+        "answer": "fog",
+        "translation_en": "Tonight he will watch TV.",
+        "translation_es": "Esta noche verá la tele."
+      },
+      {
+        "sentence": "Jövő hónapban ___ költözni.",
+        "answer": "fogtok",
+        "translation_en": "Next month you all will move.",
+        "translation_es": "El mes que viene os mudaréis."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct imperative into each gap.",
+    "items": [
+      {
+        "sentence": "___ meg a levelet!",
+        "answer": "Írd",
+        "translation_en": "Write the letter!",
+        "translation_es": "¡Escribe la carta!"
+      },
+      {
+        "sentence": "___ be az ajtót!",
+        "answer": "Csukd",
+        "translation_en": "Close the door!",
+        "translation_es": "¡Cierra la puerta!"
+      },
+      {
+        "sentence": "___ el a könyvet!",
+        "answer": "Olvasd",
+        "translation_en": "Read the book!",
+        "translation_es": "¡Lee el libro!"
+      },
+      {
+        "sentence": "___ ide!",
+        "answer": "Gyere",
+        "translation_en": "Come here!",
+        "translation_es": "¡Ven aquí!"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "János ___ mint Péter.",
+        "answer": "magasabb",
+        "translation_en": "János is taller than Péter.",
+        "translation_es": "János es más alto que Péter."
+      },
+      {
+        "sentence": "A ház ___ mint a lakás.",
+        "answer": "nagyobb",
+        "translation_en": "The house is bigger than the flat.",
+        "translation_es": "La casa es más grande que el piso."
+      },
+      {
+        "sentence": "Ez a könyv ___ mint az.",
+        "answer": "érdekesebb",
+        "translation_en": "This book is more interesting than that one.",
+        "translation_es": "Este libro es más interesante que aquel."
+      },
+      {
+        "sentence": "A tenger ___ mint a tó.",
+        "answer": "mélyebb",
+        "translation_en": "The sea is deeper than the lake.",
+        "translation_es": "El mar es más profundo que el lago."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct superlative into each gap.",
+    "items": [
+      {
+        "sentence": "Ő a ___ diák az osztályban.",
+        "answer": "legjobb",
+        "translation_en": "He is the best student in the class.",
+        "translation_es": "Es el mejor estudiante de la clase."
+      },
+      {
+        "sentence": "Ez a ___ épület a városban.",
+        "answer": "legmagasabb",
+        "translation_en": "This is the tallest building in the city.",
+        "translation_es": "Es el edificio más alto de la ciudad."
+      },
+      {
+        "sentence": "Ez a ___ film, amit láttam.",
+        "answer": "legszebb",
+        "translation_en": "This is the nicest film I have seen.",
+        "translation_es": "Es la película más bonita que he visto."
+      },
+      {
+        "sentence": "Ez a világ ___ étele.",
+        "answer": "legfinomabb",
+        "translation_en": "This is the tastiest food in the world.",
+        "translation_es": "Es la comida más rica del mundo."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct definite conjugation into each gap.",
+    "items": [
+      {
+        "sentence": "___ a könyvet.",
+        "answer": "Olvasom",
+        "translation_en": "I am reading the book.",
+        "translation_es": "Estoy leyendo el libro."
+      },
+      {
+        "sentence": "___ a filmet.",
+        "answer": "Nézed",
+        "translation_en": "You are watching the film.",
+        "translation_es": "Estás viendo la película."
+      },
+      {
+        "sentence": "___ a levest.",
+        "answer": "Főzi",
+        "translation_en": "He is cooking the soup.",
+        "translation_es": "Él está cocinando la sopa."
+      },
+      {
+        "sentence": "___ a házat.",
+        "answer": "Építjük",
+        "translation_en": "We are building the house.",
+        "translation_es": "Estamos construyendo la casa."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct verb with a prefix into each gap.",
+    "items": [
+      {
+        "sentence": "___ a házba.",
+        "answer": "Bemegyek",
+        "translation_en": "I go into the house.",
+        "translation_es": "Entro en la casa."
+      },
+      {
+        "sentence": "___ a házból.",
+        "answer": "Kimegyek",
+        "translation_en": "I go out of the house.",
+        "translation_es": "Salgo de la casa."
+      },
+      {
+        "sentence": "___ a lépcsőn.",
+        "answer": "Felmegyek",
+        "translation_en": "I go up the stairs.",
+        "translation_es": "Subo las escaleras."
+      },
+      {
+        "sentence": "___ a könyvet.",
+        "answer": "Megveszem",
+        "translation_en": "I buy the book.",
+        "translation_es": "Compro el libro."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct adverb of frequency into each gap.",
+    "items": [
+      {
+        "sentence": "___ járok edzőterembe.",
+        "answer": "Mindig",
+        "translation_en": "I always go to the gym.",
+        "translation_es": "Siempre voy al gimnasio."
+      },
+      {
+        "sentence": "___ kések el.",
+        "answer": "Soha",
+        "translation_en": "I never arrive late.",
+        "translation_es": "Nunca llego tarde."
+      },
+      {
+        "sentence": "___ olvasok elalvás előtt.",
+        "answer": "Néha",
+        "translation_en": "Sometimes I read before sleeping.",
+        "translation_es": "A veces leo antes de dormir."
+      },
+      {
+        "sentence": "___ iszom kávét reggel.",
+        "answer": "Gyakran",
+        "translation_en": "I often drink coffee in the morning.",
+        "translation_es": "A menudo tomo café por la mañana."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "tizenegy + kilenc = ___",
+        "answer": "húsz",
+        "translation_en": "Eleven plus nine is twenty.",
+        "translation_es": "Once más nueve son veinte."
+      },
+      {
+        "sentence": "huszonöt + huszonöt = ___",
+        "answer": "ötven",
+        "translation_en": "Twenty-five plus twenty-five is fifty.",
+        "translation_es": "Veinticinco más veinticinco son cincuenta."
+      },
+      {
+        "sentence": "ötven + ötven = ___",
+        "answer": "száz",
+        "translation_en": "Fifty plus fifty is one hundred.",
+        "translation_es": "Cincuenta más cincuenta son cien."
+      },
+      {
+        "sentence": "tíz + egy = ___",
+        "answer": "tizenegy",
+        "translation_en": "Ten plus one is eleven.",
+        "translation_es": "Diez más uno son once."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal into each gap.",
+    "items": [
+      {
+        "sentence": "Az ___ hónap a január.",
+        "answer": "első",
+        "translation_en": "The first month is January.",
+        "translation_es": "El primer mes es enero."
+      },
+      {
+        "sentence": "A ___ hónap a február.",
+        "answer": "második",
+        "translation_en": "The second month is February.",
+        "translation_es": "El segundo mes es febrero."
+      },
+      {
+        "sentence": "A ___ hónap a március.",
+        "answer": "harmadik",
+        "translation_en": "The third month is March.",
+        "translation_es": "El tercer mes es marzo."
+      },
+      {
+        "sentence": "Az ___ hónap a december.",
+        "answer": "utolsó",
+        "translation_en": "The last month is December.",
+        "translation_es": "El último mes es diciembre."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct time expression into each gap.",
+    "items": [
+      {
+        "sentence": "Hány óra van? ___ van.",
+        "answer": "Egy óra",
+        "translation_en": "It is one o'clock.",
+        "translation_es": "Es la una."
+      },
+      {
+        "sentence": "___ van. (7:00)",
+        "answer": "Hét óra",
+        "translation_en": "It is seven o'clock.",
+        "translation_es": "Son las siete."
+      },
+      {
+        "sentence": "___ van. (8:30)",
+        "answer": "Fél kilenc",
+        "translation_en": "It is half past eight.",
+        "translation_es": "Son las ocho y media."
+      },
+      {
+        "sentence": "___ van. (9:15)",
+        "answer": "Negyed tíz",
+        "translation_en": "It is a quarter past nine.",
+        "translation_es": "Son las nueve y cuarto."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct month into each gap.",
+    "items": [
+      {
+        "sentence": "Az év első hónapja a ___.",
+        "answer": "január",
+        "translation_en": "The first month of the year is January.",
+        "translation_es": "El primer mes del año es enero."
+      },
+      {
+        "sentence": "A harmadik hónap a ___.",
+        "answer": "március",
+        "translation_en": "The third month is March.",
+        "translation_es": "El tercer mes es marzo."
+      },
+      {
+        "sentence": "A hatodik hónap a ___.",
+        "answer": "június",
+        "translation_en": "The sixth month is June.",
+        "translation_es": "El sexto mes es junio."
+      },
+      {
+        "sentence": "Az utolsó hónap a ___.",
+        "answer": "december",
+        "translation_en": "The last month is December.",
+        "translation_es": "El último mes es diciembre."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct weather word into each gap.",
+    "items": [
+      {
+        "sentence": "Ma ___. (it is raining)",
+        "answer": "esik",
+        "translation_en": "Today it is raining.",
+        "translation_es": "Hoy llueve."
+      },
+      {
+        "sentence": "Ma ___. (it is snowing)",
+        "answer": "havazik",
+        "translation_en": "Today it is snowing.",
+        "translation_es": "Hoy nieva."
+      },
+      {
+        "sentence": "Ma ___ van. (it is hot)",
+        "answer": "meleg",
+        "translation_en": "Today it is hot.",
+        "translation_es": "Hoy hace calor."
+      },
+      {
+        "sentence": "Ma ___ van. (it is cold)",
+        "answer": "hideg",
+        "translation_en": "Today it is cold.",
+        "translation_es": "Hoy hace frío."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct transport word into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ repül az égen.",
+        "answer": "repülőgép",
+        "translation_en": "The plane flies in the sky.",
+        "translation_es": "El avión vuela en el cielo."
+      },
+      {
+        "sentence": "A ___ a tengeren utazik.",
+        "answer": "hajó",
+        "translation_en": "The ship travels on the sea.",
+        "translation_es": "El barco viaja por el mar."
+      },
+      {
+        "sentence": "A ___ két kerekű.",
+        "answer": "kerékpár",
+        "translation_en": "The bicycle has two wheels.",
+        "translation_es": "La bicicleta tiene dos ruedas."
+      },
+      {
+        "sentence": "Busszal megyek a ___.",
+        "answer": "munkába",
+        "translation_en": "I go to work by bus.",
+        "translation_es": "Voy al trabajo en autobús."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct illative form into each gap.",
+    "items": [
+      {
+        "sentence": "Bemegyek a ___.",
+        "answer": "házba",
+        "translation_en": "I go into the house.",
+        "translation_es": "Entro en la casa."
+      },
+      {
+        "sentence": "Elmegyek az ___.",
+        "answer": "iskolába",
+        "translation_en": "I go to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Bevásárolok a ___.",
+        "answer": "boltba",
+        "translation_en": "I shop at the shop.",
+        "translation_es": "Compro en la tienda."
+      },
+      {
+        "sentence": "Kimegyek a ___.",
+        "answer": "kertbe",
+        "translation_en": "I go out into the garden.",
+        "translation_es": "Salgo al jardín."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct elative form into each gap.",
+    "items": [
+      {
+        "sentence": "Kijövök a ___.",
+        "answer": "házból",
+        "translation_en": "I come out of the house.",
+        "translation_es": "Salgo de la casa."
+      },
+      {
+        "sentence": "Hazajövök az ___.",
+        "answer": "iskolából",
+        "translation_en": "I come home from school.",
+        "translation_es": "Vuelvo a casa de la escuela."
+      },
+      {
+        "sentence": "Megjövök a ___.",
+        "answer": "boltból",
+        "translation_en": "I come from the shop.",
+        "translation_es": "Vengo de la tienda."
+      },
+      {
+        "sentence": "Eljövök a ___.",
+        "answer": "kertből",
+        "translation_en": "I come from the garden.",
+        "translation_es": "Vengo del jardín."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct allative form into each gap.",
+    "items": [
+      {
+        "sentence": "Megyek az ___.",
+        "answer": "orvoshoz",
+        "translation_en": "I go to the doctor.",
+        "translation_es": "Voy al médico."
+      },
+      {
+        "sentence": "Szaladok a ___.",
+        "answer": "baráthoz",
+        "translation_en": "I run to the friend.",
+        "translation_es": "Corro hacia el amigo."
+      },
+      {
+        "sentence": "Megyek a ___.",
+        "answer": "tanárhoz",
+        "translation_en": "I go to the teacher.",
+        "translation_es": "Voy al profesor."
+      },
+      {
+        "sentence": "Fordulok a ___.",
+        "answer": "nőhöz",
+        "translation_en": "I turn to the woman.",
+        "translation_es": "Me dirijo a la mujer."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct instrumental form into each gap.",
+    "items": [
+      {
+        "sentence": "___ utazom.",
+        "answer": "Busszal",
+        "translation_en": "I travel by bus.",
+        "translation_es": "Viajo en autobús."
+      },
+      {
+        "sentence": "___ írok.",
+        "answer": "Tollal",
+        "translation_en": "I write with a pen.",
+        "translation_es": "Escribo con bolígrafo."
+      },
+      {
+        "sentence": "___ eszem.",
+        "answer": "Késsel",
+        "translation_en": "I eat with a knife.",
+        "translation_es": "Como con cuchillo."
+      },
+      {
+        "sentence": "___ játszom.",
+        "answer": "Labdával",
+        "translation_en": "I play with a ball.",
+        "translation_es": "Juego con una pelota."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "Mennyibe ___ ez?",
+        "answer": "kerül",
+        "translation_en": "How much does this cost?",
+        "translation_es": "¿Cuánto cuesta esto?"
+      },
+      {
+        "sentence": "___ fizetni kártyával.",
+        "answer": "Szeretnék",
+        "translation_en": "I would like to pay by card.",
+        "translation_es": "Quiero pagar con tarjeta."
+      },
+      {
+        "sentence": "Van ___?",
+        "answer": "kedvezmény",
+        "translation_en": "Do you have a discount?",
+        "translation_es": "¿Tienen descuento?"
+      },
+      {
+        "sentence": "Hol van a ___?",
+        "answer": "pénztár",
+        "translation_en": "Where is the checkout?",
+        "translation_es": "¿Dónde está la caja?"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Ha lenne időm, ___ a tengerpartra.",
+        "answer": "mennék",
+        "translation_en": "If I had time, I would go to the beach.",
+        "translation_es": "Si tuviera tiempo, iría a la playa."
+      },
+      {
+        "sentence": "Ha gazdag lennék, ___ egy házat.",
+        "answer": "vennék",
+        "translation_en": "If I were rich, I would buy a house.",
+        "translation_es": "Si fuera rico, compraría una casa."
+      },
+      {
+        "sentence": "Ha tudnék, most ___.",
+        "answer": "jönnék",
+        "translation_en": "If I could, I would come now.",
+        "translation_es": "Si pudiera, vendría ahora."
+      },
+      {
+        "sentence": "Ha tudnád, ___ nekem.",
+        "answer": "mondanád",
+        "translation_en": "If you knew, you would tell me.",
+        "translation_es": "Si lo supieras, me lo dirías."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct subjunctive form into each gap.",
+    "items": [
+      {
+        "sentence": "Azt akarom, hogy ___ haza.",
+        "answer": "menj",
+        "translation_en": "I want you to go home.",
+        "translation_es": "Quiero que vayas a casa."
+      },
+      {
+        "sentence": "Fontos, hogy ___ magyarul.",
+        "answer": "beszélj",
+        "translation_en": "It is important that you speak Hungarian.",
+        "translation_es": "Es importante que hables húngaro."
+      },
+      {
+        "sentence": "Kívánom, hogy ne ___ az eső.",
+        "answer": "essen",
+        "translation_en": "I wish it would not rain.",
+        "translation_es": "Deseo que no llueva."
+      },
+      {
+        "sentence": "Jobb lenne, ha most ___.",
+        "answer": "menne",
+        "translation_en": "It would be better if he left now.",
+        "translation_es": "Sería mejor que se fuera ahora."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct passive-like form into each gap.",
+    "items": [
+      {
+        "sentence": "A ház 1950-ben ___.",
+        "answer": "épült",
+        "translation_en": "The house was built in 1950.",
+        "translation_es": "La casa fue construida en 1950."
+      },
+      {
+        "sentence": "A levél tegnap ___.",
+        "answer": "megíródott",
+        "translation_en": "The letter was written yesterday.",
+        "translation_es": "La carta fue escrita ayer."
+      },
+      {
+        "sentence": "A bolt ma ___.",
+        "answer": "kinyílt",
+        "translation_en": "The shop was opened today.",
+        "translation_es": "La tienda fue abierta hoy."
+      },
+      {
+        "sentence": "A probléma ___.",
+        "answer": "megoldódott",
+        "translation_en": "The problem was solved.",
+        "translation_es": "El problema fue resuelto."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ levél az asztalon van.",
+        "answer": "megírt",
+        "translation_en": "The written letter is on the table.",
+        "translation_es": "La carta escrita está sobre la mesa."
+      },
+      {
+        "sentence": "A ___ férfi alszik.",
+        "answer": "fáradt",
+        "translation_en": "The tired man is sleeping.",
+        "translation_es": "El hombre cansado duerme."
+      },
+      {
+        "sentence": "A ___ ajtó biztonságos.",
+        "answer": "zárt",
+        "translation_en": "The closed door is safe.",
+        "translation_es": "La puerta cerrada es segura."
+      },
+      {
+        "sentence": "A ___ gyerekek játszanak.",
+        "answer": "boldog",
+        "translation_en": "The happy children are playing.",
+        "translation_es": "Los niños felices juegan."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct relative pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "A férfi, ___ beszél, az apám.",
+        "answer": "aki",
+        "translation_en": "The man who is speaking is my father.",
+        "translation_es": "El hombre que habla es mi padre."
+      },
+      {
+        "sentence": "A könyv, ___ drága volt, jó.",
+        "answer": "ami",
+        "translation_en": "The book, which was expensive, is good.",
+        "translation_es": "El libro, que era caro, es bueno."
+      },
+      {
+        "sentence": "A ház, ___ ott áll, régi.",
+        "answer": "amely",
+        "translation_en": "The house which stands there is old.",
+        "translation_es": "La casa que está allí es vieja."
+      },
+      {
+        "sentence": "A fiú, ___ az apja orvos, a barátom.",
+        "answer": "akinek",
+        "translation_en": "The boy whose father is a doctor is my friend.",
+        "translation_es": "El chico cuyo padre es médico es mi amigo."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct word into each reported clause.",
+    "items": [
+      {
+        "sentence": "Azt mondta, ___ jön holnap.",
+        "answer": "hogy",
+        "translation_en": "He said that he is coming tomorrow.",
+        "translation_es": "Dijo que vendrá mañana."
+      },
+      {
+        "sentence": "Nem tudom, ___ van.",
+        "answer": "hol",
+        "translation_en": "I do not know where he is.",
+        "translation_es": "No sé dónde está."
+      },
+      {
+        "sentence": "Nem emlékszem, ___ jött.",
+        "answer": "mikor",
+        "translation_en": "I do not remember when he came.",
+        "translation_es": "No recuerdo cuándo vino."
+      },
+      {
+        "sentence": "Kíváncsi vagyok, ___ jön.",
+        "answer": "vajon",
+        "translation_en": "I wonder whether he is coming.",
+        "translation_es": "Me pregunto si vendrá."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct verbal noun into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ hasznos.",
+        "answer": "olvasás",
+        "translation_en": "Reading is useful.",
+        "translation_es": "Leer es útil."
+      },
+      {
+        "sentence": "A ___ fontos.",
+        "answer": "tanulás",
+        "translation_en": "Learning is important.",
+        "translation_es": "El aprendizaje es importante."
+      },
+      {
+        "sentence": "A ___ jó az egészségnek.",
+        "answer": "sétálás",
+        "translation_en": "Walking is good for health.",
+        "translation_es": "Caminar es bueno para la salud."
+      },
+      {
+        "sentence": "A ___ fenntartja a világot.",
+        "answer": "munka",
+        "translation_en": "Work keeps the world going.",
+        "translation_es": "El trabajo sostiene el mundo."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ a barátomra az állomáson.",
+        "answer": "Várok",
+        "translation_en": "I wait for my friend at the station.",
+        "translation_es": "Espero a mi amigo en la estación."
+      },
+      {
+        "sentence": "___ az egészségemre.",
+        "answer": "Vigyázok",
+        "translation_en": "I take care of my health.",
+        "translation_es": "Cuido mi salud."
+      },
+      {
+        "sentence": "___ a döntéstől.",
+        "answer": "Függ",
+        "translation_en": "It depends on the decision.",
+        "translation_es": "Depende de la decisión."
+      },
+      {
+        "sentence": "___ a kérdésre.",
+        "answer": "Válaszolok",
+        "translation_en": "I answer the question.",
+        "translation_es": "Respondo a la pregunta."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Nem mentem, ___ esett.",
+        "answer": "mert",
+        "translation_en": "I did not go, because it was raining.",
+        "translation_es": "No fui, porque llovía."
+      },
+      {
+        "sentence": "Okos, ___ lusta.",
+        "answer": "de",
+        "translation_en": "He is smart, but lazy.",
+        "translation_es": "Es listo, pero perezoso."
+      },
+      {
+        "sentence": "Sokat tanultam, ___ átmentem.",
+        "answer": "ezért",
+        "translation_en": "I studied a lot, so I passed.",
+        "translation_es": "Estudié mucho, por eso aprobé."
+      },
+      {
+        "sentence": "___ éhes vagyok, nem eszem.",
+        "answer": "Bár",
+        "translation_en": "Although I am hungry, I will not eat.",
+        "translation_es": "Aunque tengo hambre, no comeré."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "Az orvos ___ írt fel.",
+        "answer": "receptet",
+        "translation_en": "The doctor wrote a prescription.",
+        "translation_es": "El médico recetó."
+      },
+      {
+        "sentence": "Vannak ___. (symptoms)",
+        "answer": "tüneteim",
+        "translation_en": "I have symptoms.",
+        "translation_es": "Tengo síntomas."
+      },
+      {
+        "sentence": "A ___ fontos.",
+        "answer": "vakcina",
+        "translation_en": "The vaccine is important.",
+        "translation_es": "La vacuna es importante."
+      },
+      {
+        "sentence": "Kezelésre van ___.",
+        "answer": "szükségem",
+        "translation_en": "I need treatment.",
+        "translation_es": "Necesito tratamiento."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "Holnap ___ van.",
+        "answer": "találkozóm",
+        "translation_en": "I have a meeting tomorrow.",
+        "translation_es": "Tengo una reunión mañana."
+      },
+      {
+        "sentence": "Aláírtam a ___.",
+        "answer": "szerződést",
+        "translation_en": "I signed the contract.",
+        "translation_es": "Firmé el contrato."
+      },
+      {
+        "sentence": "A ___ jó.",
+        "answer": "főnököm",
+        "translation_en": "My boss is good.",
+        "translation_es": "Mi jefe es bueno."
+      },
+      {
+        "sentence": "___ kaptam.",
+        "answer": "Előléptetést",
+        "translation_en": "I received a promotion.",
+        "translation_es": "Recibí un ascenso."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct education word into each gap.",
+    "items": [
+      {
+        "sentence": "Az ___ tanulok.",
+        "answer": "egyetemen",
+        "translation_en": "I study at university.",
+        "translation_es": "Estudio en la universidad."
+      },
+      {
+        "sentence": "___ fogok tenni.",
+        "answer": "Vizsgát",
+        "translation_en": "I will take an exam.",
+        "translation_es": "Voy a hacer un examen."
+      },
+      {
+        "sentence": "A ___ hatalom.",
+        "answer": "tudás",
+        "translation_en": "Knowledge is power.",
+        "translation_es": "El conocimiento es poder."
+      },
+      {
+        "sentence": "Új ___ szereztem.",
+        "answer": "készséget",
+        "translation_en": "I acquired a new skill.",
+        "translation_es": "Adquirí una nueva habilidad."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ növekszik.",
+        "answer": "szennyezés",
+        "translation_en": "Pollution is increasing.",
+        "translation_es": "La contaminación aumenta."
+      },
+      {
+        "sentence": "A szemetet ___.",
+        "answer": "újrahasznosítjuk",
+        "translation_en": "We recycle the rubbish.",
+        "translation_es": "Reciclamos la basura."
+      },
+      {
+        "sentence": "Az ___ változik.",
+        "answer": "éghajlat",
+        "translation_en": "The climate is changing.",
+        "translation_es": "El clima está cambiando."
+      },
+      {
+        "sentence": "___ energiát használunk.",
+        "answer": "Megújuló",
+        "translation_en": "We use renewable energy.",
+        "translation_es": "Usamos energía renovable."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ törvényeket hoz.",
+        "answer": "parlament",
+        "translation_en": "Parliament passes laws.",
+        "translation_es": "El parlamento aprueba leyes."
+      },
+      {
+        "sentence": "A ___ döntéseket hoz.",
+        "answer": "kormány",
+        "translation_en": "The government makes decisions.",
+        "translation_es": "El gobierno toma decisiones."
+      },
+      {
+        "sentence": "A ___ alkalmazza a törvényt.",
+        "answer": "bíró",
+        "translation_en": "The judge applies the law.",
+        "translation_es": "El juez aplica la ley."
+      },
+      {
+        "sentence": "Minden ___ nak vannak jogai.",
+        "answer": "állampolgár",
+        "translation_en": "Every citizen has rights.",
+        "translation_es": "Cada ciudadano tiene derechos."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {
+        "sentence": "___ végzünk a laboratóriumban.",
+        "answer": "Kísérletet",
+        "translation_en": "We do an experiment in the laboratory.",
+        "translation_es": "Hacemos un experimento en el laboratorio."
+      },
+      {
+        "sentence": "Az ___ magyarázza a jelenséget.",
+        "answer": "elmélet",
+        "translation_en": "The theory explains the phenomenon.",
+        "translation_es": "La teoría explica el fenómeno."
+      },
+      {
+        "sentence": "Van ___ erre.",
+        "answer": "bizonyíték",
+        "translation_en": "There is evidence for this.",
+        "translation_es": "Hay evidencia de esto."
+      },
+      {
+        "sentence": "Nagy ___ született.",
+        "answer": "felfedezés",
+        "translation_en": "A great discovery was made.",
+        "translation_es": "Se hizo un gran descubrimiento."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct emotion word into each gap.",
+    "items": [
+      {
+        "sentence": "Nagy ___ éreztem.",
+        "answer": "megkönnyebbülést",
+        "translation_en": "I felt great relief.",
+        "translation_es": "Sentí un gran alivio."
+      },
+      {
+        "sentence": "___ fogta el.",
+        "answer": "A félelem",
+        "translation_en": "Fear took hold of him.",
+        "translation_es": "El miedo se apoderó de él."
+      },
+      {
+        "sentence": "___ van benned.",
+        "answer": "Bizalmam",
+        "translation_en": "I have trust in you.",
+        "translation_es": "Tengo confianza en ti."
+      },
+      {
+        "sentence": "___ érzek ezért.",
+        "answer": "Hálát",
+        "translation_en": "I feel gratitude for this.",
+        "translation_es": "Siento gratitud por esto."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct past conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Ha tudtam volna, ___ volna.",
+        "answer": "mentem",
+        "translation_en": "If I had known, I would have gone.",
+        "translation_es": "Si lo hubiera sabido, habría ido."
+      },
+      {
+        "sentence": "Ha lett volna pénzem, ___ volna egy házat.",
+        "answer": "vettem",
+        "translation_en": "If I had had money, I would have bought a house.",
+        "translation_es": "Si hubiera tenido dinero, habría comprado una casa."
+      },
+      {
+        "sentence": "Ha siettél volna, ___ volna.",
+        "answer": "érkeztél",
+        "translation_en": "If you had hurried, you would have arrived.",
+        "translation_es": "Si te hubieras dado prisa, habrías llegado."
+      },
+      {
+        "sentence": "Ha tanultunk volna, ___ volna a vizsgán.",
+        "answer": "átmentünk",
+        "translation_en": "If we had studied, we would have passed the exam.",
+        "translation_es": "Si hubiéramos estudiado, habríamos aprobado el examen."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct nominalisation into each gap.",
+    "items": [
+      {
+        "sentence": "A kutatás ___ évekig tartott.",
+        "answer": "lefolytatása",
+        "translation_en": "The conduct of the research took years.",
+        "translation_es": "La realización de la investigación llevó años."
+      },
+      {
+        "sentence": "Az eredmények ___ fontos.",
+        "answer": "elemzése",
+        "translation_en": "The analysis of the results is important.",
+        "translation_es": "El análisis de los resultados es importante."
+      },
+      {
+        "sentence": "A probléma ___ időt igényel.",
+        "answer": "megoldása",
+        "translation_en": "The solution of the problem requires time.",
+        "translation_es": "La solución del problema requiere tiempo."
+      },
+      {
+        "sentence": "A tudás ___ folyamatos.",
+        "answer": "átadása",
+        "translation_en": "The transmission of knowledge is continuous.",
+        "translation_es": "La transmisión del conocimiento es continua."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {
+        "sentence": "A vizsgálat ___ szigorú.",
+        "answer": "módszertana",
+        "translation_en": "The methodology of the study is rigorous.",
+        "translation_es": "La metodología del estudio es rigurosa."
+      },
+      {
+        "sentence": "___ van a két változó között.",
+        "answer": "Korreláció",
+        "translation_en": "There is a correlation between the two variables.",
+        "translation_es": "Hay una correlación entre las dos variables."
+      },
+      {
+        "sentence": "A ___ független.",
+        "answer": "változó",
+        "translation_en": "The variable is independent.",
+        "translation_es": "La variable es independiente."
+      },
+      {
+        "sentence": "A ___ adatok megbízhatóak.",
+        "answer": "tapasztalati",
+        "translation_en": "The empirical data are reliable.",
+        "translation_es": "Los datos empíricos son fiables."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "Az ___ idén emelkedett.",
+        "answer": "infláció",
+        "translation_en": "Inflation rose this year.",
+        "translation_es": "La inflación subió este año."
+      },
+      {
+        "sentence": "A cég ___ jelentett.",
+        "answer": "csődöt",
+        "translation_en": "The company declared bankruptcy.",
+        "translation_es": "La empresa se declaró en quiebra."
+      },
+      {
+        "sentence": "Állami ___ kaptunk.",
+        "answer": "támogatást",
+        "translation_en": "We received a state subsidy.",
+        "translation_es": "Recibimos una subvención estatal."
+      },
+      {
+        "sentence": "A ___ növekedtek.",
+        "answer": "bevételek",
+        "translation_en": "The revenues increased.",
+        "translation_es": "Los ingresos aumentaron."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "Az ___ garantálja a jogokat.",
+        "answer": "alkotmány",
+        "translation_en": "The constitution guarantees rights.",
+        "translation_es": "La constitución garantiza los derechos."
+      },
+      {
+        "sentence": "A ___ elfogadta a törvényt.",
+        "answer": "parlament",
+        "translation_en": "Parliament passed the law.",
+        "translation_es": "El parlamento aprobó la ley."
+      },
+      {
+        "sentence": "A ___ kihirdette az ítéletet.",
+        "answer": "bíró",
+        "translation_en": "The judge announced the verdict.",
+        "translation_es": "El juez anunció el veredicto."
+      },
+      {
+        "sentence": "A ___ pert indított.",
+        "answer": "felperes",
+        "translation_en": "The plaintiff filed a lawsuit.",
+        "translation_es": "El demandante presentó una demanda."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct ethics term into each gap.",
+    "items": [
+      {
+        "sentence": "Az ___ a jót és a rosszat vizsgálja.",
+        "answer": "etika",
+        "translation_en": "Ethics examines right and wrong.",
+        "translation_es": "La ética examina el bien y el mal."
+      },
+      {
+        "sentence": "Az ___ fontos.",
+        "answer": "őszinteség",
+        "translation_en": "Honesty is important.",
+        "translation_es": "La honestidad es importante."
+      },
+      {
+        "sentence": "Nagy ___ hárul rá.",
+        "answer": "felelősség",
+        "translation_en": "He bears great responsibility.",
+        "translation_es": "Carga con una gran responsabilidad."
+      },
+      {
+        "sentence": "Az ___ kérdéses.",
+        "answer": "erkölcse",
+        "translation_en": "His morality is doubtful.",
+        "translation_es": "Su moralidad es dudosa."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct philosophy term into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ rejtély.",
+        "answer": "tudat",
+        "translation_en": "Consciousness is a riddle.",
+        "translation_es": "La conciencia es un enigma."
+      },
+      {
+        "sentence": "Az emberi ___ összetett.",
+        "answer": "létezés",
+        "translation_en": "Human existence is complex.",
+        "translation_es": "La existencia humana es compleja."
+      },
+      {
+        "sentence": "Az ___ emlékekből formálódik.",
+        "answer": "identitás",
+        "translation_en": "Identity is shaped by memory.",
+        "translation_es": "La identidad se forma por la memoria."
+      },
+      {
+        "sentence": "Ez egy ___.",
+        "answer": "dilemma",
+        "translation_en": "This is a dilemma.",
+        "translation_es": "Esto es un dilema."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct medical term into each gap.",
+    "items": [
+      {
+        "sentence": "A ___ időben megtörtént.",
+        "answer": "diagnózis",
+        "translation_en": "The diagnosis was made in time.",
+        "translation_es": "El diagnóstico se hizo a tiempo."
+      },
+      {
+        "sentence": "A ___ hónapokig tartott.",
+        "answer": "kezelés",
+        "translation_en": "The treatment lasted months.",
+        "translation_es": "El tratamiento duró meses."
+      },
+      {
+        "sentence": "A ___ megelőzi a betegséget.",
+        "answer": "vakcina",
+        "translation_en": "The vaccine prevents the disease.",
+        "translation_es": "La vacuna previene la enfermedad."
+      },
+      {
+        "sentence": "A ___ gyorsan terjedt.",
+        "answer": "fertőzés",
+        "translation_en": "The infection spread quickly.",
+        "translation_es": "La infección se propagó rápidamente."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct technology term into each gap.",
+    "items": [
+      {
+        "sentence": "Az ___ megoldja a problémát.",
+        "answer": "algoritmus",
+        "translation_en": "The algorithm solves the problem.",
+        "translation_es": "El algoritmo resuelve el problema."
+      },
+      {
+        "sentence": "A ___ védi az adatokat.",
+        "answer": "titkosítás",
+        "translation_en": "Encryption protects the data.",
+        "translation_es": "El cifrado protege los datos."
+      },
+      {
+        "sentence": "A ___ feldolgozza az adatokat.",
+        "answer": "szoftver",
+        "translation_en": "The software processes the data.",
+        "translation_es": "El software procesa los datos."
+      },
+      {
+        "sentence": "A ___ tárolja a weboldalt.",
+        "answer": "szerver",
+        "translation_en": "The server hosts the website.",
+        "translation_es": "El servidor aloja el sitio web."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct discourse marker into each gap.",
+    "items": [
+      {
+        "sentence": "___, figyelembe kell vennünk a költséget.",
+        "answer": "Sőt",
+        "translation_en": "Moreover, we must take the cost into account.",
+        "translation_es": "Además, debemos tener en cuenta el coste."
+      },
+      {
+        "sentence": "___, az eredmények pozitívak voltak.",
+        "answer": "Azonban",
+        "translation_en": "However, the results were positive.",
+        "translation_es": "Sin embargo, los resultados fueron positivos."
+      },
+      {
+        "sentence": "Nem jött el; ___, elkésett.",
+        "answer": "ezért",
+        "translation_en": "He did not come; therefore, he missed the deadline.",
+        "translation_es": "No vino; por lo tanto, perdió el plazo."
+      },
+      {
+        "sentence": "___, megvizsgáljuk az okokat.",
+        "answer": "Először is",
+        "translation_en": "First of all, we will examine the causes.",
+        "translation_es": "En primer lugar, examinaremos las causas."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each collocation.",
+    "items": [
+      {
+        "sentence": "___ egy döntést.",
+        "answer": "Hozok",
+        "translation_en": "To make a decision.",
+        "translation_es": "Tomar una decisión."
+      },
+      {
+        "sentence": "___ a figyelmet.",
+        "answer": "Felhívom",
+        "translation_en": "To pay attention.",
+        "translation_es": "Prestar atención."
+      },
+      {
+        "sentence": "___ egy fontos szerepet.",
+        "answer": "Játszom",
+        "translation_en": "To play an important role.",
+        "translation_es": "Desempeñar un papel importante."
+      },
+      {
+        "sentence": "___ egy következtetést.",
+        "answer": "Levonok",
+        "translation_en": "To draw a conclusion.",
+        "translation_es": "Sacar una conclusión."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct sustainability term into each gap.",
+    "items": [
+      {
+        "sentence": "Csökkentenünk kell a szén-dioxid-___.",
+        "answer": "kibocsátást",
+        "translation_en": "We must reduce carbon emissions.",
+        "translation_es": "Debemos reducir las emisiones de carbono."
+      },
+      {
+        "sentence": "A ___ veszélyben van.",
+        "answer": "biológiai sokféleség",
+        "translation_en": "Biodiversity is at risk.",
+        "translation_es": "La biodiversidad está en peligro."
+      },
+      {
+        "sentence": "Az ___ probléma.",
+        "answer": "erdőirtás",
+        "translation_en": "Deforestation is a problem.",
+        "translation_es": "La deforestación es un problema."
+      },
+      {
+        "sentence": "Védjük az ___.",
+        "answer": "ökoszisztémát",
+        "translation_en": "We protect the ecosystem.",
+        "translation_es": "Protegemos el ecosistema."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct rhetoric term into each gap.",
+    "items": [
+      {
+        "sentence": "A szónok ___ meggyőző volt.",
+        "answer": "retorikája",
+        "translation_en": "The speaker's rhetoric was persuasive.",
+        "translation_es": "La retórica del orador fue persuasiva."
+      },
+      {
+        "sentence": "A ___ világos volt.",
+        "answer": "diskurzus",
+        "translation_en": "The discourse was clear.",
+        "translation_es": "El discurso fue claro."
+      },
+      {
+        "sentence": "___ van a mondatban.",
+        "answer": "Kétértelműség",
+        "translation_en": "There is ambiguity in the sentence.",
+        "translation_es": "Hay ambigüedad en la frase."
+      },
+      {
+        "sentence": "___ született.",
+        "answer": "Konszenzus",
+        "translation_en": "A consensus was reached.",
+        "translation_es": "Se alcanzó un consenso."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct formal verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ a javaslatot.",
+        "answer": "Megfogalmazzuk",
+        "translation_en": "We formulate the proposal.",
+        "translation_es": "Formulamos la propuesta."
+      },
+      {
+        "sentence": "___ a kockázatot.",
+        "answer": "Megkerüljük",
+        "translation_en": "We circumvent the risk.",
+        "translation_es": "Eludimos el riesgo."
+      },
+      {
+        "sentence": "___ a pozíciónkat.",
+        "answer": "Megszilárdítjuk",
+        "translation_en": "We consolidate our position.",
+        "translation_es": "Consolidamos nuestra posición."
+      },
+      {
+        "sentence": "___ a helyzetet.",
+        "answer": "Javítjuk",
+        "translation_en": "We improve the situation.",
+        "translation_es": "Mejoramos la situación."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct causal-final form into each gap.",
+    "items": [
+      {
+        "sentence": "___ jöttem.",
+        "answer": "Segítségért",
+        "translation_en": "I came for help.",
+        "translation_es": "Vine a por ayuda."
+      },
+      {
+        "sentence": "___ fizetek.",
+        "answer": "A kenyérért",
+        "translation_en": "I pay for the bread.",
+        "translation_es": "Pago por el pan."
+      },
+      {
+        "sentence": "___ harcolunk.",
+        "answer": "A szabadságért",
+        "translation_en": "We fight for freedom.",
+        "translation_es": "Luchamos por la libertad."
+      },
+      {
+        "sentence": "___ tanulok.",
+        "answer": "A vizsgáért",
+        "translation_en": "I study for the exam.",
+        "translation_es": "Estudio para el examen."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct translative form into each gap.",
+    "items": [
+      {
+        "sentence": "A víz ___ változott.",
+        "answer": "jéggé",
+        "translation_en": "The water turned into ice.",
+        "translation_es": "El agua se convirtió en hielo."
+      },
+      {
+        "sentence": "A herceg ___ változott.",
+        "answer": "békává",
+        "translation_en": "The prince turned into a frog.",
+        "translation_es": "El príncipe se convirtió en rana."
+      },
+      {
+        "sentence": "A ház ___ vált.",
+        "answer": "otthonná",
+        "translation_en": "The house became a home.",
+        "translation_es": "La casa se convirtió en un hogar."
+      },
+      {
+        "sentence": "Az orvos ___ lett.",
+        "answer": "tanárrá",
+        "translation_en": "The doctor became a teacher.",
+        "translation_es": "El médico se hizo profesor."
+      }
+    ]
+  }
+]

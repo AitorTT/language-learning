@@ -362,5 +362,18 @@
       {"code": "en", "field": "english", "label": "English"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "hu",
+    "name": "Hungarian",
+    "flag": "🇭🇺",
+    "speech": "hu-HU",
+    "termLabel": "Hungarian",
+    "termField": "hungarian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
