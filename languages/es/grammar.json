@@ -1,0 +1,2127 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Spanish alphabet",
+    "description": "Spanish adds ñ and treats ll and rr as single sounds.",
+    "columns": [
+      "Letra",
+      "Nombre",
+      "English"
+    ],
+    "rows": [
+      [
+        "A a",
+        "a",
+        "a as in father"
+      ],
+      [
+        "B b",
+        "be",
+        "b as in bed"
+      ],
+      [
+        "C c",
+        "ce",
+        "th or k"
+      ],
+      [
+        "D d",
+        "de",
+        "d as in dog"
+      ],
+      [
+        "E e",
+        "e",
+        "e as in bed"
+      ],
+      [
+        "G g",
+        "ge",
+        "h before e, i"
+      ],
+      [
+        "H h",
+        "hache",
+        "always silent"
+      ],
+      [
+        "J j",
+        "jota",
+        "h as in hat"
+      ],
+      [
+        "Ñ ñ",
+        "eñe",
+        "ny as in canyon"
+      ],
+      [
+        "LL ll",
+        "elle",
+        "y as in yes"
+      ],
+      [
+        "RR rr",
+        "erre",
+        "rolled r"
+      ],
+      [
+        "V v",
+        "uve",
+        "b sound"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "The subject pronoun is often left out.",
+    "columns": [
+      "Persona",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "1ª sing.",
+        "yo",
+        "I"
+      ],
+      [
+        "2ª sing.",
+        "tú",
+        "you"
+      ],
+      [
+        "3ª sing.",
+        "él / ella",
+        "he / she"
+      ],
+      [
+        "1ª plur.",
+        "nosotros",
+        "we"
+      ],
+      [
+        "2ª plur.",
+        "vosotros",
+        "you all"
+      ],
+      [
+        "3ª plur.",
+        "ellos",
+        "they"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "The verb ser (to be)",
+    "description": "ser is used for permanent qualities.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "soy",
+        "I am"
+      ],
+      [
+        "tú",
+        "eres",
+        "you are"
+      ],
+      [
+        "él",
+        "es",
+        "he is"
+      ],
+      [
+        "nosotros",
+        "somos",
+        "we are"
+      ],
+      [
+        "ellos",
+        "son",
+        "they are"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "The verb estar (to be)",
+    "description": "estar is used for states and locations.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "estoy",
+        "I am"
+      ],
+      [
+        "tú",
+        "estás",
+        "you are"
+      ],
+      [
+        "él",
+        "está",
+        "he is"
+      ],
+      [
+        "nosotros",
+        "estamos",
+        "we are"
+      ],
+      [
+        "ellos",
+        "están",
+        "they are"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "The verb tener (to have)",
+    "description": "The verb is irregular in the first person.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "tengo",
+        "I have"
+      ],
+      [
+        "tú",
+        "tienes",
+        "you have"
+      ],
+      [
+        "él",
+        "tiene",
+        "he has"
+      ],
+      [
+        "nosotros",
+        "tenemos",
+        "we have"
+      ],
+      [
+        "ellos",
+        "tienen",
+        "they have"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "The definite article",
+    "description": "The article agrees in gender and number.",
+    "columns": [
+      "Número",
+      "Masculino",
+      "Femenino",
+      "Neutro"
+    ],
+    "rows": [
+      [
+        "singular",
+        "el",
+        "la",
+        "lo"
+      ],
+      [
+        "plural",
+        "los",
+        "las",
+        "los"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "The indefinite article",
+    "description": "The indefinite article means 'a' or 'some'.",
+    "columns": [
+      "Número",
+      "Masculino",
+      "Femenino"
+    ],
+    "rows": [
+      [
+        "singular",
+        "un",
+        "una"
+      ],
+      [
+        "plural",
+        "unos",
+        "unas"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Noun gender",
+    "description": "Every noun is masculine or feminine.",
+    "columns": [
+      "Género",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "masculino",
+        "el libro",
+        "the book"
+      ],
+      [
+        "femenino",
+        "la casa",
+        "the house"
+      ],
+      [
+        "masculino",
+        "el día",
+        "the day"
+      ],
+      [
+        "femenino",
+        "la mano",
+        "the hand"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Plural of nouns",
+    "description": "The plural ends in -s or -es.",
+    "columns": [
+      "Tipo",
+      "Singular",
+      "Plural"
+    ],
+    "rows": [
+      [
+        "-o → -os",
+        "el libro",
+        "los libros"
+      ],
+      [
+        "-a → -as",
+        "la casa",
+        "las casas"
+      ],
+      [
+        "consonante → -es",
+        "la flor",
+        "las flores"
+      ],
+      [
+        "invariable",
+        "el lunes",
+        "los lunes"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective agrees with the noun.",
+    "columns": [
+      "Forma",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "masc. sing.",
+        "bueno",
+        "good"
+      ],
+      [
+        "fem. sing.",
+        "buena",
+        "good"
+      ],
+      [
+        "masc. plur.",
+        "buenos",
+        "good"
+      ],
+      [
+        "fem. plur.",
+        "buenas",
+        "good"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Present tense of -ar verbs",
+    "description": "The endings are -o, -as, -a, -amos, -an.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "hablo",
+        "I speak"
+      ],
+      [
+        "tú",
+        "hablas",
+        "you speak"
+      ],
+      [
+        "él",
+        "habla",
+        "he speaks"
+      ],
+      [
+        "nosotros",
+        "hablamos",
+        "we speak"
+      ],
+      [
+        "ellos",
+        "hablan",
+        "they speak"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Present tense of -er/-ir verbs",
+    "description": "The endings are -o, -es, -e and -o, -es, -e.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "como / vivo",
+        "I eat / I live"
+      ],
+      [
+        "tú",
+        "comes / vives",
+        "you eat / you live"
+      ],
+      [
+        "él",
+        "come / vive",
+        "he eats / he lives"
+      ],
+      [
+        "nosotros",
+        "comemos / vivimos",
+        "we eat / we live"
+      ],
+      [
+        "ellos",
+        "comen / viven",
+        "they eat / they live"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Negation",
+    "description": "no stands before the verb.",
+    "columns": [
+      "Uso",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "no",
+        "no hablo",
+        "I do not speak"
+      ],
+      [
+        "nada",
+        "no tengo nada",
+        "I have nothing"
+      ],
+      [
+        "nadie",
+        "no veo a nadie",
+        "I see nobody"
+      ],
+      [
+        "nunca",
+        "no vengo nunca",
+        "I never come"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words carry a written accent.",
+    "columns": [
+      "Palabra",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "what",
+        "qué",
+        "what"
+      ],
+      [
+        "who",
+        "quién",
+        "who"
+      ],
+      [
+        "where",
+        "dónde",
+        "where"
+      ],
+      [
+        "when",
+        "cuándo",
+        "when"
+      ],
+      [
+        "why",
+        "por qué",
+        "why"
+      ],
+      [
+        "how",
+        "cómo",
+        "how"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "The number one has a feminine form.",
+    "columns": [
+      "Número",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "1",
+        "uno",
+        "one"
+      ],
+      [
+        "2",
+        "dos",
+        "two"
+      ],
+      [
+        "3",
+        "tres",
+        "three"
+      ],
+      [
+        "4",
+        "cuatro",
+        "four"
+      ],
+      [
+        "5",
+        "cinco",
+        "five"
+      ],
+      [
+        "6",
+        "seis",
+        "six"
+      ],
+      [
+        "7",
+        "siete",
+        "seven"
+      ],
+      [
+        "8",
+        "ocho",
+        "eight"
+      ],
+      [
+        "9",
+        "nueve",
+        "nine"
+      ],
+      [
+        "10",
+        "diez",
+        "ten"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "The days are not capitalised.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "lunes",
+        "Monday"
+      ],
+      [
+        "martes",
+        "Tuesday"
+      ],
+      [
+        "miércoles",
+        "Wednesday"
+      ],
+      [
+        "jueves",
+        "Thursday"
+      ],
+      [
+        "viernes",
+        "Friday"
+      ],
+      [
+        "sábado",
+        "Saturday"
+      ],
+      [
+        "domingo",
+        "Sunday"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "rojo",
+        "red"
+      ],
+      [
+        "azul",
+        "blue"
+      ],
+      [
+        "verde",
+        "green"
+      ],
+      [
+        "negro",
+        "black"
+      ],
+      [
+        "blanco",
+        "white"
+      ],
+      [
+        "amarillo",
+        "yellow"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "madre",
+        "mother"
+      ],
+      [
+        "padre",
+        "father"
+      ],
+      [
+        "hermano",
+        "brother"
+      ],
+      [
+        "hermana",
+        "sister"
+      ],
+      [
+        "hijo",
+        "son"
+      ],
+      [
+        "hija",
+        "daughter"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The preterite",
+    "description": "The preterite marks completed past actions.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "hablé",
+        "I spoke"
+      ],
+      [
+        "tú",
+        "hablaste",
+        "you spoke"
+      ],
+      [
+        "él",
+        "habló",
+        "he spoke"
+      ],
+      [
+        "nosotros",
+        "hablamos",
+        "we spoke"
+      ],
+      [
+        "ellos",
+        "hablaron",
+        "they spoke"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The imperfect",
+    "description": "The imperfect describes ongoing past actions.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "hablaba",
+        "I used to speak"
+      ],
+      [
+        "tú",
+        "hablabas",
+        "you used to speak"
+      ],
+      [
+        "él",
+        "hablaba",
+        "he used to speak"
+      ],
+      [
+        "nosotros",
+        "hablábamos",
+        "we used to speak"
+      ],
+      [
+        "ellos",
+        "hablaban",
+        "they used to speak"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The future",
+    "description": "The future adds endings to the infinitive.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "I will go",
+        "iré",
+        "I will go"
+      ],
+      [
+        "going to",
+        "voy a ir",
+        "I am going to go"
+      ],
+      [
+        "you will go",
+        "irás",
+        "you will go"
+      ],
+      [
+        "we will go",
+        "iremos",
+        "we will go"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The present perfect",
+    "description": "haber plus the participle marks recent past.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "he comido",
+        "I have eaten"
+      ],
+      [
+        "tú",
+        "has comido",
+        "you have eaten"
+      ],
+      [
+        "él",
+        "ha comido",
+        "he has eaten"
+      ],
+      [
+        "nosotros",
+        "hemos comido",
+        "we have eaten"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The conditional",
+    "description": "The conditional adds -ía to the infinitive.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "I would go",
+        "iría",
+        "I would go"
+      ],
+      [
+        "I would buy",
+        "compraría",
+        "I would buy"
+      ],
+      [
+        "if I had",
+        "si tuviera",
+        "if I had"
+      ],
+      [
+        "if it were",
+        "si fuera",
+        "if it were"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative gives commands.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "write! (tú)",
+        "escribe",
+        "write!"
+      ],
+      [
+        "write! (usted)",
+        "escriba",
+        "write!"
+      ],
+      [
+        "come! (tú)",
+        "ven",
+        "come!"
+      ],
+      [
+        "come! (vosotros)",
+        "venid",
+        "come!"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "The comparative uses más or menos.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "más grande",
+        "bigger"
+      ],
+      [
+        "bigger than",
+        "más grande que",
+        "bigger than"
+      ],
+      [
+        "better",
+        "mejor",
+        "better"
+      ],
+      [
+        "worse",
+        "peor",
+        "worse"
+      ],
+      [
+        "less",
+        "menos",
+        "less"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "The superlative uses the article with más.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "el más grande",
+        "the biggest"
+      ],
+      [
+        "the best",
+        "el mejor",
+        "the best"
+      ],
+      [
+        "the worst",
+        "el peor",
+        "the worst"
+      ],
+      [
+        "very",
+        "muy",
+        "very"
+      ],
+      [
+        "-ísimo",
+        "grandísimo",
+        "extremely big"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The reflexive pronoun matches the subject.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "me lavo",
+        "I wash myself"
+      ],
+      [
+        "tú",
+        "te lavas",
+        "you wash yourself"
+      ],
+      [
+        "él",
+        "se lava",
+        "he washes himself"
+      ],
+      [
+        "nosotros",
+        "nos lavamos",
+        "we wash ourselves"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Object pronouns",
+    "description": "These pronouns stand before the verb.",
+    "columns": [
+      "Persona",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "me",
+        "me",
+        "me"
+      ],
+      [
+        "you",
+        "te",
+        "you"
+      ],
+      [
+        "him",
+        "lo",
+        "him"
+      ],
+      [
+        "her",
+        "la",
+        "her"
+      ],
+      [
+        "us",
+        "nos",
+        "us"
+      ],
+      [
+        "them",
+        "los",
+        "them"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverbio",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "always",
+        "siempre",
+        "always"
+      ],
+      [
+        "often",
+        "a menudo",
+        "often"
+      ],
+      [
+        "sometimes",
+        "a veces",
+        "sometimes"
+      ],
+      [
+        "rarely",
+        "rara vez",
+        "rarely"
+      ],
+      [
+        "never",
+        "nunca",
+        "never"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "The twenties and thirties are written as one word.",
+    "columns": [
+      "Número",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "11",
+        "once",
+        "eleven"
+      ],
+      [
+        "12",
+        "doce",
+        "twelve"
+      ],
+      [
+        "20",
+        "veinte",
+        "twenty"
+      ],
+      [
+        "30",
+        "treinta",
+        "thirty"
+      ],
+      [
+        "50",
+        "cincuenta",
+        "fifty"
+      ],
+      [
+        "100",
+        "cien",
+        "one hundred"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "first",
+        "primero",
+        "first"
+      ],
+      [
+        "second",
+        "segundo",
+        "second"
+      ],
+      [
+        "third",
+        "tercero",
+        "third"
+      ],
+      [
+        "fourth",
+        "cuarto",
+        "fourth"
+      ],
+      [
+        "last",
+        "último",
+        "last"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Hours are feminine, so they take 'las'.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "la una",
+        "one o'clock"
+      ],
+      [
+        "seven o'clock",
+        "las siete",
+        "seven o'clock"
+      ],
+      [
+        "half past",
+        "y media",
+        "half past"
+      ],
+      [
+        "quarter past",
+        "y cuarto",
+        "quarter past"
+      ],
+      [
+        "quarter to",
+        "menos cuarto",
+        "quarter to"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Months and seasons",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "enero",
+        "January"
+      ],
+      [
+        "marzo",
+        "March"
+      ],
+      [
+        "junio",
+        "June"
+      ],
+      [
+        "diciembre",
+        "December"
+      ],
+      [
+        "verano",
+        "summer"
+      ],
+      [
+        "invierno",
+        "winter"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Prepositions of place",
+    "description": "Prepositions are followed by the noun.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "on",
+        "sobre la mesa",
+        "on the table"
+      ],
+      [
+        "under",
+        "debajo de la mesa",
+        "under the table"
+      ],
+      [
+        "next to",
+        "junto a la casa",
+        "next to the house"
+      ],
+      [
+        "in front of",
+        "delante de la casa",
+        "in front of the house"
+      ],
+      [
+        "behind",
+        "detrás de la casa",
+        "behind the house"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The present subjunctive",
+    "description": "The subjunctive expresses doubt, wish or need.",
+    "columns": [
+      "Sujeto",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "yo",
+        "hable",
+        "that I speak"
+      ],
+      [
+        "tú",
+        "hables",
+        "that you speak"
+      ],
+      [
+        "él",
+        "hable",
+        "that he speaks"
+      ],
+      [
+        "nosotros",
+        "hablemos",
+        "that we speak"
+      ],
+      [
+        "ellos",
+        "hablen",
+        "that they speak"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive voice",
+    "description": "The passive uses ser plus a participle, or se.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "was built",
+        "fue construido",
+        "was built"
+      ],
+      [
+        "was written",
+        "fue escrito",
+        "was written"
+      ],
+      [
+        "is done",
+        "se hace",
+        "is done"
+      ],
+      [
+        "are sold",
+        "se venden",
+        "are sold"
+      ],
+      [
+        "was closed",
+        "fue cerrado",
+        "was closed"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Tipo",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "written",
+        "escrito",
+        "written"
+      ],
+      [
+        "tired",
+        "cansado",
+        "tired"
+      ],
+      [
+        "closed",
+        "cerrado",
+        "closed"
+      ],
+      [
+        "smiling",
+        "sonriente",
+        "smiling"
+      ],
+      [
+        "boiled",
+        "hervido",
+        "boiled"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "que is the common relative pronoun.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "who / that",
+        "que",
+        "who / that"
+      ],
+      [
+        "which (m.)",
+        "el cual",
+        "which (m.)"
+      ],
+      [
+        "which (f.)",
+        "la cual",
+        "which (f.)"
+      ],
+      [
+        "whose",
+        "cuyo",
+        "whose"
+      ],
+      [
+        "where",
+        "donde",
+        "where"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "que and si introduce reported clauses.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "that",
+        "que",
+        "that"
+      ],
+      [
+        "whether",
+        "si",
+        "whether"
+      ],
+      [
+        "where",
+        "dónde",
+        "where"
+      ],
+      [
+        "when",
+        "cuándo",
+        "when"
+      ],
+      [
+        "to",
+        "que",
+        "to"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbs become nouns or infinitives.",
+    "columns": [
+      "Uso",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "reading",
+        "lectura",
+        "reading"
+      ],
+      [
+        "learning",
+        "aprendizaje",
+        "learning"
+      ],
+      [
+        "walking",
+        "caminar",
+        "walking"
+      ],
+      [
+        "work",
+        "trabajo",
+        "work"
+      ],
+      [
+        "writing",
+        "escritura",
+        "writing"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb plus preposition",
+    "description": "Many verbs take a fixed preposition.",
+    "columns": [
+      "Uso",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "wait for",
+        "esperar",
+        "to wait for"
+      ],
+      [
+        "care about",
+        "preocuparse por",
+        "to care about"
+      ],
+      [
+        "depend on",
+        "depender de",
+        "to depend on"
+      ],
+      [
+        "answer",
+        "responder a",
+        "to answer"
+      ],
+      [
+        "think of",
+        "pensar en",
+        "to think of"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order and clitics",
+    "description": "The object pronoun comes before the verb.",
+    "columns": [
+      "Tipo",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "statement",
+        "leo el libro",
+        "I read the book"
+      ],
+      [
+        "clitic before verb",
+        "lo leo",
+        "I read it"
+      ],
+      [
+        "negation",
+        "no lo leo",
+        "I do not read it"
+      ],
+      [
+        "imperative",
+        "léelo",
+        "read it!"
+      ],
+      [
+        "subjunctive",
+        "que lo lea",
+        "that I read it"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Uso",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "and",
+        "y",
+        "and"
+      ],
+      [
+        "but",
+        "pero",
+        "but"
+      ],
+      [
+        "because",
+        "porque",
+        "because"
+      ],
+      [
+        "so",
+        "así que",
+        "so"
+      ],
+      [
+        "although",
+        "aunque",
+        "although"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "tratamiento",
+        "treatment"
+      ],
+      [
+        "síntoma",
+        "symptom"
+      ],
+      [
+        "receta",
+        "prescription"
+      ],
+      [
+        "vacuna",
+        "vaccine"
+      ],
+      [
+        "seguro",
+        "insurance"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "reunión",
+        "meeting"
+      ],
+      [
+        "contrato",
+        "contract"
+      ],
+      [
+        "salario",
+        "salary"
+      ],
+      [
+        "colega",
+        "colleague"
+      ],
+      [
+        "fecha límite",
+        "deadline"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "escuela",
+        "school"
+      ],
+      [
+        "universidad",
+        "university"
+      ],
+      [
+        "examen",
+        "exam"
+      ],
+      [
+        "conocimiento",
+        "knowledge"
+      ],
+      [
+        "habilidad",
+        "skill"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "llegada",
+        "arrival"
+      ],
+      [
+        "investigación",
+        "research"
+      ],
+      [
+        "cooperación",
+        "cooperation"
+      ],
+      [
+        "producción",
+        "production"
+      ],
+      [
+        "análisis",
+        "analysis"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "metodología",
+        "methodology"
+      ],
+      [
+        "correlación",
+        "correlation"
+      ],
+      [
+        "variable",
+        "variable"
+      ],
+      [
+        "empírico",
+        "empirical"
+      ],
+      [
+        "cuantitativo",
+        "quantitative"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "inflación",
+        "inflation"
+      ],
+      [
+        "quiebra",
+        "bankruptcy"
+      ],
+      [
+        "subvención",
+        "subsidy"
+      ],
+      [
+        "facturación",
+        "revenue"
+      ],
+      [
+        "inversión",
+        "investment"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "constitución",
+        "constitution"
+      ],
+      [
+        "parlamento",
+        "parliament"
+      ],
+      [
+        "veredicto",
+        "verdict"
+      ],
+      [
+        "demandante",
+        "plaintiff"
+      ],
+      [
+        "demandado",
+        "defendant"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "ética",
+        "ethics"
+      ],
+      [
+        "moralidad",
+        "morality"
+      ],
+      [
+        "honestidad",
+        "honesty"
+      ],
+      [
+        "responsabilidad",
+        "responsibility"
+      ],
+      [
+        "virtud",
+        "virtue"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "conciencia",
+        "consciousness"
+      ],
+      [
+        "existencia",
+        "existence"
+      ],
+      [
+        "identidad",
+        "identity"
+      ],
+      [
+        "paradoja",
+        "paradox"
+      ],
+      [
+        "dilema",
+        "dilemma"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "diagnóstico",
+        "diagnosis"
+      ],
+      [
+        "terapia",
+        "therapy"
+      ],
+      [
+        "crónico",
+        "chronic"
+      ],
+      [
+        "infección",
+        "infection"
+      ],
+      [
+        "inmune",
+        "immune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "molécula",
+        "molecule"
+      ],
+      [
+        "átomo",
+        "atom"
+      ],
+      [
+        "gravedad",
+        "gravity"
+      ],
+      [
+        "célula",
+        "cell"
+      ],
+      [
+        "experimento",
+        "experiment"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Spanish.",
+    "columns": [
+      "Conector",
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "además",
+        "moreover"
+      ],
+      [
+        "however",
+        "sin embargo",
+        "however"
+      ],
+      [
+        "therefore",
+        "por lo tanto",
+        "therefore"
+      ],
+      [
+        "first of all",
+        "en primer lugar",
+        "first of all"
+      ],
+      [
+        "nevertheless",
+        "no obstante",
+        "nevertheless"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Colocación",
+      "Forma",
+      "English"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "tomar una decisión",
+        "to make a decision"
+      ],
+      [
+        "to pay attention",
+        "prestar atención",
+        "to pay attention"
+      ],
+      [
+        "to play a role",
+        "desempeñar un papel",
+        "to play a role"
+      ],
+      [
+        "to draw a conclusion",
+        "sacar una conclusión",
+        "to draw a conclusion"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "durar mucho",
+        "to last long"
+      ],
+      [
+        "reparar",
+        "to repair"
+      ],
+      [
+        "reciclar",
+        "to recycle"
+      ],
+      [
+        "emisiones de carbono",
+        "carbon emissions"
+      ],
+      [
+        "sostenible",
+        "sustainable"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Palabra",
+      "English"
+    ],
+    "rows": [
+      [
+        "retórica",
+        "rhetoric"
+      ],
+      [
+        "discurso",
+        "discourse"
+      ],
+      [
+        "ambigüedad",
+        "ambiguity"
+      ],
+      [
+        "consenso",
+        "consensus"
+      ],
+      [
+        "argumento",
+        "argument"
+      ]
+    ]
+  }
+]

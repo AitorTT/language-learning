@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 1,
+    "spanish": "hola",
+    "english": "hello",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "spanish": "adiós",
+    "english": "goodbye",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "spanish": "buenos días",
+    "english": "good morning",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "spanish": "buenas noches",
+    "english": "good night",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "spanish": "gracias",
+    "english": "thank you",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "spanish": "por favor",
+    "english": "please",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "spanish": "lo siento",
+    "english": "sorry",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "spanish": "sí",
+    "english": "yes",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "spanish": "no",
+    "english": "no",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "spanish": "¿cómo estás?",
+    "english": "how are you?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "spanish": "agua",
+    "english": "water",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "spanish": "pan",
+    "english": "bread",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "spanish": "leche",
+    "english": "milk",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "spanish": "café",
+    "english": "coffee",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "spanish": "manzana",
+    "english": "apple",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "spanish": "casa",
+    "english": "house",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "spanish": "gato",
+    "english": "cat",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "spanish": "perro",
+    "english": "dog",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "spanish": "madre",
+    "english": "mother",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "spanish": "padre",
+    "english": "father",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "spanish": "familia",
+    "english": "family",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "spanish": "amigo",
+    "english": "friend",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "spanish": "ser / estar",
+    "english": "to be",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "spanish": "tener",
+    "english": "to have",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "spanish": "ir",
+    "english": "to go",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "spanish": "comer",
+    "english": "to eat",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "spanish": "beber",
+    "english": "to drink",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "spanish": "bueno",
+    "english": "good",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "spanish": "malo",
+    "english": "bad",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "spanish": "grande",
+    "english": "big",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "spanish": "pequeño",
+    "english": "small",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "spanish": "vivir",
+    "english": "to live",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 33,
+    "spanish": "trabajar",
+    "english": "to work",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 34,
+    "spanish": "comprar",
+    "english": "to buy",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 35,
+    "spanish": "viajar",
+    "english": "to travel",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 36,
+    "spanish": "cocinar",
+    "english": "to cook",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 37,
+    "spanish": "aprender",
+    "english": "to learn",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 38,
+    "spanish": "ropa",
+    "english": "clothes",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 39,
+    "spanish": "zapatos",
+    "english": "shoes",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 40,
+    "spanish": "abrigo",
+    "english": "coat",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 41,
+    "spanish": "cocina",
+    "english": "kitchen",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 42,
+    "spanish": "baño",
+    "english": "bathroom",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 43,
+    "spanish": "dormitorio",
+    "english": "bedroom",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 44,
+    "spanish": "calle",
+    "english": "street",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 45,
+    "spanish": "ciudad",
+    "english": "city",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 46,
+    "spanish": "tienda",
+    "english": "shop",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 47,
+    "spanish": "estación",
+    "english": "station",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 48,
+    "spanish": "billete",
+    "english": "ticket",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 49,
+    "spanish": "maleta",
+    "english": "suitcase",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 50,
+    "spanish": "coche",
+    "english": "car",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 51,
+    "spanish": "tren",
+    "english": "train",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 52,
+    "spanish": "hoy",
+    "english": "today",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 53,
+    "spanish": "mañana",
+    "english": "tomorrow",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 54,
+    "spanish": "ayer",
+    "english": "yesterday",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 55,
+    "spanish": "siempre",
+    "english": "always",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 56,
+    "spanish": "a menudo",
+    "english": "often",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 57,
+    "spanish": "nunca",
+    "english": "never",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 58,
+    "spanish": "tiempo",
+    "english": "weather",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 59,
+    "spanish": "lluvia",
+    "english": "rain",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 60,
+    "spanish": "sol",
+    "english": "sun",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 61,
+    "spanish": "feliz",
+    "english": "happy",
+    "category": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": 62,
+    "spanish": "experiencia",
+    "english": "experience",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 63,
+    "spanish": "profesión",
+    "english": "profession",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 64,
+    "spanish": "jefe",
+    "english": "boss",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 65,
+    "spanish": "reunión",
+    "english": "meeting",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 66,
+    "spanish": "contrato",
+    "english": "contract",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 67,
+    "spanish": "salario",
+    "english": "salary",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 68,
+    "spanish": "educación",
+    "english": "education",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 69,
+    "spanish": "conocimiento",
+    "english": "knowledge",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 70,
+    "spanish": "habilidad",
+    "english": "skill",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 71,
+    "spanish": "examen",
+    "english": "exam",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 72,
+    "spanish": "salud",
+    "english": "health",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 73,
+    "spanish": "enfermedad",
+    "english": "illness",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 74,
+    "spanish": "médico",
+    "english": "doctor",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 75,
+    "spanish": "felicidad",
+    "english": "happiness",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 76,
+    "spanish": "miedo",
+    "english": "fear",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 77,
+    "spanish": "esperanza",
+    "english": "hope",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 78,
+    "spanish": "amor",
+    "english": "love",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 79,
+    "spanish": "celos",
+    "english": "jealousy",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 80,
+    "spanish": "decidir",
+    "english": "to decide",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 81,
+    "spanish": "elegir",
+    "english": "to choose",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 82,
+    "spanish": "explicar",
+    "english": "to explain",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 83,
+    "spanish": "comparar",
+    "english": "to compare",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 84,
+    "spanish": "lograr",
+    "english": "to achieve",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 85,
+    "spanish": "recomendar",
+    "english": "to recommend",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 86,
+    "spanish": "en realidad",
+    "english": "actually",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 87,
+    "spanish": "inmediatamente",
+    "english": "immediately",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 88,
+    "spanish": "desafortunadamente",
+    "english": "unfortunately",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 89,
+    "spanish": "medio ambiente",
+    "english": "environment",
+    "category": "nature",
+    "level": "B1"
+  },
+  {
+    "id": 90,
+    "spanish": "sociedad",
+    "english": "society",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 91,
+    "spanish": "elección",
+    "english": "choice",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 92,
+    "spanish": "convicción",
+    "english": "belief",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 93,
+    "spanish": "duda",
+    "english": "doubt",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "spanish": "fenómeno",
+    "english": "phenomenon",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "spanish": "solución",
+    "english": "solution",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "spanish": "investigación",
+    "english": "research",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "spanish": "influencia",
+    "english": "influence",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "spanish": "amenaza",
+    "english": "threat",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "spanish": "consciencia",
+    "english": "awareness",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "spanish": "desarrollo",
+    "english": "development",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 101,
+    "spanish": "progreso",
+    "english": "progress",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 102,
+    "spanish": "consecuencia",
+    "english": "consequence",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 103,
+    "spanish": "predecir",
+    "english": "to predict",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 104,
+    "spanish": "asumir",
+    "english": "to assume",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 105,
+    "spanish": "demostrar",
+    "english": "to prove",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 106,
+    "spanish": "dudar",
+    "english": "to doubt",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 107,
+    "spanish": "negociar",
+    "english": "to negotiate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 108,
+    "spanish": "analizar",
+    "english": "to analyze",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 109,
+    "spanish": "evaluar",
+    "english": "to assess",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 110,
+    "spanish": "suficiente",
+    "english": "sufficient",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 111,
+    "spanish": "obvio",
+    "english": "obvious",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 112,
+    "spanish": "complejo",
+    "english": "complex",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 113,
+    "spanish": "relativo",
+    "english": "relative",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 114,
+    "spanish": "independiente",
+    "english": "independent",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 115,
+    "spanish": "sostenible",
+    "english": "sustainable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 116,
+    "spanish": "aunque",
+    "english": "even though",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 117,
+    "spanish": "sin embargo",
+    "english": "however",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 118,
+    "spanish": "en cambio",
+    "english": "whereas",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 119,
+    "spanish": "además",
+    "english": "moreover",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 120,
+    "spanish": "libertad",
+    "english": "freedom",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 121,
+    "spanish": "uno",
+    "english": "one",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "spanish": "dos",
+    "english": "two",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "spanish": "tres",
+    "english": "three",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "spanish": "cuatro",
+    "english": "four",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "spanish": "cinco",
+    "english": "five",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "spanish": "seis",
+    "english": "six",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "spanish": "siete",
+    "english": "seven",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "spanish": "ocho",
+    "english": "eight",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "spanish": "nueve",
+    "english": "nine",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "spanish": "diez",
+    "english": "ten",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "spanish": "rojo",
+    "english": "red",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "spanish": "azul",
+    "english": "blue",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "spanish": "verde",
+    "english": "green",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "spanish": "negro",
+    "english": "black",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "spanish": "blanco",
+    "english": "white",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "spanish": "amarillo",
+    "english": "yellow",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "spanish": "soleado",
+    "english": "sunny",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "spanish": "lluvioso",
+    "english": "rainy",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "spanish": "nublado",
+    "english": "cloudy",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "spanish": "frío",
+    "english": "cold",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "spanish": "caluroso",
+    "english": "hot",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "spanish": "hermano",
+    "english": "brother",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "spanish": "hermana",
+    "english": "sister",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "spanish": "hijo",
+    "english": "son",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "spanish": "hija",
+    "english": "daughter",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "spanish": "escuela",
+    "english": "school",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "spanish": "parque",
+    "english": "park",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "spanish": "izquierda",
+    "english": "left",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "spanish": "derecha",
+    "english": "right",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "spanish": "ayuda",
+    "english": "help",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "spanish": "jardín",
+    "english": "garden",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 152,
+    "spanish": "ventana",
+    "english": "window",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 153,
+    "spanish": "puerta",
+    "english": "door",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 154,
+    "spanish": "silla",
+    "english": "chair",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 155,
+    "spanish": "mesa",
+    "english": "table",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 156,
+    "spanish": "libro",
+    "english": "book",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 157,
+    "spanish": "bolígrafo",
+    "english": "pen",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 158,
+    "spanish": "leer",
+    "english": "to read",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 159,
+    "spanish": "escribir",
+    "english": "to write",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 160,
+    "spanish": "hablar",
+    "english": "to speak",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 161,
+    "spanish": "escuchar",
+    "english": "to listen",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 162,
+    "spanish": "abrir",
+    "english": "to open",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 163,
+    "spanish": "cerrar",
+    "english": "to close",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 164,
+    "spanish": "dormir",
+    "english": "to sleep",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 165,
+    "spanish": "correr",
+    "english": "to run",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 166,
+    "spanish": "nadar",
+    "english": "to swim",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 167,
+    "spanish": "fútbol",
+    "english": "football",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 168,
+    "spanish": "música",
+    "english": "music",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 169,
+    "spanish": "canción",
+    "english": "song",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 170,
+    "spanish": "cantar",
+    "english": "to sing",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 171,
+    "spanish": "fiesta",
+    "english": "party",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 172,
+    "spanish": "playa",
+    "english": "beach",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 173,
+    "spanish": "montaña",
+    "english": "mountain",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 174,
+    "spanish": "río",
+    "english": "river",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 175,
+    "spanish": "árbol",
+    "english": "tree",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 176,
+    "spanish": "flor",
+    "english": "flower",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 177,
+    "spanish": "cielo",
+    "english": "sky",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 178,
+    "spanish": "cansado",
+    "english": "tired",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 179,
+    "spanish": "enfadado",
+    "english": "angry",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 180,
+    "spanish": "preocupado",
+    "english": "worried",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 181,
+    "spanish": "ingresos",
+    "english": "income",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 182,
+    "spanish": "ahorrar",
+    "english": "to save",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 183,
+    "spanish": "gastar",
+    "english": "to spend",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 184,
+    "spanish": "deuda",
+    "english": "debt",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 185,
+    "spanish": "precio",
+    "english": "price",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 186,
+    "spanish": "banco",
+    "english": "bank",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 187,
+    "spanish": "contratar",
+    "english": "to hire",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 188,
+    "spanish": "colega",
+    "english": "colleague",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 189,
+    "spanish": "fecha límite",
+    "english": "deadline",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 190,
+    "spanish": "carrera",
+    "english": "career",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 191,
+    "spanish": "mejorar",
+    "english": "to improve",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 192,
+    "spanish": "sugerir",
+    "english": "to suggest",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 193,
+    "spanish": "evitar",
+    "english": "to avoid",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 194,
+    "spanish": "desarrollar",
+    "english": "to develop",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 195,
+    "spanish": "apoyar",
+    "english": "to support",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 196,
+    "spanish": "contaminación",
+    "english": "pollution",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 197,
+    "spanish": "clima",
+    "english": "climate",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 198,
+    "spanish": "reciclar",
+    "english": "to recycle",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 199,
+    "spanish": "energía",
+    "english": "energy",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 200,
+    "spanish": "gobierno",
+    "english": "government",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 201,
+    "spanish": "ley",
+    "english": "law",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 202,
+    "spanish": "elecciones",
+    "english": "election",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 203,
+    "spanish": "ciudadano",
+    "english": "citizen",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 204,
+    "spanish": "cultura",
+    "english": "culture",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 205,
+    "spanish": "ciencia",
+    "english": "science",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 206,
+    "spanish": "experimento",
+    "english": "experiment",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 207,
+    "spanish": "evidencia",
+    "english": "evidence",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 208,
+    "spanish": "teoría",
+    "english": "theory",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 209,
+    "spanish": "descubrimiento",
+    "english": "discovery",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 210,
+    "spanish": "quizás",
+    "english": "perhaps",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 211,
+    "spanish": "suposición",
+    "english": "assumption",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 212,
+    "spanish": "controversia",
+    "english": "controversy",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 213,
+    "spanish": "desigualdad",
+    "english": "inequality",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 214,
+    "spanish": "sostenibilidad",
+    "english": "sustainability",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 215,
+    "spanish": "perspectiva",
+    "english": "perspective",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 216,
+    "spanish": "implicación",
+    "english": "implication",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 217,
+    "spanish": "restricción",
+    "english": "constraint",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 218,
+    "spanish": "incentivo",
+    "english": "incentive",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 219,
+    "spanish": "facturación",
+    "english": "revenue",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 220,
+    "spanish": "inversión",
+    "english": "investment",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 221,
+    "spanish": "negociación",
+    "english": "negotiation",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 222,
+    "spanish": "eficiencia",
+    "english": "efficiency",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 223,
+    "spanish": "innovación",
+    "english": "innovation",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 224,
+    "spanish": "algoritmo",
+    "english": "algorithm",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 225,
+    "spanish": "privacidad",
+    "english": "privacy",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 226,
+    "spanish": "inteligencia artificial",
+    "english": "artificial intelligence",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 227,
+    "spanish": "datos",
+    "english": "data",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 228,
+    "spanish": "ciberseguridad",
+    "english": "cybersecurity",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 229,
+    "spanish": "socavar",
+    "english": "to undermine",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 230,
+    "spanish": "reforzar",
+    "english": "to reinforce",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 231,
+    "spanish": "mitigar",
+    "english": "to mitigate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 232,
+    "spanish": "facilitar",
+    "english": "to facilitate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 233,
+    "spanish": "reconocer",
+    "english": "to acknowledge",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 234,
+    "spanish": "ambiguo",
+    "english": "ambiguous",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 235,
+    "spanish": "factible",
+    "english": "feasible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 236,
+    "spanish": "inevitable",
+    "english": "inevitable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 237,
+    "spanish": "integral",
+    "english": "comprehensive",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 238,
+    "spanish": "convincente",
+    "english": "compelling",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 239,
+    "spanish": "predominante",
+    "english": "prevalent",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 240,
+    "spanish": "perjudicial",
+    "english": "detrimental",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 241,
+    "spanish": "cabeza",
+    "english": "head",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "spanish": "mano",
+    "english": "hand",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "spanish": "pie",
+    "english": "foot",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "spanish": "ojo",
+    "english": "eye",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "spanish": "oreja",
+    "english": "ear",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "spanish": "boca",
+    "english": "mouth",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "spanish": "nariz",
+    "english": "nose",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "spanish": "pelo",
+    "english": "hair",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "spanish": "brazo",
+    "english": "arm",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "spanish": "pierna",
+    "english": "leg",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "spanish": "cama",
+    "english": "bed",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "spanish": "lámpara",
+    "english": "lamp",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "spanish": "llave",
+    "english": "key",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "spanish": "pared",
+    "english": "wall",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "spanish": "suelo",
+    "english": "floor",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "spanish": "tejado",
+    "english": "roof",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "spanish": "huevo",
+    "english": "egg",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "spanish": "queso",
+    "english": "cheese",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "spanish": "pescado",
+    "english": "fish",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "spanish": "carne",
+    "english": "meat",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "spanish": "sopa",
+    "english": "soup",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "spanish": "ensalada",
+    "english": "salad",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "spanish": "azúcar",
+    "english": "sugar",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "spanish": "sal",
+    "english": "salt",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "spanish": "nuevo",
+    "english": "new",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "spanish": "viejo",
+    "english": "old",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "spanish": "joven",
+    "english": "young",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "spanish": "largo",
+    "english": "long",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "spanish": "corto",
+    "english": "short",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "spanish": "lento",
+    "english": "slow",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "spanish": "despertarse",
+    "english": "to wake up",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "spanish": "levantarse",
+    "english": "to get up",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "spanish": "lavarse",
+    "english": "to wash",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "spanish": "vestirse",
+    "english": "to dress",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "spanish": "descansar",
+    "english": "to rest",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "spanish": "empezar",
+    "english": "to start",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "spanish": "terminar",
+    "english": "to finish",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "spanish": "intentar",
+    "english": "to try",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "spanish": "autobús",
+    "english": "bus",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "spanish": "bicicleta",
+    "english": "bicycle",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "spanish": "avión",
+    "english": "plane",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "spanish": "barco",
+    "english": "boat",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "spanish": "aeropuerto",
+    "english": "airport",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "spanish": "carretera",
+    "english": "road",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "spanish": "pasaporte",
+    "english": "passport",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "spanish": "turista",
+    "english": "tourist",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "spanish": "guía",
+    "english": "guide",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "spanish": "vacaciones",
+    "english": "holiday",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "spanish": "aburrido",
+    "english": "bored",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "spanish": "emocionado",
+    "english": "excited",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "spanish": "sorprendido",
+    "english": "surprised",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "spanish": "nervioso",
+    "english": "nervous",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "spanish": "orgulloso",
+    "english": "proud",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "spanish": "tranquilo",
+    "english": "calm",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "spanish": "mercado",
+    "english": "market",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "spanish": "supermercado",
+    "english": "supermarket",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "spanish": "tarjeta",
+    "english": "card",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "spanish": "efectivo",
+    "english": "cash",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "spanish": "descuento",
+    "english": "discount",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "spanish": "talla",
+    "english": "size",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "spanish": "empleado",
+    "english": "employee",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 302,
+    "spanish": "empleador",
+    "english": "employer",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 303,
+    "spanish": "entrevista",
+    "english": "interview",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "spanish": "currículum",
+    "english": "resume",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "spanish": "ascenso",
+    "english": "promotion",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "spanish": "tarea",
+    "english": "task",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "spanish": "proyecto",
+    "english": "project",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "spanish": "equipo",
+    "english": "team",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "spanish": "gerente",
+    "english": "manager",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "spanish": "formación",
+    "english": "training",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "spanish": "tradición",
+    "english": "tradition",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "spanish": "religión",
+    "english": "religion",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "spanish": "medios de comunicación",
+    "english": "media",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "spanish": "noticias",
+    "english": "news",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "spanish": "periodista",
+    "english": "journalist",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "spanish": "opinión",
+    "english": "opinion",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "spanish": "protesta",
+    "english": "protest",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "spanish": "voto",
+    "english": "vote",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "spanish": "residuos",
+    "english": "waste",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "spanish": "bosque",
+    "english": "forest",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "spanish": "océano",
+    "english": "ocean",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "spanish": "inundación",
+    "english": "flood",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "spanish": "sequía",
+    "english": "drought",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "spanish": "especie",
+    "english": "species",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "spanish": "tratamiento",
+    "english": "treatment",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "spanish": "síntoma",
+    "english": "symptom",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "spanish": "receta médica",
+    "english": "prescription",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "spanish": "seguro",
+    "english": "insurance",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 329,
+    "spanish": "dieta",
+    "english": "diet",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 330,
+    "spanish": "estrés",
+    "english": "stress",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 331,
+    "spanish": "software",
+    "english": "software",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "spanish": "hardware",
+    "english": "hardware",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "spanish": "red",
+    "english": "network",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "spanish": "servidor",
+    "english": "server",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "spanish": "base de datos",
+    "english": "database",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "spanish": "cifrado",
+    "english": "encryption",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "spanish": "dispositivo",
+    "english": "device",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "spanish": "aplicación",
+    "english": "application",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "spanish": "plataforma",
+    "english": "platform",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "spanish": "virtual",
+    "english": "virtual",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "spanish": "beneficio",
+    "english": "profit",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "spanish": "presupuesto",
+    "english": "budget",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "spanish": "impuesto",
+    "english": "tax",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "spanish": "inflación",
+    "english": "inflation",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "spanish": "comercio",
+    "english": "trade",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "spanish": "divisa",
+    "english": "currency",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "spanish": "oferta",
+    "english": "supply",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "spanish": "marco",
+    "english": "framework",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "spanish": "criterio",
+    "english": "criterion",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "spanish": "paradigma",
+    "english": "paradigm",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "spanish": "noción",
+    "english": "notion",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "spanish": "hipótesis",
+    "english": "hypothesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "spanish": "consenso",
+    "english": "consensus",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "spanish": "ambigüedad",
+    "english": "ambiguity",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "spanish": "asignar",
+    "english": "to allocate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "spanish": "implementar",
+    "english": "to implement",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "spanish": "integrar",
+    "english": "to integrate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "spanish": "optimizar",
+    "english": "to optimize",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "spanish": "priorizar",
+    "english": "to prioritize",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "spanish": "validar",
+    "english": "to validate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "spanish": "pájaro",
+    "english": "bird",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "spanish": "caballo",
+    "english": "horse",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "spanish": "vaca",
+    "english": "cow",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "spanish": "cerdo",
+    "english": "pig",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "spanish": "pollo",
+    "english": "chicken",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "spanish": "ratón",
+    "english": "mouse",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "spanish": "conejo",
+    "english": "rabbit",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "spanish": "oveja",
+    "english": "sheep",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "spanish": "pato",
+    "english": "duck",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "spanish": "león",
+    "english": "lion",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "spanish": "luna",
+    "english": "moon",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "spanish": "estrella",
+    "english": "star",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "spanish": "nube",
+    "english": "cloud",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "spanish": "viento",
+    "english": "wind",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "spanish": "nieve",
+    "english": "snow",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "spanish": "hielo",
+    "english": "ice",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "spanish": "fuego",
+    "english": "fire",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "spanish": "piedra",
+    "english": "stone",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "spanish": "primero",
+    "english": "first",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "spanish": "segundo",
+    "english": "second",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "spanish": "tercero",
+    "english": "third",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "spanish": "último",
+    "english": "last",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "spanish": "siguiente",
+    "english": "next",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "spanish": "otra vez",
+    "english": "again",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "spanish": "ver",
+    "english": "to see",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "spanish": "oír",
+    "english": "to hear",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "spanish": "saber",
+    "english": "to know",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "spanish": "pensar",
+    "english": "to think",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "spanish": "dar",
+    "english": "to give",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "spanish": "tomar",
+    "english": "to take",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "spanish": "profesor",
+    "english": "teacher",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 392,
+    "spanish": "ingeniero",
+    "english": "engineer",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 393,
+    "spanish": "enfermero",
+    "english": "nurse",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 394,
+    "spanish": "abogado",
+    "english": "lawyer",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 395,
+    "spanish": "chef",
+    "english": "chef",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 396,
+    "spanish": "conductor",
+    "english": "driver",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 397,
+    "spanish": "granjero",
+    "english": "farmer",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 398,
+    "spanish": "policía",
+    "english": "police officer",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 399,
+    "spanish": "camarero",
+    "english": "waiter",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 400,
+    "spanish": "artista",
+    "english": "artist",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 401,
+    "spanish": "iglesia",
+    "english": "church",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 402,
+    "spanish": "museo",
+    "english": "museum",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 403,
+    "spanish": "biblioteca",
+    "english": "library",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 404,
+    "spanish": "teatro",
+    "english": "theatre",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 405,
+    "spanish": "puente",
+    "english": "bridge",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 406,
+    "spanish": "plaza",
+    "english": "square",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 407,
+    "spanish": "fábrica",
+    "english": "factory",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 408,
+    "spanish": "oficina",
+    "english": "office",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 409,
+    "spanish": "hervir",
+    "english": "to boil",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 410,
+    "spanish": "freír",
+    "english": "to fry",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 411,
+    "spanish": "hornear",
+    "english": "to bake",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 412,
+    "spanish": "cuchillo",
+    "english": "knife",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 413,
+    "spanish": "cuchara",
+    "english": "spoon",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 414,
+    "spanish": "tenedor",
+    "english": "fork",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 415,
+    "spanish": "pintar",
+    "english": "to paint",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 416,
+    "spanish": "fotografía",
+    "english": "photography",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 417,
+    "spanish": "ajedrez",
+    "english": "chess",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 418,
+    "spanish": "acampada",
+    "english": "camping",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 419,
+    "spanish": "pesca",
+    "english": "fishing",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 420,
+    "spanish": "jardinería",
+    "english": "gardening",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 421,
+    "spanish": "valor",
+    "english": "courage",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 422,
+    "spanish": "paciencia",
+    "english": "patience",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 423,
+    "spanish": "honestidad",
+    "english": "honesty",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 424,
+    "spanish": "sabiduría",
+    "english": "wisdom",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 425,
+    "spanish": "amabilidad",
+    "english": "kindness",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 426,
+    "spanish": "respeto",
+    "english": "respect",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 427,
+    "spanish": "confianza",
+    "english": "trust",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 428,
+    "spanish": "orgullo",
+    "english": "pride",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 429,
+    "spanish": "vergüenza",
+    "english": "shame",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 430,
+    "spanish": "ira",
+    "english": "anger",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 431,
+    "spanish": "cliente",
+    "english": "customer",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 432,
+    "spanish": "proveedor",
+    "english": "supplier",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 433,
+    "spanish": "marca",
+    "english": "brand",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 434,
+    "spanish": "marketing",
+    "english": "marketing",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 435,
+    "spanish": "factura",
+    "english": "invoice",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 436,
+    "spanish": "almacén",
+    "english": "warehouse",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 437,
+    "spanish": "comercio minorista",
+    "english": "retail",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 438,
+    "spanish": "accionista",
+    "english": "shareholder",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 439,
+    "spanish": "constitución",
+    "english": "constitution",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 440,
+    "spanish": "parlamento",
+    "english": "parliament",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 441,
+    "spanish": "ministro",
+    "english": "minister",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 442,
+    "spanish": "tribunal",
+    "english": "court",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 443,
+    "spanish": "juez",
+    "english": "judge",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 444,
+    "spanish": "sentencia",
+    "english": "sentence",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 445,
+    "spanish": "molécula",
+    "english": "molecule",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 446,
+    "spanish": "átomo",
+    "english": "atom",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 447,
+    "spanish": "gravedad",
+    "english": "gravity",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 448,
+    "spanish": "célula",
+    "english": "cell",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 449,
+    "spanish": "laboratorio",
+    "english": "laboratory",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 450,
+    "spanish": "microscopio",
+    "english": "microscope",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 451,
+    "spanish": "síntesis",
+    "english": "synthesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "spanish": "metodología",
+    "english": "methodology",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "spanish": "correlación",
+    "english": "correlation",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "spanish": "variable",
+    "english": "variable",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "spanish": "empírico",
+    "english": "empirical",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "spanish": "cuantitativo",
+    "english": "quantitative",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "spanish": "cualitativo",
+    "english": "qualitative",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "spanish": "jerarquía",
+    "english": "hierarchy",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 459,
+    "spanish": "discurso",
+    "english": "discourse",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 460,
+    "spanish": "retórica",
+    "english": "rhetoric",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "spanish": "legislación",
+    "english": "legislation",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "spanish": "veredicto",
+    "english": "verdict",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "spanish": "demandante",
+    "english": "plaintiff",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "spanish": "demandado",
+    "english": "defendant",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 465,
+    "spanish": "reglamento",
+    "english": "regulation",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 466,
+    "spanish": "cumplimiento",
+    "english": "compliance",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "spanish": "responsabilidad",
+    "english": "liability",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "spanish": "diagnóstico",
+    "english": "diagnosis",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "spanish": "terapia",
+    "english": "therapy",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 470,
+    "spanish": "vacuna",
+    "english": "vaccine",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 471,
+    "spanish": "crónico",
+    "english": "chronic",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "spanish": "infección",
+    "english": "infection",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "spanish": "inmune",
+    "english": "immune",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 474,
+    "spanish": "cirujano",
+    "english": "surgeon",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "spanish": "fundamentar",
+    "english": "to substantiate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "spanish": "delimitar",
+    "english": "to delineate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 477,
+    "spanish": "extrapolar",
+    "english": "to extrapolate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 478,
+    "spanish": "reconciliar",
+    "english": "to reconcile",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 479,
+    "spanish": "escudriñar",
+    "english": "to scrutinize",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 480,
+    "spanish": "racionalizar",
+    "english": "to streamline",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 481,
+    "spanish": "camisa",
+    "english": "shirt",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "spanish": "pantalones",
+    "english": "trousers",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "spanish": "vestido",
+    "english": "dress",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 484,
+    "spanish": "falda",
+    "english": "skirt",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 485,
+    "spanish": "sombrero",
+    "english": "hat",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "spanish": "bufanda",
+    "english": "scarf",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "spanish": "guantes",
+    "english": "gloves",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "spanish": "calcetines",
+    "english": "socks",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "spanish": "chaqueta",
+    "english": "jacket",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "spanish": "bota",
+    "english": "boot",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 491,
+    "spanish": "zumo",
+    "english": "juice",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "spanish": "vino",
+    "english": "wine",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "spanish": "cerveza",
+    "english": "beer",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "spanish": "pastel",
+    "english": "cake",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "spanish": "chocolate",
+    "english": "chocolate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "spanish": "helado",
+    "english": "ice cream",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "spanish": "arroz",
+    "english": "rice",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "spanish": "plátano",
+    "english": "banana",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "spanish": "naranja",
+    "english": "orange",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "spanish": "miel",
+    "english": "honey",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "spanish": "jugar",
+    "english": "to play",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "spanish": "vender",
+    "english": "to sell",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "spanish": "amar",
+    "english": "to love",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "spanish": "bailar",
+    "english": "to dance",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "spanish": "saltar",
+    "english": "to jump",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "spanish": "ganar",
+    "english": "to win",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "spanish": "duro",
+    "english": "hard",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "spanish": "blando",
+    "english": "soft",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "spanish": "pesado",
+    "english": "heavy",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "spanish": "ligero",
+    "english": "light",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "spanish": "matemáticas",
+    "english": "mathematics",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 512,
+    "spanish": "historia",
+    "english": "history",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 513,
+    "spanish": "geografía",
+    "english": "geography",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 514,
+    "spanish": "biología",
+    "english": "biology",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 515,
+    "spanish": "química",
+    "english": "chemistry",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 516,
+    "spanish": "física",
+    "english": "physics",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 517,
+    "spanish": "literatura",
+    "english": "literature",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 518,
+    "spanish": "arte",
+    "english": "art",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 519,
+    "spanish": "espalda",
+    "english": "back",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 520,
+    "spanish": "hombro",
+    "english": "shoulder",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 521,
+    "spanish": "rodilla",
+    "english": "knee",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 522,
+    "spanish": "dedo",
+    "english": "finger",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 523,
+    "spanish": "diente",
+    "english": "tooth",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 524,
+    "spanish": "estómago",
+    "english": "stomach",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 525,
+    "spanish": "corazón",
+    "english": "heart",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 526,
+    "spanish": "sangre",
+    "english": "blood",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 527,
+    "spanish": "tormenta",
+    "english": "storm",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 528,
+    "spanish": "trueno",
+    "english": "thunder",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 529,
+    "spanish": "rayo",
+    "english": "lightning",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 530,
+    "spanish": "arcoíris",
+    "english": "rainbow",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 531,
+    "spanish": "niebla",
+    "english": "fog",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 532,
+    "spanish": "calor",
+    "english": "heat",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 533,
+    "spanish": "sombra",
+    "english": "shadow",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 534,
+    "spanish": "valle",
+    "english": "valley",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 535,
+    "spanish": "metro",
+    "english": "metro",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 536,
+    "spanish": "semáforo",
+    "english": "traffic light",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 537,
+    "spanish": "aparcamiento",
+    "english": "parking",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 538,
+    "spanish": "esquina",
+    "english": "corner",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 539,
+    "spanish": "paso de peatones",
+    "english": "crossing",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 540,
+    "spanish": "acera",
+    "english": "pavement",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 541,
+    "spanish": "novela",
+    "english": "novel",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 542,
+    "spanish": "poema",
+    "english": "poem",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 543,
+    "spanish": "cuadro",
+    "english": "painting",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 544,
+    "spanish": "escultura",
+    "english": "sculpture",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 545,
+    "spanish": "concierto",
+    "english": "concert",
+    "category": "music",
+    "level": "B1"
+  },
+  {
+    "id": 546,
+    "spanish": "exposición",
+    "english": "exhibition",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 547,
+    "spanish": "público",
+    "english": "audience",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 548,
+    "spanish": "escenario",
+    "english": "stage",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 549,
+    "spanish": "actor",
+    "english": "actor",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 550,
+    "spanish": "director",
+    "english": "director",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 551,
+    "spanish": "contraseña",
+    "english": "password",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 552,
+    "spanish": "descarga",
+    "english": "download",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 553,
+    "spanish": "subida",
+    "english": "upload",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 554,
+    "spanish": "sitio web",
+    "english": "website",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 555,
+    "spanish": "correo electrónico",
+    "english": "email",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 556,
+    "spanish": "mensaje",
+    "english": "message",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 557,
+    "spanish": "pantalla",
+    "english": "screen",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 558,
+    "spanish": "teclado",
+    "english": "keyboard",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 559,
+    "spanish": "préstamo",
+    "english": "loan",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 560,
+    "spanish": "ahorros",
+    "english": "savings",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 561,
+    "spanish": "cartera",
+    "english": "wallet",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 562,
+    "spanish": "recibo",
+    "english": "receipt",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 563,
+    "spanish": "cambio",
+    "english": "change",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 564,
+    "spanish": "moneda",
+    "english": "coin",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 565,
+    "spanish": "alivio",
+    "english": "relief",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 566,
+    "spanish": "gratitud",
+    "english": "gratitude",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 567,
+    "spanish": "envidia",
+    "english": "envy",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 568,
+    "spanish": "culpa",
+    "english": "guilt",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 569,
+    "spanish": "curiosidad",
+    "english": "curiosity",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 570,
+    "spanish": "entusiasmo",
+    "english": "enthusiasm",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 571,
+    "spanish": "ética",
+    "english": "ethics",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 572,
+    "spanish": "moralidad",
+    "english": "morality",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 573,
+    "spanish": "identidad",
+    "english": "identity",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 574,
+    "spanish": "conciencia",
+    "english": "consciousness",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 575,
+    "spanish": "existencia",
+    "english": "existence",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 576,
+    "spanish": "verdad",
+    "english": "truth",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 577,
+    "spanish": "virtud",
+    "english": "virtue",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 578,
+    "spanish": "paradoja",
+    "english": "paradox",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 579,
+    "spanish": "dilema",
+    "english": "dilemma",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 580,
+    "spanish": "escepticismo",
+    "english": "scepticism",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 581,
+    "spanish": "fusión",
+    "english": "merger",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 582,
+    "spanish": "quiebra",
+    "english": "bankruptcy",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 583,
+    "spanish": "monopolio",
+    "english": "monopoly",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 584,
+    "spanish": "subvención",
+    "english": "subsidy",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 585,
+    "spanish": "arancel",
+    "english": "tariff",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 586,
+    "spanish": "cupo",
+    "english": "quota",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 587,
+    "spanish": "empresario",
+    "english": "entrepreneur",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 588,
+    "spanish": "emisión",
+    "english": "emission",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 589,
+    "spanish": "carbono",
+    "english": "carbon",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 590,
+    "spanish": "biodiversidad",
+    "english": "biodiversity",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 591,
+    "spanish": "deforestación",
+    "english": "deforestation",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 592,
+    "spanish": "ecosistema",
+    "english": "ecosystem",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "spanish": "hábitat",
+    "english": "habitat",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 594,
+    "spanish": "erosión",
+    "english": "erosion",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 595,
+    "spanish": "articular",
+    "english": "to articulate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 596,
+    "spanish": "eludir",
+    "english": "to circumvent",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 597,
+    "spanish": "consolidar",
+    "english": "to consolidate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 598,
+    "spanish": "deteriorarse",
+    "english": "to deteriorate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 599,
+    "spanish": "agravar",
+    "english": "to exacerbate",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 600,
+    "spanish": "obstaculizar",
+    "english": "to hinder",
+    "category": "verbs",
+    "level": "B2"
+  }
+]

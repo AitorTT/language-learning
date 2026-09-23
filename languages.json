@@ -350,5 +350,17 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "flag": "🇪🇸",
+    "speech": "es-ES",
+    "termLabel": "Español",
+    "termField": "spanish",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
