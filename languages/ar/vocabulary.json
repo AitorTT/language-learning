@@ -9488,5 +9488,565 @@
     "spanish": "diccionario",
     "category": "education",
     "level": "A1"
+  },
+  {
+    "id": 950,
+    "arabic": "و",
+    "translit": "wa",
+    "ipa": "wa",
+    "english": "and",
+    "spanish": "y",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 951,
+    "arabic": "لكن",
+    "translit": "lākin",
+    "ipa": "laːkin",
+    "english": "but",
+    "spanish": "pero",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 952,
+    "arabic": "أو",
+    "translit": "aw",
+    "ipa": "ʔaw",
+    "english": "or",
+    "spanish": "o",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 953,
+    "arabic": "لأن",
+    "translit": "li'anna",
+    "ipa": "liʔanna",
+    "english": "because",
+    "spanish": "porque",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 954,
+    "arabic": "أنا",
+    "translit": "anā",
+    "ipa": "ʔanaː",
+    "english": "I",
+    "spanish": "yo",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 955,
+    "arabic": "أنت",
+    "translit": "anta",
+    "ipa": "ʔanta",
+    "english": "you",
+    "spanish": "tú",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 956,
+    "arabic": "هو",
+    "translit": "huwa",
+    "ipa": "huwa",
+    "english": "he",
+    "spanish": "él",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 957,
+    "arabic": "هي",
+    "translit": "hiya",
+    "ipa": "hija",
+    "english": "she",
+    "spanish": "ella",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 958,
+    "arabic": "هو",
+    "translit": "huwa",
+    "ipa": "huwa",
+    "english": "it",
+    "spanish": "ello",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 959,
+    "arabic": "نحن",
+    "translit": "naḥnu",
+    "ipa": "naħnu",
+    "english": "we",
+    "spanish": "nosotros",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 960,
+    "arabic": "هم",
+    "translit": "hum",
+    "ipa": "hum",
+    "english": "they",
+    "spanish": "ellos",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 961,
+    "arabic": "هذا",
+    "translit": "hādhā",
+    "ipa": "haːðaː",
+    "english": "this",
+    "spanish": "este",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 962,
+    "arabic": "ذلك",
+    "translit": "dhālika",
+    "ipa": "ðaːlika",
+    "english": "that",
+    "spanish": "ese",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 963,
+    "arabic": "لي",
+    "translit": "lī",
+    "ipa": "liː",
+    "english": "my",
+    "spanish": "mi",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 964,
+    "arabic": "لك",
+    "translit": "laka",
+    "ipa": "laka",
+    "english": "your",
+    "spanish": "tu",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 965,
+    "arabic": "له",
+    "translit": "lahu",
+    "ipa": "lahu",
+    "english": "his",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 966,
+    "arabic": "لها",
+    "translit": "lahā",
+    "ipa": "lahaː",
+    "english": "her",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 967,
+    "arabic": "لنا",
+    "translit": "lanā",
+    "ipa": "lanaː",
+    "english": "our",
+    "spanish": "nuestro",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 968,
+    "arabic": "لهم",
+    "translit": "lahum",
+    "ipa": "lahum",
+    "english": "their",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 969,
+    "arabic": "مع",
+    "translit": "maʿa",
+    "ipa": "maʕa",
+    "english": "with",
+    "spanish": "con",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 970,
+    "arabic": "بدون",
+    "translit": "bidūn",
+    "ipa": "biduːn",
+    "english": "without",
+    "spanish": "sin",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 971,
+    "arabic": "من أجل",
+    "translit": "min ajl",
+    "ipa": "min ʔadʒl",
+    "english": "for",
+    "spanish": "para",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 972,
+    "arabic": "من",
+    "translit": "min",
+    "ipa": "min",
+    "english": "from",
+    "spanish": "de",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 973,
+    "arabic": "إلى",
+    "translit": "ilā",
+    "ipa": "ʔilaː",
+    "english": "to",
+    "spanish": "a",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 974,
+    "arabic": "عند",
+    "translit": "ʿinda",
+    "ipa": "ʕinda",
+    "english": "at",
+    "spanish": "en",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 975,
+    "arabic": "أيضًا",
+    "translit": "aydan",
+    "ipa": "ʔajdan",
+    "english": "also",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 976,
+    "arabic": "أيضًا",
+    "translit": "aydan",
+    "ipa": "ʔajdan",
+    "english": "too",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 977,
+    "arabic": "جدًا",
+    "translit": "jiddan",
+    "ipa": "dʒiddan",
+    "english": "very",
+    "spanish": "muy",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 978,
+    "arabic": "لاحقًا",
+    "translit": "lāḥiqan",
+    "ipa": "laːħiqan",
+    "english": "later",
+    "spanish": "después",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 979,
+    "arabic": "ثم",
+    "translit": "thumma",
+    "ipa": "θumma",
+    "english": "then",
+    "spanish": "entonces",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 980,
+    "arabic": "ربما",
+    "translit": "rubbamā",
+    "ipa": "rubːamaː",
+    "english": "maybe",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 981,
+    "arabic": "هنا",
+    "translit": "hunā",
+    "ipa": "hunaː",
+    "english": "here",
+    "spanish": "aquí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 982,
+    "arabic": "هناك",
+    "translit": "hunāka",
+    "ipa": "hunaːka",
+    "english": "there",
+    "spanish": "allí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 983,
+    "arabic": "لذلك",
+    "translit": "lidhālik",
+    "ipa": "liðaːlik",
+    "english": "so",
+    "spanish": "así que",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 984,
+    "arabic": "إذا",
+    "translit": "idhā",
+    "ipa": "ʔiðaː",
+    "english": "if",
+    "spanish": "si",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 985,
+    "arabic": "بينما",
+    "translit": "baynamā",
+    "ipa": "bajnamaː",
+    "english": "while",
+    "spanish": "mientras",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 986,
+    "arabic": "منذ",
+    "translit": "mundhu",
+    "ipa": "munðu",
+    "english": "since",
+    "spanish": "desde",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 987,
+    "arabic": "على الرغم",
+    "translit": "ʿalā al-raghm",
+    "ipa": "ʕala‿rraɣm",
+    "english": "although",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 988,
+    "arabic": "حتى",
+    "translit": "ḥattā",
+    "ipa": "ħatːaː",
+    "english": "until",
+    "spanish": "hasta",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 989,
+    "arabic": "قبل",
+    "translit": "qabla",
+    "ipa": "qabla",
+    "english": "before",
+    "spanish": "antes",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 990,
+    "arabic": "بعد",
+    "translit": "baʿda",
+    "ipa": "baʕda",
+    "english": "after",
+    "spanish": "después",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 991,
+    "arabic": "خلال",
+    "translit": "khilāl",
+    "ipa": "xilaːl",
+    "english": "during",
+    "spanish": "durante",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 992,
+    "arabic": "فقط",
+    "translit": "faqaṭ",
+    "ipa": "faqatˤ",
+    "english": "only",
+    "spanish": "solo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 993,
+    "arabic": "بالضبط",
+    "translit": "bil-ḍabṭ",
+    "ipa": "bil dˤabtˤ",
+    "english": "just",
+    "spanish": "justo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 994,
+    "arabic": "حقًا",
+    "translit": "ḥaqqan",
+    "ipa": "ħaqːan",
+    "english": "really",
+    "spanish": "realmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 995,
+    "arabic": "بالفعل",
+    "translit": "bil-fiʿl",
+    "ipa": "bil fiʕl",
+    "english": "already",
+    "spanish": "ya",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 996,
+    "arabic": "لا يزال",
+    "translit": "lā yazāl",
+    "ipa": "laː jazaːl",
+    "english": "still",
+    "spanish": "todavía",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 997,
+    "arabic": "قريبًا",
+    "translit": "qarīban",
+    "ipa": "qariːban",
+    "english": "soon",
+    "spanish": "pronto",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 998,
+    "arabic": "أحيانًا",
+    "translit": "aḥyānan",
+    "ipa": "ʔaħjaːnan",
+    "english": "sometimes",
+    "spanish": "a veces",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 999,
+    "arabic": "عادةً",
+    "translit": "ʿādatan",
+    "ipa": "ʕaːdatan",
+    "english": "usually",
+    "spanish": "normalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1000,
+    "arabic": "أخيرًا",
+    "translit": "akhīran",
+    "ipa": "ʔaxiːran",
+    "english": "finally",
+    "spanish": "finalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1001,
+    "arabic": "معًا",
+    "translit": "maʿan",
+    "ipa": "maʕan",
+    "english": "together",
+    "spanish": "juntos",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1002,
+    "arabic": "تقريبًا",
+    "translit": "taqrīban",
+    "ipa": "taqriːban",
+    "english": "almost",
+    "spanish": "casi",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1003,
+    "arabic": "بعد",
+    "translit": "baʿd",
+    "ipa": "baʕd",
+    "english": "yet",
+    "spanish": "aún",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1004,
+    "arabic": "بواسطة",
+    "translit": "biwāsita",
+    "ipa": "biwaːsitˤa",
+    "english": "by",
+    "spanish": "por",
+    "category": "prepositions",
+    "level": "A2"
+  },
+  {
+    "id": 1005,
+    "arabic": "عن",
+    "translit": "ʿan",
+    "ipa": "ʕan",
+    "english": "about",
+    "spanish": "sobre",
+    "category": "prepositions",
+    "level": "A2"
   }
 ]

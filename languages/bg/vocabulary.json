@@ -7590,5 +7590,453 @@
     "spanish": "diccionario",
     "category": "education",
     "level": "A1"
+  },
+  {
+    "id": 950,
+    "bulgarian": "и",
+    "english": "and",
+    "spanish": "y",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 951,
+    "bulgarian": "но",
+    "english": "but",
+    "spanish": "pero",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 952,
+    "bulgarian": "или",
+    "english": "or",
+    "spanish": "o",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 953,
+    "bulgarian": "защото",
+    "english": "because",
+    "spanish": "porque",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 954,
+    "bulgarian": "аз",
+    "english": "I",
+    "spanish": "yo",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 955,
+    "bulgarian": "ти",
+    "english": "you",
+    "spanish": "tú",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 956,
+    "bulgarian": "той",
+    "english": "he",
+    "spanish": "él",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 957,
+    "bulgarian": "тя",
+    "english": "she",
+    "spanish": "ella",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 958,
+    "bulgarian": "то",
+    "english": "it",
+    "spanish": "ello",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 959,
+    "bulgarian": "ние",
+    "english": "we",
+    "spanish": "nosotros",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 960,
+    "bulgarian": "те",
+    "english": "they",
+    "spanish": "ellos",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 961,
+    "bulgarian": "този",
+    "english": "this",
+    "spanish": "este",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 962,
+    "bulgarian": "онзи",
+    "english": "that",
+    "spanish": "ese",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 963,
+    "bulgarian": "мой",
+    "english": "my",
+    "spanish": "mi",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 964,
+    "bulgarian": "твой",
+    "english": "your",
+    "spanish": "tu",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 965,
+    "bulgarian": "негов",
+    "english": "his",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 966,
+    "bulgarian": "неин",
+    "english": "her",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 967,
+    "bulgarian": "наш",
+    "english": "our",
+    "spanish": "nuestro",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 968,
+    "bulgarian": "техен",
+    "english": "their",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 969,
+    "bulgarian": "с",
+    "english": "with",
+    "spanish": "con",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 970,
+    "bulgarian": "без",
+    "english": "without",
+    "spanish": "sin",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 971,
+    "bulgarian": "за",
+    "english": "for",
+    "spanish": "para",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 972,
+    "bulgarian": "от",
+    "english": "from",
+    "spanish": "de",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 973,
+    "bulgarian": "до",
+    "english": "to",
+    "spanish": "a",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 974,
+    "bulgarian": "в",
+    "english": "at",
+    "spanish": "en",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 975,
+    "bulgarian": "също",
+    "english": "also",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 976,
+    "bulgarian": "също",
+    "english": "too",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 977,
+    "bulgarian": "много",
+    "english": "very",
+    "spanish": "muy",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 978,
+    "bulgarian": "по-късно",
+    "english": "later",
+    "spanish": "después",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 979,
+    "bulgarian": "тогава",
+    "english": "then",
+    "spanish": "entonces",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 980,
+    "bulgarian": "може би",
+    "english": "maybe",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 981,
+    "bulgarian": "тук",
+    "english": "here",
+    "spanish": "aquí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 982,
+    "bulgarian": "там",
+    "english": "there",
+    "spanish": "allí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 983,
+    "bulgarian": "така че",
+    "english": "so",
+    "spanish": "así que",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 984,
+    "bulgarian": "ако",
+    "english": "if",
+    "spanish": "si",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 985,
+    "bulgarian": "докато",
+    "english": "while",
+    "spanish": "mientras",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 986,
+    "bulgarian": "откакто",
+    "english": "since",
+    "spanish": "desde",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 987,
+    "bulgarian": "въпреки че",
+    "english": "although",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 988,
+    "bulgarian": "докато",
+    "english": "until",
+    "spanish": "hasta",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 989,
+    "bulgarian": "преди",
+    "english": "before",
+    "spanish": "antes",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 990,
+    "bulgarian": "след",
+    "english": "after",
+    "spanish": "después",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 991,
+    "bulgarian": "по време на",
+    "english": "during",
+    "spanish": "durante",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 992,
+    "bulgarian": "само",
+    "english": "only",
+    "spanish": "solo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 993,
+    "bulgarian": "точно",
+    "english": "just",
+    "spanish": "justo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 994,
+    "bulgarian": "наистина",
+    "english": "really",
+    "spanish": "realmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 995,
+    "bulgarian": "вече",
+    "english": "already",
+    "spanish": "ya",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 996,
+    "bulgarian": "още",
+    "english": "still",
+    "spanish": "todavía",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 997,
+    "bulgarian": "скоро",
+    "english": "soon",
+    "spanish": "pronto",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 998,
+    "bulgarian": "понякога",
+    "english": "sometimes",
+    "spanish": "a veces",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 999,
+    "bulgarian": "обикновено",
+    "english": "usually",
+    "spanish": "normalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1000,
+    "bulgarian": "най-накрая",
+    "english": "finally",
+    "spanish": "finalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1001,
+    "bulgarian": "заедно",
+    "english": "together",
+    "spanish": "juntos",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1002,
+    "bulgarian": "почти",
+    "english": "almost",
+    "spanish": "casi",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1003,
+    "bulgarian": "още",
+    "english": "yet",
+    "spanish": "aún",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1004,
+    "bulgarian": "чрез",
+    "english": "by",
+    "spanish": "por",
+    "category": "prepositions",
+    "level": "A2"
+  },
+  {
+    "id": 1005,
+    "bulgarian": "за",
+    "english": "about",
+    "spanish": "sobre",
+    "category": "prepositions",
+    "level": "A2"
   }
 ]

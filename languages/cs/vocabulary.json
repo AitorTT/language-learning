@@ -7590,5 +7590,453 @@
     "spanish": "diccionario",
     "category": "education",
     "level": "A1"
+  },
+  {
+    "id": 950,
+    "czech": "a",
+    "english": "and",
+    "spanish": "y",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 951,
+    "czech": "ale",
+    "english": "but",
+    "spanish": "pero",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 952,
+    "czech": "nebo",
+    "english": "or",
+    "spanish": "o",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 953,
+    "czech": "protože",
+    "english": "because",
+    "spanish": "porque",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 954,
+    "czech": "já",
+    "english": "I",
+    "spanish": "yo",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 955,
+    "czech": "ty",
+    "english": "you",
+    "spanish": "tú",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 956,
+    "czech": "on",
+    "english": "he",
+    "spanish": "él",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 957,
+    "czech": "ona",
+    "english": "she",
+    "spanish": "ella",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 958,
+    "czech": "ono",
+    "english": "it",
+    "spanish": "ello",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 959,
+    "czech": "my",
+    "english": "we",
+    "spanish": "nosotros",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 960,
+    "czech": "oni",
+    "english": "they",
+    "spanish": "ellos",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 961,
+    "czech": "tento",
+    "english": "this",
+    "spanish": "este",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 962,
+    "czech": "ten",
+    "english": "that",
+    "spanish": "ese",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 963,
+    "czech": "můj",
+    "english": "my",
+    "spanish": "mi",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 964,
+    "czech": "tvůj",
+    "english": "your",
+    "spanish": "tu",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 965,
+    "czech": "jeho",
+    "english": "his",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 966,
+    "czech": "její",
+    "english": "her",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 967,
+    "czech": "náš",
+    "english": "our",
+    "spanish": "nuestro",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 968,
+    "czech": "jejich",
+    "english": "their",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 969,
+    "czech": "s",
+    "english": "with",
+    "spanish": "con",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 970,
+    "czech": "bez",
+    "english": "without",
+    "spanish": "sin",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 971,
+    "czech": "pro",
+    "english": "for",
+    "spanish": "para",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 972,
+    "czech": "z",
+    "english": "from",
+    "spanish": "de",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 973,
+    "czech": "k",
+    "english": "to",
+    "spanish": "a",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 974,
+    "czech": "u",
+    "english": "at",
+    "spanish": "en",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 975,
+    "czech": "také",
+    "english": "also",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 976,
+    "czech": "také",
+    "english": "too",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 977,
+    "czech": "velmi",
+    "english": "very",
+    "spanish": "muy",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 978,
+    "czech": "později",
+    "english": "later",
+    "spanish": "después",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 979,
+    "czech": "pak",
+    "english": "then",
+    "spanish": "entonces",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 980,
+    "czech": "možná",
+    "english": "maybe",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 981,
+    "czech": "tady",
+    "english": "here",
+    "spanish": "aquí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 982,
+    "czech": "tam",
+    "english": "there",
+    "spanish": "allí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 983,
+    "czech": "takže",
+    "english": "so",
+    "spanish": "así que",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 984,
+    "czech": "jestli",
+    "english": "if",
+    "spanish": "si",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 985,
+    "czech": "zatímco",
+    "english": "while",
+    "spanish": "mientras",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 986,
+    "czech": "od",
+    "english": "since",
+    "spanish": "desde",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 987,
+    "czech": "ačkoli",
+    "english": "although",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 988,
+    "czech": "dokud",
+    "english": "until",
+    "spanish": "hasta",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 989,
+    "czech": "před",
+    "english": "before",
+    "spanish": "antes",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 990,
+    "czech": "po",
+    "english": "after",
+    "spanish": "después",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 991,
+    "czech": "během",
+    "english": "during",
+    "spanish": "durante",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 992,
+    "czech": "jen",
+    "english": "only",
+    "spanish": "solo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 993,
+    "czech": "právě",
+    "english": "just",
+    "spanish": "justo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 994,
+    "czech": "opravdu",
+    "english": "really",
+    "spanish": "realmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 995,
+    "czech": "už",
+    "english": "already",
+    "spanish": "ya",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 996,
+    "czech": "ještě",
+    "english": "still",
+    "spanish": "todavía",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 997,
+    "czech": "brzy",
+    "english": "soon",
+    "spanish": "pronto",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 998,
+    "czech": "někdy",
+    "english": "sometimes",
+    "spanish": "a veces",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 999,
+    "czech": "obvykle",
+    "english": "usually",
+    "spanish": "normalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1000,
+    "czech": "nakonec",
+    "english": "finally",
+    "spanish": "finalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1001,
+    "czech": "spolu",
+    "english": "together",
+    "spanish": "juntos",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1002,
+    "czech": "skoro",
+    "english": "almost",
+    "spanish": "casi",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1003,
+    "czech": "ještě",
+    "english": "yet",
+    "spanish": "aún",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1004,
+    "czech": "pomocí",
+    "english": "by",
+    "spanish": "por",
+    "category": "prepositions",
+    "level": "A2"
+  },
+  {
+    "id": 1005,
+    "czech": "o",
+    "english": "about",
+    "spanish": "sobre",
+    "category": "prepositions",
+    "level": "A2"
   }
 ]
