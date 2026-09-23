@@ -1,0 +1,2554 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Bulgarian alphabet",
+    "description": "Bulgarian uses the Cyrillic alphabet.",
+    "columns": [
+      "Letter",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "а",
+        "аз",
+        "a as in father",
+        "a"
+      ],
+      [
+        "ъ",
+        "български",
+        "schwa, like u in fur",
+        "ə"
+      ],
+      [
+        "щ",
+        "що",
+        "sht as in pushed",
+        "sht"
+      ],
+      [
+        "ж",
+        "жена",
+        "zh as in measure",
+        "y"
+      ],
+      [
+        "ч",
+        "чета",
+        "ch as in church",
+        "ch"
+      ],
+      [
+        "ш",
+        "шест",
+        "sh as in shop",
+        "sh"
+      ],
+      [
+        "ц",
+        "цена",
+        "ts as in cats",
+        "ts"
+      ],
+      [
+        "ю",
+        "юни",
+        "yu as in you",
+        "yu"
+      ],
+      [
+        "я",
+        "ябълка",
+        "ya as in yard",
+        "ya"
+      ],
+      [
+        "ь",
+        "шофьор",
+        "soft sign",
+        "signo blando"
+      ],
+      [
+        "дж",
+        "джоб",
+        "j as in jam",
+        "y"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "The pronoun is often left out of the sentence.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "аз",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "ти",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing.",
+        "той / тя / то",
+        "he / she / it",
+        "él / ella"
+      ],
+      [
+        "1st plur.",
+        "ние",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "вие",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "те",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "The verb съм (to be)",
+    "description": "The verb is irregular.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "съм",
+        "I am",
+        "soy / estoy"
+      ],
+      [
+        "you are",
+        "си",
+        "you are",
+        "eres / estás"
+      ],
+      [
+        "he is",
+        "е",
+        "he is",
+        "es / está"
+      ],
+      [
+        "we are",
+        "сме",
+        "we are",
+        "somos / estamos"
+      ],
+      [
+        "you are (pl.)",
+        "сте",
+        "you are",
+        "sois / estáis"
+      ],
+      [
+        "they are",
+        "са",
+        "they are",
+        "son / están"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "The verb имам (to have)",
+    "description": "The verb is regular in the present.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "имам",
+        "I have",
+        "tengo"
+      ],
+      [
+        "you have",
+        "имаш",
+        "you have",
+        "tienes"
+      ],
+      [
+        "he has",
+        "има",
+        "he has",
+        "tiene"
+      ],
+      [
+        "we have",
+        "имаме",
+        "we have",
+        "tenemos"
+      ],
+      [
+        "you have (pl.)",
+        "имате",
+        "you have",
+        "tenéis"
+      ],
+      [
+        "they have",
+        "имат",
+        "they have",
+        "tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Noun gender",
+    "description": "Every noun is masculine, feminine or neuter.",
+    "columns": [
+      "Gender",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "мъж",
+        "man",
+        "hombre"
+      ],
+      [
+        "feminine",
+        "жена",
+        "woman",
+        "mujer"
+      ],
+      [
+        "neuter",
+        "дете",
+        "child",
+        "niño"
+      ],
+      [
+        "masculine",
+        "стол",
+        "chair",
+        "silla"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural of nouns",
+    "description": "The plural ending depends on the noun.",
+    "columns": [
+      "Type",
+      "Singular",
+      "Plural",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -ж",
+        "мъж",
+        "мъже",
+        "hombre → hombres"
+      ],
+      [
+        "fem. -а",
+        "книга",
+        "книги",
+        "libro → libros"
+      ],
+      [
+        "neut. -е",
+        "дете",
+        "деца",
+        "niño → niños"
+      ],
+      [
+        "fem. -а",
+        "къща",
+        "къщи",
+        "casa → casas"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "The postposed definite article",
+    "description": "The article is a suffix, not a separate word.",
+    "columns": [
+      "Type",
+      "Indefinite",
+      "Definite",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "мъж",
+        "мъжът",
+        "el hombre"
+      ],
+      [
+        "feminine",
+        "жена",
+        "жената",
+        "la mujer"
+      ],
+      [
+        "neuter",
+        "дете",
+        "детето",
+        "el niño"
+      ],
+      [
+        "plural",
+        "къщи",
+        "къщите",
+        "las casas"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective agrees in gender and number.",
+    "columns": [
+      "Form",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc.",
+        "добър",
+        "good",
+        "bueno"
+      ],
+      [
+        "fem.",
+        "добра",
+        "good",
+        "buena"
+      ],
+      [
+        "neut.",
+        "добро",
+        "good",
+        "bueno (n.)"
+      ],
+      [
+        "plural",
+        "добри",
+        "good",
+        "buenos"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The endings are -а, -еш, -е, -ем, -ете, -ат.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I read",
+        "чета",
+        "I read",
+        "leo"
+      ],
+      [
+        "you read",
+        "четеш",
+        "you read",
+        "lees"
+      ],
+      [
+        "he reads",
+        "чете",
+        "he reads",
+        "lee"
+      ],
+      [
+        "we read",
+        "четем",
+        "we read",
+        "leemos"
+      ],
+      [
+        "they read",
+        "четат",
+        "they read",
+        "leen"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Negation",
+    "description": "не stands before the verb.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "не говоря",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "нищо",
+        "nothing",
+        "nada"
+      ],
+      [
+        "nobody",
+        "никой",
+        "nobody",
+        "nadie"
+      ],
+      [
+        "never",
+        "никога",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "какво",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "кой",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "къде",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "кога",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "защо",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "как",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "One and two have gender forms.",
+    "columns": [
+      "Number",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "едно",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "две",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "три",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "четири",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "пет",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "шест",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "седем",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "осем",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "девет",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "десет",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "The days are not capitalised.",
+    "columns": [
+      "Day",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "понеделник",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "вторник",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "сряда",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "четвъртък",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "петък",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "събота",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "неделя",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Colour",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "червен",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "син",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "зелен",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "черен",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "бял",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "жълт",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "майка",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "баща",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "брат",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "сестра",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "син",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "дъщеря",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "These agree with the noun.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (masc.)",
+        "моят",
+        "my",
+        "mi"
+      ],
+      [
+        "my (fem.)",
+        "моята",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "твоят",
+        "your",
+        "tu"
+      ],
+      [
+        "his",
+        "неговият",
+        "his",
+        "su"
+      ],
+      [
+        "our",
+        "нашият",
+        "our",
+        "nuestro"
+      ],
+      [
+        "their",
+        "техният",
+        "their",
+        "su"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Prepositions",
+    "description": "Bulgarian has no cases, so prepositions do the work.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "на масата",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "под масата",
+        "under the table",
+        "bajo la mesa"
+      ],
+      [
+        "behind",
+        "зад къщата",
+        "behind the house",
+        "detrás de la casa"
+      ],
+      [
+        "in front of",
+        "пред къщата",
+        "in front of the house",
+        "delante de la casa"
+      ],
+      [
+        "next to",
+        "до къщата",
+        "next to the house",
+        "junto a la casa"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "The vocative",
+    "description": "The vocative is used when addressing someone.",
+    "columns": [
+      "Name",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Ivan",
+        "Иване!",
+        "Ivan!",
+        "¡Ivan!"
+      ],
+      [
+        "Maria",
+        "Марийо!",
+        "Maria!",
+        "¡Maria!"
+      ],
+      [
+        "sir",
+        "господине!",
+        "sir!",
+        "¡señor!"
+      ],
+      [
+        "mum",
+        "мамо!",
+        "mum!",
+        "¡mamá!"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The aorist",
+    "description": "The aorist marks a completed past action.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I went",
+        "отидох",
+        "I went",
+        "fui"
+      ],
+      [
+        "you went",
+        "отиде",
+        "you went",
+        "fuiste"
+      ],
+      [
+        "we went",
+        "отидохме",
+        "we went",
+        "fuimos"
+      ],
+      [
+        "they went",
+        "отидоха",
+        "they went",
+        "fueron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The imperfect",
+    "description": "The imperfect describes an ongoing past action.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I was reading",
+        "четях",
+        "I was reading",
+        "leía"
+      ],
+      [
+        "you were reading",
+        "четеше",
+        "you were reading",
+        "leías"
+      ],
+      [
+        "we were reading",
+        "четяхме",
+        "we were reading",
+        "leíamos"
+      ],
+      [
+        "they were reading",
+        "четяха",
+        "they were reading",
+        "leían"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The future",
+    "description": "The future uses ще plus the present.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will go",
+        "ще отида",
+        "I will go",
+        "iré"
+      ],
+      [
+        "you will go",
+        "ще отидеш",
+        "you will go",
+        "irás"
+      ],
+      [
+        "he will go",
+        "ще отиде",
+        "he will go",
+        "irá"
+      ],
+      [
+        "we will go",
+        "ще отидем",
+        "we will go",
+        "iremos"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "да-constructions",
+    "description": "Bulgarian has no infinitive; it uses да plus the verb.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I want",
+        "искам да отида",
+        "I want to go",
+        "quiero ir"
+      ],
+      [
+        "I can",
+        "мога да дойда",
+        "I can come",
+        "puedo venir"
+      ],
+      [
+        "I must",
+        "трябва да тръгна",
+        "I must leave",
+        "debo irme"
+      ],
+      [
+        "I hope",
+        "надявам се да видя",
+        "I hope to see",
+        "espero ver"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative gives commands.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "write!",
+        "пиши",
+        "write!",
+        "¡escribe!"
+      ],
+      [
+        "write! (pl.)",
+        "пишете",
+        "write!",
+        "¡escribid!"
+      ],
+      [
+        "come!",
+        "ела",
+        "come!",
+        "¡ven!"
+      ],
+      [
+        "wait!",
+        "изчакай",
+        "wait!",
+        "¡espera!"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "The comparative adds по- to the adjective.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "по-голям",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "по-голям от",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "по-добър",
+        "better",
+        "mejor"
+      ],
+      [
+        "worse",
+        "по-лош",
+        "worse",
+        "peor"
+      ],
+      [
+        "more",
+        "повече",
+        "more",
+        "más"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "The superlative prefixes най- to the comparative.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "най-големият",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "най-добрият",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the worst",
+        "най-лошият",
+        "the worst",
+        "el peor"
+      ],
+      [
+        "very",
+        "много",
+        "very",
+        "muy"
+      ],
+      [
+        "the most",
+        "най-много",
+        "the most",
+        "el más"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The pronoun се matches the subject.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I wash myself",
+        "мия се",
+        "I wash myself",
+        "me lavo"
+      ],
+      [
+        "you wash yourself",
+        "миеш се",
+        "you wash yourself",
+        "te lavas"
+      ],
+      [
+        "he washes himself",
+        "мие се",
+        "he washes himself",
+        "se lava"
+      ],
+      [
+        "we wash ourselves",
+        "мием се",
+        "we wash ourselves",
+        "nos lavamos"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Clitic pronouns",
+    "description": "These short pronouns stand before the verb.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "me",
+        "ме",
+        "me",
+        "me"
+      ],
+      [
+        "you",
+        "те",
+        "you",
+        "te"
+      ],
+      [
+        "him",
+        "го",
+        "him",
+        "lo"
+      ],
+      [
+        "her",
+        "я",
+        "her",
+        "la"
+      ],
+      [
+        "us",
+        "ни",
+        "us",
+        "nos"
+      ],
+      [
+        "them",
+        "ги",
+        "them",
+        "los"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "винаги",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "често",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "понякога",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "рядко",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "никога",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "Teens end in -надесет; tens in -десет.",
+    "columns": [
+      "Number",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "единадесет",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "дванадесет",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "двадесет",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "тридесет",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "50",
+        "петдесет",
+        "fifty",
+        "cincuenta"
+      ],
+      [
+        "100",
+        "сто",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "първи",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "втори",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "трети",
+        "third",
+        "tercero"
+      ],
+      [
+        "fourth",
+        "четвърти",
+        "fourth",
+        "cuarto"
+      ],
+      [
+        "last",
+        "последен",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "The half and quarter use и and без.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "един часът",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "seven o'clock",
+        "седем часът",
+        "seven o'clock",
+        "las siete"
+      ],
+      [
+        "half past",
+        "и половина",
+        "half past",
+        "y media"
+      ],
+      [
+        "quarter past",
+        "и четвърт",
+        "quarter past",
+        "y cuarto"
+      ],
+      [
+        "quarter to",
+        "без петнадесет",
+        "quarter to",
+        "menos cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Months and seasons",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Word",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "януари",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "март",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "юни",
+        "June",
+        "junio"
+      ],
+      [
+        "December",
+        "декември",
+        "December",
+        "diciembre"
+      ],
+      [
+        "summer",
+        "лято",
+        "summer",
+        "verano"
+      ],
+      [
+        "winter",
+        "зима",
+        "winter",
+        "invierno"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Verb aspect",
+    "description": "Most verbs come in imperfective and perfective pairs.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "imperfective",
+        "пиша",
+        "to write (ongoing)",
+        "escribir"
+      ],
+      [
+        "perfective",
+        "напиша",
+        "to write (to completion)",
+        "escribir del todo"
+      ],
+      [
+        "imperfective",
+        "чета",
+        "to read (ongoing)",
+        "leer"
+      ],
+      [
+        "perfective",
+        "прочета",
+        "to read (to completion)",
+        "leer del todo"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "The perfect",
+    "description": "The perfect uses the -л participle plus съм.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have gone",
+        "отишъл съм",
+        "I have gone",
+        "he ido"
+      ],
+      [
+        "you have gone",
+        "отишъл си",
+        "you have gone",
+        "has ido"
+      ],
+      [
+        "he has gone",
+        "отишъл е",
+        "he has gone",
+        "ha ido"
+      ],
+      [
+        "we have gone",
+        "отишли сме",
+        "we have gone",
+        "hemos ido"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The pluperfect",
+    "description": "The pluperfect uses бях plus the -л participle.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I had gone",
+        "бях отишъл",
+        "I had gone",
+        "había ido"
+      ],
+      [
+        "you had gone",
+        "беше отишъл",
+        "you had gone",
+        "habías ido"
+      ],
+      [
+        "we had gone",
+        "бяхме отишли",
+        "we had gone",
+        "habíamos ido"
+      ],
+      [
+        "they had gone",
+        "бяха отишли",
+        "they had gone",
+        "habían ido"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The renarrative",
+    "description": "Bulgarian marks reported information with a special mood.",
+    "columns": [
+      "Person",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "he (reportedly)",
+        "той отишъл",
+        "he reportedly went",
+        "al parecer fue"
+      ],
+      [
+        "she (reportedly)",
+        "тя отишла",
+        "she reportedly went",
+        "al parecer fue"
+      ],
+      [
+        "they (reportedly)",
+        "те отишли",
+        "they reportedly went",
+        "al parecer fueron"
+      ],
+      [
+        "with auxiliary",
+        "той бил отишъл",
+        "he had reportedly gone",
+        "al parecer había ido"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "written",
+        "написан",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "уморен",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "затворен",
+        "closed",
+        "cerrado"
+      ],
+      [
+        "smiling",
+        "усмихнат",
+        "smiling",
+        "sonriente"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "The relative pronoun agrees with its antecedent.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who (masc.)",
+        "който",
+        "who (m.)",
+        "quien"
+      ],
+      [
+        "who (fem.)",
+        "която",
+        "who (f.)",
+        "quien"
+      ],
+      [
+        "which (neut.)",
+        "което",
+        "which (n.)",
+        "lo cual"
+      ],
+      [
+        "who (pl.)",
+        "които",
+        "who (pl.)",
+        "quienes"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "че and дали introduce reported clauses.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "че",
+        "that",
+        "que"
+      ],
+      [
+        "whether",
+        "дали",
+        "whether",
+        "si"
+      ],
+      [
+        "where",
+        "къде",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "кога",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbs become nouns ending in -не.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "четене",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "учене",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "walking",
+        "ходене",
+        "walking",
+        "caminata"
+      ],
+      [
+        "work",
+        "работа",
+        "work",
+        "trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Word order and clitics",
+    "description": "The clitic comes before the verb.",
+    "columns": [
+      "Type",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "аз чета книгата",
+        "I read the book",
+        "leo el libro"
+      ],
+      [
+        "clitic before verb",
+        "аз я чета",
+        "I read it",
+        "lo leo"
+      ],
+      [
+        "negation",
+        "не я чета",
+        "I do not read it",
+        "no lo leo"
+      ],
+      [
+        "imperative",
+        "прочети я!",
+        "read it!",
+        "¡léelo!"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "and",
+        "и",
+        "and",
+        "y"
+      ],
+      [
+        "but",
+        "но",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "защото",
+        "because",
+        "porque"
+      ],
+      [
+        "so",
+        "затова",
+        "so",
+        "por eso"
+      ],
+      [
+        "although",
+        "въпреки че",
+        "although",
+        "aunque"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "лечение",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "симптом",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "рецепта",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "ваксина",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "застраховка",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "среща",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "договор",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "заплата",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "колега",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "срок",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "училище",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "университет",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "изпит",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "знание",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "умение",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Verb plus preposition",
+    "description": "Many verbs take a fixed preposition.",
+    "columns": [
+      "Use",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait for",
+        "чакам",
+        "to wait for",
+        "esperar"
+      ],
+      [
+        "care about",
+        "грижа се за",
+        "to care about",
+        "cuidar de"
+      ],
+      [
+        "depend on",
+        "зависи от",
+        "to depend on",
+        "depender de"
+      ],
+      [
+        "answer",
+        "отговарям на",
+        "to answer",
+        "responder a"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "пристигане",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "изследване",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "сътрудничество",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "производство",
+        "production",
+        "producción"
+      ],
+      [
+        "analysis",
+        "анализ",
+        "analysis",
+        "análisis"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "методология",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "корелация",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "променлива",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "емпиричен",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "количествен",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "инфлация",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "фалит",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "субсидия",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "приход",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "инвестиция",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "конституция",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "парламент",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "присъда",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "ищец",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "ответник",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "етика",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "морал",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "честност",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "отговорност",
+        "responsibility",
+        "responsabilidad"
+      ],
+      [
+        "virtue",
+        "добродетел",
+        "virtue",
+        "virtud"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "съзнание",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "съществуване",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "идентичност",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "парадокс",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "дилема",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "диагноза",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "терапия",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "хроничен",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "инфекция",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "имунен",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "молекула",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "атом",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "гравитация",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "клетка",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "експеримент",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Bulgarian.",
+    "columns": [
+      "Connector",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "освен това",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "обаче",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "затова",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "първо",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "въпреки това",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "вземам решение",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "обръщам внимание",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "играя роля",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "правя заключение",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "издържам дълго",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "поправям",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "рециклирам",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "емисии на въглерод",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "устойчив",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Bulgarian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "реторика",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "дискурс",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "двусмислие",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "консенсус",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "аргумент",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]

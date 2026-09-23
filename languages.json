@@ -401,5 +401,19 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "bg",
+    "name": "Bulgarian",
+    "flag": "🇧🇬",
+    "speech": "bg-BG",
+    "termLabel": "Bulgarian",
+    "termField": "bulgarian",
+    "script": "cyrillic",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
