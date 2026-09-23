@@ -1,4 +1,6 @@
 import datetime
+import gzip
+import hashlib
 import json
 import os
 import time
@@ -231,22 +233,39 @@ def _by_level(items, level):
 
 
 class Handler(BaseHTTPRequestHandler):
-    def _send_json(self, code, data):
-        body = json.dumps(data, ensure_ascii=False).encode("utf-8")
+    def _send_bytes(self, code, body, content_type, cache_control):
+        etag = '"%s"' % hashlib.md5(body).hexdigest()
+        if self.headers.get("If-None-Match") == etag:
+            self.send_response(304)
+            self.send_header("ETag", etag)
+            self.send_header("Cache-Control", cache_control)
+            self.end_headers()
+            return
+        headers = [
+            ("Content-Type", content_type),
+            ("ETag", etag),
+            ("Cache-Control", cache_control),
+            ("Access-Control-Allow-Origin", "*"),
+            ("Vary", "Accept-Encoding"),
+        ]
+        if len(body) >= 1024 and "gzip" in self.headers.get("Accept-Encoding", ""):
+            body = gzip.compress(body, 6)
+            headers.append(("Content-Encoding", "gzip"))
         self.send_response(code)
-        self.send_header("Content-Type", "application/json; charset=utf-8")
+        for name, value in headers:
+            self.send_header(name, value)
         self.send_header("Content-Length", str(len(body)))
-        self.send_header("Access-Control-Allow-Origin", "*")
         self.end_headers()
         self.wfile.write(body)
 
+    def _send_json(self, code, data, cache_control=None):
+        body = json.dumps(data, ensure_ascii=False).encode("utf-8")
+        if cache_control is None:
+            cache_control = "public, max-age=300" if code == 200 else "no-store"
+        self._send_bytes(code, body, "application/json; charset=utf-8", cache_control)
+
     def _send_html(self, body):
-        data = body.encode("utf-8")
-        self.send_response(200)
-        self.send_header("Content-Type", "text/html; charset=utf-8")
-        self.send_header("Content-Length", str(len(data)))
-        self.end_headers()
-        self.wfile.write(data)
+        self._send_bytes(200, body.encode("utf-8"), "text/html; charset=utf-8", "no-cache")
 
     def _authorized(self):
         return bool(WRITE_PASSWORD) and self.headers.get("X-Password") == WRITE_PASSWORD
@@ -295,7 +314,7 @@ class Handler(BaseHTTPRequestHandler):
             elif not self._authorized():
                 self._send_json(401, {"error": "unauthorized"})
             else:
-                self._send_json(200, list(reversed(_load_notes())))
+                self._send_json(200, list(reversed(_load_notes())), "no-store")
         else:
             parts = [p for p in path.split("/") if p]
             if len(parts) >= 3 and parts[0] == "api":
@@ -358,7 +377,7 @@ class Handler(BaseHTTPRequestHandler):
         notes = _load_notes()
         remaining = [n for n in notes if str(n["id"]) != parts[1]]
         _save_notes(remaining)
-        self._send_json(200, {"deleted": len(notes) - len(remaining)})
+        self._send_json(200, {"deleted": len(notes) - len(remaining)}, "no-store")
 
     def log_message(self, *args):
         pass
