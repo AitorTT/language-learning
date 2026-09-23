@@ -6398,5 +6398,405 @@
     "spanish": "pasta",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 801,
+    "finnish": "ravintola",
+    "english": "restaurant",
+    "spanish": "restaurante",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 802,
+    "finnish": "hotelli",
+    "english": "hotel",
+    "spanish": "hotel",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 803,
+    "finnish": "sairaala",
+    "english": "hospital",
+    "spanish": "hospital",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 804,
+    "finnish": "apteekki",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 805,
+    "finnish": "leipomo",
+    "english": "bakery",
+    "spanish": "panadería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 806,
+    "finnish": "lihakauppa",
+    "english": "butcher",
+    "spanish": "carnicería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 807,
+    "finnish": "elokuvateatteri",
+    "english": "cinema",
+    "spanish": "cine",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 808,
+    "finnish": "kahvila",
+    "english": "café",
+    "spanish": "café",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 809,
+    "finnish": "pubi",
+    "english": "pub",
+    "spanish": "bar",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 810,
+    "finnish": "stadion",
+    "english": "stadium",
+    "spanish": "estadio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 811,
+    "finnish": "eläintarha",
+    "english": "zoo",
+    "spanish": "zoo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 812,
+    "finnish": "leikkikenttä",
+    "english": "playground",
+    "spanish": "parque infantil",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 813,
+    "finnish": "pysäköintialue",
+    "english": "car park",
+    "spanish": "aparcamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 814,
+    "finnish": "risteys",
+    "english": "crossroads",
+    "spanish": "cruce",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 815,
+    "finnish": "rakennus",
+    "english": "building",
+    "spanish": "edificio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 816,
+    "finnish": "torni",
+    "english": "tower",
+    "spanish": "torre",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 817,
+    "finnish": "linna",
+    "english": "castle",
+    "spanish": "castillo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 818,
+    "finnish": "temppeli",
+    "english": "temple",
+    "spanish": "templo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 819,
+    "finnish": "moskeija",
+    "english": "mosque",
+    "spanish": "mezquita",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 820,
+    "finnish": "kaupungintalo",
+    "english": "town hall",
+    "spanish": "ayuntamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 821,
+    "finnish": "posti",
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 822,
+    "finnish": "poliisiasema",
+    "english": "police station",
+    "spanish": "comisaría",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 823,
+    "finnish": "paloasema",
+    "english": "fire station",
+    "spanish": "parque de bomberos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 824,
+    "finnish": "bussipysäkki",
+    "english": "bus stop",
+    "spanish": "parada de autobús",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 825,
+    "finnish": "huoltoasema",
+    "english": "petrol station",
+    "spanish": "gasolinera",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 826,
+    "finnish": "moottoripyörä",
+    "english": "motorbike",
+    "spanish": "moto",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 827,
+    "finnish": "taksi",
+    "english": "taxi",
+    "spanish": "taxi",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 828,
+    "finnish": "kuorma-auto",
+    "english": "truck",
+    "spanish": "camión",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 829,
+    "finnish": "pakettiauto",
+    "english": "van",
+    "spanish": "furgoneta",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 830,
+    "finnish": "raitiovaunu",
+    "english": "tram",
+    "spanish": "tranvía",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 831,
+    "finnish": "laiva",
+    "english": "ship",
+    "spanish": "buque",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 832,
+    "finnish": "helikopteri",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 833,
+    "finnish": "raketti",
+    "english": "rocket",
+    "spanish": "cohete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 834,
+    "finnish": "potkulauta",
+    "english": "scooter",
+    "spanish": "patinete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 835,
+    "finnish": "lautta",
+    "english": "ferry",
+    "spanish": "ferri",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 836,
+    "finnish": "rautatie",
+    "english": "railway",
+    "spanish": "ferrocarril",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 837,
+    "finnish": "moottoritie",
+    "english": "motorway",
+    "spanish": "autopista",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 838,
+    "finnish": "tunneli",
+    "english": "tunnel",
+    "spanish": "túnel",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 839,
+    "finnish": "pyörä",
+    "english": "wheel",
+    "spanish": "rueda",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 840,
+    "finnish": "moottori",
+    "english": "engine",
+    "spanish": "motor",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 841,
+    "finnish": "opiskelija",
+    "english": "student",
+    "spanish": "estudiante",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 842,
+    "finnish": "luokkahuone",
+    "english": "classroom",
+    "spanish": "aula",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 843,
+    "finnish": "oppitunti",
+    "english": "lesson",
+    "spanish": "lección",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 844,
+    "finnish": "kotitehtävä",
+    "english": "homework",
+    "spanish": "deberes",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 845,
+    "finnish": "lyijykynä",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 846,
+    "finnish": "vihko",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 847,
+    "finnish": "pyyhekumi",
+    "english": "eraser",
+    "spanish": "goma",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 848,
+    "finnish": "viivain",
+    "english": "ruler",
+    "spanish": "regla",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 849,
+    "finnish": "reppu",
+    "english": "backpack",
+    "spanish": "mochila",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 850,
+    "finnish": "paperi",
+    "english": "paper",
+    "spanish": "papel",
+    "category": "education",
+    "level": "A1"
   }
 ]

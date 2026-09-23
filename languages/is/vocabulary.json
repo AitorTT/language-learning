@@ -6398,5 +6398,405 @@
     "spanish": "pasta",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 801,
+    "icelandic": "veitingastaður",
+    "english": "restaurant",
+    "spanish": "restaurante",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 802,
+    "icelandic": "hótel",
+    "english": "hotel",
+    "spanish": "hotel",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 803,
+    "icelandic": "sjúkrahús",
+    "english": "hospital",
+    "spanish": "hospital",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 804,
+    "icelandic": "apótek",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 805,
+    "icelandic": "bakarí",
+    "english": "bakery",
+    "spanish": "panadería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 806,
+    "icelandic": "kjötbúð",
+    "english": "butcher",
+    "spanish": "carnicería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 807,
+    "icelandic": "kvikmyndahús",
+    "english": "cinema",
+    "spanish": "cine",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 808,
+    "icelandic": "kaffihús",
+    "english": "café",
+    "spanish": "café",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 809,
+    "icelandic": "krá",
+    "english": "pub",
+    "spanish": "bar",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 810,
+    "icelandic": "leikvangur",
+    "english": "stadium",
+    "spanish": "estadio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 811,
+    "icelandic": "dýragarður",
+    "english": "zoo",
+    "spanish": "zoo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 812,
+    "icelandic": "leikvöllur",
+    "english": "playground",
+    "spanish": "parque infantil",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 813,
+    "icelandic": "bílastæði",
+    "english": "car park",
+    "spanish": "aparcamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 814,
+    "icelandic": "gatnamót",
+    "english": "crossroads",
+    "spanish": "cruce",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 815,
+    "icelandic": "bygging",
+    "english": "building",
+    "spanish": "edificio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 816,
+    "icelandic": "turn",
+    "english": "tower",
+    "spanish": "torre",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 817,
+    "icelandic": "kastali",
+    "english": "castle",
+    "spanish": "castillo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 818,
+    "icelandic": "musteri",
+    "english": "temple",
+    "spanish": "templo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 819,
+    "icelandic": "moska",
+    "english": "mosque",
+    "spanish": "mezquita",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 820,
+    "icelandic": "ráðhús",
+    "english": "town hall",
+    "spanish": "ayuntamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 821,
+    "icelandic": "pósthús",
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 822,
+    "icelandic": "lögreglustöð",
+    "english": "police station",
+    "spanish": "comisaría",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 823,
+    "icelandic": "slökkvistöð",
+    "english": "fire station",
+    "spanish": "parque de bomberos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 824,
+    "icelandic": "strætóstöð",
+    "english": "bus stop",
+    "spanish": "parada de autobús",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 825,
+    "icelandic": "bensínstöð",
+    "english": "petrol station",
+    "spanish": "gasolinera",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 826,
+    "icelandic": "mótorhjól",
+    "english": "motorbike",
+    "spanish": "moto",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 827,
+    "icelandic": "leigubíll",
+    "english": "taxi",
+    "spanish": "taxi",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 828,
+    "icelandic": "vörubíll",
+    "english": "truck",
+    "spanish": "camión",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 829,
+    "icelandic": "sendibíll",
+    "english": "van",
+    "spanish": "furgoneta",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 830,
+    "icelandic": "sporvagn",
+    "english": "tram",
+    "spanish": "tranvía",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 831,
+    "icelandic": "skip",
+    "english": "ship",
+    "spanish": "buque",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 832,
+    "icelandic": "þyrla",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 833,
+    "icelandic": "eldflaug",
+    "english": "rocket",
+    "spanish": "cohete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 834,
+    "icelandic": "hlaupahjól",
+    "english": "scooter",
+    "spanish": "patinete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 835,
+    "icelandic": "ferja",
+    "english": "ferry",
+    "spanish": "ferri",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 836,
+    "icelandic": "járnbraut",
+    "english": "railway",
+    "spanish": "ferrocarril",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 837,
+    "icelandic": "hraðbraut",
+    "english": "motorway",
+    "spanish": "autopista",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 838,
+    "icelandic": "göng",
+    "english": "tunnel",
+    "spanish": "túnel",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 839,
+    "icelandic": "hjól",
+    "english": "wheel",
+    "spanish": "rueda",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 840,
+    "icelandic": "vél",
+    "english": "engine",
+    "spanish": "motor",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 841,
+    "icelandic": "nemandi",
+    "english": "student",
+    "spanish": "estudiante",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 842,
+    "icelandic": "kennslustofa",
+    "english": "classroom",
+    "spanish": "aula",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 843,
+    "icelandic": "kennslustund",
+    "english": "lesson",
+    "spanish": "lección",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 844,
+    "icelandic": "heimavinna",
+    "english": "homework",
+    "spanish": "deberes",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 845,
+    "icelandic": "blýantur",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 846,
+    "icelandic": "stílabók",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 847,
+    "icelandic": "strokleður",
+    "english": "eraser",
+    "spanish": "goma",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 848,
+    "icelandic": "reglustika",
+    "english": "ruler",
+    "spanish": "regla",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 849,
+    "icelandic": "bakpoki",
+    "english": "backpack",
+    "spanish": "mochila",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 850,
+    "icelandic": "pappír",
+    "english": "paper",
+    "spanish": "papel",
+    "category": "education",
+    "level": "A1"
   }
 ]

@@ -6398,5 +6398,405 @@
     "spanish": "pasta",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 801,
+    "romanian": "restaurant",
+    "english": "restaurant",
+    "spanish": "restaurante",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 802,
+    "romanian": "hotel",
+    "english": "hotel",
+    "spanish": "hotel",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 803,
+    "romanian": "spital",
+    "english": "hospital",
+    "spanish": "hospital",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 804,
+    "romanian": "farmacie",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 805,
+    "romanian": "brutărie",
+    "english": "bakery",
+    "spanish": "panadería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 806,
+    "romanian": "măcelărie",
+    "english": "butcher",
+    "spanish": "carnicería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 807,
+    "romanian": "cinematograf",
+    "english": "cinema",
+    "spanish": "cine",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 808,
+    "romanian": "cafenea",
+    "english": "café",
+    "spanish": "café",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 809,
+    "romanian": "bar",
+    "english": "pub",
+    "spanish": "bar",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 810,
+    "romanian": "stadion",
+    "english": "stadium",
+    "spanish": "estadio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 811,
+    "romanian": "grădină zoologică",
+    "english": "zoo",
+    "spanish": "zoo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 812,
+    "romanian": "loc de joacă",
+    "english": "playground",
+    "spanish": "parque infantil",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 813,
+    "romanian": "parcare",
+    "english": "car park",
+    "spanish": "aparcamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 814,
+    "romanian": "intersecție",
+    "english": "crossroads",
+    "spanish": "cruce",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 815,
+    "romanian": "clădire",
+    "english": "building",
+    "spanish": "edificio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 816,
+    "romanian": "turn",
+    "english": "tower",
+    "spanish": "torre",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 817,
+    "romanian": "castel",
+    "english": "castle",
+    "spanish": "castillo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 818,
+    "romanian": "templu",
+    "english": "temple",
+    "spanish": "templo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 819,
+    "romanian": "moschee",
+    "english": "mosque",
+    "spanish": "mezquita",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 820,
+    "romanian": "primărie",
+    "english": "town hall",
+    "spanish": "ayuntamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 821,
+    "romanian": "oficiu poștal",
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 822,
+    "romanian": "secție de poliție",
+    "english": "police station",
+    "spanish": "comisaría",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 823,
+    "romanian": "post de pompieri",
+    "english": "fire station",
+    "spanish": "parque de bomberos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 824,
+    "romanian": "stație de autobuz",
+    "english": "bus stop",
+    "spanish": "parada de autobús",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 825,
+    "romanian": "benzinărie",
+    "english": "petrol station",
+    "spanish": "gasolinera",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 826,
+    "romanian": "motocicletă",
+    "english": "motorbike",
+    "spanish": "moto",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 827,
+    "romanian": "taxi",
+    "english": "taxi",
+    "spanish": "taxi",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 828,
+    "romanian": "camion",
+    "english": "truck",
+    "spanish": "camión",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 829,
+    "romanian": "furgonetă",
+    "english": "van",
+    "spanish": "furgoneta",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 830,
+    "romanian": "tramvai",
+    "english": "tram",
+    "spanish": "tranvía",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 831,
+    "romanian": "navă",
+    "english": "ship",
+    "spanish": "buque",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 832,
+    "romanian": "elicopter",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 833,
+    "romanian": "rachetă",
+    "english": "rocket",
+    "spanish": "cohete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 834,
+    "romanian": "trotinetă",
+    "english": "scooter",
+    "spanish": "patinete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 835,
+    "romanian": "feribot",
+    "english": "ferry",
+    "spanish": "ferri",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 836,
+    "romanian": "cale ferată",
+    "english": "railway",
+    "spanish": "ferrocarril",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 837,
+    "romanian": "autostradă",
+    "english": "motorway",
+    "spanish": "autopista",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 838,
+    "romanian": "tunel",
+    "english": "tunnel",
+    "spanish": "túnel",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 839,
+    "romanian": "roată",
+    "english": "wheel",
+    "spanish": "rueda",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 840,
+    "romanian": "motor",
+    "english": "engine",
+    "spanish": "motor",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 841,
+    "romanian": "student",
+    "english": "student",
+    "spanish": "estudiante",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 842,
+    "romanian": "sală de clasă",
+    "english": "classroom",
+    "spanish": "aula",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 843,
+    "romanian": "lecție",
+    "english": "lesson",
+    "spanish": "lección",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 844,
+    "romanian": "teme",
+    "english": "homework",
+    "spanish": "deberes",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 845,
+    "romanian": "creion",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 846,
+    "romanian": "caiet",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 847,
+    "romanian": "gumă de șters",
+    "english": "eraser",
+    "spanish": "goma",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 848,
+    "romanian": "riglă",
+    "english": "ruler",
+    "spanish": "regla",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 849,
+    "romanian": "rucsac",
+    "english": "backpack",
+    "spanish": "mochila",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 850,
+    "romanian": "hârtie",
+    "english": "paper",
+    "spanish": "papel",
+    "category": "education",
+    "level": "A1"
   }
 ]

@@ -7198,5 +7198,455 @@
     "spanish": "pasta",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 801,
+    "hindi": "रेस्तरां",
+    "translit": "restorā̃",
+    "english": "restaurant",
+    "spanish": "restaurante",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 802,
+    "hindi": "होटल",
+    "translit": "hoṭal",
+    "english": "hotel",
+    "spanish": "hotel",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 803,
+    "hindi": "अस्पताल",
+    "translit": "asp(a)tāl",
+    "english": "hospital",
+    "spanish": "hospital",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 804,
+    "hindi": "दवाख़ाना",
+    "translit": "davāxānā",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 805,
+    "hindi": "बेकरी",
+    "translit": "bekrī",
+    "english": "bakery",
+    "spanish": "panadería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 806,
+    "hindi": "कसाई की दुकान",
+    "translit": "kasāī kī dukān",
+    "english": "butcher",
+    "spanish": "carnicería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 807,
+    "hindi": "सिनेमा",
+    "translit": "sinemā",
+    "english": "cinema",
+    "spanish": "cine",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 808,
+    "hindi": "कैफ़े",
+    "translit": "kaife",
+    "english": "café",
+    "spanish": "café",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 809,
+    "hindi": "बार",
+    "translit": "bār",
+    "english": "pub",
+    "spanish": "bar",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 810,
+    "hindi": "स्टेडियम",
+    "translit": "sṭeḍiyam",
+    "english": "stadium",
+    "spanish": "estadio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 811,
+    "hindi": "चिड़ियाघर",
+    "translit": "ciṛiyāghar",
+    "english": "zoo",
+    "spanish": "zoo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 812,
+    "hindi": "खेल का मैदान",
+    "translit": "khel kā maidān",
+    "english": "playground",
+    "spanish": "parque infantil",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 813,
+    "hindi": "पार्किंग",
+    "translit": "pārkiṅg",
+    "english": "car park",
+    "spanish": "aparcamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 814,
+    "hindi": "चौराहा",
+    "translit": "chaurāhā",
+    "english": "crossroads",
+    "spanish": "cruce",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 815,
+    "hindi": "इमारत",
+    "translit": "imārat",
+    "english": "building",
+    "spanish": "edificio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 816,
+    "hindi": "मीनार",
+    "translit": "mīnār",
+    "english": "tower",
+    "spanish": "torre",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 817,
+    "hindi": "क़िला",
+    "translit": "qilā",
+    "english": "castle",
+    "spanish": "castillo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 818,
+    "hindi": "मंदिर",
+    "translit": "mandir",
+    "english": "temple",
+    "spanish": "templo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 819,
+    "hindi": "मस्जिद",
+    "translit": "masjid",
+    "english": "mosque",
+    "spanish": "mezquita",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 820,
+    "hindi": "नगरपालिका",
+    "translit": "nagarpālikā",
+    "english": "town hall",
+    "spanish": "ayuntamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 821,
+    "hindi": "डाकघर",
+    "translit": "ḍākghar",
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 822,
+    "hindi": "पुलिस थाना",
+    "translit": "pulis thānā",
+    "english": "police station",
+    "spanish": "comisaría",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 823,
+    "hindi": "दमकल केंद्र",
+    "translit": "damkal kendr",
+    "english": "fire station",
+    "spanish": "parque de bomberos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 824,
+    "hindi": "बस स्टॉप",
+    "translit": "bas sṭŏp",
+    "english": "bus stop",
+    "spanish": "parada de autobús",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 825,
+    "hindi": "पेट्रोल पंप",
+    "translit": "peṭrol pamp",
+    "english": "petrol station",
+    "spanish": "gasolinera",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 826,
+    "hindi": "मोटरसाइकिल",
+    "translit": "moṭarsāikil",
+    "english": "motorbike",
+    "spanish": "moto",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 827,
+    "hindi": "टैक्सी",
+    "translit": "ṭaiksī",
+    "english": "taxi",
+    "spanish": "taxi",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 828,
+    "hindi": "ट्रक",
+    "translit": "ṭrak",
+    "english": "truck",
+    "spanish": "camión",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 829,
+    "hindi": "वैन",
+    "translit": "vain",
+    "english": "van",
+    "spanish": "furgoneta",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 830,
+    "hindi": "ट्राम",
+    "translit": "ṭrām",
+    "english": "tram",
+    "spanish": "tranvía",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 831,
+    "hindi": "जहाज़",
+    "translit": "jahāz",
+    "english": "ship",
+    "spanish": "buque",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 832,
+    "hindi": "हेलीकॉप्टर",
+    "translit": "helīkŏpṭar",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 833,
+    "hindi": "रॉकेट",
+    "translit": "rôkeṭ",
+    "english": "rocket",
+    "spanish": "cohete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 834,
+    "hindi": "स्कूटर",
+    "translit": "skūṭar",
+    "english": "scooter",
+    "spanish": "patinete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 835,
+    "hindi": "फ़ेरी",
+    "translit": "ferī",
+    "english": "ferry",
+    "spanish": "ferri",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 836,
+    "hindi": "रेलवे",
+    "translit": "relve",
+    "english": "railway",
+    "spanish": "ferrocarril",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 837,
+    "hindi": "राजमार्ग",
+    "translit": "rājmārg",
+    "english": "motorway",
+    "spanish": "autopista",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 838,
+    "hindi": "सुरंग",
+    "translit": "suraṅg",
+    "english": "tunnel",
+    "spanish": "túnel",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 839,
+    "hindi": "पहिया",
+    "translit": "pahiyā",
+    "english": "wheel",
+    "spanish": "rueda",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 840,
+    "hindi": "इंजन",
+    "translit": "iñjan",
+    "english": "engine",
+    "spanish": "motor",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 841,
+    "hindi": "छात्र",
+    "translit": "chātr",
+    "english": "student",
+    "spanish": "estudiante",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 842,
+    "hindi": "कक्षा",
+    "translit": "kakṣā",
+    "english": "classroom",
+    "spanish": "aula",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 843,
+    "hindi": "पाठ",
+    "translit": "pāṭh",
+    "english": "lesson",
+    "spanish": "lección",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 844,
+    "hindi": "गृहकार्य",
+    "translit": "gṛhakārya",
+    "english": "homework",
+    "spanish": "deberes",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 845,
+    "hindi": "पेंसिल",
+    "translit": "pensil",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 846,
+    "hindi": "कॉपी",
+    "translit": "kŏpī",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 847,
+    "hindi": "रबर",
+    "translit": "rabar",
+    "english": "eraser",
+    "spanish": "goma",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 848,
+    "hindi": "रूलर",
+    "translit": "rūlar",
+    "english": "ruler",
+    "spanish": "regla",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 849,
+    "hindi": "बस्ता",
+    "translit": "bastā",
+    "english": "backpack",
+    "spanish": "mochila",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 850,
+    "hindi": "काग़ज़",
+    "translit": "kāġaz",
+    "english": "paper",
+    "spanish": "papel",
+    "category": "education",
+    "level": "A1"
   }
 ]

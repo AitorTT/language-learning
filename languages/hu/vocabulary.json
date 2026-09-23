@@ -6398,5 +6398,405 @@
     "spanish": "pasta",
     "category": "food",
     "level": "A1"
+  },
+  {
+    "id": 801,
+    "hungarian": "étterem",
+    "english": "restaurant",
+    "spanish": "restaurante",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 802,
+    "hungarian": "szálloda",
+    "english": "hotel",
+    "spanish": "hotel",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 803,
+    "hungarian": "kórház",
+    "english": "hospital",
+    "spanish": "hospital",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 804,
+    "hungarian": "gyógyszertár",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 805,
+    "hungarian": "pékség",
+    "english": "bakery",
+    "spanish": "panadería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 806,
+    "hungarian": "hentes",
+    "english": "butcher",
+    "spanish": "carnicería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 807,
+    "hungarian": "mozi",
+    "english": "cinema",
+    "spanish": "cine",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 808,
+    "hungarian": "kávézó",
+    "english": "café",
+    "spanish": "café",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 809,
+    "hungarian": "kocsma",
+    "english": "pub",
+    "spanish": "bar",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 810,
+    "hungarian": "stadion",
+    "english": "stadium",
+    "spanish": "estadio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 811,
+    "hungarian": "állatkert",
+    "english": "zoo",
+    "spanish": "zoo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 812,
+    "hungarian": "játszótér",
+    "english": "playground",
+    "spanish": "parque infantil",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 813,
+    "hungarian": "parkoló",
+    "english": "car park",
+    "spanish": "aparcamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 814,
+    "hungarian": "kereszteződés",
+    "english": "crossroads",
+    "spanish": "cruce",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 815,
+    "hungarian": "épület",
+    "english": "building",
+    "spanish": "edificio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 816,
+    "hungarian": "torony",
+    "english": "tower",
+    "spanish": "torre",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 817,
+    "hungarian": "kastély",
+    "english": "castle",
+    "spanish": "castillo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 818,
+    "hungarian": "templom",
+    "english": "temple",
+    "spanish": "templo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 819,
+    "hungarian": "mecset",
+    "english": "mosque",
+    "spanish": "mezquita",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 820,
+    "hungarian": "városháza",
+    "english": "town hall",
+    "spanish": "ayuntamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 821,
+    "hungarian": "posta",
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 822,
+    "hungarian": "rendőrség",
+    "english": "police station",
+    "spanish": "comisaría",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 823,
+    "hungarian": "tűzoltóság",
+    "english": "fire station",
+    "spanish": "parque de bomberos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 824,
+    "hungarian": "buszmegálló",
+    "english": "bus stop",
+    "spanish": "parada de autobús",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 825,
+    "hungarian": "benzinkút",
+    "english": "petrol station",
+    "spanish": "gasolinera",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 826,
+    "hungarian": "motorkerékpár",
+    "english": "motorbike",
+    "spanish": "moto",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 827,
+    "hungarian": "taxi",
+    "english": "taxi",
+    "spanish": "taxi",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 828,
+    "hungarian": "teherautó",
+    "english": "truck",
+    "spanish": "camión",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 829,
+    "hungarian": "kisteherautó",
+    "english": "van",
+    "spanish": "furgoneta",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 830,
+    "hungarian": "villamos",
+    "english": "tram",
+    "spanish": "tranvía",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 831,
+    "hungarian": "hajó",
+    "english": "ship",
+    "spanish": "buque",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 832,
+    "hungarian": "helikopter",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 833,
+    "hungarian": "rakéta",
+    "english": "rocket",
+    "spanish": "cohete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 834,
+    "hungarian": "roller",
+    "english": "scooter",
+    "spanish": "patinete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 835,
+    "hungarian": "komp",
+    "english": "ferry",
+    "spanish": "ferri",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 836,
+    "hungarian": "vasút",
+    "english": "railway",
+    "spanish": "ferrocarril",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 837,
+    "hungarian": "autópálya",
+    "english": "motorway",
+    "spanish": "autopista",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 838,
+    "hungarian": "alagút",
+    "english": "tunnel",
+    "spanish": "túnel",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 839,
+    "hungarian": "kerék",
+    "english": "wheel",
+    "spanish": "rueda",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 840,
+    "hungarian": "motor",
+    "english": "engine",
+    "spanish": "motor",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 841,
+    "hungarian": "diák",
+    "english": "student",
+    "spanish": "estudiante",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 842,
+    "hungarian": "tanterem",
+    "english": "classroom",
+    "spanish": "aula",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 843,
+    "hungarian": "tanóra",
+    "english": "lesson",
+    "spanish": "lección",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 844,
+    "hungarian": "házi feladat",
+    "english": "homework",
+    "spanish": "deberes",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 845,
+    "hungarian": "ceruza",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 846,
+    "hungarian": "füzet",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 847,
+    "hungarian": "radír",
+    "english": "eraser",
+    "spanish": "goma",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 848,
+    "hungarian": "vonalzó",
+    "english": "ruler",
+    "spanish": "regla",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 849,
+    "hungarian": "hátizsák",
+    "english": "backpack",
+    "spanish": "mochila",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 850,
+    "hungarian": "papír",
+    "english": "paper",
+    "spanish": "papel",
+    "category": "education",
+    "level": "A1"
   }
 ]
