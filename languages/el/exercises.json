@@ -1,0 +1,2234 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "instruction": "Drag the correct personal pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ είμαι μαθητής.",
+        "answer": "Εγώ",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "___ είσαι δάσκαλος.",
+        "answer": "Εσύ",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "___ είναι γιατρός.",
+        "answer": "Αυτός",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "___ είμαστε φίλοι.",
+        "answer": "Εμείς",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to be' into each gap.",
+    "items": [
+      {
+        "sentence": "Εγώ ___ μαθητής.",
+        "answer": "είμαι",
+        "translation_en": "I am a student.",
+        "translation_es": "Soy estudiante."
+      },
+      {
+        "sentence": "Εσύ ___ δάσκαλος.",
+        "answer": "είσαι",
+        "translation_en": "You are a teacher.",
+        "translation_es": "Eres profesor."
+      },
+      {
+        "sentence": "Αυτός ___ γιατρός.",
+        "answer": "είναι",
+        "translation_en": "He is a doctor.",
+        "translation_es": "Él es médico."
+      },
+      {
+        "sentence": "Εμείς ___ φίλοι.",
+        "answer": "είμαστε",
+        "translation_en": "We are friends.",
+        "translation_es": "Somos amigos."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "instruction": "Drag the correct form of 'to have' into each gap.",
+    "items": [
+      {
+        "sentence": "Εγώ ___ ένα βιβλίο.",
+        "answer": "έχω",
+        "translation_en": "I have a book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Εσύ ___ έναν σκύλο.",
+        "answer": "έχεις",
+        "translation_en": "You have a dog.",
+        "translation_es": "Tienes un perro."
+      },
+      {
+        "sentence": "Αυτός ___ ένα σπίτι.",
+        "answer": "έχει",
+        "translation_en": "He has a house.",
+        "translation_es": "Él tiene una casa."
+      },
+      {
+        "sentence": "Εμείς ___ χρόνο.",
+        "answer": "έχουμε",
+        "translation_en": "We have time.",
+        "translation_es": "Tenemos tiempo."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "instruction": "Drag the correct article into each gap.",
+    "items": [
+      {
+        "sentence": "___ άνθρωπος είναι εδώ.",
+        "answer": "Ο",
+        "translation_en": "The man is here.",
+        "translation_es": "El hombre está aquí."
+      },
+      {
+        "sentence": "___ γυναίκα είναι εδώ.",
+        "answer": "Η",
+        "translation_en": "The woman is here.",
+        "translation_es": "La mujer está aquí."
+      },
+      {
+        "sentence": "___ παιδί είναι εδώ.",
+        "answer": "Το",
+        "translation_en": "The child is here.",
+        "translation_es": "El niño está aquí."
+      },
+      {
+        "sentence": "___ άνθρωποι είναι εδώ.",
+        "answer": "Οι",
+        "translation_en": "The people are here.",
+        "translation_es": "La gente está aquí."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "instruction": "Drag the correct accusative article into each gap.",
+    "items": [
+      {
+        "sentence": "Βλέπω ___ άνθρωπο.",
+        "answer": "τον",
+        "translation_en": "I see the man.",
+        "translation_es": "Veo al hombre."
+      },
+      {
+        "sentence": "Βλέπω ___ γυναίκα.",
+        "answer": "την",
+        "translation_en": "I see the woman.",
+        "translation_es": "Veo a la mujer."
+      },
+      {
+        "sentence": "Βλέπω ___ παιδί.",
+        "answer": "το",
+        "translation_en": "I see the child.",
+        "translation_es": "Veo al niño."
+      },
+      {
+        "sentence": "Βλέπω ___ φίλους.",
+        "answer": "τους",
+        "translation_en": "I see the friends.",
+        "translation_es": "Veo a los amigos."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "instruction": "Drag the correct plural into each gap.",
+    "items": [
+      {
+        "sentence": "Ένα βιβλίο, δύο ___.",
+        "answer": "βιβλία",
+        "translation_en": "One book, two books.",
+        "translation_es": "Un libro, dos libros."
+      },
+      {
+        "sentence": "Ένας φίλος, δύο ___.",
+        "answer": "φίλοι",
+        "translation_en": "One friend, two friends.",
+        "translation_es": "Un amigo, dos amigos."
+      },
+      {
+        "sentence": "Μία γυναίκα, δύο ___.",
+        "answer": "γυναίκες",
+        "translation_en": "One woman, two women.",
+        "translation_es": "Una mujer, dos mujeres."
+      },
+      {
+        "sentence": "Ένα παιδί, δύο ___.",
+        "answer": "παιδιά",
+        "translation_en": "One child, two children.",
+        "translation_es": "Un niño, dos niños."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "instruction": "Drag the correct adjective form into each gap.",
+    "items": [
+      {
+        "sentence": "Ένας ___ δρόμος.",
+        "answer": "μεγάλος",
+        "translation_en": "A big road.",
+        "translation_es": "Una calle grande."
+      },
+      {
+        "sentence": "Μία ___ γυναίκα.",
+        "answer": "μεγάλη",
+        "translation_en": "A big woman.",
+        "translation_es": "Una mujer grande."
+      },
+      {
+        "sentence": "Ένα ___ σπίτι.",
+        "answer": "μεγάλο",
+        "translation_en": "A big house.",
+        "translation_es": "Una casa grande."
+      },
+      {
+        "sentence": "Δύο ___ δρόμοι.",
+        "answer": "μεγάλοι",
+        "translation_en": "Two big roads.",
+        "translation_es": "Dos calles grandes."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "instruction": "Drag the correct present-tense form of 'to speak' into each gap.",
+    "items": [
+      {
+        "sentence": "Εγώ ___ ελληνικά.",
+        "answer": "μιλάω",
+        "translation_en": "I speak Greek.",
+        "translation_es": "Hablo griego."
+      },
+      {
+        "sentence": "Εσύ ___ αγγλικά.",
+        "answer": "μιλάς",
+        "translation_en": "You speak English.",
+        "translation_es": "Hablas inglés."
+      },
+      {
+        "sentence": "Αυτός ___ γερμανικά.",
+        "answer": "μιλάει",
+        "translation_en": "He speaks German.",
+        "translation_es": "Él habla alemán."
+      },
+      {
+        "sentence": "Εμείς ___ μαζί.",
+        "answer": "μιλάμε",
+        "translation_en": "We speak together.",
+        "translation_es": "Hablamos juntos."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "instruction": "Drag the correct negative word into each gap.",
+    "items": [
+      {
+        "sentence": "Εγώ ___ μιλάω ελληνικά.",
+        "answer": "δεν",
+        "translation_en": "I do not speak Greek.",
+        "translation_es": "No hablo griego."
+      },
+      {
+        "sentence": "Δεν έχω ___.",
+        "answer": "τίποτα",
+        "translation_en": "I have nothing.",
+        "translation_es": "No tengo nada."
+      },
+      {
+        "sentence": "Δεν είναι ___ εδώ.",
+        "answer": "κανείς",
+        "translation_en": "There is nobody here.",
+        "translation_es": "No hay nadie aquí."
+      },
+      {
+        "sentence": "Δεν έρχομαι ___.",
+        "answer": "ποτέ",
+        "translation_en": "I never come.",
+        "translation_es": "Nunca vengo."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "instruction": "Drag the correct question word into each gap.",
+    "items": [
+      {
+        "sentence": "___ σε λένε;",
+        "answer": "Πώς",
+        "translation_en": "What is your name?",
+        "translation_es": "¿Cómo te llamas?"
+      },
+      {
+        "sentence": "___ μένεις;",
+        "answer": "Πού",
+        "translation_en": "Where do you live?",
+        "translation_es": "¿Dónde vives?"
+      },
+      {
+        "sentence": "___ έρχεσαι;",
+        "answer": "Πότε",
+        "translation_en": "When are you coming?",
+        "translation_es": "¿Cuándo vienes?"
+      },
+      {
+        "sentence": "___ είναι αυτός;",
+        "answer": "Ποιος",
+        "translation_en": "Who is this?",
+        "translation_es": "¿Quién es este?"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "Έχω ___ βιβλίο.",
+        "answer": "ένα",
+        "translation_en": "I have one book.",
+        "translation_es": "Tengo un libro."
+      },
+      {
+        "sentence": "Η εβδομάδα έχει ___ μέρες.",
+        "answer": "επτά",
+        "translation_en": "A week has seven days.",
+        "translation_es": "Una semana tiene siete días."
+      },
+      {
+        "sentence": "Το χέρι έχει ___ δάχτυλα.",
+        "answer": "πέντε",
+        "translation_en": "A hand has five fingers.",
+        "translation_es": "Una mano tiene cinco dedos."
+      },
+      {
+        "sentence": "Το έτος έχει ___ μήνες.",
+        "answer": "δώδεκα",
+        "translation_en": "A year has twelve months.",
+        "translation_es": "Un año tiene doce meses."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "Μετά τη Δευτέρα έρχεται η ___.",
+        "answer": "Τρίτη",
+        "translation_en": "After Monday comes Tuesday.",
+        "translation_es": "Después del lunes viene el martes."
+      },
+      {
+        "sentence": "Μετά την Τετάρτη έρχεται η ___.",
+        "answer": "Πέμπτη",
+        "translation_en": "After Wednesday comes Thursday.",
+        "translation_es": "Después del miércoles viene el jueves."
+      },
+      {
+        "sentence": "Μετά την Παρασκευή έρχεται το ___.",
+        "answer": "Σάββατο",
+        "translation_en": "After Friday comes Saturday.",
+        "translation_es": "Después del viernes viene el sábado."
+      },
+      {
+        "sentence": "Μετά το Σάββατο έρχεται η ___.",
+        "answer": "Κυριακή",
+        "translation_en": "After Saturday comes Sunday.",
+        "translation_es": "Después del sábado viene el domingo."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "instruction": "Drag the correct colour into each gap.",
+    "items": [
+      {
+        "sentence": "Το χιόνι είναι ___.",
+        "answer": "άσπρο",
+        "translation_en": "Snow is white.",
+        "translation_es": "La nieve es blanca."
+      },
+      {
+        "sentence": "Το γρασίδι είναι ___.",
+        "answer": "πράσινο",
+        "translation_en": "Grass is green.",
+        "translation_es": "La hierba es verde."
+      },
+      {
+        "sentence": "Ο ουρανός είναι ___.",
+        "answer": "γαλάζιος",
+        "translation_en": "The sky is blue.",
+        "translation_es": "El cielo es azul."
+      },
+      {
+        "sentence": "Το αίμα είναι ___.",
+        "answer": "κόκκινο",
+        "translation_en": "Blood is red.",
+        "translation_es": "La sangre es roja."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "instruction": "Drag the correct family word into each gap.",
+    "items": [
+      {
+        "sentence": "___ μου λέγεται Άννα.",
+        "answer": "Η μητέρα",
+        "translation_en": "My mother's name is Anna.",
+        "translation_es": "Mi madre se llama Anna."
+      },
+      {
+        "sentence": "___ μου λέγεται Γιάννης.",
+        "answer": "Ο πατέρας",
+        "translation_en": "My father's name is Giannis.",
+        "translation_es": "Mi padre se llama Giannis."
+      },
+      {
+        "sentence": "___ μου είναι φίλος μου.",
+        "answer": "Ο αδελφός",
+        "translation_en": "My brother is my friend.",
+        "translation_es": "Mi hermano es mi amigo."
+      },
+      {
+        "sentence": "___ μου είναι μικρότερη από μένα.",
+        "answer": "Η αδελφή",
+        "translation_en": "My sister is younger than me.",
+        "translation_es": "Mi hermana es menor que yo."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "instruction": "Drag the correct possessive into each gap.",
+    "items": [
+      {
+        "sentence": "Αυτό είναι το βιβλίο ___.",
+        "answer": "μου",
+        "translation_en": "This is my book.",
+        "translation_es": "Este es mi libro."
+      },
+      {
+        "sentence": "Αυτό είναι το σπίτι ___.",
+        "answer": "σου",
+        "translation_en": "This is your house.",
+        "translation_es": "Esta es tu casa."
+      },
+      {
+        "sentence": "Αυτό είναι το αυτοκίνητο ___.",
+        "answer": "του",
+        "translation_en": "This is his car.",
+        "translation_es": "Este es su coche."
+      },
+      {
+        "sentence": "Αυτό είναι το σχολείο ___.",
+        "answer": "μας",
+        "translation_en": "This is our school.",
+        "translation_es": "Esta es nuestra escuela."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "instruction": "Drag the correct preposition into each gap.",
+    "items": [
+      {
+        "sentence": "Το βιβλίο είναι ___ τραπέζι.",
+        "answer": "πάνω στο",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Η γάτα είναι ___ τραπέζι.",
+        "answer": "κάτω από το",
+        "translation_en": "The cat is under the table.",
+        "translation_es": "El gato está bajo la mesa."
+      },
+      {
+        "sentence": "Το σπίτι είναι ___ δάσος.",
+        "answer": "πίσω από το",
+        "translation_en": "The house is behind the forest.",
+        "translation_es": "La casa está detrás del bosque."
+      },
+      {
+        "sentence": "Το αυτοκίνητο είναι ___ σπίτι.",
+        "answer": "μπροστά από το",
+        "translation_en": "The car is in front of the house.",
+        "translation_es": "El coche está delante de la casa."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "instruction": "Drag the correct genitive form into each gap.",
+    "items": [
+      {
+        "sentence": "Αυτό είναι το σπίτι του ___.",
+        "answer": "αδελφού",
+        "translation_en": "This is my brother's house.",
+        "translation_es": "Esta es la casa de mi hermano."
+      },
+      {
+        "sentence": "Αυτό είναι το βιβλίο της ___.",
+        "answer": "αδελφής",
+        "translation_en": "This is my sister's book.",
+        "translation_es": "Este es el libro de mi hermana."
+      },
+      {
+        "sentence": "Αυτό είναι το αυτοκίνητο του ___.",
+        "answer": "πατέρα",
+        "translation_en": "This is my father's car.",
+        "translation_es": "Este es el coche de mi padre."
+      },
+      {
+        "sentence": "Αυτό είναι το λουλούδι της ___.",
+        "answer": "μητέρας",
+        "translation_en": "This is my mother's flower.",
+        "translation_es": "Esta es la flor de mi madre."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "instruction": "Drag the correct location form into each gap.",
+    "items": [
+      {
+        "sentence": "Πηγαίνω ___ σχολείο.",
+        "answer": "στο",
+        "translation_en": "I am going to school.",
+        "translation_es": "Voy a la escuela."
+      },
+      {
+        "sentence": "Πηγαίνω ___ θάλασσα.",
+        "answer": "στη",
+        "translation_en": "I am going to the sea.",
+        "translation_es": "Voy al mar."
+      },
+      {
+        "sentence": "Πηγαίνω ___ φίλο μου.",
+        "answer": "στον",
+        "translation_en": "I am going to my friend.",
+        "translation_es": "Voy a mi amigo."
+      },
+      {
+        "sentence": "Πηγαίνω ___ βουνά.",
+        "answer": "στα",
+        "translation_en": "I am going to the mountains.",
+        "translation_es": "Voy a las montañas."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "instruction": "Drag the correct object pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "Ο πατέρας ___ βλέπει. (εμένα)",
+        "answer": "με",
+        "translation_en": "Father sees me.",
+        "translation_es": "Papá me ve."
+      },
+      {
+        "sentence": "Ο πατέρας ___ βλέπει. (εσένα)",
+        "answer": "σε",
+        "translation_en": "Father sees you.",
+        "translation_es": "Papá te ve."
+      },
+      {
+        "sentence": "Ο πατέρας ___ βλέπει. (αυτόν)",
+        "answer": "τον",
+        "translation_en": "Father sees him.",
+        "translation_es": "Papá lo ve."
+      },
+      {
+        "sentence": "Ο πατέρας ___ βλέπει. (εμάς)",
+        "answer": "μας",
+        "translation_en": "Father sees us.",
+        "translation_es": "Papá nos ve."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "instruction": "Drag the correct direction word into each gap.",
+    "items": [
+      {
+        "sentence": "Πήγαινε ___.",
+        "answer": "ευθεία",
+        "translation_en": "Go straight ahead.",
+        "translation_es": "Ve todo recto."
+      },
+      {
+        "sentence": "Στρίψε ___.",
+        "answer": "αριστερά",
+        "translation_en": "Turn left.",
+        "translation_es": "Gira a la izquierda."
+      },
+      {
+        "sentence": "Το μαγαζί είναι ___.",
+        "answer": "δεξιά",
+        "translation_en": "The shop is on the right.",
+        "translation_es": "La tienda está a la derecha."
+      },
+      {
+        "sentence": "Πήγαινε ___.",
+        "answer": "πίσω",
+        "translation_en": "Go back.",
+        "translation_es": "Vuelve atrás."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "instruction": "Drag the correct past-tense form into each gap.",
+    "items": [
+      {
+        "sentence": "Χθες ___ σπίτι.",
+        "answer": "πήγα",
+        "translation_en": "Yesterday I went home.",
+        "translation_es": "Ayer fui a casa."
+      },
+      {
+        "sentence": "Πέρυσι ___ στην Αθήνα.",
+        "answer": "ταξίδεψα",
+        "translation_en": "Last year I travelled to Athens.",
+        "translation_es": "El año pasado viajé a Atenas."
+      },
+      {
+        "sentence": "Χθες το βράδυ ___ τηλεόραση.",
+        "answer": "είδα",
+        "translation_en": "Last night I watched television.",
+        "translation_es": "Anoche vi la televisión."
+      },
+      {
+        "sentence": "Προχθές ___ ένα βιβλίο.",
+        "answer": "διάβασα",
+        "translation_en": "The day before yesterday I read a book.",
+        "translation_es": "Anteayer leí un libro."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "instruction": "Drag the correct future form into each gap.",
+    "items": [
+      {
+        "sentence": "Αύριο ___ στη δουλειά.",
+        "answer": "θα πάω",
+        "translation_en": "Tomorrow I will go to work.",
+        "translation_es": "Mañana iré al trabajo."
+      },
+      {
+        "sentence": "Την Κυριακή ___ στο σπίτι.",
+        "answer": "θα μείνω",
+        "translation_en": "On Sunday I will stay at home.",
+        "translation_es": "El domingo me quedaré en casa."
+      },
+      {
+        "sentence": "Απόψε ___ μια ταινία.",
+        "answer": "θα δω",
+        "translation_en": "Tonight I will watch a film.",
+        "translation_es": "Esta noche veré una película."
+      },
+      {
+        "sentence": "Το βράδυ ___ έξω.",
+        "answer": "θα φάω",
+        "translation_en": "In the evening I will eat out.",
+        "translation_es": "Por la noche comeré fuera."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "instruction": "Drag the correct subjunctive form into each gap.",
+    "items": [
+      {
+        "sentence": "Θέλω να ___ σπίτι.",
+        "answer": "πάω",
+        "translation_en": "I want to go home.",
+        "translation_es": "Quiero ir a casa."
+      },
+      {
+        "sentence": "Πρέπει να ___ τώρα.",
+        "answer": "φύγουμε",
+        "translation_en": "We must leave now.",
+        "translation_es": "Debemos irnos ahora."
+      },
+      {
+        "sentence": "Θέλω να ___ ένα βιβλίο.",
+        "answer": "διαβάσω",
+        "translation_en": "I want to read a book.",
+        "translation_es": "Quiero leer un libro."
+      },
+      {
+        "sentence": "Ελπίζω να ___ σύντομα.",
+        "answer": "έρθεις",
+        "translation_en": "I hope you come soon.",
+        "translation_es": "Espero que vengas pronto."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "instruction": "Drag the correct imperative into each gap.",
+    "items": [
+      {
+        "sentence": "___ λίγο!",
+        "answer": "Περίμενε",
+        "translation_en": "Wait a moment!",
+        "translation_es": "¡Espera un momento!"
+      },
+      {
+        "sentence": "___ την πόρτα!",
+        "answer": "Κλείσε",
+        "translation_en": "Close the door!",
+        "translation_es": "¡Cierra la puerta!"
+      },
+      {
+        "sentence": "___ το βιβλίο!",
+        "answer": "Διάβασε",
+        "translation_en": "Read the book!",
+        "translation_es": "¡Lee el libro!"
+      },
+      {
+        "sentence": "___ εδώ!",
+        "answer": "Έλα",
+        "translation_en": "Come here!",
+        "translation_es": "¡Ven aquí!"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "instruction": "Drag the correct comparative into each gap.",
+    "items": [
+      {
+        "sentence": "Ο Γιάννης είναι ___ από τον Πέτρο.",
+        "answer": "πιο ψηλός",
+        "translation_en": "Giannis is taller than Petros.",
+        "translation_es": "Giannis es más alto que Petros."
+      },
+      {
+        "sentence": "Το σπίτι είναι ___ από το διαμέρισμα.",
+        "answer": "πιο μεγάλο",
+        "translation_en": "The house is bigger than the flat.",
+        "translation_es": "La casa es más grande que el piso."
+      },
+      {
+        "sentence": "Αυτό το βιβλίο είναι ___ από εκείνο.",
+        "answer": "πιο ενδιαφέρον",
+        "translation_en": "This book is more interesting than that one.",
+        "translation_es": "Este libro es más interesante que aquel."
+      },
+      {
+        "sentence": "Η θάλασσα είναι ___ από τη λίμνη.",
+        "answer": "πιο βαθιά",
+        "translation_en": "The sea is deeper than the lake.",
+        "translation_es": "El mar es más profundo que el lago."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "instruction": "Drag the correct superlative into each gap.",
+    "items": [
+      {
+        "sentence": "Είναι ο ___ μαθητής στην τάξη.",
+        "answer": "πιο καλός",
+        "translation_en": "He is the best student in the class.",
+        "translation_es": "Es el mejor estudiante de la clase."
+      },
+      {
+        "sentence": "Είναι το ___ κτίριο στην πόλη.",
+        "answer": "πιο ψηλό",
+        "translation_en": "It is the tallest building in the city.",
+        "translation_es": "Es el edificio más alto de la ciudad."
+      },
+      {
+        "sentence": "Είναι η ___ ταινία που είδα.",
+        "answer": "πιο ωραία",
+        "translation_en": "It is the nicest film I saw.",
+        "translation_es": "Es la película más bonita que vi."
+      },
+      {
+        "sentence": "Είναι το ___ φαγητό του κόσμου.",
+        "answer": "πιο νόστιμο",
+        "translation_en": "It is the tastiest food in the world.",
+        "translation_es": "Es la comida más rica del mundo."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "instruction": "Drag the correct auxiliary into each gap.",
+    "items": [
+      {
+        "sentence": "___ πάει στην Αθήνα.",
+        "answer": "Έχω",
+        "translation_en": "I have gone to Athens.",
+        "translation_es": "He ido a Atenas."
+      },
+      {
+        "sentence": "___ φάει ήδη.",
+        "answer": "Έχεις",
+        "translation_en": "You have already eaten.",
+        "translation_es": "Ya has comido."
+      },
+      {
+        "sentence": "___ τελειώσει τη δουλειά.",
+        "answer": "Έχει",
+        "translation_en": "He has finished the work.",
+        "translation_es": "Ha terminado el trabajo."
+      },
+      {
+        "sentence": "___ δει αυτή την ταινία.",
+        "answer": "Έχουμε",
+        "translation_en": "We have seen this film.",
+        "translation_es": "Hemos visto esta película."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "instruction": "Drag the correct reflexive or daily verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ κάθε πρωί.",
+        "answer": "Πλένομαι",
+        "translation_en": "I wash myself every morning.",
+        "translation_es": "Me lavo cada mañana."
+      },
+      {
+        "sentence": "___ γρήγορα.",
+        "answer": "Ντύνομαι",
+        "translation_en": "I get dressed quickly.",
+        "translation_es": "Me visto rápido."
+      },
+      {
+        "sentence": "___ στις επτά.",
+        "answer": "Ξυπνάω",
+        "translation_en": "I wake up at seven.",
+        "translation_es": "Me despierto a las siete."
+      },
+      {
+        "sentence": "___ λίγο μετά τη δουλειά.",
+        "answer": "Ξεκουράζομαι",
+        "translation_en": "I rest a little after work.",
+        "translation_es": "Descanso un poco después del trabajo."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "instruction": "Drag the correct adverb of frequency into each gap.",
+    "items": [
+      {
+        "sentence": "___ πηγαίνω στο γυμναστήριο.",
+        "answer": "Πάντα",
+        "translation_en": "I always go to the gym.",
+        "translation_es": "Siempre voy al gimnasio."
+      },
+      {
+        "sentence": "___ πίνω καφέ το πρωί.",
+        "answer": "Συχνά",
+        "translation_en": "I often drink coffee in the morning.",
+        "translation_es": "A menudo tomo café por la mañana."
+      },
+      {
+        "sentence": "___ αργώ στη δουλειά.",
+        "answer": "Ποτέ",
+        "translation_en": "I never arrive late to work.",
+        "translation_es": "Nunca llego tarde al trabajo."
+      },
+      {
+        "sentence": "___ διαβάζω πριν κοιμηθώ.",
+        "answer": "Μερικές φορές",
+        "translation_en": "Sometimes I read before sleeping.",
+        "translation_es": "A veces leo antes de dormir."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "instruction": "Drag the correct number into each gap.",
+    "items": [
+      {
+        "sentence": "έντεκα + εννέα = ___",
+        "answer": "είκοσι",
+        "translation_en": "Eleven plus nine is twenty.",
+        "translation_es": "Once más nueve son veinte."
+      },
+      {
+        "sentence": "είκοσι πέντε + είκοσι πέντε = ___",
+        "answer": "πενήντα",
+        "translation_en": "Twenty-five plus twenty-five is fifty.",
+        "translation_es": "Veinticinco más veinticinco son cincuenta."
+      },
+      {
+        "sentence": "πενήντα + πενήντα = ___",
+        "answer": "εκατό",
+        "translation_en": "Fifty plus fifty is one hundred.",
+        "translation_es": "Cincuenta más cincuenta son cien."
+      },
+      {
+        "sentence": "δέκα + ένα = ___",
+        "answer": "έντεκα",
+        "translation_en": "Ten plus one is eleven.",
+        "translation_es": "Diez más uno son once."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "instruction": "Drag the correct ordinal into each gap.",
+    "items": [
+      {
+        "sentence": "Ο ___ μήνας είναι ο Ιανουάριος.",
+        "answer": "πρώτος",
+        "translation_en": "The first month is January.",
+        "translation_es": "El primer mes es enero."
+      },
+      {
+        "sentence": "Ο ___ μήνας είναι ο Φεβρουάριος.",
+        "answer": "δεύτερος",
+        "translation_en": "The second month is February.",
+        "translation_es": "El segundo mes es febrero."
+      },
+      {
+        "sentence": "Ο ___ μήνας είναι ο Μάρτιος.",
+        "answer": "τρίτος",
+        "translation_en": "The third month is March.",
+        "translation_es": "El tercer mes es marzo."
+      },
+      {
+        "sentence": "Ο ___ μήνας είναι ο Δεκέμβριος.",
+        "answer": "δωδέκατος",
+        "translation_en": "The twelfth month is December.",
+        "translation_es": "El duodécimo mes es diciembre."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "instruction": "Drag the correct time expression into each gap.",
+    "items": [
+      {
+        "sentence": "Τι ώρα είναι; Είναι ___.",
+        "answer": "μία",
+        "translation_en": "What time is it? It is one o'clock.",
+        "translation_es": "¿Qué hora es? Es la una."
+      },
+      {
+        "sentence": "Είναι ___. (7:00)",
+        "answer": "επτά",
+        "translation_en": "It is seven o'clock.",
+        "translation_es": "Son las siete."
+      },
+      {
+        "sentence": "Είναι ___. (8:30)",
+        "answer": "οκτώ και μισή",
+        "translation_en": "It is half past eight.",
+        "translation_es": "Son las ocho y media."
+      },
+      {
+        "sentence": "Είναι ___. (9:15)",
+        "answer": "εννιά και τέταρτο",
+        "translation_en": "It is a quarter past nine.",
+        "translation_es": "Son las nueve y cuarto."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "instruction": "Drag the correct month into each gap.",
+    "items": [
+      {
+        "sentence": "Ο πρώτος μήνας του χρόνου είναι ο ___.",
+        "answer": "Ιανουάριος",
+        "translation_en": "The first month of the year is January.",
+        "translation_es": "El primer mes del año es enero."
+      },
+      {
+        "sentence": "Ο τρίτος μήνας είναι ο ___.",
+        "answer": "Μάρτιος",
+        "translation_en": "The third month is March.",
+        "translation_es": "El tercer mes es marzo."
+      },
+      {
+        "sentence": "Ο έκτος μήνας είναι ο ___.",
+        "answer": "Ιούνιος",
+        "translation_en": "The sixth month is June.",
+        "translation_es": "El sexto mes es junio."
+      },
+      {
+        "sentence": "Ο τελευταίος μήνας είναι ο ___.",
+        "answer": "Δεκέμβριος",
+        "translation_en": "The last month is December.",
+        "translation_es": "El último mes es diciembre."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "instruction": "Drag the correct weather expression into each gap.",
+    "items": [
+      {
+        "sentence": "Σήμερα ___. (it is raining)",
+        "answer": "βρέχει",
+        "translation_en": "Today it is raining.",
+        "translation_es": "Hoy llueve."
+      },
+      {
+        "sentence": "Σήμερα ___. (it is snowing)",
+        "answer": "χιονίζει",
+        "translation_en": "Today it is snowing.",
+        "translation_es": "Hoy nieva."
+      },
+      {
+        "sentence": "Σήμερα ___. (it is hot)",
+        "answer": "κάνει ζέστη",
+        "translation_en": "Today it is hot.",
+        "translation_es": "Hoy hace calor."
+      },
+      {
+        "sentence": "Σήμερα ___. (it is cold)",
+        "answer": "κάνει κρύο",
+        "translation_en": "Today it is cold.",
+        "translation_es": "Hoy hace frío."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "A2",
+    "instruction": "Drag the correct means of transport into each gap.",
+    "items": [
+      {
+        "sentence": "Το ___ πετάει στον ουρανό.",
+        "answer": "αεροπλάνο",
+        "translation_en": "The plane flies in the sky.",
+        "translation_es": "El avión vuela en el cielo."
+      },
+      {
+        "sentence": "Το ___ ταξιδεύει στη θάλασσα.",
+        "answer": "πλοίο",
+        "translation_en": "The ship travels on the sea.",
+        "translation_es": "El barco viaja por el mar."
+      },
+      {
+        "sentence": "Το ___ έχει δύο ρόδες.",
+        "answer": "ποδήλατο",
+        "translation_en": "The bicycle has two wheels.",
+        "translation_es": "La bicicleta tiene dos ruedas."
+      },
+      {
+        "sentence": "Πηγαίνω στη δουλειά με ___.",
+        "answer": "λεωφορείο",
+        "translation_en": "I go to work by bus.",
+        "translation_es": "Voy al trabajo en autobús."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "A2",
+    "instruction": "Drag the correct preposition of place into each gap.",
+    "items": [
+      {
+        "sentence": "Το βιβλίο είναι ___ τραπέζι.",
+        "answer": "πάνω στο",
+        "translation_en": "The book is on the table.",
+        "translation_es": "El libro está sobre la mesa."
+      },
+      {
+        "sentence": "Η μπάλα είναι ___ κρεβάτι.",
+        "answer": "κάτω από το",
+        "translation_en": "The ball is under the bed.",
+        "translation_es": "La pelota está bajo la cama."
+      },
+      {
+        "sentence": "Το σχολείο είναι ___ εκκλησία.",
+        "answer": "δίπλα στην",
+        "translation_en": "The school is next to the church.",
+        "translation_es": "La escuela está junto a la iglesia."
+      },
+      {
+        "sentence": "Το πάρκο είναι ___ σπίτι.",
+        "answer": "μπροστά από το",
+        "translation_en": "The park is in front of the house.",
+        "translation_es": "El parque está delante de la casa."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "level": "A2",
+    "instruction": "Drag the correct modal verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ να πάω σπίτι.",
+        "answer": "Θέλω",
+        "translation_en": "I want to go home.",
+        "translation_es": "Quiero ir a casa."
+      },
+      {
+        "sentence": "___ να κολυμπήσω.",
+        "answer": "Μπορώ",
+        "translation_en": "I can swim.",
+        "translation_es": "Puedo nadar."
+      },
+      {
+        "sentence": "___ να φύγουμε τώρα.",
+        "answer": "Πρέπει",
+        "translation_en": "We must leave now.",
+        "translation_es": "Debemos irnos ahora."
+      },
+      {
+        "sentence": "___ να οδηγώ.",
+        "answer": "Ξέρω",
+        "translation_en": "I know how to drive.",
+        "translation_es": "Sé conducir."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "A2",
+    "instruction": "Drag the correct weak object pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "___ βλέπω. (εσένα)",
+        "answer": "σε",
+        "translation_en": "I see you.",
+        "translation_es": "Te veo."
+      },
+      {
+        "sentence": "___ βλέπω. (αυτόν)",
+        "answer": "τον",
+        "translation_en": "I see him.",
+        "translation_es": "Lo veo."
+      },
+      {
+        "sentence": "___ βλέπω. (αυτήν)",
+        "answer": "την",
+        "translation_en": "I see her.",
+        "translation_es": "La veo."
+      },
+      {
+        "sentence": "___ βλέπω. (εμάς)",
+        "answer": "μας",
+        "translation_en": "I see us.",
+        "translation_es": "Nos veo."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A2",
+    "instruction": "Drag the correct day into each gap.",
+    "items": [
+      {
+        "sentence": "Τη ___ πηγαίνω στη δουλειά.",
+        "answer": "Δευτέρα",
+        "translation_en": "On Monday I go to work.",
+        "translation_es": "El lunes voy al trabajo."
+      },
+      {
+        "sentence": "Το ___ μένω στο σπίτι.",
+        "answer": "Σάββατο",
+        "translation_en": "On Saturday I stay at home.",
+        "translation_es": "El sábado me quedo en casa."
+      },
+      {
+        "sentence": "Την ___ έχω μάθημα.",
+        "answer": "Τετάρτη",
+        "translation_en": "On Wednesday I have class.",
+        "translation_es": "El miércoles tengo clase."
+      },
+      {
+        "sentence": "Την ___ πηγαίνω στην εκκλησία.",
+        "answer": "Κυριακή",
+        "translation_en": "On Sunday I go to church.",
+        "translation_es": "El domingo voy a la iglesia."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A2",
+    "instruction": "Drag the correct shopping word into each gap.",
+    "items": [
+      {
+        "sentence": "Πόσο ___ αυτό;",
+        "answer": "κοστίζει",
+        "translation_en": "How much does this cost?",
+        "translation_es": "¿Cuánto cuesta esto?"
+      },
+      {
+        "sentence": "Θέλω να ___ με κάρτα.",
+        "answer": "πληρώσω",
+        "translation_en": "I want to pay by card.",
+        "translation_es": "Quiero pagar con tarjeta."
+      },
+      {
+        "sentence": "Έχετε ___;",
+        "answer": "έκπτωση",
+        "translation_en": "Do you have a discount?",
+        "translation_es": "¿Tienen descuento?"
+      },
+      {
+        "sentence": "Πού είναι το ___;",
+        "answer": "ταμείο",
+        "translation_en": "Where is the checkout?",
+        "translation_es": "¿Dónde está la caja?"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "instruction": "Drag the correct conditional form into each gap.",
+    "items": [
+      {
+        "sentence": "Αν είχα χρόνο, ___ στην παραλία.",
+        "answer": "θα πήγαινα",
+        "translation_en": "If I had time, I would go to the beach.",
+        "translation_es": "Si tuviera tiempo, iría a la playa."
+      },
+      {
+        "sentence": "Αν ήμουν πλούσιος, ___ ένα σπίτι.",
+        "answer": "θα αγόραζα",
+        "translation_en": "If I were rich, I would buy a house.",
+        "translation_es": "Si fuera rico, compraría una casa."
+      },
+      {
+        "sentence": "Αν μπορούσα, ___ τώρα.",
+        "answer": "θα ερχόμουν",
+        "translation_en": "If I could, I would come now.",
+        "translation_es": "Si pudiera, vendría ahora."
+      },
+      {
+        "sentence": "Αν ήξερες, ___ μου.",
+        "answer": "θα έλεγες",
+        "translation_en": "If you knew, you would tell me.",
+        "translation_es": "Si lo supieras, me lo dirías."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "instruction": "Drag the correct passive form into each gap.",
+    "items": [
+      {
+        "sentence": "Το σπίτι ___ το 1950.",
+        "answer": "χτίστηκε",
+        "translation_en": "The house was built in 1950.",
+        "translation_es": "La casa fue construida en 1950."
+      },
+      {
+        "sentence": "Το βιβλίο ___ από πολλούς.",
+        "answer": "διαβάστηκε",
+        "translation_en": "The book was read by many.",
+        "translation_es": "El libro fue leído por muchos."
+      },
+      {
+        "sentence": "Το γράμμα ___ χθες.",
+        "answer": "στάλθηκε",
+        "translation_en": "The letter was sent yesterday.",
+        "translation_es": "La carta fue enviada ayer."
+      },
+      {
+        "sentence": "Η πόρτα ___ το βράδυ.",
+        "answer": "κλείστηκε",
+        "translation_en": "The door was closed in the evening.",
+        "translation_es": "La puerta fue cerrada por la noche."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "instruction": "Drag the correct participle into each gap.",
+    "items": [
+      {
+        "sentence": "Το ___ γράμμα είναι στο τραπέζι.",
+        "answer": "γραμμένο",
+        "translation_en": "The written letter is on the table.",
+        "translation_es": "La carta escrita está sobre la mesa."
+      },
+      {
+        "sentence": "Ο ___ άνθρωπος κοιμάται.",
+        "answer": "κουρασμένος",
+        "translation_en": "The tired man is sleeping.",
+        "translation_es": "El hombre cansado duerme."
+      },
+      {
+        "sentence": "Η ___ πόρτα είναι ασφαλής.",
+        "answer": "κλειστή",
+        "translation_en": "The closed door is safe.",
+        "translation_es": "La puerta cerrada es segura."
+      },
+      {
+        "sentence": "Τα ___ παιδιά παίζουν.",
+        "answer": "χαρούμενα",
+        "translation_en": "The happy children are playing.",
+        "translation_es": "Los niños felices juegan."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "instruction": "Drag the correct relative pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "Ο άνθρωπος ___ μιλάει είναι ο πατέρας μου.",
+        "answer": "που",
+        "translation_en": "The man who is speaking is my father.",
+        "translation_es": "El hombre que habla es mi padre."
+      },
+      {
+        "sentence": "Το βιβλίο, ___ ήταν ακριβό, είναι καλό.",
+        "answer": "το οποίο",
+        "translation_en": "The book, which was expensive, is good.",
+        "translation_es": "El libro, que era caro, es bueno."
+      },
+      {
+        "sentence": "Ο κύριος ___ μιλάει είναι ο δάσκαλος.",
+        "answer": "ο οποίος",
+        "translation_en": "The gentleman who speaks is the teacher.",
+        "translation_es": "El señor que habla es el profesor."
+      },
+      {
+        "sentence": "Η γυναίκα ___ γελάει είναι η αδελφή μου.",
+        "answer": "η οποία",
+        "translation_en": "The woman who is laughing is my sister.",
+        "translation_es": "La mujer que ríe es mi hermana."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "instruction": "Drag the correct word to introduce reported speech.",
+    "items": [
+      {
+        "sentence": "Μου είπε ___ έρχεται αύριο.",
+        "answer": "ότι",
+        "translation_en": "He told me that he is coming tomorrow.",
+        "translation_es": "Me dijo que viene mañana."
+      },
+      {
+        "sentence": "Με ρώτησε ___ πάω σπίτι.",
+        "answer": "αν",
+        "translation_en": "He asked me whether I am going home.",
+        "translation_es": "Me preguntó si voy a casa."
+      },
+      {
+        "sentence": "Δεν ξέρω ___ είναι.",
+        "answer": "πού",
+        "translation_en": "I do not know where he is.",
+        "translation_es": "No sé dónde está."
+      },
+      {
+        "sentence": "Μου είπε ___ φύγουμε.",
+        "answer": "να",
+        "translation_en": "He told me to leave.",
+        "translation_es": "Me dijo que nos fuéramos."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "instruction": "Drag the correct verbal noun into each gap.",
+    "items": [
+      {
+        "sentence": "Το ___ βιβλίων είναι χρήσιμο.",
+        "answer": "διάβασμα",
+        "translation_en": "Reading books is useful.",
+        "translation_es": "Leer libros es útil."
+      },
+      {
+        "sentence": "Η ___ είναι σημαντική.",
+        "answer": "μάθηση",
+        "translation_en": "Learning is important.",
+        "translation_es": "El aprendizaje es importante."
+      },
+      {
+        "sentence": "Το ___ είναι καλό για την υγεία.",
+        "answer": "περπάτημα",
+        "translation_en": "Walking is good for health.",
+        "translation_es": "Caminar es bueno para la salud."
+      },
+      {
+        "sentence": "Η ___ κρατά τον κόσμο.",
+        "answer": "εργασία",
+        "translation_en": "Work keeps the world going.",
+        "translation_es": "El trabajo sostiene el mundo."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "instruction": "Drag the correct verb into each gap.",
+    "items": [
+      {
+        "sentence": "___ τον φίλο μου στο σταθμό.",
+        "answer": "Περιμένω",
+        "translation_en": "I wait for my friend at the station.",
+        "translation_es": "Espero a mi amigo en la estación."
+      },
+      {
+        "sentence": "___ για την υγεία μου.",
+        "answer": "Νοιάζομαι",
+        "translation_en": "I care about my health.",
+        "translation_es": "Me preocupo por mi salud."
+      },
+      {
+        "sentence": "___ από την απόφαση.",
+        "answer": "Εξαρτάται",
+        "translation_en": "It depends on the decision.",
+        "translation_es": "Depende de la decisión."
+      },
+      {
+        "sentence": "___ στην ερώτηση.",
+        "answer": "Απαντώ",
+        "translation_en": "I answer the question.",
+        "translation_es": "Respondo a la pregunta."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "instruction": "Drag the correct weak pronoun into each gap.",
+    "items": [
+      {
+        "sentence": "Το βιβλίο ___ διαβάζω.",
+        "answer": "το",
+        "translation_en": "I read the book.",
+        "translation_es": "Leo el libro."
+      },
+      {
+        "sentence": "Τη γυναίκα ___ βλέπω.",
+        "answer": "την",
+        "translation_en": "I see the woman.",
+        "translation_es": "Veo a la mujer."
+      },
+      {
+        "sentence": "Τα παιδιά ___ αγαπώ.",
+        "answer": "τα",
+        "translation_en": "I love the children.",
+        "translation_es": "Amo a los niños."
+      },
+      {
+        "sentence": "Τον φίλο ___ βοηθώ.",
+        "answer": "τον",
+        "translation_en": "I help the friend.",
+        "translation_es": "Ayudo al amigo."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Δεν πήγα, ___ έβρεχε.",
+        "answer": "γιατί",
+        "translation_en": "I did not go, because it was raining.",
+        "translation_es": "No fui, porque llovía."
+      },
+      {
+        "sentence": "Είναι έξυπνος, ___ τεμπέλης.",
+        "answer": "αλλά",
+        "translation_en": "He is smart, but lazy.",
+        "translation_es": "Es listo, pero perezoso."
+      },
+      {
+        "sentence": "Διάβασα πολύ, ___ πέρασα.",
+        "answer": "γι' αυτό",
+        "translation_en": "I studied a lot, so I passed.",
+        "translation_es": "Estudié mucho, por eso aprobé."
+      },
+      {
+        "sentence": "___ πεινάω, δεν θα φάω.",
+        "answer": "Αν και",
+        "translation_en": "Although I am hungry, I will not eat.",
+        "translation_es": "Aunque tengo hambre, no comeré."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "instruction": "Drag the correct health word into each gap.",
+    "items": [
+      {
+        "sentence": "Ο γιατρός μου έγραψε ___.",
+        "answer": "συνταγή",
+        "translation_en": "The doctor wrote me a prescription.",
+        "translation_es": "El médico me recetó."
+      },
+      {
+        "sentence": "Έχω ___ (symptoms).",
+        "answer": "συμπτώματα",
+        "translation_en": "I have symptoms.",
+        "translation_es": "Tengo síntomas."
+      },
+      {
+        "sentence": "Το ___ είναι σημαντικό.",
+        "answer": "εμβόλιο",
+        "translation_en": "The vaccine is important.",
+        "translation_es": "La vacuna es importante."
+      },
+      {
+        "sentence": "Πρέπει να κάνω ___.",
+        "answer": "θεραπεία",
+        "translation_en": "I need to have treatment.",
+        "translation_es": "Necesito un tratamiento."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "instruction": "Drag the correct work word into each gap.",
+    "items": [
+      {
+        "sentence": "Έχω ___ αύριο.",
+        "answer": "συνάντηση",
+        "translation_en": "I have a meeting tomorrow.",
+        "translation_es": "Tengo una reunión mañana."
+      },
+      {
+        "sentence": "Υπέγραψα το ___.",
+        "answer": "συμβόλαιο",
+        "translation_en": "I signed the contract.",
+        "translation_es": "Firmé el contrato."
+      },
+      {
+        "sentence": "Ο ___ μου είναι καλός.",
+        "answer": "διευθυντής",
+        "translation_en": "My manager is good.",
+        "translation_es": "Mi gerente es bueno."
+      },
+      {
+        "sentence": "Πήρα ___.",
+        "answer": "προαγωγή",
+        "translation_en": "I got a promotion.",
+        "translation_es": "Recibí un ascenso."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "instruction": "Drag the correct education word into each gap.",
+    "items": [
+      {
+        "sentence": "Σπουδάζω στο ___.",
+        "answer": "πανεπιστήμιο",
+        "translation_en": "I study at university.",
+        "translation_es": "Estudio en la universidad."
+      },
+      {
+        "sentence": "Θα δώσω ___.",
+        "answer": "εξέταση",
+        "translation_en": "I will take an exam.",
+        "translation_es": "Voy a hacer un examen."
+      },
+      {
+        "sentence": "Η ___ είναι δύναμη.",
+        "answer": "γνώση",
+        "translation_en": "Knowledge is power.",
+        "translation_es": "El conocimiento es poder."
+      },
+      {
+        "sentence": "Απέκτησα νέα ___.",
+        "answer": "δεξιότητα",
+        "translation_en": "I acquired a new skill.",
+        "translation_es": "Adquirí una nueva habilidad."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "instruction": "Drag the correct environment word into each gap.",
+    "items": [
+      {
+        "sentence": "Η ___ αυξάνεται.",
+        "answer": "μόλυνση",
+        "translation_en": "Pollution is increasing.",
+        "translation_es": "La contaminación aumenta."
+      },
+      {
+        "sentence": "Πρέπει να ___ τα σκουπίδια.",
+        "answer": "ανακυκλώνουμε",
+        "translation_en": "We must recycle the rubbish.",
+        "translation_es": "Debemos reciclar la basura."
+      },
+      {
+        "sentence": "Το ___ αλλάζει.",
+        "answer": "κλίμα",
+        "translation_en": "The climate is changing.",
+        "translation_es": "El clima está cambiando."
+      },
+      {
+        "sentence": "Χρησιμοποιούμε ___ ενέργεια.",
+        "answer": "ανανεώσιμη",
+        "translation_en": "We use renewable energy.",
+        "translation_es": "Usamos energía renovable."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "instruction": "Drag the correct society word into each gap.",
+    "items": [
+      {
+        "sentence": "Το ___ ψηφίζει νόμους.",
+        "answer": "κοινοβούλιο",
+        "translation_en": "Parliament passes laws.",
+        "translation_es": "El parlamento aprueba leyes."
+      },
+      {
+        "sentence": "Η ___ παίρνει αποφάσεις.",
+        "answer": "κυβέρνηση",
+        "translation_en": "The government makes decisions.",
+        "translation_es": "El gobierno toma decisiones."
+      },
+      {
+        "sentence": "Ο ___ εφαρμόζει τον νόμο.",
+        "answer": "δικαστής",
+        "translation_en": "The judge applies the law.",
+        "translation_es": "El juez aplica la ley."
+      },
+      {
+        "sentence": "Κάθε ___ έχει δικαιώματα.",
+        "answer": "πολίτης",
+        "translation_en": "Every citizen has rights.",
+        "translation_es": "Cada ciudadano tiene derechos."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "instruction": "Drag the correct science word into each gap.",
+    "items": [
+      {
+        "sentence": "Κάνουμε ___ στο εργαστήριο.",
+        "answer": "πείραμα",
+        "translation_en": "We do an experiment in the laboratory.",
+        "translation_es": "Hacemos un experimento en el laboratorio."
+      },
+      {
+        "sentence": "Η ___ εξηγεί το φαινόμενο.",
+        "answer": "θεωρία",
+        "translation_en": "The theory explains the phenomenon.",
+        "translation_es": "La teoría explica el fenómeno."
+      },
+      {
+        "sentence": "Υπάρχει ___ για αυτό.",
+        "answer": "απόδειξη",
+        "translation_en": "There is evidence for this.",
+        "translation_es": "Hay evidencia de esto."
+      },
+      {
+        "sentence": "Έγινε μεγάλη ___.",
+        "answer": "ανακάλυψη",
+        "translation_en": "A great discovery was made.",
+        "translation_es": "Se hizo un gran descubrimiento."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "instruction": "Drag the correct emotion or abstract noun into each gap.",
+    "items": [
+      {
+        "sentence": "Ένιωσα μεγάλη ___.",
+        "answer": "ανακούφιση",
+        "translation_en": "I felt great relief.",
+        "translation_es": "Sentí un gran alivio."
+      },
+      {
+        "sentence": "Τον κυρίευσε ο ___.",
+        "answer": "φόβος",
+        "translation_en": "Fear took hold of him.",
+        "translation_es": "El miedo se apoderó de él."
+      },
+      {
+        "sentence": "Έχω ___ σε σένα.",
+        "answer": "εμπιστοσύνη",
+        "translation_en": "I have trust in you.",
+        "translation_es": "Tengo confianza en ti."
+      },
+      {
+        "sentence": "Νιώθω ___ για αυτό.",
+        "answer": "ευγνωμοσύνη",
+        "translation_en": "I feel gratitude for this.",
+        "translation_es": "Siento gratitud por esto."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "instruction": "Drag the correct nominalisation into each gap.",
+    "items": [
+      {
+        "sentence": "Η ___ της έρευνας κράτησε χρόνια.",
+        "answer": "διεξαγωγή",
+        "translation_en": "The conduct of the research took years.",
+        "translation_es": "La realización de la investigación llevó años."
+      },
+      {
+        "sentence": "Η ___ των αποτελεσμάτων είναι σημαντική.",
+        "answer": "ανάλυση",
+        "translation_en": "The analysis of the results is important.",
+        "translation_es": "El análisis de los resultados es importante."
+      },
+      {
+        "sentence": "Η ___ του προβλήματος απαιτεί χρόνο.",
+        "answer": "επίλυση",
+        "translation_en": "The solution of the problem requires time.",
+        "translation_es": "La solución del problema requiere tiempo."
+      },
+      {
+        "sentence": "Η ___ της γνώσης είναι διαρκής.",
+        "answer": "μετάδοση",
+        "translation_en": "The transmission of knowledge is ongoing.",
+        "translation_es": "La transmisión del conocimiento es continua."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "instruction": "Drag the correct academic term into each gap.",
+    "items": [
+      {
+        "sentence": "Η ___ της μελέτης είναι αυστηρή.",
+        "answer": "μεθοδολογία",
+        "translation_en": "The methodology of the study is strict.",
+        "translation_es": "La metodología del estudio es rigurosa."
+      },
+      {
+        "sentence": "Υπάρχει ___ μεταξύ των δύο μεταβλητών.",
+        "answer": "συσχέτιση",
+        "translation_en": "There is a correlation between the two variables.",
+        "translation_es": "Hay una correlación entre las dos variables."
+      },
+      {
+        "sentence": "Η ___ είναι ανεξάρτητη.",
+        "answer": "μεταβλητή",
+        "translation_en": "The variable is independent.",
+        "translation_es": "La variable es independiente."
+      },
+      {
+        "sentence": "Τα ___ δεδομένα είναι αξιόπιστα.",
+        "answer": "εμπειρικά",
+        "translation_en": "The empirical data are reliable.",
+        "translation_es": "Los datos empíricos son fiables."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "instruction": "Drag the correct economic term into each gap.",
+    "items": [
+      {
+        "sentence": "Ο ___ αυξήθηκε φέτος.",
+        "answer": "πληθωρισμός",
+        "translation_en": "Inflation rose this year.",
+        "translation_es": "La inflación subió este año."
+      },
+      {
+        "sentence": "Η εταιρεία κήρυξε ___.",
+        "answer": "πτώχευση",
+        "translation_en": "The company declared bankruptcy.",
+        "translation_es": "La empresa se declaró en quiebra."
+      },
+      {
+        "sentence": "Πήραμε κρατική ___.",
+        "answer": "επιδότηση",
+        "translation_en": "We received a state subsidy.",
+        "translation_es": "Recibimos una subvención estatal."
+      },
+      {
+        "sentence": "Τα ___ αυξήθηκαν.",
+        "answer": "έσοδα",
+        "translation_en": "The revenues increased.",
+        "translation_es": "Los ingresos aumentaron."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "instruction": "Drag the correct legal term into each gap.",
+    "items": [
+      {
+        "sentence": "Το ___ εγγυάται τα δικαιώματα.",
+        "answer": "σύνταγμα",
+        "translation_en": "The constitution guarantees rights.",
+        "translation_es": "La constitución garantiza los derechos."
+      },
+      {
+        "sentence": "Το ___ ψήφισε τον νόμο.",
+        "answer": "κοινοβούλιο",
+        "translation_en": "Parliament passed the law.",
+        "translation_es": "El parlamento aprobó la ley."
+      },
+      {
+        "sentence": "Ο ___ ανακοίνωσε την ετυμηγορία.",
+        "answer": "δικαστής",
+        "translation_en": "The judge announced the verdict.",
+        "translation_es": "El juez anunció el veredicto."
+      },
+      {
+        "sentence": "Ο ___ κατέθεσε μήνυση.",
+        "answer": "ενάγων",
+        "translation_en": "The plaintiff filed a lawsuit.",
+        "translation_es": "El demandante presentó una demanda."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "instruction": "Drag the correct ethics term into each gap.",
+    "items": [
+      {
+        "sentence": "Η ___ εξετάζει το σωστό και το λάθος.",
+        "answer": "ηθική",
+        "translation_en": "Ethics examines right and wrong.",
+        "translation_es": "La ética examina el bien y el mal."
+      },
+      {
+        "sentence": "Η ___ είναι σημαντική.",
+        "answer": "ειλικρίνεια",
+        "translation_en": "Honesty is important.",
+        "translation_es": "La honestidad es importante."
+      },
+      {
+        "sentence": "Φέρει μεγάλη ___.",
+        "answer": "ευθύνη",
+        "translation_en": "He bears great responsibility.",
+        "translation_es": "Carga con una gran responsabilidad."
+      },
+      {
+        "sentence": "Η ___ του είναι αμφίβολη.",
+        "answer": "ηθικότητα",
+        "translation_en": "His morality is doubtful.",
+        "translation_es": "Su moralidad es dudosa."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "instruction": "Drag the correct philosophy term into each gap.",
+    "items": [
+      {
+        "sentence": "Η ___ είναι γρίφος.",
+        "answer": "συνείδηση",
+        "translation_en": "Consciousness is a riddle.",
+        "translation_es": "La conciencia es un enigma."
+      },
+      {
+        "sentence": "Η ___ του ανθρώπου είναι πολύπλοκη.",
+        "answer": "ύπαρξη",
+        "translation_en": "Human existence is complex.",
+        "translation_es": "La existencia humana es compleja."
+      },
+      {
+        "sentence": "Η ___ μας διαμορφώνεται από τη μνήμη.",
+        "answer": "ταυτότητα",
+        "translation_en": "Our identity is shaped by memory.",
+        "translation_es": "Nuestra identidad se forma por la memoria."
+      },
+      {
+        "sentence": "Αυτό είναι ένα ___.",
+        "answer": "δίλημμα",
+        "translation_en": "This is a dilemma.",
+        "translation_es": "Esto es un dilema."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "instruction": "Drag the correct medical term into each gap.",
+    "items": [
+      {
+        "sentence": "Η ___ έγινε έγκαιρα.",
+        "answer": "διάγνωση",
+        "translation_en": "The diagnosis was made in time.",
+        "translation_es": "El diagnóstico se hizo a tiempo."
+      },
+      {
+        "sentence": "Η ___ κράτησε μήνες.",
+        "answer": "θεραπεία",
+        "translation_en": "The treatment lasted months.",
+        "translation_es": "El tratamiento duró meses."
+      },
+      {
+        "sentence": "Το ___ προλαμβάνει την ασθένεια.",
+        "answer": "εμβόλιο",
+        "translation_en": "The vaccine prevents the disease.",
+        "translation_es": "La vacuna previene la enfermedad."
+      },
+      {
+        "sentence": "Η ___ εξαπλώθηκε γρήγορα.",
+        "answer": "λοίμωξη",
+        "translation_en": "The infection spread quickly.",
+        "translation_es": "La infección se propagó rápidamente."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "instruction": "Drag the correct technology term into each gap.",
+    "items": [
+      {
+        "sentence": "Ο ___ λύνει το πρόβλημα.",
+        "answer": "αλγόριθμος",
+        "translation_en": "The algorithm solves the problem.",
+        "translation_es": "El algoritmo resuelve el problema."
+      },
+      {
+        "sentence": "Η ___ προστατεύει τα δεδομένα.",
+        "answer": "κρυπτογράφηση",
+        "translation_en": "Encryption protects the data.",
+        "translation_es": "El cifrado protege los datos."
+      },
+      {
+        "sentence": "Το ___ επεξεργάζεται τα δεδομένα.",
+        "answer": "λογισμικό",
+        "translation_en": "The software processes the data.",
+        "translation_es": "El software procesa los datos."
+      },
+      {
+        "sentence": "Ο ___ φιλοξενεί την ιστοσελίδα.",
+        "answer": "διακομιστής",
+        "translation_en": "The server hosts the website.",
+        "translation_es": "El servidor aloja el sitio web."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "instruction": "Drag the correct discourse marker into each gap.",
+    "items": [
+      {
+        "sentence": "___, πρέπει να λάβουμε υπόψη το κόστος.",
+        "answer": "Επιπλέον",
+        "translation_en": "Moreover, we must take the cost into account.",
+        "translation_es": "Además, debemos tener en cuenta el coste."
+      },
+      {
+        "sentence": "___, τα αποτελέσματα ήταν θετικά.",
+        "answer": "Ωστόσο",
+        "translation_en": "However, the results were positive.",
+        "translation_es": "Sin embargo, los resultados fueron positivos."
+      },
+      {
+        "sentence": "Δεν ήρθε· ___, έχασε τη διορία.",
+        "answer": "επομένως",
+        "translation_en": "He did not come; therefore, he missed the deadline.",
+        "translation_es": "No vino; por lo tanto, perdió el plazo."
+      },
+      {
+        "sentence": "___, θα εξετάσουμε τις αιτίες.",
+        "answer": "Πρώτα απ' όλα",
+        "translation_en": "First of all, we will examine the causes.",
+        "translation_es": "En primer lugar, examinaremos las causas."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "instruction": "Drag the correct verb into each collocation.",
+    "items": [
+      {
+        "sentence": "___ μια απόφαση.",
+        "answer": "Παίρνω",
+        "translation_en": "To make a decision.",
+        "translation_es": "Tomar una decisión."
+      },
+      {
+        "sentence": "___ προσοχή.",
+        "answer": "Δίνω",
+        "translation_en": "To pay attention.",
+        "translation_es": "Prestar atención."
+      },
+      {
+        "sentence": "___ σημαντικό ρόλο.",
+        "answer": "Παίζω",
+        "translation_en": "To play an important role.",
+        "translation_es": "Desempeñar un papel importante."
+      },
+      {
+        "sentence": "___ συμπέρασμα.",
+        "answer": "Βγάζω",
+        "translation_en": "To draw a conclusion.",
+        "translation_es": "Sacar una conclusión."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "instruction": "Drag the correct sustainability term into each gap.",
+    "items": [
+      {
+        "sentence": "Πρέπει να μειώσουμε τις ___ άνθρακα.",
+        "answer": "εκπομπές",
+        "translation_en": "We must reduce carbon emissions.",
+        "translation_es": "Debemos reducir las emisiones de carbono."
+      },
+      {
+        "sentence": "Η ___ των ειδών κινδυνεύει.",
+        "answer": "βιοποικιλότητα",
+        "translation_en": "Biodiversity is at risk.",
+        "translation_es": "La biodiversidad está en peligro."
+      },
+      {
+        "sentence": "Η ___ των δασών είναι πρόβλημα.",
+        "answer": "αποδάσωση",
+        "translation_en": "Deforestation is a problem.",
+        "translation_es": "La deforestación es un problema."
+      },
+      {
+        "sentence": "Προστατεύουμε το ___.",
+        "answer": "οικοσύστημα",
+        "translation_en": "We protect the ecosystem.",
+        "translation_es": "Protegemos el ecosistema."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "instruction": "Drag the correct rhetoric term into each gap.",
+    "items": [
+      {
+        "sentence": "Η ___ του ομιλητή ήταν πειστική.",
+        "answer": "ρητορική",
+        "translation_en": "The speaker's rhetoric was persuasive.",
+        "translation_es": "La retórica del orador fue persuasiva."
+      },
+      {
+        "sentence": "Ο ___ του λόγου ήταν σαφής.",
+        "answer": "λόγος",
+        "translation_en": "The discourse was clear.",
+        "translation_es": "El discurso fue claro."
+      },
+      {
+        "sentence": "Υπάρχει ___ στην πρόταση.",
+        "answer": "ασάφεια",
+        "translation_en": "There is ambiguity in the sentence.",
+        "translation_es": "Hay ambigüedad en la frase."
+      },
+      {
+        "sentence": "Επιτεύχθηκε ___.",
+        "answer": "συναίνεση",
+        "translation_en": "A consensus was reached.",
+        "translation_es": "Se alcanzó un consenso."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "instruction": "Drag the correct impersonal form into each gap.",
+    "items": [
+      {
+        "sentence": "___ ότι η οικονομία θα ανακάμψει.",
+        "answer": "Λέγεται",
+        "translation_en": "It is said that the economy will recover.",
+        "translation_es": "Se dice que la economía se recuperará."
+      },
+      {
+        "sentence": "___ πως η απόφαση ήταν σωστή.",
+        "answer": "Θεωρείται",
+        "translation_en": "It is considered that the decision was right.",
+        "translation_es": "Se considera que la decisión fue correcta."
+      },
+      {
+        "sentence": "___ μεγάλη αύξηση των τιμών.",
+        "answer": "Παρατηρήθηκε",
+        "translation_en": "A large increase in prices was observed.",
+        "translation_es": "Se observó un gran aumento de los precios."
+      },
+      {
+        "sentence": "___ οι κανόνες αυστηρά.",
+        "answer": "Τηρούνται",
+        "translation_en": "The rules are strictly observed.",
+        "translation_es": "Las reglas se cumplen estrictamente."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "instruction": "Drag the correct connector into each gap.",
+    "items": [
+      {
+        "sentence": "Δεν ήρθε, ___ και τον περιμέναμε.",
+        "answer": "αν και",
+        "translation_en": "He did not come, although we were waiting for him.",
+        "translation_es": "No vino, aunque lo esperábamos."
+      },
+      {
+        "sentence": "Το έκανε ___ δεν ήξερε τις συνέπειες.",
+        "answer": "επειδή",
+        "translation_en": "He did it because he did not know the consequences.",
+        "translation_es": "Lo hizo porque no conocía las consecuencias."
+      },
+      {
+        "sentence": "Θα εγκριθεί ___ πληροί τα κριτήρια.",
+        "answer": "εφόσον",
+        "translation_en": "It will be approved provided that it meets the criteria.",
+        "translation_es": "Se aprobará siempre que cumpla los criterios."
+      },
+      {
+        "sentence": "Το ακύρωσε ___ το άκουσε.",
+        "answer": "μόλις",
+        "translation_en": "He cancelled it as soon as he heard it.",
+        "translation_es": "Lo canceló en cuanto lo oyó."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "instruction": "Drag the correct business term into each gap.",
+    "items": [
+      {
+        "sentence": "Συγχωνεύτηκαν σε μια ___.",
+        "answer": "συγχώνευση",
+        "translation_en": "They merged in a merger.",
+        "translation_es": "Se fusionaron en una fusión."
+      },
+      {
+        "sentence": "Το ___ έφτασε τα έξοδα.",
+        "answer": "τιμολόγιο",
+        "translation_en": "The invoice arrived with the costs.",
+        "translation_es": "La factura llegó con los costes."
+      },
+      {
+        "sentence": "Αυξήσαμε το ___.",
+        "answer": "κέρδος",
+        "translation_en": "We increased the profit.",
+        "translation_es": "Aumentamos el beneficio."
+      },
+      {
+        "sentence": "Καταρτίσαμε τον ___.",
+        "answer": "προϋπολογισμό",
+        "translation_en": "We drew up the budget.",
+        "translation_es": "Elaboramos el presupuesto."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "instruction": "Drag the correct formal verb into each gap.",
+    "items": [
+      {
+        "sentence": "Πρέπει να ___ την πρόταση.",
+        "answer": "διατυπώσουμε",
+        "translation_en": "We must articulate the proposal.",
+        "translation_es": "Debemos formular la propuesta."
+      },
+      {
+        "sentence": "Πρέπει να ___ τον κίνδυνο.",
+        "answer": "παρακάμψουμε",
+        "translation_en": "We must circumvent the risk.",
+        "translation_es": "Debemos eludir el riesgo."
+      },
+      {
+        "sentence": "Θέλουμε να ___ τη θέση μας.",
+        "answer": "εδραιώσουμε",
+        "translation_en": "We want to consolidate our position.",
+        "translation_es": "Queremos consolidar nuestra posición."
+      },
+      {
+        "sentence": "Πρέπει να ___ την κατάσταση.",
+        "answer": "βελτιώσουμε",
+        "translation_en": "We must improve the situation.",
+        "translation_es": "Debemos mejorar la situación."
+      }
+    ]
+  }
+]
