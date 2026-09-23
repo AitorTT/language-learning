@@ -1,0 +1,2536 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Slovenian alphabet",
+    "description": "Slovenian uses č, š and ž for the hushing sounds.",
+    "columns": [
+      "Letter",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "č",
+        "čas",
+        "ch as in church",
+        "ch"
+      ],
+      [
+        "š",
+        "šola",
+        "sh as in shop",
+        "sh"
+      ],
+      [
+        "ž",
+        "žena",
+        "zh as in measure",
+        "y"
+      ],
+      [
+        "c",
+        "cena",
+        "ts as in cats",
+        "ts"
+      ],
+      [
+        "j",
+        "jabolko",
+        "y as in yes",
+        "y"
+      ],
+      [
+        "lj",
+        "ljubezen",
+        "ly as in million",
+        "ll"
+      ],
+      [
+        "nj",
+        "njegov",
+        "ny as in canyon",
+        "ñ"
+      ],
+      [
+        "dž",
+        "džungla",
+        "j as in jam",
+        "y"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "The pronoun is often left out of the sentence.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "jaz",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "ti",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing.",
+        "on / ona / ono",
+        "he / she / it",
+        "él / ella"
+      ],
+      [
+        "1st plur.",
+        "mi",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "vi",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "oni",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "The verb biti (to be)",
+    "description": "The verb is irregular.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "sem",
+        "I am",
+        "soy / estoy"
+      ],
+      [
+        "you are",
+        "si",
+        "you are",
+        "eres / estás"
+      ],
+      [
+        "he is",
+        "je",
+        "he is",
+        "es / está"
+      ],
+      [
+        "we are",
+        "smo",
+        "we are",
+        "somos / estamos"
+      ],
+      [
+        "you are (pl.)",
+        "ste",
+        "you are",
+        "sois / estáis"
+      ],
+      [
+        "they are",
+        "so",
+        "they are",
+        "son / están"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "The verb imeti (to have)",
+    "description": "The verb is regular in the present.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "imam",
+        "I have",
+        "tengo"
+      ],
+      [
+        "you have",
+        "imaš",
+        "you have",
+        "tienes"
+      ],
+      [
+        "he has",
+        "ima",
+        "he has",
+        "tiene"
+      ],
+      [
+        "we have",
+        "imamo",
+        "we have",
+        "tenemos"
+      ],
+      [
+        "you have (pl.)",
+        "imate",
+        "you have",
+        "tenéis"
+      ],
+      [
+        "they have",
+        "imajo",
+        "they have",
+        "tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Noun gender",
+    "description": "Every noun is masculine, feminine or neuter.",
+    "columns": [
+      "Gender",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "moški",
+        "man",
+        "hombre"
+      ],
+      [
+        "feminine",
+        "ženska",
+        "woman",
+        "mujer"
+      ],
+      [
+        "neuter",
+        "mesto",
+        "town",
+        "ciudad"
+      ],
+      [
+        "feminine",
+        "knjiga",
+        "book",
+        "libro"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural of nouns",
+    "description": "The plural is used for three or more.",
+    "columns": [
+      "Type",
+      "Singular",
+      "Plural",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc.",
+        "moški",
+        "moški",
+        "hombre → hombres"
+      ],
+      [
+        "fem.",
+        "knjiga",
+        "knjige",
+        "libro → libros"
+      ],
+      [
+        "neut.",
+        "mesto",
+        "mesta",
+        "ciudad → ciudades"
+      ],
+      [
+        "fem.",
+        "hiša",
+        "hiše",
+        "casa → casas"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "The dual",
+    "description": "Slovenian has a separate form for exactly two.",
+    "columns": [
+      "Type",
+      "Singular",
+      "Dual",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc.",
+        "moški",
+        "moška",
+        "un hombre → dos hombres"
+      ],
+      [
+        "fem.",
+        "knjiga",
+        "knjigi",
+        "un libro → dos libros"
+      ],
+      [
+        "neut.",
+        "mesto",
+        "mesti",
+        "una ciudad → dos ciudades"
+      ],
+      [
+        "fem.",
+        "hiša",
+        "hiši",
+        "una casa → dos casas"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective agrees with the noun.",
+    "columns": [
+      "Form",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. sing.",
+        "dober",
+        "good",
+        "bueno"
+      ],
+      [
+        "fem. sing.",
+        "dobra",
+        "good",
+        "buena"
+      ],
+      [
+        "neut. sing.",
+        "dobro",
+        "good",
+        "bueno (n.)"
+      ],
+      [
+        "masc. plur.",
+        "dobri",
+        "good",
+        "buenos"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The endings are -im, -iš, -i, -imo, -ite, -ijo.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "govorim",
+        "I speak",
+        "hablo"
+      ],
+      [
+        "you speak",
+        "govoriš",
+        "you speak",
+        "hablas"
+      ],
+      [
+        "he speaks",
+        "govori",
+        "he speaks",
+        "habla"
+      ],
+      [
+        "we speak",
+        "govorimo",
+        "we speak",
+        "hablamos"
+      ],
+      [
+        "they speak",
+        "govorijo",
+        "they speak",
+        "hablan"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Negation",
+    "description": "ne stands before the verb.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "ne govorim",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "nič",
+        "nothing",
+        "nada"
+      ],
+      [
+        "nobody",
+        "nihče",
+        "nobody",
+        "nadie"
+      ],
+      [
+        "never",
+        "nikoli",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "kaj",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "kdo",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "kje",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "kdaj",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "zakaj",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "kako",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "The numbers agree in gender.",
+    "columns": [
+      "Number",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "ena",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "dva",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "tri",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "štiri",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "pet",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "šest",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "sedem",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "osem",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "devet",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "deset",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "The days are not capitalised.",
+    "columns": [
+      "Day",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Monday",
+        "ponedeljek",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "torek",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "sreda",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "četrtek",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "petek",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "sobota",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Sunday",
+        "nedelja",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Colour",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "rdeč",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "moder",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "zelen",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "črn",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "bel",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "rumen",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "mati",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "oče",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "brat",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "sestra",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "sin",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "hči",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "These agree with the noun.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (masc.)",
+        "moj",
+        "my",
+        "mi"
+      ],
+      [
+        "my (fem.)",
+        "moja",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "tvoj",
+        "your",
+        "tu"
+      ],
+      [
+        "his",
+        "njegov",
+        "his",
+        "su"
+      ],
+      [
+        "our",
+        "naš",
+        "our",
+        "nuestro"
+      ],
+      [
+        "their",
+        "njihov",
+        "their",
+        "su"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Prepositions",
+    "description": "Prepositions govern a fixed case.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "na mizi",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "pod mizo",
+        "under the table",
+        "bajo la mesa"
+      ],
+      [
+        "behind",
+        "za hišo",
+        "behind the house",
+        "detrás de la casa"
+      ],
+      [
+        "in front of",
+        "pred hišo",
+        "in front of the house",
+        "delante de la casa"
+      ],
+      [
+        "next to",
+        "ob hiši",
+        "next to the house",
+        "junto a la casa"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Object clitics",
+    "description": "These short pronouns stand before the verb.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "me",
+        "me",
+        "me",
+        "me"
+      ],
+      [
+        "you",
+        "te",
+        "you",
+        "te"
+      ],
+      [
+        "him",
+        "ga",
+        "him",
+        "lo"
+      ],
+      [
+        "her",
+        "jo",
+        "her",
+        "la"
+      ],
+      [
+        "us",
+        "nas",
+        "us",
+        "nos"
+      ],
+      [
+        "them",
+        "jih",
+        "them",
+        "los"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "The past uses sem plus the participle.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I went",
+        "sem šel",
+        "I went",
+        "fui"
+      ],
+      [
+        "you went",
+        "si šel",
+        "you went",
+        "fuiste"
+      ],
+      [
+        "he went",
+        "je šel",
+        "he went",
+        "fue"
+      ],
+      [
+        "we went",
+        "smo šli",
+        "we went",
+        "fuimos"
+      ],
+      [
+        "they went",
+        "so šli",
+        "they went",
+        "fueron"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future",
+    "description": "The future uses bom plus the participle.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I will go",
+        "bom šel",
+        "I will go",
+        "iré"
+      ],
+      [
+        "you will go",
+        "boš šel",
+        "you will go",
+        "irás"
+      ],
+      [
+        "he will go",
+        "bo šel",
+        "he will go",
+        "irá"
+      ],
+      [
+        "we will go",
+        "bomo šli",
+        "we will go",
+        "iremos"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "The imperative gives commands.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "go!",
+        "pojdi",
+        "go!",
+        "¡ve!"
+      ],
+      [
+        "wait!",
+        "počakaj",
+        "wait!",
+        "¡espera!"
+      ],
+      [
+        "close!",
+        "zapri",
+        "close!",
+        "¡cierra!"
+      ],
+      [
+        "come!",
+        "pridi",
+        "come!",
+        "¡ven!"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "Comparatives",
+    "description": "The comparative adds -ši or uses bolj.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "večji",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "večji od",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "boljši",
+        "better",
+        "mejor"
+      ],
+      [
+        "worse",
+        "slabši",
+        "worse",
+        "peor"
+      ],
+      [
+        "more",
+        "več",
+        "more",
+        "más"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Superlatives",
+    "description": "The superlative prefixes naj- to the comparative.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "največji",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "najboljši",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the worst",
+        "najslabši",
+        "the worst",
+        "el peor"
+      ],
+      [
+        "very",
+        "zelo",
+        "very",
+        "muy"
+      ],
+      [
+        "the most",
+        "največ",
+        "the most",
+        "el más"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The pronoun se matches the subject.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I wash myself",
+        "umijem se",
+        "I wash myself",
+        "me lavo"
+      ],
+      [
+        "you wash yourself",
+        "umiješ se",
+        "you wash yourself",
+        "te lavas"
+      ],
+      [
+        "he washes himself",
+        "umije se",
+        "he washes himself",
+        "se lava"
+      ],
+      [
+        "we wash ourselves",
+        "umijemo se",
+        "we wash ourselves",
+        "nos lavamos"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "vedno",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "pogosto",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "včasih",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "redko",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "nikoli",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "The tens end in -deset.",
+    "columns": [
+      "Number",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "enajst",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "dvanajst",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "dvajset",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "trideset",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "50",
+        "petdeset",
+        "fifty",
+        "cincuenta"
+      ],
+      [
+        "100",
+        "sto",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "prvi",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "drugi",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "tretji",
+        "third",
+        "tercero"
+      ],
+      [
+        "fourth",
+        "četrti",
+        "fourth",
+        "cuarto"
+      ],
+      [
+        "last",
+        "zadnji",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "The half and quarter use pol and četrt.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "ena",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "seven o'clock",
+        "sedem",
+        "seven o'clock",
+        "las siete"
+      ],
+      [
+        "half past",
+        "pol",
+        "half past",
+        "y media"
+      ],
+      [
+        "quarter past",
+        "četrt",
+        "quarter past",
+        "y cuarto"
+      ],
+      [
+        "quarter to",
+        "tri četrt",
+        "quarter to",
+        "menos cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Months and seasons",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Word",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "januar",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "marec",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "junij",
+        "June",
+        "junio"
+      ],
+      [
+        "December",
+        "december",
+        "December",
+        "diciembre"
+      ],
+      [
+        "summer",
+        "poletje",
+        "summer",
+        "verano"
+      ],
+      [
+        "winter",
+        "zima",
+        "winter",
+        "invierno"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "The genitive case",
+    "description": "The genitive shows possession.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "of my brother",
+        "brata",
+        "of my brother",
+        "de mi hermano"
+      ],
+      [
+        "of my sister",
+        "sestre",
+        "of my sister",
+        "de mi hermana"
+      ],
+      [
+        "of my father",
+        "očeta",
+        "of my father",
+        "de mi padre"
+      ],
+      [
+        "of my mother",
+        "matere",
+        "of my mother",
+        "de mi madre"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "The instrumental case",
+    "description": "The instrumental marks the means or tool.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by train",
+        "z vlakom",
+        "by train",
+        "en tren"
+      ],
+      [
+        "with a pen",
+        "s peresom",
+        "with a pen",
+        "con bolígrafo"
+      ],
+      [
+        "with a spoon",
+        "z žlico",
+        "with a spoon",
+        "con cuchara"
+      ],
+      [
+        "with a ball",
+        "z žogo",
+        "with a ball",
+        "con una pelota"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "The locative case",
+    "description": "The locative is used after v and na.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "in Ljubljana",
+        "v Ljubljani",
+        "in Ljubljana",
+        "en Liubliana"
+      ],
+      [
+        "at school",
+        "v šoli",
+        "at school",
+        "en la escuela"
+      ],
+      [
+        "in an office",
+        "v pisarni",
+        "in an office",
+        "en una oficina"
+      ],
+      [
+        "on the table",
+        "na mizi",
+        "on the table",
+        "sobre la mesa"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "The dual in verbs",
+    "description": "The verb has a special form for two people.",
+    "columns": [
+      "Person",
+      "Singular",
+      "Dual",
+      "Plural"
+    ],
+    "rows": [
+      [
+        "1st",
+        "grem",
+        "greva",
+        "gremo"
+      ],
+      [
+        "2nd",
+        "greš",
+        "gresta",
+        "greste"
+      ],
+      [
+        "3rd",
+        "gre",
+        "gresta",
+        "gredo"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Verb plus preposition",
+    "description": "Many verbs take a fixed preposition.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait for",
+        "čakam na",
+        "to wait for",
+        "esperar"
+      ],
+      [
+        "care about",
+        "skrbim za",
+        "to care about",
+        "cuidar de"
+      ],
+      [
+        "depend on",
+        "je odvisno od",
+        "to depend on",
+        "depender de"
+      ],
+      [
+        "answer",
+        "odgovarjam na",
+        "to answer",
+        "responder"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The conditional uses bi with the participle.",
+    "columns": [
+      "Person",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I would go",
+        "bi šel",
+        "I would go",
+        "iría"
+      ],
+      [
+        "you would go",
+        "bi šel",
+        "you would go",
+        "irías"
+      ],
+      [
+        "we two would go",
+        "bi šla",
+        "we two would go",
+        "iríamos (dos)"
+      ],
+      [
+        "we would go",
+        "bi šli",
+        "we would go",
+        "iríamos"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive voice",
+    "description": "The passive uses biti plus a participle.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "je bil zgrajen",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "was read",
+        "je bila brana",
+        "was read",
+        "fue leído"
+      ],
+      [
+        "was sent",
+        "je bilo poslano",
+        "was sent",
+        "fue enviado"
+      ],
+      [
+        "were closed",
+        "so bila zaprta",
+        "were closed",
+        "fueron cerradas"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "written",
+        "napisan",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "utrujen",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "zaprt",
+        "closed",
+        "cerrado"
+      ],
+      [
+        "happy",
+        "vesel",
+        "happy",
+        "feliz"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "The relative pronoun agrees with its antecedent.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who / that",
+        "ki",
+        "who / that",
+        "que"
+      ],
+      [
+        "which (masc.)",
+        "kateri",
+        "which (m.)",
+        "el cual"
+      ],
+      [
+        "which (fem.)",
+        "katera",
+        "which (f.)",
+        "la cual"
+      ],
+      [
+        "which (neut.)",
+        "katero",
+        "which (n.)",
+        "lo cual"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "da and ali introduce reported clauses.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "da",
+        "that",
+        "que"
+      ],
+      [
+        "whether",
+        "ali",
+        "whether",
+        "si"
+      ],
+      [
+        "where",
+        "kje",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "kdaj",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbs become nouns ending in -nje or -ja.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "branje",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "učenje",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "walking",
+        "hoja",
+        "walking",
+        "caminata"
+      ],
+      [
+        "work",
+        "delo",
+        "work",
+        "trabajo"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Word order and clitics",
+    "description": "The clitic comes in the second position.",
+    "columns": [
+      "Type",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "Jaz berem knjigo.",
+        "I read the book",
+        "leo el libro"
+      ],
+      [
+        "clitic second",
+        "Jaz jo berem.",
+        "I read it",
+        "lo leo"
+      ],
+      [
+        "negation",
+        "Ne berem je.",
+        "I do not read it",
+        "no lo leo"
+      ],
+      [
+        "imperative",
+        "Beri jo!",
+        "read it!",
+        "¡léelo!"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "and",
+        "in",
+        "and",
+        "y"
+      ],
+      [
+        "but",
+        "a",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "ker",
+        "because",
+        "porque"
+      ],
+      [
+        "so",
+        "zato",
+        "so",
+        "por eso"
+      ],
+      [
+        "although",
+        "čeprav",
+        "although",
+        "aunque"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "zdravljenje",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "simptom",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "recept",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "cepivo",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "zavarovanje",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "sestanek",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "pogodba",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "plača",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "kolega",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "rok",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "šola",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "univerza",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "izpit",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "znanje",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "veščina",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Verb tenses overview",
+    "description": "The main forms of 'to go' side by side.",
+    "columns": [
+      "Tense",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "present",
+        "grem",
+        "I go",
+        "voy"
+      ],
+      [
+        "past",
+        "sem šel",
+        "I went",
+        "fui"
+      ],
+      [
+        "future",
+        "bom šel",
+        "I will go",
+        "iré"
+      ],
+      [
+        "conditional",
+        "bi šel",
+        "I would go",
+        "iría"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "prihod",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "raziskava",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "sodelovanje",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "proizvodnja",
+        "production",
+        "producción"
+      ],
+      [
+        "analysis",
+        "analiza",
+        "analysis",
+        "análisis"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "metodologija",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "korelacija",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "spremenljivka",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "empiričen",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "količinski",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "inflacija",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "bankrot",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "subvencija",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "prihodek",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "naložba",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "ustava",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "parlament",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "sodba",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "tožnik",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "obdolženec",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "etika",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "morala",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "poštenost",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "odgovornost",
+        "responsibility",
+        "responsabilidad"
+      ],
+      [
+        "virtue",
+        "vrlina",
+        "virtue",
+        "virtud"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "zavest",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "obstoj",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "identiteta",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "paradoks",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilema",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "diagnoza",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "terapija",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "kroničen",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "okužba",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "imun",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "molekula",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atom",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "gravitacija",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "celica",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "poskus",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Slovenian.",
+    "columns": [
+      "Connector",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "poleg tega",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "vendar",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "zato",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "najprej",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "kljub temu",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "sprejmem odločitev",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "posvetim pozornost",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "igram vlogo",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "naredim sklep",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "zdržim dolgo",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "popravim",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "recikliram",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "emisije ogljika",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "trajnosten",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Slovenian",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "retorika",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "diskurz",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "dvoumnost",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "soglasje",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "argument",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]

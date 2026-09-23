@@ -428,5 +428,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "sl",
+    "name": "Slovenian",
+    "flag": "🇸🇮",
+    "speech": "sl-SI",
+    "termLabel": "Slovenian",
+    "termField": "slovenian",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
