@@ -112,6 +112,9 @@ COMPARE_PRON = {
     "nb": {"hello": "hæi", "goodbye": "hɑː də ˈbrɑː", "good morning": "ɡu ˈmɔrn",
            "good night": "ɡu nɑt", "thank you": "tɑk", "please": "væːr soː snɪl",
            "sorry": "ˈʉnːʃyl", "yes": "jɑː", "no": "næi", "help": "jɛlp"},
+    "is": {"hello": "ˈhalːou", "goodbye": "plɛs", "good morning": "ˈkouːðan ˈmɔrkʏn",
+           "good night": "ˈkouːða nouht", "thank you": "tʰakː", "please": "ˈvɪnsamlɛɣast",
+           "sorry": "ˈfɪːrɪrˌcɛvðʏ", "yes": "jauː", "no": "neiː", "help": "çaulp"},
 }
 
 _compare_cache = None

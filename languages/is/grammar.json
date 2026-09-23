@@ -1,0 +1,2470 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The Icelandic alphabet",
+    "description": "Icelandic keeps the old letters þ and ð.",
+    "columns": [
+      "Feature",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "þ",
+        "þak",
+        "a voiceless th",
+        "una th sorda"
+      ],
+      [
+        "ð",
+        "maður",
+        "a voiced th",
+        "una th sonora"
+      ],
+      [
+        "á, é, í, ó, ú, ý",
+        "ár, ég",
+        "long vowels",
+        "vocales largas"
+      ],
+      [
+        "æ",
+        "ætla",
+        "like 'i' in mine",
+        "como 'ai' en aire"
+      ],
+      [
+        "ö",
+        "höfn",
+        "like 'u' in fur",
+        "como la 'ö' alemana"
+      ],
+      [
+        "accents",
+        "á",
+        "accents mark vowels, never stress",
+        "el acento marca vocales"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "The pronouns are also marked for number and gender.",
+    "columns": [
+      "Person",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1st sing.",
+        "ég",
+        "I",
+        "yo"
+      ],
+      [
+        "2nd sing.",
+        "þú",
+        "you",
+        "tú"
+      ],
+      [
+        "3rd sing. m.",
+        "hann",
+        "he",
+        "él"
+      ],
+      [
+        "3rd sing. f.",
+        "hún",
+        "she",
+        "ella"
+      ],
+      [
+        "3rd sing. n.",
+        "það",
+        "it",
+        "ello"
+      ],
+      [
+        "1st plur.",
+        "við",
+        "we",
+        "nosotros"
+      ],
+      [
+        "2nd plur.",
+        "þið",
+        "you all",
+        "vosotros"
+      ],
+      [
+        "3rd plur.",
+        "þeir / þær / þau",
+        "they",
+        "ellos"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "að vera (to be)",
+    "description": "The verb changes for person.",
+    "columns": [
+      "Person",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I am",
+        "ég er",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "you are",
+        "þú ert",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "he is",
+        "hann er",
+        "he is",
+        "él es"
+      ],
+      [
+        "we are",
+        "við erum",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "they are",
+        "þau eru",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "að hafa (to have)",
+    "description": "The verb is irregular in the present.",
+    "columns": [
+      "Person",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I have",
+        "ég hef",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "you have",
+        "þú hefur",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "he has",
+        "hann hefur",
+        "he has",
+        "él tiene"
+      ],
+      [
+        "we have",
+        "við höfum",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "they have",
+        "þau hafa",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Noun gender",
+    "description": "Nouns are masculine, feminine or neuter.",
+    "columns": [
+      "Gender",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masculine",
+        "hestur",
+        "horse",
+        "caballo"
+      ],
+      [
+        "feminine",
+        "kona",
+        "woman",
+        "mujer"
+      ],
+      [
+        "neuter",
+        "hús",
+        "house",
+        "casa"
+      ],
+      [
+        "masculine",
+        "bíll",
+        "car",
+        "coche"
+      ],
+      [
+        "feminine",
+        "bók",
+        "book",
+        "libro"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Plural forms",
+    "description": "The plural ending depends on the noun class.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -ur to -ar",
+        "hestur → hestar",
+        "horse → horses",
+        "caballo → caballos"
+      ],
+      [
+        "fem. -a to -ur",
+        "kona → konur",
+        "woman → women",
+        "mujer → mujeres"
+      ],
+      [
+        "neut. unchanged",
+        "hús → hús",
+        "house → houses",
+        "casa → casas"
+      ],
+      [
+        "neut. -a",
+        "barn → börn",
+        "child → children",
+        "niño → niños"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "title": "Adjectives",
+    "description": "The adjective agrees in gender, number and case.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc.",
+        "góður dagur",
+        "a good day",
+        "un buen día"
+      ],
+      [
+        "fem.",
+        "góð kona",
+        "a good woman",
+        "una buena mujer"
+      ],
+      [
+        "neuter",
+        "gott hús",
+        "a good house",
+        "una buena casa"
+      ],
+      [
+        "plural",
+        "góðir dagar",
+        "good days",
+        "buenos días"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "title": "Present tense",
+    "description": "The present ends in -a, -ar or -ur.",
+    "columns": [
+      "Person",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I speak",
+        "ég tala",
+        "I speak",
+        "yo hablo"
+      ],
+      [
+        "you speak",
+        "þú talar",
+        "you speak",
+        "tú hablas"
+      ],
+      [
+        "he speaks",
+        "hann talar",
+        "he speaks",
+        "él habla"
+      ],
+      [
+        "we speak",
+        "við tölum",
+        "we speak",
+        "nosotros hablamos"
+      ],
+      [
+        "they speak",
+        "þau tala",
+        "they speak",
+        "ellos hablan"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "title": "Negation",
+    "description": "ekki follows the verb and never changes.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "not",
+        "ég tala ekki",
+        "I do not speak",
+        "no hablo"
+      ],
+      [
+        "nothing",
+        "ég segi ekkert",
+        "I say nothing",
+        "no digo nada"
+      ],
+      [
+        "never",
+        "ég kem aldrei",
+        "I never come",
+        "nunca vengo"
+      ],
+      [
+        "nobody",
+        "ég sé engan",
+        "I see nobody",
+        "no veo a nadie"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "title": "Question words",
+    "description": "Question words stand at the start.",
+    "columns": [
+      "Word",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "what",
+        "hvað",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "hver",
+        "who",
+        "quién"
+      ],
+      [
+        "where",
+        "hvar",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "hvenær",
+        "when",
+        "cuándo"
+      ],
+      [
+        "why",
+        "hvers vegna",
+        "why",
+        "por qué"
+      ],
+      [
+        "how",
+        "hvernig",
+        "how",
+        "cómo"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "title": "Numbers 1–10",
+    "description": "Numbers agree with the noun's gender.",
+    "columns": [
+      "Number",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "1",
+        "einn",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "tveir",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "þrír",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "fjórir",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "fimm",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "sex",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "sjö",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "átta",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "níu",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "tíu",
+        "ten",
+        "diez"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Days are written with a small letter.",
+    "columns": [
+      "Day",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sunday",
+        "sunnudagur",
+        "Sunday",
+        "domingo"
+      ],
+      [
+        "Monday",
+        "mánudagur",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Tuesday",
+        "þriðjudagur",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Wednesday",
+        "miðvikudagur",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Thursday",
+        "fimmtudagur",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Friday",
+        "föstudagur",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Saturday",
+        "laugardagur",
+        "Saturday",
+        "sábado"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "title": "Colours",
+    "description": "Colours agree with the noun.",
+    "columns": [
+      "Colour",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "red",
+        "rauður",
+        "red",
+        "rojo"
+      ],
+      [
+        "blue",
+        "blár",
+        "blue",
+        "azul"
+      ],
+      [
+        "green",
+        "grænn",
+        "green",
+        "verde"
+      ],
+      [
+        "black",
+        "svartur",
+        "black",
+        "negro"
+      ],
+      [
+        "white",
+        "hvítur",
+        "white",
+        "blanco"
+      ],
+      [
+        "yellow",
+        "gulur",
+        "yellow",
+        "amarillo"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "title": "The accusative case",
+    "description": "The accusative marks the direct object.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -ur to -",
+        "hestur → hest",
+        "horse (object)",
+        "caballo (objeto)"
+      ],
+      [
+        "fem. -a to -u",
+        "kona → konu",
+        "woman (object)",
+        "mujer (objeto)"
+      ],
+      [
+        "neut. unchanged",
+        "hús → hús",
+        "house (object)",
+        "casa (objeto)"
+      ],
+      [
+        "fem. unchanged",
+        "bók → bók",
+        "book (object)",
+        "libro (objeto)"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "title": "The genitive case",
+    "description": "The genitive shows possession.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -ur to -s",
+        "hestur → hests",
+        "of the horse",
+        "del caballo"
+      ],
+      [
+        "fem. -a to -u",
+        "kona → konu",
+        "of the woman",
+        "de la mujer"
+      ],
+      [
+        "neut. -s",
+        "hús → húss",
+        "of the house",
+        "de la casa"
+      ],
+      [
+        "masc. -s",
+        "bíll → bíls",
+        "of the car",
+        "del coche"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "title": "The dative case",
+    "description": "The dative marks the indirect object.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc. -i",
+        "hestur → hesti",
+        "to a horse",
+        "a un caballo"
+      ],
+      [
+        "fem. -u",
+        "kona → konu",
+        "to a woman",
+        "a una mujer"
+      ],
+      [
+        "neut. -i",
+        "hús → húsi",
+        "to a house",
+        "a una casa"
+      ],
+      [
+        "masc. -i",
+        "bíll → bíl",
+        "to a car",
+        "a un coche"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "title": "Possessive pronouns",
+    "description": "These agree with the noun.",
+    "columns": [
+      "Person",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "my (masc.)",
+        "minn",
+        "my",
+        "mi"
+      ],
+      [
+        "my (fem.)",
+        "mín",
+        "my",
+        "mi"
+      ],
+      [
+        "my (neut.)",
+        "mitt",
+        "my",
+        "mi"
+      ],
+      [
+        "your",
+        "þinn",
+        "your",
+        "tu"
+      ],
+      [
+        "our",
+        "okkar",
+        "our",
+        "nuestro"
+      ],
+      [
+        "their",
+        "þeirra",
+        "their",
+        "su"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "title": "Family words",
+    "description": "Basic vocabulary for the family.",
+    "columns": [
+      "Word",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mother",
+        "móðir",
+        "mother",
+        "madre"
+      ],
+      [
+        "father",
+        "faðir",
+        "father",
+        "padre"
+      ],
+      [
+        "brother",
+        "bróðir",
+        "brother",
+        "hermano"
+      ],
+      [
+        "sister",
+        "systir",
+        "sister",
+        "hermana"
+      ],
+      [
+        "son",
+        "sonur",
+        "son",
+        "hijo"
+      ],
+      [
+        "daughter",
+        "dóttir",
+        "daughter",
+        "hija"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "title": "The past tense",
+    "description": "Weak verbs add -aði, -di or -ti.",
+    "columns": [
+      "Person",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I was",
+        "ég var",
+        "I was",
+        "yo era"
+      ],
+      [
+        "I worked",
+        "ég vann",
+        "I worked",
+        "yo trabajé"
+      ],
+      [
+        "I read",
+        "ég las",
+        "I read",
+        "yo leí"
+      ],
+      [
+        "I spoke",
+        "ég talaði",
+        "I spoke",
+        "yo hablé"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "title": "The future",
+    "description": "The future uses mun plus the infinitive.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "will",
+        "ég mun fara",
+        "I will go",
+        "iré"
+      ],
+      [
+        "shall",
+        "ég skal fara",
+        "I shall go",
+        "debo ir"
+      ],
+      [
+        "present as future",
+        "ég fer á morgun",
+        "I go tomorrow",
+        "voy mañana"
+      ],
+      [
+        "future",
+        "við komum fljótlega",
+        "we are coming soon",
+        "vendremos pronto"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "title": "The imperative",
+    "description": "Commands use the stem with -ðu or -du.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait!",
+        "bíddu",
+        "wait!",
+        "¡espera!"
+      ],
+      [
+        "close!",
+        "lokaðu",
+        "close!",
+        "¡cierra!"
+      ],
+      [
+        "read!",
+        "lestu",
+        "read!",
+        "¡lee!"
+      ],
+      [
+        "come!",
+        "komdu",
+        "come!",
+        "¡ven!"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "The comparative",
+    "description": "The comparative adds -ari or -ri.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "bigger",
+        "stærri",
+        "bigger",
+        "más grande"
+      ],
+      [
+        "bigger than",
+        "stærri en",
+        "bigger than",
+        "más grande que"
+      ],
+      [
+        "better",
+        "betri",
+        "better",
+        "mejor"
+      ],
+      [
+        "smaller",
+        "minni",
+        "smaller",
+        "más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "The superlative",
+    "description": "The superlative adds -astur.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "the biggest",
+        "stærstur",
+        "the biggest",
+        "el más grande"
+      ],
+      [
+        "the best",
+        "bestur",
+        "the best",
+        "el mejor"
+      ],
+      [
+        "the most interesting",
+        "áhugaverðastur",
+        "the most interesting",
+        "el más interesante"
+      ],
+      [
+        "the smallest",
+        "minnstur",
+        "the smallest",
+        "el más pequeño"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Reflexive verbs",
+    "description": "The reflexive ending -st is added to the verb.",
+    "columns": [
+      "Person",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I hurry",
+        "ég flýti mér",
+        "I hurry",
+        "me apuro"
+      ],
+      [
+        "you hurry",
+        "þú flýtir þér",
+        "you hurry",
+        "te apuras"
+      ],
+      [
+        "he hurries",
+        "hann flýtir sér",
+        "he hurries",
+        "él se apura"
+      ],
+      [
+        "we hurry",
+        "við flýtum okkur",
+        "we hurry",
+        "nos apuramos"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Frequency adverbs usually come before the verb.",
+    "columns": [
+      "Adverb",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "always",
+        "alltaf",
+        "always",
+        "siempre"
+      ],
+      [
+        "often",
+        "oft",
+        "often",
+        "a menudo"
+      ],
+      [
+        "sometimes",
+        "stundum",
+        "sometimes",
+        "a veces"
+      ],
+      [
+        "rarely",
+        "sjaldan",
+        "rarely",
+        "rara vez"
+      ],
+      [
+        "never",
+        "aldrei",
+        "never",
+        "nunca"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "A2",
+    "title": "Numbers 11–100",
+    "description": "Teens end in -tán; tens in -tíu.",
+    "columns": [
+      "Number",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "11",
+        "ellefu",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "tólf",
+        "twelve",
+        "doce"
+      ],
+      [
+        "20",
+        "tuttugu",
+        "twenty",
+        "veinte"
+      ],
+      [
+        "30",
+        "þrjátíu",
+        "thirty",
+        "treinta"
+      ],
+      [
+        "100",
+        "hundrað",
+        "one hundred",
+        "cien"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "A2",
+    "title": "Ordinal numbers",
+    "description": "Ordinals behave like adjectives.",
+    "columns": [
+      "Ordinal",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "first",
+        "fyrstur",
+        "first",
+        "primero"
+      ],
+      [
+        "second",
+        "annar",
+        "second",
+        "segundo"
+      ],
+      [
+        "third",
+        "þriðji",
+        "third",
+        "tercero"
+      ],
+      [
+        "last",
+        "síðastur",
+        "last",
+        "último"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "A2",
+    "title": "Telling the time",
+    "description": "Icelandic counts towards the next hour for the half.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "one o'clock",
+        "klukkan er eitt",
+        "one o'clock",
+        "la una"
+      ],
+      [
+        "at seven",
+        "klukkan sjö",
+        "at seven o'clock",
+        "a las siete"
+      ],
+      [
+        "half past",
+        "hálf átta",
+        "half past seven",
+        "las siete y media"
+      ],
+      [
+        "quarter past",
+        "korter yfir sjö",
+        "quarter past seven",
+        "las siete y cuarto"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "title": "Months",
+    "description": "Month names are not capitalised.",
+    "columns": [
+      "Month",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "January",
+        "janúar",
+        "January",
+        "enero"
+      ],
+      [
+        "March",
+        "mars",
+        "March",
+        "marzo"
+      ],
+      [
+        "June",
+        "júní",
+        "June",
+        "junio"
+      ],
+      [
+        "September",
+        "september",
+        "September",
+        "septiembre"
+      ],
+      [
+        "December",
+        "desember",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A2",
+    "title": "Prepositions",
+    "description": "Prepositions govern the accusative, dative or genitive.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "on",
+        "á borðinu",
+        "on the table",
+        "sobre la mesa"
+      ],
+      [
+        "under",
+        "undir borðinu",
+        "under the table",
+        "bajo la mesa"
+      ],
+      [
+        "to",
+        "í skólann",
+        "to school",
+        "a la escuela"
+      ],
+      [
+        "from",
+        "úr vinnunni",
+        "from work",
+        "del trabajo"
+      ],
+      [
+        "with",
+        "með vini",
+        "with a friend",
+        "con un amigo"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "title": "Weather expressions",
+    "description": "Weather often uses það or impersonal forms.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "it is raining",
+        "það rignir",
+        "it is raining",
+        "está lloviendo"
+      ],
+      [
+        "it is hot",
+        "það er heitt",
+        "it is hot",
+        "hace calor"
+      ],
+      [
+        "it is cold",
+        "það er kalt",
+        "it is cold",
+        "hace frío"
+      ],
+      [
+        "it is sunny",
+        "það er sólríkt",
+        "it is sunny",
+        "hace sol"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Transport",
+    "description": "Means of transport use með or á.",
+    "columns": [
+      "Means",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "by bus",
+        "með strætó",
+        "by bus",
+        "en autobús"
+      ],
+      [
+        "by train",
+        "með lest",
+        "by train",
+        "en tren"
+      ],
+      [
+        "by plane",
+        "með flugvél",
+        "by plane",
+        "en avión"
+      ],
+      [
+        "on foot",
+        "fótgangandi",
+        "on foot",
+        "a pie"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Weak and strong nouns",
+    "description": "Weak nouns take -a, -i or -u in the plural.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "weak masc.",
+        "bíllinn",
+        "the car",
+        "el coche"
+      ],
+      [
+        "weak fem.",
+        "kakan",
+        "the cake",
+        "el pastel"
+      ],
+      [
+        "weak neut.",
+        "augað",
+        "the eye",
+        "el ojo"
+      ],
+      [
+        "plural",
+        "augun",
+        "the eyes",
+        "los ojos"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "The definite article",
+    "description": "The article is a suffix, as in the other Nordic languages.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "masc.",
+        "hesturinn",
+        "the horse",
+        "el caballo"
+      ],
+      [
+        "fem.",
+        "konan",
+        "the woman",
+        "la mujer"
+      ],
+      [
+        "neut.",
+        "húsið",
+        "the house",
+        "la casa"
+      ],
+      [
+        "plural",
+        "hestarnir",
+        "the horses",
+        "los caballos"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The conditional",
+    "description": "The subjunctive expresses unreal conditions.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "would go",
+        "ég færi",
+        "I would go",
+        "iría"
+      ],
+      [
+        "would buy",
+        "ég keypti",
+        "I would buy",
+        "compraría"
+      ],
+      [
+        "if I had",
+        "ef ég hefði",
+        "if I had",
+        "si tuviera"
+      ],
+      [
+        "if it were",
+        "ef það væri",
+        "if it were",
+        "si fuera"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "The passive",
+    "description": "The passive uses vera or verða plus a participle.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "was built",
+        "var byggt",
+        "was built",
+        "fue construido"
+      ],
+      [
+        "was read",
+        "var lesin",
+        "was read",
+        "fue leído"
+      ],
+      [
+        "was sent",
+        "var sent",
+        "was sent",
+        "fue enviado"
+      ],
+      [
+        "became closed",
+        "varð lokað",
+        "became closed",
+        "quedó cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "title": "Participles",
+    "description": "Participles work as adjectives.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "smiling",
+        "brosandi",
+        "smiling",
+        "sonriente"
+      ],
+      [
+        "written",
+        "skrifaður",
+        "written",
+        "escrito"
+      ],
+      [
+        "tired",
+        "þreyttur",
+        "tired",
+        "cansado"
+      ],
+      [
+        "closed",
+        "lokaður",
+        "closed",
+        "cerrado"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "title": "Relative clauses",
+    "description": "sem introduces a relative clause.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "who / that",
+        "sem",
+        "who / that",
+        "que"
+      ],
+      [
+        "where",
+        "þar",
+        "where",
+        "donde"
+      ],
+      [
+        "what",
+        "hvað",
+        "what",
+        "qué"
+      ],
+      [
+        "who",
+        "hver",
+        "who",
+        "quién"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "title": "Reported speech",
+    "description": "að introduces a reported clause.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "that",
+        "að",
+        "that",
+        "que"
+      ],
+      [
+        "what",
+        "hvað",
+        "what",
+        "qué"
+      ],
+      [
+        "where",
+        "hvar",
+        "where",
+        "dónde"
+      ],
+      [
+        "when",
+        "hvenær",
+        "when",
+        "cuándo"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "title": "Verbal nouns",
+    "description": "Verbs become nouns ending in -un or -ing.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "reading",
+        "lestur",
+        "reading",
+        "lectura"
+      ],
+      [
+        "learning",
+        "nám",
+        "learning",
+        "aprendizaje"
+      ],
+      [
+        "decision",
+        "ákvörðun",
+        "decision",
+        "decisión"
+      ],
+      [
+        "swimming",
+        "sund",
+        "swimming",
+        "natación"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "title": "Verb plus preposition",
+    "description": "Many verbs take a fixed preposition.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "wait for",
+        "bíða eftir",
+        "to wait for",
+        "esperar"
+      ],
+      [
+        "look forward to",
+        "hlakka til",
+        "to look forward to",
+        "esperar con ganas"
+      ],
+      [
+        "be interested in",
+        "hafa áhuga á",
+        "to be interested in",
+        "interesarse por"
+      ],
+      [
+        "dream of",
+        "dreyma um",
+        "to dream of",
+        "soñar con"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "title": "Word order",
+    "description": "The verb always comes second in a main clause.",
+    "columns": [
+      "Type",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "statement",
+        "ég les bók",
+        "I read a book",
+        "leo un libro"
+      ],
+      [
+        "inversion",
+        "í dag les ég",
+        "today I read",
+        "hoy leo"
+      ],
+      [
+        "question",
+        "lestu?",
+        "do you read?",
+        "¿lees?"
+      ],
+      [
+        "negation",
+        "ég les ekki",
+        "I do not read",
+        "no leo"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "title": "Connectors",
+    "description": "Words that join clauses and sentences.",
+    "columns": [
+      "Use",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "but",
+        "en",
+        "but",
+        "pero"
+      ],
+      [
+        "because",
+        "því",
+        "because",
+        "porque"
+      ],
+      [
+        "therefore",
+        "þess vegna",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "although",
+        "þótt",
+        "although",
+        "aunque"
+      ],
+      [
+        "moreover",
+        "auk þess",
+        "moreover",
+        "además"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "title": "Health and medicine",
+    "description": "Vocabulary for doctors, illness and treatment.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "treatment",
+        "meðferð",
+        "treatment",
+        "tratamiento"
+      ],
+      [
+        "symptom",
+        "einkenni",
+        "symptom",
+        "síntoma"
+      ],
+      [
+        "prescription",
+        "lyfseðill",
+        "prescription",
+        "receta"
+      ],
+      [
+        "vaccine",
+        "bóluefni",
+        "vaccine",
+        "vacuna"
+      ],
+      [
+        "insurance",
+        "trygging",
+        "insurance",
+        "seguro"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Work",
+    "description": "Vocabulary of the workplace.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "meeting",
+        "fundur",
+        "meeting",
+        "reunión"
+      ],
+      [
+        "contract",
+        "samningur",
+        "contract",
+        "contrato"
+      ],
+      [
+        "salary",
+        "laun",
+        "salary",
+        "salario"
+      ],
+      [
+        "colleague",
+        "samstarfsmaður",
+        "colleague",
+        "colega"
+      ],
+      [
+        "deadline",
+        "frestur",
+        "deadline",
+        "plazo"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Education",
+    "description": "Vocabulary of school and study.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "school",
+        "skóli",
+        "school",
+        "escuela"
+      ],
+      [
+        "university",
+        "háskóli",
+        "university",
+        "universidad"
+      ],
+      [
+        "exam",
+        "próf",
+        "exam",
+        "examen"
+      ],
+      [
+        "knowledge",
+        "þekking",
+        "knowledge",
+        "conocimiento"
+      ],
+      [
+        "skill",
+        "færni",
+        "skill",
+        "habilidad"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Nominalisation",
+    "description": "Verbs turn into abstract nouns.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "arrival",
+        "koma",
+        "arrival",
+        "llegada"
+      ],
+      [
+        "research",
+        "rannsókn",
+        "research",
+        "investigación"
+      ],
+      [
+        "cooperation",
+        "samstarf",
+        "cooperation",
+        "cooperación"
+      ],
+      [
+        "production",
+        "framleiðsla",
+        "production",
+        "producción"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Academic vocabulary",
+    "description": "Terms used in research and analysis.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "methodology",
+        "aðferðafræði",
+        "methodology",
+        "metodología"
+      ],
+      [
+        "correlation",
+        "fylgni",
+        "correlation",
+        "correlación"
+      ],
+      [
+        "variable",
+        "breyta",
+        "variable",
+        "variable"
+      ],
+      [
+        "empirical",
+        "reynslubundinn",
+        "empirical",
+        "empírico"
+      ],
+      [
+        "quantitative",
+        "megindlegur",
+        "quantitative",
+        "cuantitativo"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "title": "Economic terms",
+    "description": "Vocabulary of markets, finance and trade.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "inflation",
+        "verðbólga",
+        "inflation",
+        "inflación"
+      ],
+      [
+        "bankruptcy",
+        "gjaldþrot",
+        "bankruptcy",
+        "quiebra"
+      ],
+      [
+        "subsidy",
+        "styrkur",
+        "subsidy",
+        "subvención"
+      ],
+      [
+        "revenue",
+        "velta",
+        "revenue",
+        "ingresos"
+      ],
+      [
+        "investment",
+        "fjárfesting",
+        "investment",
+        "inversión"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "title": "Legal terms",
+    "description": "Vocabulary of law, courts and rights.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "constitution",
+        "stjórnarskrá",
+        "constitution",
+        "constitución"
+      ],
+      [
+        "parliament",
+        "þing",
+        "parliament",
+        "parlamento"
+      ],
+      [
+        "verdict",
+        "úrskurður",
+        "verdict",
+        "veredicto"
+      ],
+      [
+        "plaintiff",
+        "stefnandi",
+        "plaintiff",
+        "demandante"
+      ],
+      [
+        "defendant",
+        "stefndi",
+        "defendant",
+        "demandado"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "title": "Ethics",
+    "description": "Vocabulary of right and wrong.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ethics",
+        "siðfræði",
+        "ethics",
+        "ética"
+      ],
+      [
+        "morality",
+        "siðferði",
+        "morality",
+        "moral"
+      ],
+      [
+        "honesty",
+        "heiðarleiki",
+        "honesty",
+        "honestidad"
+      ],
+      [
+        "responsibility",
+        "ábyrgð",
+        "responsibility",
+        "responsabilidad"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "title": "Philosophy of mind",
+    "description": "Vocabulary of consciousness and identity.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "consciousness",
+        "meðvitund",
+        "consciousness",
+        "conciencia"
+      ],
+      [
+        "existence",
+        "tilvera",
+        "existence",
+        "existencia"
+      ],
+      [
+        "identity",
+        "sjálfsmynd",
+        "identity",
+        "identidad"
+      ],
+      [
+        "paradox",
+        "þversögn",
+        "paradox",
+        "paradoja"
+      ],
+      [
+        "dilemma",
+        "dilemma",
+        "dilemma",
+        "dilema"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "title": "Medical terms",
+    "description": "Vocabulary of diagnosis and treatment.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "diagnosis",
+        "greining",
+        "diagnosis",
+        "diagnóstico"
+      ],
+      [
+        "therapy",
+        "lækning",
+        "therapy",
+        "terapia"
+      ],
+      [
+        "chronic",
+        "langvinnur",
+        "chronic",
+        "crónico"
+      ],
+      [
+        "infection",
+        "sýking",
+        "infection",
+        "infección"
+      ],
+      [
+        "immune",
+        "ónæmur",
+        "immune",
+        "inmune"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "title": "Science",
+    "description": "Vocabulary of scientific research.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "molecule",
+        "sameind",
+        "molecule",
+        "molécula"
+      ],
+      [
+        "atom",
+        "atóm",
+        "atom",
+        "átomo"
+      ],
+      [
+        "gravity",
+        "þyngdarafl",
+        "gravity",
+        "gravedad"
+      ],
+      [
+        "cell",
+        "fruma",
+        "cell",
+        "célula"
+      ],
+      [
+        "experiment",
+        "tilraun",
+        "experiment",
+        "experimento"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "title": "Discourse markers",
+    "description": "Linkers typical of formal written Icelandic.",
+    "columns": [
+      "Connector",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "moreover",
+        "auk þess",
+        "moreover",
+        "además"
+      ],
+      [
+        "however",
+        "þó",
+        "however",
+        "sin embargo"
+      ],
+      [
+        "therefore",
+        "þess vegna",
+        "therefore",
+        "por lo tanto"
+      ],
+      [
+        "first of all",
+        "í fyrsta lagi",
+        "first of all",
+        "en primer lugar"
+      ],
+      [
+        "nevertheless",
+        "engu að síður",
+        "nevertheless",
+        "no obstante"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "title": "Collocations",
+    "description": "Fixed verb and noun combinations.",
+    "columns": [
+      "Collocation",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to make a decision",
+        "taka ákvörðun",
+        "to make a decision",
+        "tomar una decisión"
+      ],
+      [
+        "to pay attention",
+        "veita athygli",
+        "to pay attention",
+        "prestar atención"
+      ],
+      [
+        "to play a role",
+        "leika þátt",
+        "to play a role",
+        "desempeñar un papel"
+      ],
+      [
+        "to draw a conclusion",
+        "draga ályktun",
+        "to draw a conclusion",
+        "sacar una conclusión"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The circular economy",
+    "description": "Vocabulary of sustainability and reuse.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "to last long",
+        "endast lengi",
+        "to last long",
+        "durar mucho"
+      ],
+      [
+        "to repair",
+        "gera við",
+        "to repair",
+        "reparar"
+      ],
+      [
+        "to recycle",
+        "endurvinna",
+        "to recycle",
+        "reciclar"
+      ],
+      [
+        "carbon emissions",
+        "kolefnislosun",
+        "carbon emissions",
+        "emisiones de carbono"
+      ],
+      [
+        "sustainable",
+        "sjálfbær",
+        "sustainable",
+        "sostenible"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Rhetoric",
+    "description": "Vocabulary for argument and style.",
+    "columns": [
+      "Term",
+      "Icelandic",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "rhetoric",
+        "mælskufræði",
+        "rhetoric",
+        "retórica"
+      ],
+      [
+        "discourse",
+        "orðræða",
+        "discourse",
+        "discurso"
+      ],
+      [
+        "ambiguity",
+        "tvíræðni",
+        "ambiguity",
+        "ambigüedad"
+      ],
+      [
+        "consensus",
+        "samstaða",
+        "consensus",
+        "consenso"
+      ],
+      [
+        "argument",
+        "rök",
+        "argument",
+        "argumento"
+      ]
+    ]
+  }
+]

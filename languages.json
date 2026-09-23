@@ -324,5 +324,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "is",
+    "name": "Icelandic",
+    "flag": "🇮🇸",
+    "speech": "is-IS",
+    "termLabel": "Icelandic",
+    "termField": "icelandic",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
