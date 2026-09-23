@@ -456,6 +456,7 @@
   let LANG_BY_CODE = {};
   let lang = null;
   const DATA_CACHE = {};
+  const DATA_PENDING = {};
 
   let fcWords = [], fcIndex = 0;
   let txtExpanded = {};
@@ -1433,10 +1434,13 @@
       `<button role="option" aria-selected="false" data-lang="${l.code}">` +
       `<span class="flag">${l.flag || ""}</span><span class="name">${l.name}</span></button>`
     ).join("");
-    langMenu.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
-      setLangMenu(false);
-      selectLang(b.dataset.lang);
-    }));
+    langMenu.querySelectorAll("button").forEach(b => {
+      b.addEventListener("click", () => {
+        setLangMenu(false);
+        selectLang(b.dataset.lang);
+      });
+      b.addEventListener("pointerenter", () => { fetchPack(b.dataset.lang); });
+    });
   }
 
   langBtn.addEventListener("click", () => setLangMenu(!langpick.classList.contains("open")));
@@ -1451,17 +1455,24 @@
     });
   }
 
+  function fetchPack(code) {
+    if (DATA_CACHE[code]) return Promise.resolve(DATA_CACHE[code]);
+    if (DATA_PENDING[code]) return DATA_PENDING[code];
+    const p = fetch(`/api/${code}/pack`).then(r => r.json()).then(pack => {
+      const data = {
+        words: pack.vocabulary || [], texts: pack.texts || [],
+        exercises: pack.exercises || [], grammar: pack.grammar || [],
+      };
+      DATA_CACHE[code] = data;
+      delete DATA_PENDING[code];
+      return data;
+    }).catch(err => { delete DATA_PENDING[code]; throw err; });
+    DATA_PENDING[code] = p;
+    return p;
+  }
+
   function loadData(code) {
-    if (DATA_CACHE[code]) { DATA = DATA_CACHE[code]; return Promise.resolve(); }
-    const cfg = LANG_BY_CODE[code];
-    const get = (section) => cfg.sections.includes(section)
-      ? fetch(`/api/${code}/${section}`).then(r => r.json())
-      : Promise.resolve([]);
-    return Promise.all([get("vocabulary"), get("texts"), get("exercises"), get("grammar")])
-      .then(([words, texts, exercises, grammar]) => {
-        DATA = { words, texts, exercises, grammar };
-        DATA_CACHE[code] = DATA;
-      });
+    return fetchPack(code).then(data => { DATA = data; });
   }
 
   function selectLang(code) {
@@ -1479,6 +1490,7 @@
     document.getElementById("noteContent").placeholder = `Write in ${lang.name} here…`;
     updateTabs();
     loadData(code).then(() => {
+      if (lang.code !== code) return;
       const keep = tab === "writing" || tab === "compare" || tab === "game" || lang.sections.includes(TAB_SECTION[tab]);
       if (!keep) tab = "flashcards";
       applyFilters();

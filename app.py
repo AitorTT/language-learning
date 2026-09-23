@@ -233,6 +233,8 @@ def _by_level(items, level):
 
 
 class Handler(BaseHTTPRequestHandler):
+    protocol_version = "HTTP/1.1"
+
     def _send_bytes(self, code, body, content_type, cache_control):
         etag = '"%s"' % hashlib.md5(body).hexdigest()
         if self.headers.get("If-None-Match") == etag:
@@ -319,7 +321,10 @@ class Handler(BaseHTTPRequestHandler):
             parts = [p for p in path.split("/") if p]
             if len(parts) >= 3 and parts[0] == "api":
                 code, section = parts[1], parts[2]
-                if len(parts) == 4 and section == "vocabulary" and code in PACKS:
+                if len(parts) == 3 and section == "pack" and code in PACKS:
+                    sections = LANG_BY_CODE[code].get("sections", SECTIONS)
+                    self._send_json(200, {s: PACKS[code][s] for s in sections})
+                elif len(parts) == 4 and section == "vocabulary" and code in PACKS:
                     for w in PACKS[code]["vocabulary"]:
                         if str(w["id"]) == parts[3]:
                             self._send_json(200, w)
