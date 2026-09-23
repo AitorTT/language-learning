@@ -375,5 +375,18 @@
       {"code": "es", "field": "spanish", "label": "Español"}
     ],
     "sections": ["vocabulary", "texts", "exercises", "grammar"]
+  },
+  {
+    "code": "cs",
+    "name": "Czech",
+    "flag": "🇨🇿",
+    "speech": "cs-CZ",
+    "termLabel": "Czech",
+    "termField": "czech",
+    "targets": [
+      {"code": "en", "field": "english", "label": "English"},
+      {"code": "es", "field": "spanish", "label": "Español"}
+    ],
+    "sections": ["vocabulary", "texts", "exercises", "grammar"]
   }
 ]
