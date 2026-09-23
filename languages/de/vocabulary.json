@@ -30,7 +30,6 @@
   {"id": 29, "german": "schlecht", "english": "bad", "spanish": "malo", "category": "adjectives", "level": "A1"},
   {"id": 30, "german": "groß", "english": "big", "spanish": "grande", "category": "adjectives", "level": "A1"},
   {"id": 31, "german": "klein", "english": "small", "spanish": "pequeño", "category": "adjectives", "level": "A1"},
-
   {"id": 32, "german": "wohnen", "english": "to live", "spanish": "vivir", "category": "verbs", "level": "A2"},
   {"id": 33, "german": "arbeiten", "english": "to work", "spanish": "trabajar", "category": "verbs", "level": "A2"},
   {"id": 34, "german": "kaufen", "english": "to buy", "spanish": "comprar", "category": "verbs", "level": "A2"},
@@ -61,7 +60,6 @@
   {"id": 59, "german": "der Regen", "english": "rain", "spanish": "lluvia", "category": "nature", "level": "A2"},
   {"id": 60, "german": "die Sonne", "english": "sun", "spanish": "sol", "category": "nature", "level": "A2"},
   {"id": 61, "german": "glücklich", "english": "happy", "spanish": "feliz", "category": "adjectives", "level": "A2"},
-
   {"id": 62, "german": "die Erfahrung", "english": "experience", "spanish": "experiencia", "category": "work", "level": "B1"},
   {"id": 63, "german": "der Beruf", "english": "profession", "spanish": "profesión", "category": "work", "level": "B1"},
   {"id": 64, "german": "der Chef", "english": "boss", "spanish": "jefe", "category": "work", "level": "B1"},
@@ -92,7 +90,6 @@
   {"id": 89, "german": "die Umwelt", "english": "environment", "spanish": "medio ambiente", "category": "nature", "level": "B1"},
   {"id": 90, "german": "die Gesellschaft", "english": "society", "spanish": "sociedad", "category": "nouns", "level": "B1"},
   {"id": 91, "german": "die Wahl", "english": "choice", "spanish": "elección", "category": "nouns", "level": "B1"},
-
   {"id": 92, "german": "die Überzeugung", "english": "belief / conviction", "spanish": "convicción", "category": "nouns", "level": "B2"},
   {"id": 93, "german": "der Zweifel", "english": "doubt", "spanish": "duda", "category": "nouns", "level": "B2"},
   {"id": 94, "german": "das Phänomen", "english": "phenomenon", "spanish": "fenómeno", "category": "nouns", "level": "B2"},
@@ -123,7 +120,6 @@
   {"id": 119, "german": "außerdem", "english": "moreover", "spanish": "además", "category": "conjunctions", "level": "B2"},
   {"id": 120, "german": "die Wirtschaft", "english": "economy", "spanish": "economía", "category": "nouns", "level": "B2"},
   {"id": 121, "german": "die Freiheit", "english": "freedom", "spanish": "libertad", "category": "nouns", "level": "B2"},
-
   {"id": 122, "german": "eins", "english": "one", "spanish": "uno", "category": "numbers", "level": "A1"},
   {"id": 123, "german": "zwei", "english": "two", "spanish": "dos", "category": "numbers", "level": "A1"},
   {"id": 124, "german": "drei", "english": "three", "spanish": "tres", "category": "numbers", "level": "A1"},
@@ -154,7 +150,6 @@
   {"id": 149, "german": "links", "english": "left", "spanish": "izquierda", "category": "directions", "level": "A1"},
   {"id": 150, "german": "rechts", "english": "right", "spanish": "derecha", "category": "directions", "level": "A1"},
   {"id": 151, "german": "die Hilfe", "english": "help", "spanish": "ayuda", "category": "phrases", "level": "A1"},
-
   {"id": 152, "german": "der Garten", "english": "garden", "spanish": "jardín", "category": "house", "level": "A2"},
   {"id": 153, "german": "das Fenster", "english": "window", "spanish": "ventana", "category": "house", "level": "A2"},
   {"id": 154, "german": "die Tür", "english": "door", "spanish": "puerta", "category": "house", "level": "A2"},
@@ -185,7 +180,6 @@
   {"id": 179, "german": "müde", "english": "tired", "spanish": "cansado", "category": "emotions", "level": "A2"},
   {"id": 180, "german": "wütend", "english": "angry", "spanish": "enfadado", "category": "emotions", "level": "A2"},
   {"id": 181, "german": "besorgt", "english": "worried", "spanish": "preocupado", "category": "emotions", "level": "A2"},
-
   {"id": 182, "german": "das Einkommen", "english": "income", "spanish": "ingresos", "category": "money", "level": "B1"},
   {"id": 183, "german": "sparen", "english": "to save", "spanish": "ahorrar", "category": "money", "level": "B1"},
   {"id": 184, "german": "ausgeben", "english": "to spend", "spanish": "gastar", "category": "money", "level": "B1"},
@@ -216,7 +210,6 @@
   {"id": 209, "german": "die Theorie", "english": "theory", "spanish": "teoría", "category": "science", "level": "B1"},
   {"id": 210, "german": "die Entdeckung", "english": "discovery", "spanish": "descubrimiento", "category": "science", "level": "B1"},
   {"id": 211, "german": "vielleicht", "english": "perhaps", "spanish": "quizás", "category": "adverbs", "level": "B1"},
-
   {"id": 212, "german": "die Annahme", "english": "assumption", "spanish": "suposición", "category": "nouns", "level": "B2"},
   {"id": 213, "german": "die Kontroverse", "english": "controversy", "spanish": "controversia", "category": "society", "level": "B2"},
   {"id": 214, "german": "die Ungleichheit", "english": "inequality", "spanish": "desigualdad", "category": "society", "level": "B2"},
@@ -247,7 +240,6 @@
   {"id": 239, "german": "überzeugend", "english": "compelling", "spanish": "convincente", "category": "adjectives", "level": "B2"},
   {"id": 240, "german": "weit verbreitet", "english": "prevalent", "spanish": "predominante", "category": "adjectives", "level": "B2"},
   {"id": 241, "german": "schädlich", "english": "detrimental", "spanish": "perjudicial", "category": "adjectives", "level": "B2"},
-
   {"id": 242, "german": "der Kopf", "english": "head", "spanish": "cabeza", "category": "body", "level": "A1"},
   {"id": 243, "german": "die Hand", "english": "hand", "spanish": "mano", "category": "body", "level": "A1"},
   {"id": 244, "german": "der Fuß", "english": "foot", "spanish": "pie", "category": "body", "level": "A1"},
@@ -278,7 +270,6 @@
   {"id": 269, "german": "lang", "english": "long", "spanish": "largo", "category": "adjectives", "level": "A1"},
   {"id": 270, "german": "kurz", "english": "short", "spanish": "corto", "category": "adjectives", "level": "A1"},
   {"id": 271, "german": "langsam", "english": "slow", "spanish": "lento", "category": "adjectives", "level": "A1"},
-
   {"id": 272, "german": "aufwachen", "english": "to wake up", "spanish": "despertarse", "category": "verbs", "level": "A2"},
   {"id": 273, "german": "aufstehen", "english": "to get up", "spanish": "levantarse", "category": "verbs", "level": "A2"},
   {"id": 274, "german": "sich waschen", "english": "to wash", "spanish": "lavarse", "category": "verbs", "level": "A2"},
@@ -309,7 +300,6 @@
   {"id": 299, "german": "das Bargeld", "english": "cash", "spanish": "efectivo", "category": "shopping", "level": "A2"},
   {"id": 300, "german": "der Rabatt", "english": "discount", "spanish": "descuento", "category": "shopping", "level": "A2"},
   {"id": 301, "german": "die Größe", "english": "size", "spanish": "talla", "category": "shopping", "level": "A2"},
-
   {"id": 302, "german": "der Angestellte", "english": "employee", "spanish": "empleado", "category": "work", "level": "B1"},
   {"id": 303, "german": "der Arbeitgeber", "english": "employer", "spanish": "empleador", "category": "work", "level": "B1"},
   {"id": 304, "german": "das Vorstellungsgespräch", "english": "interview", "spanish": "entrevista", "category": "work", "level": "B1"},
@@ -340,7 +330,6 @@
   {"id": 329, "german": "die Versicherung", "english": "insurance", "spanish": "seguro", "category": "health", "level": "B1"},
   {"id": 330, "german": "die Diät", "english": "diet", "spanish": "dieta", "category": "health", "level": "B1"},
   {"id": 331, "german": "der Stress", "english": "stress", "spanish": "estrés", "category": "health", "level": "B1"},
-
   {"id": 332, "german": "die Software", "english": "software", "spanish": "software", "category": "technology", "level": "B2"},
   {"id": 333, "german": "die Hardware", "english": "hardware", "spanish": "hardware", "category": "technology", "level": "B2"},
   {"id": 334, "german": "das Netzwerk", "english": "network", "spanish": "red", "category": "technology", "level": "B2"},
@@ -371,7 +360,6 @@
   {"id": 359, "german": "optimieren", "english": "to optimize", "spanish": "optimizar", "category": "verbs", "level": "B2"},
   {"id": 360, "german": "priorisieren", "english": "to prioritize", "spanish": "priorizar", "category": "verbs", "level": "B2"},
   {"id": 361, "german": "validieren", "english": "to validate", "spanish": "validar", "category": "verbs", "level": "B2"},
-
   {"id": 362, "german": "der Vogel", "english": "bird", "spanish": "pájaro", "category": "animals", "level": "A1"},
   {"id": 363, "german": "das Pferd", "english": "horse", "spanish": "caballo", "category": "animals", "level": "A1"},
   {"id": 364, "german": "die Kuh", "english": "cow", "spanish": "vaca", "category": "animals", "level": "A1"},
@@ -402,7 +390,6 @@
   {"id": 389, "german": "denken", "english": "to think", "spanish": "pensar", "category": "verbs", "level": "A1"},
   {"id": 390, "german": "geben", "english": "to give", "spanish": "dar", "category": "verbs", "level": "A1"},
   {"id": 391, "german": "nehmen", "english": "to take", "spanish": "tomar", "category": "verbs", "level": "A1"},
-
   {"id": 392, "german": "der Lehrer", "english": "teacher", "spanish": "profesor", "category": "work", "level": "A2"},
   {"id": 393, "german": "der Ingenieur", "english": "engineer", "spanish": "ingeniero", "category": "work", "level": "A2"},
   {"id": 394, "german": "die Krankenschwester", "english": "nurse", "spanish": "enfermero", "category": "work", "level": "A2"},
@@ -433,7 +420,6 @@
   {"id": 419, "german": "das Camping", "english": "camping", "spanish": "acampada", "category": "hobbies", "level": "A2"},
   {"id": 420, "german": "das Angeln", "english": "fishing", "spanish": "pesca", "category": "hobbies", "level": "A2"},
   {"id": 421, "german": "das Gärtnern", "english": "gardening", "spanish": "jardinería", "category": "hobbies", "level": "A2"},
-
   {"id": 422, "german": "der Mut", "english": "courage", "spanish": "valor", "category": "nouns", "level": "B1"},
   {"id": 423, "german": "die Geduld", "english": "patience", "spanish": "paciencia", "category": "nouns", "level": "B1"},
   {"id": 424, "german": "die Ehrlichkeit", "english": "honesty", "spanish": "honestidad", "category": "nouns", "level": "B1"},
@@ -464,7 +450,6 @@
   {"id": 449, "german": "die Zelle", "english": "cell", "spanish": "célula", "category": "science", "level": "B1"},
   {"id": 450, "german": "das Labor", "english": "laboratory", "spanish": "laboratorio", "category": "science", "level": "B1"},
   {"id": 451, "german": "das Mikroskop", "english": "microscope", "spanish": "microscopio", "category": "science", "level": "B1"},
-
   {"id": 452, "german": "die Synthese", "english": "synthesis", "spanish": "síntesis", "category": "nouns", "level": "B2"},
   {"id": 453, "german": "die Methodik", "english": "methodology", "spanish": "metodología", "category": "nouns", "level": "B2"},
   {"id": 454, "german": "die Korrelation", "english": "correlation", "spanish": "correlación", "category": "nouns", "level": "B2"},
@@ -495,7 +480,6 @@
   {"id": 479, "german": "versöhnen", "english": "to reconcile", "spanish": "reconciliar", "category": "verbs", "level": "B2"},
   {"id": 480, "german": "hinterfragen", "english": "to scrutinize", "spanish": "escudriñar", "category": "verbs", "level": "B2"},
   {"id": 481, "german": "straffen", "english": "to streamline", "spanish": "optimizar", "category": "verbs", "level": "B2"},
-
   {"id": 482, "german": "das Hemd", "english": "shirt", "spanish": "camisa", "category": "clothes", "level": "A1"},
   {"id": 483, "german": "die Hose", "english": "trousers", "spanish": "pantalones", "category": "clothes", "level": "A1"},
   {"id": 484, "german": "das Kleid", "english": "dress", "spanish": "vestido", "category": "clothes", "level": "A1"},
@@ -526,7 +510,6 @@
   {"id": 509, "german": "weich", "english": "soft", "spanish": "blando", "category": "adjectives", "level": "A1"},
   {"id": 510, "german": "schwer", "english": "heavy", "spanish": "pesado", "category": "adjectives", "level": "A1"},
   {"id": 511, "german": "leicht", "english": "light", "spanish": "ligero", "category": "adjectives", "level": "A1"},
-
   {"id": 512, "german": "Mathematik", "english": "mathematics", "spanish": "matemáticas", "category": "education", "level": "A2"},
   {"id": 513, "german": "Geschichte", "english": "history", "spanish": "historia", "category": "education", "level": "A2"},
   {"id": 514, "german": "Geografie", "english": "geography", "spanish": "geografía", "category": "education", "level": "A2"},
@@ -557,7 +540,6 @@
   {"id": 539, "german": "die Ecke", "english": "corner", "spanish": "esquina", "category": "city", "level": "A2"},
   {"id": 540, "german": "der Zebrastreifen", "english": "crossing", "spanish": "paso de peatones", "category": "city", "level": "A2"},
   {"id": 541, "german": "der Bürgersteig", "english": "pavement", "spanish": "acera", "category": "city", "level": "A2"},
-
   {"id": 542, "german": "der Roman", "english": "novel", "spanish": "novela", "category": "arts", "level": "B1"},
   {"id": 543, "german": "das Gedicht", "english": "poem", "spanish": "poema", "category": "arts", "level": "B1"},
   {"id": 544, "german": "das Gemälde", "english": "painting", "spanish": "cuadro", "category": "arts", "level": "B1"},
@@ -588,7 +570,6 @@
   {"id": 569, "german": "die Schuld", "english": "guilt", "spanish": "culpa", "category": "emotions", "level": "B1"},
   {"id": 570, "german": "die Neugier", "english": "curiosity", "spanish": "curiosidad", "category": "emotions", "level": "B1"},
   {"id": 571, "german": "die Begeisterung", "english": "enthusiasm", "spanish": "entusiasmo", "category": "emotions", "level": "B1"},
-
   {"id": 572, "german": "die Ethik", "english": "ethics", "spanish": "ética", "category": "nouns", "level": "B2"},
   {"id": 573, "german": "die Moral", "english": "morality", "spanish": "moralidad", "category": "nouns", "level": "B2"},
   {"id": 574, "german": "die Identität", "english": "identity", "spanish": "identidad", "category": "nouns", "level": "B2"},
@@ -618,5 +599,55 @@
   {"id": 598, "german": "konsolidieren", "english": "to consolidate", "spanish": "consolidar", "category": "verbs", "level": "B2"},
   {"id": 599, "german": "sich verschlechtern", "english": "to deteriorate", "spanish": "deteriorarse", "category": "verbs", "level": "B2"},
   {"id": 600, "german": "verschärfen", "english": "to exacerbate", "spanish": "agravar", "category": "verbs", "level": "B2"},
-  {"id": 601, "german": "behindern", "english": "to hinder", "spanish": "obstaculizar", "category": "verbs", "level": "B2"}
+  {"id": 601, "german": "behindern", "english": "to hinder", "spanish": "obstaculizar", "category": "verbs", "level": "B2"},
+  {"id": 602, "german": "der Tee", "english": "tea", "spanish": "té", "category": "food", "level": "A1"},
+  {"id": 603, "german": "die Butter", "english": "butter", "spanish": "mantequilla", "category": "food", "level": "A1"},
+  {"id": 604, "german": "der Joghurt", "english": "yogurt", "spanish": "yogur", "category": "food", "level": "A1"},
+  {"id": 605, "german": "die Kartoffel", "english": "potato", "spanish": "patata", "category": "food", "level": "A1"},
+  {"id": 606, "german": "die Tomate", "english": "tomato", "spanish": "tomate", "category": "food", "level": "A1"},
+  {"id": 607, "german": "die Zwiebel", "english": "onion", "spanish": "cebolla", "category": "food", "level": "A1"},
+  {"id": 608, "german": "die Karotte", "english": "carrot", "spanish": "zanahoria", "category": "food", "level": "A1"},
+  {"id": 609, "german": "die Erdbeere", "english": "strawberry", "spanish": "fresa", "category": "food", "level": "A1"},
+  {"id": 610, "german": "die Zitrone", "english": "lemon", "spanish": "limón", "category": "food", "level": "A1"},
+  {"id": 611, "german": "die Traube", "english": "grape", "spanish": "uva", "category": "food", "level": "A1"},
+  {"id": 612, "german": "die Birne", "english": "pear", "spanish": "pera", "category": "food", "level": "A1"},
+  {"id": 613, "german": "der Pfirsich", "english": "peach", "spanish": "melocotón", "category": "food", "level": "A1"},
+  {"id": 614, "german": "die Wassermelone", "english": "watermelon", "spanish": "sandía", "category": "food", "level": "A1"},
+  {"id": 615, "german": "der Pilz", "english": "mushroom", "spanish": "champiñón", "category": "food", "level": "A1"},
+  {"id": 616, "german": "der Pfeffer", "english": "pepper", "spanish": "pimienta", "category": "food", "level": "A1"},
+  {"id": 617, "german": "der Knoblauch", "english": "garlic", "spanish": "ajo", "category": "food", "level": "A1"},
+  {"id": 618, "german": "der Mais", "english": "corn", "spanish": "maíz", "category": "food", "level": "A1"},
+  {"id": 619, "german": "die Bohne", "english": "bean", "spanish": "judía", "category": "food", "level": "A1"},
+  {"id": 620, "german": "die Nuss", "english": "nut", "spanish": "fruto seco", "category": "food", "level": "A1"},
+  {"id": 621, "german": "das Sandwich", "english": "sandwich", "spanish": "sándwich", "category": "food", "level": "A1"},
+  {"id": 622, "german": "das Sofa", "english": "sofa", "spanish": "sofá", "category": "house", "level": "A1"},
+  {"id": 623, "german": "das Regal", "english": "shelf", "spanish": "estante", "category": "house", "level": "A1"},
+  {"id": 624, "german": "der Spiegel", "english": "mirror", "spanish": "espejo", "category": "house", "level": "A1"},
+  {"id": 625, "german": "die Uhr", "english": "clock", "spanish": "reloj", "category": "house", "level": "A1"},
+  {"id": 626, "german": "das Kissen", "english": "pillow", "spanish": "almohada", "category": "house", "level": "A1"},
+  {"id": 627, "german": "die Decke", "english": "blanket", "spanish": "manta", "category": "house", "level": "A1"},
+  {"id": 628, "german": "der Teppich", "english": "carpet", "spanish": "alfombra", "category": "house", "level": "A1"},
+  {"id": 629, "german": "der Kühlschrank", "english": "fridge", "spanish": "nevera", "category": "house", "level": "A1"},
+  {"id": 630, "german": "der Ofen", "english": "oven", "spanish": "horno", "category": "house", "level": "A1"},
+  {"id": 631, "german": "der Teller", "english": "plate", "spanish": "plato", "category": "house", "level": "A1"},
+  {"id": 632, "german": "die Tasse", "english": "cup", "spanish": "taza", "category": "house", "level": "A1"},
+  {"id": 633, "german": "das Glas", "english": "glass", "spanish": "vaso", "category": "house", "level": "A1"},
+  {"id": 634, "german": "die Schüssel", "english": "bowl", "spanish": "bol", "category": "house", "level": "A1"},
+  {"id": 635, "german": "die Flasche", "english": "bottle", "spanish": "botella", "category": "house", "level": "A1"},
+  {"id": 636, "german": "das Handtuch", "english": "towel", "spanish": "toalla", "category": "house", "level": "A1"},
+  {"id": 637, "german": "der Elefant", "english": "elephant", "spanish": "elefante", "category": "animals", "level": "A1"},
+  {"id": 638, "german": "der Affe", "english": "monkey", "spanish": "mono", "category": "animals", "level": "A1"},
+  {"id": 639, "german": "der Tiger", "english": "tiger", "spanish": "tigre", "category": "animals", "level": "A1"},
+  {"id": 640, "german": "der Bär", "english": "bear", "spanish": "oso", "category": "animals", "level": "A1"},
+  {"id": 641, "german": "der Wolf", "english": "wolf", "spanish": "lobo", "category": "animals", "level": "A1"},
+  {"id": 642, "german": "der Fuchs", "english": "fox", "spanish": "zorro", "category": "animals", "level": "A1"},
+  {"id": 643, "german": "der Frosch", "english": "frog", "spanish": "rana", "category": "animals", "level": "A1"},
+  {"id": 644, "german": "die Schlange", "english": "snake", "spanish": "serpiente", "category": "animals", "level": "A1"},
+  {"id": 645, "german": "der Schmetterling", "english": "butterfly", "spanish": "mariposa", "category": "animals", "level": "A1"},
+  {"id": 646, "german": "die Biene", "english": "bee", "spanish": "abeja", "category": "animals", "level": "A1"},
+  {"id": 647, "german": "sauber", "english": "clean", "spanish": "limpio", "category": "adjectives", "level": "A1"},
+  {"id": 648, "german": "schmutzig", "english": "dirty", "spanish": "sucio", "category": "adjectives", "level": "A1"},
+  {"id": 649, "german": "einfach", "english": "easy", "spanish": "fácil", "category": "adjectives", "level": "A1"},
+  {"id": 650, "german": "schwierig", "english": "difficult", "spanish": "difícil", "category": "adjectives", "level": "A1"},
+  {"id": 651, "german": "schnell", "english": "fast", "spanish": "rápido", "category": "adjectives", "level": "A1"}
 ]
