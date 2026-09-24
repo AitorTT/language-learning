@@ -214,6 +214,7 @@
     "speech": "uk-UA",
     "termLabel": "Ukrainian",
     "termField": "ukrainian",
+    "ipa": true,
     "script": "cyrillic",
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
@@ -409,6 +410,7 @@
     "speech": "bg-BG",
     "termLabel": "Bulgarian",
     "termField": "bulgarian",
+    "ipa": true,
     "script": "cyrillic",
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
@@ -462,6 +464,7 @@
     "speech": "sr-RS",
     "termLabel": "Serbian",
     "termField": "serbian",
+    "ipa": true,
     "script": "cyrillic",
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
@@ -476,6 +479,7 @@
     "speech": "sw-KE",
     "termLabel": "Swahili",
     "termField": "swahili",
+    "ipa": true,
     "targets": [
       {"code": "en", "field": "english", "label": "English"},
       {"code": "es", "field": "spanish", "label": "Español"}
