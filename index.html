@@ -1472,12 +1472,12 @@
   const flappyCanvas = document.getElementById("flappyCanvas");
   const flappyCtx = flappyCanvas.getContext("2d");
   const FLAPPY_H = 220;
-  const FLAPPY_GRAVITY = 1350;   // constant
-  const FLAPPY_FLAP_V = -390;    // constant impulse
-  const FLAPPY_SPEED = 150;      // constant scroll speed (never accelerates)
-  const FLAPPY_GAP = 90;
+  const FLAPPY_GRAVITY = 170;    // constant, very gentle float
+  const FLAPPY_FLAP_V = -145;    // constant impulse
+  const FLAPPY_SPEED = 70;       // constant scroll speed (never accelerates)
+  const FLAPPY_GAP = 140;
   const FLAPPY_PIPE_W = 46;
-  const FLAPPY_SPACING = 200;    // px between pipes
+  const FLAPPY_SPACING = 320;    // px between pipes
   const FLAPPY_WORD_SECONDS = 5;
 
   const flappyGame = {
@@ -1579,8 +1579,8 @@
   function flappySpawn() {
     const g = flappyGame;
     const gap = FLAPPY_GAP;
-    const minY = 26;
-    const maxY = Math.max(minY + 10, g.groundY - gap - 26);
+    const minY = 10;
+    const maxY = Math.max(minY + 10, g.groundY - gap - 10);
     const gapY = minY + Math.random() * (maxY - minY);
     g.pipes.push({ x: g.W + FLAPPY_PIPE_W, gapY, w: FLAPPY_PIPE_W, gapH: gap, scored: false });
   }
