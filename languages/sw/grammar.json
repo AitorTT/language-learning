@@ -1,0 +1,2713 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "title": "The verb 'to be' (ni)",
+    "description": "The copula 'ni' links a subject to a noun or adjective and does not change for person.",
+    "columns": [
+      "Subject",
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi",
+        "ni",
+        "I am",
+        "yo soy"
+      ],
+      [
+        "wewe",
+        "ni",
+        "you are",
+        "tú eres"
+      ],
+      [
+        "yeye",
+        "ni",
+        "he/she is",
+        "él/ella es"
+      ],
+      [
+        "sisi",
+        "ni",
+        "we are",
+        "nosotros somos"
+      ],
+      [
+        "ninyi",
+        "ni",
+        "you (pl.) are",
+        "vosotros sois"
+      ],
+      [
+        "wao",
+        "ni",
+        "they are",
+        "ellos son"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "title": "The verb 'to have' (kuwa na)",
+    "description": "Swahili has no verb 'have'; it uses 'kuwa na' (to be with), shown by the -na- tense prefix.",
+    "columns": [
+      "Subject",
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi",
+        "nina",
+        "I have",
+        "yo tengo"
+      ],
+      [
+        "wewe",
+        "una",
+        "you have",
+        "tú tienes"
+      ],
+      [
+        "yeye",
+        "ana",
+        "he/she has",
+        "él/ella tiene"
+      ],
+      [
+        "sisi",
+        "tuna",
+        "we have",
+        "nosotros tenemos"
+      ],
+      [
+        "ninyi",
+        "mna",
+        "you (pl.) have",
+        "vosotros tenéis"
+      ],
+      [
+        "wao",
+        "wana",
+        "they have",
+        "ellos tienen"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "title": "Personal pronouns",
+    "description": "Independent subject pronouns in Swahili.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi",
+        "I",
+        "yo"
+      ],
+      [
+        "wewe",
+        "you",
+        "tú / usted"
+      ],
+      [
+        "yeye",
+        "he / she",
+        "él / ella"
+      ],
+      [
+        "sisi",
+        "we",
+        "nosotros"
+      ],
+      [
+        "ninyi",
+        "you (pl.)",
+        "vosotros / ustedes"
+      ],
+      [
+        "wao",
+        "they",
+        "ellos / ellas"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "title": "Days of the week",
+    "description": "Swahili days of the week all begin with 'Juma' or 'Iju'.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Jumatatu",
+        "Monday",
+        "lunes"
+      ],
+      [
+        "Jumanne",
+        "Tuesday",
+        "martes"
+      ],
+      [
+        "Jumatano",
+        "Wednesday",
+        "miércoles"
+      ],
+      [
+        "Alhamisi",
+        "Thursday",
+        "jueves"
+      ],
+      [
+        "Ijumaa",
+        "Friday",
+        "viernes"
+      ],
+      [
+        "Jumamosi",
+        "Saturday",
+        "sábado"
+      ],
+      [
+        "Jumapili",
+        "Sunday",
+        "domingo"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "title": "Months of the year",
+    "description": "Swahili month names, mostly borrowed from other languages.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Januari",
+        "January",
+        "enero"
+      ],
+      [
+        "Februari",
+        "February",
+        "febrero"
+      ],
+      [
+        "Machi",
+        "March",
+        "marzo"
+      ],
+      [
+        "Aprili",
+        "April",
+        "abril"
+      ],
+      [
+        "Mei",
+        "May",
+        "mayo"
+      ],
+      [
+        "Juni",
+        "June",
+        "junio"
+      ],
+      [
+        "Julai",
+        "July",
+        "julio"
+      ],
+      [
+        "Agosti",
+        "August",
+        "agosto"
+      ],
+      [
+        "Septemba",
+        "September",
+        "septiembre"
+      ],
+      [
+        "Oktoba",
+        "October",
+        "octubre"
+      ],
+      [
+        "Novemba",
+        "November",
+        "noviembre"
+      ],
+      [
+        "Desemba",
+        "December",
+        "diciembre"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "title": "Numbers 0–20",
+    "description": "Basic cardinal numbers; 11–19 are formed with 'kumi na' (ten and).",
+    "columns": [
+      "Number",
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "0",
+        "sifuri",
+        "zero",
+        "cero"
+      ],
+      [
+        "1",
+        "moja",
+        "one",
+        "uno"
+      ],
+      [
+        "2",
+        "mbili",
+        "two",
+        "dos"
+      ],
+      [
+        "3",
+        "tatu",
+        "three",
+        "tres"
+      ],
+      [
+        "4",
+        "nne",
+        "four",
+        "cuatro"
+      ],
+      [
+        "5",
+        "tano",
+        "five",
+        "cinco"
+      ],
+      [
+        "6",
+        "sita",
+        "six",
+        "seis"
+      ],
+      [
+        "7",
+        "saba",
+        "seven",
+        "siete"
+      ],
+      [
+        "8",
+        "nane",
+        "eight",
+        "ocho"
+      ],
+      [
+        "9",
+        "tisa",
+        "nine",
+        "nueve"
+      ],
+      [
+        "10",
+        "kumi",
+        "ten",
+        "diez"
+      ],
+      [
+        "11",
+        "kumi na moja",
+        "eleven",
+        "once"
+      ],
+      [
+        "12",
+        "kumi na mbili",
+        "twelve",
+        "doce"
+      ],
+      [
+        "13",
+        "kumi na tatu",
+        "thirteen",
+        "trece"
+      ],
+      [
+        "14",
+        "kumi na nne",
+        "fourteen",
+        "catorce"
+      ],
+      [
+        "15",
+        "kumi na tano",
+        "fifteen",
+        "quince"
+      ],
+      [
+        "16",
+        "kumi na sita",
+        "sixteen",
+        "dieciséis"
+      ],
+      [
+        "17",
+        "kumi na saba",
+        "seventeen",
+        "diecisiete"
+      ],
+      [
+        "18",
+        "kumi na nane",
+        "eighteen",
+        "dieciocho"
+      ],
+      [
+        "19",
+        "kumi na tisa",
+        "nineteen",
+        "diecinueve"
+      ],
+      [
+        "20",
+        "ishirini",
+        "twenty",
+        "veinte"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "level": "A2",
+    "title": "The -na- present tense",
+    "description": "The -na- infix marks an action happening now, made from subject prefix + na + verb.",
+    "columns": [
+      "Subject",
+      "Swahili (kusoma)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi (ni-)",
+        "ninasoma",
+        "I am reading",
+        "yo leo"
+      ],
+      [
+        "wewe (u-)",
+        "unasoma",
+        "you are reading",
+        "tú lees"
+      ],
+      [
+        "yeye (a-)",
+        "anasoma",
+        "he/she is reading",
+        "él/ella lee"
+      ],
+      [
+        "sisi (tu-)",
+        "tunasoma",
+        "we are reading",
+        "nosotros leemos"
+      ],
+      [
+        "ninyi (m-)",
+        "mnasoma",
+        "you (pl.) are reading",
+        "vosotros leéis"
+      ],
+      [
+        "wao (wa-)",
+        "wanasoma",
+        "they are reading",
+        "ellos leen"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "level": "A2",
+    "title": "Question words",
+    "description": "Common Swahili question words used to ask about people, things, time and place.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nani?",
+        "Who?",
+        "¿quién?"
+      ],
+      [
+        "nini?",
+        "What?",
+        "¿qué?"
+      ],
+      [
+        "wapi?",
+        "Where?",
+        "¿dónde?"
+      ],
+      [
+        "lini?",
+        "When?",
+        "¿cuándo?"
+      ],
+      [
+        "kwa nini?",
+        "Why?",
+        "¿por qué?"
+      ],
+      [
+        "vipi?",
+        "How?",
+        "¿cómo?"
+      ],
+      [
+        "ngapi?",
+        "How many / much?",
+        "¿cuántos?"
+      ],
+      [
+        "-pi? / gani?",
+        "Which?",
+        "¿cuál?"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "level": "A2",
+    "title": "Demonstratives (this / that)",
+    "description": "Swahili has no articles; demonstratives agree with the noun class.",
+    "columns": [
+      "Swahili",
+      "Noun class",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "huyu",
+        "1 (mtu)",
+        "this person",
+        "esta persona"
+      ],
+      [
+        "hawa",
+        "2 (watu)",
+        "these people",
+        "estas personas"
+      ],
+      [
+        "hii",
+        "9 (nyumba)",
+        "this (house)",
+        "esta (casa)"
+      ],
+      [
+        "hilo",
+        "5 (jicho)",
+        "that (eye)",
+        "ese (ojo)"
+      ],
+      [
+        "hiki",
+        "7 (kitabu)",
+        "this (book)",
+        "este (libro)"
+      ],
+      [
+        "hizi",
+        "10 (viti)",
+        "these (chairs)",
+        "estas (sillas)"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "level": "A2",
+    "title": "Locatives -ni / kwa / katika",
+    "description": "Place is expressed with the suffix -ni or with locative words like juu ya and chini ya.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "ndani ya",
+        "inside",
+        "dentro de"
+      ],
+      [
+        "juu ya",
+        "on / above",
+        "sobre / encima de"
+      ],
+      [
+        "chini ya",
+        "under",
+        "debajo de"
+      ],
+      [
+        "kando ya",
+        "next to / beside",
+        "al lado de"
+      ],
+      [
+        "kati ya",
+        "between",
+        "entre"
+      ],
+      [
+        "mbele ya",
+        "in front of",
+        "delante de"
+      ],
+      [
+        "nyuma ya",
+        "behind",
+        "detrás de"
+      ],
+      [
+        "karibu na",
+        "near",
+        "cerca de"
+      ],
+      [
+        "nyumbani",
+        "at home / to home",
+        "en casa / a casa"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "title": "Past tense of 'to be' (kuwa)",
+    "description": "The past of kuwa uses -li- with the subject prefix plus irregular negative forms.",
+    "columns": [
+      "Person",
+      "Affirmative",
+      "Negative",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi (I)",
+        "nilikuwa",
+        "sikuwa",
+        "yo era / estaba"
+      ],
+      [
+        "wewe (you sg.)",
+        "ulikuwa",
+        "hukuwa",
+        "tú eras / estabas"
+      ],
+      [
+        "yeye (he/she)",
+        "alikuwa",
+        "hakuwa",
+        "él/ella era / estaba"
+      ],
+      [
+        "sisi (we)",
+        "tulikuwa",
+        "hatukuwa",
+        "nosotros éramos"
+      ],
+      [
+        "ninyi (you pl.)",
+        "mlikuwa",
+        "hamkuwa",
+        "vosotros erais"
+      ],
+      [
+        "wao (they)",
+        "walikuwa",
+        "hawakuwa",
+        "ellos eran"
+      ],
+      [
+        "kitu (it)",
+        "kilikuwa",
+        "hakikuwa",
+        "ello era"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "title": "Comparatives and superlatives (kuliko, zaidi ya)",
+    "description": "Comparison is built with kuliko or zaidi ya, and the superlative adds wote.",
+    "columns": [
+      "Adjective",
+      "Comparative",
+      "Superlative",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-zuri (good)",
+        "mzuri kuliko",
+        "mzuri kuliko wote",
+        "bueno / mejor / el mejor"
+      ],
+      [
+        "-baya (bad)",
+        "mbaya kuliko",
+        "mbaya kuliko wote",
+        "malo / peor / el peor"
+      ],
+      [
+        "-kubwa (big)",
+        "kubwa kuliko",
+        "kubwa kuliko wote",
+        "grande / más grande / el más grande"
+      ],
+      [
+        "-dogo (small)",
+        "dogo kuliko",
+        "dogo kuliko wote",
+        "pequeño / más pequeño / el más pequeño"
+      ],
+      [
+        "-refu (tall/long)",
+        "refu kuliko",
+        "refu kuliko wote",
+        "alto / más alto / el más alto"
+      ],
+      [
+        "-fupi (short)",
+        "fupi kuliko",
+        "fupi kuliko wote",
+        "bajo / más bajo / el más bajo"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "title": "The present continuous with -na-",
+    "description": "The -na- tense marks actions happening now, with a subject prefix on every verb.",
+    "columns": [
+      "Subject",
+      "English",
+      "Swahili",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi (I)",
+        "I am working",
+        "ninafanya kazi",
+        "estoy trabajando"
+      ],
+      [
+        "wewe (you)",
+        "you are working",
+        "unafanya kazi",
+        "estás trabajando"
+      ],
+      [
+        "yeye (he/she)",
+        "he/she is working",
+        "anafanya kazi",
+        "él/ella está trabajando"
+      ],
+      [
+        "sisi (we)",
+        "we are working",
+        "tunafanya kazi",
+        "estamos trabajando"
+      ],
+      [
+        "ninyi (you pl.)",
+        "you are working",
+        "mnafanya kazi",
+        "estáis trabajando"
+      ],
+      [
+        "wao (they)",
+        "they are working",
+        "wanafanya kazi",
+        "están trabajando"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "title": "Common verbs in the past tense (-li-)",
+    "description": "High-frequency verbs form the past with the -li- infix and a subject prefix.",
+    "columns": [
+      "Infinitive",
+      "Past (3sg)",
+      "Español"
+    ],
+    "rows": [
+      [
+        "kuja (to come)",
+        "alikuja",
+        "venir"
+      ],
+      [
+        "kula (to eat)",
+        "alikula",
+        "comer"
+      ],
+      [
+        "kunywa (to drink)",
+        "alinywa",
+        "beber"
+      ],
+      [
+        "kwenda (to go)",
+        "alikwenda",
+        "ir"
+      ],
+      [
+        "kutoa (to give)",
+        "alitoa",
+        "dar"
+      ],
+      [
+        "kuchukua (to take)",
+        "alichukua",
+        "tomar / llevar"
+      ],
+      [
+        "kusema (to say)",
+        "alisema",
+        "decir"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "title": "The future tense -ta-",
+    "description": "The -ta- tense for predictions, decisions, promises and future plans.",
+    "columns": [
+      "Form",
+      "Use",
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "nita- + verb",
+        "prediction / instant decision",
+        "Nitakupigia simu.",
+        "I will call you.",
+        "Te llamaré."
+      ],
+      [
+        "tuta- + verb",
+        "plan / intention",
+        "Tutasafiri kesho.",
+        "We are going to travel tomorrow.",
+        "Vamos a viajar mañana."
+      ],
+      [
+        "-ta- + verb",
+        "promise",
+        "Nitakusaidia.",
+        "I will help you.",
+        "Te ayudaré."
+      ],
+      [
+        "-ta- + verb",
+        "evidence",
+        "Angalia, mvua itanyesha.",
+        "Look, it is going to rain.",
+        "Mira, va a llover."
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "title": "The perfect tense -me-",
+    "description": "The -me- tense for actions completed with present relevance.",
+    "columns": [
+      "Subject",
+      "Swahili (-me-)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "I",
+        "nimefanya kazi",
+        "I have worked",
+        "he trabajado"
+      ],
+      [
+        "you",
+        "umefanya kazi",
+        "you have worked",
+        "has trabajado"
+      ],
+      [
+        "he",
+        "amefanya kazi",
+        "he has worked",
+        "él ha trabajado"
+      ],
+      [
+        "she",
+        "amefanya kazi",
+        "she has worked",
+        "ella ha trabajado"
+      ],
+      [
+        "we",
+        "tumefanya kazi",
+        "we have worked",
+        "hemos trabajado"
+      ],
+      [
+        "you (pl.)",
+        "mmefanya kazi",
+        "you have worked",
+        "habéis trabajado"
+      ],
+      [
+        "they",
+        "wamefanya kazi",
+        "they have worked",
+        "ellos han trabajado"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "title": "The passive with the suffix -wa",
+    "description": "Forming passives with the verb extension -wa and its allomorphs.",
+    "columns": [
+      "Active (Swahili)",
+      "Passive (Swahili)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Wanasoma kitabu.",
+        "Kitabu kinasomwa.",
+        "They read the book; the book is read.",
+        "El libro es leído."
+      ],
+      [
+        "Wanajenga nyumba.",
+        "Nyumba inajengwa.",
+        "They are building a house; a house is being built.",
+        "Se está construyendo una casa."
+      ],
+      [
+        "Mtu aliiba gari.",
+        "Gari liliibwa.",
+        "Someone stole the car; the car was stolen.",
+        "El coche fue robado."
+      ],
+      [
+        "Kampuni ilitia sahihi mkataba.",
+        "Mkataba ulitiwa sahihi.",
+        "The company signed the contract; the contract was signed.",
+        "El contrato fue firmado."
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "title": "Connectors and linking words",
+    "description": "Conjunctions and connectors for complex sentences.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Use"
+    ],
+    "rows": [
+      [
+        "ingawa",
+        "although",
+        "aunque",
+        "contrast"
+      ],
+      [
+        "kwa sababu",
+        "because",
+        "porque",
+        "reason"
+      ],
+      [
+        "hata hivyo",
+        "however",
+        "sin embargo",
+        "contrast"
+      ],
+      [
+        "zaidi ya hayo",
+        "moreover",
+        "además",
+        "addition"
+      ],
+      [
+        "ilhali",
+        "whereas",
+        "en cambio",
+        "contrast"
+      ],
+      [
+        "ili",
+        "so that",
+        "para que",
+        "purpose"
+      ],
+      [
+        "isipokuwa",
+        "unless",
+        "a menos que",
+        "condition"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "title": "Noun class plurals",
+    "description": "Swahili nouns fall into classes; the plural is shown by the noun's prefix.",
+    "columns": [
+      "Singular",
+      "Plural",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mtoto",
+        "watoto",
+        "child / children",
+        "niño / niños"
+      ],
+      [
+        "mtu",
+        "watu",
+        "person / people",
+        "persona / personas"
+      ],
+      [
+        "kitabu",
+        "vitabu",
+        "book / books",
+        "libro / libros"
+      ],
+      [
+        "chakula",
+        "vyakula",
+        "food / foods",
+        "comida / comidas"
+      ],
+      [
+        "mkono",
+        "mikono",
+        "hand / hands",
+        "mano / manos"
+      ],
+      [
+        "jiwe",
+        "mawe",
+        "stone / stones",
+        "piedra / piedras"
+      ],
+      [
+        "nyumba",
+        "nyumba",
+        "house / houses",
+        "casa / casas"
+      ],
+      [
+        "shule",
+        "shule",
+        "school / schools",
+        "escuela / escuelas"
+      ],
+      [
+        "ua",
+        "maua",
+        "flower / flowers",
+        "flor / flores"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "title": "Possessive stems (-angu, -ako, -ake)",
+    "description": "Possessives agree with the noun class and follow the noun.",
+    "columns": [
+      "Pronoun",
+      "Possessive stem",
+      "Example (mtoto)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi",
+        "-angu",
+        "mtoto wangu",
+        "my child",
+        "mi niño"
+      ],
+      [
+        "wewe",
+        "-ako",
+        "mtoto wako",
+        "your child",
+        "tu niño"
+      ],
+      [
+        "yeye",
+        "-ake",
+        "mtoto wake",
+        "his/her child",
+        "su niño"
+      ],
+      [
+        "sisi",
+        "-etu",
+        "mtoto wetu",
+        "our child",
+        "nuestro niño"
+      ],
+      [
+        "ninyi",
+        "-enu",
+        "mtoto wenu",
+        "your (pl.) child",
+        "vuestro niño"
+      ],
+      [
+        "wao",
+        "-ao",
+        "mtoto wao",
+        "their child",
+        "su niño"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "title": "Demonstratives (this / that)",
+    "description": "Swahili demonstratives change with noun class and distance.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Use"
+    ],
+    "rows": [
+      [
+        "huyu",
+        "this (person)",
+        "este",
+        "near, class 1"
+      ],
+      [
+        "yule",
+        "that (person)",
+        "aquel",
+        "far, class 1"
+      ],
+      [
+        "hawa",
+        "these (people)",
+        "estos",
+        "near, plural"
+      ],
+      [
+        "wale",
+        "those (people)",
+        "aquellos",
+        "far, plural"
+      ],
+      [
+        "hii",
+        "this (thing)",
+        "esto",
+        "near, class 9"
+      ],
+      [
+        "ile",
+        "that (thing)",
+        "aquello",
+        "far, class 9"
+      ],
+      [
+        "hizi",
+        "these (things)",
+        "estas",
+        "near, plural"
+      ],
+      [
+        "zile",
+        "those (things)",
+        "aquellas",
+        "far, plural"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "title": "There is / there are: kuna / hakuna",
+    "description": "Kuna introduces existence and hakuna negates it, regardless of number.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Form"
+    ],
+    "rows": [
+      [
+        "Kuna kitabu mezani.",
+        "There is a book on the table.",
+        "Hay un libro en la mesa.",
+        "singular +"
+      ],
+      [
+        "Kuna vitabu viwili mezani.",
+        "There are two books on the table.",
+        "Hay dos libros en la mesa.",
+        "plural +"
+      ],
+      [
+        "Hakuna benki hapa.",
+        "There isn't a bank here.",
+        "No hay un banco aquí.",
+        "singular −"
+      ],
+      [
+        "Hakuna maduka hapa.",
+        "There aren't any shops here.",
+        "No hay tiendas aquí.",
+        "plural −"
+      ],
+      [
+        "Je, kuna stesheni karibu?",
+        "Is there a station nearby?",
+        "¿Hay una estación cerca?",
+        "singular ?"
+      ],
+      [
+        "Je, kuna tikiti zilizobaki?",
+        "Are there any tickets left?",
+        "¿Quedan entradas?",
+        "plural ?"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "level": "A2",
+    "title": "Past continuous (nilikuwa + -na-)",
+    "description": "Combine the past of kuwa with the -na- form to describe an action in progress in the past.",
+    "columns": [
+      "Subject",
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi (ni-)",
+        "nilikuwa ninasoma",
+        "I was reading",
+        "estaba leyendo"
+      ],
+      [
+        "wewe (u-)",
+        "ulikuwa unasoma",
+        "you were reading",
+        "estabas leyendo"
+      ],
+      [
+        "yeye (a-)",
+        "alikuwa anasoma",
+        "he/she was reading",
+        "él/ella estaba leyendo"
+      ],
+      [
+        "sisi (tu-)",
+        "tulikuwa tunasoma",
+        "we were reading",
+        "estábamos leyendo"
+      ],
+      [
+        "ninyi (m-)",
+        "mlikuwa mnasoma",
+        "you (pl.) were reading",
+        "estabais leyendo"
+      ],
+      [
+        "wao (wa-)",
+        "walikuwa wanasoma",
+        "they were reading",
+        "ellos estaban leyendo"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "level": "A2",
+    "title": "Quantifiers: -ingi, -chache, kidogo",
+    "description": "Express amount with agreeing quantifiers and words like kidogo and kadhaa.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Use"
+    ],
+    "rows": [
+      [
+        "maji kidogo",
+        "some water",
+        "un poco de agua",
+        "uncountable +"
+      ],
+      [
+        "maembe kadhaa",
+        "some mangoes",
+        "algunos mangos",
+        "plural +"
+      ],
+      [
+        "pesa yoyote?",
+        "any money?",
+        "¿algo de dinero?",
+        "questions / negatives"
+      ],
+      [
+        "muda mwingi",
+        "much time",
+        "mucho tiempo",
+        "uncountable"
+      ],
+      [
+        "watu wengi",
+        "many people",
+        "mucha gente",
+        "countable plural"
+      ],
+      [
+        "marafiki wengi",
+        "a lot of friends",
+        "muchos amigos",
+        "all contexts"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "title": "The first conditional with -ki-",
+    "description": "A real future condition uses the -ki- tense in the if-clause and a future tense in the result.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Nikisoma, nitafaulu.",
+        "If I study, I will pass.",
+        "Si estudio, aprobaré."
+      ],
+      [
+        "Akija, nitamwambia.",
+        "If he comes, I will tell him.",
+        "Si viene, se lo diré."
+      ],
+      [
+        "Tukiondoka sasa, tutafika kwa wakati.",
+        "If we leave now, we will arrive on time.",
+        "Si salimos ahora, llegaremos a tiempo."
+      ],
+      [
+        "Mvua ikinyesha, nitabaki nyumbani.",
+        "If it rains, I will stay at home.",
+        "Si llueve, me quedaré en casa."
+      ],
+      [
+        "Ukipiga simu, nitakujibu.",
+        "If you call, I will answer you.",
+        "Si llamas, te contestaré."
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "title": "Reported speech (kwamba)",
+    "description": "Statements are reported with kwamba, often keeping the original tense.",
+    "columns": [
+      "Direct",
+      "Reported",
+      "Español"
+    ],
+    "rows": [
+      [
+        "\"Nimechoka.\"",
+        "Alisema kwamba amechoka.",
+        "Dijo que estaba cansado."
+      ],
+      [
+        "\"Nitakusaidia.\"",
+        "Alisema kwamba atanisaidia.",
+        "Dijo que me ayudaría."
+      ],
+      [
+        "\"Nimemaliza.\"",
+        "Alisema kwamba amemaliza.",
+        "Dijo que había terminado."
+      ],
+      [
+        "\"Naweza kuogelea.\"",
+        "Alisema kwamba anaweza kuogelea.",
+        "Dijo que sabía nadar."
+      ],
+      [
+        "\"Ninakuja kesho.\"",
+        "Alisema kwamba anakuja kesho.",
+        "Dijo que vendría mañana."
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "title": "Relative clauses and the relative infix",
+    "description": "Relative clauses with the infix -ye-/-o-/-lo-, amba- and agreement.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Type"
+    ],
+    "rows": [
+      [
+        "Mtu aliyepiga simu ni bosi wangu.",
+        "The man who called is my boss.",
+        "El hombre que llamó es mi jefe.",
+        "defining"
+      ],
+      [
+        "Kitabu ulichonikopesha kilikuwa kizuri.",
+        "The book which you lent me was great.",
+        "El libro que me prestaste era genial.",
+        "defining"
+      ],
+      [
+        "Kaka yangu, ambaye anaishi Roma, ni daktari.",
+        "My brother, who lives in Rome, is a doctor.",
+        "Mi hermano, que vive en Roma, es médico.",
+        "non-defining"
+      ],
+      [
+        "Mwanamke ambaye gari lake liliibwa alipiga polisi.",
+        "The woman whose car was stolen called the police.",
+        "La mujer cuyo coche fue robado llamó a la policía.",
+        "possessive"
+      ],
+      [
+        "Hiyo ni nyumba niliyokulia.",
+        "That is the house where I grew up.",
+        "Esa es la casa donde crecí.",
+        "place"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "title": "Unreal past with -ngali-/-nge-",
+    "description": "Counterfactual past conditions with kama plus the -ngali- verb form.",
+    "columns": [
+      "Condition",
+      "Result",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Kama ningalisoma,",
+        "ningalifaulu.",
+        "If I had studied, I would have passed.",
+        "Si hubiera estudiado, habría aprobado."
+      ],
+      [
+        "Kama tungaliondoka mapema,",
+        "tusingalikosa treni.",
+        "If we had left earlier, we would not have missed the train.",
+        "Si hubiéramos salido antes, no habríamos perdido el tren."
+      ],
+      [
+        "Kama angalijua,",
+        "angalikuja.",
+        "If she had known, she would have come.",
+        "Si ella lo hubiera sabido, habría venido."
+      ],
+      [
+        "Kama wangaliwekeza,",
+        "wangalipata faida.",
+        "If they had invested, they would have made a profit.",
+        "Si hubieran invertido, habrían obtenido beneficios."
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "title": "Counting and mass nouns",
+    "description": "Some Swahili nouns are counted directly, others use quantity words.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Type"
+    ],
+    "rows": [
+      [
+        "tunda moja / matunda mawili",
+        "one fruit / two fruits",
+        "una fruta / dos frutas",
+        "countable"
+      ],
+      [
+        "maji",
+        "water",
+        "agua",
+        "uncountable"
+      ],
+      [
+        "chupa ya maji",
+        "a bottle of water",
+        "una botella de agua",
+        "quantity"
+      ],
+      [
+        "pesa nyingi",
+        "much money",
+        "mucho dinero",
+        "uncountable"
+      ],
+      [
+        "marafiki wengi",
+        "many friends",
+        "muchos amigos",
+        "countable"
+      ],
+      [
+        "ushauri mmoja",
+        "a piece of advice",
+        "un consejo",
+        "uncountable"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "title": "Imperatives (amri)",
+    "description": "Commands use the verb stem; the negative uses 'usi-' and the plural adds '-ni'.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Fungua dirisha.",
+        "Open the window.",
+        "Abre la ventana."
+      ],
+      [
+        "Funga mlango, tafadhali.",
+        "Close the door, please.",
+        "Cierra la puerta, por favor."
+      ],
+      [
+        "Usigusa hicho!",
+        "Don't touch that!",
+        "¡No toques eso!"
+      ],
+      [
+        "Twende nyumbani.",
+        "Let's go home.",
+        "Vamos a casa."
+      ],
+      [
+        "Sikilizeni!",
+        "Listen! (pl.)",
+        "¡Escuchad!"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "level": "A1",
+    "title": "Time expressions (in / on / at)",
+    "description": "Swahili marks time with dates, 'mwezi wa' and 'mwaka'.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Use"
+    ],
+    "rows": [
+      [
+        "mwezi wa Julai",
+        "in July",
+        "en julio",
+        "months"
+      ],
+      [
+        "mwaka 2026",
+        "in 2026",
+        "en 2026",
+        "years"
+      ],
+      [
+        "Jumatatu",
+        "on Monday",
+        "el lunes",
+        "days"
+      ],
+      [
+        "siku ya kuzaliwa kwangu",
+        "on my birthday",
+        "en mi cumpleaños",
+        "dates"
+      ],
+      [
+        "saa moja",
+        "at seven o'clock",
+        "a las siete",
+        "times"
+      ],
+      [
+        "usiku",
+        "at night",
+        "por la noche",
+        "fixed phrases"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "level": "A2",
+    "title": "Possessive pronouns (-angu, -ako, -ake)",
+    "description": "Possessive stems take the prefix of the noun they agree with.",
+    "columns": [
+      "Possessive + noun",
+      "Pronoun",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "kitabu changu",
+        "changu",
+        "my book → mine",
+        "mío"
+      ],
+      [
+        "gari lako",
+        "lako",
+        "your car → yours",
+        "tuyo"
+      ],
+      [
+        "simu yake",
+        "yake",
+        "his phone → his",
+        "suyo"
+      ],
+      [
+        "wazo lake",
+        "lake",
+        "her idea → hers",
+        "suyo"
+      ],
+      [
+        "nyumba yetu",
+        "yetu",
+        "our house → ours",
+        "nuestro"
+      ],
+      [
+        "shida yao",
+        "yao",
+        "their problem → theirs",
+        "suyo"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "level": "A2",
+    "title": "Adverbs of frequency",
+    "description": "Adverbs such as kila mara and mara nyingi show how often something happens.",
+    "columns": [
+      "Adverb (Swahili)",
+      "English",
+      "Example (Swahili)",
+      "Español"
+    ],
+    "rows": [
+      [
+        "kila mara / daima",
+        "always",
+        "Mimi hunywa kahawa kila mara.",
+        "Siempre bebo café."
+      ],
+      [
+        "kwa kawaida",
+        "usually",
+        "Yeye kwa kawaida huenda kazini kwa miguu.",
+        "Normalmente va andando al trabajo."
+      ],
+      [
+        "mara nyingi",
+        "often",
+        "Sisi mara nyingi tunawatembelea babu na bibi.",
+        "A menudo visitamos a nuestros abuelos."
+      ],
+      [
+        "wakati mwingine",
+        "sometimes",
+        "Yeye wakati mwingine husahau funguo zake.",
+        "A veces olvida sus llaves."
+      ],
+      [
+        "kamwe / hata kidogo",
+        "never",
+        "Wao hawala nyama kamwe.",
+        "Nunca comen carne."
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "level": "A2",
+    "title": "Future tense (-ta-)",
+    "description": "The -ta- infix marks actions that will happen in the future.",
+    "columns": [
+      "Subject",
+      "Swahili (kusoma)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi (ni-)",
+        "nitasoma",
+        "I will read",
+        "leeré"
+      ],
+      [
+        "wewe (u-)",
+        "utasoma",
+        "you will read",
+        "leerás"
+      ],
+      [
+        "yeye (a-)",
+        "atasoma",
+        "he/she will read",
+        "él/ella leerá"
+      ],
+      [
+        "sisi (tu-)",
+        "tutasoma",
+        "we will read",
+        "leeremos"
+      ],
+      [
+        "ninyi (m-)",
+        "mtasoma",
+        "you (pl.) will read",
+        "leeréis"
+      ],
+      [
+        "wao (wa-)",
+        "watasoma",
+        "they will read",
+        "ellos leerán"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "title": "The hypothetical -nge- conditional",
+    "description": "An unreal or hypothetical condition uses -nge- in both the condition and the result.",
+    "columns": [
+      "Condition",
+      "Result",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Ningeshinda bahati nasibu,",
+        "ningesafiri duniani kote.",
+        "Si ganara la lotería, viajaría por el mundo."
+      ],
+      [
+        "Ningekuwa na muda zaidi,",
+        "ningejifunza kupiga gitaa.",
+        "Si tuviera más tiempo, aprendería a tocar la guitarra."
+      ],
+      [
+        "Angekuwa hapa,",
+        "angetusaidia.",
+        "Si ella estuviera aquí, nos ayudaría."
+      ],
+      [
+        "Tungeishi kando ya bahari,",
+        "tungeogelea kila siku.",
+        "Si viviéramos junto al mar, nadaríamos todos los días."
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "title": "Obligation: lazima, inabidi, -paswa",
+    "description": "Obligation and advice are expressed with lazima, inabidi and the verb -paswa.",
+    "columns": [
+      "Modal",
+      "Example",
+      "Español"
+    ],
+    "rows": [
+      [
+        "lazima (must)",
+        "Lazima uvae mkanda wa usalama.",
+        "Debes llevar el cinturón."
+      ],
+      [
+        "inabidi (have to)",
+        "Inabidi nifanye kazi Jumamosi.",
+        "Tengo que trabajar el sábado."
+      ],
+      [
+        "-paswa (should)",
+        "Unapaswa kumwona daktari.",
+        "Deberías ir al médico."
+      ],
+      [
+        "hupaswi (mustn't)",
+        "Hupaswi kuvuta sigara hapa.",
+        "No debes fumar aquí."
+      ],
+      [
+        "si lazima (don't have to)",
+        "Si lazima uje.",
+        "No tienes que venir."
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "title": "Fronting and negative emphasis",
+    "description": "Emphatic fronting and negative-concord structures in formal Swahili.",
+    "columns": [
+      "Neutral",
+      "Emphatic / Fronted",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Sijawahi kuona hivi.",
+        "Kamwe sijawahi kuona hivi.",
+        "I have never seen this.",
+        "Nunca he visto esto."
+      ],
+      [
+        "Hatutokea mara nyingi.",
+        "Mara chache sana tunatoka.",
+        "We rarely go out.",
+        "Rara vez salimos."
+      ],
+      [
+        "Nilifika tu, ikaanza mvua.",
+        "Mara tu nilipofika, ikaanza mvua.",
+        "No sooner had I arrived than it rained.",
+        "Apenas había llegado cuando llovió."
+      ],
+      [
+        "Hii ni nafuu na pia nzuri.",
+        "Si nafuu tu, bali pia nzuri.",
+        "This is not only cheap but also good.",
+        "No solo es barato, sino también bueno."
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "title": "Reduced clauses with the situative -ki-",
+    "description": "Compressing clauses with the situative -ki- and the ku- infinitive.",
+    "columns": [
+      "Full clause",
+      "Reduced clause",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Kwa sababu alikuwa amechoka, alikwenda kulala.",
+        "Akiwa amechoka, alikwenda kulala.",
+        "Because she was tired, she went to bed.",
+        "Como estaba cansada, se fue a la cama."
+      ],
+      [
+        "Alipofika, alitupigia simu.",
+        "Akiwasili, alitupigia simu.",
+        "When he arrived, he called us.",
+        "Al llegar, nos llamó."
+      ],
+      [
+        "Kitabu, kilichoandikwa 1990, ni maarufu.",
+        "Kitabu kilichoandikwa 1990 ni maarufu.",
+        "The book, written in 1990, is famous.",
+        "El libro, escrito en 1990, es famoso."
+      ],
+      [
+        "Kwa kuwa nilikuwa nimemaliza kazi, nilikwenda nyumbani.",
+        "Nikiwa nimemaliza kazi, nilikwenda nyumbani.",
+        "Since I had finished work, I went home.",
+        "Habiendo terminado el trabajo, me fui a casa."
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "level": "A1",
+    "title": "There was / there were (kulikuwa na)",
+    "description": "Past form of 'kuna', using 'kulikuwa na' for both singular and plural.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Form"
+    ],
+    "rows": [
+      [
+        "Kulikuwa na bustani hapa.",
+        "There was a park here.",
+        "Había un parque aquí.",
+        "singular +"
+      ],
+      [
+        "Kulikuwa na maduka mawili.",
+        "There were two shops.",
+        "Había dos tiendas.",
+        "plural +"
+      ],
+      [
+        "Hakukuwa na maziwa.",
+        "There wasn't any milk.",
+        "No había leche.",
+        "singular −"
+      ],
+      [
+        "Hakukuwa na watu wengi.",
+        "There weren't many people.",
+        "No había mucha gente.",
+        "plural −"
+      ],
+      [
+        "Je, kulikuwa na ujumbe?",
+        "Was there a message?",
+        "¿Había un mensaje?",
+        "singular ?"
+      ],
+      [
+        "Je, kulikuwa na tikiti?",
+        "Were there any tickets?",
+        "¿Había entradas?",
+        "plural ?"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "level": "A1",
+    "title": "Liking verbs + infinitive (ku-)",
+    "description": "Verbs like -penda, -chukia and -furahia take an infinitive with 'ku-'.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Ninapenda kuogelea.",
+        "I like swimming.",
+        "Me gusta nadar."
+      ],
+      [
+        "Anapenda kusoma.",
+        "She loves reading.",
+        "Le encanta leer."
+      ],
+      [
+        "Tunachukia kusubiri.",
+        "We hate waiting.",
+        "Odiamos esperar."
+      ],
+      [
+        "Anafurahia kupika.",
+        "He enjoys cooking.",
+        "Disfruta cocinando."
+      ],
+      [
+        "Hawajali kutembea.",
+        "They don't mind walking.",
+        "No les importa caminar."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "title": "Possession with -a (gari la John)",
+    "description": "Swahili shows possession with the connective '-a' agreeing with the noun.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Gari la John ni jekundu.",
+        "John's car is red.",
+        "El coche de John es rojo."
+      ],
+      [
+        "chumba cha dada yangu",
+        "my sister's room",
+        "la habitación de mi hermana"
+      ],
+      [
+        "vifaa vya watoto",
+        "the children's toys",
+        "los juguetes de los niños"
+      ],
+      [
+        "ofisi ya walimu",
+        "the teachers' office",
+        "la oficina de los profesores"
+      ],
+      [
+        "kitabu cha mama",
+        "mother's book",
+        "el libro de mamá"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "level": "A2",
+    "title": "Past tense (-li-)",
+    "description": "The -li- infix marks completed actions in the past.",
+    "columns": [
+      "Subject",
+      "Swahili (kusoma)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi (ni-)",
+        "nilisoma",
+        "I read (past)",
+        "leí"
+      ],
+      [
+        "wewe (u-)",
+        "ulisoma",
+        "you read (past)",
+        "leíste"
+      ],
+      [
+        "yeye (a-)",
+        "alisoma",
+        "he/she read (past)",
+        "él/ella leyó"
+      ],
+      [
+        "sisi (tu-)",
+        "tulisoma",
+        "we read (past)",
+        "leímos"
+      ],
+      [
+        "ninyi (m-)",
+        "mlisoma",
+        "you (pl.) read (past)",
+        "leísteis"
+      ],
+      [
+        "wao (wa-)",
+        "walisoma",
+        "they read (past)",
+        "ellos leyeron"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "title": "Reflexive infix -ji-",
+    "description": "The infix -ji- shows the action falls back on the subject.",
+    "columns": [
+      "Subject",
+      "Swahili (kujiona)",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "mimi (ni-)",
+        "ninajiona",
+        "I see myself",
+        "me veo"
+      ],
+      [
+        "wewe (u-)",
+        "unajiona",
+        "you see yourself",
+        "te ves"
+      ],
+      [
+        "yeye (a-)",
+        "anajiona",
+        "he/she sees himself/herself",
+        "se ve"
+      ],
+      [
+        "sisi (tu-)",
+        "tunajiona",
+        "we see ourselves",
+        "nos vemos"
+      ],
+      [
+        "ninyi (m-)",
+        "mnajiona",
+        "you (pl.) see yourselves",
+        "os veis"
+      ],
+      [
+        "wao (wa-)",
+        "wanajiona",
+        "they see themselves",
+        "se ven"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "level": "A2",
+    "title": "Question tags (sivyo? / sawa?)",
+    "description": "Short tags like sivyo? and sawa? are added at the end of a statement.",
+    "columns": [
+      "Statement (Swahili)",
+      "Tag",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Wewe ni Mswahili,",
+        "sivyo?",
+        "You are Swahili, aren't you?",
+        "Eres suajili, ¿verdad?"
+      ],
+      [
+        "Yeye hapendi kahawa,",
+        "sivyo?",
+        "She doesn't like coffee, does she?",
+        "No le gusta el café, ¿verdad?"
+      ],
+      [
+        "Wamefika,",
+        "sivyo?",
+        "They have arrived, haven't they?",
+        "Han llegado, ¿verdad?"
+      ],
+      [
+        "Twende,",
+        "sawa?",
+        "Let's go, shall we?",
+        "Vamos, ¿te parece?"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "title": "Passive with modals (-w-)",
+    "description": "The passive extension -w- combines with modals to say what must or can be done.",
+    "columns": [
+      "Active",
+      "Passive",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Lazima wamalize ripoti.",
+        "Ripoti lazima imalizwe.",
+        "El informe debe ser terminado."
+      ],
+      [
+        "Inapaswa kusafisha chumba.",
+        "Chumba kinapaswa kusafishwa.",
+        "La habitación debería limpiarse."
+      ],
+      [
+        "Unaweza kununua tikiti mtandaoni.",
+        "Tikiti zinaweza kununuliwa mtandaoni.",
+        "Las entradas pueden comprarse en línea."
+      ],
+      [
+        "Ni lazima wafunge mlango.",
+        "Mlango lazima ufungwe.",
+        "La puerta debe ser cerrada."
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "title": "Wishes and regrets (laiti, -ngali-)",
+    "description": "Wishes and regrets use laiti with -nge- for the present and -ngali- for the past.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Laiti ningekuwa na muda zaidi.",
+        "I wish I had more time.",
+        "Ojalá tuviera más tiempo."
+      ],
+      [
+        "Laiti angejua kuogelea.",
+        "She wishes she could swim.",
+        "Ella desearía saber nadar."
+      ],
+      [
+        "Laiti ningalisoma!",
+        "If only I had studied!",
+        "¡Si hubiera estudiado!"
+      ],
+      [
+        "Laiti mvua ingekoma kunyesha.",
+        "I wish it would stop raining.",
+        "Ojalá dejara de llover."
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "title": "Cleft and focus constructions",
+    "description": "Focusing one part of a sentence with ni ... and ninacho-/alicho- clefts.",
+    "columns": [
+      "Neutral",
+      "Cleft / Focused",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Maria alivunja dirisha.",
+        "Ni Maria aliyevunja dirisha.",
+        "Maria broke the window; it was Maria who broke the window.",
+        "Fue María quien rompió la ventana."
+      ],
+      [
+        "Nahitaji likizo.",
+        "Ninachohitaji ni likizo.",
+        "I need a holiday; what I need is a holiday.",
+        "Lo que necesito son unas vacaciones."
+      ],
+      [
+        "Alitaka kusaidia tu.",
+        "Alichotaka ni kusaidia tu.",
+        "He only wanted to help; all he wanted was to help.",
+        "Todo lo que quería era ayudar."
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "title": "Hedging and academic tone",
+    "description": "Cautious, formal language for essays and academic writing.",
+    "columns": [
+      "Direct",
+      "Hedged",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Hii inathibitisha nadharia.",
+        "Hii inaonyesha kwamba nadharia huenda ni sahihi.",
+        "This suggests the theory may be correct.",
+        "Esto sugiere que la teoría puede ser correcta."
+      ],
+      [
+        "Kila mtu anajua kwamba...",
+        "Inakubalika kwa upana kwamba...",
+        "It is widely accepted that...",
+        "Está ampliamente aceptado que..."
+      ],
+      [
+        "Matokeo si sahihi.",
+        "Matokeo yanaonekana kutolingana.",
+        "The results appear to be inconsistent.",
+        "Los resultados parecen inconsistentes."
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "level": "A1",
+    "title": "Asking quantity (ngapi / kiasi gani)",
+    "description": "'ngapi' asks 'how many', 'kiasi gani' asks 'how much'.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Type"
+    ],
+    "rows": [
+      [
+        "Unataka matunda ngapi?",
+        "How many apples do you want?",
+        "¿Cuántas manzanas quieres?",
+        "countable"
+      ],
+      [
+        "Kuna maji kiasi gani?",
+        "How much water is there?",
+        "¿Cuánta agua hay?",
+        "uncountable"
+      ],
+      [
+        "Ni bei gani?",
+        "How much does it cost?",
+        "¿Cuánto cuesta?",
+        "price"
+      ],
+      [
+        "Watu wangapi walikuja?",
+        "How many people came?",
+        "¿Cuánta gente vino?",
+        "countable"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "level": "A1",
+    "title": "Ability and permission (-weza)",
+    "description": "'-weza' with an infinitive expresses ability and permission.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Use"
+    ],
+    "rows": [
+      [
+        "Naweza kuogelea.",
+        "I can swim.",
+        "Sé nadar.",
+        "ability"
+      ],
+      [
+        "Naweza kufungua dirisha?",
+        "Can I open the window?",
+        "¿Puedo abrir la ventana?",
+        "permission"
+      ],
+      [
+        "Siwezi kuja usiku wa leo.",
+        "I can't come tonight.",
+        "No puedo venir esta noche.",
+        "negative"
+      ],
+      [
+        "Unaweza kunisaidia, tafadhali?",
+        "Can you help me, please?",
+        "¿Puedes ayudarme, por favor?",
+        "request"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "level": "A1",
+    "title": "Adverbs of manner",
+    "description": "Swahili expresses how an action is done with adverbs or 'kwa' + noun.",
+    "columns": [
+      "Adjective",
+      "Adverb",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "-epesi (mwepesi)",
+        "haraka",
+        "quick / quickly",
+        "rápido / rápidamente"
+      ],
+      [
+        "-pole (mpole)",
+        "polepole",
+        "slow / slowly",
+        "lento / lentamente"
+      ],
+      [
+        "-zuri (mzuri)",
+        "vizuri",
+        "good / well",
+        "bueno / bien"
+      ],
+      [
+        "-angalifu",
+        "kwa uangalifu",
+        "careful / carefully",
+        "cuidadoso / con cuidado"
+      ],
+      [
+        "-furaha",
+        "kwa furaha",
+        "happy / happily",
+        "feliz / felizmente"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "level": "A2",
+    "title": "Prepositions of movement",
+    "description": "Verbs of movement combine with locative words and the -ni suffix.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Aliingia chumbani.",
+        "She walked into the room.",
+        "Entró en la habitación."
+      ],
+      [
+        "Tulivuka daraja.",
+        "We went across the bridge.",
+        "Cruzamos el puente."
+      ],
+      [
+        "Alikimbia bustanini.",
+        "He ran through the park.",
+        "Corrió por el parque."
+      ],
+      [
+        "Walitembea kando ya mto.",
+        "They walked along the river.",
+        "Caminaron a lo largo del río."
+      ],
+      [
+        "Mbwa alikimbia kuelekea kwangu.",
+        "The dog ran towards me.",
+        "El perro corrió hacia mí."
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "level": "A2",
+    "title": "Both / neither / either",
+    "description": "Words for talking about two things: -ote mbili, wala, yoyote.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Use"
+    ],
+    "rows": [
+      [
+        "Filamu zote mbili zilikuwa nzuri.",
+        "Both films were good.",
+        "Ambas películas eran buenas.",
+        "two together"
+      ],
+      [
+        "Majibu yote mawili si sahihi.",
+        "Neither answer is correct.",
+        "Ninguna de las dos respuestas es correcta.",
+        "none of two"
+      ],
+      [
+        "Siku yoyote ni sawa.",
+        "Either day is fine.",
+        "Cualquiera de los dos días me vale.",
+        "one of two"
+      ],
+      [
+        "Wala mmoja wao hakuja.",
+        "Neither of them came.",
+        "Ninguno de los dos vino.",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "level": "A2",
+    "title": "Something / anything / nothing",
+    "description": "Indefinite pronouns such as kitu, mtu and chochote.",
+    "columns": [
+      "Swahili",
+      "English",
+      "Español",
+      "Use"
+    ],
+    "rows": [
+      [
+        "Nilikununua kitu.",
+        "I bought something for you.",
+        "Compré algo para ti.",
+        "affirmative"
+      ],
+      [
+        "Je, ulisikia kitu?",
+        "Did you hear anything?",
+        "¿Oíste algo?",
+        "question"
+      ],
+      [
+        "Hakuna kitu ndani ya sanduku.",
+        "There is nothing in the box.",
+        "No hay nada en la caja.",
+        "negative"
+      ],
+      [
+        "Mtu alikupigia simu.",
+        "Somebody called you.",
+        "Alguien te llamó.",
+        "person"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "title": "Reported questions (kama, question words)",
+    "description": "Reported questions use kama for yes/no and keep the question word for wh-questions.",
+    "columns": [
+      "Direct",
+      "Reported",
+      "Español"
+    ],
+    "rows": [
+      [
+        "\"Unaishi wapi?\"",
+        "Aliniuliza niliishi wapi.",
+        "Preguntó dónde vivía."
+      ],
+      [
+        "\"Umechoka?\"",
+        "Aliniuliza kama nilikuwa nimechoka.",
+        "Preguntó si estaba cansado."
+      ],
+      [
+        "\"Ni saa ngapi?\"",
+        "Aliuliza ilikuwa saa ngapi.",
+        "Preguntó qué hora era."
+      ],
+      [
+        "\"Utakuja?\"",
+        "Aliniuliza kama nitakuja.",
+        "Preguntó si vendría."
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "title": "Verb + infinitive (ku-) vs subjunctive",
+    "description": "Many Swahili verbs take a following ku- infinitive as their complement.",
+    "columns": [
+      "Pattern",
+      "Example",
+      "Español"
+    ],
+    "rows": [
+      [
+        "kupenda + ku- (to like)",
+        "Ninapenda kusoma.",
+        "Me gusta leer."
+      ],
+      [
+        "kutaka + ku- (to want)",
+        "Ninataka kujifunza.",
+        "Quiero aprender."
+      ],
+      [
+        "kuepuka + ku- (to avoid)",
+        "Anaepuka kuendesha gari.",
+        "Evita conducir."
+      ],
+      [
+        "kuamua + ku- (to decide)",
+        "Tuliamua kubaki.",
+        "Decidimos quedarnos."
+      ],
+      [
+        "kuacha + ku- (to stop)",
+        "Aliacha kuvuta sigara.",
+        "Dejó de fumar."
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "title": "The subjunctive -e",
+    "description": "The subjunctive ending -e after verbs of wanting, suggesting and necessity.",
+    "columns": [
+      "Indicative",
+      "Subjunctive",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Anakwenda nyumbani.",
+        "Nashauri aende nyumbani.",
+        "I suggest that he go home.",
+        "Sugiero que se vaya a casa."
+      ],
+      [
+        "Anaondoka.",
+        "Walidai aondoke.",
+        "They demanded that she leave.",
+        "Exigieron que se marchara."
+      ],
+      [
+        "Yuko hapa.",
+        "Ni muhimu awe hapa.",
+        "It is important that he be here.",
+        "Es importante que esté aquí."
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "title": "Discourse markers for essays",
+    "description": "Connectors that organise formal and academic writing.",
+    "columns": [
+      "Swahili",
+      "Function",
+      "English",
+      "Español"
+    ],
+    "rows": [
+      [
+        "Kwanza, ...",
+        "first point",
+        "Firstly, ...",
+        "En primer lugar, ..."
+      ],
+      [
+        "Zaidi ya hayo, ...",
+        "addition",
+        "Furthermore, ...",
+        "Además, ..."
+      ],
+      [
+        "Hata hivyo, ...",
+        "contrast",
+        "However, ...",
+        "Sin embargo, ..."
+      ],
+      [
+        "Kwa hiyo, ...",
+        "result",
+        "Therefore, ...",
+        "Por lo tanto, ..."
+      ],
+      [
+        "Kwa kumalizia, ...",
+        "summary",
+        "In conclusion, ...",
+        "En conclusión, ..."
+      ]
+    ]
+  }
+]

@@ -1,0 +1,8042 @@
+[
+  {
+    "id": 1,
+    "swahili": "jambo",
+    "english": "hello",
+    "spanish": "hola",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "swahili": "kwaheri",
+    "english": "goodbye",
+    "spanish": "adiós",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "swahili": "habari ya asubuhi",
+    "english": "good morning",
+    "spanish": "buenos días",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "swahili": "usiku mwema",
+    "english": "good night",
+    "spanish": "buenas noches",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "swahili": "asante",
+    "english": "thank you",
+    "spanish": "gracias",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "swahili": "tafadhali",
+    "english": "please",
+    "spanish": "por favor",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "swahili": "samahani",
+    "english": "sorry",
+    "spanish": "lo siento / perdón",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "swahili": "ndiyo",
+    "english": "yes",
+    "spanish": "sí",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "swahili": "hapana",
+    "english": "no",
+    "spanish": "no",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "swahili": "habari yako?",
+    "english": "how are you?",
+    "spanish": "¿cómo estás?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "swahili": "maji",
+    "english": "water",
+    "spanish": "agua",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "swahili": "mkate",
+    "english": "bread",
+    "spanish": "pan",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "swahili": "maziwa",
+    "english": "milk",
+    "spanish": "leche",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "swahili": "kahawa",
+    "english": "coffee",
+    "spanish": "café",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "swahili": "tufaha",
+    "english": "apple",
+    "spanish": "manzana",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "swahili": "nyumba",
+    "english": "house",
+    "spanish": "casa",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "swahili": "paka",
+    "english": "cat",
+    "spanish": "gato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "swahili": "mbwa",
+    "english": "dog",
+    "spanish": "perro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "swahili": "mama",
+    "english": "mother",
+    "spanish": "madre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "swahili": "baba",
+    "english": "father",
+    "spanish": "padre",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "swahili": "familia",
+    "english": "family",
+    "spanish": "familia",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "swahili": "rafiki",
+    "english": "friend",
+    "spanish": "amigo",
+    "category": "nouns",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "swahili": "kuwa",
+    "english": "to be",
+    "spanish": "ser / estar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "swahili": "kuwa na",
+    "english": "to have",
+    "spanish": "tener",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "swahili": "kwenda",
+    "english": "to go",
+    "spanish": "ir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "swahili": "kula",
+    "english": "to eat",
+    "spanish": "comer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "swahili": "kunywa",
+    "english": "to drink",
+    "spanish": "beber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "swahili": "nzuri",
+    "english": "good",
+    "spanish": "bueno",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "swahili": "mbaya",
+    "english": "bad",
+    "spanish": "malo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "swahili": "kubwa",
+    "english": "big",
+    "spanish": "grande",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "swahili": "ndogo",
+    "english": "small",
+    "spanish": "pequeño",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "swahili": "kuishi",
+    "english": "to live",
+    "spanish": "vivir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 33,
+    "swahili": "kufanya kazi",
+    "english": "to work",
+    "spanish": "trabajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 34,
+    "swahili": "kununua",
+    "english": "to buy",
+    "spanish": "comprar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 35,
+    "swahili": "kusafiri",
+    "english": "to travel",
+    "spanish": "viajar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 36,
+    "swahili": "kupika",
+    "english": "to cook",
+    "spanish": "cocinar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 37,
+    "swahili": "kujifunza",
+    "english": "to learn",
+    "spanish": "aprender",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 38,
+    "swahili": "nguo",
+    "english": "clothes",
+    "spanish": "ropa",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 39,
+    "swahili": "viatu",
+    "english": "shoes",
+    "spanish": "zapatos",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 40,
+    "swahili": "koti",
+    "english": "coat",
+    "spanish": "abrigo",
+    "category": "clothes",
+    "level": "A2"
+  },
+  {
+    "id": 41,
+    "swahili": "jikoni",
+    "english": "kitchen",
+    "spanish": "cocina",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 42,
+    "swahili": "bafu",
+    "english": "bathroom",
+    "spanish": "baño",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 43,
+    "swahili": "chumba cha kulala",
+    "english": "bedroom",
+    "spanish": "dormitorio",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 44,
+    "swahili": "barabara",
+    "english": "street",
+    "spanish": "calle",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 45,
+    "swahili": "mji",
+    "english": "city",
+    "spanish": "ciudad",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 46,
+    "swahili": "duka",
+    "english": "shop",
+    "spanish": "tienda",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 47,
+    "swahili": "kituo",
+    "english": "station",
+    "spanish": "estación",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 48,
+    "swahili": "tikiti",
+    "english": "ticket",
+    "spanish": "billete",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 49,
+    "swahili": "sanduku",
+    "english": "suitcase",
+    "spanish": "maleta",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 50,
+    "swahili": "gari",
+    "english": "car",
+    "spanish": "coche",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 51,
+    "swahili": "treni",
+    "english": "train",
+    "spanish": "tren",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 52,
+    "swahili": "leo",
+    "english": "today",
+    "spanish": "hoy",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 53,
+    "swahili": "kesho",
+    "english": "tomorrow",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 54,
+    "swahili": "jana",
+    "english": "yesterday",
+    "spanish": "ayer",
+    "category": "time",
+    "level": "A2"
+  },
+  {
+    "id": 55,
+    "swahili": "kila wakati",
+    "english": "always",
+    "spanish": "siempre",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 56,
+    "swahili": "mara nyingi",
+    "english": "often",
+    "spanish": "a menudo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 57,
+    "swahili": "kamwe",
+    "english": "never",
+    "spanish": "nunca",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 58,
+    "swahili": "hali ya hewa",
+    "english": "weather",
+    "spanish": "tiempo (clima)",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 59,
+    "swahili": "mvua",
+    "english": "rain",
+    "spanish": "lluvia",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 60,
+    "swahili": "jua",
+    "english": "sun",
+    "spanish": "sol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 61,
+    "swahili": "mwenye furaha",
+    "english": "happy",
+    "spanish": "feliz",
+    "category": "adjectives",
+    "level": "A2"
+  },
+  {
+    "id": 62,
+    "swahili": "uzoefu",
+    "english": "experience",
+    "spanish": "experiencia",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 63,
+    "swahili": "taaluma",
+    "english": "profession",
+    "spanish": "profesión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 64,
+    "swahili": "bosi",
+    "english": "boss",
+    "spanish": "jefe",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 65,
+    "swahili": "mkutano",
+    "english": "meeting",
+    "spanish": "reunión",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 66,
+    "swahili": "mkataba",
+    "english": "contract",
+    "spanish": "contrato",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 67,
+    "swahili": "mshahara",
+    "english": "salary",
+    "spanish": "salario",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 68,
+    "swahili": "elimu",
+    "english": "education",
+    "spanish": "educación",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 69,
+    "swahili": "maarifa",
+    "english": "knowledge",
+    "spanish": "conocimiento",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 70,
+    "swahili": "ujuzi",
+    "english": "skill",
+    "spanish": "habilidad",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 71,
+    "swahili": "mtihani",
+    "english": "exam",
+    "spanish": "examen",
+    "category": "education",
+    "level": "B1"
+  },
+  {
+    "id": 72,
+    "swahili": "afya",
+    "english": "health",
+    "spanish": "salud",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 73,
+    "swahili": "ugonjwa",
+    "english": "illness",
+    "spanish": "enfermedad",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 74,
+    "swahili": "daktari",
+    "english": "doctor",
+    "spanish": "médico",
+    "category": "body",
+    "level": "B1"
+  },
+  {
+    "id": 75,
+    "swahili": "furaha",
+    "english": "happiness",
+    "spanish": "felicidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 76,
+    "swahili": "hofu",
+    "english": "fear",
+    "spanish": "miedo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 77,
+    "swahili": "tumaini",
+    "english": "hope",
+    "spanish": "esperanza",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 78,
+    "swahili": "upendo",
+    "english": "love",
+    "spanish": "amor",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 79,
+    "swahili": "wivu",
+    "english": "jealousy",
+    "spanish": "celos",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 80,
+    "swahili": "kuamua",
+    "english": "to decide",
+    "spanish": "decidir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 81,
+    "swahili": "kuchagua",
+    "english": "to choose",
+    "spanish": "elegir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 82,
+    "swahili": "kueleza",
+    "english": "to explain",
+    "spanish": "explicar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 83,
+    "swahili": "kulinganisha",
+    "english": "to compare",
+    "spanish": "comparar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 84,
+    "swahili": "kufikia",
+    "english": "to achieve",
+    "spanish": "lograr",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 85,
+    "swahili": "kupendekeza",
+    "english": "to recommend",
+    "spanish": "recomendar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 86,
+    "swahili": "kwa kweli",
+    "english": "actually",
+    "spanish": "en realidad",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 87,
+    "swahili": "mara moja",
+    "english": "immediately",
+    "spanish": "inmediatamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 88,
+    "swahili": "kwa bahati mbaya",
+    "english": "unfortunately",
+    "spanish": "desafortunadamente",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 89,
+    "swahili": "mazingira",
+    "english": "environment",
+    "spanish": "medio ambiente",
+    "category": "nature",
+    "level": "B1"
+  },
+  {
+    "id": 90,
+    "swahili": "jamii",
+    "english": "society",
+    "spanish": "sociedad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 91,
+    "swahili": "chaguo",
+    "english": "choice",
+    "spanish": "elección",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 92,
+    "swahili": "imani",
+    "english": "belief",
+    "spanish": "convicción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 93,
+    "swahili": "shaka",
+    "english": "doubt",
+    "spanish": "duda",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 94,
+    "swahili": "jambo",
+    "english": "phenomenon",
+    "spanish": "fenómeno",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 95,
+    "swahili": "suluhisho",
+    "english": "solution",
+    "spanish": "solución",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 96,
+    "swahili": "utafiti",
+    "english": "research",
+    "spanish": "investigación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 97,
+    "swahili": "ushawishi",
+    "english": "influence",
+    "spanish": "influencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 98,
+    "swahili": "tishio",
+    "english": "threat",
+    "spanish": "amenaza",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 99,
+    "swahili": "ufahamu",
+    "english": "awareness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 100,
+    "swahili": "maendeleo",
+    "english": "development",
+    "spanish": "desarrollo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 101,
+    "swahili": "kuendelea",
+    "english": "progress",
+    "spanish": "progreso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 102,
+    "swahili": "matokeo",
+    "english": "consequence",
+    "spanish": "consecuencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 103,
+    "swahili": "kutabiri",
+    "english": "to predict",
+    "spanish": "predecir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 104,
+    "swahili": "kudhani",
+    "english": "to assume",
+    "spanish": "asumir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 105,
+    "swahili": "kuthibitisha",
+    "english": "to prove",
+    "spanish": "demostrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 106,
+    "swahili": "kutilia shaka",
+    "english": "to doubt",
+    "spanish": "dudar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 107,
+    "swahili": "kujadiliana",
+    "english": "to negotiate",
+    "spanish": "negociar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 108,
+    "swahili": "kuchanganua",
+    "english": "to analyze",
+    "spanish": "analizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 109,
+    "swahili": "kutathmini",
+    "english": "to assess",
+    "spanish": "evaluar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 110,
+    "swahili": "kutosha",
+    "english": "sufficient",
+    "spanish": "suficiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 111,
+    "swahili": "dhahiri",
+    "english": "obvious",
+    "spanish": "obvio",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 112,
+    "swahili": "tata",
+    "english": "complex",
+    "spanish": "complejo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 113,
+    "swahili": "kuhusiana",
+    "english": "relative",
+    "spanish": "relativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 114,
+    "swahili": "huru",
+    "english": "independent",
+    "spanish": "independiente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 115,
+    "swahili": "endelevu",
+    "english": "sustainable",
+    "spanish": "sostenible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 116,
+    "swahili": "ingawa",
+    "english": "even though",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 117,
+    "swahili": "lakini",
+    "english": "however",
+    "spanish": "sin embargo",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 118,
+    "swahili": "ilhali",
+    "english": "whereas",
+    "spanish": "en cambio",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 119,
+    "swahili": "zaidi ya hayo",
+    "english": "moreover",
+    "spanish": "además",
+    "category": "conjunctions",
+    "level": "B2"
+  },
+  {
+    "id": 120,
+    "swahili": "uhuru",
+    "english": "freedom",
+    "spanish": "libertad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 121,
+    "swahili": "moja",
+    "english": "one",
+    "spanish": "uno",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "swahili": "mbili",
+    "english": "two",
+    "spanish": "dos",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "swahili": "tatu",
+    "english": "three",
+    "spanish": "tres",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "swahili": "nne",
+    "english": "four",
+    "spanish": "cuatro",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "swahili": "tano",
+    "english": "five",
+    "spanish": "cinco",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "swahili": "sita",
+    "english": "six",
+    "spanish": "seis",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "swahili": "saba",
+    "english": "seven",
+    "spanish": "siete",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "swahili": "nane",
+    "english": "eight",
+    "spanish": "ocho",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "swahili": "tisa",
+    "english": "nine",
+    "spanish": "nueve",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "swahili": "kumi",
+    "english": "ten",
+    "spanish": "diez",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "swahili": "nyekundu",
+    "english": "red",
+    "spanish": "rojo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "swahili": "bluu",
+    "english": "blue",
+    "spanish": "azul",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "swahili": "kijani",
+    "english": "green",
+    "spanish": "verde",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "swahili": "nyeusi",
+    "english": "black",
+    "spanish": "negro",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "swahili": "nyeupe",
+    "english": "white",
+    "spanish": "blanco",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "swahili": "njano",
+    "english": "yellow",
+    "spanish": "amarillo",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "swahili": "yenye jua",
+    "english": "sunny",
+    "spanish": "soleado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "swahili": "yenye mvua",
+    "english": "rainy",
+    "spanish": "lluvioso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "swahili": "yenye mawingu",
+    "english": "cloudy",
+    "spanish": "nublado",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "swahili": "baridi",
+    "english": "cold",
+    "spanish": "frío",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "swahili": "joto",
+    "english": "hot",
+    "spanish": "caluroso",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "swahili": "kaka",
+    "english": "brother",
+    "spanish": "hermano",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "swahili": "dada",
+    "english": "sister",
+    "spanish": "hermana",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "swahili": "mwana",
+    "english": "son",
+    "spanish": "hijo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "swahili": "binti",
+    "english": "daughter",
+    "spanish": "hija",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "swahili": "shule",
+    "english": "school",
+    "spanish": "escuela",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "swahili": "mbuga",
+    "english": "park",
+    "spanish": "parque",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "swahili": "kushoto",
+    "english": "left",
+    "spanish": "izquierda",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "swahili": "kulia",
+    "english": "right",
+    "spanish": "derecha",
+    "category": "directions",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "swahili": "msaada",
+    "english": "help",
+    "spanish": "ayuda",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "swahili": "bustani",
+    "english": "garden",
+    "spanish": "jardín",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 152,
+    "swahili": "dirisha",
+    "english": "window",
+    "spanish": "ventana",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 153,
+    "swahili": "mlango",
+    "english": "door",
+    "spanish": "puerta",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 154,
+    "swahili": "kiti",
+    "english": "chair",
+    "spanish": "silla",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 155,
+    "swahili": "meza",
+    "english": "table",
+    "spanish": "mesa",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 156,
+    "swahili": "kitabu",
+    "english": "book",
+    "spanish": "libro",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 157,
+    "swahili": "kalamu",
+    "english": "pen",
+    "spanish": "bolígrafo",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 158,
+    "swahili": "kusoma",
+    "english": "to read",
+    "spanish": "leer",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 159,
+    "swahili": "kuandika",
+    "english": "to write",
+    "spanish": "escribir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 160,
+    "swahili": "kuzungumza",
+    "english": "to speak",
+    "spanish": "hablar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 161,
+    "swahili": "kusikiliza",
+    "english": "to listen",
+    "spanish": "escuchar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 162,
+    "swahili": "kufungua",
+    "english": "to open",
+    "spanish": "abrir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 163,
+    "swahili": "kufunga",
+    "english": "to close",
+    "spanish": "cerrar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 164,
+    "swahili": "kulala",
+    "english": "to sleep",
+    "spanish": "dormir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 165,
+    "swahili": "kukimbia",
+    "english": "to run",
+    "spanish": "correr",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 166,
+    "swahili": "kuogelea",
+    "english": "to swim",
+    "spanish": "nadar",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 167,
+    "swahili": "mpira wa miguu",
+    "english": "football",
+    "spanish": "fútbol",
+    "category": "sports",
+    "level": "A2"
+  },
+  {
+    "id": 168,
+    "swahili": "muziki",
+    "english": "music",
+    "spanish": "música",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 169,
+    "swahili": "wimbo",
+    "english": "song",
+    "spanish": "canción",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 170,
+    "swahili": "kuimba",
+    "english": "to sing",
+    "spanish": "cantar",
+    "category": "music",
+    "level": "A2"
+  },
+  {
+    "id": 171,
+    "swahili": "sherehe",
+    "english": "party",
+    "spanish": "fiesta",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 172,
+    "swahili": "ufukwe",
+    "english": "beach",
+    "spanish": "playa",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 173,
+    "swahili": "mlima",
+    "english": "mountain",
+    "spanish": "montaña",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 174,
+    "swahili": "mto",
+    "english": "river",
+    "spanish": "río",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 175,
+    "swahili": "mti",
+    "english": "tree",
+    "spanish": "árbol",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 176,
+    "swahili": "ua",
+    "english": "flower",
+    "spanish": "flor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 177,
+    "swahili": "mbingu",
+    "english": "sky",
+    "spanish": "cielo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 178,
+    "swahili": "mchovu",
+    "english": "tired",
+    "spanish": "cansado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 179,
+    "swahili": "mwenye hasira",
+    "english": "angry",
+    "spanish": "enfadado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 180,
+    "swahili": "mwenye wasiwasi",
+    "english": "worried",
+    "spanish": "preocupado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 181,
+    "swahili": "mapato",
+    "english": "income",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 182,
+    "swahili": "kuweka akiba",
+    "english": "to save",
+    "spanish": "ahorrar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 183,
+    "swahili": "kutumia",
+    "english": "to spend",
+    "spanish": "gastar",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 184,
+    "swahili": "deni",
+    "english": "debt",
+    "spanish": "deuda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 185,
+    "swahili": "bei",
+    "english": "price",
+    "spanish": "precio",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 186,
+    "swahili": "benki",
+    "english": "bank",
+    "spanish": "banco",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 187,
+    "swahili": "kuajiri",
+    "english": "to hire",
+    "spanish": "contratar",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 188,
+    "swahili": "mwenza kazini",
+    "english": "colleague",
+    "spanish": "colega",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 189,
+    "swahili": "tarehe ya mwisho",
+    "english": "deadline",
+    "spanish": "fecha límite",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 190,
+    "swahili": "taaluma",
+    "english": "career",
+    "spanish": "carrera",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 191,
+    "swahili": "kuboresha",
+    "english": "to improve",
+    "spanish": "mejorar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 192,
+    "swahili": "kupendekeza",
+    "english": "to suggest",
+    "spanish": "sugerir",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 193,
+    "swahili": "kuepuka",
+    "english": "to avoid",
+    "spanish": "evitar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 194,
+    "swahili": "kuendeleza",
+    "english": "to develop",
+    "spanish": "desarrollar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 195,
+    "swahili": "kusaidia",
+    "english": "to support",
+    "spanish": "apoyar",
+    "category": "verbs",
+    "level": "B1"
+  },
+  {
+    "id": 196,
+    "swahili": "uchafuzi",
+    "english": "pollution",
+    "spanish": "contaminación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 197,
+    "swahili": "hali ya hewa",
+    "english": "climate",
+    "spanish": "clima",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 198,
+    "swahili": "kuchakata",
+    "english": "to recycle",
+    "spanish": "reciclar",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 199,
+    "swahili": "nishati",
+    "english": "energy",
+    "spanish": "energía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 200,
+    "swahili": "serikali",
+    "english": "government",
+    "spanish": "gobierno",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 201,
+    "swahili": "sheria",
+    "english": "law",
+    "spanish": "ley",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 202,
+    "swahili": "uchaguzi",
+    "english": "election",
+    "spanish": "elección",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 203,
+    "swahili": "mwananchi",
+    "english": "citizen",
+    "spanish": "ciudadano",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 204,
+    "swahili": "utamaduni",
+    "english": "culture",
+    "spanish": "cultura",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 205,
+    "swahili": "sayansi",
+    "english": "science",
+    "spanish": "ciencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 206,
+    "swahili": "jaribio",
+    "english": "experiment",
+    "spanish": "experimento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 207,
+    "swahili": "ushahidi",
+    "english": "evidence",
+    "spanish": "evidencia",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 208,
+    "swahili": "nadharia",
+    "english": "theory",
+    "spanish": "teoría",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 209,
+    "swahili": "ugunduzi",
+    "english": "discovery",
+    "spanish": "descubrimiento",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 210,
+    "swahili": "labda",
+    "english": "perhaps",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "B1"
+  },
+  {
+    "id": 211,
+    "swahili": "dhana",
+    "english": "assumption",
+    "spanish": "suposición",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 212,
+    "swahili": "mzozo",
+    "english": "controversy",
+    "spanish": "controversia",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 213,
+    "swahili": "kukosekana kwa usawa",
+    "english": "inequality",
+    "spanish": "desigualdad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 214,
+    "swahili": "uendelevu",
+    "english": "sustainability",
+    "spanish": "sostenibilidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 215,
+    "swahili": "mtazamo",
+    "english": "perspective",
+    "spanish": "perspectiva",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 216,
+    "swahili": "matokeo",
+    "english": "implication",
+    "spanish": "implicación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 217,
+    "swahili": "kikwazo",
+    "english": "constraint",
+    "spanish": "restricción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 218,
+    "swahili": "kichocheo",
+    "english": "incentive",
+    "spanish": "incentivo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 219,
+    "swahili": "mapato",
+    "english": "revenue",
+    "spanish": "ingresos",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 220,
+    "swahili": "uwekezaji",
+    "english": "investment",
+    "spanish": "inversión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 221,
+    "swahili": "mazungumzo",
+    "english": "negotiation",
+    "spanish": "negociación",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 222,
+    "swahili": "ufanisi",
+    "english": "efficiency",
+    "spanish": "eficiencia",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 223,
+    "swahili": "ubunifu",
+    "english": "innovation",
+    "spanish": "innovación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 224,
+    "swahili": "algoriti",
+    "english": "algorithm",
+    "spanish": "algoritmo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 225,
+    "swahili": "faragha",
+    "english": "privacy",
+    "spanish": "privacidad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 226,
+    "swahili": "akili bandia",
+    "english": "artificial intelligence",
+    "spanish": "inteligencia artificial",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 227,
+    "swahili": "data",
+    "english": "data",
+    "spanish": "datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 228,
+    "swahili": "usalama wa mtandao",
+    "english": "cybersecurity",
+    "spanish": "ciberseguridad",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 229,
+    "swahili": "kudhoofisha",
+    "english": "to undermine",
+    "spanish": "socavar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 230,
+    "swahili": "kuimarisha",
+    "english": "to reinforce",
+    "spanish": "reforzar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 231,
+    "swahili": "kupunguza",
+    "english": "to mitigate",
+    "spanish": "mitigar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 232,
+    "swahili": "kuwezesha",
+    "english": "to facilitate",
+    "spanish": "facilitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 233,
+    "swahili": "kutambua",
+    "english": "to acknowledge",
+    "spanish": "reconocer",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 234,
+    "swahili": "wenye utata",
+    "english": "ambiguous",
+    "spanish": "ambiguo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 235,
+    "swahili": "inawezekana",
+    "english": "feasible",
+    "spanish": "factible",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 236,
+    "swahili": "isiyoepukika",
+    "english": "inevitable",
+    "spanish": "inevitable",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 237,
+    "swahili": "kamili",
+    "english": "comprehensive",
+    "spanish": "integral",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 238,
+    "swahili": "yenye kushawishi",
+    "english": "compelling",
+    "spanish": "convincente",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 239,
+    "swahili": "iliyoenea",
+    "english": "prevalent",
+    "spanish": "predominante",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 240,
+    "swahili": "yenye madhara",
+    "english": "detrimental",
+    "spanish": "perjudicial",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 241,
+    "swahili": "kichwa",
+    "english": "head",
+    "spanish": "cabeza",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "swahili": "mkono",
+    "english": "hand",
+    "spanish": "mano",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "swahili": "mguu",
+    "english": "foot",
+    "spanish": "pie",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "swahili": "jicho",
+    "english": "eye",
+    "spanish": "ojo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "swahili": "sikio",
+    "english": "ear",
+    "spanish": "oreja",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "swahili": "mdomo",
+    "english": "mouth",
+    "spanish": "boca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "swahili": "pua",
+    "english": "nose",
+    "spanish": "nariz",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "swahili": "nywele",
+    "english": "hair",
+    "spanish": "pelo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "swahili": "mkono",
+    "english": "arm",
+    "spanish": "brazo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "swahili": "mguu",
+    "english": "leg",
+    "spanish": "pierna",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "swahili": "kitanda",
+    "english": "bed",
+    "spanish": "cama",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "swahili": "taa",
+    "english": "lamp",
+    "spanish": "lámpara",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "swahili": "ufunguo",
+    "english": "key",
+    "spanish": "llave",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "swahili": "ukuta",
+    "english": "wall",
+    "spanish": "pared",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "swahili": "sakafu",
+    "english": "floor",
+    "spanish": "suelo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "swahili": "paa",
+    "english": "roof",
+    "spanish": "tejado",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "swahili": "yai",
+    "english": "egg",
+    "spanish": "huevo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "swahili": "jibini",
+    "english": "cheese",
+    "spanish": "queso",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "swahili": "samaki",
+    "english": "fish",
+    "spanish": "pescado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "swahili": "nyama",
+    "english": "meat",
+    "spanish": "carne",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "swahili": "supu",
+    "english": "soup",
+    "spanish": "sopa",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "swahili": "saladi",
+    "english": "salad",
+    "spanish": "ensalada",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "swahili": "sukari",
+    "english": "sugar",
+    "spanish": "azúcar",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "swahili": "chumvi",
+    "english": "salt",
+    "spanish": "sal",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "swahili": "mpya",
+    "english": "new",
+    "spanish": "nuevo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "swahili": "zee",
+    "english": "old",
+    "spanish": "viejo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "swahili": "changa",
+    "english": "young",
+    "spanish": "joven",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "swahili": "refu",
+    "english": "long",
+    "spanish": "largo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "swahili": "fupi",
+    "english": "short",
+    "spanish": "corto",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "swahili": "polepole",
+    "english": "slow",
+    "spanish": "lento",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "swahili": "kuamka",
+    "english": "to wake up",
+    "spanish": "despertarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 272,
+    "swahili": "kuinuka",
+    "english": "to get up",
+    "spanish": "levantarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 273,
+    "swahili": "kuosha",
+    "english": "to wash",
+    "spanish": "lavarse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 274,
+    "swahili": "kuvaa",
+    "english": "to dress",
+    "spanish": "vestirse",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 275,
+    "swahili": "kupumzika",
+    "english": "to rest",
+    "spanish": "descansar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 276,
+    "swahili": "kuanza",
+    "english": "to start",
+    "spanish": "empezar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 277,
+    "swahili": "kumaliza",
+    "english": "to finish",
+    "spanish": "terminar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 278,
+    "swahili": "kujaribu",
+    "english": "to try",
+    "spanish": "intentar",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 279,
+    "swahili": "basi",
+    "english": "bus",
+    "spanish": "autobús",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 280,
+    "swahili": "baiskeli",
+    "english": "bicycle",
+    "spanish": "bicicleta",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 281,
+    "swahili": "ndege",
+    "english": "plane",
+    "spanish": "avión",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 282,
+    "swahili": "mashua",
+    "english": "boat",
+    "spanish": "barco",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 283,
+    "swahili": "uwanja wa ndege",
+    "english": "airport",
+    "spanish": "aeropuerto",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 284,
+    "swahili": "barabara",
+    "english": "road",
+    "spanish": "carretera",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 285,
+    "swahili": "paspoti",
+    "english": "passport",
+    "spanish": "pasaporte",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 286,
+    "swahili": "mtalii",
+    "english": "tourist",
+    "spanish": "turista",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 287,
+    "swahili": "mwongozo",
+    "english": "guide",
+    "spanish": "guía",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 288,
+    "swahili": "likizo",
+    "english": "holiday",
+    "spanish": "vacaciones",
+    "category": "travel",
+    "level": "A2"
+  },
+  {
+    "id": 289,
+    "swahili": "kuchoka",
+    "english": "bored",
+    "spanish": "aburrido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 290,
+    "swahili": "msisimko",
+    "english": "excited",
+    "spanish": "emocionado",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 291,
+    "swahili": "mshangao",
+    "english": "surprised",
+    "spanish": "sorprendido",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 292,
+    "swahili": "wasiwasi",
+    "english": "nervous",
+    "spanish": "nervioso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 293,
+    "swahili": "fahari",
+    "english": "proud",
+    "spanish": "orgulloso",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 294,
+    "swahili": "utulivu",
+    "english": "calm",
+    "spanish": "tranquilo",
+    "category": "emotions",
+    "level": "A2"
+  },
+  {
+    "id": 295,
+    "swahili": "soko",
+    "english": "market",
+    "spanish": "mercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 296,
+    "swahili": "supamaketi",
+    "english": "supermarket",
+    "spanish": "supermercado",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 297,
+    "swahili": "kadi",
+    "english": "card",
+    "spanish": "tarjeta",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 298,
+    "swahili": "pesa taslimu",
+    "english": "cash",
+    "spanish": "efectivo",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 299,
+    "swahili": "punguzo",
+    "english": "discount",
+    "spanish": "descuento",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 300,
+    "swahili": "ukubwa",
+    "english": "size",
+    "spanish": "talla",
+    "category": "shopping",
+    "level": "A2"
+  },
+  {
+    "id": 301,
+    "swahili": "mfanyakazi",
+    "english": "employee",
+    "spanish": "empleado",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 302,
+    "swahili": "mwajiri",
+    "english": "employer",
+    "spanish": "empleador",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 303,
+    "swahili": "usaili",
+    "english": "interview",
+    "spanish": "entrevista",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 304,
+    "swahili": "wasifu",
+    "english": "resume",
+    "spanish": "currículum",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 305,
+    "swahili": "kupandishwa cheo",
+    "english": "promotion",
+    "spanish": "ascenso",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 306,
+    "swahili": "kazi",
+    "english": "task",
+    "spanish": "tarea",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 307,
+    "swahili": "mradi",
+    "english": "project",
+    "spanish": "proyecto",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 308,
+    "swahili": "timu",
+    "english": "team",
+    "spanish": "equipo",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 309,
+    "swahili": "meneja",
+    "english": "manager",
+    "spanish": "gerente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 310,
+    "swahili": "mafunzo",
+    "english": "training",
+    "spanish": "formación",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 311,
+    "swahili": "mila",
+    "english": "tradition",
+    "spanish": "tradición",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 312,
+    "swahili": "dini",
+    "english": "religion",
+    "spanish": "religión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 313,
+    "swahili": "vyombo vya habari",
+    "english": "media",
+    "spanish": "medios de comunicación",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 314,
+    "swahili": "habari",
+    "english": "news",
+    "spanish": "noticias",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 315,
+    "swahili": "mwandishi wa habari",
+    "english": "journalist",
+    "spanish": "periodista",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 316,
+    "swahili": "maoni",
+    "english": "opinion",
+    "spanish": "opinión",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 317,
+    "swahili": "maandamano",
+    "english": "protest",
+    "spanish": "protesta",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 318,
+    "swahili": "kura",
+    "english": "vote",
+    "spanish": "voto",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 319,
+    "swahili": "taka",
+    "english": "waste",
+    "spanish": "residuos",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 320,
+    "swahili": "msitu",
+    "english": "forest",
+    "spanish": "bosque",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 321,
+    "swahili": "bahari",
+    "english": "ocean",
+    "spanish": "océano",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 322,
+    "swahili": "mafuriko",
+    "english": "flood",
+    "spanish": "inundación",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 323,
+    "swahili": "ukame",
+    "english": "drought",
+    "spanish": "sequía",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 324,
+    "swahili": "spishi",
+    "english": "species",
+    "spanish": "especie",
+    "category": "environment",
+    "level": "B1"
+  },
+  {
+    "id": 325,
+    "swahili": "matibabu",
+    "english": "treatment",
+    "spanish": "tratamiento",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 326,
+    "swahili": "dalili",
+    "english": "symptom",
+    "spanish": "síntoma",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 327,
+    "swahili": "cheti cha dawa",
+    "english": "prescription",
+    "spanish": "receta médica",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 328,
+    "swahili": "bima",
+    "english": "insurance",
+    "spanish": "seguro",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 329,
+    "swahili": "lishe",
+    "english": "diet",
+    "spanish": "dieta",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 330,
+    "swahili": "msongo wa mawazo",
+    "english": "stress",
+    "spanish": "estrés",
+    "category": "health",
+    "level": "B1"
+  },
+  {
+    "id": 331,
+    "swahili": "programu",
+    "english": "software",
+    "spanish": "software",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 332,
+    "swahili": "maunzi",
+    "english": "hardware",
+    "spanish": "hardware",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 333,
+    "swahili": "mtandao",
+    "english": "network",
+    "spanish": "red",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 334,
+    "swahili": "seva",
+    "english": "server",
+    "spanish": "servidor",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 335,
+    "swahili": "hifadhidata",
+    "english": "database",
+    "spanish": "base de datos",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 336,
+    "swahili": "usimbaji fiche",
+    "english": "encryption",
+    "spanish": "cifrado",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 337,
+    "swahili": "kifaa",
+    "english": "device",
+    "spanish": "dispositivo",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 338,
+    "swahili": "programu tumizi",
+    "english": "application",
+    "spanish": "aplicación",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 339,
+    "swahili": "jukwaa",
+    "english": "platform",
+    "spanish": "plataforma",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 340,
+    "swahili": "pepe",
+    "english": "virtual",
+    "spanish": "virtual",
+    "category": "technology",
+    "level": "B2"
+  },
+  {
+    "id": 341,
+    "swahili": "faida",
+    "english": "profit",
+    "spanish": "beneficio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 342,
+    "swahili": "bajeti",
+    "english": "budget",
+    "spanish": "presupuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 343,
+    "swahili": "kodi",
+    "english": "tax",
+    "spanish": "impuesto",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 344,
+    "swahili": "mfumuko wa bei",
+    "english": "inflation",
+    "spanish": "inflación",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 345,
+    "swahili": "biashara",
+    "english": "trade",
+    "spanish": "comercio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 346,
+    "swahili": "sarafu",
+    "english": "currency",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 347,
+    "swahili": "ugavi",
+    "english": "supply",
+    "spanish": "oferta",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 348,
+    "swahili": "mfumo",
+    "english": "framework",
+    "spanish": "marco",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 349,
+    "swahili": "kigezo",
+    "english": "criterion",
+    "spanish": "criterio",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 350,
+    "swahili": "paradigma",
+    "english": "paradigm",
+    "spanish": "paradigma",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 351,
+    "swahili": "dhana",
+    "english": "notion",
+    "spanish": "noción",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 352,
+    "swahili": "nadharia",
+    "english": "hypothesis",
+    "spanish": "hipótesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 353,
+    "swahili": "makubaliano",
+    "english": "consensus",
+    "spanish": "consenso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 354,
+    "swahili": "utata",
+    "english": "ambiguity",
+    "spanish": "ambigüedad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 355,
+    "swahili": "kugawa",
+    "english": "to allocate",
+    "spanish": "asignar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 356,
+    "swahili": "kutekeleza",
+    "english": "to implement",
+    "spanish": "implementar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 357,
+    "swahili": "kuunganisha",
+    "english": "to integrate",
+    "spanish": "integrar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 358,
+    "swahili": "kuboresha",
+    "english": "to optimize",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 359,
+    "swahili": "kuweka kipaumbele",
+    "english": "to prioritize",
+    "spanish": "priorizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 360,
+    "swahili": "kuthibitisha",
+    "english": "to validate",
+    "spanish": "validar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 361,
+    "swahili": "ndege",
+    "english": "bird",
+    "spanish": "pájaro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "swahili": "farasi",
+    "english": "horse",
+    "spanish": "caballo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "swahili": "ng'ombe",
+    "english": "cow",
+    "spanish": "vaca",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "swahili": "nguruwe",
+    "english": "pig",
+    "spanish": "cerdo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "swahili": "kuku",
+    "english": "chicken",
+    "spanish": "pollo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "swahili": "panya",
+    "english": "mouse",
+    "spanish": "ratón",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "swahili": "sungura",
+    "english": "rabbit",
+    "spanish": "conejo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "swahili": "kondoo",
+    "english": "sheep",
+    "spanish": "oveja",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "swahili": "bata",
+    "english": "duck",
+    "spanish": "pato",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "swahili": "simba",
+    "english": "lion",
+    "spanish": "león",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "swahili": "mwezi",
+    "english": "moon",
+    "spanish": "luna",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "swahili": "nyota",
+    "english": "star",
+    "spanish": "estrella",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "swahili": "wingu",
+    "english": "cloud",
+    "spanish": "nube",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "swahili": "upepo",
+    "english": "wind",
+    "spanish": "viento",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "swahili": "theluji",
+    "english": "snow",
+    "spanish": "nieve",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "swahili": "barafu",
+    "english": "ice",
+    "spanish": "hielo",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "swahili": "moto",
+    "english": "fire",
+    "spanish": "fuego",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "swahili": "jiwe",
+    "english": "stone",
+    "spanish": "piedra",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "swahili": "kwanza",
+    "english": "first",
+    "spanish": "primero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "swahili": "pili",
+    "english": "second",
+    "spanish": "segundo",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "swahili": "tatu",
+    "english": "third",
+    "spanish": "tercero",
+    "category": "numbers",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "swahili": "mwisho",
+    "english": "last",
+    "spanish": "último",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "swahili": "ijayo",
+    "english": "next",
+    "spanish": "siguiente",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "swahili": "tena",
+    "english": "again",
+    "spanish": "otra vez",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "swahili": "kuona",
+    "english": "to see",
+    "spanish": "ver",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "swahili": "kusikia",
+    "english": "to hear",
+    "spanish": "oír",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "swahili": "kujua",
+    "english": "to know",
+    "spanish": "saber",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "swahili": "kufikiri",
+    "english": "to think",
+    "spanish": "pensar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "swahili": "kutoa",
+    "english": "to give",
+    "spanish": "dar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "swahili": "kuchukua",
+    "english": "to take",
+    "spanish": "tomar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "swahili": "mwalimu",
+    "english": "teacher",
+    "spanish": "profesor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 392,
+    "swahili": "mhandisi",
+    "english": "engineer",
+    "spanish": "ingeniero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 393,
+    "swahili": "muuguzi",
+    "english": "nurse",
+    "spanish": "enfermero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 394,
+    "swahili": "wakili",
+    "english": "lawyer",
+    "spanish": "abogado",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 395,
+    "swahili": "mpishi",
+    "english": "chef",
+    "spanish": "chef",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 396,
+    "swahili": "dereva",
+    "english": "driver",
+    "spanish": "conductor",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 397,
+    "swahili": "mkulima",
+    "english": "farmer",
+    "spanish": "granjero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 398,
+    "swahili": "polisi",
+    "english": "police officer",
+    "spanish": "policía",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 399,
+    "swahili": "mhudumu",
+    "english": "waiter",
+    "spanish": "camarero",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 400,
+    "swahili": "msanii",
+    "english": "artist",
+    "spanish": "artista",
+    "category": "work",
+    "level": "A2"
+  },
+  {
+    "id": 401,
+    "swahili": "kanisa",
+    "english": "church",
+    "spanish": "iglesia",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 402,
+    "swahili": "jumba la makumbusho",
+    "english": "museum",
+    "spanish": "museo",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 403,
+    "swahili": "maktaba",
+    "english": "library",
+    "spanish": "biblioteca",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 404,
+    "swahili": "ukumbi wa michezo",
+    "english": "theatre",
+    "spanish": "teatro",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 405,
+    "swahili": "daraja",
+    "english": "bridge",
+    "spanish": "puente",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 406,
+    "swahili": "uwanja",
+    "english": "square",
+    "spanish": "plaza",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 407,
+    "swahili": "kiwanda",
+    "english": "factory",
+    "spanish": "fábrica",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 408,
+    "swahili": "ofisi",
+    "english": "office",
+    "spanish": "oficina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 409,
+    "swahili": "kuchemsha",
+    "english": "to boil",
+    "spanish": "hervir",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 410,
+    "swahili": "kukaanga",
+    "english": "to fry",
+    "spanish": "freír",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 411,
+    "swahili": "kuoka",
+    "english": "to bake",
+    "spanish": "hornear",
+    "category": "verbs",
+    "level": "A2"
+  },
+  {
+    "id": 412,
+    "swahili": "kisu",
+    "english": "knife",
+    "spanish": "cuchillo",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 413,
+    "swahili": "kijiko",
+    "english": "spoon",
+    "spanish": "cuchara",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 414,
+    "swahili": "uma",
+    "english": "fork",
+    "spanish": "tenedor",
+    "category": "house",
+    "level": "A2"
+  },
+  {
+    "id": 415,
+    "swahili": "kupaka rangi",
+    "english": "to paint",
+    "spanish": "pintar",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 416,
+    "swahili": "upigaji picha",
+    "english": "photography",
+    "spanish": "fotografía",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 417,
+    "swahili": "sataranji",
+    "english": "chess",
+    "spanish": "ajedrez",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 418,
+    "swahili": "kupiga kambi",
+    "english": "camping",
+    "spanish": "acampada",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 419,
+    "swahili": "uvuvi",
+    "english": "fishing",
+    "spanish": "pesca",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 420,
+    "swahili": "kutunza bustani",
+    "english": "gardening",
+    "spanish": "jardinería",
+    "category": "hobbies",
+    "level": "A2"
+  },
+  {
+    "id": 421,
+    "swahili": "ujasiri",
+    "english": "courage",
+    "spanish": "valor",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 422,
+    "swahili": "uvumilivu",
+    "english": "patience",
+    "spanish": "paciencia",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 423,
+    "swahili": "uaminifu",
+    "english": "honesty",
+    "spanish": "honestidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 424,
+    "swahili": "hekima",
+    "english": "wisdom",
+    "spanish": "sabiduría",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 425,
+    "swahili": "wema",
+    "english": "kindness",
+    "spanish": "amabilidad",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 426,
+    "swahili": "heshima",
+    "english": "respect",
+    "spanish": "respeto",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 427,
+    "swahili": "imani",
+    "english": "trust",
+    "spanish": "confianza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 428,
+    "swahili": "fahari",
+    "english": "pride",
+    "spanish": "orgullo",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 429,
+    "swahili": "aibu",
+    "english": "shame",
+    "spanish": "vergüenza",
+    "category": "nouns",
+    "level": "B1"
+  },
+  {
+    "id": 430,
+    "swahili": "hasira",
+    "english": "anger",
+    "spanish": "ira",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 431,
+    "swahili": "mteja",
+    "english": "customer",
+    "spanish": "cliente",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 432,
+    "swahili": "msambazaji",
+    "english": "supplier",
+    "spanish": "proveedor",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 433,
+    "swahili": "chapa",
+    "english": "brand",
+    "spanish": "marca",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 434,
+    "swahili": "masoko",
+    "english": "marketing",
+    "spanish": "marketing",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 435,
+    "swahili": "ankara",
+    "english": "invoice",
+    "spanish": "factura",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 436,
+    "swahili": "ghala",
+    "english": "warehouse",
+    "spanish": "almacén",
+    "category": "work",
+    "level": "B1"
+  },
+  {
+    "id": 437,
+    "swahili": "rejareja",
+    "english": "retail",
+    "spanish": "comercio minorista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 438,
+    "swahili": "mwenye hisa",
+    "english": "shareholder",
+    "spanish": "accionista",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 439,
+    "swahili": "katiba",
+    "english": "constitution",
+    "spanish": "constitución",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 440,
+    "swahili": "bunge",
+    "english": "parliament",
+    "spanish": "parlamento",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 441,
+    "swahili": "waziri",
+    "english": "minister",
+    "spanish": "ministro",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 442,
+    "swahili": "mahakama",
+    "english": "court",
+    "spanish": "tribunal",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 443,
+    "swahili": "jaji",
+    "english": "judge",
+    "spanish": "juez",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 444,
+    "swahili": "hukumu",
+    "english": "sentence",
+    "spanish": "sentencia",
+    "category": "society",
+    "level": "B1"
+  },
+  {
+    "id": 445,
+    "swahili": "molekuli",
+    "english": "molecule",
+    "spanish": "molécula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 446,
+    "swahili": "atomu",
+    "english": "atom",
+    "spanish": "átomo",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 447,
+    "swahili": "mvuto",
+    "english": "gravity",
+    "spanish": "gravedad",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 448,
+    "swahili": "seli",
+    "english": "cell",
+    "spanish": "célula",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 449,
+    "swahili": "maabara",
+    "english": "laboratory",
+    "spanish": "laboratorio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 450,
+    "swahili": "hadubini",
+    "english": "microscope",
+    "spanish": "microscopio",
+    "category": "science",
+    "level": "B1"
+  },
+  {
+    "id": 451,
+    "swahili": "usanisi",
+    "english": "synthesis",
+    "spanish": "síntesis",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 452,
+    "swahili": "mbinu",
+    "english": "methodology",
+    "spanish": "metodología",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 453,
+    "swahili": "uhusiano",
+    "english": "correlation",
+    "spanish": "correlación",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 454,
+    "swahili": "kigezo",
+    "english": "variable",
+    "spanish": "variable",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 455,
+    "swahili": "kimajaribio",
+    "english": "empirical",
+    "spanish": "empírico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 456,
+    "swahili": "kiasi",
+    "english": "quantitative",
+    "spanish": "cuantitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 457,
+    "swahili": "ubora",
+    "english": "qualitative",
+    "spanish": "cualitativo",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 458,
+    "swahili": "madaraja",
+    "english": "hierarchy",
+    "spanish": "jerarquía",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 459,
+    "swahili": "mazungumzo",
+    "english": "discourse",
+    "spanish": "discurso",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 460,
+    "swahili": "balagha",
+    "english": "rhetoric",
+    "spanish": "retórica",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 461,
+    "swahili": "sheria",
+    "english": "legislation",
+    "spanish": "legislación",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 462,
+    "swahili": "hukumu",
+    "english": "verdict",
+    "spanish": "veredicto",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 463,
+    "swahili": "mlalamikaji",
+    "english": "plaintiff",
+    "spanish": "demandante",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 464,
+    "swahili": "mshtakiwa",
+    "english": "defendant",
+    "spanish": "demandado",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 465,
+    "swahili": "kanuni",
+    "english": "regulation",
+    "spanish": "reglamento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 466,
+    "swahili": "ufuataji",
+    "english": "compliance",
+    "spanish": "cumplimiento",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 467,
+    "swahili": "dhima",
+    "english": "liability",
+    "spanish": "responsabilidad",
+    "category": "society",
+    "level": "B2"
+  },
+  {
+    "id": 468,
+    "swahili": "utambuzi",
+    "english": "diagnosis",
+    "spanish": "diagnóstico",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 469,
+    "swahili": "tiba",
+    "english": "therapy",
+    "spanish": "terapia",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 470,
+    "swahili": "chanjo",
+    "english": "vaccine",
+    "spanish": "vacuna",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 471,
+    "swahili": "sugu",
+    "english": "chronic",
+    "spanish": "crónico",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 472,
+    "swahili": "maambukizi",
+    "english": "infection",
+    "spanish": "infección",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 473,
+    "swahili": "kinga",
+    "english": "immune",
+    "spanish": "inmune",
+    "category": "adjectives",
+    "level": "B2"
+  },
+  {
+    "id": 474,
+    "swahili": "daktari wa upasuaji",
+    "english": "surgeon",
+    "spanish": "cirujano",
+    "category": "health",
+    "level": "B2"
+  },
+  {
+    "id": 475,
+    "swahili": "kuthibitisha",
+    "english": "to substantiate",
+    "spanish": "fundamentar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 476,
+    "swahili": "kufafanua",
+    "english": "to delineate",
+    "spanish": "delimitar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 477,
+    "swahili": "kukadiria",
+    "english": "to extrapolate",
+    "spanish": "extrapolar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 478,
+    "swahili": "kupatanisha",
+    "english": "to reconcile",
+    "spanish": "reconciliar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 479,
+    "swahili": "kuchunguza",
+    "english": "to scrutinize",
+    "spanish": "escudriñar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 480,
+    "swahili": "kurahisisha",
+    "english": "to streamline",
+    "spanish": "optimizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 481,
+    "swahili": "shati",
+    "english": "shirt",
+    "spanish": "camisa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 482,
+    "swahili": "suruali",
+    "english": "trousers",
+    "spanish": "pantalones",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 483,
+    "swahili": "gauni",
+    "english": "dress",
+    "spanish": "vestido",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 484,
+    "swahili": "sketi",
+    "english": "skirt",
+    "spanish": "falda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 485,
+    "swahili": "kofia",
+    "english": "hat",
+    "spanish": "sombrero",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 486,
+    "swahili": "skafu",
+    "english": "scarf",
+    "spanish": "bufanda",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "swahili": "glavu",
+    "english": "gloves",
+    "spanish": "guantes",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "swahili": "soksi",
+    "english": "socks",
+    "spanish": "calcetines",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "swahili": "koti",
+    "english": "jacket",
+    "spanish": "chaqueta",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "swahili": "buti",
+    "english": "boot",
+    "spanish": "bota",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 491,
+    "swahili": "juisi",
+    "english": "juice",
+    "spanish": "zumo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 492,
+    "swahili": "divai",
+    "english": "wine",
+    "spanish": "vino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 493,
+    "swahili": "bia",
+    "english": "beer",
+    "spanish": "cerveza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 494,
+    "swahili": "keki",
+    "english": "cake",
+    "spanish": "pastel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 495,
+    "swahili": "chokoleti",
+    "english": "chocolate",
+    "spanish": "chocolate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "swahili": "aiskrimu",
+    "english": "ice cream",
+    "spanish": "helado",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "swahili": "wali",
+    "english": "rice",
+    "spanish": "arroz",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "swahili": "ndizi",
+    "english": "banana",
+    "spanish": "plátano",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "swahili": "chungwa",
+    "english": "orange",
+    "spanish": "naranja",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "swahili": "asali",
+    "english": "honey",
+    "spanish": "miel",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "swahili": "kucheza",
+    "english": "to play",
+    "spanish": "jugar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "swahili": "kuuza",
+    "english": "to sell",
+    "spanish": "vender",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "swahili": "kupenda",
+    "english": "to love",
+    "spanish": "amar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "swahili": "kudansi",
+    "english": "to dance",
+    "spanish": "bailar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "swahili": "kuruka",
+    "english": "to jump",
+    "spanish": "saltar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "swahili": "kushinda",
+    "english": "to win",
+    "spanish": "ganar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "swahili": "ngumu",
+    "english": "hard",
+    "spanish": "duro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "swahili": "laini",
+    "english": "soft",
+    "spanish": "blando",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "swahili": "nzito",
+    "english": "heavy",
+    "spanish": "pesado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "swahili": "nyepesi",
+    "english": "light",
+    "spanish": "ligero",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "swahili": "hisabati",
+    "english": "mathematics",
+    "spanish": "matemáticas",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 512,
+    "swahili": "historia",
+    "english": "history",
+    "spanish": "historia",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 513,
+    "swahili": "jiografia",
+    "english": "geography",
+    "spanish": "geografía",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 514,
+    "swahili": "biolojia",
+    "english": "biology",
+    "spanish": "biología",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 515,
+    "swahili": "kemia",
+    "english": "chemistry",
+    "spanish": "química",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 516,
+    "swahili": "fizikia",
+    "english": "physics",
+    "spanish": "física",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 517,
+    "swahili": "fasihi",
+    "english": "literature",
+    "spanish": "literatura",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 518,
+    "swahili": "sanaa",
+    "english": "art",
+    "spanish": "arte",
+    "category": "education",
+    "level": "A2"
+  },
+  {
+    "id": 519,
+    "swahili": "mgongo",
+    "english": "back",
+    "spanish": "espalda",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 520,
+    "swahili": "bega",
+    "english": "shoulder",
+    "spanish": "hombro",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 521,
+    "swahili": "goti",
+    "english": "knee",
+    "spanish": "rodilla",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 522,
+    "swahili": "kidole",
+    "english": "finger",
+    "spanish": "dedo",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 523,
+    "swahili": "jino",
+    "english": "tooth",
+    "spanish": "diente",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 524,
+    "swahili": "tumbo",
+    "english": "stomach",
+    "spanish": "estómago",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 525,
+    "swahili": "moyo",
+    "english": "heart",
+    "spanish": "corazón",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 526,
+    "swahili": "damu",
+    "english": "blood",
+    "spanish": "sangre",
+    "category": "body",
+    "level": "A2"
+  },
+  {
+    "id": 527,
+    "swahili": "dhoruba",
+    "english": "storm",
+    "spanish": "tormenta",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 528,
+    "swahili": "ngurumo",
+    "english": "thunder",
+    "spanish": "trueno",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 529,
+    "swahili": "radi",
+    "english": "lightning",
+    "spanish": "rayo",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 530,
+    "swahili": "upinde wa mvua",
+    "english": "rainbow",
+    "spanish": "arcoíris",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 531,
+    "swahili": "ukungu",
+    "english": "fog",
+    "spanish": "niebla",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 532,
+    "swahili": "joto",
+    "english": "heat",
+    "spanish": "calor",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 533,
+    "swahili": "kivuli",
+    "english": "shadow",
+    "spanish": "sombra",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 534,
+    "swahili": "bonde",
+    "english": "valley",
+    "spanish": "valle",
+    "category": "nature",
+    "level": "A2"
+  },
+  {
+    "id": 535,
+    "swahili": "metro",
+    "english": "metro",
+    "spanish": "metro",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 536,
+    "swahili": "taa ya trafiki",
+    "english": "traffic light",
+    "spanish": "semáforo",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 537,
+    "swahili": "maegesho",
+    "english": "parking",
+    "spanish": "aparcamiento",
+    "category": "transport",
+    "level": "A2"
+  },
+  {
+    "id": 538,
+    "swahili": "kona",
+    "english": "corner",
+    "spanish": "esquina",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 539,
+    "swahili": "kivuko cha miguu",
+    "english": "crossing",
+    "spanish": "paso de peatones",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 540,
+    "swahili": "njia ya miguu",
+    "english": "pavement",
+    "spanish": "acera",
+    "category": "city",
+    "level": "A2"
+  },
+  {
+    "id": 541,
+    "swahili": "riwaya",
+    "english": "novel",
+    "spanish": "novela",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 542,
+    "swahili": "shairi",
+    "english": "poem",
+    "spanish": "poema",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 543,
+    "swahili": "mchoro",
+    "english": "painting",
+    "spanish": "cuadro",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 544,
+    "swahili": "sanamu",
+    "english": "sculpture",
+    "spanish": "escultura",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 545,
+    "swahili": "tamasha",
+    "english": "concert",
+    "spanish": "concierto",
+    "category": "music",
+    "level": "B1"
+  },
+  {
+    "id": 546,
+    "swahili": "maonyesho",
+    "english": "exhibition",
+    "spanish": "exposición",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 547,
+    "swahili": "hadhira",
+    "english": "audience",
+    "spanish": "público",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 548,
+    "swahili": "jukwaa",
+    "english": "stage",
+    "spanish": "escenario",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 549,
+    "swahili": "mwigizaji",
+    "english": "actor",
+    "spanish": "actor",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 550,
+    "swahili": "mwongozaji",
+    "english": "director",
+    "spanish": "director",
+    "category": "arts",
+    "level": "B1"
+  },
+  {
+    "id": 551,
+    "swahili": "nenosiri",
+    "english": "password",
+    "spanish": "contraseña",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 552,
+    "swahili": "upakuaji",
+    "english": "download",
+    "spanish": "descarga",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 553,
+    "swahili": "kupakia",
+    "english": "upload",
+    "spanish": "subida",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 554,
+    "swahili": "tovuti",
+    "english": "website",
+    "spanish": "sitio web",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 555,
+    "swahili": "barua pepe",
+    "english": "email",
+    "spanish": "correo electrónico",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 556,
+    "swahili": "ujumbe",
+    "english": "message",
+    "spanish": "mensaje",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 557,
+    "swahili": "skrini",
+    "english": "screen",
+    "spanish": "pantalla",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 558,
+    "swahili": "kibodi",
+    "english": "keyboard",
+    "spanish": "teclado",
+    "category": "technology",
+    "level": "B1"
+  },
+  {
+    "id": 559,
+    "swahili": "mkopo",
+    "english": "loan",
+    "spanish": "préstamo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 560,
+    "swahili": "akiba",
+    "english": "savings",
+    "spanish": "ahorros",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 561,
+    "swahili": "pochi",
+    "english": "wallet",
+    "spanish": "cartera",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 562,
+    "swahili": "risiti",
+    "english": "receipt",
+    "spanish": "recibo",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 563,
+    "swahili": "chenji",
+    "english": "change",
+    "spanish": "cambio (dinero)",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 564,
+    "swahili": "sarafu",
+    "english": "coin",
+    "spanish": "moneda",
+    "category": "money",
+    "level": "B1"
+  },
+  {
+    "id": 565,
+    "swahili": "faraja",
+    "english": "relief",
+    "spanish": "alivio",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 566,
+    "swahili": "shukrani",
+    "english": "gratitude",
+    "spanish": "gratitud",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 567,
+    "swahili": "wivu",
+    "english": "envy",
+    "spanish": "envidia",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 568,
+    "swahili": "hatia",
+    "english": "guilt",
+    "spanish": "culpa",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 569,
+    "swahili": "udadisi",
+    "english": "curiosity",
+    "spanish": "curiosidad",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 570,
+    "swahili": "shauku",
+    "english": "enthusiasm",
+    "spanish": "entusiasmo",
+    "category": "emotions",
+    "level": "B1"
+  },
+  {
+    "id": 571,
+    "swahili": "maadili",
+    "english": "ethics",
+    "spanish": "ética",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 572,
+    "swahili": "maadili",
+    "english": "morality",
+    "spanish": "moralidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 573,
+    "swahili": "utambulisho",
+    "english": "identity",
+    "spanish": "identidad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 574,
+    "swahili": "ufahamu",
+    "english": "consciousness",
+    "spanish": "conciencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 575,
+    "swahili": "uwepo",
+    "english": "existence",
+    "spanish": "existencia",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 576,
+    "swahili": "ukweli",
+    "english": "truth",
+    "spanish": "verdad",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 577,
+    "swahili": "fadhila",
+    "english": "virtue",
+    "spanish": "virtud",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 578,
+    "swahili": "kitendawili",
+    "english": "paradox",
+    "spanish": "paradoja",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 579,
+    "swahili": "mtanziko",
+    "english": "dilemma",
+    "spanish": "dilema",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 580,
+    "swahili": "ushaka",
+    "english": "scepticism",
+    "spanish": "escepticismo",
+    "category": "nouns",
+    "level": "B2"
+  },
+  {
+    "id": 581,
+    "swahili": "muunganisho",
+    "english": "merger",
+    "spanish": "fusión",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 582,
+    "swahili": "ufilisi",
+    "english": "bankruptcy",
+    "spanish": "quiebra",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 583,
+    "swahili": "ukiritimba",
+    "english": "monopoly",
+    "spanish": "monopolio",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 584,
+    "swahili": "ruzuku",
+    "english": "subsidy",
+    "spanish": "subvención",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 585,
+    "swahili": "ushuru",
+    "english": "tariff",
+    "spanish": "arancel",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 586,
+    "swahili": "mgawo",
+    "english": "quota",
+    "spanish": "cupo",
+    "category": "money",
+    "level": "B2"
+  },
+  {
+    "id": 587,
+    "swahili": "mjasiriamali",
+    "english": "entrepreneur",
+    "spanish": "empresario",
+    "category": "work",
+    "level": "B2"
+  },
+  {
+    "id": 588,
+    "swahili": "utoaji",
+    "english": "emission",
+    "spanish": "emisión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 589,
+    "swahili": "kaboni",
+    "english": "carbon",
+    "spanish": "carbono",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 590,
+    "swahili": "bioanuai",
+    "english": "biodiversity",
+    "spanish": "biodiversidad",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 591,
+    "swahili": "ukataji miti",
+    "english": "deforestation",
+    "spanish": "deforestación",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 592,
+    "swahili": "mfumo wa ikolojia",
+    "english": "ecosystem",
+    "spanish": "ecosistema",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 593,
+    "swahili": "makazi",
+    "english": "habitat",
+    "spanish": "hábitat",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 594,
+    "swahili": "mmomonyoko",
+    "english": "erosion",
+    "spanish": "erosión",
+    "category": "environment",
+    "level": "B2"
+  },
+  {
+    "id": 595,
+    "swahili": "kutamka",
+    "english": "to articulate",
+    "spanish": "articular",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 596,
+    "swahili": "kukwepa",
+    "english": "to circumvent",
+    "spanish": "eludir",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 597,
+    "swahili": "kuimarisha",
+    "english": "to consolidate",
+    "spanish": "consolidar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 598,
+    "swahili": "kuzorota",
+    "english": "to deteriorate",
+    "spanish": "deteriorarse",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 599,
+    "swahili": "kuzidisha",
+    "english": "to exacerbate",
+    "spanish": "agravar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 600,
+    "swahili": "kuzuia",
+    "english": "to hinder",
+    "spanish": "obstaculizar",
+    "category": "verbs",
+    "level": "B2"
+  },
+  {
+    "id": 601,
+    "swahili": "chai",
+    "english": "tea",
+    "spanish": "té",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 602,
+    "swahili": "siagi",
+    "english": "butter",
+    "spanish": "mantequilla",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 603,
+    "swahili": "mtindi",
+    "english": "yogurt",
+    "spanish": "yogur",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 604,
+    "swahili": "kiazi",
+    "english": "potato",
+    "spanish": "patata",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 605,
+    "swahili": "nyanya",
+    "english": "tomato",
+    "spanish": "tomate",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 606,
+    "swahili": "kitunguu",
+    "english": "onion",
+    "spanish": "cebolla",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 607,
+    "swahili": "karoti",
+    "english": "carrot",
+    "spanish": "zanahoria",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 608,
+    "swahili": "stroberi",
+    "english": "strawberry",
+    "spanish": "fresa",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 609,
+    "swahili": "limau",
+    "english": "lemon",
+    "spanish": "limón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 610,
+    "swahili": "zabibu",
+    "english": "grape",
+    "spanish": "uva",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 611,
+    "swahili": "pera",
+    "english": "pear",
+    "spanish": "pera",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 612,
+    "swahili": "pichi",
+    "english": "peach",
+    "spanish": "melocotón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 613,
+    "swahili": "tikitimaji",
+    "english": "watermelon",
+    "spanish": "sandía",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 614,
+    "swahili": "uyoga",
+    "english": "mushroom",
+    "spanish": "champiñón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 615,
+    "swahili": "pilipili",
+    "english": "pepper",
+    "spanish": "pimienta",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 616,
+    "swahili": "kitunguu saumu",
+    "english": "garlic",
+    "spanish": "ajo",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 617,
+    "swahili": "mahindi",
+    "english": "corn",
+    "spanish": "maíz",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 618,
+    "swahili": "haragwe",
+    "english": "bean",
+    "spanish": "judía",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 619,
+    "swahili": "kokwa",
+    "english": "nut",
+    "spanish": "fruto seco",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 620,
+    "swahili": "sandwichi",
+    "english": "sandwich",
+    "spanish": "sándwich",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 621,
+    "swahili": "sofa",
+    "english": "sofa",
+    "spanish": "sofá",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 622,
+    "swahili": "rafu",
+    "english": "shelf",
+    "spanish": "estante",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 623,
+    "swahili": "kioo",
+    "english": "mirror",
+    "spanish": "espejo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 624,
+    "swahili": "saa",
+    "english": "clock",
+    "spanish": "reloj",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 625,
+    "swahili": "mto",
+    "english": "pillow",
+    "spanish": "almohada",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 626,
+    "swahili": "blanketi",
+    "english": "blanket",
+    "spanish": "manta",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 627,
+    "swahili": "zulia",
+    "english": "carpet",
+    "spanish": "alfombra",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 628,
+    "swahili": "jokofu",
+    "english": "fridge",
+    "spanish": "nevera",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 629,
+    "swahili": "tanuri",
+    "english": "oven",
+    "spanish": "horno",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 630,
+    "swahili": "sahani",
+    "english": "plate",
+    "spanish": "plato",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 631,
+    "swahili": "kikombe",
+    "english": "cup",
+    "spanish": "taza",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 632,
+    "swahili": "glasi",
+    "english": "glass",
+    "spanish": "vaso",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 633,
+    "swahili": "bakuli",
+    "english": "bowl",
+    "spanish": "bol",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 634,
+    "swahili": "chupa",
+    "english": "bottle",
+    "spanish": "botella",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 635,
+    "swahili": "taulo",
+    "english": "towel",
+    "spanish": "toalla",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 636,
+    "swahili": "tembo",
+    "english": "elephant",
+    "spanish": "elefante",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 637,
+    "swahili": "tumbili",
+    "english": "monkey",
+    "spanish": "mono",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 638,
+    "swahili": "simba marara",
+    "english": "tiger",
+    "spanish": "tigre",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 639,
+    "swahili": "dubu",
+    "english": "bear",
+    "spanish": "oso",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 640,
+    "swahili": "mbwa mwitu",
+    "english": "wolf",
+    "spanish": "lobo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 641,
+    "swahili": "mbweha",
+    "english": "fox",
+    "spanish": "zorro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 642,
+    "swahili": "chura",
+    "english": "frog",
+    "spanish": "rana",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 643,
+    "swahili": "nyoka",
+    "english": "snake",
+    "spanish": "serpiente",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 644,
+    "swahili": "kipepeo",
+    "english": "butterfly",
+    "spanish": "mariposa",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 645,
+    "swahili": "nyuki",
+    "english": "bee",
+    "spanish": "abeja",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 646,
+    "swahili": "safi",
+    "english": "clean",
+    "spanish": "limpio",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 647,
+    "swahili": "chafu",
+    "english": "dirty",
+    "spanish": "sucio",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 648,
+    "swahili": "rahisi",
+    "english": "easy",
+    "spanish": "fácil",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 649,
+    "swahili": "ngumu",
+    "english": "difficult",
+    "spanish": "difícil",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 650,
+    "swahili": "haraka",
+    "english": "fast",
+    "spanish": "rápido",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 651,
+    "swahili": "kutembea",
+    "english": "to walk",
+    "spanish": "caminar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 652,
+    "swahili": "kuendesha",
+    "english": "to drive",
+    "spanish": "conducir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 653,
+    "swahili": "kuruka",
+    "english": "to fly",
+    "spanish": "volar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 654,
+    "swahili": "kukaa",
+    "english": "to sit",
+    "spanish": "sentarse",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 655,
+    "swahili": "kusimama",
+    "english": "to stand",
+    "spanish": "estar de pie",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 656,
+    "swahili": "kuja",
+    "english": "to come",
+    "spanish": "venir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 657,
+    "swahili": "kutaka",
+    "english": "to want",
+    "spanish": "querer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 658,
+    "swahili": "kuhitaji",
+    "english": "to need",
+    "spanish": "necesitar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 659,
+    "swahili": "kupenda",
+    "english": "to like",
+    "spanish": "gustar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 660,
+    "swahili": "kujibu",
+    "english": "to answer",
+    "spanish": "responder",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 661,
+    "swahili": "kuuliza",
+    "english": "to ask",
+    "spanish": "preguntar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 662,
+    "swahili": "kuita",
+    "english": "to call",
+    "spanish": "llamar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 663,
+    "swahili": "kubeba",
+    "english": "to carry",
+    "spanish": "llevar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 664,
+    "swahili": "kukamata",
+    "english": "to catch",
+    "spanish": "atrapar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 665,
+    "swahili": "kupanda",
+    "english": "to climb",
+    "spanish": "subir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 666,
+    "swahili": "kulia",
+    "english": "to cry",
+    "spanish": "llorar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 667,
+    "swahili": "kukata",
+    "english": "to cut",
+    "spanish": "cortar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 668,
+    "swahili": "kuchora",
+    "english": "to draw",
+    "spanish": "dibujar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 669,
+    "swahili": "kuota",
+    "english": "to dream",
+    "spanish": "soñar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 670,
+    "swahili": "kuanguka",
+    "english": "to fall",
+    "spanish": "caer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 671,
+    "swahili": "kuhisi",
+    "english": "to feel",
+    "spanish": "sentir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 672,
+    "swahili": "kupata",
+    "english": "to find",
+    "spanish": "encontrar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 673,
+    "swahili": "kusahau",
+    "english": "to forget",
+    "spanish": "olvidar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 674,
+    "swahili": "kukua",
+    "english": "to grow",
+    "spanish": "crecer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 675,
+    "swahili": "kutokea",
+    "english": "to happen",
+    "spanish": "suceder",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 676,
+    "swahili": "kushika",
+    "english": "to hold",
+    "spanish": "sostener",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 677,
+    "swahili": "kutunza",
+    "english": "to keep",
+    "spanish": "guardar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 678,
+    "swahili": "kucheka",
+    "english": "to laugh",
+    "spanish": "reír",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 679,
+    "swahili": "kuondoka",
+    "english": "to leave",
+    "spanish": "salir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 680,
+    "swahili": "kuangalia",
+    "english": "to look",
+    "spanish": "mirar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 681,
+    "swahili": "kupoteza",
+    "english": "to lose",
+    "spanish": "perder",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 682,
+    "swahili": "kufanya",
+    "english": "to make",
+    "spanish": "hacer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 683,
+    "swahili": "kukutana",
+    "english": "to meet",
+    "spanish": "conocer",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 684,
+    "swahili": "kusonga",
+    "english": "to move",
+    "spanish": "mover",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 685,
+    "swahili": "kulipa",
+    "english": "to pay",
+    "spanish": "pagar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 686,
+    "swahili": "kuweka",
+    "english": "to put",
+    "spanish": "poner",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 687,
+    "swahili": "kukumbuka",
+    "english": "to remember",
+    "spanish": "recordar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 688,
+    "swahili": "kurudia",
+    "english": "to repeat",
+    "spanish": "repetir",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 689,
+    "swahili": "kutuma",
+    "english": "to send",
+    "spanish": "enviar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 690,
+    "swahili": "kuonyesha",
+    "english": "to show",
+    "spanish": "mostrar",
+    "category": "verbs",
+    "level": "A1"
+  },
+  {
+    "id": 691,
+    "swahili": "nzuri",
+    "english": "beautiful",
+    "spanish": "hermoso",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 692,
+    "swahili": "mbaya",
+    "english": "ugly",
+    "spanish": "feo",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 693,
+    "swahili": "imara",
+    "english": "strong",
+    "spanish": "fuerte",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 694,
+    "swahili": "dhaifu",
+    "english": "weak",
+    "spanish": "débil",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 695,
+    "swahili": "tajiri",
+    "english": "rich",
+    "spanish": "rico",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 696,
+    "swahili": "maskini",
+    "english": "poor",
+    "spanish": "pobre",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 697,
+    "swahili": "huzuni",
+    "english": "sad",
+    "spanish": "triste",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 698,
+    "swahili": "chekesha",
+    "english": "funny",
+    "spanish": "divertido",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 699,
+    "swahili": "kimya",
+    "english": "quiet",
+    "spanish": "silencioso",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 700,
+    "swahili": "kelele",
+    "english": "loud",
+    "spanish": "ruidoso",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 701,
+    "swahili": "giza",
+    "english": "dark",
+    "spanish": "oscuro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 702,
+    "swahili": "majimaji",
+    "english": "wet",
+    "spanish": "mojado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 703,
+    "swahili": "kavu",
+    "english": "dry",
+    "spanish": "seco",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 704,
+    "swahili": "kimejaa",
+    "english": "full",
+    "spanish": "lleno",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 705,
+    "swahili": "tupu",
+    "english": "empty",
+    "spanish": "vacío",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 706,
+    "swahili": "joto",
+    "english": "warm",
+    "spanish": "cálido",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 707,
+    "swahili": "baridi",
+    "english": "cool",
+    "spanish": "templado",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 708,
+    "swahili": "salama",
+    "english": "safe",
+    "spanish": "seguro",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 709,
+    "swahili": "hatari",
+    "english": "dangerous",
+    "spanish": "peligroso",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 710,
+    "swahili": "muhimu",
+    "english": "important",
+    "spanish": "importante",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 711,
+    "swahili": "kuvutia",
+    "english": "interesting",
+    "spanish": "interesante",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 712,
+    "swahili": "kuchosha",
+    "english": "boring",
+    "spanish": "aburrido",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 713,
+    "swahili": "kitamu",
+    "english": "delicious",
+    "spanish": "delicioso",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 714,
+    "swahili": "tamu",
+    "english": "sweet",
+    "spanish": "dulce",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 715,
+    "swahili": "bichi",
+    "english": "fresh",
+    "spanish": "fresco",
+    "category": "adjectives",
+    "level": "A1"
+  },
+  {
+    "id": 716,
+    "swahili": "majira ya kuchipua",
+    "english": "spring",
+    "spanish": "primavera",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 717,
+    "swahili": "kiangazi",
+    "english": "summer",
+    "spanish": "verano",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 718,
+    "swahili": "majira ya kupukutika",
+    "english": "autumn",
+    "spanish": "otoño",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 719,
+    "swahili": "majira ya baridi",
+    "english": "winter",
+    "spanish": "invierno",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 720,
+    "swahili": "bahari",
+    "english": "sea",
+    "spanish": "mar",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 721,
+    "swahili": "ziwa",
+    "english": "lake",
+    "spanish": "lago",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 722,
+    "swahili": "kilima",
+    "english": "hill",
+    "spanish": "colina",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 723,
+    "swahili": "shamba",
+    "english": "field",
+    "spanish": "campo",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 724,
+    "swahili": "kisiwa",
+    "english": "island",
+    "spanish": "isla",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 725,
+    "swahili": "mchanga",
+    "english": "sand",
+    "spanish": "arena",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 726,
+    "swahili": "nyasi",
+    "english": "grass",
+    "spanish": "hierba",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 727,
+    "swahili": "jani",
+    "english": "leaf",
+    "spanish": "hoja",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 728,
+    "swahili": "mbegu",
+    "english": "seed",
+    "spanish": "semilla",
+    "category": "nature",
+    "level": "A1"
+  },
+  {
+    "id": 729,
+    "swahili": "halijoto",
+    "english": "temperature",
+    "spanish": "temperatura",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 730,
+    "swahili": "upepo",
+    "english": "breeze",
+    "spanish": "brisa",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 731,
+    "swahili": "mvua ya ghafla",
+    "english": "shower",
+    "spanish": "chaparrón",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 732,
+    "swahili": "ukungu",
+    "english": "mist",
+    "spanish": "neblina",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 733,
+    "swahili": "barafu",
+    "english": "frost",
+    "spanish": "escarcha",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 734,
+    "swahili": "mvua ya mawe",
+    "english": "hail",
+    "spanish": "granizo",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 735,
+    "swahili": "machweo",
+    "english": "sunset",
+    "spanish": "atardecer",
+    "category": "weather",
+    "level": "A1"
+  },
+  {
+    "id": 736,
+    "swahili": "kulungu",
+    "english": "deer",
+    "spanish": "ciervo",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 737,
+    "swahili": "bundi",
+    "english": "owl",
+    "spanish": "búho",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 738,
+    "swahili": "kindi",
+    "english": "squirrel",
+    "spanish": "ardilla",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 739,
+    "swahili": "mbuzi",
+    "english": "goat",
+    "spanish": "cabra",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 740,
+    "swahili": "punda",
+    "english": "donkey",
+    "spanish": "burro",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 741,
+    "swahili": "ngamia",
+    "english": "camel",
+    "spanish": "camello",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 742,
+    "swahili": "papa",
+    "english": "shark",
+    "spanish": "tiburón",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 743,
+    "swahili": "nyangumi",
+    "english": "whale",
+    "spanish": "ballena",
+    "category": "animals",
+    "level": "A1"
+  },
+  {
+    "id": 744,
+    "swahili": "kahawia",
+    "english": "brown",
+    "spanish": "marrón",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 745,
+    "swahili": "kijivu",
+    "english": "grey",
+    "spanish": "gris",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 746,
+    "swahili": "waridi",
+    "english": "pink",
+    "spanish": "rosa",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 747,
+    "swahili": "zambarau",
+    "english": "purple",
+    "spanish": "morado",
+    "category": "colors",
+    "level": "A1"
+  },
+  {
+    "id": 748,
+    "swahili": "duara",
+    "english": "circle",
+    "spanish": "círculo",
+    "category": "shapes",
+    "level": "A1"
+  },
+  {
+    "id": 749,
+    "swahili": "mstatili",
+    "english": "rectangle",
+    "spanish": "rectángulo",
+    "category": "shapes",
+    "level": "A1"
+  },
+  {
+    "id": 750,
+    "swahili": "pembetatu",
+    "english": "triangle",
+    "spanish": "triángulo",
+    "category": "shapes",
+    "level": "A1"
+  },
+  {
+    "id": 751,
+    "swahili": "ngazi",
+    "english": "stairs",
+    "spanish": "escaleras",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 752,
+    "swahili": "dari",
+    "english": "ceiling",
+    "spanish": "techo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 753,
+    "swahili": "gereji",
+    "english": "garage",
+    "spanish": "garaje",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 754,
+    "swahili": "lango",
+    "english": "gate",
+    "spanish": "portón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 755,
+    "swahili": "uzio",
+    "english": "fence",
+    "spanish": "valla",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 756,
+    "swahili": "bomba la moshi",
+    "english": "chimney",
+    "spanish": "chimenea",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 757,
+    "swahili": "ghorofa ya chini",
+    "english": "basement",
+    "spanish": "sótano",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 758,
+    "swahili": "roshani",
+    "english": "balcony",
+    "spanish": "balcón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 759,
+    "swahili": "pazia",
+    "english": "curtain",
+    "spanish": "cortina",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 760,
+    "swahili": "droo",
+    "english": "drawer",
+    "spanish": "cajón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 761,
+    "swahili": "kabati",
+    "english": "cupboard",
+    "spanish": "armario",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 762,
+    "swahili": "sinki",
+    "english": "sink",
+    "spanish": "fregadero",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 763,
+    "swahili": "choo",
+    "english": "toilet",
+    "spanish": "inodoro",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 764,
+    "swahili": "sabuni",
+    "english": "soap",
+    "spanish": "jabón",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 765,
+    "swahili": "ndoo",
+    "english": "bucket",
+    "spanish": "cubo",
+    "category": "house",
+    "level": "A1"
+  },
+  {
+    "id": 766,
+    "swahili": "sweta",
+    "english": "sweater",
+    "spanish": "jersey",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 767,
+    "swahili": "kaptura",
+    "english": "shorts",
+    "spanish": "pantalones cortos",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 768,
+    "swahili": "tai",
+    "english": "tie",
+    "spanish": "corbata",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 769,
+    "swahili": "mkanda",
+    "english": "belt",
+    "spanish": "cinturón",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 770,
+    "swahili": "mfuko",
+    "english": "pocket",
+    "spanish": "bolsillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 771,
+    "swahili": "ndara",
+    "english": "sandals",
+    "spanish": "sandalias",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 772,
+    "swahili": "kofia",
+    "english": "cap",
+    "spanish": "gorra",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 773,
+    "swahili": "mwavuli",
+    "english": "umbrella",
+    "spanish": "paraguas",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 774,
+    "swahili": "begi",
+    "english": "bag",
+    "spanish": "bolsa",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 775,
+    "swahili": "pete",
+    "english": "ring",
+    "spanish": "anillo",
+    "category": "clothes",
+    "level": "A1"
+  },
+  {
+    "id": 776,
+    "swahili": "shingo",
+    "english": "neck",
+    "spanish": "cuello",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 777,
+    "swahili": "kifua",
+    "english": "chest",
+    "spanish": "pecho",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 778,
+    "swahili": "kiwiko",
+    "english": "elbow",
+    "spanish": "codo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 779,
+    "swahili": "kifundo cha mkono",
+    "english": "wrist",
+    "spanish": "muñeca",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 780,
+    "swahili": "kifundo cha mguu",
+    "english": "ankle",
+    "spanish": "tobillo",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 781,
+    "swahili": "ngozi",
+    "english": "skin",
+    "spanish": "piel",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 782,
+    "swahili": "mfupa",
+    "english": "bone",
+    "spanish": "hueso",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 783,
+    "swahili": "ubongo",
+    "english": "brain",
+    "spanish": "cerebro",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 784,
+    "swahili": "uso",
+    "english": "face",
+    "spanish": "cara",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 785,
+    "swahili": "ulimi",
+    "english": "tongue",
+    "spanish": "lengua",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 786,
+    "swahili": "kidole gumba",
+    "english": "thumb",
+    "spanish": "pulgar",
+    "category": "body",
+    "level": "A1"
+  },
+  {
+    "id": 787,
+    "swahili": "dawa",
+    "english": "medicine",
+    "spanish": "medicina",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 788,
+    "swahili": "maumivu",
+    "english": "pain",
+    "spanish": "dolor",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 789,
+    "swahili": "homa",
+    "english": "fever",
+    "spanish": "fiebre",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 790,
+    "swahili": "kikohozi",
+    "english": "cough",
+    "spanish": "tos",
+    "category": "health",
+    "level": "A1"
+  },
+  {
+    "id": 791,
+    "swahili": "nanasi",
+    "english": "pineapple",
+    "spanish": "piña",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 792,
+    "swahili": "cheri",
+    "english": "cherry",
+    "spanish": "cereza",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 793,
+    "swahili": "plamu",
+    "english": "plum",
+    "spanish": "ciruela",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 794,
+    "swahili": "tikiti",
+    "english": "melon",
+    "spanish": "melón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 795,
+    "swahili": "kabichi",
+    "english": "cabbage",
+    "spanish": "col",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 796,
+    "swahili": "tango",
+    "english": "cucumber",
+    "spanish": "pepino",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 797,
+    "swahili": "mafuta",
+    "english": "oil",
+    "spanish": "aceite",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 798,
+    "swahili": "siki",
+    "english": "vinegar",
+    "spanish": "vinagre",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 799,
+    "swahili": "unga",
+    "english": "flour",
+    "spanish": "harina",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 800,
+    "swahili": "pasta",
+    "english": "pasta",
+    "spanish": "pasta",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 801,
+    "swahili": "mgahawa",
+    "english": "restaurant",
+    "spanish": "restaurante",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 802,
+    "swahili": "hoteli",
+    "english": "hotel",
+    "spanish": "hotel",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 803,
+    "swahili": "hospitali",
+    "english": "hospital",
+    "spanish": "hospital",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 804,
+    "swahili": "duka la dawa",
+    "english": "pharmacy",
+    "spanish": "farmacia",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 805,
+    "swahili": "duka la mkate",
+    "english": "bakery",
+    "spanish": "panadería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 806,
+    "swahili": "duka la nyama",
+    "english": "butcher",
+    "spanish": "carnicería",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 807,
+    "swahili": "sinema",
+    "english": "cinema",
+    "spanish": "cine",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 808,
+    "swahili": "mkahawa",
+    "english": "café",
+    "spanish": "café",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 809,
+    "swahili": "baa",
+    "english": "pub",
+    "spanish": "bar",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 810,
+    "swahili": "uwanja wa michezo",
+    "english": "stadium",
+    "spanish": "estadio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 811,
+    "swahili": "bustani ya wanyama",
+    "english": "zoo",
+    "spanish": "zoo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 812,
+    "swahili": "uwanja wa michezo ya watoto",
+    "english": "playground",
+    "spanish": "parque infantil",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 813,
+    "swahili": "maegesho",
+    "english": "car park",
+    "spanish": "aparcamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 814,
+    "swahili": "njia panda",
+    "english": "crossroads",
+    "spanish": "cruce",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 815,
+    "swahili": "jengo",
+    "english": "building",
+    "spanish": "edificio",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 816,
+    "swahili": "mnara",
+    "english": "tower",
+    "spanish": "torre",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 817,
+    "swahili": "kasri",
+    "english": "castle",
+    "spanish": "castillo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 818,
+    "swahili": "hekalu",
+    "english": "temple",
+    "spanish": "templo",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 819,
+    "swahili": "msikiti",
+    "english": "mosque",
+    "spanish": "mezquita",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 820,
+    "swahili": "jumba la mji",
+    "english": "town hall",
+    "spanish": "ayuntamiento",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 821,
+    "swahili": "posta",
+    "english": "post office",
+    "spanish": "oficina de correos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 822,
+    "swahili": "kituo cha polisi",
+    "english": "police station",
+    "spanish": "comisaría",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 823,
+    "swahili": "kituo cha zima moto",
+    "english": "fire station",
+    "spanish": "parque de bomberos",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 824,
+    "swahili": "kituo cha basi",
+    "english": "bus stop",
+    "spanish": "parada de autobús",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 825,
+    "swahili": "kituo cha mafuta",
+    "english": "petrol station",
+    "spanish": "gasolinera",
+    "category": "city",
+    "level": "A1"
+  },
+  {
+    "id": 826,
+    "swahili": "pikipiki",
+    "english": "motorbike",
+    "spanish": "moto",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 827,
+    "swahili": "teksi",
+    "english": "taxi",
+    "spanish": "taxi",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 828,
+    "swahili": "lori",
+    "english": "truck",
+    "spanish": "camión",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 829,
+    "swahili": "veni",
+    "english": "van",
+    "spanish": "furgoneta",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 830,
+    "swahili": "tramu",
+    "english": "tram",
+    "spanish": "tranvía",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 831,
+    "swahili": "meli",
+    "english": "ship",
+    "spanish": "buque",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 832,
+    "swahili": "helikopta",
+    "english": "helicopter",
+    "spanish": "helicóptero",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 833,
+    "swahili": "roketi",
+    "english": "rocket",
+    "spanish": "cohete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 834,
+    "swahili": "skuta",
+    "english": "scooter",
+    "spanish": "patinete",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 835,
+    "swahili": "feri",
+    "english": "ferry",
+    "spanish": "ferri",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 836,
+    "swahili": "reli",
+    "english": "railway",
+    "spanish": "ferrocarril",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 837,
+    "swahili": "barabara kuu",
+    "english": "motorway",
+    "spanish": "autopista",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 838,
+    "swahili": "handaki",
+    "english": "tunnel",
+    "spanish": "túnel",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 839,
+    "swahili": "gurudumu",
+    "english": "wheel",
+    "spanish": "rueda",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 840,
+    "swahili": "injini",
+    "english": "engine",
+    "spanish": "motor",
+    "category": "transport",
+    "level": "A1"
+  },
+  {
+    "id": 841,
+    "swahili": "mwanafunzi",
+    "english": "student",
+    "spanish": "estudiante",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 842,
+    "swahili": "darasa",
+    "english": "classroom",
+    "spanish": "aula",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 843,
+    "swahili": "somo",
+    "english": "lesson",
+    "spanish": "lección",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 844,
+    "swahili": "kazi ya nyumbani",
+    "english": "homework",
+    "spanish": "deberes",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 845,
+    "swahili": "penseli",
+    "english": "pencil",
+    "spanish": "lápiz",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 846,
+    "swahili": "daftari",
+    "english": "notebook",
+    "spanish": "cuaderno",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 847,
+    "swahili": "kifutio",
+    "english": "eraser",
+    "spanish": "goma",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 848,
+    "swahili": "rula",
+    "english": "ruler",
+    "spanish": "regla",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 849,
+    "swahili": "mkoba",
+    "english": "backpack",
+    "spanish": "mochila",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 850,
+    "swahili": "karatasi",
+    "english": "paper",
+    "spanish": "papel",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 851,
+    "swahili": "bibi",
+    "english": "grandmother",
+    "spanish": "abuela",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 852,
+    "swahili": "babu",
+    "english": "grandfather",
+    "spanish": "abuelo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 853,
+    "swahili": "shangazi",
+    "english": "aunt",
+    "spanish": "tía",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 854,
+    "swahili": "mjomba",
+    "english": "uncle",
+    "spanish": "tío",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 855,
+    "swahili": "binamu",
+    "english": "cousin",
+    "spanish": "primo",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 856,
+    "swahili": "mpwa",
+    "english": "nephew",
+    "spanish": "sobrino",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 857,
+    "swahili": "mpwa",
+    "english": "niece",
+    "spanish": "sobrina",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 858,
+    "swahili": "mume",
+    "english": "husband",
+    "spanish": "marido",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 859,
+    "swahili": "mke",
+    "english": "wife",
+    "spanish": "esposa",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 860,
+    "swahili": "wazazi",
+    "english": "parents",
+    "spanish": "padres",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 861,
+    "swahili": "mtoto mchanga",
+    "english": "baby",
+    "spanish": "bebé",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 862,
+    "swahili": "jirani",
+    "english": "neighbour",
+    "spanish": "vecino",
+    "category": "family",
+    "level": "A1"
+  },
+  {
+    "id": 863,
+    "swahili": "mwokaji",
+    "english": "baker",
+    "spanish": "panadero",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 864,
+    "swahili": "daktari wa meno",
+    "english": "dentist",
+    "spanish": "dentista",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 865,
+    "swahili": "daktari wa wanyama",
+    "english": "vet",
+    "spanish": "veterinario",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 866,
+    "swahili": "rubani",
+    "english": "pilot",
+    "spanish": "piloto",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 867,
+    "swahili": "askari",
+    "english": "soldier",
+    "spanish": "soldado",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 868,
+    "swahili": "mwanasayansi",
+    "english": "scientist",
+    "spanish": "científico",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 869,
+    "swahili": "mwandishi",
+    "english": "writer",
+    "spanish": "escritor",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 870,
+    "swahili": "mwimbaji",
+    "english": "singer",
+    "spanish": "cantante",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 871,
+    "swahili": "mcheza densi",
+    "english": "dancer",
+    "spanish": "bailarín",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 872,
+    "swahili": "mfundi nywele",
+    "english": "hairdresser",
+    "spanish": "peluquero",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 873,
+    "swahili": "fundi wa magari",
+    "english": "mechanic",
+    "spanish": "mecánico",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 874,
+    "swahili": "mzimamoto",
+    "english": "firefighter",
+    "spanish": "bombero",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 875,
+    "swahili": "mbunifu wa majengo",
+    "english": "architect",
+    "spanish": "arquitecto",
+    "category": "work",
+    "level": "A1"
+  },
+  {
+    "id": 876,
+    "swahili": "ndani ya",
+    "english": "in",
+    "spanish": "en",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 877,
+    "swahili": "juu ya",
+    "english": "on",
+    "spanish": "sobre",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 878,
+    "swahili": "chini ya",
+    "english": "under",
+    "spanish": "debajo",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 879,
+    "swahili": "juu ya",
+    "english": "over",
+    "spanish": "encima",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 880,
+    "swahili": "nyuma ya",
+    "english": "behind",
+    "spanish": "detrás",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 881,
+    "swahili": "mbele ya",
+    "english": "in front of",
+    "spanish": "delante de",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 882,
+    "swahili": "kati ya",
+    "english": "between",
+    "spanish": "entre",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 883,
+    "swahili": "kando ya",
+    "english": "next to",
+    "spanish": "al lado de",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 884,
+    "swahili": "karibu na",
+    "english": "near",
+    "spanish": "cerca de",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 885,
+    "swahili": "juu ya",
+    "english": "above",
+    "spanish": "arriba",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 886,
+    "swahili": "nini",
+    "english": "what",
+    "spanish": "qué",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 887,
+    "swahili": "nani",
+    "english": "who",
+    "spanish": "quién",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 888,
+    "swahili": "wapi",
+    "english": "where",
+    "spanish": "dónde",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 889,
+    "swahili": "lini",
+    "english": "when",
+    "spanish": "cuándo",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 890,
+    "swahili": "kwa nini",
+    "english": "why",
+    "spanish": "por qué",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 891,
+    "swahili": "vipi",
+    "english": "how",
+    "spanish": "cómo",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 892,
+    "swahili": "gani",
+    "english": "which",
+    "spanish": "cuál",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 893,
+    "swahili": "ya nani",
+    "english": "whose",
+    "spanish": "de quién",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 894,
+    "swahili": "kiasi gani",
+    "english": "how much",
+    "spanish": "cuánto",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 895,
+    "swahili": "ngapi",
+    "english": "how many",
+    "spanish": "cuántos",
+    "category": "questions",
+    "level": "A1"
+  },
+  {
+    "id": 896,
+    "swahili": "biskuti",
+    "english": "biscuit",
+    "spanish": "galleta",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 897,
+    "swahili": "jamu",
+    "english": "jam",
+    "spanish": "mermelada",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 898,
+    "swahili": "nafaka",
+    "english": "cereal",
+    "spanish": "cereales",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 899,
+    "swahili": "soseji",
+    "english": "sausage",
+    "spanish": "salchicha",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 900,
+    "swahili": "hamu",
+    "english": "ham",
+    "spanish": "jamón",
+    "category": "food",
+    "level": "A1"
+  },
+  {
+    "id": 901,
+    "swahili": "habari za mchana",
+    "english": "good afternoon",
+    "spanish": "buenas tardes",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 902,
+    "swahili": "karibu",
+    "english": "welcome",
+    "spanish": "bienvenido",
+    "category": "greetings",
+    "level": "A1"
+  },
+  {
+    "id": 903,
+    "swahili": "samahani",
+    "english": "excuse me",
+    "spanish": "disculpe",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 904,
+    "swahili": "si kitu",
+    "english": "you're welcome",
+    "spanish": "de nada",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 905,
+    "swahili": "nimefurahi kukutana nawe",
+    "english": "nice to meet you",
+    "spanish": "mucho gusto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 906,
+    "swahili": "tutaonana baadaye",
+    "english": "see you later",
+    "spanish": "hasta luego",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 907,
+    "swahili": "bila shaka",
+    "english": "of course",
+    "spanish": "por supuesto",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 908,
+    "swahili": "sijui",
+    "english": "I don't know",
+    "spanish": "no sé",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 909,
+    "swahili": "sielewi",
+    "english": "I don't understand",
+    "spanish": "no entiendo",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 910,
+    "swahili": "ni bei gani?",
+    "english": "how much is it?",
+    "spanish": "¿cuánto cuesta?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 911,
+    "swahili": "choo kiko wapi?",
+    "english": "where is the toilet?",
+    "spanish": "¿dónde está el baño?",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 912,
+    "swahili": "nakupenda",
+    "english": "I love you",
+    "spanish": "te quiero",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 913,
+    "swahili": "hongera",
+    "english": "congratulations",
+    "spanish": "felicidades",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 914,
+    "swahili": "bahati njema",
+    "english": "good luck",
+    "spanish": "buena suerte",
+    "category": "phrases",
+    "level": "A1"
+  },
+  {
+    "id": 915,
+    "swahili": "Jumatatu",
+    "english": "Monday",
+    "spanish": "lunes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 916,
+    "swahili": "Jumanne",
+    "english": "Tuesday",
+    "spanish": "martes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 917,
+    "swahili": "Jumatano",
+    "english": "Wednesday",
+    "spanish": "miércoles",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 918,
+    "swahili": "Alhamisi",
+    "english": "Thursday",
+    "spanish": "jueves",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 919,
+    "swahili": "Ijumaa",
+    "english": "Friday",
+    "spanish": "viernes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 920,
+    "swahili": "Jumamosi",
+    "english": "Saturday",
+    "spanish": "sábado",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 921,
+    "swahili": "Jumapili",
+    "english": "Sunday",
+    "spanish": "domingo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 922,
+    "swahili": "Januari",
+    "english": "January",
+    "spanish": "enero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 923,
+    "swahili": "Februari",
+    "english": "February",
+    "spanish": "febrero",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 924,
+    "swahili": "Machi",
+    "english": "March",
+    "spanish": "marzo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 925,
+    "swahili": "Aprili",
+    "english": "April",
+    "spanish": "abril",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 926,
+    "swahili": "Mei",
+    "english": "May",
+    "spanish": "mayo",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 927,
+    "swahili": "Juni",
+    "english": "June",
+    "spanish": "junio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 928,
+    "swahili": "Julai",
+    "english": "July",
+    "spanish": "julio",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 929,
+    "swahili": "Agosti",
+    "english": "August",
+    "spanish": "agosto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 930,
+    "swahili": "Septemba",
+    "english": "September",
+    "spanish": "septiembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 931,
+    "swahili": "Oktoba",
+    "english": "October",
+    "spanish": "octubre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 932,
+    "swahili": "Novemba",
+    "english": "November",
+    "spanish": "noviembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 933,
+    "swahili": "Desemba",
+    "english": "December",
+    "spanish": "diciembre",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 934,
+    "swahili": "asubuhi",
+    "english": "morning",
+    "spanish": "mañana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 935,
+    "swahili": "mchana",
+    "english": "afternoon",
+    "spanish": "tarde",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 936,
+    "swahili": "usiku",
+    "english": "night",
+    "spanish": "noche",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 937,
+    "swahili": "saa",
+    "english": "hour",
+    "spanish": "hora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 938,
+    "swahili": "dakika",
+    "english": "minute",
+    "spanish": "minuto",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 939,
+    "swahili": "wiki",
+    "english": "week",
+    "spanish": "semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 940,
+    "swahili": "mwezi",
+    "english": "month",
+    "spanish": "mes",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 941,
+    "swahili": "mwaka",
+    "english": "year",
+    "spanish": "año",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 942,
+    "swahili": "wikendi",
+    "english": "weekend",
+    "spanish": "fin de semana",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 943,
+    "swahili": "sasa",
+    "english": "now",
+    "spanish": "ahora",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 944,
+    "swahili": "siku",
+    "english": "day",
+    "spanish": "día",
+    "category": "time",
+    "level": "A1"
+  },
+  {
+    "id": 945,
+    "swahili": "ubao",
+    "english": "blackboard",
+    "spanish": "pizarra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 946,
+    "swahili": "ukurasa",
+    "english": "page",
+    "spanish": "página",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 947,
+    "swahili": "neno",
+    "english": "word",
+    "spanish": "palabra",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 948,
+    "swahili": "swali",
+    "english": "question",
+    "spanish": "pregunta",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 949,
+    "swahili": "kamusi",
+    "english": "dictionary",
+    "spanish": "diccionario",
+    "category": "education",
+    "level": "A1"
+  },
+  {
+    "id": 950,
+    "swahili": "na",
+    "english": "and",
+    "spanish": "y",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 951,
+    "swahili": "lakini",
+    "english": "but",
+    "spanish": "pero",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 952,
+    "swahili": "au",
+    "english": "or",
+    "spanish": "o",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 953,
+    "swahili": "kwa sababu",
+    "english": "because",
+    "spanish": "porque",
+    "category": "conjunctions",
+    "level": "A1"
+  },
+  {
+    "id": 954,
+    "swahili": "mimi",
+    "english": "I",
+    "spanish": "yo",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 955,
+    "swahili": "wewe",
+    "english": "you",
+    "spanish": "tú",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 956,
+    "swahili": "yeye",
+    "english": "he",
+    "spanish": "él",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 957,
+    "swahili": "yeye",
+    "english": "she",
+    "spanish": "ella",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 958,
+    "swahili": "hiyo",
+    "english": "it",
+    "spanish": "ello",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 959,
+    "swahili": "sisi",
+    "english": "we",
+    "spanish": "nosotros",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 960,
+    "swahili": "wao",
+    "english": "they",
+    "spanish": "ellos",
+    "category": "pronouns",
+    "level": "A1"
+  },
+  {
+    "id": 963,
+    "swahili": "hii",
+    "english": "this",
+    "spanish": "este",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 964,
+    "swahili": "hiyo",
+    "english": "that",
+    "spanish": "ese",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 965,
+    "swahili": "yangu",
+    "english": "my",
+    "spanish": "mi",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 966,
+    "swahili": "yako",
+    "english": "your",
+    "spanish": "tu",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 967,
+    "swahili": "yake",
+    "english": "his",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 968,
+    "swahili": "yake",
+    "english": "her",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 969,
+    "swahili": "yetu",
+    "english": "our",
+    "spanish": "nuestro",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 970,
+    "swahili": "yao",
+    "english": "their",
+    "spanish": "su",
+    "category": "determiners",
+    "level": "A1"
+  },
+  {
+    "id": 971,
+    "swahili": "na",
+    "english": "with",
+    "spanish": "con",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 972,
+    "swahili": "bila",
+    "english": "without",
+    "spanish": "sin",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 973,
+    "swahili": "kwa",
+    "english": "for",
+    "spanish": "para",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 974,
+    "swahili": "kutoka",
+    "english": "from",
+    "spanish": "de",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 975,
+    "swahili": "kwa",
+    "english": "to",
+    "spanish": "a",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 976,
+    "swahili": "katika",
+    "english": "at",
+    "spanish": "en",
+    "category": "prepositions",
+    "level": "A1"
+  },
+  {
+    "id": 977,
+    "swahili": "pia",
+    "english": "also",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 978,
+    "swahili": "pia",
+    "english": "too",
+    "spanish": "también",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 979,
+    "swahili": "sana",
+    "english": "very",
+    "spanish": "muy",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 980,
+    "swahili": "baadaye",
+    "english": "later",
+    "spanish": "después",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 981,
+    "swahili": "kisha",
+    "english": "then",
+    "spanish": "entonces",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 982,
+    "swahili": "labda",
+    "english": "maybe",
+    "spanish": "quizás",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 983,
+    "swahili": "hapa",
+    "english": "here",
+    "spanish": "aquí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 984,
+    "swahili": "pale",
+    "english": "there",
+    "spanish": "allí",
+    "category": "adverbs",
+    "level": "A1"
+  },
+  {
+    "id": 985,
+    "swahili": "hivyo",
+    "english": "so",
+    "spanish": "así que",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 986,
+    "swahili": "kama",
+    "english": "if",
+    "spanish": "si",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 987,
+    "swahili": "wakati",
+    "english": "while",
+    "spanish": "mientras",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 988,
+    "swahili": "tangu",
+    "english": "since",
+    "spanish": "desde",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 989,
+    "swahili": "ingawa",
+    "english": "although",
+    "spanish": "aunque",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 990,
+    "swahili": "hadi",
+    "english": "until",
+    "spanish": "hasta",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 991,
+    "swahili": "kabla",
+    "english": "before",
+    "spanish": "antes",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 992,
+    "swahili": "baada",
+    "english": "after",
+    "spanish": "después",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 993,
+    "swahili": "wakati",
+    "english": "during",
+    "spanish": "durante",
+    "category": "conjunctions",
+    "level": "A2"
+  },
+  {
+    "id": 994,
+    "swahili": "tu",
+    "english": "only",
+    "spanish": "solo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 995,
+    "swahili": "tu",
+    "english": "just",
+    "spanish": "justo",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 996,
+    "swahili": "kweli",
+    "english": "really",
+    "spanish": "realmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 997,
+    "swahili": "tayari",
+    "english": "already",
+    "spanish": "ya",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 998,
+    "swahili": "bado",
+    "english": "still",
+    "spanish": "todavía",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 999,
+    "swahili": "hivi karibuni",
+    "english": "soon",
+    "spanish": "pronto",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1000,
+    "swahili": "wakati mwingine",
+    "english": "sometimes",
+    "spanish": "a veces",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1001,
+    "swahili": "kwa kawaida",
+    "english": "usually",
+    "spanish": "normalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1002,
+    "swahili": "hatimaye",
+    "english": "finally",
+    "spanish": "finalmente",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1003,
+    "swahili": "pamoja",
+    "english": "together",
+    "spanish": "juntos",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1004,
+    "swahili": "karibu",
+    "english": "almost",
+    "spanish": "casi",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1005,
+    "swahili": "bado",
+    "english": "yet",
+    "spanish": "aún",
+    "category": "adverbs",
+    "level": "A2"
+  },
+  {
+    "id": 1006,
+    "swahili": "kwa",
+    "english": "by",
+    "spanish": "por",
+    "category": "prepositions",
+    "level": "A2"
+  },
+  {
+    "id": 1007,
+    "swahili": "kuhusu",
+    "english": "about",
+    "spanish": "sobre",
+    "category": "prepositions",
+    "level": "A2"
+  }
+]
