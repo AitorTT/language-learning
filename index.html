@@ -299,6 +299,7 @@
 
   /* ---------- Dinosaur game ---------- */
   .game-wrap { background: var(--card); border-radius: 16px; padding: 14px 16px 16px; box-shadow: var(--shadow); }
+  .game-pick { display: flex; gap: 8px; justify-content: center; margin-bottom: 12px; }
   .dino-hud {
     display: flex; align-items: center; justify-content: center; gap: 16px;
     min-height: 58px; margin-bottom: 12px; transition: opacity 0.18s;
@@ -311,7 +312,7 @@
   .dino-tr-label { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-bottom: 3px; }
   .dino-sep { font-size: 22px; color: var(--muted); flex: none; }
   .game-stage { position: relative; }
-  #dinoCanvas { display: block; width: 100%; height: 220px; border-radius: 12px; touch-action: none; cursor: pointer; }
+  #dinoCanvas, #flappyCanvas { display: block; width: 100%; height: 220px; border-radius: 12px; touch-action: none; cursor: pointer; }
   .game-over {
     position: absolute; inset: 0; display: none; flex-direction: column; align-items: center;
     justify-content: center; gap: 6px; padding: 12px; text-align: center;
@@ -402,6 +403,10 @@
 
   <section class="panel" id="panel-game">
     <div class="game-wrap">
+      <div class="game-pick" id="gamePick">
+        <button class="pill on" id="pickDino" aria-pressed="true">Dino</button>
+        <button class="pill" id="pickFlappy" aria-pressed="false">Flappy</button>
+      </div>
       <div class="dino-hud" id="dinoHud">
         <div class="dino-side">
           <div class="dino-term" id="dinoTerm" dir="auto"></div>
@@ -415,10 +420,16 @@
       </div>
       <div class="game-stage">
         <canvas id="dinoCanvas"></canvas>
+        <canvas id="flappyCanvas" style="display:none"></canvas>
         <div class="game-over" id="dinoOver">
           <h3>Game over</h3>
           <p id="dinoOverText"></p>
           <p>Press Space, tap the canvas, or hit Jump to play again.</p>
+        </div>
+        <div class="game-over" id="flappyOver">
+          <h3>Game over</h3>
+          <p id="flappyOverText"></p>
+          <p>Press Space, tap the canvas, or hit Flap to play again.</p>
         </div>
       </div>
       <div class="game-bar">
@@ -427,6 +438,7 @@
           <button class="pill" id="dinoAuto" aria-pressed="false">Autoplay: off</button>
           <button class="pill" id="dinoJump">Jump</button>
           <button class="pill" id="dinoDuck">Duck</button>
+          <button class="pill" id="flappyFlap" style="display:none">Flap</button>
         </div>
       </div>
     </div>
@@ -1017,7 +1029,7 @@
   /* ---------- Tabs & levels ---------- */
   function setTab(t) {
     stopSpeech();
-    if (tab === "game" && t !== "game") dinoStop();
+    if (tab === "game" && t !== "game") { dinoStop(); flappyStop(); }
     tab = t;
     document.querySelectorAll("#tabs button").forEach(b => b.classList.toggle("active", b.dataset.tab === t));
     document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
@@ -1110,6 +1122,7 @@
     W: 600, H: DINO_H, groundY: DINO_H - 26,
     dino: { x: 34, y: 0, vy: 0, w: 34, h: 38, duck: false, onGround: true, phase: 0 },
     obstacles: [], clouds: [], spawnTimer: 0.9, wordTimer: 0, pool: [], word: null,
+    stop: dinoStop, loop: dinoLoop,
   };
   let dinoAutoplay = false;
   try {
@@ -1133,11 +1146,7 @@
     return (lang.targets || []).find(x => x.code === "en") || (lang.targets || [])[0] || null;
   }
 
-  function dinoNextWord() {
-    if (!dinoGame.pool.length) dinoGame.pool = shuffle(DATA.words.filter(w => level === "all" || w.level === level));
-    const w = dinoGame.pool.pop();
-    if (!w) return;
-    dinoGame.word = w;
+  function hudShowWord(w) {
     const pron = w.ipa ? `/${w.ipa}/` : (w.pinyin || w.romaji || w.translit || "");
     const target = dinoTarget();
     document.getElementById("dinoTrLabel").textContent = target ? target.label : "";
@@ -1148,6 +1157,15 @@
     document.getElementById("dinoTr").textContent = target ? (w[target.field] || "") : "";
     dinoHud.classList.add("swap");
     setTimeout(() => dinoHud.classList.remove("swap"), 200);
+  }
+
+  function dinoNextWord() {
+    if (!dinoGame.pool.length) dinoGame.pool = shuffle(DATA.words.filter(w => level === "all" || w.level === level));
+    const w = dinoGame.pool.pop();
+    if (!w) return;
+    dinoGame.word = w;
+    gameWord = w;
+    hudShowWord(w);
     dinoSpeakWord(w);
   }
 
@@ -1393,17 +1411,26 @@
   }
 
   function renderGame() {
-    dinoResize();
-    if (!dinoGame.running && !dinoGame.over) dinoStart();
-    else dinoDraw();
+    if (gameMode === "flappy") {
+      flappyResize();
+      if (!flappyGame.running && !flappyGame.over) flappyStart();
+      else flappyDraw();
+    } else {
+      dinoResize();
+      if (!dinoGame.running && !dinoGame.over) dinoStart();
+      else dinoDraw();
+    }
   }
 
   document.getElementById("dinoJump").addEventListener("click", dinoJump);
+  document.getElementById("flappyFlap").addEventListener("click", flappyFlap);
+  document.getElementById("pickDino").addEventListener("click", () => setGameMode("dino"));
+  document.getElementById("pickFlappy").addEventListener("click", () => setGameMode("flappy"));
   document.getElementById("dinoAuto").addEventListener("click", () => {
     dinoAutoplay = !dinoAutoplay;
     try { localStorage.setItem("pv_dino_auto", dinoAutoplay ? "1" : "0"); } catch (err) {}
     dinoUpdateAutoBtn();
-    if (dinoAutoplay) dinoSpeakWord(dinoGame.word);
+    if (dinoAutoplay) dinoSpeakWord(gameWord);
     else stopSpeech();
   });
   dinoUpdateAutoBtn();
@@ -1417,28 +1444,299 @@
     if (tab !== "game" || e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
     if (e.key === " " || e.key === "ArrowUp" || e.key === "Enter" || e.key === "w" || e.key === "W") {
       e.preventDefault();
-      dinoJump();
-    } else if (e.key === "ArrowDown" || e.key === "s" || e.key === "S") {
+      gameAction();
+    } else if (gameMode === "dino" && (e.key === "ArrowDown" || e.key === "s" || e.key === "S")) {
       e.preventDefault();
       dinoSetDuck(true);
     }
   });
   document.addEventListener("keyup", (e) => {
-    if (tab !== "game") return;
+    if (tab !== "game" || gameMode !== "dino") return;
     if (e.key === "ArrowDown" || e.key === "s" || e.key === "S") dinoSetDuck(false);
   });
-  window.addEventListener("resize", () => { if (tab === "game") dinoResize(); });
+  window.addEventListener("resize", () => { if (tab === "game") { dinoResize(); flappyResize(); } });
   document.addEventListener("visibilitychange", () => {
+    const g = gameMode === "flappy" ? flappyGame : dinoGame;
     if (document.hidden) {
-      if (dinoGame.running) { dinoStop(); dinoGame.paused = true; }
-    } else if (tab === "game" && dinoGame.paused) {
-      dinoGame.paused = false;
-      dinoGame.running = true;
-      dinoGame.last = performance.now();
-      cancelAnimationFrame(dinoGame.raf);
-      dinoGame.raf = requestAnimationFrame(dinoLoop);
+      if (g.running) { g.stop(); g.paused = true; }
+    } else if (tab === "game" && g.paused) {
+      g.paused = false;
+      g.running = true;
+      g.last = performance.now();
+      cancelAnimationFrame(g.raf);
+      g.raf = requestAnimationFrame(g.loop);
     }
   });
+
+  /* ---------- Flappy game ---------- */
+  const flappyCanvas = document.getElementById("flappyCanvas");
+  const flappyCtx = flappyCanvas.getContext("2d");
+  const FLAPPY_H = 220;
+  const FLAPPY_GRAVITY = 1350;   // constant
+  const FLAPPY_FLAP_V = -390;    // constant impulse
+  const FLAPPY_SPEED = 150;      // constant scroll speed (never accelerates)
+  const FLAPPY_GAP = 90;
+  const FLAPPY_PIPE_W = 46;
+  const FLAPPY_SPACING = 200;    // px between pipes
+  const FLAPPY_WORD_SECONDS = 5;
+
+  const flappyGame = {
+    raf: null, last: 0, running: false, paused: false, over: false, waiting: false,
+    speed: FLAPPY_SPEED, distance: 0, score: 0, hi: 0,
+    W: 600, H: FLAPPY_H, groundY: FLAPPY_H - 22,
+    bird: { x: 92, y: 0, vy: 0, w: 26, h: 20, flap: 0 },
+    pipes: [], clouds: [], spawnTimer: 0.6, wordTimer: 0, pool: [], word: null,
+    stop: flappyStop, loop: flappyLoop,
+  };
+  let gameMode = "dino";
+  let gameWord = null;
+  try { flappyGame.hi = parseInt(localStorage.getItem("pv_flappy_hi") || "0", 10) || 0; } catch (err) {}
+
+  function rectHit(a, b) {
+    return a.x < b.x + b.w && a.x + a.w > b.x && a.y < b.y + b.h && a.y + a.h > b.y;
+  }
+
+  function flappyResize() {
+    const w = flappyCanvas.clientWidth || 600;
+    const dpr = window.devicePixelRatio || 1;
+    flappyCanvas.width = Math.round(w * dpr);
+    flappyCanvas.height = Math.round(FLAPPY_H * dpr);
+    flappyCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    flappyGame.W = w;
+    flappyGame.groundY = FLAPPY_H - 22;
+  }
+
+  function flappyNextWord() {
+    if (!flappyGame.pool.length) flappyGame.pool = shuffle(DATA.words.filter(w => level === "all" || w.level === level));
+    const w = flappyGame.pool.pop();
+    if (!w) return;
+    flappyGame.word = w;
+    gameWord = w;
+    hudShowWord(w);
+    dinoSpeakWord(w);
+  }
+
+  function flappyUpdateScore() {
+    document.getElementById("dinoScore").textContent = `Score ${flappyGame.score} · Best ${flappyGame.hi}`;
+  }
+
+  function flappyReset() {
+    const g = flappyGame;
+    g.over = false;
+    g.waiting = true;
+    g.speed = FLAPPY_SPEED;
+    g.distance = 0;
+    g.score = 0;
+    g.pipes = [];
+    g.spawnTimer = 0.6;
+    g.wordTimer = 0;
+    g.clouds = [{ x: 140, y: 46, s: 12 }, { x: 440, y: 80, s: 9 }];
+    const b = g.bird;
+    b.y = g.H * 0.4;
+    b.vy = 0;
+    b.flap = 0;
+    g.pool = shuffle(DATA.words.filter(w => level === "all" || w.level === level));
+    flappyNextWord();
+    document.getElementById("flappyOver").classList.remove("show");
+    flappyUpdateScore();
+  }
+
+  function flappyStart() {
+    flappyResize();
+    flappyReset();
+    flappyGame.running = true;
+    flappyGame.paused = false;
+    flappyGame.last = performance.now();
+    cancelAnimationFrame(flappyGame.raf);
+    flappyGame.raf = requestAnimationFrame(flappyLoop);
+  }
+
+  function flappyStop() {
+    flappyGame.running = false;
+    cancelAnimationFrame(flappyGame.raf);
+    flappyGame.raf = null;
+  }
+
+  function flappyLoop(now) {
+    if (!flappyGame.running) return;
+    let dt = (now - flappyGame.last) / 1000;
+    flappyGame.last = now;
+    if (!(dt > 0)) dt = 0.016;
+    if (dt > 0.05) dt = 0.05;
+    flappyUpdate(dt);
+    flappyDraw();
+    flappyGame.raf = requestAnimationFrame(flappyLoop);
+  }
+
+  function flappyFlap() {
+    if (flappyGame.over) { flappyStart(); return; }
+    if (flappyGame.waiting) { flappyGame.waiting = false; flappyGame.last = performance.now(); }
+    const b = flappyGame.bird;
+    b.vy = FLAPPY_FLAP_V;
+    b.flap = 0.22;
+  }
+
+  function flappySpawn() {
+    const g = flappyGame;
+    const gap = FLAPPY_GAP;
+    const minY = 26;
+    const maxY = Math.max(minY + 10, g.groundY - gap - 26);
+    const gapY = minY + Math.random() * (maxY - minY);
+    g.pipes.push({ x: g.W + FLAPPY_PIPE_W, gapY, w: FLAPPY_PIPE_W, gapH: gap, scored: false });
+  }
+
+  function flappyUpdate(dt) {
+    const g = flappyGame;
+    if (g.waiting) return;
+    const b = g.bird;
+    const move = g.speed * dt;
+    g.distance += move;
+
+    g.wordTimer -= dt;
+    if (g.wordTimer <= 0) { flappyNextWord(); g.wordTimer = FLAPPY_WORD_SECONDS; }
+
+    b.vy += FLAPPY_GRAVITY * dt;
+    b.y += b.vy * dt;
+    if (b.flap > 0) b.flap -= dt;
+    if (b.y < 0) { b.y = 0; b.vy = 0; }
+    if (b.y + b.h >= g.groundY) { b.y = g.groundY - b.h; flappyGameOver(); return; }
+
+    g.spawnTimer -= dt;
+    if (g.spawnTimer <= 0) { flappySpawn(); g.spawnTimer = FLAPPY_SPACING / g.speed; }
+    for (const p of g.pipes) p.x -= move;
+    g.pipes = g.pipes.filter(p => p.x + p.w > -8);
+
+    const bb = { x: b.x + 3, y: b.y + 3, w: b.w - 6, h: b.h - 6 };
+    for (const p of g.pipes) {
+      if (!p.scored && p.x + p.w < b.x) { p.scored = true; g.score += 1; }
+      const top = { x: p.x, y: 0, w: p.w, h: p.gapY };
+      const bot = { x: p.x, y: p.gapY + p.gapH, w: p.w, h: g.groundY - (p.gapY + p.gapH) };
+      if (rectHit(bb, top) || rectHit(bb, bot)) { flappyGameOver(); return; }
+    }
+
+    for (const c of g.clouds) {
+      c.x -= dt * 14 * c.s;
+      if (c.x < -60) { c.x = g.W + 40 + Math.random() * 140; c.y = 26 + Math.random() * 60; }
+    }
+    flappyUpdateScore();
+  }
+
+  function flappyGameOver() {
+    const g = flappyGame;
+    g.over = true;
+    g.running = false;
+    cancelAnimationFrame(g.raf);
+    const sc = g.score;
+    if (sc > g.hi) {
+      g.hi = sc;
+      try { localStorage.setItem("pv_flappy_hi", String(sc)); } catch (err) {}
+    }
+    document.getElementById("flappyOverText").textContent = `Score ${sc} · Best ${g.hi}`;
+    document.getElementById("flappyOver").classList.add("show");
+    flappyUpdateScore();
+    flappyDraw();
+  }
+
+  function flappyDrawPipe(p) {
+    const ctx = flappyCtx;
+    const g = flappyGame;
+    const bottomY = p.gapY + p.gapH;
+    const bottomH = g.groundY - bottomY;
+    ctx.fillStyle = "#4caf50";
+    ctx.fillRect(p.x, 0, p.w, p.gapY);
+    ctx.fillRect(p.x, bottomY, p.w, bottomH);
+    ctx.fillStyle = "#3d8b40";
+    ctx.fillRect(p.x - 4, Math.max(0, p.gapY - 14), p.w + 8, 14);
+    ctx.fillRect(p.x - 4, bottomY, p.w + 8, 14);
+    ctx.fillStyle = "rgba(255,255,255,0.22)";
+    ctx.fillRect(p.x + 7, 0, 5, Math.max(0, p.gapY - 14));
+    ctx.fillRect(p.x + 7, bottomY + 14, 5, Math.max(0, bottomH - 14));
+  }
+
+  function flappyDrawBird(b) {
+    const ctx = flappyCtx;
+    ctx.save();
+    ctx.translate(b.x + b.w / 2, b.y + b.h / 2);
+    ctx.rotate(Math.max(-0.5, Math.min(0.9, b.vy / 900)));
+    ctx.fillStyle = "#f2b705";
+    ctx.beginPath();
+    ctx.ellipse(0, 0, b.w / 2, b.h / 2, 0, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = "#e09a04";
+    ctx.beginPath();
+    ctx.ellipse(-3, b.flap > 0 ? -6 : 5, 8, 5, b.flap > 0 ? -0.3 : 0.3, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = "#fff";
+    ctx.beginPath(); ctx.arc(6, -3, 3.2, 0, Math.PI * 2); ctx.fill();
+    ctx.fillStyle = "#222";
+    ctx.beginPath(); ctx.arc(7, -3, 1.6, 0, Math.PI * 2); ctx.fill();
+    ctx.fillStyle = "#e86a17";
+    ctx.beginPath(); ctx.moveTo(11, 0); ctx.lineTo(18, 3); ctx.lineTo(11, 6); ctx.closePath(); ctx.fill();
+    ctx.restore();
+  }
+
+  function flappyDraw() {
+    const g = flappyGame;
+    const ctx = flappyCtx;
+    ctx.clearRect(0, 0, g.W, g.H);
+    ctx.fillStyle = "#eaf6ff";
+    ctx.fillRect(0, 0, g.W, g.H);
+    ctx.fillStyle = "#dbe9f7";
+    for (const c of g.clouds) {
+      ctx.beginPath();
+      ctx.arc(c.x, c.y, 8, 0, Math.PI * 2);
+      ctx.arc(c.x + 10, c.y + 2, 6, 0, Math.PI * 2);
+      ctx.arc(c.x - 10, c.y + 2, 6, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    for (const p of g.pipes) flappyDrawPipe(p);
+    ctx.strokeStyle = "#bcd2e0";
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(0, g.groundY + 1);
+    ctx.lineTo(g.W, g.groundY + 1);
+    ctx.stroke();
+    ctx.fillStyle = "#cfe0ee";
+    const off = g.distance % 40;
+    for (let px = -off; px < g.W; px += 40) ctx.fillRect(px, g.groundY + 7, 12, 2);
+    flappyDrawBird(g.bird);
+    if (g.waiting) {
+      ctx.fillStyle = "rgba(47,53,66,0.72)";
+      ctx.font = "700 15px system-ui, -apple-system, sans-serif";
+      ctx.textAlign = "center";
+      ctx.fillText("Tap or press Space to start", g.W / 2, g.H / 2 - 34);
+    }
+    ctx.fillStyle = "#8a90a6";
+    ctx.font = "600 13px system-ui, -apple-system, sans-serif";
+    ctx.textAlign = "right";
+    ctx.fillText(String(Math.floor(g.score)).padStart(5, "0"), g.W - 12, 22);
+  }
+
+  function gameAction() { if (gameMode === "flappy") flappyFlap(); else dinoJump(); }
+
+  function setGameMode(m) {
+    if (m === gameMode) return;
+    gameMode = m;
+    const isFlappy = m === "flappy";
+    document.getElementById("pickDino").classList.toggle("on", !isFlappy);
+    document.getElementById("pickFlappy").classList.toggle("on", isFlappy);
+    document.getElementById("pickDino").setAttribute("aria-pressed", isFlappy ? "false" : "true");
+    document.getElementById("pickFlappy").setAttribute("aria-pressed", isFlappy ? "true" : "false");
+    dinoCanvas.style.display = isFlappy ? "none" : "";
+    flappyCanvas.style.display = isFlappy ? "" : "none";
+    document.getElementById("dinoJump").style.display = isFlappy ? "none" : "";
+    document.getElementById("dinoDuck").style.display = isFlappy ? "none" : "";
+    document.getElementById("flappyFlap").style.display = isFlappy ? "" : "none";
+    dinoStop();
+    flappyStop();
+    document.getElementById("dinoOver").classList.remove("show");
+    document.getElementById("flappyOver").classList.remove("show");
+    stopSpeech();
+    renderGame();
+  }
+
+  flappyCanvas.addEventListener("pointerdown", (e) => { e.preventDefault(); flappyFlap(); });
+  document.getElementById("flappyOver").addEventListener("pointerdown", (e) => { e.preventDefault(); flappyFlap(); });
 
   /* ---------- Events ---------- */
   document.querySelectorAll("#tabs button").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
