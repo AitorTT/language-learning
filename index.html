@@ -536,6 +536,100 @@
         || null;
   }
 
+  /* ---------- Speech fallback for languages with no installed voice ----------
+     Browsers ship voices for only a handful of languages. For the rest we
+     transliterate the text into the orthography of a host voice that shares the
+     needed sounds, so the audio is at least in the right phonetic ballpark
+     instead of silently falling back to English. */
+
+  // Basque -> Spanish.
+  // Basque distinguishes laminal z [s̻] from apical s [s̺]; Spanish has only one
+  // /s/, so both collapse correctly to Spanish "s" (this is the standard
+  // approximation - s is not "sh").
+  //   z -> s      (laminal [s̻])
+  //   s -> s      (apical [s̺], closest Spanish s)
+  //   x -> sh     ([ʃ])
+  //   tx -> ch    ([tʃ])
+  //   tz -> ts    ([ts̻])
+  //   ts -> ts    ([ts̺])
+  //   j -> y      (standard Basque [j])
+  //   -in- -> ñ   (palatalised n, e.g. baina)
+  function basqueForSpanish(s) {
+    return String(s)
+      .replace(/tx/gi, "ch")
+      .replace(/tz/gi, "ts")
+      .replace(/ts/gi, "ts")
+      .replace(/z/gi, "s")
+      .replace(/x/gi, "sh")
+      .replace(/j/gi, "y")
+      .replace(/ll/gi, "ll");
+  }
+
+  // Georgian -> Russian. Georgian has an exact Cyrillic-like consonant set;
+  // we transliterate Georgian letters to Russian letters (Russian voice reads
+  // them with the right places of articulation, including ejectives as
+  // aspirated/plain stops, which is much closer than English).
+  const KA_TO_RU = {
+    "ა":"а","ბ":"б","გ":"г","დ":"д","ე":"е","ვ":"в","ზ":"з","თ":"т","ი":"и",
+    "კ":"к","ლ":"л","მ":"м","ნ":"н","ო":"о","პ":"п","ჟ":"ж","რ":"р","ს":"с",
+    "ტ":"т","უ":"у","ფ":"ф","ქ":"к","ღ":"г","ყ":"к","შ":"ш","ჩ":"ч","ც":"ц",
+    "ძ":"дз","წ":"ц","ჭ":"ч","ხ":"х","ჯ":"дж","ჰ":"г"
+  };
+  function georgianForRussian(s) {
+    return Array.from(String(s)).map(ch => KA_TO_RU[ch] || ch).join("");
+  }
+
+  // Swahili -> Italian. Swahili has a clean 5-vowel system and fixed penultimate
+  // stress; Italian reads its spelling near-identically (a e i o u as in Spanish,
+  // every letter pronounced). Only the digraphs need adjusting.
+  function swahiliForItalian(s) {
+    // Italian c/g are hard before a o u and soft before e i, so the digraph
+    // spellings have to insert the right vowel:
+    //   ch=[tʃ] -> "ci"+vowel (or ci before a consonant)
+    //   sh=[ʃ]  -> "sci"+vowel
+    //   gh=[ɣ]  -> hard g (drop h)
+    return String(s)
+      .replace(/ng'/gi, "ng")
+      // sh=[ʃ]: Italian "sc" is soft only before e/i, so insert i before a o u.
+      .replace(/sh([aeou])/gi, (m, v) => "sci" + v)
+      .replace(/sh([ei])/gi, (m, v) => "sc" + v)
+      .replace(/sh/gi, "sci")
+      // ch=[tʃ]: Italian "c" is soft only before e/i.
+      .replace(/ch([aeou])/gi, (m, v) => "ci" + v)
+      .replace(/ch([ei])/gi, (m, v) => "c" + v)
+      .replace(/ch/gi, "ci")
+      .replace(/gh/gi, "g")
+      .replace(/dh/gi, "d")
+      .replace(/th/gi, "t")
+      // ny=[ɲ]
+      .replace(/ny([aeou])/gi, (m, v) => "gn" + v)
+      .replace(/ny([ei])/gi, (m, v) => "gn" + v)
+      .replace(/ny/gi, "gni")
+      .replace(/y/gi, "i")
+      .replace(/w/gi, "u");
+  }
+
+  // lang code -> { locale, transform }: used only when the real voice is absent.
+  const SPEECH_FALLBACK = {
+    eu: { locale: "es-ES", transform: basqueForSpanish },
+    ka: { locale: "ru-RU", transform: georgianForRussian },
+    uk: { locale: "ru-RU", transform: null },
+    bg: { locale: "ru-RU", transform: null },
+    sr: { locale: "ru-RU", transform: null },
+    sw: { locale: "it-IT", transform: swahiliForItalian },
+  };
+
+  function speechTarget(code, text) {
+    const cfg = LANG_BY_CODE[code];
+    const locale = (cfg && cfg.speech) || "en-US";
+    if (pickVoice(locale)) return { text, locale, voice: pickVoice(locale), fallback: false };
+    const fb = SPEECH_FALLBACK[code];
+    if (!fb) return { text, locale, voice: null, fallback: false };
+    const host = fb.locale;
+    const t = fb.transform ? fb.transform(text) : text;
+    return { text: t, locale: host, voice: pickVoice(host), fallback: true };
+  }
+
   function stopSpeech() {
     if (speechSupported() && (window.speechSynthesis.speaking || window.speechSynthesis.pending)) {
       window.speechSynthesis.cancel();
@@ -552,12 +646,10 @@
     const wasActive = !!btn && currentSpeechBtn === btn;
     stopSpeech();
     if (wasActive) return;
-    const cfg = LANG_BY_CODE[code];
-    const locale = (cfg && cfg.speech) || "en-US";
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = locale;
-    const v = pickVoice(locale);
-    if (v) u.voice = v;
+    const t = speechTarget(code, text);
+    const u = new SpeechSynthesisUtterance(t.text);
+    u.lang = t.locale;
+    if (t.voice) u.voice = t.voice;
     const finish = () => { if (currentSpeechBtn === btn) stopSpeech(); };
     u.onend = finish;
     u.onerror = finish;
