@@ -542,6 +542,73 @@
      needed sounds, so the audio is at least in the right phonetic ballpark
      instead of silently falling back to English. */
 
+  // ---- Basque syllabifier -------------------------------------------------
+  // Digraphs tx tz ts ll rr dd are single consonantal units. Only FALLING
+  // diphthongs (vowel + i/u) form one syllable in Basque; rising sequences are
+  // separate: mendia = men-di-a, txistularia = txis-tu-la-ri-a.
+  const EU_DIGRAPHS = ["tx", "tz", "ts", "ll", "rr", "dd"];
+  const EU_FALLING = ["ai", "au", "ei", "eu", "oi", "ou", "ui"];
+
+  function euUnits(w) {
+    const atoms = [];
+    for (let i = 0; i < w.length;) {
+      const two = w.slice(i, i + 2);
+      if (two.length === 2 && EU_DIGRAPHS.indexOf(two.toLowerCase()) >= 0) {
+        atoms.push(two); i += 2;
+      } else { atoms.push(w[i]); i += 1; }
+    }
+    const merged = [];
+    for (let i = 0; i < atoms.length;) {
+      const a = atoms[i], b = atoms[i + 1];
+      if (b && /[aeiou]/i.test(a) && /[aeiou]/i.test(b) &&
+          EU_FALLING.indexOf((a + b).toLowerCase()) >= 0) {
+        merged.push(a + b); i += 2;
+      } else { merged.push(a); i += 1; }
+    }
+    return merged;
+  }
+
+  function euIsNucleus(a) { return /^[aeiou]+$/i.test(a); }
+
+  function euSyllables(w) {
+    const atoms = euUnits(w);
+    const vi = [];
+    atoms.forEach((a, i) => { if (euIsNucleus(a)) vi.push(i); });
+    if (!vi.length) return [w];
+    const out = [];
+    let start = 0;
+    vi.forEach((v, n) => {
+      if (n === vi.length - 1) { out.push(atoms.slice(start).join("")); return; }
+      const between = atoms.slice(v + 1, vi[n + 1]);
+      if (between.length <= 1) { out.push(atoms.slice(start, v + 1).join("")); start = v + 1; }
+      else {
+        const coda = between.slice(0, -1).length;
+        out.push(atoms.slice(start, v + 1 + coda).join(""));
+        start = v + 1 + coda;
+      }
+    });
+    return out;
+  }
+
+  // Standard Basque rule I: stress falls on the SECOND syllable.
+  // (Rules II and III - marked words and phrase-final secondary stress - are
+  // lexical/phrasal exceptions and are deliberately not guessed at here.)
+  const EU_ACCENT = { a: "\u00e1", e: "\u00e9", i: "\u00ed", o: "\u00f3", u: "\u00fa" };
+
+  function euStressWord(word) {
+    const sy = euSyllables(word);
+    if (sy.length < 2) return word;
+    const idx = 1;
+    let s = sy[idx];
+    for (let j = s.length - 1; j >= 0; j--) {
+      const c = s[j].toLowerCase();
+      if (EU_ACCENT[c]) { s = s.slice(0, j) + (s[j] === c ? EU_ACCENT[c] : EU_ACCENT[c]) + s.slice(j + 1); break; }
+    }
+    const out = sy.slice();
+    out[idx] = s;
+    return out.join("");
+  }
+
   // Basque -> Spanish.
   // Basque distinguishes laminal z [s̻] from apical s [s̺]; Spanish has only one
   // /s/, so both collapse correctly to Spanish "s" (this is the standard
@@ -553,16 +620,22 @@
   //   tz -> ts    ([ts̻])
   //   ts -> ts    ([ts̺])
   //   j -> y      (standard Basque [j])
-  //   -in- -> ñ   (palatalised n, e.g. baina)
   function basqueForSpanish(s) {
     return String(s)
+      .split(/\s+/)
+      .map(word => {
+        const bare = word.replace(/[^A-Za-z\u00c0-\u024f]/g, "");
+        if (!bare) return word;
+        const stressed = euStressWord(bare);
+        return word.replace(bare, stressed);
+      })
+      .join(" ")
       .replace(/tx/gi, "ch")
       .replace(/tz/gi, "ts")
       .replace(/ts/gi, "ts")
       .replace(/z/gi, "s")
       .replace(/x/gi, "sh")
-      .replace(/j/gi, "y")
-      .replace(/ll/gi, "ll");
+      .replace(/j/gi, "y");
   }
 
   // Georgian -> Russian. Georgian has an exact Cyrillic-like consonant set;
